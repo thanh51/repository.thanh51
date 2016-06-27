@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+	<channel>
+	<items>
+
+<item>
+<title>[COLOR deepskyblue][B]Update ngày 26/06/2016[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/</link>
+<thumbnail></thumbnail>
+</item>
+////////////////////////
+
+<item>
+<title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]Lịch Trực tiếp Bóng Đá Vòng Chung Kết Euro 2016[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&,amp;videoid=yNvbvhHTiX4</link>
+<thumbnail>https://i.ytimg.com/vi/yNvbvhHTiX4/maxresdefault.jpg</thumbnail>
+</item>
+////////////////////
+<item>
+<title>XEM PHIM (by thev)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/thev</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+//////////////////////////////
+<item>
+<title>XEM PHIM (by thegioionline)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/thegioionline</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+/////////////////////////////
+<item>
+<title>XEM PHIM (by cungnghenhac)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/cungnghenhac</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+//////////////////////////////
+<item>
+<title>XEM PHIM/EURO 2016 (by meowdoraemon)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/meowdoraemon</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+/////////////////////////////
+<item>
+<title>SPORT (by hiphithethao)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/hiphithethao</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+///////////////////////////////////////
+<item>
+<title>SPORT (by longtybu)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/longtybu</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+/////////////////////////////      
+<item>
+<title>[COLOR cyan][B]Euro 2016 - Kênh Quốc Tế (Theo giờ VN + 5 giờ)[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://adryanlist.org/adryan/euro.xml</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/euro.jpg</thumbnail>
+<fanart>http://ultra.zone.s3-website-us-east-1.amazonaws.com/og/UEFA-EURO-2016.jpg</fanart>
+</item>
+/////////////////////////////
+<item>
+<title>[COLOR cyan][B]Chương Trình Thể Thao Phát Trên YouTube[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]                ( [makelist.param2] )</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+
+	</items>
+	</channel>
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR yellow][B] Cài đặt addon f4mTester (repo Shani) trước khi xem TV[/B][/COLOR]
+http://textuploader.com
+
+#EXTINF:-1,[COLOR red][B]Updated ngày 21.06.2016[/B][/COLOR]
+http://textuploader.com
+
+#EXTINF:-1,AR_BEIN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
+#EXTINF:-1,AR_BEIN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
+#EXTINF:-1,AR_BEIN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/3.ts
+#EXTINF:-1,AR_BEIN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/4.ts
+#EXTINF:-1,AR_BEIN_MAX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
+#EXTINF:-1,AR_BEIN_MAX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
+#EXTINF:-1,FR_RTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/50.ts
+

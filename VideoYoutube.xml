@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<items>
+
+<item>
+<title>ALL SPORTS</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]                ( [makelist.param2] )</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+/////////////////////////////
+
+<item>
+<title>TRƯC TIẾP</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]                ( [makelist.param2] )</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)&lt;\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+
+<item>
+<title>VTV4 on the Go</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
+<page>https://www.youtube.com/user/VTV4go/videos</page>
+</regex>
+</item>
+
+//////////////////////////
+<item>
+<title>VTCTube</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
+<page>https://www.youtube.com/user/vtctv/videos</page>
+</regex>
+</item>
+
+//////////////////////////
+<item>
+<title>VTC2TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/vtc2tv</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+<item>
+<title>VTV life</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/VTVLife</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+<item>
+<title>Đài Phát thanh - Truyền hình Hà Nội</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/channel/UCiYva4-ItRfUqT8sF0E-Ihg</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+<item>
+<title>VTV Showbiz</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/VTVShowbiz</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+////////////////////////////
+<item>
+<title>Live News TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/PhiThanhVanOfficial</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+<item>
+<title>NGUOI VIET ONLINE</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/NguoiVietOnline</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+<item>
+<title>BBC TIENG VIET</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/BBCVietnamese</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+<item>
+<title>VOA TIENG VIET</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/user/VOATiengVietVideo</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+</item>
+
+/////////////////////////////
+
+<item>
+<title>TheChuChuTV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
+<page>https://www.youtube.com/user/TheChuChuTV/videos</page>
+</regex>
+</item>
+
+//////////////////////////
+<item>
+<title>TUTITU TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
+<page>https://www.youtube.com/user/tutitutv/videos</page>
+</regex>
+</item>
+
+//////////////////////////
+<item>
+<title>Bố Ơi Mình Đi Đâu Thế ? (China - VietSub)</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>   
+<listrepeat><![CDATA[
+<title>[makelist3.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>http://www.youtube.com/playlist?list=PL3hQOkPHhz_kLv9kLw5785_VMFmAWkExL</page>     
+</regex>
+</item>
+//////////////////////
+<item>
+<title>Phim Hoạt Hình Tom And Jerry Tales (lồng tiếng Việt)</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>   
+<listrepeat><![CDATA[
+<title>[makelist3.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
+</regex>
+</item>
+//////////////////////
+
+</items>
+</channel>
