@@ -182,6 +182,28 @@
 </item> 
 /////////////////////////
 <item>
+<title>XEM PHIM (by tempo)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/tempo</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+/////////////////////////
+<item>
+<title>XEM PHIM (by thedang)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/thedang</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+/////////////////////////
+<item>
 <title>SPORT (by demonkenmad)</title>
 <link>$doregex[m3u8]</link>
 <regex>
