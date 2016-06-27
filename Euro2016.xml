@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-	<channel>
-	<items>
-
 <item>
-<title>[COLOR deepskyblue][B]Update ngày 26/06/2016[/B][/COLOR]</title>
+<title>[COLOR deepskyblue][B]Update ngày 27/06/2016[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/</link>
 <thumbnail></thumbnail>
 </item>
@@ -61,27 +58,27 @@
 </item>
 /////////////////////////////
 <item>
-<title>SPORT (by hiphithethao)</title>
+<title>SPORT (by tivibonda.netoo)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/hiphithethao</page>
+<page>http://talktv.vn/tivibonda.netoo</page>
 <cookieJar></cookieJar>
 </regex>
-</item> 
-///////////////////////////////////////
+</item>
+////////////////////////////////
 <item>
-<title>SPORT (by longtybu)</title>
+<title>SPORT (by talktvvv)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/longtybu</page>
+<page>http://talktv.vn/talktvvv</page>
 <cookieJar></cookieJar>
 </regex>
 </item> 
-/////////////////////////////      
+////////////////// 
 <item>
 <title>[COLOR cyan][B]Euro 2016 - Kênh Quốc Tế (Theo giờ VN + 5 giờ)[/B][/COLOR]</title>
 <link>http://ignorame</link>
