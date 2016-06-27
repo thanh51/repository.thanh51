@@ -6,34 +6,36 @@ http://textuploader.com
 #EXTINF:-1 group-title="VTV-VTVcab",[COLOR yellow][B]Lịch Trực tiếp Bóng Đá Vòng Chung Kết Euro 2016[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&,amp;videoid=yNvbvhHTiX4
 
-#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
-http://222.255.27.46/vtv1.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV2 s1
-http://222.255.27.46/vtv2.m3u8?token=136d25cecd
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD (LOW)
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 S1
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 S2
+http://11e6.vp9.tv/chn/vtv1/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s1
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
+http://123.30.185.126/hls/vtv2.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 S3
 http://11e6.vp9.tv/chn/vtv2/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s1
-http://222.255.27.46/vtv3.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s2
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD 
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV4
-http://222.255.27.46/vtv4.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV5
-http://222.255.27.46/vtv5.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD s1
-http://222.255.27.46/vtv6.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD s2
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD (med)
+http://27.67.50.68:18080/155_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3
+http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4 S1
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV4 S2
+http://11e6.vp9.tv/chn/vtv4/v.m3u8
+#EXTINF:-1, VTV6 HD
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV7 HD
-http://222.255.27.46/vtv7.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV8
-http://222.255.27.46/vtv8.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab",VTV9
-http://222.255.27.89/vtv9.m3u8?token=136d25cecd
-#EXTINF:-1 group-title="VTV-VTVcab", THETHAOTV HD
-http://11e6.vp9.tv/chn/tttv/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", BONGDATV HD
-http://11e6.vp9.tv/chn/bdtv/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD (med)
+http://27.67.50.74:18080/156_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab", VTV8
+http://11e6.vp9.tv/chn/vtv8/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV9
+http://11e6.vp9.tv/chn/vtv9/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",TH QUOC HOI HD
 rtmp://vov.radiovietnam.vn:1935/live/thqh
 #EXTINF:-1 group-title="VTV-VTVcab", VOV S1
@@ -48,6 +50,10 @@ http://123.30.185.126/hls/antv.m3u8
 http://11e6.vp9.tv/chn/antv/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCAB2
 http://11e6.vp9.tv/chn/phimv/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", THETHAOTV HD
+http://11e6.vp9.tv/chn/tttv/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", BONGDATV HD
+http://11e6.vp9.tv/chn/bdtv/v.m3u8
 
 #EXTINF:-1 group-title="HTV-HTVC",HTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
