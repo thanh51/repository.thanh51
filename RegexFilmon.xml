@@ -1148,7 +1148,102 @@
   </regex>
 </item>
 ////////////////////////
-              
+<item>
+  <title>BBC ONE</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/bbc-one</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
+////////////////////////
+<item>
+  <title>BBC TWO</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/bbc-two</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
+////////////////////////
+<item>
+  <title>BBC THREE</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/bbc-three</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
+////////////////////////  
+<item>
+  <title>BBC FOUR</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/cbeebiesbbc-four</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
+////////////////////////                            
 	</items>
 	</channel>
 
