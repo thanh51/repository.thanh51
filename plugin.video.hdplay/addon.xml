@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.hdplay"
+       name="HDPlay"
+       version="1.8.13"
+       provider-name="HDrepo">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.simple.downloader" version="1.9.4" />
+	</requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+		<summary lang="en">TV online</summary>
+		<description lang="en">Add-on xem TV online:
+		- Để xem được các kênh của fptplay, các bạn phải chạy app FPTPlay 1 lần trước để đăng ký IP với nhà cung cấp</description>
+    </extension>
+</addon>
