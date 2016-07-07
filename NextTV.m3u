@@ -5,76 +5,90 @@ http://27.67.50.74:18080/149_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="K+", K+1
 http://27.67.50.74:18080/148_3.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="VTV",VTV2
+#EXTINF:-1, VTV1 HD (LOW)
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, VTV2 
 http://27.67.50.74:18080/2_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV",VTV3 HD
-http://27.67.50.68:18080/155_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV",VTV6 HD
+#EXTINF:-1, VTV3 HD 
+http://27.67.50.74:18080/155_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1,VTV4
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV6 HD 
 http://27.67.50.74:18080/156_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV",VTV9
+#EXTINF:-1,VTV9 
 http://27.67.50.74:18080/8_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV",QUOC HOI
+#EXTINF:-1,QUOC HOI HD
 http://27.67.50.74:18080/180_3.m3u8?AdaptiveType=HLS
-
-#EXTINF:-1 group-title="HTV-VTC", HTV3 
+#EXTINF:-1,ANTV 
+http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, HTV1
+http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, HTV3
+http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, HTV3 link2
 http://27.67.50.74:18080/71_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV-VTC",HTVC Phim HD
+#EXTINF:-1, HTV7 
+http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, HTV9
+http://xmiolive.e14538a7.viettel-cdn.vn/htv9.smil/chunklist_b1500000.m3u8
+#EXTINF:0,HTVC Phim HD
 http://27.67.50.74:18080/159_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV-VTC", HTVC THUANVIET HD
+#EXTINF:0, HTVC Thuan Viet HD
 http://27.67.50.74:18080/160_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV-VTC",HTV THETHAO
+#EXTINF:0,HTV the thao
 http://27.67.50.74:18080/37_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV-VTC", VTC1 HD
+#EXTINF:-1, VTC1 HD
 http://27.67.50.74:18080/150_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC3
+#EXTINF:-1, VTC3 
 http://27.67.50.74:18080/36_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC6
+#EXTINF:-1, VTC6 
 http://27.67.50.74:18080/29_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC7
+#EXTINF:-1, VTC7 
 http://27.67.50.74:18080/47_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC8
+#EXTINF:-1, VTC8 
 http://27.67.50.74:18080/14_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC9
+#EXTINF:-1, VTC9 link4
 http://27.67.50.74:18080/48_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC10
+#EXTINF:-1, VTC10
 http://27.67.50.74:18080/15_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC11
+#EXTINF:-1, VTC11 
 http://27.67.50.74:18080/72_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", VTC14
+#EXTINF:-1, ITV HD (LOW)
+http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, VTC14 
 http://27.67.50.74:18080/16_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="HTV-VTC", HN1
+#EXTINF:-1, HN1
 http://27.67.50.74:18080/9_2.m3u8?AdaptiveType=HLS
-
-#EXTINF:-1 group-title="QUOC TE", STARMOVIES HD
-http://27.67.50.74:18080/144_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE",HBO HD
+#EXTINF:-1,HBO HD
 http://27.67.50.74:18080/162_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE",HBO SD
+#EXTINF:-1,HBO SD
 http://27.67.50.74:18080/34_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", AXN
+#EXTINF:-1, STARMOVIES HD
+http://27.67.50.74:18080/144_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, AXN
 http://27.67.50.74:18080/164_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", NATGEO HD
+#EXTINF:-1, NATGEO HD
 http://27.67.50.74:18080/153_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", DISCOVERY
+#EXTINF:-1, DISCOVERY
 http://27.67.50.74:18080/67_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", DISNEY
-http://27.67.50.74:18080/73_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", CHANNEL V HD
-http://27.67.50.74:18080/179_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", CHANNEL V SD
-http://27.67.50.74:18080/64_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", BBC
-http://27.67.50.74:18080/22_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", CHANNEL NWES ASIA
-http://27.67.50.74:18080/23_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", DW
-http://27.67.50.74:18080/26_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", STARWORLD HD
+#EXTINF:-1, STARWORLD HD
 http://27.67.50.74:18080/142_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", FOXSPORT
+#EXTINF:-1, DISNEY
+http://27.67.50.74:18080/73_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, BBC
+http://27.67.50.74:18080/22_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, CHANNEL NEWS ASIA
+http://27.67.50.74:18080/23_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, DW
+http://27.67.50.74:18080/26_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, FOX SPORT
 http://27.67.50.74:18080/43_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1group-title="QUOC TE", DIVA
+#EXTINF:-1, DIVA
 http://27.67.50.74:18080/171_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, CHANNEL V HD
+http://27.67.50.74:18080/179_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, CHANNEL V SD
+http://27.67.50.74:18080/64_2.m3u8?AdaptiveType=HLS
 
 
 
