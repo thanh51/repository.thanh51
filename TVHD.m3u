@@ -1,18 +1,38 @@
-﻿#EXTM3U thanh51
-#EXTINF:-1,[COLOR red][B]Updated 19h ngày 26.06.2016[/B][/COLOR]
+#EXTM3U thanh51
+#EXTINF:-1,[COLOR red][B]Updated ngày 07.07.2016[/B][/COLOR]
 http://textuploader.com
-#EXTINF:-1 group-title="VTV-VTVcab",[COLOR yellow][B]Lịch Trực tiếp Bóng Đá Vòng Chung Kết Euro 2016[/B][/COLOR]
-plugin://plugin.video.youtube/?action=play_video&,amp;videoid=yNvbvhHTiX4
 
-#EXTINF:-1,VTV1 HD
+#EXTINF:-1,VTV1 HD (1080P)
 http://118.69.252.4/tv/vtv1HD/index.m3u8
-#EXTINF:-1,VTV2
-http://118.69.252.4/tv/vtv2/index.m3u8
-#EXTINF:-1,VTV3 HD
+#EXTINF:-1,VTV3 HD(1080P)
 http://118.69.252.4/tv/vtv3HD/index.m3u8
-#EXTINF:-1,VTV6 HD
+#EXTINF:-1,VTV6 HD(1080P)
 http://118.69.252.4/tv/vtv6HD/index.m3u8
-#EXTINF:-1,THETHAOTV HD
+#EXTINF:-1,THETHAOTV HD(1080P)
 http://118.69.252.4/tv1/thethaoTVHD/index.m3u8
-#EXTINF:-1,BONGDATV HD
+#EXTINF:-1,BONGDATV HD(1080P)
 http://118.69.252.4/tv1/bongdaTVHD/index.m3u8
+
+#EXTINF:-1, VTV3 HD 
+http://27.67.50.74:18080/155_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, VTV6 HD 
+http://27.67.50.74:18080/156_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTVC Phim HD
+http://27.67.50.74:18080/159_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTVC Thuan Viet HD
+http://27.67.50.74:18080/160_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, VTC1 HD
+http://27.67.50.74:18080/150_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, STARMOVIES HD
+http://27.67.50.74:18080/144_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HBO HD
+http://27.67.50.74:18080/162_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, NATGEO HD
+http://27.67.50.74:18080/153_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, STARWORLD HD
+http://27.67.50.74:18080/142_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, DIVA HD
+http://27.67.50.74:18080/171_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, CHANEEL V HD
+http://27.67.50.74:18080/179_3.m3u8?AdaptiveType=HLS
+
