@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR cyan][B]Update ngày 07/7/2016[/B][/COLOR]</title>
+<title>[COLOR cyan][B]Update ngày 09/7/2016[/B][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 </item>
 /////////////////
@@ -50,16 +50,16 @@
 </item>
 /////////////////////////
 <item>
-<title>SPORT (by talktvaaaa)</title>
+<title>XEM PHIM (by phimzzhd)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/talktvaaaa</page>
+<page>http://talktv.vn/phimzzhd</page>
 <cookieJar></cookieJar>
 </regex>
 </item> 
-//////////////////   
+//////////////////////////   
 
 
 </items>
