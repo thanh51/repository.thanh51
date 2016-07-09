@@ -9,12 +9,16 @@ http://27.67.50.74:18080/149_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="K+",K+PM
 http://27.67.50.74:18080/149_2.m3u8?AdaptiveType=HLS
 
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD (LOW)
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2
 http://27.67.50.74:18080/2_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
 http://27.67.50.74:18080/155_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 
 http://27.67.50.74:18080/155_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD 
 http://27.67.50.74:18080/156_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",VTV6  
@@ -25,9 +29,19 @@ http://27.67.50.74:18080/8_2.m3u8?AdaptiveType=HLS
 http://27.67.50.74:18080/180_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",TH QUOC HOI
 http://27.67.50.74:18080/180_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",ANTV 
+http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV3
+#EXTINF:-1 group-title="HTV", HTV1
+http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="HTV", HTV3 s1
+http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="HTV",HTV3 s2
 http://27.67.50.74:18080/71_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV", HTV7 
+http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="HTV", HTV9
+http://xmiolive.e14538a7.viettel-cdn.vn/htv9.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="HTV",HTVC PHIM HD
 http://27.67.50.74:18080/159_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="HTV",HTVC PHIM
@@ -49,14 +63,16 @@ http://27.67.50.74:18080/36_2.m3u8?AdaptiveType=HLS
 http://27.67.50.74:18080/29_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTC",VTC7
 http://27.67.50.74:18080/47_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC",VTC9
-http://27.67.50.74:18080/48_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTC",VTC8
 http://27.67.50.74:18080/14_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC9
+http://27.67.50.74:18080/48_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTC",VTC10
 http://27.67.50.74:18080/15_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTC",VTC11
 http://27.67.50.74:18080/72_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC13 HD (LOW)
+http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTC",VTC14
 http://27.67.50.74:18080/16_2.m3u8?AdaptiveType=HLS
 
@@ -139,3 +155,35 @@ http://27.67.50.74:18080/179_3.m3u8?AdaptiveType=HLS
 http://27.67.50.74:18080/64_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",FOX SPORT
 http://27.67.50.74:18080/43_2.m3u8?AdaptiveType=HLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
