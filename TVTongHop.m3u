@@ -326,7 +326,20 @@ rtmp://103.40.138.89:1935/live/ac2
 rtmp://103.40.138.89:1935/live/ac4
 #EXTINF:-1 group-title="QUOC TE",tele7abc ro 
 http://208.75.225.28/live/tele7abc/playlist.m3u8
-
+#EXTINF:-1 group-title="QUOC TE",Music: One.by
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="QUOC TE",Music: One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="QUOC TE",Music: One.by UHD
+http://rtmp.one.by:1400
+#EXTINF:-1 group-title="QUOC TE",Music: One.by UHD
+http://rtmp.one.by:1499
+#EXTINF:-1 group-title="QUOC TE",Music: One.by Russia
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="QUOC TE",Music: One.by Russia HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="QUOC TE",Music: AONE
+http://sh.home-ip.tv/0/index.m3u8
 
 #EXTINF:-1 group-title="XEM PHIM (by veetle)",HD MOVIES   
 http://veetle.com/index.php/hls/streamMbrfast/5686b8c31b2b2/stream.m3u8
