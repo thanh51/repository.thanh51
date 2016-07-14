@@ -1,6 +1,6 @@
 #EXTM3U thanh51 
 
-#EXTINF:-1,[COLOR red][B]Updated ngày 12.07.2016[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Updated ngày 13.07.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD (LOW)
@@ -53,12 +53,36 @@ http://tv.tivi12h.net/12h-fpt/antv/playlist.m3u8
 http://123.30.185.126/hls/antv.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", ANTV s4
 http://11e6.vp9.tv/chn/antv/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTVCAB2
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab1
+http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab2 s1
+http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCAB2 s2
 http://11e6.vp9.tv/chn/phimv/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", THETHAOTV HD
+#EXTINF:-1 group-title="VTV-VTVcab",THETHAOTV HD
 http://11e6.vp9.tv/chn/tttv/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab4
+http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab5
+http://live.cdn.mobifonetv.vn/motv3/echannel_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab6
+http://live.cdn.mobifonetv.vn/motv3/haytv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab7
+http://live.cdn.mobifonetv.vn/motv3/ddramas_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab8
+http://live.cdn.mobifonetv.vn/motv3/bibi_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab9
+http://live.cdn.mobifonetv.vn/motv3/infotv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab10
+http://live.cdn.mobifonetv.vn/motv3/o2tv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab14
+http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab15
+http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", BONGDATV HD
 http://11e6.vp9.tv/chn/bdtv/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab17
+http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="HTV-HTVC",HTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
@@ -302,6 +326,7 @@ rtmp://103.40.138.89:1935/live/ac2
 rtmp://103.40.138.89:1935/live/ac4
 #EXTINF:-1 group-title="QUOC TE",tele7abc ro 
 http://208.75.225.28/live/tele7abc/playlist.m3u8
+
 
 #EXTINF:-1 group-title="XEM PHIM (by veetle)",HD MOVIES   
 http://veetle.com/index.php/hls/streamMbrfast/5686b8c31b2b2/stream.m3u8
