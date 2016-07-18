@@ -541,22 +541,6 @@
 </regex>
 </item>
 /////////////////////////////
-<item>
-<title>Tổng Hợp Nhạc Vàng Hải Ngoại Hay Nhất Của Nhiều Danh Ca Hải Ngoại Nổi Tiếng</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?<a href="\/watch\?v=(.*?)&</expres>
-<page>https://www.youtube.com/watch?v=KKoR3eTwAf4&amp;list=RDKKoR3eTwAf4</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
                 <item>
 		<title>[COLOR cyan][B]NHẠC THÚY NGA[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
