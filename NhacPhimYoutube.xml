@@ -526,9 +526,49 @@
 <page>https://www.youtube.com/user/LadyKillahOfficial/videos</page>
 </regex>
 </item>
-
-
 /////////////////////////////
+<item>
+<title>Nhạc Việt Bất Hủ</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
+<page>https://www.youtube.com/channel/UCcIdOGuvE8Yd0tUW6A13jAA/videos</page>
+</regex>
+</item>
+/////////////////////////////
+<item>
+<title>Tổng Hợp Nhạc Vàng Hải Ngoại Hay Nhất Của Nhiều Danh Ca Hải Ngoại Nổi Tiếng</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?<a href="\/watch\?v=(.*?)&</expres>
+<page>https://www.youtube.com/watch?v=RkZ-3lS5Zqw&amp;list=RDRkZ-3lS5Zqw</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+/////////////////////
+                <item>
+		<title>[COLOR cyan][B]NHẠC THÚY NGA[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/29RVAIZ</externallink>
+		</item>
+                ///////////////////////////////////////
+                <item>
+		<title>[COLOR cyan][B]HÀI VÂN SƠN[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/2a1sNQD</externallink>
+		</item>
+                ///////////////////////////////////////              
 <item>
 <title>PHIM VIET</title>
 <link>$doregex[makelist]</link>
