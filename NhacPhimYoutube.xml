@@ -552,7 +552,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?<a href="\/watch\?v=(.*?)&</expres>
-<page>https://www.youtube.com/watch?v=RkZ-3lS5Zqw&amp;list=RDRkZ-3lS5Zqw</page>
+<page>https://www.youtube.com/watch?v=RkZ-3lS5Zqw&amp=&list=RDRkZ-3lS5Zqw</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
