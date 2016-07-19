@@ -255,27 +255,27 @@ http://27.254.150.7:1935/footballfuck/t7_360p/playlist.m3u8
 http://27.254.150.7:1935/footballfuck/fox1_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports", Thai:FOX SPORT 2 HD
 http://27.254.150.7:1935/footballfuck/fox2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",ESPN+
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:-1 group-title="Sports",ESPN3
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 group-title="Sports",ESPN +
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE02.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 3
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE02.m3u8
 #EXTINF:-1 group-title="Sports",FOX SPORTS
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE02.m3u8
 #EXTINF:-1 group-title="Sports",FOX SPORTS 2
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE02.m3u8
 #EXTINF:-1 group-title="Sports",PX
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE02.m3u8
 #EXTINF:-1 group-title="Sports",ESPN
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE02.m3u8
 #EXTINF:-1 group-title="Sports",ESPN 2
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:-1 group-title="Sports",ESPN+ HD
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE02.m3u8
+#EXTINF:-1 group-title="Sports",ESPN + HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",ESPN3 HD
+#EXTINF:-1 group-title="Sports",ESPN 3 HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 group-title="Sports",FOX SPORTS HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS2 HD
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 group-title="Sports",PX HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
@@ -324,8 +324,6 @@ rtmp://103.40.138.89:1935/live/ac3
 rtmp://103.40.138.89:1935/live/ac2
 #EXTINF:-1 group-title="QUOC TE",Thai:Hollywood Film
 rtmp://103.40.138.89:1935/live/ac4
-#EXTINF:-1 group-title="QUOC TE",tele7abc ro 
-http://208.75.225.28/live/tele7abc/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE",Music: One.by
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="QUOC TE",Music: One.by HD
@@ -341,175 +339,81 @@ http://rtmp.one.by:2300
 #EXTINF:-1 group-title="QUOC TE",Music: AONE
 http://sh.home-ip.tv/0/index.m3u8
 #EXTINF:-1 group-title="QUOC TE", Warner Tv
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Universal 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fx
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", A&E
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE",AXN 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Universal Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Syfy
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", TNT Series
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Trutv
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox life
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox 1
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox action
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox Movies 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Cinecanal
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", TNT HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Golden 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Filmzone
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Discovery Kids
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE" , Cbeebies
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney Jr
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nick Jr
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nick 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nickelodeon
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Cartoon Network
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney XD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Boomerang
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Theather 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", History
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", NatGeo
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nat Geo Wild
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE" , Discovery World
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Discovery Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disc sci
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Turbo
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Civilitzation
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", TLC
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Animal Planet
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Wobi
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:-1 group-title="QUOC TE", Warner Tv HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", Universal HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fx HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", A&E HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Fx
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", A&E
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE",AXN HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Universal Channel HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Syfy HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", TNT Series HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Trutv HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox life HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox 1 HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox action HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Universal Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Syfy
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", TNT Series
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Trutv
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Fox life
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Fox 1
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Fox action
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", Fox Movies HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Cinecanal HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", TNT HD HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Cinecanal
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", TNT HD
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", Golden HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Filmzone HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Discovery Kids HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE" , Cbeebies HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney Jr HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nick Jr HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney Channel HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Filmzone
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Discovery Kids
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE" , Cbeebies
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Disney Jr
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Nick Jr
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Disney Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", Nick HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nickelodeon HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Cartoon Network HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney XD HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Boomerang HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Nickelodeon
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Cartoon Network
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Disney XD
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Boomerang
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", Theather HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", History HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", NatGeo HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nat Geo Wild HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE" , Discovery World HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Discovery Channel HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disc sci HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Turbo HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", History
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", NatGeo
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Nat Geo Wild
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE" , Discovery World
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Discovery Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Disc sci
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Turbo
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", Civilitzation
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", TLC HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Animal Planet HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
-#EXTINF:-1 group-title="QUOC TE", Wobi HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", TLC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Animal Planet
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE02.m3u8
+#EXTINF:-1 group-title="QUOC TE", Wobi
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE02.m3u8
 
