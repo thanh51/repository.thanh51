@@ -158,16 +158,36 @@ http://tv.tivi12h.net/12h-fpt/vtc14/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC16
 http://tv.tivi12h.net/12h-fpt/vtc16/playlist.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG", HN1
+#EXTINF:-1 group-title="DIA PHUONG",HN1
 http://11e6.vp9.tv/chn/hn1/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", HN2
+#EXTINF:-1 group-title="DIA PHUONG",HN2
 http://11e6.vp9.tv/chn/hn2/v.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",MOV Hanoicab4
+http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",CAO BANG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Bac Can
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",LANG SON
+rtmp://123.18.206.40:1935/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC
+rtmp://117.6.162.63/live/thvp
 #EXTINF:-1 group-title="DIA PHUONG",QTV1
 rtmp://123.29.68.44/hctv/vstv020
 #EXTINF:-1 group-title="DIA PHUONG",QTV3
 rtmp://123.29.68.44/hctv/vstv021
+#EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE
+rtmp://118.69.176.149:1935/live/trt
 #EXTINF:-1 group-title="DIA PHUONG", DRT1
 http://11e6.vp9.tv/chn/drt1/v.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",GIA LAI
+rtmp://222.255.169.132/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG",DAK NONG
+rtmp://222.255.158.22/live/truyenhinh
+#EXTINF:-1 group-title="DIA PHUONG",KHANH HOA
+rtmp://118.69.198.109/live/video
+#EXTINF:-1 group-title="DIA PHUONG",BRT
+rtmp://113.163.216.24:1935/live/livestream
 #EXTINF:-1 group-title="DIA PHUONG", BTV1
 http://11e6.vp9.tv/chn/btv1/v.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",BTV4 IMOVIE
@@ -176,6 +196,8 @@ http://tv.tivi12h.net/12h-fpt/btv4/playlist.m3u8
 http://11e6.vp9.tv/chn/vl1/v.m3u8
 #EXTINF:-1 group-title="DIA PHUONG", THVL2
 http://11e6.vp9.tv/chn/vl2/v.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",SOC TRANG
+rtmp://115.78.3.164/live/stv1
 
 #EXTINF:-1 group-title="Sports",VP9: ESPN HD
 http://11e6.vp9.tv/chn/espn1/v.m3u8
