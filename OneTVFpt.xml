@@ -1,9 +1,8 @@
 <?xml version="1.0"?>
 
-<channels>
-
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH VTV[/B][/COLOR]</name>
+<name>[COLOR blue][B]VTV[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/61uqndd.png</thumbnail>
 <item>
 <item>
@@ -101,10 +100,12 @@
 <link>udp://@225.1.1.226:30120</link>
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png</thumbnail>
 </item>
-</channel>
 
+
+
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH VTVcab[/B][/COLOR]</name>
+<name>[COLOR blue][B]VTVcab[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/MAsPFib.png</thumbnail>
 <item>
 <item>
@@ -207,10 +208,12 @@
 <link>udp://@225.1.1.15:30120</link>
 <thumbnail>http://i.imgur.com/iyg21My.png</thumbnail>
 </item>
-</channel>
 
+
+
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH AN VIEN[/B][/COLOR]</name>
+<name>[COLOR blue][B]MobiTV[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/kDZ0aXj.png</thumbnail>
 </item>
 <item>
@@ -243,10 +246,14 @@
 <link>udp://@225.1.1.224:30120</link>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png</thumbnail>
 </item>
-</channel>
 
+
+
+
+</channel>
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH HANOIcab[/B][/COLOR]</name>
+<name>[COLOR blue][B]HANOIcab[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/8rGPHMK.png</thumbnail>
 <items>
 <item>
@@ -260,12 +267,12 @@
 <thumbnail>http://i.imgur.com/JHYNvNs.png</thumbnail>
 </item>
 <item>
-<title>Hanoicab HiTV</title>
+<title>HiTV hanoicab1</title>
 <link>udp://@225.1.2.91:30120</link>
 <thumbnail>http://i.imgur.com/eIbgrWr.png</thumbnail>
 </item>
 <item>
-<title>HanoiCab MOV</title>
+<title>MOV HanoiCab4</title>
 <link>udp://@225.1.1.206:30120</link>
 <thumbnail>http://i.imgur.com/FD1sjQe.png</thumbnail>
 </item>
@@ -275,14 +282,15 @@
 <thumbnail>http://i.imgur.com/1tlm1zw.png</thumbnail>
 </item>
 <item>
-<title>HanoiCab YOU</title>
+<title>YOU HanoiCab4</title>
 <link>udp://@225.1.1.207:30120</link>
 <thumbnail>http://i.imgur.com/7uqtQEM.png</thumbnail>
 </item>
-</channel>
 
+
+<channels>
 <channel>
-<name>[COLOR blue][B]KÊNH HTV-HTVC[/B][/COLOR]</name>
+<name>[COLOR blue][B]HTV-HTVC[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/ZLKUd8e.png</thumbnail>
 <items>
 <item>
@@ -390,10 +398,13 @@
 <link>udp://@225.1.1.169:30120</link>
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png</thumbnail>
 </item>
-</channel>
 
+
+
+
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH VTC[/B][/COLOR]</name>
+<name>[COLOR blue][B]VTC[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/jANjH9n.png</thumbnail>
 <items>
 <item>
@@ -501,22 +512,222 @@
 <link>udp://@225.1.2.190:30120</link>
 <thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail>
 </item>
-</channel>
 
+
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH ĐỊA PHƯƠNG[/B][/COLOR]</name>
+<name>[COLOR blue][B]ĐỊA PHƯƠNG[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/o0Vveza.png</thumbnail>
 <items>
-
 <item>
-<title>VINH LONG 1</title>
-<link>udp://225.1.1.155:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png</thumbnail>
+<title>HA GIANG</title>
+<link>udp://225.1.1.62:30120</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>VINH LONG 2</title>
-<link>udp://225.1.1.154:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png</thumbnail>
+<title>LÀO CAI</title>
+<link>udp://225.1.1.119:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>YÊN BÁI</title>
+<link>udp://225.1.1.39:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sơn La</title>
+<link>udp://225.1.1.98:30120</link>
+<thumbnail>http://i.imgur.com/j8eqRq8.png</thumbnail>
+</item>
+<item>
+<title>ĐIỆN BIÊN</title>
+<link>udp://225.1.1.74:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Lạng Sơn</title>
+<link>udp://225.1.1.160:30120</link>
+<thumbnail>http://i.imgur.com/FRl2dMz.png</thumbnail>
+</item>
+<item>
+<title>Tuyên Quang</title>
+<link>udp://225.1.2.188:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_tuyen-quang_141457751675.png</thumbnail>
+</item>
+<item>
+<title>Thái Nguyên </title>
+<link>udp://225.1.2.179:30120</link>
+<thumbnail>http://i.imgur.com/a4oiL92.png</thumbnail>
+</item>
+<item>
+<title>Hòa Bình </title>
+<link>udp://225.1.2.168:30120</link>
+<thumbnail>http://i.imgur.com/tMaZaYl.png</thumbnail>
+</item>
+<item>
+<title>BẮC GIANG</title>
+<link>udp://225.1.1.164:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Phú Thọ </title>
+<link>udp://225.1.2.165:30120</link>
+<thumbnail>http://i.imgur.com/W2d2XLV.png</thumbnail>
+</item>
+<item>
+<title>VĨNH PHÚC</title>
+<link>udp://225.1.2.99:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hải Phòng</title>
+<link>udp://225.1.2.187:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png</thumbnail>
+</item>
+<item>
+<title>Quảng Ninh 1</title>
+<link>udp://225.1.2.181:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png</thumbnail>
+</item>
+<item>
+<title>Quảng Ninh 3</title>
+<link>udp://225.1.2.180:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png</thumbnail>
+</item>
+<item>
+<title>THAI BINH</title>
+<link>udp://225.1.1.99:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hải Dương </title>
+<link>udp://225.1.1.158:30120</link>
+<thumbnail>http://i.imgur.com/B9gdrjs.png</thumbnail>
+</item>
+<item>
+<title>Hưng Yên </title>
+<link>udp://225.1.1.118:30120</link>
+<thumbnail>http://i.imgur.com/eGfpF9j.png</thumbnail>
+</item>
+<item>
+<title>BẮC NINH</title>
+<link>udp://225.1.1.40:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÀ NAM</title>
+<link>udp://225.1.1.63:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nam Định </title>
+<link>udp://225.1.1.120:30120</link>
+<thumbnail>http://i.imgur.com/bFzFKSL.png</thumbnail>
+</item>
+<item>
+<title>Ninh Bình</title>
+<link>udp://225.1.2.185:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ninh-binh_141457725841.png</thumbnail>
+</item>
+<item>
+<title>THANH HÓA</title>
+<link>udp://225.1.2.184:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png</thumbnail>
+</item>
+<item>
+<title>NGHE AN</title>
+<link>udp://225.1.2.183:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_nghe-an_14145773592.png</thumbnail>
+</item>
+<item>
+<title>Hà Tĩnh </title>
+<link>udp://225.1.1.75:30120</link>
+<thumbnail>http://i.imgur.com/ABygmpS.png</thumbnail>
+</item>
+<item>
+<title>Quảng Bình </title>
+<link>udp://225.1.2.164:30120</link>
+<thumbnail>http://i.imgur.com/V7HjOJl.png</thumbnail>
+</item>
+<item>
+<title>Quảng Trị </title>
+<link>udp://225.1.1.117:30120</link>
+<thumbnail>http://i.imgur.com/lYtL22F.png</thumbnail>
+</item>
+<item>
+<title>HUẾ</title>
+<link>udp://225.1.1.161:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Đà Nẵng 1</title>
+<link>udp://225.1.1.147:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png</thumbnail>
+</item>
+<item>
+<title>Đà Nẵng 2</title>
+<link>udp://225.1.1.146:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png</thumbnail>
+</item>
+<item>
+<title>Bình Định</title>
+<link>udp://225.1.1.145:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png</thumbnail>
+</item>
+<item>
+<title>Quảng Ngãi</title>
+<link>udp://225.1.2.174:30120</link>
+<thumbnail>http://i.imgur.com/LVxKGl4.png</thumbnail>
+</item>
+<item>
+<title>Khánh Hòa</title>
+<link>udp://225.1.1.133:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png</thumbnail>
+</item>
+<item>
+<title>Kon Tum </title>
+<link>udp://225.1.1.36:30120</link>
+<thumbnail>http://i.imgur.com/VxOQqsX.png</thumbnail>
+</item>
+<item>
+<title>GIA LAI</title>
+<link>udp://225.1.2.176:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Đắc Lắc</title>
+<link>udp://225.1.1.64:30120</link>
+<thumbnail>http://i.imgur.com/q4TvicY.png</thumbnail>
+</item>
+<item>
+<title>Lâm Đồng </title>
+<link>udp://225.1.2.177:30120</link>
+<thumbnail>http://i.imgur.com/1ZCjme6.png</thumbnail>
+</item>
+<item>
+<title>Ninh Thuận </title>
+<link>udp://225.1.2.178:30120</link>
+<thumbnail>http://i.imgur.com/IGp4PB7.png</thumbnail>
+</item>
+<item>
+<title>TÂY NINH</title>
+<link>udp://225.1.1.130:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Long An 34 TV</title>
+<link>udp://225.1.1.162:30120</link>
+<thumbnail>http://i.imgur.com/Z5408CY.png</thumbnail>
+</item>
+<item>
+<title>BÌNH PHƯỚC 1</title>
+<link>udp://@225.1.2.23:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÌNH PHƯỚC 2</title>
+<link>udp://@225.1.2.38:30120</link>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BTV1</title>
@@ -534,11 +745,6 @@
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_binh-duong-4.png</thumbnail>
 </item>
 <item>
-<title>Cà Mau</title>
-<link>udp://225.1.1.104:30120</link>
-<thumbnail>http://i.imgur.com/YAGwIeW.png</thumbnail>
-</item>
-<item>
 <title>Đồng Nai 1</title>
 <link>udp://225.1.1.152:30120</link>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-1.png</thumbnail>
@@ -549,199 +755,24 @@
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-2.png</thumbnail>
 </item>
 <item>
-<title>Đắc Lắc</title>
-<link>udp://225.1.1.64:30120</link>
-<thumbnail>http://i.imgur.com/q4TvicY.png</thumbnail>
-</item>
-<item>
-<title>Đà Nẵng 1</title>
-<link>udp://225.1.1.147:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png</thumbnail>
-</item>
-<item>
-<title>Đà Nẵng 2</title>
-<link>udp://225.1.1.146:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png</thumbnail>
-</item>
-<item>
-<title>Hậu Giang</title>
-<link>udp://225.1.1.157:30120</link>
-<thumbnail>http://i.imgur.com/OAwAkbr.png</thumbnail>
-</item>
-<item>
-<title>THTPCT</title>
-<link>udp://225.1.1.132:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_can-tho.png</thumbnail>
-</item>
-<item>
-<title>Hòa Bình TV</title>
-<link>udp://225.1.2.168:30120</link>
-<thumbnail>http://i.imgur.com/tMaZaYl.png</thumbnail>
-</item>
-<item>
-<title>Hà Tĩnh TV</title>
-<link>udp://225.1.1.75:30120</link>
-<thumbnail>http://i.imgur.com/ABygmpS.png</thumbnail>
-</item>
-<item>
-<title>Kiên Giang TV</title>
-<link>udp://225.1.2.182:30120</link>
-<thumbnail>http://i.imgur.com/bAslqZs.png</thumbnail>
-</item>
-<item>
-<title>Long An 34 TV</title>
-<link>udp://225.1.1.162:30120</link>
-<thumbnail>http://i.imgur.com/Z5408CY.png</thumbnail>
-</item>
-<item>
-<title>Lạng Sơn TV</title>
-<link>udp://225.1.1.160:30120</link>
-<thumbnail>http://i.imgur.com/FRl2dMz.png</thumbnail>
-</item>
-<item>
-<title>Lâm Đồng TV</title>
-<link>udp://225.1.2.177:30120</link>
-<thumbnail>http://i.imgur.com/1ZCjme6.png</thumbnail>
-</item>
-<item>
-<title>Hưng Yên TV</title>
-<link>udp://225.1.1.118:30120</link>
-<thumbnail>http://i.imgur.com/eGfpF9j.png</thumbnail>
-</item>
-<item>
-<title>Ninh Thuận TV</title>
-<link>udp://225.1.2.178:30120</link>
-<thumbnail>http://i.imgur.com/IGp4PB7.png</thumbnail>
-</item>
-<item>
-<title>Quảng Ngãi TV</title>
-<link>udp://225.1.2.174:30120</link>
-<thumbnail>http://i.imgur.com/LVxKGl4.png</thumbnail>
-</item>
-<item>
-<title>Phú Thọ TV</title>
-<link>udp://225.1.2.165:30120</link>
-<thumbnail>http://i.imgur.com/W2d2XLV.png</thumbnail>
-</item>
-<item>
-<title>Quảng Trị TV</title>
-<link>udp://225.1.1.117:30120</link>
-<thumbnail>http://i.imgur.com/lYtL22F.png</thumbnail>
-</item>
-<item>
-<title>Thái Nguyên TV</title>
-<link>udp://225.1.2.179:30120</link>
-<thumbnail>http://i.imgur.com/a4oiL92.png</thumbnail>
-</item>
-<item>
-<title>Nam Định TV</title>
-<link>udp://225.1.1.120:30120</link>
-<thumbnail>http://i.imgur.com/bFzFKSL.png</thumbnail>
-</item>
-<item>
-<title>Sơn La TV</title>
-<link>udp://225.1.1.98:30120</link>
-<thumbnail>http://i.imgur.com/j8eqRq8.png</thumbnail>
-</item>
-<item>
-<title>Hải Dương TV</title>
-<link>udp://225.1.1.158:30120</link>
-<thumbnail>http://i.imgur.com/B9gdrjs.png</thumbnail>
-</item>
-<item>
-<title>Kon Tum TV</title>
-<link>udp://225.1.1.36:30120</link>
-<thumbnail>http://i.imgur.com/VxOQqsX.png</thumbnail>
-</item>
-<item>
-<title>Quảng Bình TV</title>
-<link>udp://225.1.2.164:30120</link>
-<thumbnail>http://i.imgur.com/V7HjOJl.png</thumbnail>
-</item>
-<item>
-<title>Truyền Hình Tiền Giang</title>
-<link>udp://225.1.2.170:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png</thumbnail>
-</item>
-<item>
-<title>Truyền Hình An Giang</title>
-<link>udp://225.1.2.173:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png</thumbnail>
-</item>
-<item>
-<title>Hải Phòng</title>
-<link>udp://225.1.2.187:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png</thumbnail>
-</item>
-<item>
-<title>Bình Định</title>
-<link>udp://225.1.1.145:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png</thumbnail>
-</item>
-<item>
-<title>THANH HÓA</title>
-<link>udp://225.1.2.184:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png</thumbnail>
-</item>
-<item>
-<title>Khánh Hòa</title>
-<link>udp://225.1.1.133:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png</thumbnail>
-</item>
-<item>
-<title>Ninh Bình</title>
-<link>udp://225.1.2.185:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ninh-binh_141457725841.png</thumbnail>
-</item>
-<item>
-<title>NGHE AN</title>
-<link>udp://225.1.2.183:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_nghe-an_14145773592.png</thumbnail>
-</item>
-<item>
 <title>BÀ RỊA</title>
 <link>udp://225.1.2.175:30120</link>
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png</thumbnail>
 </item>
 <item>
-<title>Quảng Ninh 1</title>
-<link>udp://225.1.2.181:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png</thumbnail>
+<title>VINH LONG 1</title>
+<link>udp://225.1.1.155:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png</thumbnail>
 </item>
 <item>
-<title>Quảng Ninh 3</title>
-<link>udp://225.1.2.180:30120</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png</thumbnail>
+<title>VINH LONG 2</title>
+<link>udp://225.1.1.154:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png</thumbnail>
 </item>
 <item>
-<title>Tuyên Quang</title>
-<link>udp://225.1.2.188:30120</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_tuyen-quang_141457751675.png</thumbnail>
-</item>
-<item>
-<title>BÌNH PHƯỚC 1</title>
-<link>udp://@225.1.2.23:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BÌNH PHƯỚC 2</title>
-<link>udp://@225.1.2.38:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TÂY NINH</title>
-<link>udp://225.1.1.130:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SÓC TRĂNG</title>
-<link>udp://225.1.1.159:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BẠC LIÊU</title>
-<link>udp://225.1.1.61:30120</link>
-<thumbnail></thumbnail>
+<title>THTPCT</title>
+<link>udp://225.1.1.132:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_can-tho.png</thumbnail>
 </item>
 <item>
 <title>BẾN TRE</title>
@@ -754,55 +785,55 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>LÀO CAI</title>
-<link>udp://225.1.1.119:30120</link>
+<title>SÓC TRĂNG</title>
+<link>udp://225.1.1.159:30120</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HÀ NAM</title>
-<link>udp://225.1.1.63:30120</link>
+<title>Hậu Giang</title>
+<link>udp://225.1.1.157:30120</link>
+<thumbnail>http://i.imgur.com/OAwAkbr.png</thumbnail>
+</item>
+<item>
+<title>Kiên Giang</title>
+<link>udp://225.1.2.182:30120</link>
+<thumbnail>http://i.imgur.com/bAslqZs.png</thumbnail>
+</item>
+<item>
+<title>Tiền Giang</title>
+<link>udp://225.1.2.170:30120</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png</thumbnail>
+</item>
+<item>
+<title>An Giang</title>
+<link>udp://225.1.2.173:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png</thumbnail>
+</item>
+<item>
+<title>BẠC LIÊU</title>
+<link>udp://225.1.1.61:30120</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ĐIỆN BIÊN</title>
-<link>udp://225.1.1.74:30120</link>
+<title>DONG THAP</title>
+<link>udp://@225.1.1.163:30120</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BẮC NINH</title>
-<link>udp://225.1.1.40:30120</link>
-<thumbnail></thumbnail>
+<title>Cà Mau</title>
+<link>udp://225.1.1.104:30120</link>
+<thumbnail>http://i.imgur.com/YAGwIeW.png</thumbnail>
 </item>
 <item>
-<title>YÊN BÁI</title>
-<link>udp://225.1.1.39:30120</link>
+<title>AZ SHOP SCTV10</title>
+<link>udp://@225.1.2.205:30120</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>VĨNH PHÚC</title>
-<link>udp://225.1.2.99:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>GIA LAI</title>
-<link>udp://225.1.2.176:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HUẾ</title>
-<link>udp://225.1.1.161:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BẮC GIANG</title>
-<link>udp://225.1.1.164:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-</channel>
 
+
+</channel>
 <channel>
-<name>[COLOR blue][B]KÊNH QUỐC TẾ[/B][/COLOR]</name>
+<name>[COLOR blue][B]QUỐC TẾ[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/u3VkSmw.png</thumbnail>
 <items>
 <item>
@@ -1010,6 +1041,33 @@
 <link>udp://@225.1.1.199:30120</link>
 <thumbnail>http://firstmedia.com/uploads/DIVA-HD-(new).png</thumbnail>
 </item>
+
+
+
+
 </channel>
 
-</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
