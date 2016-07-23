@@ -1,5 +1,6 @@
 #EXTM3U thanh51
-#EXTINF:-1,[COLOR red][B]Updated ngày 07.07.2016[/B][/COLOR]
+
+#EXTINF:-1,[COLOR red][B]Updated ngày 13.07.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1,VTV1 HD (1080P)
@@ -14,25 +15,26 @@ http://118.69.252.4/tv1/thethaoTVHD/index.m3u8
 http://118.69.252.4/tv1/bongdaTVHD/index.m3u8
 
 #EXTINF:-1, VTV3 HD 
-http://27.67.50.74:18080/155_3.m3u8?AdaptiveType=HLS
+http://live.vn-hd.com///spsklfl/vtv3.720p.stream/chunklist.m3u8
 #EXTINF:-1, VTV6 HD 
-http://27.67.50.74:18080/156_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTVC Phim HD
-http://27.67.50.74:18080/159_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTVC Thuan Viet HD
-http://27.67.50.74:18080/160_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, VTC1 HD
-http://27.67.50.74:18080/150_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, STARMOVIES HD
-http://27.67.50.74:18080/144_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HBO HD
-http://27.67.50.74:18080/162_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, NATGEO HD
-http://27.67.50.74:18080/153_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, STARWORLD HD
-http://27.67.50.74:18080/142_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, DIVA HD
-http://27.67.50.74:18080/171_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, CHANEEL V HD
-http://27.67.50.74:18080/179_3.m3u8?AdaptiveType=HLS
-
+http://live.vn-hd.com//spsklfl/vtv6.720p.stream/chunklist.m3u8
+#EXTINF:-1, HTV2 HD
+http://live.vn-hd.com//spsklfl/htv2.720p.stream/chunklist.m3u8
+#EXTINF:-1, HTV7 HD
+http://live.vn-hd.com//spsklfl/htv7.720p.stream/chunklist.m3u8
+#EXTINF:-1, HTV9 HD
+http://live.vn-hd.com//spsklfl/htv9.720p.stream/chunklist.m3u8
+#EXTINF:-1, HTVC phim HD 
+http://live.vn-hd.com//spsklfl/htvc_movies.720p.stream/chunklist.m3u8
+#EXTINF:-1, HTVC Thuần Việt HD 
+http://live.vn-hd.com//spsklfl/thuan_viet.720p.stream/chunklist.m3u8
+#EXTINF:-1, HTVC FBNC HD 
+http://live.vn-hd.com//spsklfl/fbnc.720p.stream/chunklist.m3u8
+#EXTINF:-1, VTC3 HD
+http://live.vn-hd.com//spsklfl/vtc3.720p.stream/chunklist.m3u8
+#EXTINF:-1, NatGeo HD
+http://live.vn-hd.com//spsklfl/natgeo.720p.stream/chunklist.m3u8
+#EXTINF:-1, Starmovies HD 
+http://live.vn-hd.com///spsklfl/starmovies.720p.stream/chunklist.m3u8
+#EXTINF:-1, Starworld HD 
+http://live.vn-hd.com//spsklfl/starmovies.720p.stream/chunklist.m3u8
