@@ -37,9 +37,9 @@ http://11e6.vp9.tv/chn/vtv4/v.m3u8
 http://live.vn-hd.com//spsklfl/vtv6.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD s2
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV8 
+#EXTINF:-1 group-title="VTV-VTVcab",VTV8 s1
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV8 s3
+#EXTINF:-1 group-title="VTV-VTVcab", VTV8 s2
 http://11e6.vp9.tv/chn/vtv8/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV9 s1 
 http://live.vn-hd.com//spsklfl/vtv9.360p.stream/chunklist.m3u8
@@ -51,7 +51,7 @@ rtmp://vov.radiovietnam.vn:1935/live/thqh
 rtmp://210.245.60.242:1935/vovtv/vovtv
 #EXTINF:-1 group-title="VTV-VTVcab", VOV s2
 http://11e6.vp9.tv/chn/vovtv/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",ANTV 
+#EXTINF:-1 group-title="VTV-VTVcab",ANTV s1
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000/playlist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", ANTV s2
 http://123.30.185.126/hls/antv.m3u8
