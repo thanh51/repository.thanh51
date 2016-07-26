@@ -1,31 +1,43 @@
 #EXTM3U thanh51 
 
-#EXTINF:-1,[COLOR red][B]Updated ngày 21.07.2016[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Updated ngày 26.07.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 s1
+http://live.vn-hd.com//spsklfl/vtv1.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 s1
 http://123.30.185.126/hls/vtv1.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 s2
 http://11e6.vp9.tv/chn/vtv1/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 s1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
-http://123.30.185.126/hls/vtv2.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2 
+http://live.vn-hd.com//spsklfl/vtv2.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 s3
+http://123.30.185.126/hls/vtv2.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s4
 http://11e6.vp9.tv/chn/vtv2/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD 
+#EXTINF:-1 group-title="VTV-VTVcab", VTV3 HD s1
+http://live.vn-hd.com//spsklfl/vtv3.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s2
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3
+#EXTINF:-1 group-title="VTV-VTVcab", VTV3 s1
+http://live.vn-hd.com//spsklfl/vtv3.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 s2
 http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV4 s1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV4 s2
+#EXTINF:-1 group-title="VTV-VTVcab", VTV4 s2 
+http://live.vn-hd.com//spsklfl/vtv4.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4 s3
 http://tv.tivi12h.net/12h-fpt/vtv4/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV4 s3
+#EXTINF:-1 group-title="VTV-VTVcab", VTV4 s4
 http://11e6.vp9.tv/chn/vtv4/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD
+#EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD s1
+http://live.vn-hd.com//spsklfl/vtv6.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD s2
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV8 s1
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
@@ -33,7 +45,9 @@ http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
 http://tv.tivi12h.net/12h-fpt/vtv8/playlist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV8 s3
 http://11e6.vp9.tv/chn/vtv8/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9
+#EXTINF:-1 group-title="VTV-VTVcab", VTV9 s1 
+http://live.vn-hd.com//spsklfl/vtv9.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV9 s2
 http://11e6.vp9.tv/chn/vtv9/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",TH QUOC HOI HD
 rtmp://vov.radiovietnam.vn:1935/live/thqh
@@ -86,15 +100,33 @@ http://11e6.vp9.tv/chn/bdtv/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab17
 http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 group-title="HTV-HTVC",HTV1
+#EXTINF:-1 group-title="HTV-HTVC", HTV2 HD
+http://live.vn-hd.com//spsklfl/htv2.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTV7 HD
+http://live.vn-hd.com//spsklfl/htv7.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTV9 HD
+http://live.vn-hd.com//spsklfl/htv9.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC phim HD 
+http://live.vn-hd.com//spsklfl/htvc_movies.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC Thuần Việt HD 
+http://live.vn-hd.com//spsklfl/thuan_viet.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC FBNC HD 
+http://live.vn-hd.com//spsklfl/fbnc.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC",HTV1 s1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTV1 s2
+http://live.vn-hd.com//spsklfl/htv1.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC",HTV2
 http://tv.tivi12h.net/12h-fpt/htv2/playlist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC",HTV3 s1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="HTV-HTVC",HTV3 s2
+#EXTINF:-1 group-title="HTV-HTVC", HTV3 s2
+http://live.vn-hd.com//spsklfl/htv3.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC",HTV3 s3
 http://tv.tivi12h.net/12h-fpt/htv3/playlist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC",HTV4
+#EXTINF:-1 group-title="HTV-HTVC", HTV4 s1
+http://live.vn-hd.com//spsklfl/htv4.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC",HTV4 s2
 http://tv.tivi12h.net/12h-fpt/htv4/playlist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC",HTV7 s1
 http://tv.tivi12h.net/12h-fpt/htv7/playlist.m3u8
@@ -106,7 +138,21 @@ http://11e6.vp9.tv/chn/htv7/v.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv9.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="HTV-HTVC",HTV9 s2
 http://tv.tivi12h.net/12h-fpt/htv9/playlist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC the thao 
+http://live.vn-hd.com//spsklfl/htvc_the_thao.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC canhac 
+http://live.vn-hd.com//spsklfl/htvc_music.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC dulich 
+http://live.vn-hd.com//spsklfl/du_lich.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC giadinh 
+http://live.vn-hd.com//spsklfl/gia_dinh.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC phunu 
+http://live.vn-hd.com//spsklfl/phu_nu.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV-HTVC", HTVC shopping 
+http://live.vn-hd.com//spsklfl/shopping.360p.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="VTC", VTC3 HD
+http://live.vn-hd.com//spsklfl/vtc3.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC1 s1
 http://123.30.185.126/hls/vtc1.m3u8
 #EXTINF:-1 group-title="VTC",VTC1 s2
@@ -119,15 +165,19 @@ http://11e6.vp9.tv/chn/vtc2/v.m3u8
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="VTC",VTC3 s2
 http://tv.tivi12h.net/12h-fpt/vtc3/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC4
+http://live.vn-hd.com//spsklfl/vtc4.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC5
 http://tv.tivi12h.net/12h-fpt/vtc5/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC6
 http://tv.tivi12h.net/12h-fpt/vtc6/playlist.m3u8
 #EXTINF:-1 group-title="VTC", VTC6 s3
 http://11e6.vp9.tv/chn/sgc6/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC7 s1
-http://tv.tivi12h.net/12h-fpt/vtc7/playlist.m3u8
+#EXTINF:-1 group-title="VTC", VTC7 s1
+http://live.vn-hd.com//spsklfl/vtc7.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC7 s2
+http://tv.tivi12h.net/12h-fpt/vtc7/playlist.m3u8
+#EXTINF:-1 group-title="VTC",VTC7 s3
 http://11e6.vp9.tv/chn/tdayt/v.m3u8
 #EXTINF:-1 group-title="VTC",VTC8 
 http://tv.tivi12h.net/12h-fpt/vtc8/playlist.m3u8
@@ -168,36 +218,72 @@ http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
 http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Bac Can
 http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",LANG SON
+#EXTINF:-1 group-title="DIA PHUONG", Lạng Sơn s1
+http://live.vn-hd.com//spsklfl/langson.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Lạng Sơn s2
 rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC
-rtmp://117.6.162.63/live/thvp
+#EXTINF:-1 group-title="DIA PHUONG", Lào Cai 
+http://live.vn-hd.com//spsklfl/laocai.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",QTV1
 rtmp://123.29.68.44/hctv/vstv020
 #EXTINF:-1 group-title="DIA PHUONG",QTV3
 rtmp://123.29.68.44/hctv/vstv021
+#EXTINF:-1 group-title="DIA PHUONG", Vĩnh Phúc s1
+http://live.vn-hd.com//spsklfl/vinhphuc.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC s2
+rtmp://117.6.162.63/live/thvp
+#EXTINF:-1 group-title="DIA PHUONG", Hải Dương
+http://live.vn-hd.com//spsklfl/haiduong.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Nam Định 
+http://live.vn-hd.com//spsklfl/namdinh.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Ninh Bình 
+http://live.vn-hd.com//spsklfl/ninhbinh.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE
 rtmp://118.69.176.149:1935/live/trt
 #EXTINF:-1 group-title="DIA PHUONG", DRT1
 http://11e6.vp9.tv/chn/drt1/v.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Quảng Nam 
+http://live.vn-hd.com//spsklfl/quangnam.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Bình Định
+http://live.vn-hd.com//spsklfl/binhdinh.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Khánh Hòa s1
+http://live.vn-hd.com//spsklfl/khanhhoa.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Khánh Hòa s2
+rtmp://118.69.198.109/live/video
 #EXTINF:-1 group-title="DIA PHUONG",GIA LAI
 rtmp://222.255.169.132/live/livestream
 #EXTINF:-1 group-title="DIA PHUONG",DAK NONG
 rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="DIA PHUONG",KHANH HOA
-rtmp://118.69.198.109/live/video
-#EXTINF:-1 group-title="DIA PHUONG",BRT
-rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG", BTV1
+#EXTINF:-1 group-title="DIA PHUONG", Tây Ninh 
+http://live.vn-hd.com//spsklfl/tayninh.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Bình Phước 1 
+http://live.vn-hd.com//spsklfl/binhphuoc.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 1 s1
+http://live.vn-hd.com//spsklfl/btv3.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 1 s2
 http://11e6.vp9.tv/chn/btv1/v.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",BTV4 IMOVIE
 http://tv.tivi12h.net/12h-fpt/btv4/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", THVL1
+#EXTINF:-1 group-title="DIA PHUONG", Long An 
+http://live.vn-hd.com//spsklfl/longan.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Bà Rịa-Vũng Tàu s1
+http://live.vn-hd.com//spsklfl/baria.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Bà Rịa-Vũng Tàu s2
+rtmp://113.163.216.24:1935/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG", Vĩnh Long 1 s1
+http://live.vn-hd.com//spsklfl/vinhlong1.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Vĩnh Long 1 s2
 http://11e6.vp9.tv/chn/vl1/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", THVL2
+#EXTINF:-1 group-title="DIA PHUONG", Vĩnh Long 2
 http://11e6.vp9.tv/chn/vl2/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",SOC TRANG
+#EXTINF:-1 group-title="DIA PHUONG", Sóc trăng s1
+http://live.vn-hd.com//spsklfl/soctrang.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Sóc trăng s2
 rtmp://115.78.3.164/live/stv1
+#EXTINF:-1 group-title="DIA PHUONG", Cà Mau 
+http://live.vn-hd.com//spsklfl/camau.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp 1
+http://live.vn-hd.com//spsklfl/dongthap.360p.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports",VP9: ESPN HD
 http://11e6.vp9.tv/chn/espn1/v.m3u8
@@ -263,34 +349,6 @@ http://27.254.150.7:1935/footballfuck/t7_360p/playlist.m3u8
 http://27.254.150.7:1935/footballfuck/fox1_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports", Thai:FOX SPORT 2 HD
 http://27.254.150.7:1935/footballfuck/fox2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",ESPN+
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",ESPN3
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS 2
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",PX
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",ESPN
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 2
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE02.m3u8
-#EXTINF:-1 group-title="Sports",ESPN+ HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",ESPN3 HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS2 HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",PX HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",ESPN HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 2 HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 group-title="Sports",Russia:Football s1
 http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Russia:Football s2	
@@ -305,23 +363,17 @@ http://62.76.26.81:8081/sport/bokstv_09/playlist.m3u8
 http://serv24.vintera.tv:8081/sport/boets/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Russia:MATCH!Our Sport
 http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 3HD SPORT
-http://80.243.182.106:8080/Bien/Bien3/index.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 4HD SPORT
-http://80.243.182.106:8080/Bien/Bien4/index.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 5HD SPORT
-http://80.243.182.106:8080/Bien/Bien5/index.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 6HD SPORT
-http://80.243.182.106:8080/Bien/Bien6/index.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 7HD SPORT
-http://80.243.182.106:8080/Bien/Bien7/index.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 8HD SPORT
-http://80.243.182.106:8080/Bien/Bien9/index.m3u8
-#EXTINF:-1 group-title="Sports",BEIN 9HD SPORT
-http://80.243.182.106:8080/Bien/Bien10/index.m3u8
 #EXTINF:-1 group-title="Sports",CBC SPORT
 http://149.255.152.110/cbcsport/index.m3u8
 
+#EXTINF:-1 group-title="QUOC TE", Nat Geo HD
+http://live.vn-hd.com//spsklfl/natgeo.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE", Starmovies HD 
+http://live.vn-hd.com//spsklfl/starmovies.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE", Starworld HD 
+http://live.vn-hd.com//spsklfl/starmovies.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE", MTV 
+http://live.vn-hd.com//spsklfl/mtv.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE",KBS WORLD
 http://tv.tivi12h.net/12h-fpt/kbs/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE", RT DOC HD
@@ -366,84 +418,6 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="QUOC TE",Music: AONE
 http://sh.home-ip.tv/0/index.m3u8
-#EXTINF:-1 group-title="QUOC TE", Warner Tv
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Universal 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fx
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", A&E
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE",AXN 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Universal Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Syfy
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", TNT Series
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Trutv
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox life
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox 1
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox action
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Fox Movies 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Cinecanal
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", TNT HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Golden 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Filmzone
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Discovery Kids
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE" , Cbeebies
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney Jr
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nick Jr
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nick 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nickelodeon
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Cartoon Network
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disney XD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Boomerang
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Theather 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", History
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", NatGeo
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Nat Geo Wild
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE" , Discovery World
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Discovery Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Disc sci
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Turbo
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Civilitzation
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", TLC
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Animal Planet
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE02.m3u8
-#EXTINF:-1 group-title="QUOC TE", Wobi
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE02.m3u8
 #EXTINF:-1 group-title="QUOC TE", China:CCTV1
 http://183.207.249.6/PLTV/3/224/3221225530/index.m3u8
 #EXTINF:-1 group-title="QUOC TE", China:CCTV3
@@ -480,18 +454,6 @@ http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8
 http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8
 #EXTINF:-1 group-title="QUOC TE", China:MOVIES 4
 http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
-#EXTINF:-1 group-title="QUOC TE", China:RHK 32 HD
-http://218.188.2.171:9981/stream/channelid/7?ticket=03A323E6F49FBAA7F962EAA6A21AE0055404B59E
-#EXTINF:-1 group-title="QUOC TE", China:J5 HD
-http://218.188.2.171:9981/stream/channelid/4?ticket=EAE18989100CAEDE638A25A0CD0202AD05B7D89B
-#EXTINF:-1 group-title="QUOC TE", China:Pearl HD
-http://218.188.2.171:9981/stream/channelid/3?ticket=FB5FD8E85D88127622C605FB350985190F273EB3
-#EXTINF:-1 group-title="QUOC TE", China:RTHK TV 31 HD
-http://218.188.2.171:9981/stream/channelid/5?ticket=3DE827232516D7F75CEA10FBC93F0047DF0008C4
-#EXTINF:-1 group-title="QUOC TE", China:RTHK TV 32 HD
-http://218.188.2.171:9981/stream/channelid/6?ticket=D05FF57F4F3806178DAB035FCC8AE89738D0BAE7
-#EXTINF:-1 group-title="QUOC TE", China:ViuTV HD
-http://218.188.2.171:9981/stream/channelid/2?ticket=C24E3F0BF8678D8D14C893A94E9B7BEE636EF70C 
 
 
 
