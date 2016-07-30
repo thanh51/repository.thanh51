@@ -431,7 +431,14 @@ http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8
 http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8
 #EXTINF:-1 group-title="QUOC TE", China:MOVIES 4
 http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
-
+#EXTINF:-1 group-title="QUOC TE", USA:AMC HD
+http://163.172.214.251:8000/play/AMCHD
+#EXTINF:-1 group-title="QUOC TE", USA:CBS HD
+http://163.172.214.251:8000/play/CBS-HD
+#EXTINF:-1 group-title="QUOC TE", USA:HBO HD
+http://163.172.214.251:8000/play/HBO-HD
+#EXTINF:-1 group-title="QUOC TE", USA:BRAVO HD
+http://163.172.214.251:8000/play/US-BRAVO-HD
 
 
 
