@@ -1,76 +1,36 @@
 #EXTM3U thanh51 
 
-#EXTINF:-1,[COLOR red][B]Updated ngày 31.07.2016[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Updated ngày 01.08.2016[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 s1
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 s2
-http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 s3
-http://vp.tivi12h.net/chn/vtv1/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s1
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s3
-http://vp.tivi12h.net/chn/vtv2/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
-http://vp.tivi12h.net/chn/vtv3/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 
-http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV4 HD
-http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV4 s1
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV4 s2
-http://vp.tivi12h.net/chn/vtv4/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV5 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD s1
-http://live.cdn.mobifonetv.vn/motv/vtv6hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD s2
-http://vp.tivi12h.net/chn/vtv6/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV8 s1
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV8 s2
-http://vp.tivi12h.net/chn/vtv8/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9 s1 
-http://live.cdn.mobifonetv.vn/motv/vtv9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9 s2
-http://vp.tivi12h.net/chn/vtv9/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",TH QUOC HOI HD
-rtmp://vov.radiovietnam.vn:1935/live/thqh
-#EXTINF:-1 group-title="VTV-VTVcab", VOV s1
-http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VOV s2
-rtmp://210.245.60.242:1935/vovtv/vovtv
-#EXTINF:-1 group-title="VTV-VTVcab", VOV s3
-http://vp.tivi12h.net/chn/vovtv/v.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 
+http://27.67.50.69:18080/154_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 
+http://27.67.50.72:18080/2_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab", VTV3 
+http://27.67.50.71:18080/3_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4
+http://27.67.50.73:18080/4_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",VTV5
+http://27.67.50.72:18080/5_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",VTV6
+http://27.67.50.6:18080/6_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",VTV8 
+http://27.67.50.69:18080/39_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",ANTV 
+http://27.67.50.68:18080/18_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",QUOC HOI HD
+http://27.67.50.6:18080/180_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",Quoc phong HD
+http://27.67.50.69:18080/141_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",TTXVN
-http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VIETNAMNET
-http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",ANTV s1
-http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",ANTV s2
-http://live.cdn.mobifonetv.vn/motv/antv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", ANTV s3
-http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", ANTV s4
-http://vp.tivi12h.net/chn/antv/v.m3u8
+http://27.67.50.72:18080/20_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV-VTVcab",ANTG
+http://27.67.50.72:18080/51_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab1
 http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTVCab2 s1
+#EXTINF:-1 group-title="VTV-VTVcab", VTVCab2
 http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTVCAB2 s2
-http://vp.tivi12h.net/chn/phimv/v.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",THETHAOTV HD
-http://vp.tivi12h.net/chn/tttv/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab4
 http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab5
@@ -89,62 +49,56 @@ http://live.cdn.mobifonetv.vn/motv3/o2tv_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab15
 http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", BONGDATV HD
-http://vp.tivi12h.net/chn/bdtv/v.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab17
 http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 group-title="HTV-HTVC",HTV1
-http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
+http://27.67.50.69:18080/53_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="HTV-HTVC",HTV2
-http://tv.tivi12h.net/12h-fpt/htv2/playlist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC",HTV3
-http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="HTV-HTVC",HTV7 s1
-http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="HTV-HTVC",HTV7 s2
-http://vp.tivi12h.net/chn/htv7/v.m3u8
-#EXTINF:-1 group-title="HTV-HTVC",HTV9 
-http://xmiolive.e14538a7.viettel-cdn.vn/htv9.smil/chunklist_b1500000.m3u8
+http://27.67.50.69:18080/54_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTV7 HD
+http://27.67.50.69:18080/157_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTV9 HD
+http://27.67.50.70:18080/158_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC PHIM  HD
+http://27.67.50.70:18080/159_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC THUẦN VIỆT HD
+http://27.67.50.68:18080/160_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC FBNC HD
+http://27.67.50.68:18080/177_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC Ca nhac
+http://27.67.50.68:18080/58_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC Gia Ðình
+http://27.67.50.69:18080/59_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC phu nu
+http://27.67.50.69:18080/56_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC du lich
+http://27.67.50.69:18080/60_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC the thao
+http://27.67.50.6:18080/37_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV-HTVC",HTVC+
+http://27.67.50.68:18080/25_2.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="VTC",VTC1 s1
-http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="VTC",VTC1 s2
-http://live.cdn.mobifonetv.vn/motv2/vtc1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC", VTC1 s3
-http://vp.tivi12h.net/chn/vtc1/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC2 
-http://vp.tivi12h.net/chn/vtc2/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTC", VTC6 
-http://vp.tivi12h.net/chn/sgc6/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC7 
-http://vp.tivi12h.net/chn/tdayt/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC9 s1
+#EXTINF:-1 group-title="VTC",VTC1 HD
+http://27.67.50.73:18080/150_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC3 HD
+http://27.67.50.73:18080/145_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC5
+http://27.67.50.69:18080/28_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC8
+http://27.67.50.69:18080/14_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC9 
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC9 s2
-http://vp.tivi12h.net/chn/letsv/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC10 
-http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC11 s1
-rtmp://118.107.84.3/live//vtc11_public
-#EXTINF:-1 group-title="VTC", VTC11 s2
-http://vp.tivi12h.net/chn/kids/v.m3u8
-#EXTINF:-1 group-title="VTC",ITV HD s1
-http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC", ITV HD s2
-http://live.cdn.mobifonetv.vn/motv/itvhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC",VTC13 s1
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC13 s2
-http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC",VTC14 s1
-http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC14 s2
-http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VTC",VTC10
+http://27.67.50.69:18080/15_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC11
+http://27.67.50.72:18080/72_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC13 HD
+http://27.67.50.70:18080/152_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC",VTC14
+http://27.67.50.69:18080/16_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTC",VTC16
-http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8
+http://27.67.50.69:18080/17_2.m3u8?AdaptiveType=HLS
 
 #EXTINF:-1 group-title="MobiTV", ANVIEN HD
 http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8
@@ -175,50 +129,108 @@ http://live.cdn.mobifonetv.vn/motv3/nhaccachmang_hls.smil/chunklist_b1200000.m3u
 #EXTINF:-1 group-title="MobiTV", Doc Sach
 http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG",HN1
-http://vp.tivi12h.net/chn/hn1/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",HN2
-http://vp.tivi12h.net/chn/hn2/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",MOV Hanoicab4
-http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",CAO BANG
-http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Bac Can
-http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Lạng Sơn 
-rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG",QTV1
-rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1 group-title="DIA PHUONG",QTV3
-rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC 
-rtmp://117.6.162.63/live/thvp
-#EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE
-rtmp://118.69.176.149:1935/live/trt
-#EXTINF:-1 group-title="DIA PHUONG", DRT1
-http://vp.tivi12h.net/chn/drt1/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Khánh Hòa 
-rtmp://118.69.198.109/live/video
-#EXTINF:-1 group-title="DIA PHUONG",GIA LAI
-rtmp://222.255.169.132/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG",DAK NONG
-rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 1 
-http://vp.tivi12h.net/chn/btv1/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Bà Rịa-Vũng Tàu 
-rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG", Vinh long 1 s1
-http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Vĩnh Long 1 s2
-http://vp.tivi12h.net/chn/vl1/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Vinh long 2 s2
-http://live.cdn.mobifonetv.vn/motv2/vinhlong2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Vĩnh Long 2
-http://vp.tivi12h.net/chn/vl2/v.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Sóc trăng 
-rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 group-title="DIA PHUONG", Tien Giang
-http://live.cdn.mobifonetv.vn/motv2/tiengiang_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",HA NOI 1
+http://27.67.50.69:18080/9_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",HA NOI 2
+http://27.67.50.71:18080/10_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",HITV Hanoicab1
+http://27.67.50.69:18080/52_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",YOU TV Hanoicab2
+http://27.67.50.6:18080/50.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",MOVHD Hanoicab4
+http://27.67.50.69:18080/1_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Cao Bang
+http://27.67.50.73:18080/77_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Yên Bái
+http://27.67.50.69:18080/40_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Bac can
+http://27.67.50.69:18080/78_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Quang Ninh 1
+http://27.67.50.68:18080/81_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Quang Ninh 3
+http://27.67.50.68:18080/82_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Hoa Binh 
+http://123.30.185.126/hls/hoabinh.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Hai Duong
+http://27.67.50.69:18080/93_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Hung Yen
+http://27.67.50.69:18080/96_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Bac Ninh
+http://27.67.50.68:18080/92_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Hà Nam
+http://27.67.50.72:18080/97_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",NAM DINH
+http://27.67.50.69:18080/98_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Ninh Binh
+http://27.67.50.68:18080/99_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Thanh Hoa
+http://27.67.50.68:18080/101_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Nghe an
+http://27.67.50.73:18080/114_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",HA TINH
+http://27.67.50.68:18080/103_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Quang Tri 
+rtmp://123.25.117.9:80/live/qtv
+#EXTINF:-1 group-title="DIA PHUONG",Da Nang 2
+rtmp://drt.danang.vn/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG", Quang Nam
+http://27.67.50.70:18080/108_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Quang Ngai
+http://27.67.50.70:18080/109_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Binh Dinh
+http://27.67.50.69:18080/111_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Khanh Hoa
+http://27.67.50.73:18080/102_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",KONTUM
+http://27.67.50.69:18080/110_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Gia Lai
+http://27.67.50.69:18080/112_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Dak lak
+http://27.67.50.73:18080/115_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", DAK NONG
+http://27.67.50.69:18080/116_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",LAM DONG
+http://27.67.50.68:18080/119_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Binh Thuan
+http://27.67.50.68:18080/118_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Binh Phuoc 1
+http://27.67.50.68:18080/121_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Dong Nai 1
+http://27.67.50.68:18080/127_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Long an
+http://27.67.50.72:18080/129_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Binh Duong 1
+http://27.67.50.68:18080/123_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Binh Duong 4
+http://27.67.50.69:18080/32_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", BARIA VUNGTAU
+http://27.67.50.69:18080/128_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Ben Tre
+http://27.67.50.69:18080/131_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Vinh Long 1
+http://27.67.50.69:18080/133_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Vinh Long 2
+http://27.67.50.69:18080/38_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG", Can Tho
+http://27.67.50.68:18080/137_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Tien Giang
+http://27.67.50.68:18080/130_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Ben Tre
+http://27.67.50.68:18080/131_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",SOC TRANG
+http://27.67.50.69:18080/139_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Tra Vinh 
+http://123.30.185.126/hls/travinh.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Bac Lieu
+http://27.67.50.69:18080/126_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Hau Giang
+http://27.67.50.68:18080/138_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",An Giang 
+rtmp://113.161.212.25/live//atv1
+#EXTINF:-1 group-title="DIA PHUONG",Dong thap 1
+http://27.67.50.68:18080/132_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG",Ca Mau
+rtmp://113.161.220.254:1935/livepkgr/livestream2
 
 #EXTINF:-1 group-title="Sports",BTV5
 http://streamlive.3937e680.viettel-cdn.vn/bongda/playlist.m3u8
@@ -254,14 +266,6 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 http://92.222.205.40:8085/lighd
 #EXTINF:-1 group-title="Sports", SPORTS
 http://md-store4.tulix.tv/1sttv/index.m3u8
-#EXTINF:-1 group-title="Sports",Japan:SPORT 1
-http://203.162.235.45:17930
-#EXTINF:-1 group-title="Sports",Japan:SPORT 2
-http://203.162.235.45:17931
-#EXTINF:-1 group-title="Sports",Japan:SPORT 3
-http://203.162.235.45:17932
-#EXTINF:-1 group-title="Sports",Japan:SPORT 4
-http://203.162.235.45:17933
 #EXTINF:-1 group-title="Sports", CCTV5 HD
 http://183.207.249.6/PLTV/3/224/3221225644/index.m3u8
 #EXTINF:-1 group-title="Sports",CCTV5+ HD
@@ -303,56 +307,60 @@ http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBC SPORT
 http://149.255.152.110/cbcsport/index.m3u8
 
-#EXTINF:-1 group-title="QUOC TE",HBO
-http://27.67.50.6:18080/35_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Screen Red by HBO
-http://27.67.50.6:18080/45_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Starmovies 
-http://27.67.50.6:18080/144_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", AXN 
-http://27.67.50.6:18080/69_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Cinemax 
+#EXTINF:-1 group-title="QUOC TE",STARMOVIES HD
+http://27.67.50.6:18080/144_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",HBO HD
+http://27.67.50.72:18080/162_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",CINEMAX
 http://27.67.50.6:18080/163_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", WarnerTV 
-http://27.67.50.6:18080/172_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", CinemaWorld 
-http://27.67.50.6:18080/174_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", CN 
-http://27.67.50.6:18080/74_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Disney 
-http://27.67.50.6:18080/73_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", NatGeo 
-http://27.67.50.6:18080/62_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Discovery 
-http://27.67.50.6:18080/67_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Animal Planet 
-http://27.67.50.6:18080/68_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Da Vinci 
-http://27.67.50.6:18080/75_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Outdoor 
-http://27.67.50.6:18080/146_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Star World
-http://27.67.50.6:18080/61_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", DIVA 
-http://27.67.50.6:18080/65_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Ariang 
-http://27.67.50.6:18080/70_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", BBC 
-http://27.67.50.6:18080/22_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Channel New Asia
-http://27.67.50.6:18080/23_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", DW
-http://27.67.50.6:18080/26_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", TV5monde 
-http://27.67.50.6:18080/19_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Bloomberg
-http://27.67.50.6:18080/44_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", AFC
-http://27.67.50.6:18080/63_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Channel V 
-http://27.67.50.6:18080/64_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Fashion  
-http://27.67.50.6:18080/66_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",WarnerTV HD
+http://27.67.50.70:18080/172_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", CinemaWorld HD
+http://27.67.50.70:18080/174_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",ScreenRed
+http://27.67.50.6:18080/45_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",CN HD
+http://27.67.50.68:18080/167_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Disney HD
+http://27.67.50.69:18080/170_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", Disney Junior 
+http://27.67.50.68:18080/73_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",NATGEO HD
+http://27.67.50.72:18080/153_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Discovery world HD
+http://27.67.50.68:18080/168_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", Discovery
+http://27.67.50.72:18080/67_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Animal Planet
+http://27.67.50.70:18080/68_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Da Vinci HD
+http://27.67.50.71:18080/173_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",DIVA HD
+http://27.67.50.71:18080/171_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Outdoor HD
+http://27.67.50.69:18080/146_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",AFC
+http://27.67.50.68:18080/63_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",BBC
+http://27.67.50.69:18080/22_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Channel New Asia
+http://27.67.50.71:18080/23_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",DW
+http://27.67.50.71:18080/26_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", TV5MONDE
+http://27.67.50.68:18080/19_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Bloomberg
+http://27.67.50.68:18080/44_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",STAR WORLD HD
+http://27.67.50.70:18080/142_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", CHANNEL V 
+http://27.67.50.71:18080/179_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", FoxSport2 HD
+http://27.67.50.68:18080/166_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",FoxSport HD
+http://27.67.50.68:18080/165_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",FASHIONTV HD
+http://27.67.50.68:18080/169_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE", RT DOC HD
 http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-p.m3u8
 #EXTINF:-1 group-title="QUOC TE",TRT BELGESEL HD
@@ -365,8 +373,6 @@ http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
 #EXTINF:-1  group-title="QUOC TE",CN:Phoenix Chinese 
 http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
-#EXTINF:-1 group-title="QUOC TE",WOWOW 
-http://203.162.235.45:17934
 #EXTINF:-1 group-title="QUOC TE",Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE",Arirang
@@ -381,18 +387,6 @@ rtmp://103.40.138.89:1935/live/ac2
 rtmp://103.40.138.89:1935/live/ac4
 #EXTINF:-1 group-title="QUOC TE",Music:Spirit Television HD
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",Music: One.by
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="QUOC TE",Music: One.by HD
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="QUOC TE",Music: One.by UHD
-http://rtmp.one.by:1400
-#EXTINF:-1 group-title="QUOC TE",Music: One.by UHD
-http://rtmp.one.by:1499
-#EXTINF:-1 group-title="QUOC TE",Music: One.by Russia
-http://rtmp.one.by:2200
-#EXTINF:-1 group-title="QUOC TE",Music: One.by Russia HD
-http://rtmp.one.by:2300
 #EXTINF:-1 group-title="QUOC TE",Music: AONE
 http://sh.home-ip.tv/0/index.m3u8
 #EXTINF:-1 group-title="QUOC TE", China:CCTV1
@@ -485,9 +479,6 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE", THAI:TRUE SELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
-
-
-
 
 
 
