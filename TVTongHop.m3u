@@ -1,6 +1,6 @@
 #EXTM3U thanh51 
 
-#EXTINF:-1,[COLOR red][B]Updated ngày 01.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Updated ngày 02.08.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 
@@ -8,7 +8,7 @@ http://27.67.50.69:18080/154_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 
 http://27.67.50.72:18080/2_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab", VTV3 
-http://27.67.50.71:18080/3_2.m3u8?AdaptiveType=HLS
+http://27.67.50.72:18080/3_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",VTV4
 http://27.67.50.73:18080/4_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV-VTVcab",VTV5
@@ -131,8 +131,6 @@ http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG",HA NOI 1
 http://27.67.50.69:18080/9_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG",HA NOI 2
-http://27.67.50.71:18080/10_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG",HITV Hanoicab1
 http://27.67.50.69:18080/52_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG",YOU TV Hanoicab2
@@ -278,6 +276,8 @@ http://serv24.vintera.tv:8081/sport/boets/playlist.m3u8
 http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBC SPORT
 http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1 group-title="Sports",UK:ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
 
 #EXTINF:-1 group-title="QUOC TE",STARMOVIES HD
 http://27.67.50.6:18080/144_3.m3u8?AdaptiveType=HLS
@@ -305,32 +305,22 @@ http://27.67.50.68:18080/168_3.m3u8?AdaptiveType=HLS
 http://27.67.50.72:18080/67_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Animal Planet
 http://27.67.50.70:18080/68_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",Da Vinci HD
-http://27.67.50.71:18080/173_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",DIVA HD
-http://27.67.50.71:18080/171_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Outdoor HD
 http://27.67.50.69:18080/146_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",AFC
 http://27.67.50.68:18080/63_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",BBC
 http://27.67.50.69:18080/22_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",Channel New Asia
-http://27.67.50.71:18080/23_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",DW
-http://27.67.50.71:18080/26_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE", TV5MONDE
 http://27.67.50.68:18080/19_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Bloomberg
 http://27.67.50.68:18080/44_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",STAR WORLD HD
 http://27.67.50.70:18080/142_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", CHANNEL V 
-http://27.67.50.71:18080/179_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE", FoxSport2 HD
-http://27.67.50.68:18080/166_2.m3u8?AdaptiveType=HLS
+http://27.67.50.70:18080/166_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",FoxSport HD
-http://27.67.50.68:18080/165_2.m3u8?AdaptiveType=HLS
+http://27.67.50.70:18080/165_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",FASHIONTV HD
 http://27.67.50.68:18080/169_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE", RT DOC HD
@@ -451,8 +441,22 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE", THAI:TRUE SELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
-
-
+#EXTINF:-1 group-title="QUOC TE",UK:Animal Planet
+http://80.80.160.168/live/1/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:TLC
+http://80.80.160.168/live/2/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Travel Channel
+http://80.80.160.168/live/3/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Planet Green
+http://80.80.160.168/live/4/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Investigation Discovery
+http://80.80.160.168/live/5/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Showtime
+http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Discovery
+http://80.80.160.168/live/8/2500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Discovery Science
+http://80.80.160.168/live/9/2500000/live.m3u8
 
 
 
