@@ -1,40 +1,111 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLOR red][B]Updated ngày 13.07.2016[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Chỉ Dùng Cho Mạng FPT[/B][/COLOR]
 http://textuploader.com
-
-#EXTINF:-1,VTV1 HD (1080P)
+#EXTINF:-1,VTV1 HD
 http://118.69.252.4/tv/vtv1HD/index.m3u8
-#EXTINF:-1,VTV3 HD(1080P)
+#EXTINF:-1,VTV3 HD 
 http://118.69.252.4/tv/vtv3HD/index.m3u8
-#EXTINF:-1,VTV6 HD(1080P)
+#EXTINF:-1,VTV6 HD 
 http://118.69.252.4/tv/vtv6HD/index.m3u8
-#EXTINF:-1,THETHAOTV HD(1080P)
+#EXTINF:-1,THETHAOTV HD 
 http://118.69.252.4/tv1/thethaoTVHD/index.m3u8
-#EXTINF:-1,BONGDATV HD(1080P)
+#EXTINF:-1,BONGDATV HD 
 http://118.69.252.4/tv1/bongdaTVHD/index.m3u8
+#EXTINF:-1,HTV2 HD
+http://118.69.252.4/tv/htv2HD/index.m3u8
+#EXTINF:-1,HTV7 HD
+http://118.69.252.4/tv/htv7HD/index.m3u8
+#EXTINF:-1,HTV9 HD
+http://118.69.252.4/tv/htv9HD/index.m3u8
+#EXTINF:-1,HTVC MOVIE HD
+http://118.69.252.4/tv1/htvcmovieHD/index.m3u8
+#EXTINF:-1,HTVC THUANVIET HD
+http://118.69.252.4/tv1/htvcthuanvietHD/index.m3u8
+#EXTINF:-1,VTC3 HD
+http://118.69.252.4/tv1/vtc3HD/index.m3u8
+#EXTINF:-1,ITV HD
+http://118.69.184.194/tv1/itvHD/index.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://118.69.252.4/tv3/StarMoviesHD/index.m3u8
+#EXTINF:-1,HBO HD
+http://118.69.252.4/tv3/HBOHD/index.m3u8
+#EXTINF:-1,AXN HD
+http://118.69.252.4/tv3/AXNHD/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://118.69.252.4/tv3/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://118.69.252.4/tv3/NationalGeographicHD/index.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://118.69.252.4/tv3/CartoonNetworkHD/index.m3u8
+#EXTINF:-1,FASHION TV HD
+http://118.69.252.4/tv3/FashionTVHD/index.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://118.69.252.4/tv3/FoxSportsHD/index.m3u8
 
+#EXTINF:-1,[COLOR red][B]Dùng Chung Cho Các Mạng[/B][/COLOR]
+http://textuploader.com
+#EXTINF:-1, VTV1 HD
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/playlist.m3u8
+#EXTINF:-1, VTV2 HD
+http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/playlist.m3u8
 #EXTINF:-1, VTV3 HD 
-http://live.vn-hd.com///spsklfl/vtv3.720p.stream/chunklist.m3u8
-#EXTINF:-1, VTV6 HD 
-http://live.vn-hd.com//spsklfl/vtv6.720p.stream/chunklist.m3u8
-#EXTINF:-1, HTV2 HD
-http://live.vn-hd.com//spsklfl/htv2.720p.stream/chunklist.m3u8
-#EXTINF:-1, HTV7 HD
-http://live.vn-hd.com//spsklfl/htv7.720p.stream/chunklist.m3u8
-#EXTINF:-1, HTV9 HD
-http://live.vn-hd.com//spsklfl/htv9.720p.stream/chunklist.m3u8
-#EXTINF:-1, HTVC phim HD 
-http://live.vn-hd.com//spsklfl/htvc_movies.720p.stream/chunklist.m3u8
-#EXTINF:-1, HTVC Thuần Việt HD 
-http://live.vn-hd.com//spsklfl/thuan_viet.720p.stream/chunklist.m3u8
-#EXTINF:-1, HTVC FBNC HD 
-http://live.vn-hd.com//spsklfl/fbnc.720p.stream/chunklist.m3u8
+http://27.67.50.69:18080/155_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, VTV4 HD
+http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/playlist.m3u8
+#EXTINF:-1, VTV5 HD
+http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/playlist.m3u8
+#EXTINF:-1, VTV6 HD
+http://27.67.50.69:18080/156_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, VTV8 HD 
+http://27.67.50.69:18080/39_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTV7 HD 
+http://27.67.50.69:18080/157_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTV9 HD 
+http://27.67.50.70:18080/158_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTVC Phim HD 
+http://27.67.50.70:18080/159_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTVC Thuan Viet HD
+http://27.67.50.68:18080/160_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, HTVC FBNC HD
+http://27.67.50.68:18080/177_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, VTC1 HD
+http://27.67.50.73:18080/150_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1, VTC3 HD
-http://live.vn-hd.com//spsklfl/vtc3.720p.stream/chunklist.m3u8
-#EXTINF:-1, NatGeo HD
-http://live.vn-hd.com//spsklfl/natgeo.720p.stream/chunklist.m3u8
-#EXTINF:-1, Starmovies HD 
-http://live.vn-hd.com///spsklfl/starmovies.720p.stream/chunklist.m3u8
-#EXTINF:-1, Starworld HD 
-http://live.vn-hd.com//spsklfl/starmovies.720p.stream/chunklist.m3u8
+http://27.67.50.73:18080/145_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, ITV HD 
+http://27.67.50.70:18080/152_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Starmovies HD
+http://27.67.50.72:18080/144_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1,HBO HD
+http://27.67.50.72:18080/162_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, AXN HD 
+http://27.67.50.70:18080/164_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Cinemax HD 
+http://27.67.50.68:18080/163_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, WarnerTV HD 
+http://27.67.50.70:18080/172_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, CN HD 
+http://27.67.50.68:18080/167_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, NATGEO HD 
+http://27.67.50.72:18080/153_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Discovery World HD 
+http://27.67.50.69:18080/168_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Da Vinci HD
+http://27.67.50.70:18080/173_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Outdoor HD 
+http://27.67.50.68:18080/146_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, AFC HD
+http://27.67.50.70:18080/178_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, DIVA HD
+http://27.67.50.68:18080/171_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, FoxSport HD 
+http://27.67.50.68:18080/165_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, FoxSport 2 HD 
+http://27.67.50.68:18080/166_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Starworld HD
+http://27.67.50.73:18080/142_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Channel V HD
+http://27.67.50.72:18080/179_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1, Fashion HD 
+http://27.67.50.68:18080/169_3.m3u8?AdaptiveType=HLS
