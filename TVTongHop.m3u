@@ -1,6 +1,6 @@
 #EXTM3U thanh51 
 
-#EXTINF:-1,[COLOR red][B]Updated ngày 02.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Updated ngày 08.08.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 
@@ -230,6 +230,55 @@ http://27.67.50.68:18080/132_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG",Ca Mau
 rtmp://113.161.220.254:1935/livepkgr/livestream2
 
+#EXTINF:-1 group-title="HAI NGOAI", VIETFACE 57.2
+http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", SGN
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", BYN
+http://origin.onworldtv.com:1935/liveorigin/byn/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", VIET GLOBAL
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", KVLA
+http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", YOUSTREAM LIVE
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", HUONG SEN
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", ITVSHOP
+http://origin.onworldtv.com:1935/liveorigin/itvshop/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", VNATV 573
+http://livestream.vnvn.net/vnatv57.3.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", IBC NEWS
+rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
+#EXTINF:-1 group-title="HAI NGOAI", VIETSET 574
+http://69.75.17.10:1935/vietset574tvv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", VSTAR TV
+http://204.9.200.251:1935/liveorigin/vstartv/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI", VIETCHRISTIAN
+mms://live.vietchristian.com/tv
+
+#EXTINF:-1 group-title="Sports", Rio 2016 1
+http://rio2016-live.ymgstatic.com/rio2016-c1/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 2
+http://rio2016-live.ymgstatic.com/rio2016-c2/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 3
+http://rio2016-live.ymgstatic.com/rio2016-c3/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 4
+http://rio2016-live.ymgstatic.com/rio2016-c4/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 5
+http://rio2016-live.ymgstatic.com/rio2016-c5/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 7
+http://rio2016-live.ymgstatic.com/rio2016-c7/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 8
+http://rio2016-live.ymgstatic.com/rio2016-c8/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 9
+http://rio2016-live.ymgstatic.com/rio2016-c9/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 10
+http://rio2016-live.ymgstatic.com/rio2016-c10/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Rio 2016 11
+http://rio2016-live.ymgstatic.com/rio2016-c11/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",TyC Sport
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",SUPER SPORTS
@@ -276,16 +325,20 @@ http://serv24.vintera.tv:8081/sport/boets/playlist.m3u8
 http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBC SPORT
 http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1 group-title="Sports",UK:ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
 
 #EXTINF:-1 group-title="QUOC TE",STARMOVIES HD
 http://27.67.50.6:18080/144_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",HBO HD
 http://27.67.50.72:18080/162_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",CINEMAX
-http://27.67.50.6:18080/163_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",CINEMAX HD
+http://27.67.50.73:18080/163_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",AXN HD
+http://27.67.50.68:18080/164_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",WarnerTV HD
 http://27.67.50.70:18080/172_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", CinemaWorld HD
+#EXTINF:-1 group-title="QUOC TE",CinemaWorld HD
 http://27.67.50.70:18080/174_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",ScreenRed
 http://27.67.50.6:18080/45_2.m3u8?AdaptiveType=HLS
@@ -293,20 +346,20 @@ http://27.67.50.6:18080/45_2.m3u8?AdaptiveType=HLS
 http://27.67.50.70:18080/167_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Disney HD
 http://27.67.50.69:18080/170_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Disney Junior 
-http://27.67.50.68:18080/73_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", NATGEO 
+http://27.67.50.72:18080/62_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",NATGEO HD
 http://27.67.50.72:18080/153_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",Discovery
+http://27.67.50.72:18080/67_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Discovery world HD
 http://27.67.50.68:18080/168_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE", Discovery
-http://27.67.50.72:18080/67_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Animal Planet
 http://27.67.50.70:18080/68_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",Outdoor HD
 http://27.67.50.69:18080/146_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",AFC
-http://27.67.50.68:18080/63_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE",AFC HD 
+http://27.67.50.70:18080/178_3.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE",BBC
 http://27.67.50.69:18080/22_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE", TV5MONDE
@@ -439,3 +492,46 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE", THAI:TRUE SELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Animal Planet
+http://80.80.160.168/live/1/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:TLC
+http://80.80.160.168/live/2/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Travel Channel
+http://80.80.160.168/live/3/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Planet Green
+http://80.80.160.168/live/4/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Investigation Discovery
+http://80.80.160.168/live/5/500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Showtime
+http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Discovery
+http://80.80.160.168/live/8/2500000/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",UK:Discovery Science
+http://80.80.160.168/live/9/2500000/live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
