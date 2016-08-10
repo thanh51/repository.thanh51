@@ -282,14 +282,18 @@ http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_
 http://64.71.129.2:8080/hls/ius_000131.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",ITV SHOP
 http://origin.onworldtv.com:1935/liveorigin/itvshop/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3
-http://livestream.vnvn.net/vnatv57.3.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s1
+http://stream.onworldtv.com/edge/liveorigin/vna/index.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s2
+http://origin.onworldtv.com:1935/liveorigin/vna/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",IBC NEWS
 rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
 #EXTINF:-1 group-title="HAI NGOAI",VIETSET 57.4
 http://69.75.17.10:1935/vietset574tvv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV
+#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s1
 http://204.9.200.251:1935/liveorigin/vstartv/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s2
+http://stream.onworldtv.com/edge/liveorigin/vstartv/index.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIETCHRISTIAN
 mms://live.vietchristian.com/tv
 #EXTINF:-1 group-title="HAI NGOAI",KEENG TV
@@ -300,6 +304,24 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
 http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",Nail & Beauty Channel
+http://stream.onworldtv.com/edge/liveorigin/lexor/index.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",Radio Bolsa Westminster 
+http://ice7.securenetsystems.net/RBVU?type=.flv
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 106.3 FM Los Angeles 
+http://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 1430 AM San Jose
+http://ice5.securenetsystems.net:80/KVVN
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 900 AM Houston 
+http://ice5.securenetsystems.net:80/KREH
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio Seattle 
+http://170.75.194.209:8888
+#EXTINF:-1 group-title="HAI NGOAI",Thời Báo Radio Toronto 
+http://209.250.131.2:8000/;stream.mp3
+#EXTINF:-1 group-title="HAI NGOAI",Tiếng Nước Tôi San Jose 
+http://peter7.primcast.com:4088/;stream.mp3
+#EXTINF:-1 group-title="HAI NGOAI",Radio VNHN/VABC Falls Church  
+http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",Rio 2016 1
 http://rio2016-live.ymgstatic.com/rio2016-c1/chunklist.m3u8
