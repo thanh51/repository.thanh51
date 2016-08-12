@@ -174,8 +174,6 @@ http://27.67.50.6:18080/103_2.m3u8?AdaptiveType=HLS
 http://27.67.50.6:18080/104_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", QUANG TRI
 http://27.67.50.6:18080/105_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG", QUANG TRI
-http://27.67.50.6:18080/108_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", THUA THIEN HUE
 http://27.67.50.6:18080/106_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", DA NANG 1
@@ -206,7 +204,7 @@ http://27.67.50.6:18080/118_2.m3u8?AdaptiveType=HLS
 http://27.67.50.6:18080/98_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", TAY NINH
 http://27.67.50.6:18080/120_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG", BINH PHUOC 1
+#EXTINF:-1 group-title="DIA PHUONG", BINH PHUOC 
 http://27.67.50.6:18080/121_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", BINH DUONG 1
 http://27.67.50.6:18080/123_2.m3u8?AdaptiveType=HLS
@@ -236,11 +234,11 @@ http://27.67.50.6:18080/139_2.m3u8?AdaptiveType=HLS
 http://27.67.50.6:18080/135_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", BAC LIEU
 http://27.67.50.6:18080/126_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG", AN GIANG 1
+#EXTINF:-1 group-title="DIA PHUONG", AN GIANG 
 http://27.67.50.6:18080/136_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", TIEN GIANG
 http://27.67.50.6:18080/130_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG", DONG THAP 1
+#EXTINF:-1 group-title="DIA PHUONG", DONG THAP 
 http://27.67.50.6:18080/132_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="DIA PHUONG", KIEN GIANG
 http://27.67.50.6:18080/140_2.m3u8?AdaptiveType=HLS
@@ -259,7 +257,7 @@ http://origin.onworldtv.com:1935/liveorigin/byn/playlist.m3u8
 http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",KVLA
 http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel57.6
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",YOU STREAMLIVE
 http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
