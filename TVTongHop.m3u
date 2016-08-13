@@ -376,7 +376,7 @@ http://serv24.vintera.tv:8081/sport/boets/playlist.m3u8
 http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBCSPORT
 http://149.255.152.110/cbcsport/index.m3u8
-#‎EXTINF‬:-1 group-title="Sports",RTS RIO 2016
+#EXTINF:-1 group-title="Sports", RIO 2016
 rtmp://rtssat2.videostreaming.rs/rtsprivremeni/rtsprivremeni.1.stream
 #EXTINF:-1 group-title="Sports",Sport HD
 http://46.47.133.91:80/hls/CT4HD_low.m3u8
