@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 12.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 13.08.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD
@@ -340,10 +340,6 @@ http://27.67.50.6:18080/166_3.m3u8?AdaptiveType=HLS
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://92.222.205.40:8085/lighd
-#EXTINF:-1 group-title="Sports",CCTV5 HD
-http://183.207.249.6/PLTV/3/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="Sports",CCTV5+ HD
-http://183.207.249.6/PLTV/3/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="Sports",SUPERTENITS
 http://94.100.31.242:8183/hls/xz3125/index.m3u8
 #EXTINF:-1 group-title="Sports",Thai:TRUESPORT HD2
@@ -380,6 +376,38 @@ http://serv24.vintera.tv:8081/sport/boets/playlist.m3u8
 http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBCSPORT
 http://149.255.152.110/cbcsport/index.m3u8
+#‎EXTINF‬:-1 group-title="Sports",RTS RIO 2016
+rtmp://rtssat2.videostreaming.rs/rtsprivremeni/rtsprivremeni.1.stream
+#EXTINF:-1 group-title="Sports",Sport HD
+http://46.47.133.91:80/hls/CT4HD_low.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 2 HD
+http://46.47.133.91:80/hls/SlovakSPORT2HD_low.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 1
+http://83.78.191.43:2027/
+#EXTINF:-1 group-title="Sports",Eurosport 1 HD
+http://46.47.133.91:80/hls/EurosportHD_low.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 2 HD
+http://46.47.133.91:80/hls/Eurosport2HD_low.m3u8
+#EXTINF:-1 group-title="Sports",Sport 1
+http://46.47.133.91:80/hls/Sport1_low.m3u8
+#EXTINF:-1 group-title="Sports",Sport 2 HD
+http://46.47.133.91:80/hls/Sport2HD_low.m3u8
+‪#EXTINF:-1 group-title="Sports",SPORT TV 1
+http://83.78.191.43:2065/
+#EXTINF:-1 group-title="Sports",SPORT TV 2
+http://83.78.191.43:2066/
+#EXTINF:-1 group-title="Sports",SPORT TV 3
+http://83.78.191.43:2067/
+#EXTINF:-1 group-title="Sports",sport tv3 hd
+http://83.78.191.43:2064/
+#EXTINF:-1 group-title="Sports",Real Madrid TV
+http://83.78.191.43:2050/
+#EXTINF:-1 group-title="Sports",Chelsea TV
+http://83.78.191.43:2016/
+#EXTINF:-1 group-title="Sports",Kombat Sport
+http://83.78.191.43:2025/
+#EXTINF:-1 group-title="Sports",Motors TV
+http://83.78.191.43:2039/
 
 #EXTINF:-1 group-title="QUOC TE", STARMOVIES 
 http://27.67.50.6:18080/144_2.m3u8?AdaptiveType=HLS
@@ -471,46 +499,6 @@ http://27.67.50.6:18080/179_3.m3u8?AdaptiveType=HLS
 http://27.67.50.6:18080/66_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="QUOC TE", FASHION HD
 http://27.67.50.6:18080/169_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE",China:CCTV1
-http://183.207.249.6/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV3
-http://183.207.249.6/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV4
-http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV6 HD
-http://183.207.249.6/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV7
-http://183.207.249.6/PLTV/3/224/3221225546/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV8 HD
-http://183.207.249.6/PLTV/3/224/3221225542/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV9
-http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV10
-http://183.207.249.6/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV11
-http://183.207.249.6/PLTV/3/224/3221225552/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV12
-http://183.207.249.6/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV13
-http://183.207.249.6/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CCTV14
-http://183.207.249.6/PLTV/3/224/3221225564/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:MOVIES 1
-http://183.207.249.6/PLTV/3/224/3221225561/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:MOVIES 2
-http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:MOVIES 3
-http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:MOVIES 4
-http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",Thai:Chinese Series
-rtmp://103.40.138.89:1935/live/ac1
-#EXTINF:-1 group-title="QUOC TE",Thai:India Film
-rtmp://103.40.138.89:1935/live/ac3
-#EXTINF:-1 group-title="QUOC TE",Thai:Korea Movie
-rtmp://103.40.138.89:1935/live/ac2
-#EXTINF:-1 group-title="QUOC TE",Thai:Hollywood Film
-rtmp://103.40.138.89:1935/live/ac4
 #EXTINF:-1 group-title="QUOC TE",THAI:CHANNEL 2
 http://a1.adintrend.com:443/live/ch22/i/ch22i.m3u8
 #EXTINF:-1 group-title="QUOC TE",THAI:CHANNEL 3 SD
@@ -557,15 +545,60 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE",THAI:TRUESELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="QUOC TE",Nat Geo
+http://46.47.133.91:80/hls/NatGeo_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Nat Geo Wild
+http://83.78.191.43:2041/
+#EXTINF:-1 group-title="QUOC TE",Discovery Channel
+http://83.78.191.43:2023/
+#EXTINF:-1 group-title="QUOC TE",Discovery Science
+http://46.47.133.91:80/hls/DiscoveryScience_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Discovery HD Showcase
+http://46.47.133.91:80/hls/DiscHDShowCase_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Discovery Turbo Xtra
+http://46.47.133.91:80/hls/DiscoveryWorld_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Animal Planet
+http://46.47.133.91:80/hls/AnimalPlanet_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Doku CS
+http://46.47.133.91:80/hls/DokuCS_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Odisseia
+http://83.78.191.43:2043/
+#EXTINF:-1 group-title="QUOC TE",Historia
+http://83.78.191.43:2012/
+#EXTINF:-1 group-title="QUOC TE",CBS Reality_OLD
+http://83.78.191.43:2015/
+#EXTINF:-1 group-title="QUOC TE",Cinemundo
+http://83.78.191.43:2017/
+#EXTINF:-1 group-title="QUOC TE",Cartoon Network
+http://83.78.191.43:2014/
+#EXTINF:-1 group-title="QUOC TE",Disney Channel
+http://83.78.191.43:2024/
+#EXTINF:-1 group-title="QUOC TE",Jim Jam
+http://83.78.191.43:2037/
+#EXTINF:-1 group-title="QUOC TE",FOX
+http://83.78.191.43:2029/
+#EXTINF:-1 group-title="QUOC TE",FOX News
+http://83.78.191.43:2030/
+#EXTINF:-1 group-title="QUOC TE",FOX Comedy
+http://83.78.191.43:2033/
+#EXTINF:-1 group-title="QUOC TE",Syfy
+http://83.78.191.43:2070/
+#EXTINF:-1 group-title="QUOC TE",Playboy TV
+http://83.78.191.43:2086/
+#EXTINF:-1 group-title="QUOC TE",AXN
+http://46.47.133.91:80/hls/AXN_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",AXN White
+http://46.47.133.91:80/hls/AXNWhite_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",AXN Black
+http://46.47.133.91:80/hls/AXNBlack_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Filmbox Extra HD
+http://46.47.133.91:80/hls/FilmboxHD_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Filmbox Family
+http://46.47.133.91:80/hls/FilmboxFamily_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Filmbox Premium
+http://46.47.133.91:80/hls/FilmboxExtra_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Kino CS
+http://46.47.133.91:80/hls/KinoCS_low.m3u8
 
 
 
