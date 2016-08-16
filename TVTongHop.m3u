@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 16.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 17.08.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD
@@ -256,6 +256,18 @@ http://rio2016-live.ymgstatic.com/rio2016-c9/chunklist.m3u8
 http://rio2016-live.ymgstatic.com/rio2016-c10/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",Rio 2016 11
 http://rio2016-live.ymgstatic.com/rio2016-c11/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Rio 2016 12
+http://rio2016-live.ymgstatic.com/rio2016-c12/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",OSN SPORT 1 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/78.ts
+#EXTINF:-1 group-title="Sports",OSN SPORT 2 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/79.ts
+#EXTINF:-1 group-title="Sports",OSN SPORT 3 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/80.ts
+#EXTINF:-1 group-title="Sports",AR_BEIN 1 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/2.ts
+#EXTINF:-1 group-title="Sports",AR_BEIN 2 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.ts
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://92.222.205.40:8085/lighd
 #EXTINF:-1 group-title="Sports",Thai:TRUESPORT HD2
@@ -284,30 +296,10 @@ http://79.98.9.170:8000/42
 http://79.98.9.170:8000/107
 #EXTINF:-1 group-title="Sports",Russia:ABTO 24
 http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Russia:BoksTV
-http://62.76.26.81:8081/sport/bokstv_09/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Russia:BoecTV
-http://serv24.vintera.tv:8081/sport/boets/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Russia:MATCH!OurSport
-http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBCSPORT
 http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:-1 group-title="Sports", RIO 2016
-rtmp://rtssat2.videostreaming.rs/rtsprivremeni/rtsprivremeni.1.stream
-#EXTINF:-1 group-title="Sports",Sport HD
-http://46.47.133.91:80/hls/CT4HD_low.m3u8
-#EXTINF:-1 group-title="Sports",Arena Sport 2 HD
-http://46.47.133.91:80/hls/SlovakSPORT2HD_low.m3u8
 #EXTINF:-1 group-title="Sports",Eurosport 1
 http://83.78.191.43:2027/
-#EXTINF:-1 group-title="Sports",Eurosport 1 HD
-http://46.47.133.91:80/hls/EurosportHD_low.m3u8
-#EXTINF:-1 group-title="Sports",Eurosport 2 HD
-http://46.47.133.91:80/hls/Eurosport2HD_low.m3u8
-#EXTINF:-1 group-title="Sports",Sport 1
-http://46.47.133.91:80/hls/Sport1_low.m3u8
-#EXTINF:-1 group-title="Sports",Sport 2 HD
-http://46.47.133.91:80/hls/Sport2HD_low.m3u8
 ‪#EXTINF:-1 group-title="Sports",SPORT TV 1
 http://83.78.191.43:2065/
 #EXTINF:-1 group-title="Sports",SPORT TV 2
@@ -324,6 +316,8 @@ http://83.78.191.43:2016/
 http://83.78.191.43:2025/
 #EXTINF:-1 group-title="Sports",Motors TV
 http://83.78.191.43:2039/
+#EXTINF:-1 group-title="Sports",A Bola TV
+http://83.78.191.43:2085/
 #EXTINF:-1 group-title="Sports",ARENA SPORT 1
 http://centurionlukavac.com:80/live?channelId=65&uid=2&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:-1 group-title="Sports",ARENA SPORT 2
@@ -344,23 +338,25 @@ http://centurionlukavac.com:80/live?channelId=75&uid=2&deviceUser=hicham123&devi
 http://centurionlukavac.com:80/live?channelId=73&uid=2&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:-1 group-title="Sports",SPORT KLUB 3 SR
 http://centurionlukavac.com:80/live?channelId=76&uid=2&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:-1 group-title="Sports",Dubai Sports HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Sports",Diema Sport
+http://195.228.11.89:4080/udp/225.255.255.70:10000
+#EXTINF:-1 group-title="Sports",Diema Sport 2
+http://195.228.11.89:4080/udp/225.255.255.63:10000
 
-#EXTINF:-1 group-title="QUOC TE",AXN
-http://46.47.133.91:80/hls/AXN_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",AXN White
-http://46.47.133.91:80/hls/AXNWhite_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",AXN Black
-http://46.47.133.91:80/hls/AXNBlack_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Filmbox Extra HD
-http://46.47.133.91:80/hls/FilmboxHD_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Filmbox Family
-http://46.47.133.91:80/hls/FilmboxFamily_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Filmbox Premium
-http://46.47.133.91:80/hls/FilmboxExtra_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Kino CS
-http://46.47.133.91:80/hls/KinoCS_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Playboy TV
-http://83.78.191.43:2086/
+#EXTINF:-1 group-title="QUOC TE",TVCine 1
+http://83.78.191.43:2075/
+#EXTINF:-1 group-title="QUOC TE",TVCine 2
+http://83.78.191.43:2076/
+#EXTINF:-1 group-title="QUOC TE",TVCine 3
+http://83.78.191.43:2077/
+#EXTINF:-1 group-title="QUOC TE",TVCine 4
+http://83.78.191.43:2078/
+#EXTINF:-1 group-title="QUOC TE",TVSeries
+http://83.78.191.43:2082/
 #EXTINF:-1 group-title="QUOC TE",FOX
 http://83.78.191.43:2029/
 #EXTINF:-1 group-title="QUOC TE",FOX News
@@ -369,6 +365,8 @@ http://83.78.191.43:2030/
 http://83.78.191.43:2033/
 #EXTINF:-1 group-title="QUOC TE",Syfy
 http://83.78.191.43:2070/
+#EXTINF:-1 group-title="QUOC TE",Hollywod
+http://83.78.191.43:2035/
 #EXTINF:-1 group-title="QUOC TE",CBS Reality_OLD
 http://83.78.191.43:2015/
 #EXTINF:-1 group-title="QUOC TE",Cinemundo
@@ -377,24 +375,24 @@ http://83.78.191.43:2017/
 http://83.78.191.43:2014/
 #EXTINF:-1 group-title="QUOC TE",Disney Channel
 http://83.78.191.43:2024/
+#EXTINF:-1 group-title="QUOC TE",Disney Junior
+http://195.228.11.89:4080/udp/225.255.255.71:10000
 #EXTINF:-1 group-title="QUOC TE",Jim Jam
 http://83.78.191.43:2037/
-#EXTINF:-1 group-title="QUOC TE",Nat Geo
-http://46.47.133.91:80/hls/NatGeo_low.m3u8
+#EXTINF:-1 group-title="QUOC TE",Playboy TV
+http://83.78.191.43:2086/
+#EXTINF:-1 group-title="QUOC TE",Venus
+http://83.78.191.43:2083/
+#EXTINF:-1 group-title="QUOC TE",S 1
+http://centurionlukavac.com:80/live?channelId=79&uid=2&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:-1 group-title="QUOC TE",S 2
+http://centurionlukavac.com:80/live?channelId=80&uid=2&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:-1 group-title="QUOC TE",Nat Geo Wild
 http://83.78.191.43:2041/
 #EXTINF:-1 group-title="QUOC TE",Discovery Channel
 http://83.78.191.43:2023/
-#EXTINF:-1 group-title="QUOC TE",Discovery Science
-http://46.47.133.91:80/hls/DiscoveryScience_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Discovery HD Showcase
-http://46.47.133.91:80/hls/DiscHDShowCase_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Discovery Turbo Xtra
-http://46.47.133.91:80/hls/DiscoveryWorld_low.m3u8
 #EXTINF:-1 group-title="QUOC TE",Animal Planet
-http://46.47.133.91:80/hls/AnimalPlanet_low.m3u8
-#EXTINF:-1 group-title="QUOC TE",Doku CS
-http://46.47.133.91:80/hls/DokuCS_low.m3u8
+http://195.228.11.89:4080/udp/225.255.255.64:10000
 #EXTINF:-1 group-title="QUOC TE",Odisseia
 http://83.78.191.43:2043/
 #EXTINF:-1 group-title="QUOC TE",Historia
@@ -403,8 +401,12 @@ http://83.78.191.43:2012/
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 #EXTINF:-1 group-title="QUOC TE",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 group-title="QUOC TE",NHK WORLD TV
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/domestic/222467/live_high.m3u8
 #EXTINF:-1 group-title="QUOC TE",Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE",Perviy Kanal
+http://195.228.11.89:4080/udp/225.255.255.62:10000
 #EXTINF:-1 group-title="QUOC TE",THAI:CHANNEL 2
 http://a1.adintrend.com:443/live/ch22/i/ch22i.m3u8
 #EXTINF:-1 group-title="QUOC TE",THAI:CHANNEL 3 SD
@@ -451,7 +453,6 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE",THAI:TRUESELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
-
 
 
 
