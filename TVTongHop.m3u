@@ -3,21 +3,29 @@
 #EXTINF:-1,[COLORred][B]Updated ngày 17.08.2016[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s1
+http://103.21.148.45:81/icomchannelvtv/smil:vtv1hd_adb.smil/chunklist_b1328000_sleng.m3u8 
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s2
 http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 HD
+#EXTINF:-1 group-title="VTV-VTVcab",VTV2 
+http://103.21.148.45:81/icomchannelvtv/smil:vtv2_adb.smil/chunklist_b928000_sleng.m3u8 
+#EXTINF:-1 group-title="VTV-VTVcab",VTV2 HD
 http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV4 HD
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD 
+http://103.21.148.45:81/icomchannelvtv/smil:vtv3hd_adb.smil/chunklist_b1328000_sleng.m3u8 
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4 HD
 http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV5 HD
+#EXTINF:-1 group-title="VTV-VTVcab",VTV5 HD
 http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV6 HD
+#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD
 http://live.cdn.mobifonetv.vn/motv/vtv6hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV8 
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9
+#EXTINF:-1 group-title="VTV-VTVcab",VTV9
 http://live.cdn.mobifonetv.vn/motv/vtv9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VOV
+#EXTINF:-1 group-title="VTV-VTVcab",VOV s1  
+http://103.21.148.45:81/icomchannelvtc/smil:fvov_adb.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VOV s2
 http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VIETNAMNET
 http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8
@@ -62,17 +70,29 @@ http://123.30.185.126/hls/vtc1.m3u8
 http://live.cdn.mobifonetv.vn/motv2/vtc1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTC",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTC",VTC9 
+#EXTINF:-1 group-title="VTC", Yeah1 Family-VTC4 
+http://103.21.148.45:81/icomchannelvtc/smil:fvtc4_adb.smil/chunklist_b928000_sleng.m3u8 
+#EXTINF:-1 group-title="VTC", SofaTV-VTC5 
+http://103.21.148.45:81/icomchannelvtc/smil:fvtc5_adb.smil/chunklist_b928000_sleng.m3u8 
+#EXTINF:-1 group-title="VTC", TodayTV-VTC7 
+http://103.21.148.45:81/icomchannelvtv/smil:vtv2_adb.smil/chunklist_b928000_sleng.m3u8 
+#EXTINF:-1 group-title="VTC",Let's Việt-VTC9 s1
+http://103.21.148.45:81/icomchannelvtc/smil:fvtc9_adb.smil/chunklist_b928000_sleng.m3u8 
+#EXTINF:-1 group-title="VTC",Let's Việt-VTC9 s2
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC10 
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC11 
+#EXTINF:-1 group-title="VTC",KidsTV & Family-VTC11 s1
+http://103.21.148.45:81/icomchannelvtc/smil:fvtc11_adb.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",KidsTV & Family-VTC11 s2
 rtmp://118.107.84.3/live//vtc11_public
-#EXTINF:-1 group-title="VTC", VTC13 HD 
+#EXTINF:-1 group-title="VTC", iTV-VTC13 HD 
 http://live.cdn.mobifonetv.vn/motv/itvhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC",VTC13 s1
+#EXTINF:-1 group-title="VTC", iTV-VTC13 s1
+http://103.21.148.45:81/icomchannelvtc/smil:fitv_adb.smil/chunklist_b928000_sleng.m3u8 
+#EXTINF:-1 group-title="VTC",iTV-VTC13 s2
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC13 s2
+#EXTINF:-1 group-title="VTC",iTV-VTC13 s3
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTC",VTC14 s1
 http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
@@ -453,8 +473,6 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE",THAI:TRUESELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
-
-
 
 
 
