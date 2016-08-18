@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 17.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 18.08.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s1
@@ -100,8 +100,6 @@ http://210.245.18.154/spsklfl/_definst_/htv4.360p.stream/chunklist.m3u8
 http://210.245.18.154/spsklfl/_definst_/htv7.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC", HTV9 HD
 http://210.245.18.154/spsklfl/_definst_/htv9.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC the thao HD 
-http://210.245.18.154/spsklfl/_definst_/htvc_the_thao.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC", HTVC phim HD
 http://210.245.18.154/spsklfl/_definst_/htvc_movies.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC", HTVC Thuan Viet HD
@@ -401,6 +399,10 @@ http://rio2016-live.ymgstatic.com/rio2016-c10/chunklist.m3u8
 http://rio2016-live.ymgstatic.com/rio2016-c11/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",Rio 2016 12
 http://rio2016-live.ymgstatic.com/rio2016-c12/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", VTC3 HD
+http://210.245.18.154/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",VTC3  
+http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports",OSN SPORT 1 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/78.ts
 #EXTINF:-1 group-title="Sports",OSN SPORT 2 HD
@@ -411,6 +413,8 @@ http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/80.ts
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/2.ts
 #EXTINF:-1 group-title="Sports",AR_BEIN 2 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.ts
+#EXTINF:-1 group-title="Sports",Bein Sports Español
+http://premium.exabytetv.info/xtc/youareaexabit/1146/exabytetv.m3u8
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://92.222.205.40:8085/lighd
 #EXTINF:-1 group-title="Sports",Thai:TRUESPORT HD2
@@ -604,6 +608,54 @@ http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
 http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
 #EXTINF:-1 group-title="QUOC TE",THAI:TRUESELECT
 http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Cinemax
+http://premium.exabytetv.info/total3/youareaexabit/445/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Warner HD
+http://premium.exabytetv.info/total3/youareaexabit/465/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Fox Movies
+http://premium.exabytetv.info/total3/youareaexabit/451/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Animal Planet
+http://premium.exabytetv.info/total3/youareaexabit/489/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Discovery Channel
+http://premium.exabytetv.info/total3/youareaexabit/491/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Discovery Civilization
+http://premium.exabytetv.info/total3/youareaexabit/492/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Discovery SCI
+http://premium.exabytetv.info/total3/youareaexabit/493/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Discovery Theater
+http://premium.exabytetv.info/total3/youareaexabit/496/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Discovery Turbo
+http://premium.exabytetv.info/total3/youareaexabit/494/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Discovery World
+http://premium.exabytetv.info/total3/youareaexabit/495/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:History Channel
+http://premium.exabytetv.info/total3/youareaexabit/497/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Investigation Discovery
+http://premium.exabytetv.info/total3/youareaexabit/500/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Nat Geo
+http://premium.exabytetv.info/total3/youareaexabit/501/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:Nat Geo Wild
+http://premium.exabytetv.info/total3/youareaexabit/502/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:ABC 12 Anchorage - AK Alaska
+http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:América Teve
+http://premium.exabytetv.info/gc/youareaexabit/944/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:CBS 4.1 Dothan - AL Alabama
+http://premium.exabytetv.info/gc/youareaexabit/1082/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:CBS 6.1 Tallahassee - FL Florida
+http://premium.exabytetv.info/gc/youareaexabit/1083/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:CBS 7.1 Seattle - WA Washington
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:CBS 12.1 Augusta - GA Georgia
+http://premium.exabytetv.info/gc/youareaexabit/1084/exabytetv.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:CBS 31.1 Peoria - IL Illinois
+http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:KTBS 3.3 24-HourNews 
+http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin:NOTV 41 New Orleans - LA Louisiana
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 
 
