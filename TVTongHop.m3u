@@ -483,6 +483,8 @@ http://centurionlukavac.com:80/live?channelId=75&uid=2&deviceUser=hicham123&devi
 http://centurionlukavac.com:80/live?channelId=73&uid=2&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:-1 group-title="Sports",SPORT KLUB 3 SR
 http://centurionlukavac.com:80/live?channelId=76&uid=2&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:-1 group-title="Spotrs",ESPN HD
+http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 group-title="QUOC TE", Starmovies HD 
 http://210.245.18.154/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8
@@ -588,3 +590,19 @@ rtmp://103.40.138.89:1935/live/ac3
 rtmp://103.40.138.89:1935/live/ac2
 #EXTINF:-1 group-title="QUOC TE",Thai:Hollywood Film
 rtmp://103.40.138.89:1935/live/ac4
+#EXTINF:-1 group-title="QUOC TE",Discovery HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 group-title="QUOC TE",SHO HD
+http://80.80.160.168/live/7/live.m3u8
