@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 18.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 21.08.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s1
@@ -311,7 +311,7 @@ http://210.245.18.154/spsklfl/_definst_/dongthap.360p.stream/chunklist.m3u8
 http://210.245.18.154/spsklfl/_definst_/angiang.480.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",An Giang s2
 rtmp://113.161.212.25/live//atv1
-#EXTINF:-1 group-title="DIA PHUONG", Ca mau s1
+#EXTINF:-1 group-title="DIA PHUONG",Ca mau s1
 http://210.245.18.154/spsklfl/_definst_/camau.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Ca Mau s2
 rtmp://113.161.220.254:1935/livepkgr/livestream2
@@ -401,8 +401,6 @@ http://rio2016-live.ymgstatic.com/rio2016-c11/chunklist.m3u8
 http://rio2016-live.ymgstatic.com/rio2016-c12/chunklist.m3u8
 #EXTINF:-1 group-title="Sports", VTC3 HD
 http://210.245.18.154/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports",OSN SPORT 1 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/78.ts
 #EXTINF:-1 group-title="Sports",OSN SPORT 2 HD
@@ -419,20 +417,6 @@ http://92.222.205.40:8085/lighd
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1 group-title="Sports",Thai:TRUESPORT2
 rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1 group-title="Sports",Thai:TRUESPORT HD
-http://27.254.150.7:1935/footballfuck/thd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Thai:TRUESPORT2
-http://27.254.150.7:1935/footballfuck/t2_360p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Thai:TRUESPORT3 HD
-http://27.254.150.7:1935/footballfuck/thd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Thai:TRUESPORT 5
-http://27.254.150.7:1935/footballfuck/t5_360p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Thai:TRUESPORT 7
-http://27.254.150.7:1935/footballfuck/t7_360p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Thai:FOXSPORT HD
-http://27.254.150.7:1935/footballfuck/fox1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Thai:FOXSPORT2 HD
-http://27.254.150.7:1935/footballfuck/fox2_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Russia:Football s1
 http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Russia:Football s2	
@@ -463,26 +447,6 @@ http://83.78.191.43:2025/
 http://83.78.191.43:2039/
 #EXTINF:-1 group-title="Sports",A Bola TV
 http://83.78.191.43:2085/
-#EXTINF:-1 group-title="Sports",ARENA SPORT 1
-http://centurionlukavac.com:80/live?channelId=65&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",ARENA SPORT 2
-http://centurionlukavac.com:80/live?channelId=66&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",ARENA SPORT 3
-http://centurionlukavac.com:80/live?channelId=67&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",ARENA SPORT 4
-http://centurionlukavac.com:80/live?channelId=68&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",SPORT KLUB 1
-http://centurionlukavac.com:80/live?channelId=71&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",SPORT KLUB 1 SR
-http://centurionlukavac.com:80/live?channelId=74&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",SPORT KLUB 2
-http://centurionlukavac.com:80/live?channelId=72&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",SPORT KLUB 2 SR
-http://centurionlukavac.com:80/live?channelId=75&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",SPORT KLUB 3
-http://centurionlukavac.com:80/live?channelId=73&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="Sports",SPORT KLUB 3 SR
-http://centurionlukavac.com:80/live?channelId=76&uid=2&deviceUser=hicham123&devicePass=1243hicham
 
 #EXTINF:-1 group-title="QUOC TE", Starmovies HD 
 http://210.245.18.154/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8
@@ -528,10 +492,6 @@ http://83.78.191.43:2037/
 http://83.78.191.43:2086/
 #EXTINF:-1 group-title="QUOC TE",Venus
 http://83.78.191.43:2083/
-#EXTINF:-1 group-title="QUOC TE",S 1
-http://centurionlukavac.com:80/live?channelId=79&uid=2&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:-1 group-title="QUOC TE",S 2
-http://centurionlukavac.com:80/live?channelId=80&uid=2&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:-1 group-title="QUOC TE",Nat Geo Wild
 http://83.78.191.43:2041/
 #EXTINF:-1 group-title="QUOC TE",Discovery Channel
@@ -552,70 +512,3 @@ http://web-cache.stream.ne.jp/www11/nhkworld-tv/domestic/222467/live_high.m3u8
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE",Perviy Kanal
 http://195.228.11.89:4080/udp/225.255.255.62:10000
-#EXTINF:-1 group-title="QUOC TE",Thai: CH2
-http://111.223.52.110/tot/4e38ed2fa4dd43999828eab81196deff.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: CH3  
-http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
-#EXTINF:-1 group-title="QUOC TE",Thai: CH5
-http://111.223.52.110/tot/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: CH7
-http://111.223.52.110/tot/ddfa47e726444446864b14e0e819fdde.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: CH8
-http://111.223.52.110/tot/15c52eeb21b748319771eb794a6cf242.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Modern 9
-http://111.223.52.110/tot/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Thaichaiyo
-http://111.223.52.110/tot/a2ca06da9478412e9501d968e31bbf75.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: NEW TV18
-http://111.223.52.110/tot/0d01fdc1362f427ca5527c645f5f908f.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Sky News HD 
-http://111.223.52.110/tot/31b003ab7e7749a798fe00424e3dd9ff.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Al Yazeera News 
-http://111.223.52.110/tot/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai:France 24 News 
-http://111.223.52.110/tot/82c764aa2d7f42579348b8717cb5b9a4.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Fox News 
-http://111.223.52.110/tot/1e2041858ca543fa90ec95d28197e907.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Nat Geo Wild 
-http://111.223.52.110/tot/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?token=fuck
-#EXTINF:-1 group-title="QUOC TE",Thai: Nat Geo People
-http://111.223.52.110/tot/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: FyiAsia
-http://111.223.52.110/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: CI
-http://111.223.52.110/tot/9961a963920f45f4bc0d81c3e478b334.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: CCTV 9 – Documentary
-http://111.223.52.110/tot/b08a8052e6724bedba5399f662715ad1.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: FX HD
-http://111.223.52.110/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: FOX Crime HD
-http://111.223.52.110/tot/5028f7ff1d1b4d5f8189690233364737.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Universal channel
-http://111.223.52.110/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Syfy
-http://111.223.52.110/tot/71f197de056e499a85265c03b44bdab1.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Kix
-http://111.223.52.110/tot/e584e0adae6440eab366f5fe3a824f91.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Thrill
-http://111.223.52.110/tot/c316ed9333e54442b25077f0bb3cc269.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: CCTV4
-http://111.223.52.110/tot/5289381709e64f8db14a4ed75ab2b59f.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: STAR Chinese Movies Legend
-http://111.223.52.110/tot/c8233976dbba4a06a101780907447375.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai:Celestial Classic Movies
-http://111.223.52.110/tot/1c2276a2f1884b269ce281c3334e8f85.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Box Film
-http://111.223.52.110/tot/fc8195dc989240348772d00dd9eba3d0.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Cartoon Club
-http://111.223.52.110/tot/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Gang Cartoon
-http://111.223.52.110/tot/7299670a140849a9aaf946b0302ad886.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Baby tv HD
-http://111.223.52.110/tot/7773f3cef0334a28ad248552ea63d9e7.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Nick Jr
-http://111.223.52.110/tot/2b72986be9314c139db95f6098d1c413.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Boomerang
-http://111.223.52.110/tot/06c02432266f4f42b48947e075de38c5.m3u8?token=fuck
-#EXTINF:-1group-title="QUOC TE",Thai: Star World HD
-http://111.223.52.110/tot/65f7358b813048a0898f5677e1793cf9.m3u8?token=fuck
-
