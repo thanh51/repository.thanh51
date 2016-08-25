@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 24.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 25.08.2016[/B][/COLOR]
 http://textuploader.com
 
 
@@ -299,16 +299,18 @@ rtmp://113.161.220.254:1935/livepkgr/livestream2
 
 #EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",SGN
+#EXTINF:-1 group-title="HAI NGOAI",SGN 51.3 LIVE – SAIGON NETWORK TV ( HOUSTON, TEXAS )
 http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",BYN
-http://origin.onworldtv.com:1935/liveorigin/byn/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",SAIGON TV LIVE – Media Kit & Rate (WESTMINSTER, CALIFORNIA)
+http://63.143.59.125:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIET GLOBAL
 http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",KVLA
 http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s1
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s2
+http://69.75.17.10:1935/vbstv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",YOU STREAMLIVE
 http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIETBAY
@@ -319,6 +321,10 @@ http://origin.onworldtv.com:1935/liveorigin/itvshop/playlist.m3u8
 http://stream.onworldtv.com/edge/liveorigin/vna/index.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s2
 http://origin.onworldtv.com:1935/liveorigin/vna/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s3
+http://livestream.vnvn.net/vnatv573.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",S CHANNEL TV 56.6 Live TV
+http://64.71.129.2:8080/hls/ius_000114.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",IBC NEWS
 rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
 #EXTINF:-1 group-title="HAI NGOAI",VIETSET 57.4
@@ -327,13 +333,17 @@ http://69.75.17.10:1935/vietset574tvv/myStream/playlist.m3u8
 http://204.9.200.251:1935/liveorigin/vstartv/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s2
 http://stream.onworldtv.com/edge/liveorigin/vstartv/index.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",V STAR TV CHANNEL 57.11 – Nam California s3
+http://origin.onworldtv.com:1935/liveorigin/vstartv/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",Công Giáo TV
+http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIETCHRISTIAN
 mms://live.vietchristian.com/tv
 #EXTINF:-1 group-title="HAI NGOAI",KEENG TV
 http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIET MY TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VIET SONG
+#EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB ( Rates )- ATLANTA, GEORGIA
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
 http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8
@@ -356,16 +366,16 @@ http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports", VTC3 HD
 http://210.245.18.154/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",AR_BEIN 1 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/2.ts
+#EXTINF:-1 group-title="Sports",AR_BEIN 2 HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.ts
 #EXTINF:-1 group-title="Sports",OSN SPORT 1 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/78.ts
 #EXTINF:-1 group-title="Sports",OSN SPORT 2 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/79.ts
 #EXTINF:-1 group-title="Sports",OSN SPORT 3 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/80.ts
-#EXTINF:-1 group-title="Sports",AR_BEIN 1 HD
-http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/2.ts
-#EXTINF:-1 group-title="Sports",AR_BEIN 2 HD
-http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.ts
 #EXTINF:-1 group-title="Sports",Fight Sports
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",Versus Channel
@@ -517,6 +527,10 @@ http://web-cache.stream.ne.jp/www11/nhkworld-tv/domestic/222467/live_high.m3u8
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE",Perviy Kanal
 http://195.228.11.89:4080/udp/225.255.255.62:10000
+#EXTINF:-1 group-title="QUOC TE",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 group-title="QUOC TE",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
 #EXTINF:-1 group-title="QUOC TE",Playboy TV
 http://83.78.191.43:2086/
 #EXTINF:-1 group-title="QUOC TE",Venus
