@@ -33,7 +33,6 @@ http://210.245.18.154/spsklfl/_definst_/giaitritv.480p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVcab7 
 http://210.245.18.154/spsklfl/_definst_/ddrama.480p.stream/chunklist.m3u8
 
-
 #EXTINF:-1 group-title="HTV-HTVC", HTV1
 http://210.245.18.154/spsklfl/_definst_/htv1.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTV-HTVC", HTV2 HD
@@ -205,6 +204,8 @@ rtmp://113.161.220.254:1935/livepkgr/livestream2
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",SGN 51.3 LIVE – SAIGON NETWORK TV ( HOUSTON, TEXAS )
 http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",SAIGON TV LIVE – Media Kit & Rate (WESTMINSTER, CALIFORNIA)
 http://63.143.59.125:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIET GLOBAL
@@ -249,8 +250,6 @@ http://125.235.29.16/livetv/keeng.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB ( Rates )- ATLANTA, GEORGIA
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
-http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",Nail & Beauty Channel
 http://stream.onworldtv.com/edge/liveorigin/lexor/index.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",Radio Bolsa Westminster 
@@ -307,7 +306,7 @@ http://83.78.191.43:2064/
 #EXTINF:-1 group-title="Sports",Real Madrid s1
 http://83.78.191.43:2050/
 #EXTINF:-1 group-title="Sports",Real Madrid s2
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on  
 #EXTINF:-1 group-title="Sports",Chelsea TV
 http://83.78.191.43:2016/
 #EXTINF:-1 group-title="Sports",Kombat Sport
@@ -328,6 +327,18 @@ http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
 http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CBCSPORT
 http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="Sports",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="Sports",ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="Sports",ESPN +
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="Sports",Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="Sports",Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
 
 #EXTINF:-1 group-title="QUOC TE", Starmovies HD 
 http://210.245.18.154/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8
@@ -337,6 +348,20 @@ http://210.245.18.154/spsklfl/_definst_/natgeo.720p.stream/chunklist.m3u8
 http://210.245.18.154/spsklfl/_definst_/starworld.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE", MTV 
 http://210.245.18.154/spsklfl/_definst_/mtv.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Warner Channel
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1  group-title="QUOC TE",Universal Channel HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Cinecanal + HD
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 group-title="QUOC TE",Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
+#EXTINF:-1  group-title="QUOC TE",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
 #EXTINF:-1 group-title="QUOC TE",TVCine 1
 http://83.78.191.43:2075/
 #EXTINF:-1 group-title="QUOC TE",TVCine 2
@@ -403,6 +428,46 @@ http://83.78.191.43:2083/
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE",Jasmin TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Nat Geo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",NatGeo Wild
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1  group-title="QUOC TE",Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Discovery World
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Discovery Theater
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",TLC Discovery
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 group-title="QUOC TE",Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
