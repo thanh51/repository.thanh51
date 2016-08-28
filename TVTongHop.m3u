@@ -363,6 +363,22 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8?IPTVBRASILHD
 http://xrxs.net/video/live-p12oreg-1164.m3u8?IPTVBRASILHD
 #EXTINF:-1 tvg-logo="http://images.onset.freedom.com/ocregister/article/s-pac12logo.jpg" group-title="Sports", PAC 12 Washington HD (US) (English)
 http://xrxs.net/video/live-p12wash-4728.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg" group-title="Sports",ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg" group-title="Sports",ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/165x120/AD3.png" group-title="Sports",ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://osnplay.osn.com/Documents/adsports-4.png" group-title="Sports",ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/165x120/AD5.png" group-title="Sports",ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/08/Fight-Sports.png" group-title="Sports", FIGHT SPORTS
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="" group-title="Sports", SPORTS TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="Sports",SPORT TONIGHT
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 
 #EXTINF:-1 group-title="QUOC TE", Starmovies HD 
 http://210.245.18.154/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8
@@ -386,6 +402,8 @@ http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts?
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
 #EXTINF:-1  group-title="QUOC TE",AXN HD
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/FilmOn_logo.png" group-title="QUOC TE", Charlie Chaplin
+http://198.179.31.197/live/2966.high.stream/playlist.m3u8?IPTVBRASILHD
 #EXTINF:-1 group-title="QUOC TE",TVCine 1
 http://83.78.191.43:2075/
 #EXTINF:-1 group-title="QUOC TE",TVCine 2
@@ -432,8 +450,12 @@ http://83.78.191.43:2012/
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 #EXTINF:-1 group-title="QUOC TE",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="QUOC TE",NHK WORLD TV
-http://web-cache.stream.ne.jp/www11/nhkworld-tv/domestic/222467/live_high.m3u8
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE" tvg-name="NASA TV", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE", NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE",RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRASILHD
 #EXTINF:-1 group-title="QUOC TE",Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE",Perviy Kanal
@@ -452,6 +474,14 @@ http://83.78.191.43:2083/
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE",Jasmin TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE", + 18
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",  +18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",  +18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",  +18
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
 #EXTINF:-1 group-title="QUOC TE",Nat Geo
 http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
 #EXTINF:-1 group-title="QUOC TE",NatGeo Wild
@@ -474,38 +504,11 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
 #EXTINF:-1 group-title="QUOC TE",Animal Planet
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?/PROFILE00-801/Tecnotv.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://dottoremercato.altervista.org/wp-content/uploads/2015/04/10425127_743430315753215_5677116141643620306_n-e1428656694193.png" group-title="QUOC TE",FOR MUSIC TV
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8?IPTVBRASILHD
