@@ -1,187 +1,105 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 30.08.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 01.09.2016[/B][/COLOR]
 http://textuploader.com
 
-
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1
-http://210.245.18.154/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
+http://103.21.148.45:81/icomchannelvtv/smil:vtv1hd_adb_security.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 
-http://210.245.18.154/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV3 
-http://210.245.18.154/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD 
-http://210.245.18.154/spsklfl/_definst_/vtv3.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV6
-http://210.245.18.154/spsklfl/_definst_/vtv6.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD 
-http://210.245.18.154/spsklfl/_definst_/vtv6.720p.stream/chunklist.m3u8
+http://123.30.185.126/hls/vtv2.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3
+http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
+http://103.21.148.45:81/icomchannelvtv/smil:vtv3hd_adb_security.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV8 
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", Nhan dan HD
-http://210.245.18.154/spsklfl/_definst_/nhandan.1080p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", Quoc hoi 
-http://210.245.18.154/spsklfl/_definst_/quochoi.480p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", TTXVN 
-http://210.245.18.154/spsklfl/_definst_/ttxvn.480p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VOV s1
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VOV s2
+rtmp://210.245.60.242:1935/vovtv/vovtv
 #EXTINF:-1 group-title="VTV-VTVcab", ANTV 
-http://210.245.18.154/spsklfl/_definst_/antv.480p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", QPVN
-http://210.245.18.154/spsklfl/_definst_/qptv.480p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTVcab1 
-http://210.245.18.154/spsklfl/_definst_/giaitritv.480p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTVcab7 
-http://210.245.18.154/spsklfl/_definst_/ddrama.480p.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="HTV-HTVC", HTV1
-http://210.245.18.154/spsklfl/_definst_/htv1.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTV2 HD
-http://210.245.18.154/spsklfl/_definst_/htv2.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTV3 
-http://210.245.18.154/spsklfl/_definst_/htv3.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTV4
-http://210.245.18.154/spsklfl/_definst_/htv4.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTV7 HD
-http://210.245.18.154/spsklfl/_definst_/htv7.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTV9 HD
-http://210.245.18.154/spsklfl/_definst_/htv9.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC phim HD
-http://210.245.18.154/spsklfl/_definst_/htvc_movies.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC Thuan Viet HD
-http://210.245.18.154/spsklfl/_definst_/thuan_viet.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC du lich 
-http://210.245.18.154/spsklfl/_definst_/du_lich.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC gia dinh 
-http://210.245.18.154/spsklfl/_definst_/gia_dinh.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC phu nu 
-http://210.245.18.154/spsklfl/_definst_/phu_nu.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC ca nhac
-http://210.245.18.154/spsklfl/_definst_/htvc_music.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC FBNC HD
-http://210.245.18.154/spsklfl/_definst_/fbnc.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC shopping
-http://210.245.18.154/spsklfl/_definst_/shopping.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTV-HTVC", HTVC Plus (Channel B)
-http://210.245.18.154/spsklfl/_definst_/htvc_plus.360p.stream/chunklist.m3u8
+http://123.30.185.126/hls/antv.m3u8
 
 #EXTINF:-1 group-title="VTC",VTC1 
 http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="VTC", VTC1 HD
-http://210.245.18.154/spsklfl/_definst_/vtc1.1080p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTC", VTC3 HD
-http://210.245.18.154/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC", VTC4 
-http://210.245.18.154/spsklfl/_definst_/vtc4.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC", TodayTV-VTC7
-http://210.245.18.154/spsklfl/_definst_/vtc7.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC", VTC8 - ViewTV
-http://210.245.18.154/spsklfl/_definst_/vtc8.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC", Let's Việt-VTC9 s1
-http://210.245.18.154/spsklfl/_definst_/vtc9.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC",Let's Việt-VTC9 s2
+#EXTINF:-1 group-title="VTC",VTC4
+http://103.21.148.45:81/icomchannelvtc/smil:vtc4_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",VTC5
+http://103.21.148.45:81/icomchannelvtc/smil:vtc5_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",VTC7
+http://103.21.148.45:81/icomchannelvtc/smil:vtc7_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",VTC8 s1
+http://103.21.148.45:81/icomchannelvtc/vtc8_576/chunklist.m3u8
+#EXTINF:-1 group-title="VTC",VTC8 s2
+http://118.69.184.194/tv1/vtc8/index.m3u8
+#EXTINF:-1 group-title="VTC",VTC9 s1
+http://103.21.148.45:81/icomchannelvtc/smil:vtc9_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",VTC9 s2
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC10 s1
-http://210.245.18.154/spsklfl/_definst_/vtc10.360p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC",VTC10 s2
+http://103.21.148.45:81/icomchannelvtc/vtc10_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC10 s2
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC", KidsTV & Family-VTC11 s1
-http://210.245.18.154/spsklfl/_definst_/vtc11.480p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC",KidsTV & Family-VTC11 s2
+#EXTINF:-1 group-title="VTC",VTC11 s1
+http://103.21.148.45:81/icomchannelvtc/smil:vtc11_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",VTC11 s2
 rtmp://118.107.84.3/live//vtc11_public
-#EXTINF:-1 group-title="VTC",iTV-VTC13 s1
+#EXTINF:-1 group-title="VTC",VTC13 s1
+http://103.21.148.45:81/icomchannelvtc/smil:itv_adb_security.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="VTC",VTC13 s2
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",iTV-VTC13 s2
+#EXTINF:-1 group-title="VTC",VTC13 s3
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC",VTC14 
-http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC", VTC14 HD 
-http://210.245.18.154/spsklfl/_definst_/vtc14.1080p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="VTC", VTC16 
-http://210.245.18.154/spsklfl/_definst_/vtc16.480p.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG",Ha Noi 1
 http://123.30.185.126/hls/hanoi1.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Ha Noi 2
 http://123.30.185.126/hls/hanoi2.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", YouTV Hanoicab2
-http://210.245.18.154/spsklfl/_definst_/youtv.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Lao Cai
-http://210.245.18.154/spsklfl/_definst_/laocai.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",CAO BANG
 http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Bac Can
 http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Lang Son s1
-http://210.245.18.154/spsklfl/_definst_/langson.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Lạng Sơn s2
+#EXTINF:-1 group-title="DIA PHUONG",Lạng Sơn 
 rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG", Bac Giang
-http://210.245.18.154/spsklfl/_definst_/bacgiang.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Hoa Binh 
 http://123.30.185.126/hls/hoabinh.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Quang Ninh 1
 rtmp://123.29.68.44/hctv/vstv020
 #EXTINF:-1 group-title="DIA PHUONG",Quang Ninh 3
 rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 group-title="DIA PHUONG", Vinh Phuc s1
-http://210.245.18.154/spsklfl/_definst_/vinhphuc.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC s2
+#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC 
 rtmp://117.6.162.63/live/thvp
 #EXTINF:-1 group-title="DIA PHUONG",HaNam 
 rtmp://113.160.198.111:8086/live//hanamtv
-#EXTINF:-1 group-title="DIA PHUONG", Nam Dinh
-http://210.245.18.154/spsklfl/_definst_/namdinh.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Hai duong
-http://210.245.18.154/spsklfl/_definst_/haiduong.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Ninh Binh
-http://210.245.18.154/spsklfl/_definst_/ninhbinh.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Thanh Hoa 
 http://123.30.185.126/hls/ttv.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Ha Tinh 
 http://hatinhtv.vn/liveevent.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Quang Tri 
 rtmp://123.25.117.9:80/live/qtv
-#EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE s1
-http://210.245.18.154/spsklfl/_definst_/hue.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE s2
+#EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE 
 rtmp://118.69.176.149:1935/live/trt
 #EXTINF:-1 group-title="DIA PHUONG",Da Nang 2
 rtmp://drt.danang.vn/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG", Quang Nam
-http://210.245.18.154/spsklfl/_definst_/quangnam.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Binh Dinh s1
-http://210.245.18.154/spsklfl/_definst_/binhdinh.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Binh Dinh s2
+#EXTINF:-1 group-title="DIA PHUONG",Binh Dinh 
 http://123.30.185.126/hls/binhdinh.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Khanh hoa s1
-http://210.245.18.154/spsklfl/_definst_/khanhhoa.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Khánh Hòa s2
+#EXTINF:-1 group-title="DIA PHUONG",Khánh Hòa 
 rtmp://118.69.198.109/live/video
 #EXTINF:-1 group-title="DIA PHUONG",GIA LAI
 rtmp://222.255.169.132/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG", Ðac Nong s1
-http://210.245.18.154/spsklfl/_definst_/dacnong.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",DAK NONG s2
+#EXTINF:-1 group-title="DIA PHUONG",DAK NONG 
 rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="DIA PHUONG", Binh phuoc 1
-http://210.245.18.154/spsklfl/_definst_/binhphuoc.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Long an
-http://210.245.18.154/spsklfl/_definst_/longan.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Tay Ninh
-http://210.245.18.154/spsklfl/_definst_/tayninh.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Bà Rịa-Vũng Tàu 
 rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG", Vinh Long 1 s1
-http://210.245.18.154/spsklfl/_definst_/vinhlong1.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Vinh long 1 s2
+#EXTINF:-1 group-title="DIA PHUONG",Vinh long 1 
 http://123.30.108.72/hls/thvl1.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Vinh long 2 
 http://123.30.108.72/hls/thvl2.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Soc trang s1
-http://210.245.18.154/spsklfl/_definst_/soctrang.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Sóc trăng s2
+#EXTINF:-1 group-title="DIA PHUONG",Sóc trăng 
 rtmp://115.78.3.164/live/stv1
 #EXTINF:-1 group-title="DIA PHUONG",Tra Vinh 
 http://123.30.185.126/hls/travinh.m3u8
@@ -189,15 +107,9 @@ http://123.30.185.126/hls/travinh.m3u8
 rtmp://118.69.205.213/livepkgr/livestream1
 #EXTINF:-1 group-title="DIA PHUONG",Tien Giang 
 http://123.30.185.126/hls/tiengiang.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", Dong thap 1
-http://210.245.18.154/spsklfl/_definst_/dongthap.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG", An Giang s1
-http://210.245.18.154/spsklfl/_definst_/angiang.480.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",An Giang s2
+#EXTINF:-1 group-title="DIA PHUONG",An Giang 
 rtmp://113.161.212.25/live//atv1
-#EXTINF:-1 group-title="DIA PHUONG",Ca mau s1
-http://210.245.18.154/spsklfl/_definst_/camau.360p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG",Ca Mau s2
+#EXTINF:-1 group-title="DIA PHUONG",Ca Mau 
 rtmp://113.161.220.254:1935/livepkgr/livestream2
 
 #EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
@@ -267,8 +179,6 @@ http://209.250.131.2:8000/;stream.mp3
 #EXTINF:-1 group-title="HAI NGOAI",Radio VNHN/VABC Falls Church  
 http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports", VTC3 HD
-http://210.245.18.154/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",AR_BEIN 1 HD
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/2.ts
 #EXTINF:-1 group-title="Sports",AR_BEIN 2 HD
@@ -468,6 +378,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE" tvg-name="NASA TV", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE",BBC NEWS HD
+http://51.255.32.7:8000/hd
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE", NHK WORLD
 http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?IPTVBRASILHD
 #EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE",RAI NEWS 24
@@ -528,3 +440,42 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?IPT
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?IPTVBRASILHD
 #EXTINF:-1 tvg-logo="http://dottoremercato.altervista.org/wp-content/uploads/2015/04/10425127_743430315753215_5677116141643620306_n-e1428656694193.png" group-title="QUOC TE",FOR MUSIC TV
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8?IPTVBRASILHD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
