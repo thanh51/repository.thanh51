@@ -388,8 +388,40 @@ http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRA
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE",Perviy Kanal
 http://195.228.11.89:4080/udp/225.255.255.62:10000
-#EXTINF:-1 group-title="QUOC TE",Bloomberg
+#EXTINF:-1 group-title="QUOC TE", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="QUOC TE", Awani
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+#EXTINF:-1 group-title="QUOC TE", BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 group-title="QUOC TE", Bloomberg TV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:-1 group-title="QUOC TE", JEI ENGLISH TV
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+#EXTINF:-1 group-title="QUOC TE", PLAYY WEST
+http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+#EXTINF:-1 group-title="QUOC TE", United Asia TV
+http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", One TV news
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE", TVBS news
+http://60.199.188.151/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 group-title="QUOC TE", Extraordinary news
+http://60.199.188.151/HLS/WG_USTV-N/index.m3u8
+#EXTINF:-1 group-title="QUOC TE", Ettv News HD
+http://60.199.188.151/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 group-title="QUOC TE", ETTV HD
+http://61.216.71.67/sta/ch21.m3u8
+#EXTINF:-1 group-title="QUOC TE", CTV News
+http://61.216.71.67/sta/ch508.m3u8
+#EXTINF:-1 group-title="QUOC TE", TVBS News 1
+http://61.216.71.67/sta/ch510.m3u8
+#EXTINF:-1 group-title="QUOC TE", ETTV
+http://61.216.71.67/sta/ch512.m3u8
+#EXTINF:-1 group-title="QUOC TE", Taiwan Television News
+http://61.216.71.67/sta/ch516.m3u8
+#EXTINF:-1 group-title="QUOC TE", CTS News
+http://61.216.71.67/sta/ch519.m3u8
 #EXTINF:-1 group-title="QUOC TE",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
 #EXTINF:-1 group-title="QUOC TE",AMC
