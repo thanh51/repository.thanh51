@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 05.09.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 07.09.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 
@@ -199,6 +199,10 @@ http://81.7.13.162/hls/ss3/index.m3u8
 http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-title="Sports",CCTV-5HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv5_.m3u8
+#EXTINF:-1 group-title="Sports",CCTV-5+HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv5plus_.m3u8
 #EXTINF:-1 group-title="Sports",Eurosport 1
 http://83.78.191.43:2027/
 ‪#EXTINF:-1 group-title="Sports",SPORT TV 1
@@ -512,6 +516,36 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?=/PROFILE00-801/.ts-1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?=/PROFILE00-801/.ts-1
 #EXTINF:-1 group-title="QUOC TE",Latin:MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?=/PROFILE00-801/.ts-1
+#EXTINF:-1 group-title="QUOC TE",CCTV-1HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv1_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-2HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv2_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-3HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv3_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-6HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv6_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-7HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv7_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-8HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv8_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-9HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv9_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-10HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv10_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-11
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctv11_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-12HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv12_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-14HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv14_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-13
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctv13_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-15
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctv15_.m3u8
+#EXTINF:-1 group-title="QUOC TE",CCTV-NEWS
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctvnews_.m3u8
+#EXTINF:-1 group-title="QUOC TE",上海纪实HD
+http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdshjs_.m3u8
 
 
 
