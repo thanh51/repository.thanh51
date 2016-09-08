@@ -205,10 +205,8 @@ http://81.7.13.162/hls/ss3/index.m3u8
 http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://46.105.161.243:8085/lighd
-#EXTINF:-1 group-title="Sports",CCTV-5HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv5_.m3u8
-#EXTINF:-1 group-title="Sports",CCTV-5+HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv5plus_.m3u8
+#EXTINF:-1 group-title="Sports", CCTV5
+http://202.205.93.230:280/3a59f7a4b8b28dcaa1baac27e8410bf0/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Eurosport 1
 http://83.78.191.43:2027/
 ‪#EXTINF:-1 group-title="Sports",SPORT TV 1
@@ -546,36 +544,32 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?=/PROFILE00-801/.ts-1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?=/PROFILE00-801/.ts-1
 #EXTINF:-1 group-title="QUOC TE",Latin:MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?=/PROFILE00-801/.ts-1
-#EXTINF:-1 group-title="QUOC TE",CCTV-1HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv1_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-2HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv2_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-3HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv3_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-6HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv6_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-7HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv7_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-8HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv8_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-9HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv9_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-10HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv10_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-11
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctv11_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-12HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv12_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-14HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv14_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-13
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctv13_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-15
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctv15_.m3u8
-#EXTINF:-1 group-title="QUOC TE",CCTV-NEWS
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdcctvnews_.m3u8
-#EXTINF:-1 group-title="QUOC TE",上海纪实HD
-http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdshjs_.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV1
+http://202.205.93.230:280/acb5bccceb45633804405de97ead7d3b/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV2
+http://202.205.93.230:280/8e8af22efea448a210ce28c4bba9c033/playlist.m3u8
+#EXTINF: -1 group-title="QUOC TE", CCTV3
+http://202.205.93.230:280/2b6de1c8b4c04c62c810697599cf3549/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV6
+http://202.205.93.230:280/9cc560bc1b40aa3bf7d78bfc4b6f1fbc/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV7
+http://202.205.93.230:280/41628a2634370ff6f49b92879213192b/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV8
+http://202.205.93.230:280/d7118be28f7a3689accb2316a9e9be27/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV9
+http://202.205.93.230:280/15512a7d67194b0f46fc94a14adb7ad8/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV10
+http://202.205.93.230:280/cd0e7f021ca866e8b41907a697f78f06/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV11
+http://202.205.93.230:280/270b0144e65362eb156d41940bd08f7c/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV12
+http://202.205.93.230:280/cb075b6b56bc44702ad73538d6409cc5/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV13
+http://202.205.93.230:280/9422ea42533292660d4359742d5d30ba/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV14
+http://202.205.93.230:280/9c2b135d83c76f19c8c5e13910b7445d/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", CCTV15
+http://202.205.93.230:280/36810b2d621d8b32f7bdc4d7b8a8a6ba/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE",Korea:YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:-1 group-title="QUOC TE",Korea:YONHAP NEWS
