@@ -305,14 +305,28 @@ rtmp://stream-3.net-service.cc:22544/live/sport1hdde
 rtmp://stream-3.net-service.cc:22544/live/skysport1de
 #EXTINF:-1 group-title="Sports",Sky Sport 2
 rtmp://stream-3.net-service.cc:22544/live/skysport2de
+#EXTINF: -1group-Title = "Sports",Taiwan:FOX_sports3
+http://61.216.71.67/sta/ch02.m3u8
+#EXTINF: -1group-Title = "Sports",Taiwan:ELTA SPORT HD
+http://61.216.71.67/sta/ch32.m3u8
+#EXTINF: -1group-Title = "Sports", Taiwan:bóng đá
+http://61.216.71.67/stc/ch002.m3u8
+#EXTINF: -1group-Title = "Sports", Taiwan:bóng đá
+http://61.216.71.67/stc/ch032.m3u8
+#EXTINF: -1group-Title = "Sports", Taiwan:Sports Network
+http://61.216.71.67/stc/ch012.m3u8
+#EXTINF: -1group-Title = "Sports", Taiwan:ASN SPORT
+http://61.216.71.67/stc/ch014.m3u8
+#EXTINF: -1group-Title = "Sports", Taiwan:bóng bàn 
+http://61.216.71.67/stc/ch011.m3u8
 
-#EXTINF:-1 group-title="QUOC TE",China:HBO 
+#EXTINF:-1 group-title="QUOC TE",Taiwan:HBO 
 http://61.216.71.67/sta/ch04.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:HBO_HD
+#EXTINF:-1 group-title="QUOC TE",Taiwan:HBO_HD
 http://61.216.71.67/sta/ch05.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:AXN
+#EXTINF:-1 group-title="QUOC TE",Taiwan:AXN
 http://61.216.71.67/sta/ch34.m3u8
-#EXTINF:-1 group-title="QUOC TE",China:CinemaWorld
+#EXTINF:-1 group-title="QUOC TE",Taiwan:CinemaWorld
 http://61.216.71.67/sta/ch35.m3u8
 #EXTINF:-1 group-title="QUOC TE",osn yahala drama hd
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/77.ts
@@ -586,6 +600,30 @@ http://202.205.93.230:280/9422ea42533292660d4359742d5d30ba/playlist.m3u8
 http://202.205.93.230:280/9c2b135d83c76f19c8c5e13910b7445d/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE", CCTV15
 http://202.205.93.230:280/36810b2d621d8b32f7bdc4d7b8a8a6ba/playlist.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:National Geographic
+http://61.216.71.67/sta/ch29.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:Discovery Channel
+http://61.216.71.67/sta/ch30.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:ASIA Travel
+http://61.216.71.67/stc/ch004.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:NEWS HD
+http://61.216.71.67/sta/ch31.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:CNN
+http://61.216.71.67/sta/ch36.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:CTV HD
+http://61.216.71.67/sta/ch506.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:CTV News
+http://61.216.71.67/sta/ch508.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:TVBS NEWS
+http://61.216.71.67/sta/ch510.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:TVB8
+http://61.216.71.67/sta/ch511.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:EBC NEWS
+http://61.216.71.67/sta/ch512.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:Universal NEWS
+http://61.216.71.67/stc/ch016.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:Universal NEWS 2
+http://61.216.71.67/stc/ch017.m3u8
 #EXTINF:-1 group-title="QUOC TE",Korea:YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:-1 group-title="QUOC TE",Korea:YONHAP NEWS
@@ -597,111 +635,62 @@ http://edge2.everyon.tv/etv2sb/phd2/chunklist_w1140818506.m3u8
 #EXTINF:-1 group-title="QUOC TE",Korea:PAX
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:-1 group-title="QUOC TE",Korea:PAX
-http://111.118.21.79/etv1sb/phd385/playlist.m3u8
+rtmp://111.118.21.79/etv1sb/phd385
 #EXTINF:-1 group-title="QUOC TE",Korea:CBS
-http://123.108.164.71/etv2sb/phd27/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd27
 #EXTINF:-1 group-title="QUOC TE",Korea:TBS
-http://123.108.164.71/etv2sb/phd40/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd40
 #EXTINF:-1 group-title="QUOC TE",Korea:GOODTV
-http://123.108.164.71/etv2sb/phd29/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd29
 #EXTINF:-1 group-title="QUOC TE",Korea:DONGATV19
-http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd43
 #EXTINF:-1 group-title="QUOC TE",Korea:YTNWeather
-http://123.108.164.71/etv2sb/phd193/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd193
 #EXTINF:-1 group-title="QUOC TE",Korea:GCN
-http://123.108.164.71/etv2sb/phd327/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd327
 #EXTINF:-1 group-title="QUOC TE",Korea:MOUNTAINTV
-http://123.108.164.71/etv2sb/phd337/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd337
 #EXTINF:-1 group-title="QUOC TE",Korea:eventTV
-http://123.108.164.71/etv2sb/phd389/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd389
 #EXTINF:-1 group-title="QUOC TE",Korea:KBS2
-http://123.108.164.71/etv2/phd847/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd847
 #EXTINF:-1 group-title="QUOC TE",Korea:KBS1
-http://123.108.164.71/etv2sb/phd852/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd852
 #EXTINF:-1 group-title="QUOC TE",Korea:BBC
-http://123.108.164.71/etv2sb/phd863/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd863
 #EXTINF:-1 group-title="QUOC TE",Korea:TRENDY
-http://123.108.164.71/etv2sb/phd4/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd4
 #EXTINF:-1 group-title="QUOC TE",Korea:MOVIES
-http://123.108.164.71/etv2/phd723/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd723
 #EXTINF:-1 group-title="QUOC TE",Korea:SAFE
-http://123.108.164.71/etv2/phd109/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd109
 #EXTINF:-1 group-title="QUOC TE",Korea:KCTV
-http://111.118.21.79/etv1/phd555/playlist.m3u8
+rtmp://111.118.21.79/etv1/phd555
 #EXTINF:-1 group-title="QUOC TE",Korea:KTV
-http://111.118.21.79/etv1/phd393/playlist.m3u8
+rtmp://111.118.21.79/etv1/phd393
 #EXTINF:-1 group-title="QUOC TE",Korea:CTS
-http://111.118.21.79/etv1/phd28/playlist.m3u8
+rtmp://111.118.21.79/etv1/phd28
 #EXTINF:-1 group-title="QUOC TE",Korea:OBS
-http://111.118.21.79/etv1sb/phd3/playlist.m3u8
+rtmp://111.118.21.79/etv1sb/phd3
 #EXTINF:-1 group-title="QUOC TE",Korea:TVIS
-http://111.118.21.79/etv1sb/phd551/playlist.m3u8
+rtmp://111.118.21.79/etv1sb/phd551
 #EXTINF:-1 group-title="QUOC TE",Korea:ETN
-http://123.108.164.71/etv2sb/phd2/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd2
 #EXTINF:-1 group-title="QUOC TE",Korea:KBSN sports
-http://123.108.164.71/etv2sb/phd852/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd852
 #EXTINF:-1 group-title="QUOC TE",Korea:HANWOON
-http://123.108.164.71/etv2sb/phd897/playlist.m3u8
+rtmp://123.108.164.71/etv2sb/phd897
 #EXTINF:-1 group-title="QUOC TE",Korea:HCN
-http://123.108.164.71/etv2/phd951/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd951
 #EXTINF:-1 group-title="QUOC TE",Korea:Hpbs
-http://123.108.164.71/etv2/phd983/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd983
 #EXTINF:-1 group-title="QUOC TE",Korea:KIDSTV
-http://123.108.164.71/etv2/phd1043/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd1043
 #EXTINF:-1 group-title="QUOC TE",Korea:TND
-http://123.108.164.71/etv2/phd1058/playlist.m3u8
+rtmp://123.108.164.71/etv2/phd1058
 #EXTINF:-1 group-title="QUOC TE",Korea:MTN
-http://111.118.21.79/etv1sb/phd18/playlist.m3u8
+rtmp://111.118.21.79/etv1sb/phd18
 #EXTINF:-1 group-title="QUOC TE",Korea:RTNTV
-http://111.118.21.79/etv1sb/phd19/playlist.m3u8
+rtmp://111.118.21.79/etv1sb/phd19
 #EXTINF:-1 group-title="QUOC TE",Korea:UPTV
-http://111.118.21.79/etv1/phd752/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+rtmp://111.118.21.79/etv1/phd752
