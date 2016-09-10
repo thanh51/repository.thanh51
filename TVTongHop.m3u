@@ -5,18 +5,28 @@ http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s1
+http://118.107.85.14:1935/tvnet/smil:vtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s2
 http://103.21.148.45:81/icomchannelvtv/smil:v1_dump.smil/chunklist_b1328000_sleng.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s1
+#EXTINF:-1 group-title="VTV-VTVcab",VTV2 s1
 http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
+#EXTINF:-1 group-title="VTV-VTVcab",VTV2 s2
 http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s3
+http://118.107.85.14:1935/tvnet/smil:vtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3
 http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s1
 http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_1.smil/chunklist_b1328000_sleng.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV4
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s2
+http://118.107.85.14:1935/tvnet/smil:vtv3.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4 s1
+http://118.107.85.14:1935/tvnet/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4 s2
 http://210.242.52.97/stc/ch170.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD
+http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV8 
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV9 
@@ -30,6 +40,8 @@ http://123.30.185.126/hls/antv.m3u8
 
 #EXTINF:-1 group-title="VTC",VTC1 
 http://123.30.185.126/hls/vtc1.m3u8
+#EXTINF:-1 group-title="VTC",VTC1 HD
+http://118.107.85.14:1935/tvnet/smil:vtc1.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="VTC",VTC4
@@ -46,9 +58,11 @@ http://118.69.184.194/tv1/vtc8/index.m3u8
 http://103.21.148.45:81/icomchannelvtc/smil:vtc9_adb_security.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTC",VTC9 s2
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC10 s2
+#EXTINF:-1 group-title="VTC",VTC10 s1
 http://103.21.148.45:81/icomchannelvtc/vtc10_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC10 s2
+http://118.107.85.14:1935/tvnet/smil:vtc10.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC",VTC10 s3
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC11 s1
 http://103.21.148.45:81/icomchannelvtc/smil:vtc11_adb_security.smil/chunklist_b928000_sleng.m3u8
@@ -60,8 +74,10 @@ http://103.21.148.45:81/icomchannelvtc/smil:itv_ele.smil/chunklist_b928000_sleng
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC13 s3
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC",VTC16
+#EXTINF:-1 group-title="VTC",VTC16 s1
 http://103.21.148.45:81/icomchannelvtc/vtc16_576/chunklist.m3u8
+#EXTINF:-1 group-title="VTC",VTC16 s2
+http://118.107.85.14:1935/tvnet/smil:vtc16.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG",Ha Noi 1
 http://123.30.185.126/hls/hanoi1.m3u8
