@@ -634,10 +634,10 @@ rtmp://123.108.164.71/etv2sb/phd327
 rtmp://123.108.164.71/etv2sb/phd337
 #EXTINF:-1 group-title="QUOC TE",Korea:eventTV
 rtmp://123.108.164.71/etv2sb/phd389
-#EXTINF:-1 group-title="QUOC TE",Korea:KBS2
-rtmp://123.108.164.71/etv2/phd847
-#EXTINF:-1 group-title="QUOC TE",Korea:KBS1
-rtmp://123.108.164.71/etv2sb/phd852
+#EXTINF:-1 group-title="QUOC TE",Korea:KBS1 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
+#EXTINF:-1 group-title="QUOC TE",Korea:KBS2 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
 #EXTINF:-1 group-title="QUOC TE",Korea:BBC
 rtmp://123.108.164.71/etv2sb/phd863
 #EXTINF:-1 group-title="QUOC TE",Korea:TRENDY
@@ -650,6 +650,8 @@ rtmp://123.108.164.71/etv2/phd109
 rtmp://111.118.21.79/etv1/phd555
 #EXTINF:-1 group-title="QUOC TE",Korea:KTV
 rtmp://111.118.21.79/etv1/phd393
+#EXTINF:-1 group-title="QUOC TE",Korea:KTV HD
+rtmp://218.38.152.31:1935/klive/klive.stream
 #EXTINF:-1 group-title="QUOC TE",Korea:CTS
 rtmp://111.118.21.79/etv1/phd28
 #EXTINF:-1 group-title="QUOC TE",Korea:OBS
@@ -676,3 +678,21 @@ rtmp://111.118.21.79/etv1sb/phd18
 rtmp://111.118.21.79/etv1sb/phd19
 #EXTINF:-1 group-title="QUOC TE",Korea:UPTV
 rtmp://111.118.21.79/etv1/phd752
+#EXTINF:-1 group-title="QUOC TE",Korea:SBS HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
+#EXTINF:-1 group-title="QUOC TE",Korea:MBC HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
+#EXTINF:-1 group-title="QUOC TE",Korea:MBC MUSIC
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
+#EXTINF:-1  group-title="QUOC TE",Korea:Mnet HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
+#EXTINF:-1 group-title="QUOC TE",Korea:TVN HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
+#EXTINF:-1 group-title="QUOC TE",Korea:arirang HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_arirang
+#EXTINF:-1 group-title="QUOC TE",Korea:SBS MTV HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
+#EXTINF:-1 group-title="QUOC TE",Korea:MBC every1 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
+
+
