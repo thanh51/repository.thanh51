@@ -207,7 +207,6 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3
 http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8
 #EXTINF:-1 group-title="Sports",CCTV-5+HD s2	
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8
-
 #EXTINF:-1 group-title="Sports",Thai:TRUESPORT2
 rtmp://216.185.103.158/live2/chthaipremier31
 #EXTINF:-1 group-title="Sports",Russia:Football 
@@ -355,8 +354,16 @@ http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/70.ts
 http://83.78.191.43:2065/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/FilmOn_logo.png" group-title="QUOC TE", Charlie Chaplin
 http://198.179.31.197/live/2966.high.stream/playlist.m3u8?IPTVBRASILHD
-#EXTINF:-1 group-title="QUOC TE",TRTBELGESEL HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRTBELGESEL HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg" group-title="QUOC TE",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="QUOC TE",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg" group-title="QUOC TE",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE" tvg-name="NASA TV", NASA TV
