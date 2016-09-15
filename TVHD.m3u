@@ -1,6 +1,9 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLOR red][B]Chỉ Dùng Cho Mạng FPT[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 15.09.2016[/B][/COLOR]
+http://textuploader.com
+
+#EXTINF:-1,[COLOR red][B]Chỉ Cho Mạng FPT[/B][/COLOR]
 http://textuploader.com
 #EXTINF:-1,VTV1 HD
 http://118.69.252.4/tv/vtv1HD/index.m3u8
@@ -43,69 +46,92 @@ http://118.69.252.4/tv3/FashionTVHD/index.m3u8
 #EXTINF:-1,FOX SPORTS HD
 http://118.69.252.4/tv3/FoxSportsHD/index.m3u8
 
-#EXTINF:-1,[COLOR red][B]Dùng Chung Cho Các Mạng[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Chung Cho Các Mạng[/B][/COLOR]
 http://textuploader.com
 #EXTINF:-1, VTV1 HD
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1, VTV2 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/playlist.m3u8
-#EXTINF:-1, VTV3 HD 
-http://27.67.50.69:18080/155_2.m3u8?AdaptiveType=HLS
+http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTV3 HD s1
+http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_1.smil/chunklist_b1328000_sleng.m3u8
+#EXTINF:-1,VTV3 HD s2
+http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w954930339_b800000.m3u8
 #EXTINF:-1, VTV4 HD
-http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1, VTV5 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/playlist.m3u8
-#EXTINF:-1, VTV6 HD
-http://27.67.50.69:18080/156_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1, VTV8 HD 
-http://27.67.50.69:18080/39_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTV7 HD 
-http://27.67.50.69:18080/157_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTV9 HD 
-http://27.67.50.70:18080/158_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTVC Phim HD 
-http://27.67.50.70:18080/159_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTVC Thuan Viet HD
-http://27.67.50.68:18080/160_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, HTVC FBNC HD
-http://27.67.50.68:18080/177_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, VTC1 HD
-http://27.67.50.73:18080/150_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, VTC3 HD
-http://27.67.50.73:18080/145_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, ITV HD 
-http://27.67.50.70:18080/152_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Starmovies HD
-http://27.67.50.72:18080/144_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1,HBO HD
-http://27.67.50.72:18080/162_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, AXN HD 
-http://27.67.50.70:18080/164_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Cinemax HD 
-http://27.67.50.68:18080/163_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, WarnerTV HD 
-http://27.67.50.70:18080/172_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, CN HD 
-http://27.67.50.68:18080/167_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, NATGEO HD 
-http://27.67.50.72:18080/153_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Discovery World HD 
-http://27.67.50.69:18080/168_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Da Vinci HD
-http://27.67.50.70:18080/173_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Outdoor HD 
-http://27.67.50.68:18080/146_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, AFC HD
-http://27.67.50.70:18080/178_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, DIVA HD
-http://27.67.50.68:18080/171_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, FoxSport HD 
-http://27.67.50.68:18080/165_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, FoxSport 2 HD 
-http://27.67.50.68:18080/166_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Starworld HD
-http://27.67.50.73:18080/142_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Channel V HD
-http://27.67.50.72:18080/179_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1, Fashion HD 
-http://27.67.50.68:18080/169_3.m3u8?AdaptiveType=HLS
+http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTV6 HD
+http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
+#EXTINF:-1,ANTG HD
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,PHIM HAY TV HD
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,ANVIEN HD
+http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTC1 HD
+http://118.107.85.14:1935/tvnet/smil:vtc1.smil/chunklist_w1630296716_b1000000.m3u8
+
+#EXTINF:-1,CCTV5 HD s1
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1,CCTV5 HD s2	
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1, CCTV5+HD s1
+http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8
+#EXTINF:-1,CCTV-5+HD s2	
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8
+#EXTINF:-1,Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1,Live 1-1080P
+http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1,Live 2-1080P
+http://183.207.255.190:80/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1,Live 3-1080P
+http://183.207.255.190:80/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1,Live 4-1080P
+http://183.207.255.190:80/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1,Live 5-1080P
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1,Live 6-1080P
+http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1,Live 7-1080P
+http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1,Live 8-1080P
+http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
+#EXTINF:-1, Phim Jackie Chan HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Thần Thám Địch Nhân Kiệt HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Tây Du Ký HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Tom and Jerry HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Superheroes HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Phim truyền hình Mỹ HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Khoa học viễn tưởng HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Giả tưởng HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Hành động HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Tài liệu khoa học HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1, Phim Thế giới động vật HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
