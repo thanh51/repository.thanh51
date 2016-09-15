@@ -3,22 +3,34 @@
 #EXTINF:-1,[COLORred][B]Updated 22h00' ngày 15.09.2016[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s1
 http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s2
+http://118.107.85.14:1935/tvnet/smil:vtv1.smil/chunklist_w1184817626_b1000000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s3
+http://103.21.148.45:81/icomchannelvtv/smil:v1_dump.smil/chunklist_b1328000_sleng.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV2 s1
+http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
+http://118.107.85.14:1935/tvnet/smil:vtv2.smil/chunklist_w1308999529_b800000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 HD
 http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s1
 http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_1.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s2
 http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w954930339_b800000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV4 
+http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w1158642052_b1000000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV4 HD
 http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV5 HD
 http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9
+#EXTINF:-1 group-title="VTV-VTVcab", VTV9 s1
 http://live.cdn.mobifonetv.vn/motv/vtv9_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV9 s2
+http://103.21.148.45:81/icomchannelvtv/smil:vtv9_adb.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VOV
 http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VIETNAMNET
