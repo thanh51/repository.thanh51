@@ -207,6 +207,24 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3
 http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8
 #EXTINF:-1 group-title="Sports",CCTV-5+HD s2	
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8
+#EXTINF:-1 group-Title="Sports",China:Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 1-1080P
+http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 2-1080P
+http://183.207.255.190:80/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 3-1080P
+http://183.207.255.190:80/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 4-1080P
+http://183.207.255.190:80/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 5-1080P
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 6-1080P
+http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 7-1080P
+http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 8-1080P
+http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
 #EXTINF:-1 group-title="Sports",Thai:TRUESPORT2
 rtmp://216.185.103.158/live2/chthaipremier31
 #EXTINF:-1 group-title="Sports",Russia:Football 
