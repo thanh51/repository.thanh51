@@ -268,31 +268,32 @@ http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 #EXTINF:-1,[COLOR cyan][B]Kênh sopcast xem trong KODI đã cài addon Plexus[/B][/COLOR]
 http://textuploader.com
 #EXTINF:-1 group-title="Sports",sopcast: K+(253096)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:K+(259091)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:K+(259400)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S1 (262490)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262490&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S2 (262491)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S3 (262492)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S4 (262493)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262493&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S5 (262494)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262494&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S6 (262495)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262495&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S7 (262496)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262496&mode=2&name=AdryanList+SopCast 
-#EXTINF:-1 group-title="Sports",sopcast:S8 (262497)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262497&mode=2&name=AdryanList+SopCast
-#EXTINF:-1 group-title="Sports",sopcast:S9 (262498)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262498&mode=2&name=AdryanList+SopCast  
-#EXTINF:-1 group-title="Sports",sopcast:S10 (262499)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=AdryanList+SopCast
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: K+(259091)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: K+(259400)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S1(262490)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262490&mode=2&name=S1(262490)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S2(262491)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S3(262492)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&name=S3(262492)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S4(262493)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262493&mode=2&name=S4(262493)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S5(262494)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262494&mode=2&name=S5(262494)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S6(262495)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262495&mode=2&name=S6(262495)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S7(262496)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262496&mode=2&name=S7(262496)+SopCast 
+#EXTINF:-1 group-title="Sports",sopcast: S8(262497)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262497&mode=2&name=S8(262497)+SopCast
+#EXTINF:-1 group-title="Sports",sopcast: S9(262498)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262498&mode=2&name=S9(262498)+SopCast  
+#EXTINF:-1 group-title="Sports",sopcast: S10(262499)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)+SopCast 
+
 #EXTINF:-1,[COLOR cyan][B]Kênh sopcast xem bằng app IPTV trong box tv android[/B][/COLOR]
 http://textuploader.com
 #EXTINF:-1,Trước khi xem sopcast: 
