@@ -330,6 +330,7 @@ sop://broker.sopcast.com:3912/262497
 sop://broker.sopcast.com:3912/262498  
 #EXTINF:-1 group-title="Sports",S10(262499)
 sop://broker.sopcast.com:3912/262499 
+
 #EXTINF:-1 group-title="Sports",BEIN 1 HD
 http://tinyurl.com/hk25t5t
 #EXTINF:-1 group-title="Sports",BEIN 2 HD
@@ -529,8 +530,6 @@ http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/72.ts
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/71.ts
 #EXTINF:-1 group-title="QUOC TE",osn yahala cinema
 http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/70.ts
-#EXTINF:-1 group-title="QUOC TE",AXN HD
-http://83.78.191.43:2065/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/FilmOn_logo.png" group-title="QUOC TE", Charlie Chaplin
 http://198.179.31.197/live/2966.high.stream/playlist.m3u8?IPTVBRASILHD
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRTBELGESEL HD
@@ -807,26 +806,15 @@ http://218.203.106.12:5580/ysten-businessmobile/live/nongyezf/yst.m3u8
 http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1 group-title="QUOC TE",China:CIBN Perfect Game
 http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
-
-#EXTINF:-1 group-title="PHIM TH", Jackie Chan 
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Thần Thám Địch Nhân Kiệt
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Tây Du Ký
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Tom and Jerry
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Superheroes
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Phim truyền hình Mỹ
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Phim Khoa học viễn tưởng
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Phim Giả tưởng
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Phim Hành động
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Phim Tài liệu khoa học
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH", Phim Thế giới động vật
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="QUOC TE",ITV 1 
+http://149.202.207.8:8080/GHANIeyeTeV-1/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",ITV 2
+http://149.202.207.8:8080/GHANIeyeTeV-2/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",ITV 3
+http://149.202.207.8:8080/GHANIeyeTeV-3/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",ITV 4
+http://149.202.207.8:8080/GHANIeyeTeV-4/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",Channel 4 UK
+http://149.202.207.8:8080/GHANIkchenl-4/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",Channel 5 UK
+http://149.202.207.8:8080/GHANIkchenl-5/Strm/index.m3u8
