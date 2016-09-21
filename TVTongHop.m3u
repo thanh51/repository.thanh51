@@ -299,18 +299,30 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148882&mode=2&name=Ci
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253035&mode=2&name=AXN 
 #EXTINF:-1 group-title="Sopcast-Kodi",HBO 
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO 
+#EXTINF:-1 group-title="Sopcast-Kodi",HBO HD
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259497&mode=2&name=HBO HD
+#EXTINF:-1 group-title="Sopcast-Kodi",TV1000
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000 
 #EXTINF:-1 group-title="Sopcast-Kodi",Filmbox
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox 
 #EXTINF:-1 group-title="Sopcast-Kodi",Boomerang
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang 
 #EXTINF:-1 group-title="Sopcast-Kodi",Cartoon Network 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network 
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network
+#EXTINF:-1 group-title="Sopcast-Kodi",National Geographic
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic
+#EXTINF:-1 group-title="Sopcast-Kodi",NATGEO CN 
+plugin://program.plexus/?url=sop://124.232.150.188:3920/5699&mode=2&name=NATGEO CN 
 #EXTINF:-1 group-title="Sopcast-Kodi",NatGeo Wild
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=NatGeo wild 
 #EXTINF:-1 group-title="Sopcast-Kodi",Discovery Channel
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel 
 #EXTINF:-1 group-title="Sopcast-Kodi",Discovery Science
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science 
+#EXTINF:-1 group-title="Sopcast-Kodi",DISCOVERY CN
+plugin://program.plexus/?url=sop://124.232.150.188:3920/5700&mode=2&name=DISCOVERY CN
+#EXTINF:-1 group-title="Sopcast-Kodi",BBC Earth
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
 
 #EXTINF:-1 group-title="Sopcast-Box tv",[COLOR cyan][B]Kênh sopcast xem bằng app IPTV trong box tv android[/B][/COLOR]
 http://textuploader.com
@@ -354,18 +366,30 @@ sop://broker.sopcast.com:3912/148882
 sop://broker.sopcast.com:3912/253035
 #EXTINF:-1 group-title="Sopcast-Box tv",HBO 
 sop://broker.sopcast.com:3912/149259
+#EXTINF:-1 group-title="Sopcast-Box tv",HBO HD
+sop://broker.sopcast.com:3912/259497
+#EXTINF:-1 group-title="Sopcast-Box tv",TV1000
+sop://broker.sopcast.com:3912/256337
 #EXTINF:-1 group-title="Sopcast-Box tv",Filmbox
 sop://broker.sopcast.com:3912/148981
 #EXTINF:-1 group-title="Sopcast-Box tv",Boomerang
 sop://broker.sopcast.com:3912/149264
 #EXTINF:-1 group-title="Sopcast-Box tv",Cartoon Network 
 sop://broker.sopcast.com:3912/148254
+#EXTINF:-1 group-title="Sopcast-Box tv",National Geographic
+sop://broker.sopcast.com:3912/148248
+#EXTINF:-1 group-title="Sopcast-Box tv",NATGEO CN 
+sop://124.232.150.188:3920/5699
 #EXTINF:-1 group-title="Sopcast-Box tv",Nat Geo Wild
 sop://broker.sopcast.com:3912/253037
 #EXTINF:-1 group-title="Sopcast-Box tv",Discovery Channel
 sop://broker.sopcast.com:3912/256241
 #EXTINF:-1 group-title="Sopcast-Box tv",Discovery Science
 sop://broker.sopcast.com:3912/256243
+#EXTINF:-1 group-title="Sopcast-Box tv",DISCOVERY CN
+sop://124.232.150.188:3920/5700
+#EXTINF:-1 group-title="Sopcast-Box tv",BBC Earth
+sop://broker.sopcast.com:3912/148257
 
 #EXTINF:-1 group-title="Sports",BEIN 1 HD
 http://tinyurl.com/hk25t5t
