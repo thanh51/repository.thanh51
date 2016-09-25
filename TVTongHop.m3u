@@ -1,44 +1,46 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 22.09.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 26.09.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s1
 http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s2
-http://118.107.85.14:1935/tvnet/smil:vtv1.smil/chunklist_w1184817626_b1000000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD s3
-http://103.21.148.45:81/icomchannelvtv/smil:v1_dump.smil/chunklist_b1328000_sleng.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtv1.smil/chunklist_w464693119_b1000000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s3
+http://103.21.148.45:81/icomchannelvtv/smil:v1_dump_2111.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV2 s1
 http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
-http://118.107.85.14:1935/tvnet/smil:vtv2.smil/chunklist_w1308999529_b800000.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtv2.smil/chunklist_w783214168_b1000000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 HD
 http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s1
-http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_1.smil/chunklist_b1328000_sleng.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w1525876_b800000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s2
-http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w954930339_b800000.m3u8
+http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_2016.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV4 
-http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w1158642052_b1000000.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w1337903759_b1000000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV4 HD
 http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV5 HD
 http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9 s1
+#EXTINF:-1 group-title="VTV-VTVcab", VTV9 
 http://live.cdn.mobifonetv.vn/motv/vtv9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV9 s2
-http://103.21.148.45:81/icomchannelvtv/smil:vtv9_adb.smil/chunklist_b928000_sleng.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VOV
+#EXTINF:-1 group-title="VTV-VTVcab", VOV s1
 http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", VOV s2
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VIETNAMNET
 http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", QUOC HOI
 http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", TTXVN
+#EXTINF:-1 group-title="VTV-VTVcab", TTXVN s1
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab", TTXVN s2
+http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w131993792_b1000000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", ANTV
 http://live.cdn.mobifonetv.vn/motv/antv_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTVCab1 
@@ -104,13 +106,13 @@ http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTC", VTC1
 http://live.cdn.mobifonetv.vn/motv2/vtc1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTC",VTC1 HD
-http://118.107.85.14:1935/tvnet/smil:vtc1.smil/chunklist_w1630296716_b1000000.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtc1.smil/chunklist_w341893287_b1000000.m3u8
 #EXTINF:-1 group-title="VTC",VTC4
 http://103.21.148.45:81/icomchannelvtc/smil:vtc4_adb_security.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTC",VTC5
 http://103.21.148.45:81/icomchannelvtc/smil:vtc5_adb_security.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTC",VTC7
-http://103.21.148.45:81/icomchannelvtc/smil:today_ele_dump.smil/chunklist_b928000_sleng.m3u8
+http://103.21.148.45:81/icomchannelvtc/smil:today_ele_dump3.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTC",VTC8 s1
 http://103.21.148.45:81/icomchannelvtc/vtc8_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC8 s2
@@ -122,7 +124,7 @@ http://14.161.5.88:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC10 s1
 http://103.21.148.45:81/icomchannelvtc/vtc10_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC10 s2
-http://118.107.85.14:1935/tvnet/smil:vtc10.smil/chunklist_w853959802_b800000.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtc10.smil/chunklist_w347773970_b1000000.m3u8
 #EXTINF:-1 group-title="VTC",VTC10 s3
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC11 s1
@@ -130,7 +132,7 @@ http://103.21.148.45:81/icomchannelvtc/smil:vtc11_adb_security.smil/chunklist_b9
 #EXTINF:-1 group-title="VTC",VTC11 s2
 rtmp://118.107.84.3/live//vtc11_public
 #EXTINF:-1 group-title="VTC",VTC13 s1
-http://103.21.148.45:81/icomchannelvtc/smil:itv_ele.smil/chunklist_b928000_sleng.m3u8
+http://103.21.148.45:81/icomchannelvtc/smil:itv_ele_adb_ff.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VTC",VTC13 s2
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTC",VTC13 s3
@@ -144,15 +146,15 @@ http://live.cdn.mobifonetv.vn/motv/vtc16_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTC",VTC16 s2
 http://103.21.148.45:81/icomchannelvtc/vtc16_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTC",VTC16 s3
-http://118.107.85.14:1935/tvnet/smil:vtc16.smil/chunklist_w1702620396_b1000000.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtc16.smil/chunklist_w829775148_b1000000.m3u8
 
 #EXTINF:-1 group-title="HTV",HTV9
-http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w520143836_b1000000.m3u8
+http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w1364354989_b1000000.m3u8
 #EXTINF:-1 group-title="HTV",HTVC FBNC
 http://live.cdn.mobifonetv.vn/motv/fbnc_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG",HN1 
-http://118.107.85.14:1935/tvnet/smil:hanoi1.smil/chunklist_w1672688797_b1000000.m3u8
+http://118.107.85.14:1935/tvnet/smil:hanoi1.smil/chunklist_w1696466190_b1000000.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",CAO BANG
 http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG",Bac Can
@@ -484,11 +486,11 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
 #EXTINF:-1 group-title="Sports",USA:WWE
 http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png" group-title="Sports", SporTV
-http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8?IPTVBRASILHD
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/386.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Sports",SporTV 2
-http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8?IPTVBRASILHD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png" group-title="Sports", SporTV 3
-http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8?IPTVBRASILHD
+http://boxiptv.noip.us:9998/live/jaimes/jaimes/821.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png" group-title="Sports", SporTV 5
+http://boxiptv.noip.us:9998/live/jaimes/jaimes/824.m3u8
 #EXTINF:-1 group-title="Sports",ARENASPORT 1
 http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
 #EXTINF:-1 group-title="Sports",ARENASPORT 2
@@ -505,6 +507,28 @@ http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
 #EXTINF:-1 group-title="Sports",FIGHT SPORTS
 http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
+#EXTINF:-1 group-title="Sports",Latin: ESPN
+http://live.tvplayerlatino.com/lista_remota/src1/bnDLg.m3u8
+#EXTINF:-1 group-title="Sports",Latin: ESPN 2
+http://live.tvplayerlatino.com/lista_remota/src1/pIHCG.m3u8
+#EXTINF:-1 group-title="Sports",Latin: ESPN 3
+http://live.tvplayerlatino.com/lista_remota/src1/6Xgky.m3u8
+#EXTINF:-1 group-title="Sports",Latin: ESPN HD
+http://live.tvplayerlatino.com/lista_remota/src1/AUYrC.m3u8
+#EXTINF:-1 group-title="Sports",Latin: Eurosport
+http://live.tvplayerlatino.com/lista_remota/src3/H3aqq.m3u8
+#EXTINF:-1 group-title="Sports",Latin: Eurosport 2
+http://live.tvplayerlatino.com/lista_remota/src3/cCOQo.m3u8
+#EXTINF:-1 group-title="Sports",Latin: Fox Sports
+http://live.tvplayerlatino.com/lista_remota/src1/ead8m.m3u8
+#EXTINF:-1 group-title="Sports",Latin: Fox Sports 2
+http://live.tvplayerlatino.com/lista_remota/src1/zDHQZ.m3u8
+#EXTINF:-1 group-title="Sports",Latin: Fox Sports 3
+http://live.tvplayerlatino.com/lista_remota/src3/hO6Ul.m3u8
+#EXTINF:-1 group-title="Sports",Latin: FS1
+http://live.tvplayerlatino.com/lista_remota/src3/OCEx2.m3u8
+#EXTINF:-1 group-title="Sports",Latin: Win Sports
+http://live.tvplayerlatino.com/lista_remota/src3/winsp.m3u8
 
 #EXTINF:-1 group-title="QUOC TE",USA:MOVIES 1
 http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
@@ -528,6 +552,42 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
 http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:SHOWCASE
 http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: HBO
+http://live.tvplayerlatino.com/lista_remota/src4/YStPQ.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: A&E HD
+http://live.tvplayerlatino.com/lista_remota/src1/a9C5z.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Warner Channel HD
+http://live.tvplayerlatino.com/lista_remota/src1/SO0M3.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: AXN HD
+http://live.tvplayerlatino.com/lista_remota/src1/0Jip7.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Az Cinema
+http://live.tvplayerlatino.com/lista_remota/src1/LxGvm.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Cinecanal
+http://live.tvplayerlatino.com/lista_remota/src1/l7882.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Cinemax
+http://live.tvplayerlatino.com/lista_remota/src1/k8MBl.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Film Zone HD
+http://live.tvplayerlatino.com/lista_remota/src1/8VRfG.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Fox Movies
+http://live.tvplayerlatino.com/lista_remota/src1/pf5II.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Fox 1 HD
+http://live.tvplayerlatino.com/lista_remota/src1/NCheB.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Fox Action
+http://live.tvplayerlatino.com/lista_remota/src1/QBjs9.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Fox Cinema
+http://live.tvplayerlatino.com/lista_remota/src1/rvTcm.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Fox Classics
+http://live.tvplayerlatino.com/lista_remota/src1/ulhmA.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Fox Life
+http://live.tvplayerlatino.com/lista_remota/src1/7eNpt.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: SyFy
+http://live.tvplayerlatino.com/lista_remota/src1/GU0FE.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: TNT
+http://live.tvplayerlatino.com/lista_remota/src1/uny6i.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: TNT HD
+http://live.tvplayerlatino.com/lista_remota/src1/5shHX.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: TNT Series
+http://live.tvplayerlatino.com/lista_remota/src1/9HmKY.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:HISTORY
 http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:HISTORY 2
@@ -852,6 +912,50 @@ http://218.203.106.12:5580/ysten-businessmobile/live/nongyezf/yst.m3u8
 http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1 group-title="QUOC TE",China:CIBN Perfect Game
 http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Nat Geo
+http://live.tvplayerlatino.com/lista_remota/src1/BiEi0.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Nat Geo Wild
+http://live.tvplayerlatino.com/lista_remota/src1/i80zc.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery Channel
+http://live.tvplayerlatino.com/lista_remota/src1/hdHdC.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery SCI
+http://live.tvplayerlatino.com/lista_remota/src1/LMgwM.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery Civilization
+http://live.tvplayerlatino.com/lista_remota/src1/VSngF.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery Theater HD
+http://live.tvplayerlatino.com/lista_remota/src1/BCSvX.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery Turbo
+http://live.tvplayerlatino.com/lista_remota/src1/uNab0.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery World
+http://live.tvplayerlatino.com/lista_remota/src1/N6San.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Investigation Discovery
+http://live.tvplayerlatino.com/lista_remota/src1/QO6g7.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery H&H
+http://live.tvplayerlatino.com/lista_remota/src1/gEqGA.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: TLC
+http://live.tvplayerlatino.com/lista_remota/src1/O9Age.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Animal Planet
+http://live.tvplayerlatino.com/lista_remota/src1/bEKOK.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: BBC Entertainment
+http://live.tvplayerlatino.com/lista_remota/src1/FnUGG.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: History Channel
+http://live.tvplayerlatino.com/lista_remota/src1/wQqis.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Travel Channel
+http://live.tvplayerlatino.com/lista_remota/src3/IG94F.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Boomerang
+http://live.tvplayerlatino.com/lista_remota/src1/u3H8s.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Cartoon Network
+http://live.tvplayerlatino.com/lista_remota/src1/owHw3.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: CBeebies
+http://live.tvplayerlatino.com/lista_remota/src1/5hgci.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Discovery Kids
+http://live.tvplayerlatino.com/lista_remota/src1/Q99yx.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Disney Channel
+http://live.tvplayerlatino.com/lista_remota/src1/yr1Y7.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Disney Junior
+http://live.tvplayerlatino.com/lista_remota/src1/BOgKm.m3u8
+#EXTINF:-1 group-title="QUOC TE",Latin: Disney XD
+http://live.tvplayerlatino.com/lista_remota/src1/Ow853.m3u8
 
 #EXTINF:-1 group-title="PHIM TH", Jackie Chan 
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -877,4 +981,3 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH", Phim Thế giới động vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
