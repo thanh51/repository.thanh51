@@ -1,34 +1,24 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 28.09.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 08.10.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s1
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s2
 http://118.107.85.14:1935/tvnet/smil:vtv1.smil/chunklist_w464693119_b1000000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s3
+#EXTINF:-1 group-title="VTV-VTVcab", VTV1 HD s2
 http://103.21.148.45:81/icomchannelvtv/smil:v1_dump_2111.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV2 s1
 http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VTV2 s2
 http://118.107.85.14:1935/tvnet/smil:vtv2.smil/chunklist_w783214168_b1000000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV2 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s1
 http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w1525876_b800000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD s2
 http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_2016.smil/chunklist_b1328000_sleng.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV4 
 http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w1337903759_b1000000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV4 HD
-http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV5 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VTV9 
-http://live.cdn.mobifonetv.vn/motv/vtv9_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VOV s1
 http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", VOV s2
@@ -40,6 +30,737 @@ http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", TTXVN s1
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", TTXVN s2
+http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w131993792_b1000000.m3u8
+
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc1.png",VTC1 
+http://113.187.31.44:1935/live/_definst_/smil:vtc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="",VTC2
+http://113.187.31.44:1935/live/_definst_/smil:vtc2.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/1400886710231VTC3_HD.png",VTC3  
+http://113.187.31.44:1935/live/_definst_/smil:vtc3.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc4.png",VTC4
+http://113.187.31.44:1935/live/_definst_/smil:vtc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc5.png",VTC5
+http://113.187.31.44:1935/live/_definst_/smil:vtc5.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="",VTC6
+http://113.187.31.44:1935/live/_definst_/smil:vtc6.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png",VTC7
+http://113.187.31.44:1935/live/_definst_/smil:vtc7.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc8.png",VTC8
+http://113.187.31.44:1935/live/_definst_/smil:vtc8.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://i.imgur.com/2QYxxlh.png",VTC9
+http://113.187.31.44:1935/live/_definst_/smil:vtc9.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="",VTC10
+http://113.187.31.44:1935/live/_definst_/smil:vtc10.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="",VTC11
+http://113.187.31.44:1935/live/_definst_/smil:vtc11.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="",VTC12 
+http://113.187.31.44:1935/live/_definst_/smil:vtc12.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://i.imgur.com/J00WF8k.jpg?1",iTV-VTC13
+http://113.187.31.44:1935/live/_definst_/smil:vtc13.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/8_VTC_14_Logo_H_1395398819278.png", VTC14
+http://113.187.31.44:1935/live/_definst_/smil:vtc14.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="",VTC15 
+http://113.187.31.44:1935/live/_definst_/smil:vtc15.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC"tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/140020533837110_vtc16_Logo_H.png", VTC16
+http://113.187.31.44:1935/live/_definst_/smil:vtc16.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="HTV",HTV9
+http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w1364354989_b1000000.m3u8
+#EXTINF:-1 group-title="HTV",HTVC FBNC
+http://live.cdn.mobifonetv.vn/motv/fbnc_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG",HN1 
+http://118.107.85.14:1935/tvnet/smil:hanoi1.smil/chunklist_w1696466190_b1000000.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",CAO BANG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Bac Can
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Lạng Sơn 
+rtmp://123.18.206.40:1935/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG",Quang Ninh 1
+rtmp://123.29.68.44/hctv/vstv020
+#EXTINF:-1 group-title="DIA PHUONG",Quang Ninh 3
+rtmp://123.29.68.44/hctv/vstv021
+#EXTINF:-1 group-title="DIA PHUONG",VINH PHUC 
+rtmp://117.6.162.63/live/thvp
+#EXTINF:-1 group-title="DIA PHUONG",HaNam 
+rtmp://113.160.198.111:8086/live//hanamtv
+#EXTINF:-1 group-title="DIA PHUONG",Ha Tinh 
+http://hatinhtv.vn/liveevent.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Quang Tri 
+rtmp://123.25.117.9:80/live/qtv
+#EXTINF:-1 group-title="DIA PHUONG",THUA THIEN HUE 
+rtmp://118.69.176.149:1935/live/trt
+#EXTINF:-1 group-title="DIA PHUONG",Da Nang 2
+rtmp://drt.danang.vn/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG",Khánh Hòa 
+rtmp://118.69.198.109/live/video
+#EXTINF:-1 group-title="DIA PHUONG",GIA LAI
+rtmp://222.255.169.132/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG",DAK NONG 
+rtmp://222.255.158.22/live/truyenhinh
+#EXTINF:-1 group-title="DIA PHUONG",Bà Rịa-Vũng Tàu 
+rtmp://113.163.216.24:1935/live/livestream
+#EXTINF:-1 group-title="DIA PHUONG", Vinh long 1
+http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Vinh long 2
+http://live.cdn.mobifonetv.vn/motv2/vinhlong2_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="DIA PHUONG", Tien Giang
+http://live.cdn.mobifonetv.vn/motv2/tiengiang_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="DIA PHUONG",Sóc trăng 
+rtmp://115.78.3.164/live/stv1
+#EXTINF:-1 group-title="DIA PHUONG",Bac Lieu 
+rtmp://118.69.205.213/livepkgr/livestream1
+#EXTINF:-1 group-title="DIA PHUONG",An Giang 
+rtmp://113.161.212.25/live//atv1
+#EXTINF:-1 group-title="DIA PHUONG",Ca Mau 
+rtmp://113.161.220.254:1935/livepkgr/livestream2
+
+#EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
+http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",SGN 51.3 LIVE – SAIGON NETWORK TV ( HOUSTON, TEXAS )
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",SAIGON TV LIVE – Media Kit & Rate (WESTMINSTER, CALIFORNIA)
+http://63.143.59.125:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VIET GLOBAL
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",KVLA
+http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s1
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s2
+http://69.75.17.10:1935/vbstv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",YOU STREAMLIVE
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VIETBAY
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",ITV SHOP
+http://origin.onworldtv.com:1935/liveorigin/itvshop/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s1
+http://stream.onworldtv.com/edge/liveorigin/vna/index.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s2
+http://origin.onworldtv.com:1935/liveorigin/vna/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s3
+http://livestream.vnvn.net/vnatv573.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",S CHANNEL TV 56.6 Live TV
+http://64.71.129.2:8080/hls/ius_000114.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",IBC NEWS
+rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
+#EXTINF:-1 group-title="HAI NGOAI",VIETSET 57.4
+http://69.75.17.10:1935/vietset574tvv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s1
+http://204.9.200.251:1935/liveorigin/vstartv/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s2
+http://stream.onworldtv.com/edge/liveorigin/vstartv/index.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",V STAR TV CHANNEL 57.11 – Nam California s3
+http://origin.onworldtv.com:1935/liveorigin/vstartv/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",Công Giáo TV
+http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VIETCHRISTIAN
+mms://live.vietchristian.com/tv
+#EXTINF:-1 group-title="HAI NGOAI",KEENG TV
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VIET MY TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB ( Rates )- ATLANTA, GEORGIA
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",Nail & Beauty Channel
+http://stream.onworldtv.com/edge/liveorigin/lexor/index.m3u8
+#EXTINF:-1 group-title="HAI NGOAI",Radio Bolsa Westminster 
+http://ice7.securenetsystems.net/RBVU?type=.flv
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 106.3 FM Los Angeles 
+http://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 1430 AM San Jose
+http://ice5.securenetsystems.net:80/KVVN
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 900 AM Houston 
+http://ice5.securenetsystems.net:80/KREH
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio Seattle 
+http://170.75.194.209:8888
+#EXTINF:-1 group-title="HAI NGOAI",Thời Báo Radio Toronto 
+http://209.250.131.2:8000/;stream.mp3
+#EXTINF:-1 group-title="HAI NGOAI",Radio VNHN/VABC Falls Church  
+http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sopcast-Kodi",[COLOR cyan][B]Kênh sopcast xem trong KODI đã cài addon Plexus[/B][/COLOR]
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Kodi",[COLOR=yellow][B]- Mở web http://arenavision.in/agenda :Lịch thi đấu và link sopcast (S1-S10) tương ứng[/B][/COLOR]
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Kodi",[COLOR=yellow][B]- Xem theo giờ VN + 5 tiếng[/B][/COLOR]
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Kodi",K+(253096)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096) 
+#EXTINF:-1 group-title="Sopcast-Kodi",K+(259091)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091) 
+#EXTINF:-1 group-title="Sopcast-Kodi",K+(259400)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S1(262490)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262490&mode=2&name=S1(262490) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S2(262491)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S3(262492)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&name=S3(262492) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S4(262493)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262493&mode=2&name=S4(262493) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S5(262494)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262494&mode=2&name=S5(262494) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S6(262495)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262495&mode=2&name=S6(262495) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S7(262496)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262496&mode=2&name=S7(262496)  
+#EXTINF:-1 group-title="Sopcast-Kodi",S8(262497)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262497&mode=2&name=S8(262497) 
+#EXTINF:-1 group-title="Sopcast-Kodi",S9(262498)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262498&mode=2&name=S9(262498)   
+#EXTINF:-1 group-title="Sopcast-Kodi",S10(262499)
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499) 
+#EXTINF:-1 group-title="Sopcast-Kodi",Cinemax
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148882&mode=2&name=Cinemax 
+#EXTINF:-1 group-title="Sopcast-Kodi",AXN
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253035&mode=2&name=AXN 
+#EXTINF:-1 group-title="Sopcast-Kodi",HBO 
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO 
+#EXTINF:-1 group-title="Sopcast-Kodi",HBO HD
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259497&mode=2&name=HBO HD
+#EXTINF:-1 group-title="Sopcast-Kodi",TV1000
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000 
+#EXTINF:-1 group-title="Sopcast-Kodi",Filmbox
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox 
+#EXTINF:-1 group-title="Sopcast-Kodi",Boomerang
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang 
+#EXTINF:-1 group-title="Sopcast-Kodi",Cartoon Network 
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network
+#EXTINF:-1 group-title="Sopcast-Kodi",National Geographic
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic
+#EXTINF:-1 group-title="Sopcast-Kodi",NATGEO CN 
+plugin://program.plexus/?url=sop://124.232.150.188:3920/5699&mode=2&name=NATGEO CN 
+#EXTINF:-1 group-title="Sopcast-Kodi",NatGeo Wild
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=NatGeo wild 
+#EXTINF:-1 group-title="Sopcast-Kodi",Discovery Channel
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel 
+#EXTINF:-1 group-title="Sopcast-Kodi",Discovery Science
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science 
+#EXTINF:-1 group-title="Sopcast-Kodi",DISCOVERY CN
+plugin://program.plexus/?url=sop://124.232.150.188:3920/5700&mode=2&name=DISCOVERY CN
+#EXTINF:-1 group-title="Sopcast-Kodi",BBC Earth
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
+
+#EXTINF:-1 group-title="Sopcast-Box tv",[COLOR cyan][B]Kênh sopcast xem bằng app IPTV trong box tv android[/B][/COLOR]
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Box tv",Trước khi xem sopcast: 
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Box tv",1 - Box Đã cài app sopcast;
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Box tv",2 - Vào cài đặt của IPTV>chọn"người chơi đang Streaming"> chọn"hệ thống" ở cuối bảng;
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Box tv",3 - Nếu không xem sopcast>vào cài đặt của IPTV>chọn"người chơi đang Streaming">chọn (ví dụ:MX Player...)
+http://textuploader.com
+#EXTINF:-1 group-title="Sopcast-Box tv",K+(253096)
+sop://broker.sopcast.com:3912/253096
+#EXTINF:-1 group-title="Sopcast-Box tv",K+(259091)
+sop://broker.sopcast.com:3912/259091
+#EXTINF:-1 group-title="Sopcast-Box tv",K+(259400)
+sop://broker.sopcast.com:3912/259400
+#EXTINF:-1 group-title="Sopcast-Box tv",S1(262490)
+sop://broker.sopcast.com:3912/262490
+#EXTINF:-1 group-title="Sopcast-Box tv",S2(262491)
+sop://broker.sopcast.com:3912/262491
+#EXTINF:-1 group-title="Sopcast-Box tv",S3(262492)
+sop://broker.sopcast.com:3912/262492
+#EXTINF:-1 group-title="Sopcast-Box tv",S4(262493)
+sop://broker.sopcast.com:3912/262493
+#EXTINF:-1 group-title="Sopcast-Box tv",S5(262494)
+sop://broker.sopcast.com:3912/262494
+#EXTINF:-1 group-title="Sopcast-Box tv",S6(262495)
+sop://broker.sopcast.com:3912/262495
+#EXTINF:-1 group-title="Sopcast-Box tv",S7(262496)
+sop://broker.sopcast.com:3912/262496 
+#EXTINF:-1 group-title="Sopcast-Box tv",S8(262497)
+sop://broker.sopcast.com:3912/262497
+#EXTINF:-1 group-title="Sopcast-Box tv",S9(262498)
+sop://broker.sopcast.com:3912/262498  
+#EXTINF:-1 group-title="Sopcast-Box tv",S10(262499)
+sop://broker.sopcast.com:3912/262499 
+#EXTINF:-1 group-title="Sopcast-Box tv",Cinemax
+sop://broker.sopcast.com:3912/148882
+#EXTINF:-1 group-title="Sopcast-Box tv",AXN
+sop://broker.sopcast.com:3912/253035
+#EXTINF:-1 group-title="Sopcast-Box tv",HBO 
+sop://broker.sopcast.com:3912/149259
+#EXTINF:-1 group-title="Sopcast-Box tv",HBO HD
+sop://broker.sopcast.com:3912/259497
+#EXTINF:-1 group-title="Sopcast-Box tv",TV1000
+sop://broker.sopcast.com:3912/256337
+#EXTINF:-1 group-title="Sopcast-Box tv",Filmbox
+sop://broker.sopcast.com:3912/148981
+#EXTINF:-1 group-title="Sopcast-Box tv",Boomerang
+sop://broker.sopcast.com:3912/149264
+#EXTINF:-1 group-title="Sopcast-Box tv",Cartoon Network 
+sop://broker.sopcast.com:3912/148254
+#EXTINF:-1 group-title="Sopcast-Box tv",National Geographic
+sop://broker.sopcast.com:3912/148248
+#EXTINF:-1 group-title="Sopcast-Box tv",NATGEO CN 
+sop://124.232.150.188:3920/5699
+#EXTINF:-1 group-title="Sopcast-Box tv",Nat Geo Wild
+sop://broker.sopcast.com:3912/253037
+#EXTINF:-1 group-title="Sopcast-Box tv",Discovery Channel
+sop://broker.sopcast.com:3912/256241
+#EXTINF:-1 group-title="Sopcast-Box tv",Discovery Science
+sop://broker.sopcast.com:3912/256243
+#EXTINF:-1 group-title="Sopcast-Box tv",DISCOVERY CN
+sop://124.232.150.188:3920/5700
+#EXTINF:-1 group-title="Sopcast-Box tv",BBC Earth
+sop://broker.sopcast.com:3912/148257
+
+#EXTINF:-1, group-title="Sports"K+1 HD 
+http://5.39.70.216/live/louis/louis/1031.m3u8
+#EXTINF:-1, group-title="Sports"K+PM HD 
+http://5.39.70.216/live/louis/louis/1029.m3u8
+#EXTINF:-1, group-title="Sports"K+PC HD 
+http://5.39.70.216/live/louis/louis/1030.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 1 HD+
+http://5.39.70.216/live/louis/louis/230.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 2 HD+
+http://5.39.70.216/live/louis/louis/231.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 3 HD+
+http://5.39.70.216/live/louis/louis/232.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 4 HD+
+http://5.39.70.216/live/louis/louis/233.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 5 HD+
+http://5.39.70.216/live/louis/louis/234.m3u8
+#EXTINF:-1 group-title="Sports",Bt Sports 1
+http://5.39.70.216/live/louis/louis/10.m3u8
+#EXTINF:-1 group-title="Sports",Bt Sports 2
+http://5.39.70.216/live/louis/louis/11.m3u8
+#EXTINF:-1 group-title="Sports",Bt Sports 3
+http://5.39.70.216/live/louis/louis/87.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 1
+http://5.39.70.216/live/louis/louis/1.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 2
+http://5.39.70.216/live/louis/louis/2.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 3
+http://5.39.70.216/live/louis/louis/3.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 4
+http://5.39.70.216/live/louis/louis/4.m3u8
+#EXTINF:-1 group-title="Sports",SkySports 5
+http://5.39.70.216/live/louis/louis/5.m3u8
+#EXTINF:-1 group-title="Sports",SkySports F1
+http://5.39.70.216/live/louis/louis/6.m3u8
+#EXTINF:-1 group-title="Sports",SkySports News
+http://5.39.70.216/live/louis/louis/7.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 1 USA 
+ http://5.39.70.216/live/louis/louis/59.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 2 USA
+http://5.39.70.216/live/louis/louis/60.m3u8
+#EXTINF:-1 group-title="Sports",Sky Bundesliga HD1
+http://5.39.70.216/live/louis/louis/38.m3u8
+#EXTINF:-1 group-title="Sports", CCTV5
+http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001028/index.m3u8
+#EXTINF:-1 group-Title="Sports",CCTV5 HD s1
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="Sports",CCTV5 HD s2 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1 group-title="Sports", CCTV5+HD s1
+http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8
+#EXTINF:-1 group-title="Sports",CCTV-5+HD s2 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8
+#EXTINF:-1 group-Title="Sports",China:Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 1-1080P
+http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 2-1080P
+http://183.207.255.190:80/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 3-1080P
+http://183.207.255.190:80/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 4-1080P
+http://183.207.255.190:80/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 5-1080P
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 6-1080P
+http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 7-1080P
+http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-Title="Sports",China:Live 8-1080P
+http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
+#EXTINF:-1 group-title="Sports",AL:SUPER SPORT 1 HD
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title="Sports",AL:SUPER SPORT 2 HD
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title="Sports",AL:SUPER SPORT 3 HD
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title="Sports",AL:SUPER SPORT 4 HD
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 group-title="Sports",SUPERSPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-title="Sports",Russia:Football 
+http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
+#EXTINF:-1 group-title="Sports",ARENASPORT 1
+http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
+#EXTINF:-1 group-title="Sports",ARENASPORT 2
+http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
+#EXTINF:-1 group-title="Sports",ARENASPORT 3
+http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
+#EXTINF:-1 group-title="Sports",ARENASPORT 4
+http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
+#EXTINF:-1 group-title="Sports",ARENASPORT 5
+http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORT 1
+http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORT 2
+http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
+#EXTINF:-1 group-title="Sports",FIGHT SPORTS
+http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
+
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 3
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 4
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 5
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 6
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 7
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 8
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 9
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 10
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:SHOWCASE
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:HISTORY
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:HISTORY 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:ANIMAL PLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:DISCOVERY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:NATIONAL GEOGRAPHIC
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:NATGEO WILD
+http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:INVESTIGATION DESCOVERY
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+#EXTINF:-1 group-title="QUOC TE",Charlie Chaplin (ingles)
+http://198.179.31.197/live/2966.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Action Cinema (ingles)
+http://198.179.31.197/live/500.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",FilmOn Horror Network (ingles)
+http://198.179.31.197/live/1684.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Kung Fu Classics (ingles)
+http://198.179.31.197/live/1967.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Bonanza (ingles)
+http://198.179.31.197/live/2957.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Kartoon Klassics
+http://198.179.31.197/live/793.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg" group-title="QUOC TE",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="QUOC TE",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg" group-title="QUOC TE",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE" tvg-name="NASA TV", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE",US:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",US:ANIMAL CHANNEL
+http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",US:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",US:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",BBC NEWS HD
+http://51.255.32.7:8000/hd
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE", NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE",RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE",Perviy Kanal
+http://195.228.11.89:4080/udp/225.255.255.62:10000
+#EXTINF:-1 group-title="QUOC TE", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="QUOC TE", Awani
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+#EXTINF:-1 group-title="QUOC TE", BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 group-title="QUOC TE", Bloomberg TV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:-1 group-title="QUOC TE", JEI ENGLISH TV
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+#EXTINF:-1 group-title="QUOC TE", PLAYY WEST
+http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+#EXTINF:-1 group-title="QUOC TE", United Asia TV
+http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE", One TV news
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE", TVBS news
+http://60.199.188.151/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 group-title="QUOC TE", Extraordinary news
+http://60.199.188.151/HLS/WG_USTV-N/index.m3u8
+#EXTINF:-1 group-title="QUOC TE", Ettv News HD
+http://60.199.188.151/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 group-title="QUOC TE", ETTV HD
+http://61.216.71.67/sta/ch21.m3u8
+#EXTINF:-1 group-title="QUOC TE", CTV News
+http://61.216.71.67/sta/ch508.m3u8
+#EXTINF:-1 group-title="QUOC TE", TVBS News 1
+http://61.216.71.67/sta/ch510.m3u8
+#EXTINF:-1 group-title="QUOC TE", ETTV
+http://61.216.71.67/sta/ch512.m3u8
+#EXTINF:-1 group-title="QUOC TE", Taiwan Television News
+http://61.216.71.67/sta/ch516.m3u8
+#EXTINF:-1 group-title="QUOC TE", CTS News
+http://61.216.71.67/sta/ch519.m3u8
+#EXTINF:-1 group-title="QUOC TE",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+#EXTINF:-1 group-title="QUOC TE",AMC
+http://www.streamgaroo.com/fetch/r/http://urhd.tv/amc-hd/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",+18
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",+18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",+18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",+18
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://dottoremercato.altervista.org/wp-content/uploads/2015/04/10425127_743430315753215_5677116141643620306_n-e1428656694193.png" group-title="QUOC TE",FOR MUSIC TV
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE",US:MUSIC
+http://fluvod1.giniko.com/all-music/all-music/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE",US:MODERN DANCE
+http://fluvod1.giniko.com/all-moderndance/all-moderndance/tracks-1,6/index.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:National Geographic
+http://61.216.71.67/sta/ch29.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:Discovery Channel
+http://61.216.71.67/sta/ch30.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:ASIA Travel
+http://61.216.71.67/stc/ch004.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:NEWS HD
+http://61.216.71.67/sta/ch31.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:CNN
+http://61.216.71.67/sta/ch36.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:CTV HD
+http://61.216.71.67/sta/ch506.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:CTV News
+http://61.216.71.67/sta/ch508.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:TVBS NEWS
+http://61.216.71.67/sta/ch510.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:TVB8
+http://61.216.71.67/sta/ch511.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:EBC NEWS
+http://61.216.71.67/sta/ch512.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:Universal NEWS
+http://61.216.71.67/stc/ch016.m3u8
+#EXTINF: -1 group-title="QUOC TE",Taiwan:Universal NEWS 2
+http://61.216.71.67/stc/ch017.m3u8
+#EXTINF:-1 group-title="QUOC TE",Korea:YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 group-title="QUOC TE",Korea:YONHAP NEWS
+http://ev1.startlink.tk/etv1/phd133/chunklist_w1198430782.m3u8
+#EXTINF:-1 group-title="QUOC TE",Korea:EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE",Korea:ETN
+http://edge2.everyon.tv/etv2sb/phd2/chunklist_w1140818506.m3u8
+#EXTINF:-1 group-title="QUOC TE",Korea:PAX
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1 group-title="QUOC TE",Korea:PAX
+rtmp://111.118.21.79/etv1sb/phd385
+#EXTINF:-1 group-title="QUOC TE",Korea:CBS
+rtmp://123.108.164.71/etv2sb/phd27
+#EXTINF:-1 group-title="QUOC TE",Korea:TBS
+rtmp://123.108.164.71/etv2sb/phd40
+#EXTINF:-1 group-title="QUOC TE",Korea:GOODTV
+rtmp://123.108.164.71/etv2sb/phd29
+#EXTINF:-1 group-title="QUOC TE",Korea:DONGATV19
+rtmp://123.108.164.71/etv2sb/phd43
+#EXTINF:-1 group-title="QUOC TE",Korea:YTNWeather
+rtmp://123.108.164.71/etv2sb/phd193
+#EXTINF:-1 group-title="QUOC TE",Korea:GCN
+rtmp://123.108.164.71/etv2sb/phd327
+#EXTINF:-1 group-title="QUOC TE",Korea:MOUNTAINTV
+rtmp://123.108.164.71/etv2sb/phd337
+#EXTINF:-1 group-title="QUOC TE",Korea:eventTV
+rtmp://123.108.164.71/etv2sb/phd389
+#EXTINF:-1 group-title="QUOC TE",Korea:KBS1 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
+#EXTINF:-1 group-title="QUOC TE",Korea:KBS2 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
+#EXTINF:-1 group-title="QUOC TE",Korea:BBC
+rtmp://123.108.164.71/etv2sb/phd863
+#EXTINF:-1 group-title="QUOC TE",Korea:TRENDY
+rtmp://123.108.164.71/etv2sb/phd4
+#EXTINF:-1 group-title="QUOC TE",Korea:MOVIES
+rtmp://123.108.164.71/etv2/phd723
+#EXTINF:-1 group-title="QUOC TE",Korea:SAFE
+rtmp://123.108.164.71/etv2/phd109
+#EXTINF:-1 group-title="QUOC TE",Korea:KCTV
+rtmp://111.118.21.79/etv1/phd555
+#EXTINF:-1 group-title="QUOC TE",Korea:KTV
+rtmp://111.118.21.79/etv1/phd393
+#EXTINF:-1 group-title="QUOC TE",Korea:KTV HD
+rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:-1 group-title="QUOC TE",Korea:CTS
+rtmp://111.118.21.79/etv1/phd28
+#EXTINF:-1 group-title="QUOC TE",Korea:OBS
+rtmp://111.118.21.79/etv1sb/phd3
+#EXTINF:-1 group-title="QUOC TE",Korea:TVIS
+rtmp://111.118.21.79/etv1sb/phd551
+#EXTINF:-1 group-title="QUOC TE",Korea:ETN
+rtmp://123.108.164.71/etv2sb/phd2
+#EXTINF:-1 group-title="QUOC TE",Korea:KBSN sports
+rtmp://123.108.164.71/etv2sb/phd852
+#EXTINF:-1 group-title="QUOC TE",Korea:HANWOON
+rtmp://123.108.164.71/etv2sb/phd897
+#EXTINF:-1 group-title="QUOC TE",Korea:HCN
+rtmp://123.108.164.71/etv2/phd951
+#EXTINF:-1 group-title="QUOC TE",Korea:Hpbs
+rtmp://123.108.164.71/etv2/phd983
+#EXTINF:-1 group-title="QUOC TE",Korea:KIDSTV
+rtmp://123.108.164.71/etv2/phd1043
+#EXTINF:-1 group-title="QUOC TE",Korea:TND
+rtmp://123.108.164.71/etv2/phd1058
+#EXTINF:-1 group-title="QUOC TE",Korea:MTN
+rtmp://111.118.21.79/etv1sb/phd18
+#EXTINF:-1 group-title="QUOC TE",Korea:RTNTV
+rtmp://111.118.21.79/etv1sb/phd19
+#EXTINF:-1 group-title="QUOC TE",Korea:UPTV
+rtmp://111.118.21.79/etv1/phd752
+#EXTINF:-1 group-title="QUOC TE",Korea:SBS HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
+#EXTINF:-1 group-title="QUOC TE",Korea:MBC HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
+#EXTINF:-1 group-title="QUOC TE",Korea:MBC MUSIC
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
+#EXTINF:-1  group-title="QUOC TE",Korea:Mnet HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
+#EXTINF:-1 group-title="QUOC TE",Korea:TVN HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
+#EXTINF:-1 group-title="QUOC TE",Korea:SBS MTV HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
+#EXTINF:-1 group-title="QUOC TE",Korea:MBC every1 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
+#EXTINF:-1 group-title="QUOC TE",China:CCTV1 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV2 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-2/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV3 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV4 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-4/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV6 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-6/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV7 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-7/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV8 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-8/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV9 s1 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-news/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV9 s2  
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV10 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-10/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV11 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-11/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV12 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-12/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV13 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV14 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CCTV15 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN Military Review
+http://218.203.106.12:5580/ysten-businessmobile/live/junshipl/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN Gold Variety
+http://218.203.106.12:5580/ysten-businessmobile/live/saishijx/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN fine record
+http://218.203.106.12:5580/ysten-businessmobile/live/jingpinjl/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN fine arts
+http://218.203.106.12:5580/ysten-businessmobile/live/jzongyi/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN Sports Collectibles
+http://218.203.106.12:5580/ysten-businessmobile/live/jtiyu/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN Collectibles Movies
+http://218.203.106.12:5580/ysten-businessmobile/live/jdianying/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN boutique Grand Theatre
+http://218.203.106.12:5580/ysten-businessmobile/live/jdaju/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN theater costume
+http://218.203.106.12:5580/ysten-businessmobile/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN home theater
+http://218.203.106.12:5580/ysten-businessmobile/live/jiatingjc/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN romantic comedy
+http://218.203.106.12:5580/ysten-businessmobile/live/aiqingxj/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN military theater
+http://218.203.106.12:5580/ysten-businessmobile/live/junlvjc/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN action movies
+http://218.203.106.12:5580/ysten-businessmobile/live/dongzuody/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN large star
+http://218.203.106.12:5580/ysten-businessmobile/live/mingxingdp/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN overseas theater
+http://218.203.106.12:5580/ysten-businessmobile/live/xiqumd/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN suspense thriller
+http://218.203.106.12:5580/ysten-businessmobile/live/jingsongxy/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN Anime Kingdom
+http://218.203.106.12:5580/ysten-businessmobile/live/donghuawg/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN agricultural wealth
+http://218.203.106.12:5580/ysten-businessmobile/live/nongyezf/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN about health
+http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
+#EXTINF:-1 group-title="QUOC TE",China:CIBN Perfect Game
+http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
+
+#EXTINF:-1 group-title="PHIM TH", Jackie Chan 
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Thần Thám Địch Nhân Kiệt
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Tây Du Ký
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Bao Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Tom and Jerry
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Superheroes
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Phim truyền hình Mỹ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Phim Khoa học viễn tưởng
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Phim Giả tưởng
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Phim Hành động
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Phim Tài liệu khoa học
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH", Phim Thế giới động vật
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w131993792_b1000000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab", ANTV
 http://live.cdn.mobifonetv.vn/motv/antv_hls.smil/chunklist_b1200000.m3u8
