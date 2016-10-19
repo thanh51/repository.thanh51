@@ -122,144 +122,26 @@
 <thumbnail>icon</thumbnail>
 </item>
 <item>
-<title>(link Ace 3)Xem Trận đấu (21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av3</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av3</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>(link Ace 4)Xem Trận đấu (21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av4</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av4</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-
-
 <item>
 <title>(Link sopcast 10) Xem Trận đấu (21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S10(262499)</link>
-<thumbnail>icon</thumbnail>
-</item>
-
-<item>
-<title>(link Ace 26)Xem Trận đấu (21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av26</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av26</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>(link Ace 27)Xem Trận đấu (21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av27</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av27</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-
-
-<item>
-<title>(Link sopcast) Xem Trận đấu (23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262499)</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)</link>
 <thumbnail>icon</thumbnail>
 </item>
 <item>
-<title>(link Ace 26)Xem Trận đấu (23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av26</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av26</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
+<title>(Link sopcast 10) Xem Trận đấu (23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)</link>
+<thumbnail>icon</thumbnail>
 </item>
-<item>
-<title>(link Ace 27)Xem Trận đấu (23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av27</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av27</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-
-
 <item>
 <title>(Link sopcast 2) Xem Trận đấu (19h30 ngày 23/10/16): MANCHESTER CITY Vs SOUTHAMPTON</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)</link>
 <thumbnail>icon</thumbnail>
 </item>
 <item>
-<title>(link Ace 3)Xem Trận đấu (19h30 ngày 23/10/16): MANCHESTER CITY Vs SOUTHAMPTON</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av3</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av3</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>(link Ace 4)Xem Trận đấu (19h30 ngày 23/10/16): MANCHESTER CITY Vs SOUTHAMPTON</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av4</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av4</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-
-
-<item>
 <title>(Link sopcast 2) Xem Trận đấu (22h00 ngày 23/10/16): CHELSEA Vs MANCHESTER UNITED</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)</link>
 <thumbnail>icon</thumbnail>
 </item>
-<item>
-<title>(link Ace 3)Xem Trận đấu (22h00 ngày 23/10/16): CHELSEA Vs MANCHESTER UNITED</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av3</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av3</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>(link Ace 4)Xem Trận đấu (22h00 ngày 23/10/16): CHELSEA Vs MANCHESTER UNITED</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=av4</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av4</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item> 
 
 <item>
 <title>K+(253096) - Server VN</title>
