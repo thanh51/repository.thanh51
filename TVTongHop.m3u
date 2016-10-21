@@ -300,7 +300,7 @@ sop://124.232.150.188:3920/5700
 sop://broker.sopcast.com:3912/148257 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát không thường xuyên
-http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=877c8b32-8541-4c03-a067-0cc1d247fbe6
+http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=f3f6e880-3f17-4915-9ee4-1afaaf97ecf6
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Sports", CCTV5
@@ -341,23 +341,6 @@ http://81.7.13.162/hls/ss3/index.m3u8
 http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 group-title="Sports",Russia:Football 
 http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
-#EXTINF:-1 group-title="Sports",ARENASPORT 1
-http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
-#EXTINF:-1 group-title="Sports",ARENASPORT 2
-http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
-#EXTINF:-1 group-title="Sports",ARENASPORT 3
-http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
-#EXTINF:-1 group-title="Sports",ARENASPORT 4
-http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
-#EXTINF:-1 group-title="Sports",ARENASPORT 5
-http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
-#EXTINF:-1 group-title="Sports",EUROSPORT 1
-http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
-#EXTINF:-1 group-title="Sports",EUROSPORT 2
-http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
-#EXTINF:-1 group-title="Sports",FIGHT SPORTS
-http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
-
 
 #EXTINF:-1 group-title="QUOC TE",USA:MOVIES 1
 http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
@@ -395,18 +378,6 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
 http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:INVESTIGATION DESCOVERY
 http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
-#EXTINF:-1 group-title="QUOC TE",Charlie Chaplin (ingles)
-http://198.179.31.197/live/2966.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",Action Cinema (ingles)
-http://198.179.31.197/live/500.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",FilmOn Horror Network (ingles)
-http://198.179.31.197/live/1684.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",Kung Fu Classics (ingles)
-http://198.179.31.197/live/1967.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",Bonanza (ingles)
-http://198.179.31.197/live/2957.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",Kartoon Klassics
-http://198.179.31.197/live/793.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRTBELGESEL HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRT BELGESEL
@@ -441,42 +412,8 @@ http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRA
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1 group-title="QUOC TE", Awani
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
-#EXTINF:-1 group-title="QUOC TE", BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 group-title="QUOC TE", Bloomberg TV
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-#EXTINF:-1 group-title="QUOC TE", JEI ENGLISH TV
-http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
-#EXTINF:-1 group-title="QUOC TE", PLAYY WEST
-http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-#EXTINF:-1 group-title="QUOC TE", United Asia TV
-http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE", One TV news
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-#EXTINF:-1 group-title="QUOC TE", TVBS news
-http://60.199.188.151/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 group-title="QUOC TE", Extraordinary news
-http://60.199.188.151/HLS/WG_USTV-N/index.m3u8
-#EXTINF:-1 group-title="QUOC TE", Ettv News HD
-http://60.199.188.151/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 group-title="QUOC TE", ETTV HD
-http://61.216.71.67/sta/ch21.m3u8
-#EXTINF:-1 group-title="QUOC TE", CTV News
-http://61.216.71.67/sta/ch508.m3u8
-#EXTINF:-1 group-title="QUOC TE", TVBS News 1
-http://61.216.71.67/sta/ch510.m3u8
-#EXTINF:-1 group-title="QUOC TE", ETTV
-http://61.216.71.67/sta/ch512.m3u8
-#EXTINF:-1 group-title="QUOC TE", Taiwan Television News
-http://61.216.71.67/sta/ch516.m3u8
-#EXTINF:-1 group-title="QUOC TE", CTS News
-http://61.216.71.67/sta/ch519.m3u8
 #EXTINF:-1 group-title="QUOC TE",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="QUOC TE",AMC
-http://www.streamgaroo.com/fetch/r/http://urhd.tv/amc-hd/index.m3u8
 #EXTINF:-1 group-title="QUOC TE",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE",Jasmin TV HD
@@ -489,102 +426,6 @@ http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="QUOC TE",+18
 http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?IPTVBRASILHD
-#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?IPTVBRASILHD
-#EXTINF:-1 tvg-logo="http://goo.gl/zf17MS" group-title="QUOC TE",Vevo TV 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?IPTVBRASILHD
-#EXTINF:-1 tvg-logo="http://dottoremercato.altervista.org/wp-content/uploads/2015/04/10425127_743430315753215_5677116141643620306_n-e1428656694193.png" group-title="QUOC TE",FOR MUSIC TV
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8?IPTVBRASILHD
-#EXTINF:-1 group-title="QUOC TE",US:MUSIC
-http://fluvod1.giniko.com/all-music/all-music/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",US:MODERN DANCE
-http://fluvod1.giniko.com/all-moderndance/all-moderndance/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",Korea:YTN SCIENCE
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
-#EXTINF:-1 group-title="QUOC TE",Korea:EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE",Korea:ETN
-http://edge2.everyon.tv/etv2sb/phd2/chunklist_w1140818506.m3u8
-#EXTINF:-1 group-title="QUOC TE",Korea:PAX
-rtmp://124.139.232.61:1935/live/livestream
-#EXTINF:-1 group-title="QUOC TE",Korea:PAX
-rtmp://111.118.21.79/etv1sb/phd385
-#EXTINF:-1 group-title="QUOC TE",Korea:CBS
-rtmp://123.108.164.71/etv2sb/phd27
-#EXTINF:-1 group-title="QUOC TE",Korea:TBS
-rtmp://123.108.164.71/etv2sb/phd40
-#EXTINF:-1 group-title="QUOC TE",Korea:GOODTV
-rtmp://123.108.164.71/etv2sb/phd29
-#EXTINF:-1 group-title="QUOC TE",Korea:DONGATV19
-rtmp://123.108.164.71/etv2sb/phd43
-#EXTINF:-1 group-title="QUOC TE",Korea:YTNWeather
-rtmp://123.108.164.71/etv2sb/phd193
-#EXTINF:-1 group-title="QUOC TE",Korea:GCN
-rtmp://123.108.164.71/etv2sb/phd327
-#EXTINF:-1 group-title="QUOC TE",Korea:MOUNTAINTV
-rtmp://123.108.164.71/etv2sb/phd337
-#EXTINF:-1 group-title="QUOC TE",Korea:eventTV
-rtmp://123.108.164.71/etv2sb/phd389
-#EXTINF:-1 group-title="QUOC TE",Korea:KBS1 HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
-#EXTINF:-1 group-title="QUOC TE",Korea:KBS2 HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
-#EXTINF:-1 group-title="QUOC TE",Korea:BBC
-rtmp://123.108.164.71/etv2sb/phd863
-#EXTINF:-1 group-title="QUOC TE",Korea:TRENDY
-rtmp://123.108.164.71/etv2sb/phd4
-#EXTINF:-1 group-title="QUOC TE",Korea:MOVIES
-rtmp://123.108.164.71/etv2/phd723
-#EXTINF:-1 group-title="QUOC TE",Korea:SAFE
-rtmp://123.108.164.71/etv2/phd109
-#EXTINF:-1 group-title="QUOC TE",Korea:KCTV
-rtmp://111.118.21.79/etv1/phd555
-#EXTINF:-1 group-title="QUOC TE",Korea:KTV
-rtmp://111.118.21.79/etv1/phd393
-#EXTINF:-1 group-title="QUOC TE",Korea:KTV HD
-rtmp://218.38.152.31:1935/klive/klive.stream
-#EXTINF:-1 group-title="QUOC TE",Korea:CTS
-rtmp://111.118.21.79/etv1/phd28
-#EXTINF:-1 group-title="QUOC TE",Korea:OBS
-rtmp://111.118.21.79/etv1sb/phd3
-#EXTINF:-1 group-title="QUOC TE",Korea:TVIS
-rtmp://111.118.21.79/etv1sb/phd551
-#EXTINF:-1 group-title="QUOC TE",Korea:ETN
-rtmp://123.108.164.71/etv2sb/phd2
-#EXTINF:-1 group-title="QUOC TE",Korea:KBSN sports
-rtmp://123.108.164.71/etv2sb/phd852
-#EXTINF:-1 group-title="QUOC TE",Korea:HANWOON
-rtmp://123.108.164.71/etv2sb/phd897
-#EXTINF:-1 group-title="QUOC TE",Korea:HCN
-rtmp://123.108.164.71/etv2/phd951
-#EXTINF:-1 group-title="QUOC TE",Korea:Hpbs
-rtmp://123.108.164.71/etv2/phd983
-#EXTINF:-1 group-title="QUOC TE",Korea:KIDSTV
-rtmp://123.108.164.71/etv2/phd1043
-#EXTINF:-1 group-title="QUOC TE",Korea:TND
-rtmp://123.108.164.71/etv2/phd1058
-#EXTINF:-1 group-title="QUOC TE",Korea:MTN
-rtmp://111.118.21.79/etv1sb/phd18
-#EXTINF:-1 group-title="QUOC TE",Korea:RTNTV
-rtmp://111.118.21.79/etv1sb/phd19
-#EXTINF:-1 group-title="QUOC TE",Korea:UPTV
-rtmp://111.118.21.79/etv1/phd752
-#EXTINF:-1 group-title="QUOC TE",Korea:SBS HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
-#EXTINF:-1 group-title="QUOC TE",Korea:MBC HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
-#EXTINF:-1 group-title="QUOC TE",Korea:MBC MUSIC
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
-#EXTINF:-1  group-title="QUOC TE",Korea:Mnet HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
-#EXTINF:-1 group-title="QUOC TE",Korea:TVN HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
-#EXTINF:-1 group-title="QUOC TE",Korea:SBS MTV HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
-#EXTINF:-1 group-title="QUOC TE",Korea:MBC every1 HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
 #EXTINF:-1 group-title="QUOC TE",China:CCTV1 HD 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
 #EXTINF:-1 group-title="QUOC TE",China:CCTV2 
@@ -674,6 +515,34 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH",Charlie Chaplin (ingles)
+http://198.179.31.197/live/2966.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TH",Action Cinema (ingles)
+http://198.179.31.197/live/500.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TH",FilmOn Horror Network (ingles)
+http://198.179.31.197/live/1684.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TH",Kung Fu Classics (ingles)
+http://198.179.31.197/live/1967.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TH",Bonanza (ingles)
+http://198.179.31.197/live/2957.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TH",Kartoon Klassics
+http://198.179.31.197/live/793.high.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
