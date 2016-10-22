@@ -98,7 +98,7 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259400) - Server VN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/axtw75ixd/tvth.jpg",[COLOR cyan][B]III - Kênh TV Tổng Hợp[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]III - Kênh TV Tổng Hợp[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
 http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8
@@ -288,7 +288,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&si
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://fboximages.fptplay.net.vn/Channel/LogoIPTV/FPT_logo.png",[COLOR red][B]********* Chỉ Cho Mạng FPT **********[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/x6nxgolyp/fpt.png",[COLOR red][B]********* Chỉ Cho Mạng FPT **********[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 1 HD
 udp://@225.1.1.10:30120
