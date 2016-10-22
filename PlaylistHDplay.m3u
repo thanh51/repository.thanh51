@@ -290,6 +290,16 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&si
 
 #EXTINF:-1 group-title="TV" tvg-logo="http://fboximages.fptplay.net.vn/Channel/LogoIPTV/FPT_logo.png",[COLOR red][B]********* Chỉ Cho Mạng FPT **********[/B][/COLOR]
 http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 1 HD
+udp://@225.1.1.10:30120
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 2 HD
+udp://@225.1.1.12:30120
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 3 HD
+udp://@225.1.2.204:30120
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 4 HD
+udp://@225.1.1.68:30120
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 5
+udp://@225.1.2.83:30120
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png",VTV1 HD
 http://118.69.252.4/tv/vtv1HD/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV3.png",VTV3 HD
