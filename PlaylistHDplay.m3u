@@ -55,6 +55,12 @@ http://www.youtube.com
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(21h00 ngày 22/10/16):ARSENAL Vs MIDDLESBROUGH
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH
