@@ -223,12 +223,7 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",K+(259400) - Server VN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",K+(253096) - Server VN
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",K+(259091) - Server VN
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",K+(259400) - Server VN
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
+
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",Cinemax
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148882&mode=2&name=Cinemax
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
@@ -346,7 +341,7 @@ sop://124.232.150.188:3920/5700
 sop://broker.sopcast.com:3912/148257 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát không thường xuyên
-http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=877c8b32-8541-4c03-a067-0cc1d247fbe6
+http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=80da6324-73eb-48ec-8514-d87c7d770d8f
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Sports", CCTV5
