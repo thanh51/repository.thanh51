@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 22.10.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 23.10.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV-VTVcab",VTV1 s1
@@ -25,13 +25,15 @@ rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream
 http://45.121.26.49:1935/live/_definst_/smil:antv.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VOV s1
 http://45.121.26.49:1935/live/_definst_/smil:vnews.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VOV s2
+#EXTINF:-1 group-title="VTV-VTVcab",VOV s2
 http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VIETNAMNET
+#EXTINF:-1 group-title="VTV-VTVcab",VIETNAMNET
 http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", QUOC HOI
+#EXTINF:-1 group-title="VTV-VTVcab",QUOC HOI
 http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", TTXVN 
+#EXTINF:-1 group-title="VTV-VTVcab",TTXVN s1
+http://45.121.26.49:1935/live/_definst_/smil:vnews.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",TTXVN s2
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VITV
 http://45.121.26.49:1935/live/_definst_/smil:vitv.smil/playlist.m3u8
@@ -223,30 +225,6 @@ http://www.youtube.com
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
-plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
-plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(21h00 ngày 22/10/16):ARSENAL Vs MIDDLESBROUGH
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH
-plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH
-plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(21h00 ngày 22/10/16):LEICESTER CITY Vs CRYSTAL
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL
-plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(23h30 ngày 22/10/16):LIVERPOOL Vs WEST BROMWICH ALBION
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION
-plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(19h30 ngày 23/10/16):MANCHESTER CITY Vs SOUTHAMPTON
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(19h30 ngày 23/10/16): MANCHESTER CITY Vs SOUTHAMPTON
@@ -310,30 +288,6 @@ http://textuploader.com
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
-sop://broker.sopcast.com:3912/262491
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
-acestream://524c6feace7b35ef91debdd469822495f618294f
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(18h30 ngày 22/10/16):BOURNEMOUTH-TOTTENHAM HOTSPUR
-acestream://d9c9f8c17e94892e8436990517b1866481018236
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(21h00 ngày 22/10/16):ARSENAL Vs MIDDLESBROUGH
-sop://broker.sopcast.com:3912/262491 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH
-acestream://524c6feace7b35ef91debdd469822495f618294f 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH
-acestream://d9c9f8c17e94892e8436990517b1866481018236 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(21h00 ngày 22/10/16):LEICESTER CITY Vs CRYSTAL
-sop://broker.sopcast.com:3912/262499 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL
-acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL
-acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(23h30 ngày 22/10/16):LIVERPOOL Vs WEST BROMWICH ALBION
-sop://broker.sopcast.com:3912/262499 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION
-acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 3)(23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION
-acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71 
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 1)(19h30 ngày 23/10/16):MANCHESTER CITY Vs SOUTHAMPTON
 sop://broker.sopcast.com:3912/262491 
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",(link 2)(19h30 ngày 23/10/16): MANCHESTER CITY Vs SOUTHAMPTON
@@ -430,42 +384,20 @@ http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 group-title="Sports",Russia:Football 
 http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
 
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 3
-http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 4
-http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 5
-http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 6
-http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 7
-http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 8
-http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 9
-http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:MOVIES 10
-http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:SHOWCASE
-http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:HISTORY
-http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:HISTORY 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:ANIMAL PLANET
-http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
-#EXTINF:-1 group-title="QUOC TE",USA:DISCOVERY CHANNEL
-http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:NATIONAL GEOGRAPHIC
 http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:NATGEO WILD
 http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:DISCOVERY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:INVESTIGATION DESCOVERY
 http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:ANIMAL PLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:HISTORY
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
+#EXTINF:-1 group-title="QUOC TE",USA:HISTORY 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRTBELGESEL HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE",TRT BELGESEL
@@ -482,8 +414,6 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
 #EXTINF:-1 group-title="QUOC TE",US:H2
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE",US:ANIMAL CHANNEL
-http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
 #EXTINF:-1 group-title="QUOC TE",US:MILITARY
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 group-title="QUOC TE",US:LUXURY YACHTS
@@ -601,42 +531,40 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH",Charlie Chaplin (ingles)
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s12.postimg.org/ue2266qkt/Chaplin.jpg",Charlie Chaplin (ingles)
 http://198.179.31.197/live/2966.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TH",Action Cinema (ingles)
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s10.postimg.org/fer15w86h/cinema.png",Action Cinema (ingles)
 http://198.179.31.197/live/500.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TH",FilmOn Horror Network (ingles)
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",FilmOn Horror Network (ingles)
 http://198.179.31.197/live/1684.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TH",Kung Fu Classics (ingles)
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Kung Fu Classics (ingles)
 http://198.179.31.197/live/1967.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TH",Bonanza (ingles)
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Bonanza (ingles)
 http://198.179.31.197/live/2957.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TH",Kartoon Klassics
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Kartoon Klassics
 http://198.179.31.197/live/793.high.stream/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 3
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 4
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 5
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 6
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 7
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 8
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 9
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:MOVIES 10
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:SHOWCASE
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
 
 
 
