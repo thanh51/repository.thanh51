@@ -219,12 +219,20 @@ http://209.250.131.2:8000/;stream.mp3
 #EXTINF:-1 group-title="HAI NGOAI",Radio VNHN/VABC Falls Church  
 http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
 
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Ngoại Hạng Anh Theo Giờ VN trong Kodi (Cần addon Plexus)[/B][/COLOR]
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Ngoại Hạng Anh Theo Giờ VN (Cần addon Plexus)[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]18h30 ngày 29/10/16:SUNDERLAND Vs ARSENAL[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]21h00 ngày 29/10/16:WEST BROMWICH ALBION Vs MANCHESTER [/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
@@ -241,6 +249,20 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]19h30 ngày 30/10/16:EVERTON Vs WEST HAM UNITED[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 30/10/16:SOUTHAMPTON Vs CHELSEA[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
@@ -255,7 +277,7 @@ plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b186648101823
 plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
 plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
-#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]Chọn Xem K+ Theo Lịch Các Trận Thi Đấu[/B][/COLOR]
+#EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]Chọn K+, Xem Theo Lịch Các Trận Thi Đấu[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-Kodi" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
@@ -308,37 +330,59 @@ http://textuploader.com
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]18h30 ngày 29/10/16:SUNDERLAND Vs ARSENAL[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+sop://broker.sopcast.com:3912/262491
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+acestream://524c6feace7b35ef91debdd469822495f618294f
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+acestream://d9c9f8c17e94892e8436990517b1866481018236
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]21h00 ngày 29/10/16:WEST BROMWICH ALBION Vs MANCHESTER [/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-sop://broker.sopcast.com:3912/262491 
+sop://broker.sopcast.com:3912/262491
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-acestream://524c6feace7b35ef91debdd469822495f618294f 
+acestream://524c6feace7b35ef91debdd469822495f618294f
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
-acestream://d9c9f8c17e94892e8436990517b1866481018236 
+acestream://d9c9f8c17e94892e8436990517b1866481018236
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h30 ngày 29/10/16:CRYSTAL PALACE Vs LIVERPOOL[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-sop://broker.sopcast.com:3912/262491&mode=2 
+sop://broker.sopcast.com:3912/262491
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-acestream://524c6feace7b35ef91debdd469822495f618294f 
+acestream://524c6feace7b35ef91debdd469822495f618294f
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
-acestream://d9c9f8c17e94892e8436990517b1866481018236 
+acestream://d9c9f8c17e94892e8436990517b1866481018236
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]19h30 ngày 30/10/16:EVERTON Vs WEST HAM UNITED[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+sop://broker.sopcast.com:3912/262491
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+sop://broker.sopcast.com:3912/262499
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+acestream://524c6feace7b35ef91debdd469822495f618294f
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
+acestream://d9c9f8c17e94892e8436990517b1866481018236
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
+acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
+acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 30/10/16:SOUTHAMPTON Vs CHELSEA[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-sop://broker.sopcast.com:3912/262491 
+sop://broker.sopcast.com:3912/262491
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-sop://broker.sopcast.com:3912/262499 
+sop://broker.sopcast.com:3912/262499
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
-acestream://524c6feace7b35ef91debdd469822495f618294f 
+acestream://524c6feace7b35ef91debdd469822495f618294f
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
-acestream://d9c9f8c17e94892e8436990517b1866481018236 
+acestream://d9c9f8c17e94892e8436990517b1866481018236
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
-acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476 
+acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
-acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71 
-#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]Chọn Xem K+ Theo Lịch Các Trận Thi Đấu[/B][/COLOR]
+acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71
+#EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]Chọn K+, Xem Theo Lịch Các Trận Thi Đấu[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="P2P-BOX TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
 sop://broker.sopcast.com:3912/253096 
@@ -382,7 +426,7 @@ sop://124.232.150.188:3920/5700
 sop://broker.sopcast.com:3912/148257 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát không thường xuyên
-http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=4425321b-02e3-4d7b-9d5d-4218dee64efd
+http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=346cde1c-c0d1-4119-9139-105733b50558
 #EXTINF:-1 group-title="Sports",SUPERSPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Sports", CCTV5
@@ -617,6 +661,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
 http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/hjdton9hj/movies.jpg",USA:SHOWCASE
 http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+
 
 
 
