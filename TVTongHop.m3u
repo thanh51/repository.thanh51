@@ -496,6 +496,14 @@ http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
 #EXTINF:-1 group-Title="Sports",FOX SPORT ASIA HD
 http://203.162.235.45:17924
 
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png",Starmovies HD
+http://210.245.18.144:8081/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/9RsSxQt.png",Natgeo HD
+http://210.245.18.144:8081/spsklfl/_definst_/natgeo.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",Starworld HD
+http://210.245.18.144:8081/spsklfl/_definst_/starworld.720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg",MTV
+http://210.245.18.144:8081/spsklfl/_definst_/mtv.360p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:NATIONAL GEOGRAPHIC
 http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
 #EXTINF:-1 group-title="QUOC TE",USA:NATGEO WILD
