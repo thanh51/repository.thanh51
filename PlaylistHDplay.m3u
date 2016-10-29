@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U thanh51
  
 #EXTINF:-1 group-title="TV" tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Chung Cho Các Mạng Internet *********[/B][/COLOR]
 http://www.youtube.com
@@ -57,55 +57,63 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]18h30 ngày 29/10/16:SUNDERLAND Vs ARSENAL[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]21h00 ngày 29/10/16:WEST BROMWICH ALBION Vs MANCHESTER [/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]21h00 ngày 29/10/16:MANCHESTER UNITED-BURNLEY[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h30 ngày 29/10/16:CRYSTAL PALACE Vs LIVERPOOL[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]19h30 ngày 30/10/16:EVERTON Vs WEST HAM UNITED[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
 plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
 plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 30/10/16:SOUTHAMPTON Vs CHELSEA[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
 plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
 plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]III - Kênh TV Tổng Hợp[/B][/COLOR]
 http://www.youtube.com
@@ -322,6 +330,16 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
+
+
 
 
 
