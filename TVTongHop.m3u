@@ -56,10 +56,8 @@ http://14.161.5.88:1935/live/myStream/playlist.m3u8
 http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
 #EXTINF:-1 group-title="VN-VTC",VTC10 s2
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="VN-VTC", VTC11 s1
+#EXTINF:-1 group-title="VN-VTC", VTC11 
 http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VN-VTC",KidsTV & Family-VTC11 s2
-rtmp://118.107.84.3/live//vtc11_public
 #EXTINF:-1 group-title="VN-VTC", VTC12
 http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
 #EXTINF:-1 group-title="VN-VTC", VTC13 s1
