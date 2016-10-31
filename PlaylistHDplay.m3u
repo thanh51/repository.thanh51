@@ -104,11 +104,6 @@ http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 group-title="In Kodi" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 04/11/16: MALAGA Vs SPORTING GIJON[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="In Kodi" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a28e3057b52fc49ed1c41de98a547631c00d0add&mode=1&name=av6
-
 #EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 05/11/16: MALAGA Vs SPORTING GIJON [/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
@@ -127,6 +122,14 @@ http://www.youtube.com
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
 #EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 06/11/16: OSASUNA Vs DEPORTIVO ALAVES[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
 
 #EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 06/11/16: LAS PALMAS Vs EIBAR[/B][/COLOR]
 http://www.youtube.com
