@@ -9,14 +9,14 @@ http://www.youtube.com
 
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát Không Thường Xuyên
 http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=40678ee7-82bc-4786-ba92-a1f59aa53ddc
-#EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPERSPORTS
+#EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
-#EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",China:Star Sports HD
+#EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s1
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s2
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s11.postimg.org/kebfpatlf/CCTV5.jpg",CCTV5+HD
-http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 1-1080P
 http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 2-1080P
@@ -33,22 +33,16 @@ http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
 http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 8-1080P
 http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s15.postimg.org/lll561a8r/sportpoland.jpg",Sport Polish
-rtmp://198.16.64.18/stream/3613L?
-#EXTINF:-1 group-title="TV" tvg-logo="http://s13.postimg.org/bqaxtw207/skysport3hd.png",Sky Sports 3 HD
-http://23.237.4.162:8080/Skysports3/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s14.postimg.org/sgaz13575/skysport4hd.png",Sky Sports 4 HD
-http://23.237.4.162:8080/Skysports4/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://158.69.54.54/Logopack/picon/skysports5.png",SkySports 5
-http://23.237.4.162:8080/Skysports5/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Ngoại Hạng Anh Theo Giờ VN (Cần addon Plexus)[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]Chọn Xem K+ Theo Lịch Thi Đấu[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]-> Chọn K+ Và Xem Theo Lịch Thi Đấu[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
@@ -56,36 +50,131 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259400) - Server VN 3
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]20h30 ngày 30/10/16:EVERTON Vs WEST HAM UNITED[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
-plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h00 ngày 30/10/16:SOUTHAMPTON Vs CHELSEA[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 3
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 4
-plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 5
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 6
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)
+#EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]III - Kênh TV Tổng Hợp[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 05/11/16: MANCHESTER CITY Vs MIDDLESBROUGH[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]00h30 ngày 06/11/16: CHELSEA Vs EVERTON [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]19h00 ngày 06/11/16: ARSENAL Vs TOTTENHAM HOTSPUR [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]21h15 ngày 06/11/16: LIVERPOOL Vs WATFORD [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 06/11/16: SWANSEA CITY Vs MANCHESTER UNITED[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h30 ngày 06/11/16: LEICESTER CITY Vs WEST BROMWICH ALBION [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR cyan][B]III- Xem Bóng Đá Tây Ban Nha(SPANISH LALIGA) Theo Giờ VN[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 01/11/16: DEPORTIVO DE LA CORUNA Vs VALENCIA[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 05/11/16: MALAGA Vs SPORTING GIJON [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a28e3057b52fc49ed1c41de98a547631c00d0add&mode=1&name=av6
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]19h00 ngày 05/11/16: GRANADA Vs DEPORTIVO LA CORUNA[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]22h15 ngày 05/11/16: REAL SOCIEDAD Vs ATLETICO MADRID[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 06/11/16: LAS PALMAS Vs EIBAR[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]18h00 ngày 06/11/16: REAL MADRID Vs LEGANES[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]22h15 ngày 06/11/16: CELTA Vs VALENCIA[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]22h15 ngày 06/11/16: ESPANYOL Vs ATHLETIC CLUB [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a28e3057b52fc49ed1c41de98a547631c00d0add&mode=1&name=av6
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 07/11/16: VILLARREAL Vs REAL BETIS[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 07/11/16: SEVILLA Vs FC BARCELONA[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+plugin://program.plexus/?url=acestream://e677cd71455f6e78c017ca66f95416674c20fca2&mode=1&name=av17
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av18
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 3
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 4
+plugin://program.plexus/?url=acestream://081f0ec18cf62bc8d84642aae399fc1fe15a0e12&mode=1&name=av27
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]IV - Kênh TV Tổng Hợp[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
 http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8
@@ -301,6 +390,14 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
 
 
 
