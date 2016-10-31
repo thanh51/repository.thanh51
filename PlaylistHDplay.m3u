@@ -300,7 +300,7 @@ http://123.30.185.126/hls/hoabinh.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
 http://118.107.76.15:1935/live/_definst_/PT/smil:PT_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png",Hai Phong
-rtmp://125.212.131.31/live/livestream
+rtmp://125.212.131.31/live/livestream|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
 rtmp://123.29.68.44/hctv/vstv020
 #EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png",Quang Ninh 3
