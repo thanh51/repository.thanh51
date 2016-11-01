@@ -3,20 +3,18 @@
 #EXTINF:-1,[COLORred][B]Updated ngày 01.11.2016[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png", VTV1 HD
-http://118.107.85.14:1935/tvnet/smil:vtv1.smil/chunklist_w1721586488_b1000000.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
+http://123.30.185.126/hls/vtv1.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
 http://123.30.185.126/hls/vtv2.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
 http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png", VTV4
-http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w1862978639_b1000000.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 HD
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOV
-http://45.121.26.49:1935/live/_definst_/smil:vov.smil/playlist.m3u8
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV
 http://123.30.185.126/hls/antv.m3u8
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN
@@ -25,9 +23,6 @@ http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
 rtmpt://203.162.121.235:1935/live/truyenhinhnhandan720
-
-#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://i.imgur.com/N3nCaWT.png",HTV9
-http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w1790432236_b1000000.m3u8
 
 #EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
 http://123.30.185.126/hls/vtc1.m3u8
