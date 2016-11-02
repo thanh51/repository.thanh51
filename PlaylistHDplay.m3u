@@ -358,7 +358,7 @@ rtmp://113.163.216.24:1935/live/livestream
 http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",Vinh long 1 s2
 http://123.30.108.72/hls/thvl1.m3u8
-group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png",Vinh long 2 s1
+#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png",Vinh long 2 s1
 http://live.cdn.mobifonetv.vn/motv2/vinhlong2_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png",Vinh long 2 s2
 http://123.30.108.72/hls/thvl2.m3u8
