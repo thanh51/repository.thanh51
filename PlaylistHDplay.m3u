@@ -8,12 +8,14 @@ http://www.youtube.com
 
 
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát Không Thường Xuyên
-http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=42403147-f5cf-4780-b9ae-c7176687d02f
+http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=4a2b4442-abf7-4360-a933-2472d4fa66c8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD 
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s1
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s2
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 1-1080P
 http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
@@ -50,9 +52,10 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
 #EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) s1
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) s2
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 05/11/16: MANCHESTER CITY Vs MIDDLESBROUGH[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
@@ -441,6 +444,15 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
+
 
 
 
