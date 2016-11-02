@@ -203,7 +203,7 @@ http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8|U
 #EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 #EXTINF:-1 group-title="TV" tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
-rtmpt://203.162.121.235:1935/live/truyenhinhnhandan720
+rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 #EXTINF:-1 VN-VTV" tvg-logo="https://s16.postimg.org/gyggqlrhh/qhvn.png", QUOC HOI 
 http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
@@ -304,6 +304,8 @@ http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8|Use
 http://123.30.185.126/hls/hanoi1.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/JHYNvNs.png",Ha Noi 2
 http://123.30.185.126/hls/hanoi2.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://xemtvhd.net/images/icon-channel/sctv5.png", SCTV5 
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
 http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
