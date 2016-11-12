@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 01.11.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 13.11.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
@@ -98,41 +98,19 @@ http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
 
 #EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png", ANTG HD
 http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="https://s22.postimg.org/xq0en0n6p/anvienhd.jpg", ANVIEN HD
+http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM BTV10
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",Phim hay  
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png",Mien Tay  
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png", VIETTEEN
-http://live.cdn.mobifonetv.vn/motv/vietten_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="https://s22.postimg.org/xq0en0n6p/anvienhd.jpg", ANVIEN HD
-http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_codien.png", Nhac Co Dien
-http://live.cdn.mobifonetv.vn/motv3/nhaccodien_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_trutinh.png", Nhac Tru Tinh
-http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_dantoc.png", Nhac Dan Toc
-http://live.cdn.mobifonetv.vn/motv3/nhacdantoc_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nambo.png", Nhac Nam Bo
-http://live.cdn.mobifonetv.vn/motv3/nhacnambo_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nhactre.png", Nhac Tre
-http://live.cdn.mobifonetv.vn/motv3/nhactre_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nhacnhe.png", Nhac Nhe
-http://live.cdn.mobifonetv.vn/motv3/nhacnhe_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_cachmang.png", Nhac Cach Mang
-http://live.cdn.mobifonetv.vn/motv3/nhaccachmang_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_docsach.png", Doc Sach
-http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",Ha Noi 1
 http://123.30.185.126/hls/hanoi1.m3u8
 #EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",Ha Noi 2
 http://123.30.185.126/hls/hanoi2.m3u8
-#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://xemtvhd.net/images/icon-channel/sctv5.png", SCTV5 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 #EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
 http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
@@ -214,44 +192,20 @@ rtmp://113.161.220.254:1935/livepkgr/livestream2
 
 #EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",SGN 51.3 LIVE – SAIGON NETWORK TV ( HOUSTON, TEXAS )
-http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
-http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",SAIGON TV LIVE – Media Kit & Rate (WESTMINSTER, CALIFORNIA)
+#EXTINF:-1 group-title="HAI NGOAI",SAIGON TV LIVE – Media Kit & Rate
 http://63.143.59.125:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VIET GLOBAL
-http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",KVLA
 http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s1
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s2
-http://69.75.17.10:1935/vbstv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",YOU STREAMLIVE
-http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIETBAY
 http://64.71.129.2:8080/hls/ius_000131.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",ITV SHOP
-http://origin.onworldtv.com:1935/liveorigin/itvshop/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s1
-http://stream.onworldtv.com/edge/liveorigin/vna/index.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s2
-http://origin.onworldtv.com:1935/liveorigin/vna/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s3
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 
 http://livestream.vnvn.net/vnatv573.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",S CHANNEL TV 56.6 Live TV
 http://64.71.129.2:8080/hls/ius_000114.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",IBC NEWS
 rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
-#EXTINF:-1 group-title="HAI NGOAI",VIETSET 57.4
-http://69.75.17.10:1935/vietset574tvv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s1
-http://204.9.200.251:1935/liveorigin/vstartv/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s2
-http://stream.onworldtv.com/edge/liveorigin/vstartv/index.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",V STAR TV CHANNEL 57.11 – Nam California s3
-http://origin.onworldtv.com:1935/liveorigin/vstartv/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",Công Giáo TV
 http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIETCHRISTIAN
@@ -260,85 +214,8 @@ mms://live.vietchristian.com/tv
 http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIET MY TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB ( Rates )- ATLANTA, GEORGIA
+#EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",Nail & Beauty Channel
-http://stream.onworldtv.com/edge/liveorigin/lexor/index.m3u8
-#EXTINF:-1 group-title="HAI NGOAI",Radio Bolsa Westminster 
-http://ice7.securenetsystems.net/RBVU?type=.flv
-#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 106.3 FM Los Angeles 
-http://ice5.securenetsystems.net:80/KALI
-#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 1430 AM San Jose
-http://ice5.securenetsystems.net:80/KVVN
-#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 900 AM Houston 
-http://ice5.securenetsystems.net:80/KREH
-#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio Seattle 
-http://170.75.194.209:8888
-#EXTINF:-1 group-title="HAI NGOAI",Thời Báo Radio Toronto 
-http://209.250.131.2:8000/;stream.mp3
-#EXTINF:-1 group-title="HAI NGOAI",Radio VNHN/VABC Falls Church  
-http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
-
-#EXTINF:-1 group-title="USA",Showtime
-http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
-#EXTINF:-1 group-title="USA",Starz Encore
-http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
-#EXTINF:-1 group-title="USA",BRAVO
-http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
-#EXTINF:-1 group-title="USA",TNT
-http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
-#EXTINF:-1 group-title="USA",SYFY
-http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
-#EXTINF:-1 group-title="USA",A&E
-http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8
-#EXTINF:-1 group-title="USA",HBO Zone
-http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
-#EXTINF:-1 group-title="USA",HBO Signature
-http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
-#EXTINF:-1 group-title="USA",Cinemax ActionMax
-http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
-#EXTINF:-1 group-title="USA",Showtime Showcase
-http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
-#EXTINF:-1 group-title="USA",NBCSN 
-http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
-#EXTINF:-1 group-title="USA",FS2
-http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
-#EXTINF:-1 group-title="USA",NETWORK
-http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
-#EXTINF:-1 group-title="USA",VERSUS HD 
-http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
-#EXTINF:-1 group-title="USA",NHL 
-http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8
-#EXTINF:-1 group-title="USA",TSN1
-http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
-#EXTINF:-1 group-title="USA",TSN2 
-http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
-#EXTINF:-1 group-title="USA",FOX 
-http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
-#EXTINF:-1 group-title="USA",NATGEO
-http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
-#EXTINF:-1 group-title="USA",NATGEO WILD 
-http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
-#EXTINF:-1 group-title="USA",DISCOVERY ID 
-http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
-#EXTINF:-1 group-title="USA",TLC 
-http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8
-#EXTINF:-1 group-title="USA",ANIMALPLANET
-http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
-#EXTINF:-1 group-title="USA",H2
-http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
-#EXTINF:-1 group-title="USA",NBC
-http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
-#EXTINF:-1 group-title="USA",ABC 
-http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8
-#EXTINF:-1 group-title="USA",AMC
-http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
-#EXTINF:-1 group-title="USA",SPIKE 
-http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
-#EXTINF:-1 group-title="USA",COMEDY CENTER 
-http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8
-#EXTINF:-1 group-title="USA",LIFETIME 
-http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8
 
 #EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
@@ -482,6 +359,36 @@ http://198.179.31.197/live/1967.high.stream/playlist.m3u8
 http://198.179.31.197/live/2957.high.stream/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Kartoon Klassics
 http://198.179.31.197/live/793.high.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
