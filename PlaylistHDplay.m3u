@@ -57,6 +57,49 @@ http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]19h30 ngày 19/11/16: MANCHESTER UNITED - ARSENAL [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 19/11/16: CRYSTAL PALACE - MANCHESTER CITY [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]22h00 ngày 19/11/16: SOUTHAMPTON - LIVERPOOL[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: TOTTENHAM HOTSPUR - WEST HAM UNITED[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h00 ngày 20/11/16: MIDDLESBROUGH - CHELSEA [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]03h00 ngày 22/11/16: WEST BROMWICH ALBION - BURNLEY[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
+
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]III - Kênh TV Tổng Hợp[/B][/COLOR]
 http://www.youtube.com
 
