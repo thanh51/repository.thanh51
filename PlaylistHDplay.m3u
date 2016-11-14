@@ -66,7 +66,7 @@ plugin://program.plexus/?url=acestream://6bef8dbbf8e61bc4872b8354cdf1bf1a9a80692
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus & addon f4mTester[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
 http://www.youtube.com
@@ -86,6 +86,12 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://bongdaso247.com/wp-content/uploads/2016/07/PremierLeagueLogo.jpg",Mio 102 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://5.39.70.216/live/louis/louis/193.ts
+#EXTINF:-1 tvg-logo="http://bongdaso247.com/wp-content/uploads/2016/07/PremierLeagueLogo.jpg",Mio 103 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://5.39.70.216/live/louis/louis/194.ts
+#EXTINF:-1 tvg-logo="http://bongdaso247.com/wp-content/uploads/2016/07/PremierLeagueLogo.jpg",Mio 104 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://5.39.70.216/live/louis/louis/195.ts
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]19h30 ngày 19/11/16: MANCHESTER UNITED - ARSENAL [/B][/COLOR]
 http://www.youtube.com
@@ -483,16 +489,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-
-
-
-
-
-
-
 
 
 
