@@ -232,6 +232,10 @@ http://123.30.185.126/hls/vtv1.m3u8
 http://123.30.185.126/hls/vtv2.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
 http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png", VTV4
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png", VTV5
+http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 HD
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
