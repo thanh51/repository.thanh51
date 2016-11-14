@@ -15,10 +15,6 @@ http://46.105.161.243:8085/lighd
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD  
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",FUTBOL 1
-http://cdn1.tvsng.com:5114/test50/test50/236.ch
-#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",FUTBOL 2
-http://cdn1.tvsng.com:5114/test50/test50/237.ch
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 1-1080P
 http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 2-1080P
@@ -35,6 +31,24 @@ http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
 http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 8-1080P
 http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",FUTBOL 1
+http://cdn1.tvsng.com:5114/test50/test50/236.ch
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",FUTBOL 2
+http://cdn1.tvsng.com:5114/test50/test50/237.ch
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Спорт 1 (Украина) (Спорт)
+plugin://program.plexus/?url=acestream://b2825d1f94b08f246051365a75ad3b9198832705&mode=1&name=
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Спорт 2 (Украина) (Спорт)
+plugin://program.plexus/?url=acestream://8e1080afda9b5f8341da30ff53d697e8286f3006&mode=1&name=
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Футбол (Спорт)
+plugin://program.plexus/?url=acestream://f0d9ab72c104c0d350cafc2de19ca42b44697a57&mode=1&name=
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Футбол 1 (Украина) (Спорт)
+plugin://program.plexus/?url=acestream://ec1b14e3b77676b17b3e1731deb49a97a04bb126&mode=1&name=
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Футбол 1 HD (Спорт)
+plugin://program.plexus/?url=acestream://f624639f338abd3c0c48a1ab1f213902feaa2566&mode=1&name=
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Футбол 2 (Украина) (Спорт)
+plugin://program.plexus/?url=acestream://92fdab54688e48b386a00125a17c448f690fd901&mode=1&name=
+#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/rk232lyhj/futbol.jpg",Футбол 2 HD (Спорт)
+plugin://program.plexus/?url=acestream://4e326dbb2145c9c0a4c90b67aaf6e143d59bf38f&mode=1&name=
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
 http://www.youtube.com
