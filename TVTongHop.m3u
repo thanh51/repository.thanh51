@@ -1,18 +1,32 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 13.11.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 15.11.2016[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
-http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
-http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 HD
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png",VTV1
+http://123.30.191.202/hls/vtv1.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png",VTV1 HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv261&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2
+http://123.30.191.202/hls/vtv2.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",VTV3
+http://123.30.191.202/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3-hd_w150_h150.png",VTV3 HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv262&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
+http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv6-hd_w150_h150.png",VTV6 HD s1
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv263&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv6-hd_w150_h150.png",VTV6 HD s2
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
-#EXTINF:-1 group-title="VN-VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png",VTV8
+rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="https://s21.postimg.org/piqd3c09j/thethaotv_hd_do.png",Thể Thao TV HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv264&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://tructiepbongda.com/hinh-anh/2012/03/logoBDtv_chuan.png",Bóng Đá TV HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv265&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOV s1
 http://live.cdn.mobifonetv.vn/motv2/vov_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOV s2
@@ -31,10 +45,18 @@ http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8|U
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 #EXTINF:-1 group-title="VN-VTV" tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
 rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
-#EXTINF:-1 VN-VTV" tvg-logo="https://s16.postimg.org/gyggqlrhh/qhvn.png", QUOC HOI 
+#EXTINF:-1 VN-VTV" tvg-logo="https://s16.postimg.org/gyggqlrhh/qhvn.png",TH QUOC HOI 
 http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="https://s16.postimg.org/gyggqlrhh/qhvn.png",TH Quốc Hội HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv275&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
 
-#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png", HTVC FBNC 
+#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://i.imgur.com/SwNJVBc.png",HTV2 HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv272&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://i.imgur.com/m603PX8.png",HTV7 HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv273&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://i.imgur.com/DUhJcZK.png",HTV9 HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv274&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://img.hplus.com.vn/728x409/banner/2015/02/26/585782-FBNC.png",FBNC
 http://live.cdn.mobifonetv.vn/motv/fbnc_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="VN-VTC" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Play
@@ -45,7 +67,11 @@ http://live.cdn.mobifonetv.vn/motv2/vtc1_hls.smil/chunklist_b1200000.m3u8|User-A
 http://117.103.224.222:1935/live/_definst_/VTC1HD_2016.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 s3
 http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://tv.vnn.vn/Images/tv/vtc1%20.png",VTC1 HD s1
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv266&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://tv.vnn.vn/Images/tv/vtc1%20.png",VTC1 HD s2
+http://117.103.224.222:1935/live/_definst_/VTC1HD_2016.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s3
 http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
 http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
@@ -53,7 +79,11 @@ http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
 http://117.103.224.222:1935/live/_definst_/VTC3HD_2016.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3 S2  
 http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://tv.vnn.vn/Images/tv/vtc3%20.png",VTC3 HD s1  
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv269&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://tv.vnn.vn/Images/tv/vtc3%20.png",VTC3 HD s2
+http://117.103.224.222:1935/live/_definst_/VTC3HD_2016.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s3
 http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
 http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
@@ -189,6 +219,27 @@ rtmp://113.161.212.25/live//atv1
 rtmp://123.30.110.170:1939/thhg/thhg
 #EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/YAGwIeW.png",Ca Mau 
 rtmp://113.161.220.254:1935/livepkgr/livestream2
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="https://s21.postimg.org/y9elcvjuf/Star_movies_me_hd.png",StarMovie HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv276&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="https://s14.postimg.org/m6u5vmk3l/724_300.png",FOX HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv281&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="https://s12.postimg.org/5wkuzg56l/Channel_Logo_635509699921406250.png",NATGEO HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv280&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="https://s22.postimg.org/l8l5wbfg1/nat_geo_wild_asia_hd_w500_h500.png",NATGEO Wild HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv282&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="https://s15.postimg.org/oro9jmuqj/ngp_colour_lightbg.png",NATGEO People HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv283&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="https://s12.postimg.org/itsoo0wyl/1280px_Outdoor_Channel_svg.png",Outdoor Channel HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv278&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="http://img.hplus.com.vn/728x409/banner/2015/01/29/945771-Star_World_HD.png",Star World HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv277&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="http://schedule.wttw.com/ulphoto/wttw_1328817746.jpg",NHK World HD
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv279&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
+#EXTINF:-1 group-title="VN-QUOC TE" tvg-logo="http://i.imgur.com/rMBASZQ.png",MTV 
+http://cdn2.mytv.com.vn/mytv/live.m3u8?c=vstv271&q=hd&pkg=pkg5&type=live&rkey=afa29618ce8f92cd7974bf2aa185392c
 
 #EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
@@ -216,6 +267,49 @@ http://125.235.29.16/livetv/keeng.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg" group-title="QUOC TE TH",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="QUOC TE TH",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg" group-title="QUOC TE TH",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE TH" tvg-name="NASA TV", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE TH",US:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",US:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",US:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE TH", NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE TH",RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE TH",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",NHK WORLD NEWS
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE TH", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
 
 #EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
@@ -286,49 +380,6 @@ http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1 group-title="CHINA",China:CIBN Perfect Game
 http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
 
-#EXTINF:-1 group-title="QUOC TE TH",KOSMOS
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRTBELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg" group-title="QUOC TE TH",BELGESEL TV
-rtsp://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="QUOC TE TH",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg" group-title="QUOC TE TH",WORLD TRAVEL CHANNEL HD
-http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE TH" tvg-name="NASA TV", NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
-#EXTINF:-1 group-title="QUOC TE TH",US:H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",US:MILITARY
-http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",US:LUXURY YACHTS
-http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",CHINA HISTORY CHANNEL
-http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE TH", NHK WORLD
-http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?IPTVBRASILHD
-#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE TH",RAI NEWS 24
-http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRASILHD
-#EXTINF:-1 group-title="QUOC TE TH",CHANNEL NEWSASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",NHK WORLD NEWS
-http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",ARIANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",CNN PHILIPPIN
-rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 group-title="QUOC TE TH",Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:-1 group-title="QUOC TE TH", ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1 group-title="QUOC TE TH",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
-
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
@@ -359,6 +410,17 @@ http://198.179.31.197/live/1967.high.stream/playlist.m3u8
 http://198.179.31.197/live/2957.high.stream/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Kartoon Klassics
 http://198.179.31.197/live/793.high.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
