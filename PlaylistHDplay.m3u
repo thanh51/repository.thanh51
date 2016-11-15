@@ -76,7 +76,7 @@ http://www.youtube.com
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]-> Chọn K+ Và Xem Theo Lịch Thi Đấu[/B][/COLOR]
+#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]-> Chọn Kênh Và Xem Theo Lịch Thi Đấu[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
@@ -86,6 +86,12 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259258) - Server VN 4
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+(259258)
+#EXTINF:-1 tvg-logo="http://bongdaso247.com/wp-content/uploads/2016/07/PremierLeagueLogo.jpg",PREMIEL LEAGUE 1
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/194.ts
+#EXTINF:-1 tvg-logo="http://bongdaso247.com/wp-content/uploads/2016/07/PremierLeagueLogo.jpg",PREMIEL LEAGUE 2
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/2127.ts
+#EXTINF:-1 tvg-logo="http://bongdaso247.com/wp-content/uploads/2016/07/PremierLeagueLogo.jpg",PREMIEL LEAGUE 3
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/2128.ts
 #EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
@@ -529,6 +535,14 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
 
 
 
