@@ -34,6 +34,8 @@ rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 #EXTINF:-1 VN-VTV" tvg-logo="https://s16.postimg.org/gyggqlrhh/qhvn.png", QUOC HOI 
 http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:-1 group-title="VN-HTV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/486.ts
 #EXTINF:-1 group-title="VN-HTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png", HTVC FBNC 
 http://live.cdn.mobifonetv.vn/motv/fbnc_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
@@ -107,9 +109,11 @@ http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|Use
 #EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",Ha Noi 1
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 s1
 http://123.30.185.126/hls/hanoi1.m3u8
-#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",Ha Noi 2
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 s2
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/500.ts
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
 http://123.30.185.126/hls/hanoi2.m3u8
 #EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
 http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
@@ -349,6 +353,9 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
 
 
 
