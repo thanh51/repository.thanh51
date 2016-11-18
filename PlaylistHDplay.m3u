@@ -254,6 +254,8 @@ rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 #EXTINF:-1 VN-VTV" tvg-logo="https://s16.postimg.org/gyggqlrhh/qhvn.png",TH QUOC HOI 
 http://live.cdn.mobifonetv.vn/motv/quochoi_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/486.ts
 #EXTINF:-1 group-title="TV" tvg-logo="http://img.hplus.com.vn/728x409/banner/2015/02/26/585782-FBNC.png",FBNC
 http://live.cdn.mobifonetv.vn/motv/fbnc_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
@@ -316,7 +318,7 @@ http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
 http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16 s1
-http://live.cdn.mobifonetv.vn/motv/vtc16_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16 s2
 http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
 
@@ -331,9 +333,11 @@ http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Age
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/xq0en0n6p/anvienhd.jpg", ANVIEN HD
 http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/kFSFBHp.png",Ha Noi 1
+#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 s1
 http://123.30.185.126/hls/hanoi1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/JHYNvNs.png",Ha Noi 2
+#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 s2
+http://iptvfree1.com:6969/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/500.ts
+#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
 http://123.30.185.126/hls/hanoi2.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
 http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
@@ -494,12 +498,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-
-
-
 
 
 
