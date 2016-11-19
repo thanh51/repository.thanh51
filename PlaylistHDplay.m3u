@@ -31,18 +31,22 @@ http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
 http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 8-1080P
 http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 1  
+#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 1  
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2872.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 2 
+#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 2 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2873.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 3 
+#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 3 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2874.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 4 
+#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 4 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2875.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 5 
+#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 5 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2876.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 6 
+#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 6 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2877.ts
+#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
 http://www.youtube.com
@@ -64,6 +68,10 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+(259258)
 #EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS (NHA)
 http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
 #EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
@@ -390,7 +398,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
 
 
 
