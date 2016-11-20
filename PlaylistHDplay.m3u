@@ -1,403 +1,627 @@
 #EXTM3U thanh51
  
-#EXTINF:-1 group-title="TV" tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Chung Cho Các Mạng Internet *********[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Chung Cho Các Mạng Internet *********[/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://tructiepbongda.com/hinh-anh/2015/12/cropped-app-icon-180x180.png",[COLOR cyan][B]I - Kênh Thể Thao[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://tructiepbongda.com/hinh-anh/2015/12/cropped-app-icon-180x180.png",[COLOR dark_blue][B]I - Kênh Thể Thao[/B][/COLOR]
 http://www.youtube.com
 
-
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát Không Thường Xuyên
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát Không Thường Xuyên
 http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=0d86278a-b542-44cd-af18-2871fd7aa163
-#EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
-#EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+#EXTINF:-1 tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD  
+#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD  
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 1-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 1-1080P
 http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 2-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 2-1080P
 http://183.207.255.190:80/live/program/live/hdnba2/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 3-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 3-1080P
 http://183.207.255.190:80/live/program/live/hdnba3/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 4-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 4-1080P
 http://183.207.255.190:80/live/program/live/hdnba4/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 5-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 5-1080P
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 6-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 6-1080P
 http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 7-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 7-1080P
 http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 8-1080P
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 8-1080P
 http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 1  
+#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 1  
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2872.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 2 
+#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 2 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2873.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 3 
+#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 3 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2874.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 4 
+#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 4 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2875.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 5 
+#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 5 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2876.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 6 
+#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 6 
 http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2877.ts
-#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR green][B]II- Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN - Cần Addon f4mTester[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 20 Tháng 11 2016: Middlesbrough vs Chelsea 23:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]II - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]-> Chọn Kênh Và Xem Theo Lịch Thi Đấu[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259091) - Server VN 2
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259400) - Server VN 3
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259258) - Server VN 4
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+(259258)
-#EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS (NHA)
-http://46.105.161.243:8085/lighd
-#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 22 tháng 11 2016: West Bromwich Albion vs Burnley 05:00[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-#EXTINF:-1 group-Title="TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
-#EXTINF:-1 group-Title="TV" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 Tháng 11 2016: Burnley vs Manchester City 19:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 29 Tháng 11 2016: Chelsea vs Tottenham Hotspur 00:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 tháng 11 2016: Watford vs Stoke City 19:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 tháng 11 2016: Arsenal vs Bournemouth AFC 21:15[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 tháng 11 2016: Southampton vs Everton 23:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 03 tháng 12 2016: Manchester City vs Chelsea 19:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 04 tháng 12 2016: West Ham United vs Arsenal 00:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 04 tháng 12 2016: Bournemouth AFC vs Liverpool 20:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 04 tháng 12 2016: Everton vs Manchester United 23:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 06 tháng 12 2016: Middlesbrough vs Hull City 05:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 10 tháng 12 2016: Watford vs Everton 19:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 11 tháng 12 2016: Leicester City vs Manchester City 00:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 11 tháng 12 2016: Chelsea vs West Bromwich Albion 19:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 11 Tháng 12 2016: Manchester United vs Tottenham Hotspur 21:15[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 12 Tháng 12 2016: Liverpool vs West Ham United 23:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 14 tháng 12 2016: của Everton vs Arsenal 04:45[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 15 tháng 12 2016: Crystal Palace vs Manchester United 05:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 17 tháng 12 2016: Crystal Palace vs Chelsea 19:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 tháng 12 2016: West Bromwich Albion vs Manchester United 04:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 tháng 12 2016: Bournemouth AFC vs Southampton 20:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 tháng 12 2016: Manchester City vs Arsenal 23:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 20 tháng 12 2016: Everton vs Liverpool 05:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 tháng 12 2016: Watford vs Crystal Palace 19:30[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 tháng 12 2016: Hull City vs Manchester City 00:15[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 28 tháng 12 2016: Liverpool vs Stoke City 00:15[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 29 tháng 12 2016: Southampton vs Tottenham Hotspur 04:45[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 31 tháng 12 2016: Hull City vs Everton 05:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 01 tháng 01 2017: Liverpool vs Manchester City 00:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://devcon.1dns1.com:8080/live/cccamclup/okklgf87/1079.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 01 Tháng 01 2017: Watford vs Tottenham Hotspur 20:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 01 Tháng 01 2017: Arsenal vs Crystal Palace 23:00[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 02 Tháng 01 2017: Middlesbrough vs Leicester City 19:30[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 03 Tháng 01 2017: West Ham United vs Manchester United 00:15[/B][/COLOR] 
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+
+
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR orange][B]III - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]-> Chọn Kênh Và Xem Theo Lịch Thi Đấu[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259091) - Server VN 2
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259400) - Server VN 3
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259258) - Server VN 4
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+(259258)
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS (NHA)
+http://46.105.161.243:8085/lighd
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+#EXTINF:-1 tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
+#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: TOTTENHAM HOTSPUR - WEST HAM UNITED[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: TOTTENHAM HOTSPUR - WEST HAM UNITED[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
 plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h00 ngày 20/11/16: MIDDLESBROUGH - CHELSEA [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h00 ngày 20/11/16: MIDDLESBROUGH - CHELSEA [/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
 plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]03h00 ngày 22/11/16: WEST BROMWICH ALBION - BURNLEY[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]03h00 ngày 22/11/16: WEST BROMWICH ALBION - BURNLEY[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
 plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
+#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
 plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR cyan][B]III- Xem Bóng Đá Tây Ban Nha(SPANISH LALIGA) Theo Giờ VN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR cyan][B]III- Xem Bóng Đá Tây Ban Nha(SPANISH LALIGA) Theo Giờ VN[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: EIBAR-CELTA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: EIBAR-CELTA[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 20/11/16: ATLETICO MADRID-REAL MADRID[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 20/11/16: ATLETICO MADRID-REAL MADRID[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://e677cd71455f6e78c017ca66f95416674c20fca2&mode=1&name=av17
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://081f0ec18cf62bc8d84642aae399fc1fe15a0e12&mode=1&name=av18
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 3
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 3
 plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 4
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 4
 plugin://program.plexus/?url=acestream://081f0ec18cf62bc8d84642aae399fc1fe15a0e12&mode=1&name=av27
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]18h00 ngày 20/11/16: DEPORTIVO ALAVES-ESPANYOL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]18h00 ngày 20/11/16: DEPORTIVO ALAVES-ESPANYOL[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]22h15 ngày 20/11/16: VALENCIA-GRANADA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]22h15 ngày 20/11/16: VALENCIA-GRANADA[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 21/11/16: SPORTING GIJON-REAL SOCIEDAD [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 21/11/16: SPORTING GIJON-REAL SOCIEDAD [/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 21/11/16: ATHLETIC CLUB-VILLARREAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 21/11/16: ATHLETIC CLUB-VILLARREAL[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 22/11/16: LEGANES-OSASUNA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 22/11/16: LEGANES-OSASUNA[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
 plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 group-title="TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
 plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
 
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]IV - Kênh TV Tổng Hợp[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR violet][B]IV - Kênh TV Tổng Hợp[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png",VTV1
+#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png",VTV1
 http://123.30.191.202/hls/vtv1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2
+#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2
 http://123.30.191.202/hls/vtv2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",VTV3
+#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",VTV3
 http://123.30.191.202/hls/vtv3.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
+#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
 http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
+#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
 http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv6-hd_w150_h150.png",VTV6 HD 
+#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv6-hd_w150_h150.png",VTV6 HD 
 http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png",VTV8
+#EXTINF:-1 tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png",VTV8
 rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
 http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV 
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV 
 http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN 
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN 
 http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="TV" tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
 rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Play
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Play
 http://117.103.224.222:1935/live/_definst_/VTCPlay_music/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
 http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://tv.vnn.vn/Images/tv/vtc1%20.png",VTC1 HD s1
+#EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/vtc1%20.png",VTC1 HD s1
 http://117.103.224.222:1935/live/_definst_/VTC1HD_2016.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s2
 http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
 http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3 S1 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3 S1 
 http://117.103.224.222:1935/live/_definst_/VTC3HD_2016.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3 S2  
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3 S2  
 http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://tv.vnn.vn/Images/tv/vtc3%20.png",VTC3 HD s1
+#EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/vtc3%20.png",VTC3 HD s1
 http://117.103.224.222:1935/live/_definst_/VTC3HD_2016.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
 http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
 http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
 http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
 http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
 http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
 http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
 http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
 http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 
 http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
 http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 S1
 http://117.103.224.222:1935/live/_definst_/smil:iTVHD_2016.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s2
 http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
 http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
 http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16 
 http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
 http://123.30.185.126/hls/hanoi1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
 http://123.30.185.126/hls/hanoi2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
 http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
 http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Can
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Can
 http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
 rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
 rtmp://45.124.85.26/oflaDemo/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
 http://123.30.185.126/hls/hoabinh.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
 http://118.107.76.15:1935/live/_definst_/PT/smil:PT_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png",Hai Phong
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png",Hai Phong
 rtmp://125.212.131.31/live/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
 rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png",Quang Ninh 3
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png",Quang Ninh 3
 rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/eGfpF9j.png",Hung Yen
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eGfpF9j.png",Hung Yen
 http://42.112.16.101:1935/live/HYTV/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",VINH PHUC 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",VINH PHUC 
 rtmp://117.6.162.63/live/thvp
-#EXTINF:-1 group-title="TV" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HaNam 
+#EXTINF:-1 tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HaNam 
 rtmp://113.160.198.111:8086/live//hanamtv
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png",Thanh Hoa 
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png",Thanh Hoa 
 http://123.30.185.126/hls/ttv.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/ABygmpS.png",Ha Tinh 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABygmpS.png",Ha Tinh 
 http://hatinhtv.vn/liveevent.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri 
 rtmp://123.25.117.9:80/live/qtv
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",THUA THIEN HUE 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",THUA THIEN HUE 
 rtmp://118.69.176.149:1935/live/trt
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png",Da Nang 1
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png",Da Nang 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png",Da Nang 2 
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png",Da Nang 2 
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt2/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://s22.postimg.org/4yt2cm741/quangnam.png",Quang Nam
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/4yt2cm741/quangnam.png",Quang Nam
 rtmp://113.161.6.157:1935/live/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",Binh Dinh 
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",Binh Dinh 
 http://123.30.185.126/hls/binhdinh.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",Khánh Hòa 
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",Khánh Hòa 
 rtmp://118.69.198.109/live/video
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg",GIA LAI
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg",GIA LAI
 rtmp://222.255.169.132/live/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="https://s11.postimg.org/g5akk3vrn/dacnong.jpg",DAK NONG 
+#EXTINF:-1 tvg-logo="https://s11.postimg.org/g5akk3vrn/dacnong.jpg",DAK NONG 
 rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",Binh Phuoc 1
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",Binh Phuoc 1
 http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg",Binh Phuoc 2
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg",Binh Phuoc 2
 http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png",Bà Rịa-Vũng Tàu 
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png",Bà Rịa-Vũng Tàu 
 rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",Vinh long 1 
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",Vinh long 1 
 http://123.30.108.72/hls/thvl1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png",Vinh long 2 
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png",Vinh long 2 
 http://123.30.108.72/hls/thvl2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg",Ben Tre
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg",Ben Tre
 rtmp://113.163.94.245/livepkgr/thbt
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg",Sóc trăng 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg",Sóc trăng 
 rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/aqu8lk3i9/travinh.jpg",Tra Vinh 
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/aqu8lk3i9/travinh.jpg",Tra Vinh 
 http://123.30.185.126/hls/travinh.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg",Bac Lieu 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg",Bac Lieu 
 rtmp://118.69.205.213/livepkgr/livestream1
-#EXTINF:-1 group-title="TV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png",Tien Giang 
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png",Tien Giang 
 http://123.30.185.126/hls/tiengiang.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",An Giang 
+#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",An Giang 
 rtmp://113.161.212.25/live//atv1
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hau Giang
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OAwAkbr.png",Hau Giang
 rtmp://123.30.110.170:1939/thhg/thhg
-#EXTINF:-1 group-title="TV" tvg-logo="http://i.imgur.com/YAGwIeW.png",Ca Mau 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YAGwIeW.png",Ca Mau 
 rtmp://113.161.220.254:1935/livepkgr/livestream2
-#EXTINF:-1 group-title="TV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
+#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 
-#EXTINF:-1 group-title="TV",VIETFACE 57.2
+#EXTINF:-1,VIETFACE 57.2
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
-#EXTINF:-1 group-title="TV",SAIGON TV LIVE – Media Kit & Rate
+#EXTINF:-1,SAIGON TV LIVE – Media Kit & Rate
 http://63.143.59.125:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="TV",KVLA
+#EXTINF:-1,KVLA
 http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-#EXTINF:-1 group-title="TV",VBS TELEVISION Channel 57.6 
+#EXTINF:-1,VBS TELEVISION Channel 57.6 
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1 group-title="TV",VIETBAY
+#EXTINF:-1,VIETBAY
 http://64.71.129.2:8080/hls/ius_000131.m3u8
-#EXTINF:-1 group-title="TV",VNATV 57.3 
+#EXTINF:-1,VNATV 57.3 
 http://livestream.vnvn.net/vnatv573.m3u8
-#EXTINF:-1 group-title="TV",S CHANNEL TV 56.6 Live TV
+#EXTINF:-1,S CHANNEL TV 56.6 Live TV
 http://64.71.129.2:8080/hls/ius_000114.m3u8
-#EXTINF:-1 group-title="TV",IBC NEWS
+#EXTINF:-1,IBC NEWS
 rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
-#EXTINF:-1 group-title="TV",Công Giáo TV
+#EXTINF:-1,Công Giáo TV
 http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
-#EXTINF:-1 group-title="TV",VIETCHRISTIAN
+#EXTINF:-1,VIETCHRISTIAN
 mms://live.vietchristian.com/tv
-#EXTINF:-1 group-title="TV",KEENG TV
+#EXTINF:-1,KEENG TV
 http://125.235.29.16/livetv/keeng.m3u8
-#EXTINF:-1 group-title="TV",VIET MY TV
+#EXTINF:-1,VIET MY TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="TV",VIỆT SÓNG TV 47.7 WKTB
+#EXTINF:-1,VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",Cinemax
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",Cinemax
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148882&mode=2&name=Cinemax
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253035&mode=2&name=AXN
-#EXTINF:-1 group-title="TV" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO
-#EXTINF:-1 group-title="TV" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO HD
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO HD
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259497&mode=2&name=HBO HD
-#EXTINF:-1 group-title="TV" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 3
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 3
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&mode=2&name=HBO 3
-#EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Film Cafe
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Film Cafe
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&mode=2&name=Film Cafe
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",TV1000
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",TV1000
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000
-#EXTINF:-1 group-title="TV" tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Filmbox
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Filmbox
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox
-#EXTINF:-1 group-title="TV" tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Boomerang
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Boomerang
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang
-#EXTINF:-1 group-title="TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network
-#EXTINF:-1 group-title="TV" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
+#EXTINF:-1 tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic
-#EXTINF:-1 group-title="TV" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",NatGeo Wild
+#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",NatGeo Wild
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=NatGeo wild
-#EXTINF:-1 group-title="TV" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
+#EXTINF:-1 tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel
-#EXTINF:-1 group-title="TV" tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Discovery Science
+#EXTINF:-1 tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Discovery Science
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]IV - Phim Truyền Hình[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]IV - Phim Truyền Hình[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+#EXTINF:-1 tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+#EXTINF:-1 tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+#EXTINF:-1 tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+#EXTINF:-1 tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="TV" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
 
 
 
