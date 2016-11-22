@@ -1,25 +1,24 @@
 #EXTM3U thanh51
  
-#EXTINF:-1 tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Chung Cho Các Mạng Internet *********[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Xem Chung Các Mạng Internet *********[/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 tvg-logo="http://tructiepbongda.com/hinh-anh/2015/12/cropped-app-icon-180x180.png",[COLOR olive][B]I - Kênh Thể Thao[/B][/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]Cần Addon Plexus[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát Không Thường Xuyên
 http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=0d86278a-b542-44cd-af18-2871fd7aa163
 #EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
 #EXTINF:-1 tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD  
+#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s1 
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s2
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
 #EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 1-1080P
 http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 2-1080P
@@ -36,352 +35,15 @@ http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
 http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://s22.postimg.org/4x12f47gx/chinatv.jpg",China:Live 8-1080P
 http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 1  
-http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2872.ts
-#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 2 
-http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2873.ts
-#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 3 
-http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2874.ts
-#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 4 
-http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2875.ts
-#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 5 
-http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2876.ts
-#EXTINF:-1 tvg-logo="https://s18.postimg.org/9cdw5nbe1/beinhd.png",AR: BEIN SPORT 6 
-http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2877.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 3 
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 4 
+http://81.7.13.162/hls/ss4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR green][B]II- Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN - Cần Addon f4mTester[/B][/COLOR]
-http://www.youtube.com
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 20 11 2016: Middlesbrough vs Chelsea 23:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 22 11 2016: West Bromwich Albion vs Burnley 03:00[/B][/COLOR] 
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 11 2016: Burnley vs Manchester City 19:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 11 2016: Chelsea vs Tottenham Hotspur 00:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 11 2016: Watford vs Stoke City 19:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 11 2016: Arsenal vs Bournemouth AFC 21:15[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 11 2016: Southampton vs Everton 23:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 03 12 2016: Manchester City vs Chelsea 19:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 04 12 2016: West Ham United vs Arsenal 00:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 04 12 2016: Bournemouth AFC vs Liverpool 20:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 04 12 2016: Everton vs Manchester United 23:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 06 12 2016: Middlesbrough vs Hull City 03:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 10 12 2016: Watford vs Everton 19:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 11 12 2016: Leicester City vs Manchester City 00:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 11 12 2016: Chelsea vs West Bromwich Albion 19:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 11 12 2016: Manchester United vs Tottenham Hotspur 21:15[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 12 12 2016: Liverpool vs West Ham United 23:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 14 12 2016: Everton vs Arsenal 04:45[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 15 12 2016: Crystal Palace vs Manchester United 03:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 17 12 2016: Crystal Palace vs Chelsea 19:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 12 2016: West Bromwich Albion vs Manchester United 04:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 12 2016: Bournemouth AFC vs Southampton 20:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 12 2016: Manchester City vs Arsenal 23:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 20 12 2016: Everton vs Liverpool 03:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 12 2016: Watford vs Crystal Palace 19:30[/B][/COLOR] 
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 12 2016: Hull City vs Manchester City 00:15[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 28 12 2016: Liverpool vs Stoke City 00:15[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 29 12 2016: Southampton vs Tottenham Hotspur 04:45[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 31 12 2016: Hull City vs Everton 03:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 01 01 2017: Liverpool vs Manchester City 00:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",BT sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4808.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 01 01 2017: Watford vs Tottenham Hotspur 20:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 01 01 2017: Arsenal vs Crystal Palace 23:00[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 02 01 2017: Middlesbrough vs Leicester City 19:30[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 03 01 2017: West Ham United vs Manchester United 00:15[/B][/COLOR] 
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR orange][B]III - Xem Bóng Đá Anh(PREMIER LEAGUE) Theo Giờ VN[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]-> Chọn Kênh Và Xem Theo Lịch Thi Đấu[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) - Server VN 1
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259091) - Server VN 2
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259400) - Server VN 3
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259258) - Server VN 4
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+(259258)
-#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS (NHA)
-http://46.105.161.243:8085/lighd
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
-#EXTINF:-1 tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD (NHA)
-http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD (NHA) 
-http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: TOTTENHAM HOTSPUR - WEST HAM UNITED[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]23h00 ngày 20/11/16: MIDDLESBROUGH - CHELSEA [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&mode=1&name=av3
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&mode=1&name=av4
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR=skyblue][B]03h00 ngày 22/11/16: WEST BROMWICH ALBION - BURNLEY[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 1
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Server 2
-plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&mode=1&name=av27
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR cyan][B]III- Xem Bóng Đá Tây Ban Nha(SPANISH LALIGA) Theo Giờ VN[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]
-http://www.youtube.com
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 20/11/16: EIBAR-CELTA[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 20/11/16: ATLETICO MADRID-REAL MADRID[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://e677cd71455f6e78c017ca66f95416674c20fca2&mode=1&name=av17
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://081f0ec18cf62bc8d84642aae399fc1fe15a0e12&mode=1&name=av18
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 3
-plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&mode=1&name=av26
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 4
-plugin://program.plexus/?url=acestream://081f0ec18cf62bc8d84642aae399fc1fe15a0e12&mode=1&name=av27
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]18h00 ngày 20/11/16: DEPORTIVO ALAVES-ESPANYOL[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]22h15 ngày 20/11/16: VALENCIA-GRANADA[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]00h30 ngày 21/11/16: SPORTING GIJON-REAL SOCIEDAD [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 21/11/16: ATHLETIC CLUB-VILLARREAL[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",[COLOR=skyblue][B]02h45 ngày 22/11/16: LEGANES-OSASUNA[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 1
-plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&mode=1&name=av1
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-600x600.png",Server 2
-plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&mode=1&name=av2
-
-
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR violet][B]IV - Kênh TV Tổng Hợp[/B][/COLOR]
-http://www.youtube.com
 #EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png",VTV1
 http://123.30.191.202/hls/vtv1.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2
@@ -599,7 +261,7 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Di
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
 
-#EXTINF:-1 tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]IV - Phim Truyền Hình[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -619,8 +281,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
 
 
 
