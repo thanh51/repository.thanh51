@@ -1,7 +1,67 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 20.11.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 30.11.2016[/B][/COLOR]
 http://textuploader.com
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 1 
+http://95.85.51.158/UK-SkySports1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 2
+http://95.85.51.158/UK-SkySports2/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 3
+http://95.85.51.158/UK-SkySports3/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 4
+http://95.85.51.158/UK-SkySports4/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 5
+http://95.85.51.158/UK-SkySports5/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
+rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
+rtmp://ocserver02.hopto.me:1935/mytv/bthd02?user=leecruddas@gmail.com&pass=Chucknorris1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 3 
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 4 
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",TEN SPORT 1 
+http://95.85.51.158/PK-TenSportsHD/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 2 HD
+http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 3 HD
+http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 4 HD
+http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 5 HD
+http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.org/f4qv8i2d3/winsport.png",WIN SPORT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PTV SPORT HD
+http://95.85.51.158/Pk-PtvSportsHD/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",STAR SPORT 3
+http://95.85.51.158/IN-StarSports3/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s1
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/214_/seg0/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s3
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s4
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s1
+http://223.75.3.82:8081/live/live2/CCTV5HHD/4000/CCTV5HHD-4000-node4.m3u8?fmt=x264_4000k_mpegts&&authType=2&node=4&type=live
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s2
+http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s3
+http://220.194.207.35/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
@@ -9,6 +69,10 @@ http://123.30.185.126/hls/vtv1.m3u8
 http://123.30.185.126/hls/vtv2.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
 http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
+http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 HD
@@ -210,6 +274,57 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 2 
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 3 
+http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s1
+http://je8.bugaboo.tv/liveedgech7_partner/480p/playlist.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s2
+http://111.223.36.2/teleplus_ch7.m3u8?bandwidth=556
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s1
+http://202.142.207.150:1935/live/liveinfinity3/playlist.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s2
+http://stream.rs.co.th/ch8-low/index.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 13
+http://stream.13livetv.com:1935/live/13livetv/chunklist_w1245002243.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:NBT
+http://202.43.34.234:1935/11/s1/chunklist.m3u8?wowzasessionid=1576797501
+#EXTINF:-1 group-title="THAILAND",Thai:MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:GANG CARTOON
+http://111.223.36.6/tp_gang_cartoon.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CAT CHANNEL
+http://61.19.18.237/live/m1.sdp/chunklist_w1633942408.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CARTOON CLUB
+http://111.223.36.3/tp_cartoon_club.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:NEW TV 18
+http://111.223.36.6/tp_dailynews_tv.m3u8?bandwidth=306
+
+#EXTINF:-1 group-title="KOREA",Korea:BBS
+http://edge1.everyon.tv:1935/etv1/phd553/chunklist_w1460618078.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:CBS
+http://123.108.164.71/etv2sb/phd27/chunklist_w1165666480.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:KIDS TV
+http://123.108.164.71/etv2/phd1043/playlist.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:ANIMATION
+http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+#EXTINF:-1 group-title="KOREA",Korea:LIHAT TV
+http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
+
+#EXTINF:-1 group-title="UK",UK:BBC 1
+http://149.202.207.8:8080/mARriee007beebyc-1/Strm/index.m3u8
+#EXTINF:-1 group-title="UK",UK:BBC 2
+http://149.202.207.8:8080/mARriee007beebyc-2/Strm/index.m3u8
+#EXTINF:-1 group-title="UK",UK:BBC 3
+http://149.202.207.8:8080/mARriee007beebyc-3/Strm/index.m3u8
+#EXTINF:-1 group-title="UK",UK:BBC 4
+http://149.202.207.8:8080/mARriee007beebyc-4/Strm/index.m3u8
+
 #EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV2 
@@ -281,6 +396,14 @@ http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
 
 #EXTINF:-1 group-title="QUOC TE TH",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",DISCOVERY
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",RT DOCUMENTARY
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",BTV DOC
+http://218.92.209.33/livehls1-cnc.wasu.cn/bjjs/z.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRTBELGESEL HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRT BELGESEL
@@ -321,6 +444,8 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 group-title="QUOC TE TH",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
 
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -340,5 +465,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
 
 
