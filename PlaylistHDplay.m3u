@@ -23,6 +23,10 @@ http://95.85.51.158/UK-SkySports3/mono.m3u8
 http://95.85.51.158/UK-SkySports4/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 5 
 http://95.85.51.158/UK-SkySports5/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
+rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
+#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
+rtmp://ocserver02.hopto.me:1935/mytv/bthd02?user=leecruddas@gmail.com&pass=Chucknorris1
 #EXTINF:-1 tvg-logo="",SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="",SPORT 2 HD
