@@ -1,5 +1,5 @@
 #EXTM3U thanh51
- 
+
 #EXTINF:-1 tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Xem Chung Các Mạng Internet *********[/B][/COLOR]
 http://www.youtube.com
 
@@ -11,18 +11,13 @@ http://www.youtube.com
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát Không Thường Xuyên
 http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=7d65e030-7f33-451e-a7ee-29bf8063117a
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 1 
-http://95.85.51.158/UK-SkySports1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 2 
-http://95.85.51.158/UK-SkySports2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 3 
-http://95.85.51.158/UK-SkySports3/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 4 
-http://95.85.51.158/UK-SkySports4/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 5 
-http://95.85.51.158/UK-SkySports5/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 1
+plugin://program.plexus/?url=acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d&mode=1&name=UK:SKY SPORT 1
 #EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
 rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
 #EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
@@ -39,10 +34,6 @@ http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
 http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
 #EXTINF:-1 tvg-logo="",ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="",TEN SPORT 1 
-http://95.85.51.158/PK-TenSportsHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
-http://46.105.161.243:8085/lighd
 #EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
@@ -53,10 +44,6 @@ http://81.7.13.162/hls/ss3/index.m3u8
 http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 tvg-logo="https://s21.postimg.org/f4qv8i2d3/winsport.png",WIN SPORT
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1 tvg-logo="",PTV SPORT HD
-http://95.85.51.158/Pk-PtvSportsHD/mono.m3u8
-#EXTINF:-1 tvg-logo="",STAR SPORT 3
-http://95.85.51.158/IN-StarSports3/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
 http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s1
@@ -384,6 +371,9 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
 
 
 
