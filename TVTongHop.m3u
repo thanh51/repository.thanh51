@@ -1,10 +1,12 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 03.12.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 04.12.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/ifkdgf2x3/futbol1.jpg",FUTBOL 1
+http://livestreaming.servehttp.com:8080/hls/live/k1hd/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
 rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
@@ -59,6 +61,28 @@ rtmp://149.202.206.50/myapp/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 rtmp://149.202.206.50/myapp/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 7
 rtmp://149.202.206.50/myapp/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
@@ -277,6 +301,41 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/gl9bh2mh5/abcnews.jpg",USA:ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1, group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Brooklyn(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Westchester(Weather from Hudson Valley)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+
 #EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 2 
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 3 
@@ -466,11 +525,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-
-
 
 
 
