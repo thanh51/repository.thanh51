@@ -19,10 +19,6 @@ http://46.105.161.243:8085/lighd
 http://livestreaming.servehttp.com:8080/hls/live/k1hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT 1
 plugin://program.plexus/?url=acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d&mode=1&name=UK:SKY SPORT 1
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
-rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
-#EXTINF:-1 tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
-rtmp://ocserver02.hopto.me:1935/mytv/bthd02?user=leecruddas@gmail.com&pass=Chucknorris1
 #EXTINF:-1 tvg-logo="",SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="",SPORT 2 HD
@@ -94,8 +90,6 @@ http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
 http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv6-hd_w150_h150.png",VTV6 HD 
-http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png",VTV8
 rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream
 #EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
@@ -354,8 +348,6 @@ http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Tom And Jerry
 rtmp://208.53.164.194/live? playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tom.html
 
-
-
 #EXTINF:-1 tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
@@ -376,17 +368,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-
-
-
-
-
-
-
-
 
 
 
