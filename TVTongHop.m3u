@@ -1,16 +1,12 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 04.12.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 06.12.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/ifkdgf2x3/futbol1.jpg",FUTBOL 1
 http://livestreaming.servehttp.com:8080/hls/live/k1hd/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
-rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
-rtmp://ocserver02.hopto.me:1935/mytv/bthd02?user=leecruddas@gmail.com&pass=Chucknorris1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
@@ -96,8 +92,6 @@ http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
 http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 HD
-http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
@@ -409,36 +403,6 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m
 #EXTINF:-1 group-title="CHINA",China:CCTV15 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8
 
-#EXTINF:-1 tvg-logo="DE",De:Fox HD
-http://80.255.12.5:8000/3
-#EXTINF:-1 tvg-logo="DE",De:Syfy HD
-http://80.255.12.5:8000/4
-#EXTINF:-1 tvg-logo="DE",De:AXN HD
-http://80.255.12.5:8000/5
-#EXTINF:-1 tvg-logo="DE",De:TNT Film
-http://80.255.12.5:8000/14
-#EXTINF:-1 tvg-logo="DE",De:TNT Serie
-http://80.255.12.5:8000/15
-#EXTINF:-1 tvg-logo="DE",De:CN
-http://80.255.12.5:8000/8
-#EXTINF:-1 tvg-logo="DE",De:Boomerang
-http://80.255.12.5:8000/16
-#EXTINF:-1 tvg-logo="DE",De:Disney Cinemagic
-http://80.255.12.5:8000/10
-#EXTINF:-1 tvg-logo="DE",De:Nat Geo HD
-http://80.255.12.5:8000/11
-#EXTINF:-1 tvg-logo="DE",De:Nat Geo Wild HD
-http://80.255.12.5:8000/2
-#EXTINF:-1 tvg-logo="DE",De:DISCOVERY HD
-http://80.255.12.5:8000/13
-#EXTINF:-1 tvg-logo="DE",De:Sport1+HD
-http://80.255.12.5:8000/6
-#EXTINF:-1 tvg-logo="DE",De:MTV
-http://80.255.12.5:8000/9
-#EXTINF:-1 tvg-logo="DE",De:Spiesel TV
-http://80.255.12.5:8000/7
-#EXTINF:-1 tvg-logo="DE",De:13StreetHD
-http://80.255.12.5:8000/12
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
@@ -525,6 +489,9 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
 
 
 
