@@ -489,6 +489,8 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Tom And Jerry
+rtmp://208.53.164.194/live? playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tom.html
 
 #EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
