@@ -81,7 +81,7 @@ http://xrxs.net/video/live-p12moun-4728.m3u8?
 http://xrxs.net/video/live-p12oreg-4728.m3u8?
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Oregon) HD
 http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Oregon) 640*360
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Oregon) 
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
@@ -478,14 +478,10 @@ http://fpt-live.flix.vn/spsklfl/_definst_/natgeo.720p.stream/media.m3u8
 http://fpt-live.flix.vn/spsklfl/_definst_/starworld.720p.stream/media.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg",MTV
 http://fpt-live.flix.vn/spsklfl/_definst_/mtv.360p.stream/media.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",Cinemax
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148882&mode=2&name=Cinemax
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253035&mode=2&name=AXN
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO HD
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259497&mode=2&name=HBO HD
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 2
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO 2
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 3
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&mode=2&name=HBO 3
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Film Cafe
@@ -494,10 +490,24 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&mode=2&name=Fi
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Filmbox
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/llmsvh9ct/frocinema.jpg",Fro Cinema
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148249&mode=2&name=Fro Cinema
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/dfo48lyab/divauni.jpg",DIVA UNIVERSAL
+plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253034&mode=2&name=DIVA UNIVERSAL
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/lyq86n2pp/paramo.jpg",PARAMOUNT
+plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253033&mode=2&name=PARAMOUNT
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Boomerang
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/ffzer71xx/disney.jpg",DISNEY
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253031&mode=2&name=DISNEY
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/of5s1whi5/disneyjr.jpg",DISNEY JR
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256239&mode=2&name=DISNEY JR
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/r4hnzsdtj/megamax.jpg",MEGAMAX
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256328&mode=2&name=MEGAMAX
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/y3vtg49nb/nicke.jpg",NICKELODEON
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253472&mode=2&name=NICKELODEON
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",NatGeo Wild
@@ -506,8 +516,16 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=Na
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Discovery Science
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/65pv3fcqr/discoveryid.png",Discovery ID
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&mode=2&name=Discovery ID
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s23.postimg.org/gd53j7e17/history.jpg",HISTORY
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&mode=2&name=HISTORY
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/gpytq8sd1/viasathistory.jpg",VIASAT HISTORY
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&mode=2&name=VIASAT HISTORY
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",TLC
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&mode=2&name=TLC
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/42txildov/animal.jpg",ANIMAL PLANET HD
@@ -588,26 +606,25 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m
 #EXTINF:-1 group-title="CHINA",China:CCTV15 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
 
 
