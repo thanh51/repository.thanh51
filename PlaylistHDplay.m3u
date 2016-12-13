@@ -313,7 +313,8 @@ rtmp://203.162.121.230/live//911?securetoken=#ed%h0#w@1
 rtmp://203.162.121.230/live//ttv?securetoken=#ed%h0#w@1
 #EXTINF:-1 group-title="LifeTV" tvg-logo="https://s12.postimg.org/autiue1ml/nct.png",NCT
 http://123.30.134.108:1935/live/nctlive/playlist.m3u8
-
+#EXTINF:-1 group-title="LifeTV" tvg-logo="https://s23.postimg.org/vm2dddwsb/keeng.jpg",KEENG TV
+http://125.235.29.16/livetv/keeng.m3u8
 
 #EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
