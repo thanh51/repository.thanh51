@@ -277,6 +277,17 @@ http://fpt-live.flix.vn/spsklfl/_definst_/shopping.360p.stream/media.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-hd.png",HTVC Plus (Channel B)
 http://fpt-live.flix.vn/spsklfl/_definst_/htvc_plus.360p.stream/media.m3u8
 
+#EXTINF:-1 group-title="GIAI TRI TH" tvg-logo="http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png",Starmovies HD
+http://fpt-live.flix.vn/spsklfl/_definst_/starmovies.720p.stream/media.m3u8
+#EXTINF:-1 group-title="GIAI TRI TH" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
+rtmp://vf10.aditmedia.net/ingestx/ivn_000105
+#EXTINF:-1 group-title="GIAI TRI TH" tvg-logo="http://i.imgur.com/9RsSxQt.png",Natgeo HD
+http://fpt-live.flix.vn/spsklfl/_definst_/natgeo.720p.stream/media.m3u8
+#EXTINF:-1 group-title="GIAI TRI TH" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",Starworld HD
+http://fpt-live.flix.vn/spsklfl/_definst_/starworld.720p.stream/media.m3u8
+#EXTINF:-1 group-title="GIAI TRI TH" tvg-logo="http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg",MTV
+http://fpt-live.flix.vn/spsklfl/_definst_/mtv.360p.stream/media.m3u8
+
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
 http://123.30.185.126/hls/hanoi1.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
@@ -484,16 +495,6 @@ rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce301000
 #EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Westchester(Weather from Hudson Valley)
 rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
 
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png",Starmovies HD
-http://fpt-live.flix.vn/spsklfl/_definst_/starmovies.720p.stream/media.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
-rtmp://vf10.aditmedia.net/ingestx/ivn_000105
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i.imgur.com/9RsSxQt.png",Natgeo HD
-http://fpt-live.flix.vn/spsklfl/_definst_/natgeo.720p.stream/media.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",Starworld HD
-http://fpt-live.flix.vn/spsklfl/_definst_/starworld.720p.stream/media.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg",MTV
-http://fpt-live.flix.vn/spsklfl/_definst_/mtv.360p.stream/media.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 2
@@ -642,5 +643,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 
 
