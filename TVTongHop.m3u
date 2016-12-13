@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 12.12.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 13.12.2016[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 s1
@@ -75,10 +75,24 @@ http://xrxs.net/video/live-p12moun-4728.m3u8?
 http://xrxs.net/video/live-p12oreg-4728.m3u8?
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Oregon) HD
 http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Oregon) 640*360
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Oregon) 
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National Full HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona Full HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles Full HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain Full HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon Full HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington Full HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
+http://xrxs.net/video/live-p12baya-4728.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1 s1
 http://fpt-live.flix.vn/spsklfl/_definst_/vtv1.360p.stream/media.m3u8
@@ -539,6 +553,8 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png",Starmovies HD
 http://fpt-live.flix.vn/spsklfl/_definst_/starmovies.720p.stream/media.m3u8
+#EXTINF:-1, group-title="QUOC TE TH" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTV Phim Việt
+rtmp://vf10.aditmedia.net/ingestx/ivn_000105
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i.imgur.com/9RsSxQt.png",Natgeo HD
 http://fpt-live.flix.vn/spsklfl/_definst_/natgeo.720p.stream/media.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",Starworld HD
@@ -594,8 +610,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
 
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
-http://www.youtube.com
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
@@ -614,6 +628,36 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
