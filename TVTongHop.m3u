@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 13.12.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 14.12.2016[/B][/COLOR]
 http://textuploader.com
 
 
@@ -12,12 +12,6 @@ http://123.30.185.126/hls/vtc3.m3u8
 http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",Sky Sports 1 (UK)
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1603/exabytetv.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",Sky Sports 2 (UK)
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1604/exabytetv.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",Sky Sports 3 (UK)
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1605/exabytetv.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
@@ -331,17 +325,39 @@ rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
 http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIETCHRISTIAN
 mms://live.vietchristian.com/tv
-#EXTINF:-1 group-title="HAI NGOAI",KEENG TV
-http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIET MY TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 
-#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/gl9bh2mh5/abcnews.jpg",USA:ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LONDON LIVE 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:BBC AMERICA 
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+#EXTINF:-1 group-title="US" tvg-logo="",USA:CNN 
+http://208.86.19.13:8080/live/20.stream/index.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TRU TV 
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:DYSCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ANIMAL PLANET HD 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:NICK TOONS 
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TNT 
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",USA:NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
 #EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News 12 Long Island(Stream 1)
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
 #EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Bronx(Stream 1)
@@ -464,10 +480,6 @@ http://premium.exabytetv.info/HLSST/455/455-GHMSX-101100010001101110001100100110
 http://premium.exabytetv.info/HLSST/3704/3704-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/119.png",H2 Latino 
 http://premium.exabytetv.info/HLSST/297/297-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/42txildov/animal.jpg",ANIMAL PLANET HD
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s23.postimg.org/5ixuarg6z/discovery.jpg",DISCOVERY
-http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",BTV DOC
@@ -484,14 +496,6 @@ http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
 http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",US:H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",US:MILITARY
-http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",US:LUXURY YACHTS
-http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CHINA HISTORY CHANNEL
 http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
 #EXTINF:-1  group-title="QUOC TE TH" tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png", NHK WORLD
@@ -531,29 +535,5 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
