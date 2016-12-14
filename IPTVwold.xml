@@ -1,0 +1,86 @@
+<item>
+<title> [COLOR red][B] Ultimate IPTV - Can addon f4mTester[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR cyan] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR cyan][/COLOR] [makelist.param1]  </link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+///////////////////////////////////////////////
+
+<item> 
+<title>[COLOR cyan][B]Server service1.astrovida.tv[/B][/COLOR]</title> 
+<link>ignore</link>
+  <externallink>http://service1.astrovida.tv:8000/get.php?username=testapp&amp;password=testapp&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
+<page></page>
+</item> 
+//////////////////////////////////////////////
+<item> 
+<title>[COLOR cyan][B]Server 185.59.220.134:8999[/B][/COLOR]</title> 
+<link>ignore</link>
+  <externallink>http://service1.astrovida.tv:8000/get.php?username=stream&amp;password=multimedia&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
+<page></page>
+</item> 
+//////////////////////////////////////////////
+<item> 
+<title>[COLOR cyan][B]Server 163.172.15.23:8000[/B][/COLOR]</title> 
+<link>ignore</link>
+  <externallink>http://163.172.15.23:8000/get.php?username=testapp&amp;password=testapp&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
+<page></page>
+</item> 
+//////////////////////////////////////////////
+<item> 
+<title>[COLOR cyan][B]Server tv.iptvs.net:9000[/B][/COLOR]</title> 
+<link>ignore</link>
+  <externallink>http://tv.iptvs.net:9000/get.php?username=mutaz&amp;password=2RWDdYBw1J&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
+<page></page>
+</item> 
+//////////////////////////////////////////////
+<item> 
+<title>[COLOR cyan][B]Server UK TV[/B][/COLOR]</title> 
+<link>ignore</link>
+<externallink>http://exabytetv.info/UK.m3u</externallink>
+<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
+<page></page>
+</item> 
+//////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
