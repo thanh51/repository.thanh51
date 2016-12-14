@@ -233,7 +233,7 @@
 
 <item>
 <title>Ace1*</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace1</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&mode=1&name=Ace1</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
