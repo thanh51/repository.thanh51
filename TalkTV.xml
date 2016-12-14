@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR cyan][B]Update ngày 09/7/2016[/B][/COLOR]</title>
+<title>[COLOR red][B]KÊNH CÓ THỂ THAY ĐỔI THEO NGUỒN PHÁT[/B][/COLOR]</title>
 <link>$doregex[m3u8]</link>
-</item>
+<regex>
 /////////////////
 <item>
 <title>XEM PHIM (by thegioionline)</title>
@@ -14,6 +14,7 @@
 <page>http://talktv.vn/thegioionline</page>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://res1.talktv.vn/images/thegioionline/designSetting/854x480/1466402436.jpg</thumbnail>
 </item>
 /////////////////////////
 <item>
@@ -25,6 +26,7 @@
 <page>http://talktv.vn/thev</page>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://res1.talktv.vn/images/thev/designSetting/854x480/1447218868.png</thumbnail>
 </item>
 /////////////////////////
 <item>
@@ -36,40 +38,33 @@
 <page>http://talktv.vn/meowdoraemon</page>
 <cookieJar></cookieJar>
 </regex>
-</item>
-/////////////////////////
+<thumbnail>http://res1.talktv.vn/images/meowdoraemon/designSetting/854x480/1466395787.jpg</thumbnail>
+</items>
+////////////////////////////////
 <item>
-<title>XEM PHIM (by cungnghenhac)</title>
+<title>XEM PHIM (by hdchannel)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/cungnghenhac</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////////
-<item>
-<title>XEM PHIM (by dabongvn)</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/dabongvn</page>
+<page>http://talktv.vn/hdchannel</page>
 <cookieJar></cookieJar>
 </regex>
 </item> 
-//////////////////////////   
+//////////////////
+<item>
+<title>XEM PHIM (by www.faphim.net)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/www.faphim.net</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+//////////////////
 
-
-</items>
+</items>    
 </channel>
-
-
-
-
-
-
-
 
 
