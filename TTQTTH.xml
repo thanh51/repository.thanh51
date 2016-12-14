@@ -1,0 +1,104 @@
+﻿<item>
+<title> [COLOR yellow][B](1) THỂ THAO QUỐC TẾ (Auto Update)-Xem Theo Giờ VN+6 Tiếng[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/schedule</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+</item>
+
+/////////////////////////
+<item>
+<title>[COLOR deepskyblue][B](2) KÊNH K+ (Chỉ phát các ngày cuối tuần)[/B][/COLOR]</title> 
+<link>http://ignora.me</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR deepskyblue][B]Xem Trước Trận Đấu > 30 Phút Để Không Bị Nghẽn mạng[/B][/COLOR]</title> 
+<link>http://ignora.me</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(253096)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&amp;mode=2&amp;name=K+(253096)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(259091)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&amp;mode=2&amp;name=K+(259091)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(259400)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&amp;mode=2&amp;name=K+(259400)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(259258)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&amp;mode=2&amp;name=K+(259258)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+
+
+////////////////////////////////////////////
+
+<item>
+<title>[COLOR deepskyblue][B](3) KÊNH SPORT KHÁC[/B][/COLOR]</title> 
+<link>http://ignora.me</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR deepskyblue][B]UK:SKY SPORT1 - server 1[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d&amp;mode=1&amp;name=SKY SPORT 1</link> 
+<thumbnail>http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue][B]UK:SKY SPORT1 - server 2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue][B]UK:BT SPORT1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.indosports.tv/images/bt-sport-1.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
