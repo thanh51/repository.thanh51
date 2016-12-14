@@ -2,6 +2,62 @@
 
 </channel>
 <channel>
+<name>[COLOR blue][B]BÓNG ĐÁ QT[/B][/COLOR]</name>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+<item>
+<item>
+<title>BÓNG ĐÁ 1 HD</title>
+<link>udp://@225.1.1.10:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 2 HD</title>
+<link>udp://@225.1.1.12:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 3 HD</title>
+<link>udp://@225.1.2.204:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 4 HD</title>
+<link>udp://@225.1.1.68:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 5</title>
+<link>udp://@225.1.2.83:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 6</title>
+<link>udp://@225.1.1.32:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 7</title>
+<link>udp://@225.1.1.70:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 8</title>
+<link>udp://@225.1.2.71:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 9</title>
+<link>udp://@225.1.2.73:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>BÓNG ĐÁ 10</title>
+<link>udp://@225.1.2.75:30120</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+
+</channel>
+<channel>
 <name>[COLOR blue][B]VTV[/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/61uqndd.png</thumbnail>
 <item>
@@ -38,7 +94,7 @@
 <item>
 <title>NHÂN DÂN HD</title>
 <link>udp://@225.1.1.91:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png</thumbnail>
 </item>
 <item>
 <title>VTV1</title>
@@ -102,21 +158,6 @@
 </item>
 
 
-</channel>
-<channel>
-<name>[COLOR blue][B]K+[/B][/COLOR]</name>
-<thumbnail>http://i.imgur.com/MAsPFib.png</thumbnail>
-<item>
-<item>
-<title>K+NS HD</title>
-<link>udp://@225.1.1.96:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>K+PC HD</title>
-<link>udp://@225.1.1.97:30120</link>
-<thumbnail></thumbnail>
-</item>
 
 
 </channel>
@@ -536,19 +577,24 @@
 <thumbnail>http://i.imgur.com/o0Vveza.png</thumbnail>
 <items>
 <item>
+<title>CAO BẰNG</title>
+<link>udp://225.1.1.102:30120</link>
+<thumbnail></thumbnail>
+</item>
+<item>
 <title>HA GIANG</title>
 <link>udp://225.1.1.62:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png</thumbnail>
 </item>
 <item>
 <title>LÀO CAI</title>
 <link>udp://225.1.1.119:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg</thumbnail>
 </item>
 <item>
 <title>YÊN BÁI</title>
 <link>udp://225.1.1.39:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg</thumbnail>
 </item>
 <item>
 <title>Sơn La</title>
@@ -558,7 +604,7 @@
 <item>
 <title>ĐIỆN BIÊN</title>
 <link>udp://225.1.1.74:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_145880775626.jpg</thumbnail>
 </item>
 <item>
 <title>Lạng Sơn</title>
@@ -583,7 +629,7 @@
 <item>
 <title>BẮC GIANG</title>
 <link>udp://225.1.1.164:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_145880839804.jpg</thumbnail>
 </item>
 <item>
 <title>Phú Thọ </title>
@@ -593,7 +639,7 @@
 <item>
 <title>VĨNH PHÚC</title>
 <link>udp://225.1.2.99:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg</thumbnail>
 </item>
 <item>
 <title>Hải Phòng</title>
@@ -613,7 +659,7 @@
 <item>
 <title>THAI BINH</title>
 <link>udp://225.1.1.99:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg</thumbnail>
 </item>
 <item>
 <title>Hải Dương </title>
@@ -628,7 +674,7 @@
 <item>
 <title>BẮC NINH</title>
 <link>udp://225.1.1.40:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_145880754588.jpg</thumbnail>
 </item>
 <item>
 <title>HÀ NAM</title>
@@ -673,7 +719,7 @@
 <item>
 <title>HUẾ</title>
 <link>udp://225.1.1.161:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg</thumbnail>
 </item>
 <item>
 <title>Đà Nẵng 1</title>
@@ -708,7 +754,7 @@
 <item>
 <title>GIA LAI</title>
 <link>udp://225.1.2.176:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg</thumbnail>
 </item>
 <item>
 <title>Đắc Lắc</title>
@@ -719,6 +765,11 @@
 <title>Lâm Đồng </title>
 <link>udp://225.1.2.177:30120</link>
 <thumbnail>http://i.imgur.com/1ZCjme6.png</thumbnail>
+</item>
+<item>
+<title>Bình Thuận </title>
+<link>udp://225.1.1.124:30120</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg</thumbnail>
 </item>
 <item>
 <title>Ninh Thuận </title>
@@ -738,12 +789,12 @@
 <item>
 <title>BÌNH PHƯỚC 1</title>
 <link>udp://@225.1.2.23:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg</thumbnail>
 </item>
 <item>
 <title>BÌNH PHƯỚC 2</title>
 <link>udp://@225.1.2.38:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg</thumbnail>
 </item>
 <item>
 <title>BTV1</title>
@@ -766,6 +817,11 @@
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-1.png</thumbnail>
 </item>
 <item>
+<title>Đồng Nai 1</title>
+<link>udp://225.1.1.152:30120</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-2.png</thumbnail>
+</item>
+<item>
 <title>Đồng Nai 2</title>
 <link>udp://225.1.1.151:30120</link>
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-2.png</thumbnail>
@@ -776,12 +832,12 @@
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png</thumbnail>
 </item>
 <item>
-<title>VINH LONG 1</title>
+<title>VINH LONG 1 HD</title>
 <link>udp://225.1.1.155:30120</link>
 <thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png</thumbnail>
 </item>
 <item>
-<title>VINH LONG 2</title>
+<title>VINH LONG 2 HD</title>
 <link>udp://225.1.1.154:30120</link>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png</thumbnail>
 </item>
@@ -793,12 +849,12 @@
 <item>
 <title>BẾN TRE</title>
 <link>udp://225.1.1.156:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg</thumbnail>
 </item>
 <item>
 <title>TRÀ VINH</title>
 <link>udp://225.1.2.172:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg</thumbnail>
 </item>
 <item>
 <title>SÓC TRĂNG</title>
@@ -828,12 +884,12 @@
 <item>
 <title>BẠC LIÊU</title>
 <link>udp://225.1.1.61:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg</thumbnail>
 </item>
 <item>
-<title>DONG THAP</title>
+<title>DONG THAP HD</title>
 <link>udp://@225.1.1.163:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg</thumbnail>
 </item>
 <item>
 <title>Cà Mau</title>
@@ -860,7 +916,7 @@
 <item>
 <title>RED by HBO HD</title>
 <link>udp://@225.1.1.89:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png</thumbnail>
 </item>
 <item>
 <title>STAR MOVIES HD</title>
@@ -885,7 +941,7 @@
 <item>
 <title>TOONAMI HD</title>
 <link>udp://@225.1.2.220:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_toonami_146580863385.png</thumbnail>
 </item>
 <item>
 <title>National Geographic HD</title>
@@ -928,16 +984,6 @@
 <thumbnail>http://i.imgur.com/1yIIQcm.png</thumbnail>
 </item>
 <item>
-<title>MUSIC1 HD</title>
-<link>udp://@225.1.1.7:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MUSIC2 HD</title>
-<link>udp://@225.1.1.8:30120</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>CINEMAX</title>
 <link>udp://@225.1.1.230:30120</link>
 <thumbnail>http://xemtvhd.net/images/icon-channel/cinemax.png</thumbnail>
@@ -955,12 +1001,12 @@
 <item>
 <title>AXN</title>
 <link>udp://@225.1.1.237:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png</thumbnail>
 </item>
 <item>
 <title>CN</title>
 <link>udp://@225.1.1.240:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png</thumbnail>
 </item>
 <item>
 <title>DISNEY CHANNEL</title>
@@ -1005,7 +1051,7 @@
 <item>
 <title>CNN</title>
 <link>udp://@225.1.1.242:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png</thumbnail>
 </item>
 <item>
 <title>NHK</title>
@@ -1030,7 +1076,7 @@
 <item>
 <title>DW</title>
 <link>udp://@225.1.1.203:30120</link>
-<thumbnail></thumbnail>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg</thumbnail>
 </item>
 <item>
 <title>CHANNEL V</title>
@@ -1062,28 +1108,4 @@
 
 
 </channel>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
