@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channel>
-<items>
-
 <item>
 <title>ALL SPORTS</title>
 <link>$doregex[makelist]</link>
@@ -43,7 +40,7 @@
 <link>$doregex[makelist2]</link>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>span class="" >(.*?)&lt;\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
 <page>https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig</page>
 </regex>
 
@@ -72,7 +69,7 @@
 <link>$doregex[makelist2]</link>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>span class="" >(.*?)&lt;\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
 <page>https://www.youtube.com/channel/UCIWo7q6irZUBaoPOrlf5IVw</page>
 </regex>
 
@@ -353,68 +350,7 @@
 
 /////////////////////////////
 
-<item>
-<title>TheChuChuTV</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]   [makelist.param3]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-]]></listrepeat>
-<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
-<page>https://www.youtube.com/user/TheChuChuTV/videos</page>
-</regex>
-</item>
-
-//////////////////////////
-<item>
-<title>TUTITU TV</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]   [makelist.param3]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-]]></listrepeat>
-<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
-<page>https://www.youtube.com/user/tutitutv/videos</page>
-</regex>
-</item>
-
-//////////////////////////
-<item>
-<title>Bố Ơi Mình Đi Đâu Thế ? (China - VietSub)</title>
-<link>$doregex[makelist3]</link>
-
-<regex>
-<name>makelist3</name>   
-<listrepeat><![CDATA[
-<title>[makelist3.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
-<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>http://www.youtube.com/playlist?list=PL3hQOkPHhz_kLv9kLw5785_VMFmAWkExL</page>     
-</regex>
-</item>
-//////////////////////
-<item>
-<title>Phim Hoạt Hình Tom And Jerry Tales (lồng tiếng Việt)</title>
-<link>$doregex[makelist3]</link>
-
-<regex>
-<name>makelist3</name>   
-<listrepeat><![CDATA[
-<title>[makelist3.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
-<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
-</regex>
-</item>
-//////////////////////
-
 </items>
 </channel>
+
+
