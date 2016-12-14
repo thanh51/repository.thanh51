@@ -1,25 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-	<channel>
-	<items>
-
+		
 		<item>
 		<title>[COLOR cyan][B]PHIM TH[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/PhimTH.xml</externallink>
 		</item>
-
-		<item>
+                ///////////////////////////////////
+                <item>
+		<title>[COLOR cyan][B]XEM PHIM (By talktv.vn)[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TalkTV.xml</externallink>
+		</item> 
+                 //////////////////////////////////                                      	
+                  <item>
 		<title>[COLOR cyan][B]Phim3s.net[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Phim3sNet.m3u</externallink>
 		</item>
-
+                /////////////////////////////////////
 		<item>
 		<title>[COLOR cyan][B]TOM AND JERRY[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TomAndJerry.xml</externallink>
+                <thumbnail>https://s11.postimg.org/7grnify7n/tomjerry.jpg</thumbnail>
 		</item>
+               //////////////////////////////////
+               <item>
+<title>[COLOR cyan][B]Phim Hoạt Hình Tom And Jerry Tales (lồng tiếng Việt)[/B][/COLOR]</title>
+<link>$doregex[makelist3]</link>
 
-	</items>
-	</channel>
+<regex>
+<name>makelist3</name>   
+<listrepeat><![CDATA[
+<title>[makelist3.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
+</regex>
+<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
+</item>
+//////////////////////
+		<item>
+		<title>[COLOR cyan][B]PHIM LẺ NƯỚC NGOÀI HD[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/CINEHD</externallink>
+		</item>
+                ///////////////////////////////////////////
+               <item>
+		<title>[COLOR cyan][B]PHIM BỘ NƯỚC NGOÀI HD 1[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/TOPFLIX</externallink>
+		</item> 
+               ///////////////////////////////////////////////
+
+		<item>
+		<title>[COLOR cyan][B]PHIM BỘ NƯỚC NGOÀI HD 2[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/SeriesHD</externallink>
+		</item> 
+               ///////////////////////////////////////////////
+		<item>
+		<title>[COLOR cyan][B]PHIM BỘ NƯỚC NGOÀI SD[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/SeriesSD</externallink>
+		</item> 
+               ///////////////////////////////////////////////
+               	<item>
+		<title>[COLOR cyan][B]PHIM TRUYỀN HÌNH TRUNG QUỐC[/B][/COLOR]</title>
+		<link>http://ignorame</link>
+		<externallink>http://bit.ly/2c8q5sI</externallink>
+		</item>
+                ///////////////////////////////////////////
+                <item>
+		<title>[COLOR cyan][B]FILM (RUSSIA)[/B][/COLOR]</title>
+		<link>http://ignorame</link>
+		<externallink>http://iptv.slynet.tv/KinodromSlyNet.m3u</externallink>
+		</item>
+                ///////////////////////////////////////////
+
+                </items>
+	        </channel>
+
+
