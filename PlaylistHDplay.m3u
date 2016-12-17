@@ -399,6 +399,18 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA live stream - Earth From Space LIVE Feed 1
+plugin://plugin.video.youtube/?action=play_video&videoid=nuzDvYdC_Ak
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA live stream - Earth From Space LIVE Feed 2
+plugin://plugin.video.youtube/?action=play_video&videoid=qzMQza8xZCc
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Earth From Space (24/7)[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=SF7FUU7CThs
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Orbit the Earth with the NASA live feed
+plugin://plugin.video.youtube/?action=play_video&videoid=ddFvjfvPnqk
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Gopro Video ISS Cosmonauts Carry Out SpaceWalk
+plugin://plugin.video.youtube/?action=play_video&videoid=3Ruruhg6q1w
+#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA SpaceTalk (2016) 1080p live HDVR
+plugin://plugin.video.youtube/?action=play_video&videoid=SF7FUU7CThs
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
