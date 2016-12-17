@@ -1,80 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title> [COLOR lime]•[/COLOR][COLOR yellow][B]XEM BÓNG ĐÁ HÔM NAY - Cần addon Plexus[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue][makelist.param1] - [COLOR lightslategray][makelist.param2][/COLOR][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.in/[makelist.param2]</page><referer>http://www.arenavision.in</referer><setcookie>beget=begetok</setcookie></regex>
-<thumbnail>https://s30.postimg.org/h3fjbfhy9/bongda.jpg</thumbnail>
-]]></listrepeat>
-<expres>itemprop=&quot;name&quot;&gt;(.*?)&lt;[\w\W\s]{0,1500}goto/arenavision.in\/(.*?)"</expres>
-<page>http://www.rojadirecta.me</page>	
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-</regex>
-<thumbnail>https://s30.postimg.org/h3fjbfhy9/bongda.jpg</thumbnail>
-</item> 
-////////////////////////////////////////////////////////
+		<item>
+		<title>[COLOR cyan][B]THỂ THAO QUỐC TẾ (Auto Update)[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TTQTTH.xml</externallink>
+		</item> 
+		/////////////////////////////////////// 
                  <item>
 		<title>[COLOR cyan][B]CHANNELS SPORTS 1[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Sport1.xml</externallink>
-		</item> 
-		///////////////////////////////////////
-                <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS 2[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Sport2.xml</externallink>
-		</item> 
-		///////////////////////////////////////
-                 <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS 3[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Sport3.m3u</externallink>
 		</item> 
 		///////////////////////////////////////
                 <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS Cần addon Plexus - server 1[/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]CHANNELS SPORTS 2[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus1.xml</externallink>
 		</item> 
 		///////////////////////////////////////
-		<item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS Cần addon Plexus - server 2[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
-		</item> 
-		///////////////////////////////////////
-
-		 <item>
-		<title>[COLOR cyan][B]XEM BÓNG ĐÁ NGOẠI HẠNG ANH 1[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnh.xml</externallink>
-		</item> 
-		///////////////////////////////////////
-		<item>
-		<title>[COLOR cyan][B]XEM BÓNG ĐÁ NGOẠI HẠNG ANH 2[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnh2.xml</externallink>
-		</item> 
-		///////////////////////////////////////
-
-		<item>
-		<title>[COLOR cyan][B]XEM BÓNG ĐÁ : ANH, ĐỨC, TÂY BAN NHA[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnhTBNDUC.xml</externallink>
-		</item> 
-		
-		/////////////////////////////////////// 
-                <item>
-		<title>[COLOR cyan][B]THỂ THAO QUỐC TẾ TỔNG HỢP (auto update)[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TTQTTH.xml</externallink>
-		</item> 
-		/////////////////////////////////////// 
+		               
                 <item>
 		<title>[COLOR cyan][B]FOOTBALL VIDEOS[/B][/COLOR]</title>
 		<link>http://ignorame</link>
@@ -84,6 +29,13 @@
 
 		</items>
 	        </channel>
+
+
+
+
+
+
+
 
 
 
