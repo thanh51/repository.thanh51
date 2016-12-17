@@ -95,9 +95,9 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 3HD s1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 3HD 
 http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 3HD s2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 4HD 
 http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/4.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
@@ -340,38 +340,6 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",USA:NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News 12 Long Island(Stream 1)
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Bronx(Stream 1)
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Bronx(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Brooklyn(Stream 1)
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Brooklyn(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Connecticut(Stream 1)
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Connecticut(Weather)
-rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Hudson Valley(Stream 1)
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Hudson Valley(Weather)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Long Island(Stream 2)
-rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Long Island(Weather)
-rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News New Jersey(Stream 1)
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News New Jersey(Weather)
-rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Westchester(Stream 1)
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-#EXTINF:-1 group-title="US" tvg-logo="https://s14.postimg.org/m8jsatsfl/news12.jpg",USA:News Westchester(Weather from Hudson Valley)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
