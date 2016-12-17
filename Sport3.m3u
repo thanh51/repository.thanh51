@@ -1,15 +1,24 @@
 #EXTM3U thanh51
 
+#EXTINF:-1 group-title="Kodi&Box TV",[COLOR cyan][B]<<I>> XEM TRONG KODI & BOX TV[/B][/COLOR]
+http://www.youtube.com
+
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://i.imgur.com/b9Ir1Uh.png",K+PC HD server VN - Phát không thường xuyên
-http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=03714eab-59ea-4455-8b78-312cdf31bd7c
+http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=b76ed759-4e4d-4f30-b6eb-b6157809eba9
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
+http://fpt-live.flix.vn/spsklfl/_definst_/vtv6.720p.stream/media.m3u8
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
 http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg", Champions League
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg", Bóng rổ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
@@ -70,89 +79,121 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC-12 Net.(Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National Full HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona Full HD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles Full HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain Full HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon Full HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington Full HD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 3HD s1
+#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 3HD 
 http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/3.m3u8
-#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s27.postimg.org/3sof2mejn/bein3hd.png",BEIN SPORT 3HD s2
+#EXTINF:-1 group-title="Kodi&Box TV" tvg-logo="https://s23.postimg.org/fcaleigsb/bein4hd.jpg",BEIN SPORT 4HD 
 http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/4.m3u8
 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Chỉ Xem Trong Box TV Đã Cài App Sopcast & App Acestreams
+#EXTINF:-1 group-title="Kodi",[COLOR cyan][B]<<II>> XEM TRONG KODI[/B][/COLOR]
+http://www.youtube.com
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 1 (NHA)
+plugin://program.plexus/?url=acestream://ae664f83efa194f0995b5958e96e41542097d334&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 2 (NHA)
+plugin://program.plexus/?url=acestream://bdcfa556de446e76f8b9a214ad559d6b5d969ac6&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 3 (NHA)
+plugin://program.plexus/?url=acestream://5d7e51e94a04dc42cb242ea77fca6b2c9fc05c6e&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 4 (NHA)
+plugin://program.plexus/?url=acestream://16d1f0beb95b67d87caf1cafb57b179d5e97af21&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 5
+plugin://program.plexus/?url=acestream://8a6af8a86a1a1f0bf8d712edd083e94b8a4a2288&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 6
+plugin://program.plexus/?url=acestream://9b072f304695042c02f4bf71cd0cda778b7f23b1&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 8 (NHA)
+plugin://program.plexus/?url=acestream://9f9031ec845d4db424693618a199127399ee0ae8&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 9 (NHA)
+plugin://program.plexus/?url=acestream://9d125a9277f925311069c87a744942b40564cc5e&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 11
+plugin://program.plexus/?url=acestream://a83685c22e08073bb5e6abeff2e61d358c8dc6d5&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 12
+plugin://program.plexus/?url=acestream://adebea4cc7b66f42bdbd42cb8c9b3b478c27ff8f&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 13
+plugin://program.plexus/?url=acestream://63ef7d2e55e335d260b2cfd71944817a36859d16&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 14
+plugin://program.plexus/?url=acestream://a958ae3c76aeb2c848dead176a106084eaf40a8e&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 15
+plugin://program.plexus/?url=acestream://fa2ef8a3ef4390611fff4922fda95b969c8ad73f&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 16
+plugin://program.plexus/?url=acestream://a1fee08b446425ad331dd1a73157448e81d23acb&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 17
+plugin://program.plexus/?url=acestream://685dbff4399f831bd92312be8564c4b11beab9a7&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 18
+plugin://program.plexus/?url=acestream://c6a3f78908f6eaf26e1baf68608bdd68a1c0a073&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 20
+plugin://program.plexus/?url=acestream://de0f2fb43703c1c29e07ca66b4af533080fcfa2f&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 21
+plugin://program.plexus/?url=acestream://d9aa807f3db23c5b38caabe855abdeedf2608f18&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 22
+plugin://program.plexus/?url=acestream://e794b80d587b2ad9bc46a15886ef9b3af89ce3a1&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 25
+plugin://program.plexus/?url=acestream://c4457f740255d3b429b99fb64ad4b142c8232d74&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 26 (NHA)
+plugin://program.plexus/?url=acestream://a4dbdfa7d87ba4a7f5ff015b2e0f328bf85baf7c&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 27 (NHA)
+plugin://program.plexus/?url=acestream://cada00c06ba1f6d64ee09814520579923a10c931&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 28
+plugin://program.plexus/?url=acestream://69256c22c62f9d1887739af05eaec21f33f34acc&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 29
+plugin://program.plexus/?url=acestream://33e20323d6bb106cf30580770ecd1008eda2f7d0&mode=1&name=
+#EXTINF:-1 group-title="Kodi" tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 30
+plugin://program.plexus/?url=acestream://95ed2a4ca0eac0689dcf8df6f901eb3c320151ff&mode=1&name=
+
+#EXTINF:-1 group-title="Box TV",[COLOR cyan][B]<<III>> XEM TRONG BOX TV[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 group-title="Box TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Box TV Đã Cài App Sopcast & App Acestreams
 http://www.youtube.com
 #EXTINF:-1 group-title="Box TV" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",-> Vào cài đặt của IPTV>chọn"người chơi đang Streaming"> chọn"hệ thống" ở cuối bảng
 http://www.youtube.com
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT1 (NHA)*
+#EXTINF:-1 group-title="Box TV" tvg-logo="http://www.skytelephonenumber.com/wp-content/uploads/2015/01/sky-sports-logo-uk.jpg",UK:SKY SPORT1 (NHA)
 acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d
-#EXTINF:-1 group-title="Box TV" tvg-logo="",ACESTREAMS 1 (NHA)*
-acestream://ae664f83efa194f0995b5958e96e41542097d334
-#EXTINF:-1 group-title="Box TV" tvg-logo="",ACESTREAMS 3 (NHA)*
-acestream://5d7e51e94a04dc42cb242ea77fca6b2c9fc05c6e
-#EXTINF:-1 group-title="Box TV" tvg-logo="",ACESTREAMS 5 (NHA)*
-acestream://8a6af8a86a1a1f0bf8d712edd083e94b8a4a2288
-#EXTINF:-1 group-title="Box TV" tvg-logo="",ACESTREAMS 8 (NHA)*
-acestream://9f9031ec845d4db424693618a199127399ee0ae8
-#EXTINF:-1 group-title="Box TV" tvg-logo="",ACESTREAMS 11 (NHA)*
-acestream://a83685c22e08073bb5e6abeff2e61d358c8dc6d5
-#EXTINF:-1 group-title="Box TV" tvg-logo="",ACESTREAMS 26 (NHA)*
-acestream://a4dbdfa7d87ba4a7f5ff015b2e0f328bf85baf7c
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 1 (NHA)
+acestream://ae664f83efa194f0995b5958e96e41542097d334/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 2 (NHA)
+acestream://bdcfa556de446e76f8b9a214ad559d6b5d969ac6/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 3 (NHA)
+acestream://5d7e51e94a04dc42cb242ea77fca6b2c9fc05c6e/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 4 (NHA)
+acestream://16d1f0beb95b67d87caf1cafb57b179d5e97af21/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 5
+acestream://8a6af8a86a1a1f0bf8d712edd083e94b8a4a2288/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 6
+acestream://9b072f304695042c02f4bf71cd0cda778b7f23b1/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 8 (NHA)
+acestream://9f9031ec845d4db424693618a199127399ee0ae8/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 9 (NHA)
+acestream://9d125a9277f925311069c87a744942b40564cc5e/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 11
+acestream://a83685c22e08073bb5e6abeff2e61d358c8dc6d5/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 12
+acestream://adebea4cc7b66f42bdbd42cb8c9b3b478c27ff8f/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 13
+acestream://63ef7d2e55e335d260b2cfd71944817a36859d16/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 14
+acestream://a958ae3c76aeb2c848dead176a106084eaf40a8e/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 15
+acestream://fa2ef8a3ef4390611fff4922fda95b969c8ad73f/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 16
+acestream://a1fee08b446425ad331dd1a73157448e81d23acb/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 17
+acestream://685dbff4399f831bd92312be8564c4b11beab9a7/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 18
+acestream://c6a3f78908f6eaf26e1baf68608bdd68a1c0a073/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 20
+acestream://de0f2fb43703c1c29e07ca66b4af533080fcfa2f/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 21
+acestream://d9aa807f3db23c5b38caabe855abdeedf2608f18/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 22
+acestream://e794b80d587b2ad9bc46a15886ef9b3af89ce3a1/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 25
+acestream://c4457f740255d3b429b99fb64ad4b142c8232d74/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 26 (NHA)
+acestream://a4dbdfa7d87ba4a7f5ff015b2e0f328bf85baf7c/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 27 (NHA)
+acestream://cada00c06ba1f6d64ee09814520579923a10c931/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 28
+acestream://69256c22c62f9d1887739af05eaec21f33f34acc/
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 29
+acestream://33e20323d6bb106cf30580770ecd1008eda2f7d0
+#EXTINF:-1 group-title="Box TV"  tvg-logo="https://s28.postimg.org/fxrj187pp/ace.jpg", Ace 30
+acestream://95ed2a4ca0eac0689dcf8df6f901eb3c320151ff/
 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
-sop://broker.sopcast.com:3912/149261 
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 2
-sop://broker.sopcast.com:3912/149259 
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 3
-sop://broker.sopcast.com:3912/149255 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Film Cafe
-sop://broker.sopcast.com:3912/256238 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",TV1000
-sop://broker.sopcast.com:3912/256337 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Filmbox
-sop://broker.sopcast.com:3912/148981 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s28.postimg.org/llmsvh9ct/frocinema.jpg",Fro Cinema
-sop://broker.sopcast.com:3912/148249 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s27.postimg.org/dfo48lyab/divauni.jpg",DIVA UNIVERSAL
-sop://broker.sopcast.com:3912/253034 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s28.postimg.org/lyq86n2pp/paramo.jpg",PARAMOUNT
-sop://broker.sopcast.com:3912/253033 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Boomerang
-sop://broker.sopcast.com:3912/149264 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network
-sop://broker.sopcast.com:3912/148254 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s24.postimg.org/ffzer71xx/disney.jpg",DISNEY
-sop://broker.sopcast.com:3912/253031 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s28.postimg.org/of5s1whi5/disneyjr.jpg",DISNEY JR
-sop://broker.sopcast.com:3912/256239 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s29.postimg.org/r4hnzsdtj/megamax.jpg",MEGAMAX
-sop://broker.sopcast.com:3912/256328 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s29.postimg.org/y3vtg49nb/nicke.jpg",NICKELODEON
-sop://broker.sopcast.com:3912/253472 
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
-sop://broker.sopcast.com:3912/148248 
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",NatGeo Wild
-sop://broker.sopcast.com:3912/253037 
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
-sop://broker.sopcast.com:3912/256241 
-#EXTINF:-1 group-title="Box TV" tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Discovery Science
-sop://broker.sopcast.com:3912/256243 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s27.postimg.org/65pv3fcqr/discoveryid.png",Discovery ID
-sop://broker.sopcast.com:3912/256244 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
-sop://broker.sopcast.com:3912/148257 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s23.postimg.org/gd53j7e17/history.jpg",HISTORY
-sop://broker.sopcast.com:3912/253032 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s24.postimg.org/gpytq8sd1/viasathistory.jpg",VIASAT HISTORY
-sop://broker.sopcast.com:3912/151300 
-#EXTINF:-1 group-title="Box TV" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",TLC
-sop://broker.sopcast.com:3912/148256 
