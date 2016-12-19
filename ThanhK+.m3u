@@ -1,53 +1,87 @@
-﻿#EXTM3U thanh51
+<item>
+<title>[COLOR red][B]Mục 1 - Xem bằng link K+ (Tiếng Việt)[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR deepskyblue][B]-> K+ có thể chỉ phát các ngày cuối tuần[/B][/COLOR]</title> 
+<link>http://ignora.me</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR deepskyblue][B]-> Chọn kênh & xem theo lịch tại mục 2[/B][/COLOR]</title> 
+<link>http://ignora.me</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR deepskyblue][B]-> Xem trước trận đấu > 30 phút để không bị nghẽn mạng[/B][/COLOR]</title> 
+<link>http://ignora.me</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(253096)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&amp;mode=2&amp;name=K+(253096)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(259091)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&amp;mode=2&amp;name=K+(259091)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(259400)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&amp;mode=2&amp;name=K+(259400)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(262679)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262679&amp;mode=2&amp;name=K+(262679)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(263117)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/263117&amp;mode=2&amp;name=K+(263117)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
+<item>
+<title>K+(259258)</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&amp;mode=2&amp;name=K+(259258)</link>
+<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR red][B]Xem Bóng Đá Anh (PREMIER LEAGUE) Bằng Link K+[/B][/COLOR]
-http://www.youtube.com
 
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Kodi Đã Cài Addon Plexus[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> K+ Có Thể Chỉ Phát Vào các Ngày Cuối Tuần [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Nên xem trước trận đấu > 30 phút để tránh nghẽn mạng [/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]-> Chọn Kênh Xem Theo Lịch Thi Đấu[/B][/COLOR]
-http://www.youtube.com
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(253096) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259091) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259400) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(262679) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262679&mode=2&name=K+(262679) 
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/7f47nbf35/image.jpg",K+(259258) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259258&mode=2&name=K+(259258)
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR FF00FF00][B]LỊCH BÓNG ĐÁ NGOẠI HẠNG ANH THEO GIỜ VIỆT NAM (Updated ngày 18/12/2016)[/B][/COLOR]
-http://
+<item>
+<title>[COLOR red][B]Mục 2 - Lịch & link xem bóng đá (auto update)-Theo giờ VN+6 tiếng[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR dodgerblue]B[COLOR lightblue]F[/COLOR]X[/COLOR]: [COLOR greenyellow][B][makelist.param1][/COLOR] [COLOR springgreen][makelist.param2][/COLOR] [COLOR khaki][makelist.param3][/COLOR][COLOR cyan] [Channel [makelist.param4]][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BassFox Premier League:[makelist.param3]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.in/AV[makelist.param4]</page>
+			<referer>http://arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/2016-17-Premier-league-sleeve-patch-2.jpg</thumbnail>
+                        <fanart>https://cdn0.vox-cdn.com/thumbor/yUs4pWI4BLTSsN0_4ShM-9sS10c=/0x30:4126x2781/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/48779295/2016-bpl-logo.0.0.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}PREMIER LEAGUE[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,75}317px">([0-9]+)</expres>
+<page>http://arenavision.in/schedule</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/2016-17-Premier-league-sleeve-patch-2.jpg</thumbnail>
+<fanart>https://cdn0.vox-cdn.com/thumbor/yUs4pWI4BLTSsN0_4ShM-9sS10c=/0x30:4126x2781/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/48779295/2016-bpl-logo.0.0.jpg</fanart>
+</item>
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 12 2016: WEST BROMWICH ALBION-MANCHESTER UNITED 00:30[/B][/COLOR] 
-http://
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 12 2016: Bournemouth AFC vs Southampton 20:30[/B][/COLOR] 
-http://
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 18 12 2016: Manchester City vs Arsenal 23:00[/B][/COLOR] 
-http://
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 20 12 2016: Everton vs Liverpool 03:00[/B][/COLOR] 
-http://
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 12 2016: Watford vs Crystal Palace 19:30[/B][/COLOR] 
-http://
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 12 2016: ARSENAL-WEST BROMWICH ALBION 22:00[/B][/COLOR] 
-http://
 
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 12 2016: CHELSEA-BOURNEMOUTH 22:00[/B][/COLOR] 
-http://
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 26 12 2016: MANCHESTER UNITED-SUNDERLAND 22:00[/B][/COLOR] 
-http://
-
-#EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan][B]Ngày 27 12 2016: Hull City vs Manchester City 00:15[/B][/COLOR] 
-http://
