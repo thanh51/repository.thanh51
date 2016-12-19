@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
 
@@ -56,6 +56,7 @@
 
 
 
+
 <item>
 <title>[COLOR red][B]Mục 2 - Lịch & link xem bóng đá (auto update)-Theo giờ VN+6 tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -84,30 +85,19 @@
 <fanart>https://cdn0.vox-cdn.com/thumbor/yUs4pWI4BLTSsN0_4ShM-9sS10c=/0x30:4126x2781/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/48779295/2016-bpl-logo.0.0.jpg</fanart>
 </item>
 
+
+
+<item>
+<title>[COLOR red][B]Mục 3 - Kênh giải trí[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/KenhGiaitri.xml</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
 </items>
 </channel>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
