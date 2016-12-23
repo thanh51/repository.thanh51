@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+
+<item>
+<title>[COLOR FF00FF00][B]XEM BÓNG ĐÁ NGOẠI HẠNG ANH THEO GIỜ VIỆT NAM (Updated ngày 23/12/2016)[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]Cần addon Plexus[/COLOR]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ngày 26 12 2016: Watford vs Crystal Palace 19:30</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace26</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av26</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+<item>
+<title>Ngày 26 12 2016: BOXING DAY SIMULCAST 22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace8</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av8</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+<item>
+<title>Ngày 26 12 2016: ARSENAL Vs WEST BROMWICH ALBION 22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+<item>
+<title>Ngày 26 12 2016: CHELSEA Vs BOURNEMOUTH 22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace1</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av1</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 26 12 2016: MANCHESTER UNITED Vs SUNDERLAND 22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace5</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av5</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 27 12 2016: Hull City vs Manchester City 00:15</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace8</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av8</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 28 12 2016: Liverpool vs Stoke City 00:15</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 29 12 2016: Southampton vs Tottenham Hotspur 02:45</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 31 12 2016: CHELSEA Vs STOKE CITY 22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+<item>
+<title>Ngày 01 01 2017: Liverpool vs Manchester City 00:30</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 01 01 2017: Watford vs Tottenham Hotspur 20:30</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 01 01 2017: Arsenal vs Crystal Palace 23:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 02 01 2017: Middlesbrough vs Leicester City 19:30</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 02 01 2017:MANCHESTER CITY Vs BURNLEY  22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 02 01 2017: SUNDERLAND Vs LIVERPOOL 22:00</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+<item>
+<title>Ngày 03 01 2017: West Ham United vs Manchester United 00:15</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ngày 04 01 2017 : Bournemouth AFC vs Arsenal 02:45</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+/////////////////////////////////////////////////////
+
+
+</channels>
+
+
+
+
+
