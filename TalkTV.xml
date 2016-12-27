@@ -53,6 +53,17 @@
 </item> 
 //////////////////
 <item>
+<title>XEM PHIM (by cafefilmhd)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/cafefilmhd</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+//////////////////
+<item>
 <title>XEM PHIM (by www.faphim.net)</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -63,6 +74,7 @@
 </regex>
 </item> 
 //////////////////
+
 
 </items>    
 </channel>
