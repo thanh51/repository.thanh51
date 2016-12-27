@@ -255,18 +255,6 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB
 http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
 
-#EXTINF:-1 group-title="US" tvg-logo="",USA:A&E HD
-http://185.152.64.236/p2p/ce425ca32dea0f37b22717ae989bcffb.m3u8?st=GgCsbbxNU2GlJSHaX5VZRA&e=1482725688|User-Agent=Mozilla%2F5.0 (Linux%3B Android 5.1.1%3B Nexus 5 Build%2FLMY48B%3B wv) AppleWebKit%2F537.36 (KHTML%2C like Gecko) Version%2F4.0 Chrome%2F43.0.2357.65 Mobile Safari%2F537.36&referer=mobdro.me
-#EXTINF:-1 group-title="US" tvg-logo="",USA:AMC HD
-http://185.152.64.235/p2p/b06316b29b6c788ecf95287567cb2a3a.m3u8?st=OpvWd1UGXKKDLE7kGiM2-Q&e=1482725704|User-Agent=Mozilla%2F5.0 (Linux%3B Android 5.1.1%3B Nexus 5 Build%2FLMY48B%3B wv) AppleWebKit%2F537.36 (KHTML%2C like Gecko) Version%2F4.0 Chrome%2F43.0.2357.65 Mobile Safari%2F537.36&referer=mobdro.me
-#EXTINF:-1 group-title="US" tvg-logo="",USA:TBS HD
-http://185.59.222.232/p2p/d377ff63e9e229343418ba065acb643f.m3u8?st=tJrB8vokt492Mypy-jRGxg&e=1482725719|User-Agent=Mozilla%2F5.0 (Linux%3B Android 5.1.1%3B Nexus 5 Build%2FLMY48B%3B wv) AppleWebKit%2F537.36 (KHTML%2C like Gecko) Version%2F4.0 Chrome%2F43.0.2357.65 Mobile Safari%2F537.36&referer=mobdro.me
-#EXTINF:-1 group-title="US" tvg-logo="",USA:TNT HD
-http://185.152.64.236/p2p/e00dd9ccbf6cba8e47ca458993f307c1.m3u8?st=SzpOCWVmIch9BApWWfxsuQ&e=1482725735|User-Agent=Mozilla%2F5.0 (Linux%3B Android 5.1.1%3B Nexus 5 Build%2FLMY48B%3B wv) AppleWebKit%2F537.36 (KHTML%2C like Gecko) Version%2F4.0 Chrome%2F43.0.2357.65 Mobile Safari%2F537.36&referer=mobdro.me
-#EXTINF:-1 group-title="US" tvg-logo="",USA:USA Network HD
-http://185.59.222.232/p2p/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8?st=9VtWf_9zBxZX-OHFdmdaTA&e=1482725778|User-Agent=Mozilla%2F5.0 (Linux%3B Android 5.1.1%3B Nexus 5 Build%2FLMY48B%3B wv) AppleWebKit%2F537.36 (KHTML%2C like Gecko) Version%2F4.0 Chrome%2F43.0.2357.65 Mobile Safari%2F537.36&referer=mobdro.me
-#EXTINF:-1 group-title="US" tvg-logo="",USA:CNN HD
-http://185.59.222.232/p2p/fb655e03035550c14fc2bcc65d40cff8.m3u8?st=TZdXxjCxDgvBw6Z2ojtB4A&e=1482799447|User-Agent=Mozilla%2F5.0 (Linux%3B Android 5.1.1%3B Nexus 5 Build%2FLMY48B%3B wv) AppleWebKit%2F537.36 (KHTML%2C like Gecko) Version%2F4.0 Chrome%2F43.0.2357.65 Mobile Safari%2F537.36&referer=mobdro.me
 #EXTINF:-1 group-title="US" tvg-logo="",USA:LONDON LIVE 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="",USA:BBC AMERICA 
@@ -378,8 +366,6 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Tom And Jerry
-rtmp://208.53.164.194/live? playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tom.html
 
 #EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
@@ -432,6 +418,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 
 
 
