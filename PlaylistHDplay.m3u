@@ -135,9 +135,9 @@ http://14.161.5.88:1935/live/myStream/playlist.m3u8
 http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10  
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s1
 http://117.103.224.222:1935/live/_definst_/smil:iTVHD_2016.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s2
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
 http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
@@ -330,6 +330,16 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&mode=2&name=HI
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&mode=2&name=VIASAT HISTORY
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",TLC
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&mode=2&name=TLC
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i.imgur.com/Pi3AFTe.png",AXN HD POLSKA
+rtmp://31.220.40.59/live/ playpath=aaaxnnna?keys=Uo4tLcxFFvfknA5YcL6VEQ&keyt=1482751065 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=aaaxnnna&height=490&width=640
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",CINEMAX HD
+rtmp://31.220.0.13/privatestream/ playpath=cinnnemmaxxx?keys=TcCcDheK_2VDOSlzIHQ2dA&keyt=1482751196 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cinnnemmaxxx&width=640&height=430
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/ufkgmw3x9/canalfilm.png",CANAL PLUS HD
+rtmp://31.220.40.63/live/ playpath=canalplusasssss?keys=vWm1tcqPXk8XFUw4hCX-Kg&keyt=1482751304 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=canalplusasssss&height=490&width=640
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/ufkgmw3x9/canalfilm.png",CANAL PLUS FAMILY HD
+rtmp://31.220.40.59/live/ playpath=cplusasfamily?keys=2Z2KDcfU6WGiSQqT14yqYQ&keyt=1482751377 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=cplusasfamily&height=480&width=640
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/ufkgmw3x9/canalfilm.png",CANAL PLUS FILM HD
+rtmp://31.220.40.60/live/ playpath=cplusasfilm?keys=5qDCObU7MuvT_nFodKY9pw&keyt=1482751462 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=cplusasfilm&height=480&width=640
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
@@ -418,6 +428,8 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
 
 
 
