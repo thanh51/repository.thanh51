@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 28.12.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 29.12.2016[/B][/COLOR]
 http://textuploader.com
 
 
@@ -97,6 +97,8 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png",VTV1 HD 
+http://118.107.68.10:1935/live/_definst_/VTV1HD_1280x720_07122016/playlist.m3u8 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
 http://123.30.185.126/hls/vtv2.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
@@ -120,9 +122,13 @@ rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 http://117.103.224.222:1935/live/_definst_/VTCPlay_music/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
 http://123.30.185.126/hls/vtc1.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://tv.vnn.vn/Images/tv/vtc1%20.png",VTC1 HD 
+http://118.107.68.10:1935/live/_definst_/smil:VTC1HD_2016_05122016.smil/playlist.m3u8 
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+#EXTINF:-1 group-title="VTC" tvg-logo="http://tv.vnn.vn/Images/tv/vtc3%20.png",VTC3 HD s1
+http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7  
 http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8
@@ -353,6 +359,24 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV15 
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",Taiwan:Asia channel
+http://211.22.61.109/sta/ch323051.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:CN
+http://211.22.61.109/sta/ch323058.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:Animal Planet
+http://211.22.61.109/sta/ch323052.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://s17.postimg.org/3q0vawnov/asian_food_channel.png",Taiwan:Asian Food Channel
+http://211.22.61.109/sta/ch323060.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://s22.postimg.org/5iujjsp8x/Logo_Da_Vinci_Learning.png",Taiwan:DaVinci Learning
+http://211.22.61.109/sta/ch323079.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://s13.postimg.org/3oruk6ejr/TLC_Logo_2016.png",Taiwan:TLC
+http://211.22.61.109/sta/CH323059.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_iConcerts.png",Taiwan:IConcerts
+http://211.22.61.109/sta/ch323075.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="http://www.fashionone.com/images/2013/logo.png",Taiwan:Fashion One
+http://211.22.61.109/sta/ch323071.m3u8
+#EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:GOOD TV
+http://211.22.61.109/sta/ch323053.m3u8
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
@@ -409,28 +433,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
