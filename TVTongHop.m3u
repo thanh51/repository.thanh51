@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 29.12.2016[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 31.12.2016[/B][/COLOR]
 http://textuploader.com
 
 
@@ -10,9 +10,23 @@ http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg", Champions League
+#EXTINF:-1 group-title="Sports" tvg-logo=",China:Sports HD s1
+http://kk.luoke.net.cn/hd/nxcatv.php?id=165.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",China:Sports HD s2
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",China:Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 s1
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 s2
+http://kk.luoke.net.cn/hd/nxcatv.php?id=005.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD s1
+http://kk.luoke.net.cn/hd/nxcatv.php?id=120.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD s2
+http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg", Bóng rổ
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
@@ -34,20 +48,6 @@ http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8
 http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 5 HD
 http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.org/f4qv8i2d3/winsport.png",WIN SPORT
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
-http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Sports HD
-http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s1
-http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s2
-http://223.75.3.82:8081/live/live2/CCTV5HD/4000/CCTV5HD-4000-node5.m3u8?fmt=x264_4000k_mpegts&authType=2&node=5&type=live
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s1
-http://223.75.3.82:8081/live/live2/CCTV5HHD/4000/CCTV5HHD-4000-node4.m3u8?fmt=x264_4000k_mpegts&&authType=2&node=4&type=live
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s2
-http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC National HD
 http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s13.postimg.org/wcw5q2psn/pac.jpg",PAC National 
@@ -90,6 +90,8 @@ http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/3.m3u8
 http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/4.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png",NBA
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.org/f4qv8i2d3/winsport.png",WIN SPORT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
@@ -323,46 +325,34 @@ http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?w
 #EXTINF:-1 group-title="KOREA",Korea:LIHAT TV
 http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
 
-#EXTINF:-1 group-title="CHINA",China:CCTV-1HD
-http://223.75.3.82:8081/live/live1/CCTV1HD/4000/CCTV1HD-4000-node3.m3u8?fmt=x264_4000k_mpegts&authType=2&node=3&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-3HD
-http://223.75.3.82:8081/live/live2/CCTV3HD/4000/CCTV3HD-4000-node3.m3u8?fmt=x264_4000k_mpegts&authType=2&node=3&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-5HD
-http://223.75.3.82:8081/live/live2/CCTV5HD/4000/CCTV5HD-4000-node5.m3u8?fmt=x264_4000k_mpegts&authType=2&node=5&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-5+HD
-http://223.75.3.82:8081/live/live2/CCTV5HHD/4000/CCTV5HHD-4000-node4.m3u8?fmt=x264_4000k_mpegts&&authType=2&node=4&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-6HD
-http://223.75.3.82:8081/live/live1/CCTV6HD/4000/CCTV6HD-4000-node2.m3u8?fmt=x264_4000k_mpegts&authType=2&node=2&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-8HD
-http://223.75.3.82:8081/live/live2/CCTV8HD/4000/CCTV8HD-4000-node2.m3u8?fmt=x264_4000k_mpegts&authType=2&node=2&type=live
 #EXTINF:-1 group-title="CHINA",China:CCTV-1
-http://223.75.3.82:8081/live/live2/CCTV1/2000/CCTV1-2000-node1.m3u8?fmt=x264_2000k_mpegts&authType=2&node=1&type=live
+http://kk.luoke.net.cn/hd/nxcatv.php?id=001.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV-2
-http://223.75.3.82:8081/live/live5/CCTV2/2000/CCTV2-2000-node4.m3u8?fmt=x264_2000k_mpegts&authType=2&node=4&type=live
+http://kk.luoke.net.cn/hd/nxcatv.php?id=002
+#EXTINF:-1 group-title="CHINA",China:CCTV-2HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=137.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV-3
-http://223.75.3.82:8081/live/live5/CCTV3/2000/CCTV3-2000-node5.m3u8?fmt=x264_2000k_mpegts&authType=2&node=5&type=live
+http://kk.luoke.net.cn/hd/nxcatv.php?id=003.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-3HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=129.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV-4
-http://223.75.3.82:8081/live/live1/CCTV4/2000/CCTV4-2000-node4.m3u8?fmt=x264_2000k_mpegts&authType=2&node=4&type=live
+http://kk.luoke.net.cn/hd/nxcatv.php?id=004.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV-5
-http://223.75.3.82:8081/live/live1/CCTV5/2000/CCTV5-2000-node5.m3u8?fmt=x264_2000k_mpegts&authType=2&node=5&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-6
-http://223.75.3.82:8081/live/live3/CCTV6/2000/CCTV6-2000-node6.m3u8?fmt=x264_2000k_mpegts&authType=2&node=6&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-7
-http://223.75.3.82:8081/live/live5/CCTV7/2000/CCTV7-2000-node6.m3u8?fmt=x264_2000k_mpegts&authType=2&node=6&type=live
+http://kk.luoke.net.cn/hd/nxcatv.php?id=005.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-5+HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=120.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-6HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=131.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-7HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=138.m3u8
 #EXTINF:-1 group-title="CHINA",China:CCTV-8
-http://223.75.3.82:8081/live/live3/CCTV8/2000/CCTV8-2000-node4.m3u8?fmt=x264_2000k_mpegts&authType=2&node=4&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-9
-http://223.75.3.82:8081/live/live1/CCTV9/2000/CCTV9-2000-node6.m3u8?fmt=x264_2000k_mpegts&authType=2&node=6&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-10
-http://223.75.3.82:8081/live/live4/CCTV10/2000/CCTV10-2000-node4.m3u8?fmt=x264_2000k_mpegts&authType=2&node=4&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-11
-http://223.75.3.82:8081/live/live4/CCTV11/2000/CCTV11-2000-node5.m3u8?fmt=x264_2000k_mpegts&authType=2&node=5&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-13
-http://223.75.3.82:8081/live/live5/CCTVNEWS/2000/CCTVNEWS-2000-node4.m3u8?fmt=x264_2000k_mpegts&authType=2&node=4&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-14
-http://223.75.3.82:8081/live/live4/CCTVSER/2000/CCTVSER-2000-node6.m3u8?fmt=x264_2000k_mpegts&authType=2&node=6&type=live
-#EXTINF:-1 group-title="CHINA",China:CCTV-15
-http://223.75.3.82:8081/live/live4/CCTVYY/2000/CCTVYY-2000-node6.m3u8?fmt=x264_2000k_mpegts&authType=2&node=6&type=live
+http://kk.luoke.net.cn/hd/nxcatv.php?id=008.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-8HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=132.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-10HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=140.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-12HD
+http://kk.luoke.net.cn/hd/nxcatv.php?id=141.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",Taiwan:Asia channel
 http://211.22.61.109/sta/ch323051.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:CN
@@ -437,6 +427,11 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
 
 
 
