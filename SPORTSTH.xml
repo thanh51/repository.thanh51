@@ -3,37 +3,66 @@
 
 		
                 <item>
-		<title>[COLOR cyan][B]BÓNG ĐÁ NGOẠI HẠNG ANH (1) - Cần Addon Plexus [/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]BÓNG ĐÁ NGOẠI HẠNG ANH (1) - Cần Addon Plexus [/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/NHAnh.xml</externallink>
 		</item> 
 		///////////////////////////////////////
                  <item>
-		<title>[COLOR cyan][B]BÓNG ĐÁ NGOẠI HẠNG ANH (2) - Cần Addon Plexus [/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]BÓNG ĐÁ NGOẠI HẠNG ANH (2) - Cần Addon Plexus [/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/NHAnh2.xml</externallink>
 		</item> 
 		///////////////////////////////////////          
                <item>
-		<title>[COLOR cyan][B]THỂ THAO QUỐC TẾ (Auto Update)- Cần Addon Plexus[/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]THỂ THAO QUỐC TẾ (Auto Update)- Cần Addon Plexus[/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TTQTTH.xml</externallink>
 		</item> 
 		///////////////////////////////////////                  
                 <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS 1[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Sport1.xml</externallink>
-		</item> 
+<title>[COLOR cyan][B]CHANNELS SPORTS 1[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+   <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[COLOR lightblue][makelist.param1][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' if not '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'=='' else '$doregex[hls]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'</expres>
+<page></page>
+</regex>
+<regex>
+<name>progressive</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<regex>
+<name>hls</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
+
+
+]]></listrepeat>
+<expres><![CDATA[title=(.*?)&channel=(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/sports-channels.php</page>
+
+</regex>
+<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
+</item>
 		///////////////////////////////////////          
                  <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS 2[/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]CHANNELS SPORTS 2[/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Sport3.m3u</externallink>
 		</item> 
 		///////////////////////////////////////
                 <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS 3[/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]CHANNELS SPORTS 3[/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus1.xml</externallink>
 		</item> 
