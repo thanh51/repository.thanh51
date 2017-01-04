@@ -1,12 +1,17 @@
 #EXTM3U thanh51
 
-#EXTINF:-1 tvg-logo="https://s4.postimg.org/oeb54omct/chungchocacmang.png",[COLOR red][B]********** Xem Chung Các Mạng Internet *********[/B][/COLOR]
+#EXTINF:-1,===========================================================================
+http://www.youtube.com
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng Internet *********[/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]Cần Addon Plexus[/B][/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR=yellow][B]>>>>>>>>Cần Addon Plexus<<<<<<<[/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/dxvriqhih/kenhtv.jpg",[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
+#EXTINF:-1,===========================================================================
+http://www.youtube.com
+
+#EXTINF:-1,[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
@@ -421,7 +426,7 @@ http://211.22.61.109/sta/ch323071.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:GOOD TV
 http://211.22.61.109/sta/ch323053.m3u8
 
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/4ub2zzn3r/phimth.jpg",[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
+#EXTINF:-1,[COLOR cyan][B]II - Phim Truyền Hình[/B][/COLOR]
 http://www.youtube.com
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -441,6 +446,10 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
 
 
 
