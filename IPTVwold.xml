@@ -1,5 +1,5 @@
 <item>
-<title> [COLOR red][B] Ultimate IPTV - Can addon f4mTester[/B] [/COLOR]</title>
+<title> [COLOR yellow][B] Ultimate IPTV (update hàng ngày) - Cần addon f4mTester[/B] [/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -26,48 +26,6 @@
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
-///////////////////////////////////////////////
-<item> 
-<title>[COLOR cyan][B]tv.iptvs.net:9000[/B][/COLOR]</title> 
-<link>ignore</link>
-  <externallink>http://tv.iptvs.net:9000/get.php?username=mutaz&amp;password=2RWDdYBw1J&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
-<page></page>
-</item> 
-//////////////////////////////////////////////
-<item> 
-<title>[COLOR cyan][B]163.172.217.53:8000[/B][/COLOR]</title> 
-<link>ignore</link>
-  <externallink>http://163.172.217.53:8000/get.php?username=5grandiptv915&amp;password=67863345&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
-<page></page>
-</item> 
-//////////////////////////////////////////////
-<item> 
-<title>[COLOR cyan][B]www.iptv-plus.net:25461[/B][/COLOR]</title> 
-<link>ignore</link>
-<externallink>http://www.iptv-plus.net:25461/get.php?username=test46&amp;password=test46&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
-<page></page>
-</item> 
-//////////////////////////////////////////////
-<item> 
-<title>[COLOR cyan][B]x.multimediaiptv.net:8999[/B][/COLOR]</title> 
-<link>ignore</link>
-<externallink>http://x.multimediaiptv.net:8999/get.php?username=stream&amp;password=multimedia&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
-<page></page>
-</item> 
-//////////////////////////////////////////////
-<item> 
-<title>[COLOR cyan][B]france.tvsng.com:25461[/B][/COLOR]</title> 
-<link>ignore</link>
-<externallink>http://france.tvsng.com:25461/get.php?username=xxFhhGxmep&amp;password=EKNsZ9glpE&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
-<page></page>
-</item> 
-//////////////////////////////////////////////
-
 
 
 
