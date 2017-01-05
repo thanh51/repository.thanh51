@@ -3,41 +3,69 @@
 <items>
 
 <item>
-<title>[COLOR red][B]********** Chung Cho Các Mạng Internet *********[/B][/COLOR]</title>
-<link></link>
+<title>==============================================</title>
+<link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
 
 <item>
-<title>[COLOR cyan][B]I - Kênh Thể Thao[/B][/COLOR]</title>
-<link></link>
+<title>[COLOR red][B]**********Xem Chung Cho Các Mạng Internet *********[/B][/COLOR]</title>
+<link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
 
 <item>
-<title>K+PC HD server VN</title>
-<link>http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS&VOD_RequestID=ebb8f400-f5e1-4d7f-8920-1450f39c4270</link>
-<thumbnail>logo-k-pc-hd-new_w150_h150</thumbnail>
-</item>   
+<title>[COLOR blue][B]>>>>>>>>>>>>>>>Cần addon Plexus<<<<<<<<<<<<<<<[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail>icon</thumbnail>
+</item>
  
+<item>
+<title>===============================================</title>
+<link>http://</link>
+<thumbnail>icon</thumbnail>
+</item>
+ 
+
+
+<item>
+<title>[COLOR cyan][B](I) - Kênh THỂ THAO [/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail>icon</thumbnail>
+</item>
+
+<item>
+<title>VTV6</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/keIENsc.png</thumbnail>
+</item>
+<item>
+<title>VTC3</title>
+<link>http://123.30.185.126/hls/vtc3.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+
 <item>
 <title>SUPERSPORTS</title>
 <link>http://46.105.161.243:8085/lighd</link>
-<thumbnail>tv</thumbnail>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV5 HD</title>
 <link>http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8</link>
-<thumbnail>tv</thumbnail>
+<thumbnail>http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png</thumbnail>
 </item>
-
 <item>
-<title>CCTV5+HD</title>
-<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8</link>
-<thumbnail>tv</thumbnail>
+<title>China:Star Sports HD</title>
+<link>http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8</link>
+<thumbnail>https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg</thumbnail>
 </item>
-
 <item>
 <title>China:Live 1-1080P</title>
 <link>http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8</link>
@@ -87,914 +115,598 @@
 </item>
 
 <item>
-<title>Fox Sports 2</title>
-<link>plugin://program.plexus/?url=sop://124.232.150.188:3920/5730&mode=2&name=Fox Sports 2</link>
-<thumbnail>tv</thumbnail>
+<title>China:Champions League</title>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
+<thumbnail>https://s23.postimg.org/3z1fchvmj/champions.jpg</thumbnail>
+</item>
+<item>
+<title>China:Bóng rổ</title>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
+<thumbnail>https://s28.postimg.org/oq0fmsb0t/bongro.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR cyan][B]II - Xem Bóng Đá Ngoại Hạng Anh Theo Giờ VN (Cần addon Plexus)[/B][/COLOR]</title>
-<link></link>
-<thumbnail>EPL</thumbnail>
+<title>SKY SPORTS 1</title>
+<link>http://1.442244.info/uk_sky_sports_1/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports1.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 2</title>
+<link>http://1.442244.info/uk_sky_sports_2/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports2.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 3</title>
+<link>http://1.442244.info/uk_sky_sports_3/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports3.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 4</title>
+<link>http://1.442244.info/uk_sky_sports_4/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports4.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 5</title>
+<link>http://1.442244.info/uk_sky_sports_5/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports5.png</thumbnail>
+</item>
+<item>
+<title>PREMIER SPORT</title>
+<link>http://1.442244.info/uk_premier_sport/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/premiersports.png</thumbnail>
+</item>
+<item>
+<title>M FOTBOL</title>
+<link>http://1.442244.info/sp_m_fotbol/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/canal%2Bfutbol.png</thumbnail>
+</item>
+<item>
+<title>LA LIGA TV</title>
+<link>http://1.442244.info/sp_laligatv_bar/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/canal%2Bliga.png</thumbnail>
+</item>
+<item>
+<title>BEIN LA LIGA</title>
+<link>http://1.442244.info/sp_bein_laliga/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARENA SPORT 1</title>
+<link>http://1.442244.info/ser_arena_sport_1/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARENA SPORT 2</title>
+<link>http://1.442244.info/ser_arena_sport_2/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARENA SPORT 3</title>
+<link>http://1.442244.info/ser_arena_sport_3/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 1</title>
+<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 2</title>
+<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 3</title>
+<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 4</title>
+<link>http://81.7.13.162/hls/ss4/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SPORT 1 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 2 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 3 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 4 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 5 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
+///////////////////////////////////////                  
 <item>
-<title>[COLOR=yellow][B]-> K+ (Server VN) Có Thể Phát Vào các Ngày Cuối Tuần [/B][/COLOR]</title>
-<link></link>
-<thumbnail>icon</thumbnail>
-</item>
+<title>[COLOR cyan][B]((II)) - KÊNH THỂ THAO KHÁC[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+   <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
 
-<item>
-<title>[COLOR=yellow][B]-> Nên xem trước trận đấu 30 phút để tránh nghẽn mạng [/B][/COLOR]</title>
-<link></link>
-<thumbnail>icon</thumbnail>
-</item> 
- 
-<item>
-<title>(21h00 ngày 22/10/16): ARSENAL Vs MIDDLESBROUGH</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)</link>
-<thumbnail>EPL</thumbnail>
-</item>
-<item>
-<item>
-<title>(21h00 ngày 22/10/16): LEICESTER CITY Vs CRYSTAL</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)</link>
-<thumbnail>EPL</thumbnail>
-</item>
-<item>
-<title>(23h30 ngày 22/10/16): LIVERPOOL Vs WEST BROMWICH ALBION</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&name=S10(262499)</link>
-<thumbnail>EPL</thumbnail>
-</item>
-<item>
-<title>(19h30 ngày 23/10/16): MANCHESTER CITY Vs SOUTHAMPTON</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)</link>
-<thumbnail>EPL</thumbnail>
-</item>
-<item>
-<title>(22h00 ngày 23/10/16): CHELSEA Vs MANCHESTER UNITED</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262491&mode=2&name=S2(262491)</link>
-<thumbnail>EPL</thumbnail>
-</item>
-
-<item>
-<title>K+(253096) - Server VN</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&mode=2&name=K+(253096)</link>
-<thumbnail>K_Plus</thumbnail>
-</item>
-
-<item>
-<title>K+(259091) - Server VN</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&mode=2&name=K+(259091)</link>
-<thumbnail>K_Plus</thumbnail>
-</item>
-
-<item>
-<title>K+(259400) - Server VN</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&mode=2&name=K+(259400)</link>
-<thumbnail>K_Plus</thumbnail>
-</item>
+<title>[COLOR lightblue][makelist.param1][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' if not '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'=='' else '$doregex[hls]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'</expres>
+<page></page>
+</regex>
+<regex>
+<name>progressive</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<regex>
+<name>hls</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
 
 
+]]></listrepeat>
+<expres><![CDATA[title=(.*?)&channel=(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/sports-channels.php</page>
 
+</regex>
+<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
+</item>
+//////////////////////////////////
 
 <item>
-<title>[COLOR cyan][B]III - Kênh TV Tổng Hợp[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((III)) - KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
 <link></link>
 <thumbnail>icon</thumbnail>
 </item>
 
 <item>
 <title>VTV1</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTV1 - THwI Sq</thumbnail>
+<link>http://123.30.185.126/hls/vtv1.m3u8</link>
+<thumbnail>http://i.imgur.com/JW8VXef.png</thumbnail>
 </item>
 
+<item>
+<title>VTV1 HD</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png</thumbnail>
+</item>
 <item>
 <title>VTV2</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTV2 - KHOA HgC GIAO DeC</thumbnail>
+<link>http://123.30.185.126/hls/vtv2.m3u8</link>
+<thumbnail>http://i.imgur.com/RwwN9B3.png</thumbnail>
 </item>
-
+<item>
+<title>VTV2 HD</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png</thumbnail>
+</item>
 <item>
 <title>VTV3</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8</link>
-<thumbnail>vtv3</thumbnail>
+<link>http://123.30.185.126/hls/vtv3.m3u8</link>
+<thumbnail>http://i.imgur.com/spL8IHO.png</thumbnail>
 </item>
-
 <item>
-<title>VTV3 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv3.720p.stream/chunklist.m3u8</link>
-<thumbnail>VTV3 HD FPT</thumbnail>
+<title>VTV4</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png</thumbnail>
 </item>
-
+<item>
+<title>VTV4 HD</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s24.postimg.org/3psdc8o11/vtv4hd.png</thumbnail>
+</item>
+<item>
+<title>VTV5</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png</thumbnail>
+</item>
 <item>
 <title>VTV6</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv6.360p.stream/chunklist.m3u8</link>
-<thumbnail>vtv6</thumbnail>
+<link>http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/keIENsc.png</thumbnail>
 </item>
-
 <item>
-<title>VTV6 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv6.720p.stream/chunklist.m3u8</link>
-<thumbnail>VTV6 HD FPT</thumbnail>
+<title>VTV8</title>
+<link>http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8</link>
+<thumbnail>https://s11.postimg.org/gi9l9vi4j/vtv8.jpg</thumbnail>
 </item>
-
 <item>
-<title>VTV9</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtv9.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTV9</thumbnail>
+<title>VOVNEWS</title>
+<link>http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png</thumbnail>
 </item>
-
 <item>
-<title>Nhan dan HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/nhandan.1080p.stream/chunklist.m3u8</link>
-<thumbnail>tv</thumbnail>
+<title>ANTV</title>
+<link>http://123.30.185.126/hls/antv.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png</thumbnail>
 </item>
 
 <item>
 <title>TTXVN</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/ttxvn.480p.stream/chunklist.m3u8</link>
-<thumbnail>tv</thumbnail>
+<link>http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png</thumbnail>
 </item>
-
-<item>
-<title>Quoc hoi</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/quochoi.480p.stream/chunklist.m3u8</link>
-<thumbnail>tv</thumbnail>
-</item>
-
 <item>
 <title>QPVN</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/qptv.480p.stream/chunklist.m3u8</link>
-<thumbnail>tv</thumbnail>
+<link>rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png</thumbnail>
+</item>
+<item>
+<title>NHÂN DÂN</title>
+<link>rtmp://203.162.121.235:1935/live/truyenhinhnhandan720</link>
+<thumbnail>https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png</thumbnail>
 </item>
 
 <item>
-<title>ANTV</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/antv.480p.stream/chunklist.m3u8</link>
-<thumbnail>ANTV - TH CAND</thumbnail>
+<title>VTVcab1</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/nmmH5NG.png</thumbnail>
+</item>
+<item>
+<title>VTVcab2</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/YNCzLp9.png</thumbnail>
+</item>
+<item>
+<title>VTVcab4</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/zr9dOPm.png</thumbnail>
+</item>
+<item>
+<title>VTVcab5</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/echannel_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/pFgmD7i.png</thumbnail>
+</item>
+<item>
+<title>VTVcab7</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/ddramas_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/Kyv11bZ.png</thumbnail>
+</item>
+<item>
+<title>VTVcab8</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/bibi_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/Sjc6xj8.png</thumbnail>
+</item>
+<item>
+<title>VTVcab9</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/infotv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/I6letfB.png</thumbnail>
+</item>
+<item>
+<title>VTVcab10</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/o2tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/aVP5nbS.png</thumbnail>
+</item>
+<item>
+<title>VTVcab11</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/tvshopping_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/Dh0hG7u.png</thumbnail>
+</item>
+<item>
+<title>VTVcab12</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/styletvhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/XhCmf93.png</thumbnail>
+</item>
+<item>
+<title>VTVcab14</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/Ew4EaPw.png</thumbnail>
+</item>
+<item>
+<title>VTVcab15</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/3ZbKdiV.png</thumbnail>
+</item>
+<item>
+<title>VTVcab17</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/2nOJwku.png</thumbnail>
 </item>
 
 <item>
-<title>GiaitriTV-VTVcab1</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/giaitritv.480p.stream/chunklist.m3u8</link>
-<thumbnail>VTVCab1 - GIqI TRI TV</thumbnail>
+<title>ANVIEN HD</title>
+<link>http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s29.postimg.org/b2fgjxxuv/anvienhd.jpg</thumbnail>
 </item>
+<item>
+<title>ANTG</title>
+<link>http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/j7NsBwD.png</thumbnail>
+</item>
+<item>
+<title>NCM BTV10</title>
+<link>http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png</thumbnail>
+</item>
+<item>
+<title>PHIMHAY</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png</thumbnail>
+</item>
+<item>
+<title>MIỀN TÂY</title>
+<link>http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png</thumbnail>
+</item>
+<item>
+<title>SAM TV BTV11</title>
+<link>http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png</thumbnail>
+</item>
+
 
 <item>
-<title>D-Dramas-VTVcab7</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/ddrama.480p.stream/chunklist.m3u8</link>
-<thumbnail>VTVCab7 - D DRAMAS</thumbnail>
+<title>VTC1</title>
+<link>http://123.30.185.126/hls/vtc1.m3u8</link>
+<thumbnail>http://i.imgur.com/VJ8DiUW.png</thumbnail>
 </item>
-
 <item>
 <title>VTC1 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc1.1080p.stream/chunklist.m3u8</link>
-<thumbnail>VTC1 HD - ToNG HcP VTC</thumbnail>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail>
+</item>
+<item>
+<title>VTC2</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/2MwvQXo.png</thumbnail>
+</item>
+<item>
+<title>VTC3 </title>
+<link>http://123.30.185.126/hls/vtc3.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>VTC4 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/fitz1bW.png</thumbnail>
+</item>
+<item>
+<title>VTC5 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/3QYpmSw.png</thumbnail>
+</item>
+<item>
+<title>VTC6</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/xXeBAok.png</thumbnail>
+</item>
+<item>
+<title>VTC7 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
+</item>
+<item>
+<title>VTC8 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/uPxgmeN.png</thumbnail>
+</item>
+<item>
+<title>VTC9 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
+</item>
+<item>
+<title>VTC10 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/5GpXF4g.png</thumbnail>
+</item>
+<item>
+<title>VTC11 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/Vg5XFcf.png</thumbnail>
+</item>
+<item>
+<title>VTC12 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/aKmAf9Z.png</thumbnail>
+</item>
+<item>
+<title>VTC13 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/ZIRi8xh.png</thumbnail>
+</item>
+<item>
+<title>VTC14 </title>
+<link>http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/annOIzX.png</thumbnail>
+</item>
+<item>
+<title>VTC14 HD </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg</thumbnail>
+</item>
+<item>
+<title>VTC16 </title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM VIET </title>
+<link>rtmp://vf10.aditmedia.net/ingestx/ivn_000105</link>
+<thumbnail>https://static-stage.sctv.vn/channel/84/PhimVietHD.png</thumbnail>
+</item>
+<item>
+<title>SCTV5</title>
+<link>http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8</link>
+<thumbnail>http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png</thumbnail>
 </item>
 
-<item>
-<title>VTC3 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8</link>
-<thumbnail>VTC3 HD - THw THAO</thumbnail>
-</item>
-
-<item>
-<title>VTC4</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc4.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTC4 - YEAH1 FAMILY</thumbnail>
-</item>
-
-<item>
-<title>VTC7 - TodayTV</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc7.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTC7 - TODAYTV</thumbnail>
-</item>
-
-<item>
-<title>VTC8 - ViewTV</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc8.360p.stream/chunklist.m3u8</link>
-<thumbnail>vtc8</thumbnail>
-</item>
-
-<item>
-<title>VTC9</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc9.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTC9 - LETS VIET</thumbnail>
-</item>
-
-<item>
-<title>VTC10</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc10.360p.stream/chunklist.m3u8</link>
-<thumbnail>VTC10 - NETVIET</thumbnail>
-</item>
-
-<item>
-<title>VTC11</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc11.480p.stream/chunklist.m3u8</link>
-<thumbnail>VTC11 - KIDSTV</thumbnail>
-</item>
-
-<item>
-<title>VTC14 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc14.1080p.stream/chunklist.m3u8</link>
-<thumbnail>VTC14</thumbnail>
-</item>
-
-<item>
-<title>VTC16</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vtc16.480p.stream/chunklist.m3u8</link>
-<thumbnail>VTC16</thumbnail>
-</item>
-
-<item>
-<title>HTV1</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htv1.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTV1</thumbnail>
-</item>
-
-<item>
-<title>HTV2 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htv2.720p.stream/chunklist.m3u8</link>
-<thumbnail>HTV2 HD</thumbnail>
-</item>
-
-<item>
-<title>HTV3</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htv3.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTV3</thumbnail>
-</item>
-
-<item>
-<title>HTV4</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htv4.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTV4</thumbnail>
-</item>
-
-<item>
-<title>HTV7 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htv7.720p.stream/chunklist.m3u8</link>
-<thumbnail>HTV7 HD</thumbnail>
-</item>
-
-<item>
-<title>HTV9 HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htv9.720p.stream/chunklist.m3u8</link>
-<thumbnail>HTV9 HD</thumbnail>
-</item>
-
-<item>
-<title>HTVC phim HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htvc_movies.720p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC PHIM HD</thumbnail>
-</item>
-
-<item>
-<title>HTVC Thuan Viet HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/thuan_viet.720p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC THUuN VIaT HD</thumbnail>
-</item>
-
-<item>
-<title>HTVC dulich</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/du_lich.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC DU LeCH</thumbnail>
-</item>
-
-<item>
-<title>HTVC giadinh</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/gia_dinh.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC GIA DINH</thumbnail>
-</item>
-
-<item>
-<title>HTVC phunu</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/phu_nu.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC PHe No</thumbnail>
-</item>
-
-<item>
-<title>HTVC canhac</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htvc_music.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC CA NHoC</thumbnail>
-</item>
-
-<item>
-<title>HTVC FBNC HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/fbnc.720p.stream/chunklist.m3u8</link>
-<thumbnail>FBNC</thumbnail>
-</item>
-
-<item>
-<title>HTVC shopping</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/shopping.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC-Shopping</thumbnail>
-</item>
-
-<item>
-<title>HTVC Plus (Channel B)</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/htvc_plus.360p.stream/chunklist.m3u8</link>
-<thumbnail>HTVC+ CHANEL B</thumbnail>
-</item>
-
-<item>
-<title>Phim hay</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/phimhay.480p.stream/chunklist.m3u8</link>
-<thumbnail>AVG - PHIM HAY</thumbnail>
-</item>
-
-<item>
-<title>Mien Tay</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/mientay.480p.stream/chunklist.m3u8</link>
-<thumbnail>AVG - MIEN TAY</thumbnail>
-</item>
-
-<item>
-<title>YouTV Hanoicab2</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/youtv.360p.stream/chunklist.m3u8</link>
-<thumbnail>YOUTV - HCaTV2</thumbnail>
-</item>
-
-<item>
-<title>Lao Cai</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/laocai.360p.stream/chunklist.m3u8</link>
-<thumbnail>LAO CAI</thumbnail>
-</item>
-
-<item>
-<title>Nam Dinh</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/namdinh.360p.stream/chunklist.m3u8</link>
-<thumbnail>NAM DeNH</thumbnail>
-</item>
-
-<item>
-<title>Lang Son</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/langson.360p.stream/chunklist.m3u8</link>
-<thumbnail>LoNG SON</thumbnail>
-</item>
-
-<item>
-<title>Bac Giang</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/bacgiang.360p.stream/chunklist.m3u8</link>
-<thumbnail>BcC GIANG</thumbnail>
-</item>
-
-<item>
-<title>Vinh Phuc</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vinhphuc.360p.stream/chunklist.m3u8</link>
-<thumbnail>VINH PHUC</thumbnail>
-</item>
-
-<item>
-<title>Hai duong</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/haiduong.360p.stream/chunklist.m3u8</link>
-<thumbnail>HqI DUONG</thumbnail>
-</item>
-
-<item>
-<title>Ninh Binh</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/ninhbinh.360p.stream/chunklist.m3u8</link>
-<thumbnail>NINH BINH</thumbnail>
-</item>
-
-<item>
-<title>Hue</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/hue.360p.stream/chunklist.m3u8</link>
-<thumbnail>tv</thumbnail>
-</item>
-
-<item>
-<title>Quang Nam</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/quangnam.360p.stream/chunklist.m3u8</link>
-<thumbnail>QUqNG NAM</thumbnail>
-</item>
-
-<item>
-<title>Binh Dinh</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/binhdinh.360p.stream/chunklist.m3u8</link>
-<thumbnail>BINH DeNH</thumbnail>
-</item>
-
-<item>
-<title>Khanh hoa</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/khanhhoa.360p.stream/chunklist.m3u8</link>
-<thumbnail>KHANH HOA</thumbnail>
-</item>
-
-<item>
-<title>Ðac Nong</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/dacnong.360p.stream/chunklist.m3u8</link>
-<thumbnail>DcC NONG</thumbnail>
-</item>
-
-<item>
-<title>Binh phuoc 1</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/binhphuoc.360p.stream/chunklist.m3u8</link>
-<thumbnail>BINH PHUuC 1</thumbnail>
-</item>
-
-<item>
-<title>Long an</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/longan.360p.stream/chunklist.m3u8</link>
-<thumbnail>LONG AN</thumbnail>
-</item>
-
-<item>
-<title>Tay Ninh</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/tayninh.360p.stream/chunklist.m3u8</link>
-<thumbnail>TAY NINH</thumbnail>
-</item>
-
-<item>
-<title>Vinh Long 1</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/vinhlong1.360p.stream/chunklist.m3u8</link>
-<thumbnail>VINH LONG 1</thumbnail>
-</item>
-
-<item>
-<title>Soc trang</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/soctrang.360p.stream/chunklist.m3u8</link>
-<thumbnail>SOC TRANG</thumbnail>
-</item>
-
-<item>
-<title>Dong thap 1</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/dongthap.360p.stream/chunklist.m3u8</link>
-<thumbnail>DmNG THAP</thumbnail>
-</item>
-
-<item>
-<title>An Giang</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/angiang.480.stream/chunklist.m3u8</link>
-<thumbnail>AnGiangTV</thumbnail>
-</item>
-
-<item>
-<title>Ca mau</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/camau.360p.stream/chunklist.m3u8</link>
-<thumbnail>CA MAU</thumbnail>
-</item>
-
-<item>
-<title>Starmovies HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8</link>
-<thumbnail>STAR MOVIES HD - PHIM TRUYaN</thumbnail>
-</item>
-
-<item>
-<title>Natgeo HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/natgeo.720p.stream/chunklist.m3u8</link>
-<thumbnail>NAT GEO HD</thumbnail>
-</item>
-
-<item>
-<title>Starworld HD</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/starworld.720p.stream/chunklist.m3u8</link>
-<thumbnail>STAR WORLD HD</thumbnail>
-</item>
-
-<item>
-<title>MTV</title>
-<link>http://210.245.18.144:8081/spsklfl/_definst_/mtv.360p.stream/chunklist.m3u8</link>
-<thumbnail>MTV</thumbnail>
-</item>
-
-<item>
-<title>Cinemax</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148882&mode=2&name=Cinemax</link>
-<thumbnail>CINEMAX - PHIM TRUYaN</thumbnail>
-</item>
 
 <item>
 <title>AXN</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253035&mode=2&name=AXN</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&amp;mode=2&amp;name=AXN</link>
 <thumbnail>AXN</thumbnail>
 </item>
-
 <item>
-<title>HBO</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO</link>
+<title>HBO 2</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&amp;mode=2&amp;name=HBO</link>
 <thumbnail>HBO</thumbnail>
 </item>
-
-<item>
-<title>HBO HD</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259497&mode=2&name=HBO HD</link>
-<thumbnail>HBO</thumbnail>
-</item>
-
 <item>
 <title>HBO 3</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&mode=2&name=HBO 3</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&amp;mode=2&amp;name=HBO HD</link>
 <thumbnail>HBO</thumbnail>
 </item>
-
 <item>
 <title>Film Cafe</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&mode=2&name=Film Cafe</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&amp;mode=2&amp;name=Film Cafe</link>
 <thumbnail>tv</thumbnail>
 </item>
-
 <item>
 <title>TV1000</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&amp;mode=2&amp;name=TV1000</link>
 <thumbnail>tv</thumbnail>
 </item>
-
 <item>
 <title>Filmbox</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&amp;mode=2&amp;name=Filmbox</link>
 <thumbnail>tv</thumbnail>
 </item>
-
+<item>
+<title>FRO CINEMA</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148249&amp;mode=2&amp;name=FRO CINEMA</link>
+<thumbnail>tv</thumbnail>
+</item>
 <item>
 <title>Boomerang</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&amp;mode=2&amp;name=Boomerang</link>
 <thumbnail>tv</thumbnail>
 </item>
-
 <item>
 <title>Cartoon Network</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network</link>
-<thumbnail>CARTOON NETWORK - HOoT HINH</thumbnail>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&amp;mode=2&amp;name=Cartoon Network</link>
+<thumbnail>CARTOON NETWORK - HOẠT HÌNH</thumbnail>
 </item>
-
 <item>
 <title>National Geographic</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&amp;mode=2&amp;name=National Geographic</link>
 <thumbnail>NATGEO</thumbnail>
 </item>
-
-<item>
-<title>NATGEO CN</title>
-<link>plugin://program.plexus/?url=sop://124.232.150.188:3920/5699&mode=2&name=NATGEO CN</link>
-<thumbnail>NATGEO</thumbnail>
-</item>
-
 <item>
 <title>NatGeo Wild</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=NatGeo wild</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&amp;mode=2&amp;name=NatGeo wild</link>
 <thumbnail>Nat Geo WILD</thumbnail>
 </item>
-
 <item>
 <title>Discovery Channel</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&amp;mode=2&amp;name=Discovery Channel</link>
 <thumbnail>Discovery Channel</thumbnail>
 </item>
-
 <item>
 <title>Discovery Science</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&amp;mode=2&amp;name=Discovery Science</link>
 <thumbnail>Discovery Science</thumbnail>
 </item>
-
 <item>
-<title>DISCOVERY CN</title>
-<link>plugin://program.plexus/?url=sop://124.232.150.188:3920/5700&mode=2&name=DISCOVERY CN</link>
+<title>DISCOVERY ID</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&amp;mode=2&amp;name=DISCOVERY ID</link>
 <thumbnail>Discovery Channel</thumbnail>
 </item>
-
 <item>
 <title>BBC Earth</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&amp;mode=2&amp;name=BBC Earth</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
-<title>[COLOR cyan][B]IV - Phim Truyền Hình[/B][/COLOR]</title>
-<link></link>
-<thumbnail>MOVIES</thumbnail>
+<title>[COLOR cyan][B]((IV)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>Phim Jackie Chan</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Thần Thám Địch Nhân Kiệt</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Tây Du Ký</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Bao Công</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Tom And Jerry</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Truyền hình Mỹ</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Hành Động</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Tài Liệu Khoa Học</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
 
 <item>
 <title>Phim Thế Giới Động Vật</title> 
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1</link>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
   
-<item>
-<title>[COLOR red][B]********* Chỉ Cho Mạng FPT **********[/B][/COLOR]</title>
-<link></link>
-<thumbnail>icon</thumbnail>
-</item>
 
 <item>
-<title>VTV1 HD</title>
-<link>http://118.69.252.4/tv/vtv1HD/index.m3u8</link>
-<thumbnail>VTV1 HD FPT</thumbnail>
-</item>
+<title>[COLOR cyan][B]((V))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
+<link>$doregex[makelist3]</link>
 
-<item>
-<title>VTV3 HD</title>
-<link>http://118.69.252.4/tv/vtv3HD/index.m3u8</link>
-<thumbnail>VTV3 HD FPT</thumbnail>
+<regex>
+<name>makelist3</name>   
+<listrepeat><![CDATA[
+<title>[makelist3.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
+</regex>
+<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
 </item>
+//////////////////////
 
-<item>
-<title>VTV6 HD</title>
-<link>http://118.69.252.4/tv/vtv6HD/index.m3u8</link>
-<thumbnail>VTV6 HD FPT</thumbnail>
-</item>
-
-<item>
-<title>QPVN HD</title>
-<link>http://118.69.184.194/tv1/quocphongHD/index.m3u8</link>
-<thumbnail>FPT QUkC PHONG HD</thumbnail>
-</item>
-
-<item>
-<title>THETHAOTV HD</title>
-<link>http://118.69.252.4/tv1/thethaoTVHD/index.m3u8</link>
-<thumbnail>THw THAO TV HD</thumbnail>
-</item>
-
-<item>
-<title>BONGDATV HD</title>
-<link>http://118.69.252.4/tv1/bongdaTVHD/index.m3u8</link>
-<thumbnail>BONG DA TV HD</thumbnail>
-</item>
-
-<item>
-<title>VTV2</title>
-<link>http://118.69.252.4/tv/vtv2/index.m3u8</link>
-<thumbnail>VTV2 - KHOA HgC GIAO DeC</thumbnail>
-</item>
-
-<item>
-<title>VTV4</title>
-<link>http://118.69.184.194/tv/vtv4/index.m3u8</link>
-<thumbnail>vtv4</thumbnail>
-</item>
-
-<item>
-<title>VTV9</title>
-<link>http://118.69.252.4/tv/vtv9/index.m3u8</link>
-<thumbnail>VTV9</thumbnail>
-</item>
-
-<item>
-<title>AN NINH TV</title>
-<link>http://118.69.252.4/tv/anninhtv/index.m3u8</link>
-<thumbnail>ANTV - TH CAND</thumbnail>
-</item>
-
-<item>
-<title>QUOC HOI</title>
-<link>http://118.69.184.194/tv1/quochoi/index.m3u8</link>
-<thumbnail>tv</thumbnail>
-</item>
-
-<item>
-<title>VNEWS</title>
-<link>http://118.69.252.4/tv1/vnews/index.m3u8</link>
-<thumbnail>VOVTV - TIsNG NOI VN</thumbnail>
-</item>
-
-<item>
-<title>HTV2 HD</title>
-<link>http://118.69.252.4/tv/htv2HD/index.m3u8</link>
-<thumbnail>HTV2 HD</thumbnail>
-</item>
-
-<item>
-<title>HTV7 HD</title>
-<link>http://118.69.252.4/tv/htv7HD/index.m3u8</link>
-<thumbnail>HTV7 HD</thumbnail>
-</item>
-
-<item>
-<title>HTV9 HD</title>
-<link>http://118.69.252.4/tv/htv9HD/index.m3u8</link>
-<thumbnail>HTV9 HD</thumbnail>
-</item>
-
-<item>
-<title>HTVC MOVIE HD</title>
-<link>http://118.69.252.4/tv1/htvcmovieHD/index.m3u8</link>
-<thumbnail>HTVC PHIM HD</thumbnail>
-</item>
-
-<item>
-<title>HTVC THUANVIET HD</title>
-<link>http://118.69.252.4/tv1/htvcthuanvietHD/index.m3u8</link>
-<thumbnail>HTVC THUuN VIaT HD</thumbnail>
-</item>
-
-<item>
-<title>VTC3 HD</title>
-<link>http://118.69.252.4/tv1/vtc3HD/index.m3u8</link>
-<thumbnail>VTV3 HD - THw THAO GIqI TRI</thumbnail>
-</item>
-
-<item>
-<title>ITV HD</title>
-<link>http://118.69.184.194/tv1/itvHD/index.m3u8</link>
-<thumbnail>iTV HD - CA NHoC TUONG TAC</thumbnail>
-</item>
-
-<item>
-<title>HTV3</title>
-<link>http://118.69.252.4/tv/htv3/index.m3u8</link>
-<thumbnail>HTV3</thumbnail>
-</item>
-
-<item>
-<title>HTV4</title>
-<link>http://118.69.252.4/tv1/htv4/index.m3u8</link>
-<thumbnail>HTV4</thumbnail>
-</item>
-
-<item>
-<title>HTVC THETHAO</title>
-<link>http://118.69.252.4/tv1/htvcthethao/index.m3u8</link>
-<thumbnail>HTVC THw THAO</thumbnail>
-</item>
-
-<item>
-<title>HTVC GIA DINH</title>
-<link>http://118.69.252.4/tv1/htvcgiadinh/index.m3u8</link>
-<thumbnail>HTVC GIA DINH</thumbnail>
-</item>
-
-<item>
-<title>HTVC THUAN VIET</title>
-<link>http://118.69.252.4/tv1/htvcthuanviet/index.m3u8</link>
-<thumbnail>HTVC THUuN VIaT</thumbnail>
-</item>
-
-<item>
-<title>VTC6</title>
-<link>http://118.69.184.194/tv1/vtc6/index.m3u8</link>
-<thumbnail>vtc6</thumbnail>
-</item>
-
-<item>
-<title>VTC7</title>
-<link>http://118.69.252.4/tv/vtc7/index.m3u8</link>
-<thumbnail>VTC7 - TODAYTV</thumbnail>
-</item>
-
-<item>
-<title>VTC8</title>
-<link>http://118.69.184.194/tv1/vtc8/index.m3u8</link>
-<thumbnail>vtc8</thumbnail>
-</item>
-
-<item>
-<title>VTC9</title>
-<link>http://118.69.184.194/tv1/vtc9/index.m3u8</link>
-<thumbnail>VTC9 - LETS VIET</thumbnail>
-</item>
-
-<item>
-<title>VTC14</title>
-<link>http://118.69.184.194/tv1/vtc14/index.m3u8</link>
-<thumbnail>VTC14</thumbnail>
-</item>
-
-<item>
-<title>THVL1</title>
-<link>http://118.69.252.4/tv/vinhlong1/index.m3u8</link>
-<thumbnail>VINH LONG 1</thumbnail>
-</item>
-
-<item>
-<title>THVL2</title>
-<link>http://118.69.252.4/tv/vinhlong2/index.m3u8</link>
-<thumbnail>tv</thumbnail>
-</item>
-
-<item>
-<title>STAR MOVIES HD</title>
-<link>http://118.69.252.4/tv3/StarMoviesHD/index.m3u8</link>
-<thumbnail>STAR MOVIES HD - PHIM TRUYaN</thumbnail>
-</item>
-
-<item>
-<title>HBO HD</title>
-<link>http://118.69.252.4/tv3/HBOHD/index.m3u8</link>
-<thumbnail>HBO HD - PHIM TRUYaN</thumbnail>
-</item>
-
-<item>
-<title>AXN HD</title>
-<link>http://118.69.252.4/tv3/AXNHD/index.m3u8</link>
-<thumbnail>AXN HD</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY WORLD HD</title>
-<link>http://118.69.252.4/tv3/DiscoveryWorldHD/index.m3u8</link>
-<thumbnail>DISCOVERY HD - KHAM PHA</thumbnail>
-</item>
-
-<item>
-<title>NATIONAL GEOGRAPHIC HD</title>
-<link>http://118.69.252.4/tv3/NationalGeographicHD/index.m3u8</link>
-<thumbnail>NAT GEO HD</thumbnail>
-</item>
-
-<item>
-<title>CARTOON NETWORK HD</title>
-<link>http://118.69.252.4/tv3/CartoonNetworkHD/index.m3u8</link>
-<thumbnail>CARTOON NETWORK - HOoT HINH</thumbnail>
-</item>
-
-<item>
-<title>FASHION TV HD</title>
-<link>http://118.69.252.4/tv3/FashionTVHD/index.m3u8</link>
-<thumbnail>FASHIONTV HD</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS HD</title>
-<link>http://118.69.252.4/tv3/FoxSportsHD/index.m3u8</link>
-<thumbnail>Fox Sport+ HD</thumbnail>
-</item>
-
-<item>
-<title>CINEMAX</title>
-<link>http://118.69.252.4/tv3/Cinemax/index.m3u8</link>
-<thumbnail>CINEMAX - PHIM TRUYaN</thumbnail>
-</item>
-
-<item>
-<title>ANIMAL PLANET</title>
-<link>http://118.69.252.4/tv3/AnimalPlanet/index.m3u8</link>
-<thumbnail>Animal planet</thumbnail>
-</item>
-
-<item>
-<title>TLC</title>
-<link>http://118.69.252.4/tv3/TravelLiving/index.m3u8</link>
-<thumbnail>TLC</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY</title>
-<link>http://118.69.252.4/tv3/Discovery/index.m3u8</link>
-<thumbnail>Discovery Channel</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2</title>
-<link>http://118.69.252.4/tv3/FoxSports2/index.m3u8</link>
-<thumbnail>Fox Sports 2</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS</title>
-<link>http://118.69.252.4/tv3/FoxSports/index.m3u8</link>
-<thumbnail>FOX SPORTS</thumbnail>
-</item>
 
 </items>
+
+
