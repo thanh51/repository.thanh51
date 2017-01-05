@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B]**********Xem Chung Cho Các Mạng Internet *********[/B][/COLOR]</title>
+<title>[COLOR red][B]**********Chung Cho Các Mạng Internet *********[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -26,7 +26,32 @@
 <thumbnail>icon</thumbnail>
 </item>
  
+<item>
+<title> [COLOR yellow][B]* XEM THI ĐẤU THỂ THAO QUỐC TẾ TH(Auto Update) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/schedule</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+</item>
 
+
+/////////////////////////////////////////
 
 <item>
 <title>[COLOR cyan][B](I) - Kênh THỂ THAO [/B][/COLOR]</title>
@@ -231,14 +256,8 @@
 <thumbnail></thumbnail>
 </item>
 
-///////////////////////////////////////                  
-<item>
-<title>[COLOR cyan][B]((II)) - KÊNH THỂ THAO KHÁC[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-   <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
+///////////////////////////////////////  
+<item>                
 <title>[COLOR lightblue][makelist.param1][/COLOR]</title>
 <link>$doregex[select_Url]</link>
 <regex>
@@ -266,37 +285,342 @@
 </regex>
 <thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
 </item>
-//////////////////////////////////
-
+//////////////////////////
 <item>
-<title> [COLOR yellow][B]>>XEM THI ĐẤU THỂ THAO QUỐC TẾ TH(Auto Update) - Theo Giờ VN + 6 Tiếng<<[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
+<title>Ace1</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace1</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
-</item>	
-]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
-<page>http://arenavision.in/schedule</page>
-<Agent>Mozilla</Agent>
-</regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av1</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace2</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace2</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av2</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace3</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av3</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
 </item>
 
-
-/////////////////////////////////////////
+<item>
+<title>Ace4</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace4</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av4</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
 
 <item>
-<title>[COLOR cyan][B]((III)) - KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
+<title>Ace5</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace5</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av5</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace6</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace6</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av6</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace7</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace7</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av7</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace8</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace8</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av8</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace9</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace9</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av9</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace10</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace10</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av10</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace11</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace11</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av11</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace12</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace12</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av12</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace13</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace13</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av13</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace14</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace14</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av14</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace15</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace15</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av15</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace16</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace16</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av16</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace17</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace17</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av17</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace18</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace18</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av18</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace19</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace19</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av19</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace20</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace20</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av20</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace21</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace21</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av21</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace22</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace22</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av22</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace23</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace23</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av23</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace24</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace24</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av24</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace25</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace25</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av25</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace26</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace26</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av26</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace27</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace27</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av27</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace28</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace28</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av28</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace29</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace29</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av29</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+<item>
+<title>Ace30</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace30</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in//av30</page>
+<referer>http://arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+///////////////////////////////////////////////////////
+<item>
+<title>[COLOR cyan][B]((II)) - KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -656,7 +980,7 @@
 </item>
 
 <item>
-<title>[COLOR cyan][B]((IV)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((III)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -713,10 +1037,10 @@
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>tv</thumbnail>
 </item>
-  
+///////////////////////////////////////////  
 
 <item>
-<title>[COLOR cyan][B]((V))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((IV))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -735,6 +1059,12 @@
 
 
 </items>
+
+
+
+
+
+
 
 
 
