@@ -1055,9 +1055,16 @@
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&amp;mode=2&amp;name=BBC Earth</link>
 <thumbnail>https://s14.postimg.org/5pu5iqxgh/bbcearth.png</thumbnail>
 </item>
-
+///////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((IV)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((IV)) - TORRENT TV[/B][/COLOR]</title></title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TorrenTV.xml</externallink>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item> 
+//////////////////////////////////////
+<item>
+<title>[COLOR cyan][B]((V)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -1117,7 +1124,7 @@
 ///////////////////////////////////////////  
 
 <item>
-<title>[COLOR cyan][B]((V))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((VI))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -1136,6 +1143,12 @@
 
 
 </items>
+
+
+
+
+
+
 
 
 
