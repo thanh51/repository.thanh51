@@ -51,13 +51,36 @@
 </item>
 /////////////////////////////////////////
 <item>
-<title>[COLOR yellow][B]* XEM BÓNG ĐÁ NGOẠI HẠNG: ANH, ĐỨC, TÂY BAN NHA (Auto update)[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnhTBNDUC.xml</externallink>
+<title> [COLOR deepskyblue][B]((I)) - IPTVFree Tổng Hợp - Cần addon f4mTester[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1]  </link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
 </item>
-////////////////////////////////////////
+/////////////////////////////////////// 
 <item>
-<title> [COLOR deepskyblue][B]((I)) - IPTV SPORTS[/B][/COLOR]</title>
+<title> [COLOR deepskyblue][B]((II)) - IPTV SPORTS[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -93,7 +116,7 @@
 
 /////////////////////////////////
 <item>
-<title>[COLOR cyan][B](II) - Kênh THỂ THAO [/B][/COLOR]</title>
+<title>[COLOR cyan][B](III) - Kênh THỂ THAO [/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -627,7 +650,7 @@
 </item>
 ///////////////////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((III)) - KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((IV)) - KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -1063,14 +1086,14 @@
 </item>
 ///////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((IV)) - TORRENT TV[/B][/COLOR]</title></title>
+<title>[COLOR cyan][B]((V)) - TORRENT TV[/B][/COLOR]</title></title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TorrenTV.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item> 
 //////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((V)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((VI)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -1130,7 +1153,7 @@
 ///////////////////////////////////////////  
 
 <item>
-<title>[COLOR cyan][B]((VI))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
+<title>[COLOR cyan][B]((VII))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -1149,5 +1172,11 @@
 
 
 </items>
+
+
+
+
+
+
 
 
