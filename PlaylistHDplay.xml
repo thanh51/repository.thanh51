@@ -903,11 +903,32 @@
 <thumbnail>http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png</thumbnail>
 </item>
 
-
 <item>
 <title>AXN</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&amp;mode=2&amp;name=AXN</link>
 <thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png</thumbnail>
+</item>
+<item>
+<title>HBO</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/hbo.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+<item>
+<title>HBO HD</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/hbohd.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 </item>
 <item>
 <title>HBO 2</title>
@@ -950,6 +971,17 @@
 <thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png</thumbnail>
 </item>
 <item>
+<title>NATGEO</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/natgeo.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+<item>
 <title>National Geographic</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&amp;mode=2&amp;name=National Geographic</link>
 <thumbnail>http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg</thumbnail>
@@ -958,6 +990,28 @@
 <title>NatGeo Wild</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&amp;mode=2&amp;name=NatGeo wild</link>
 <thumbnail>http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png</thumbnail>
+</item>
+<item>
+<title>DISCOVERY</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/discovery.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+<item>
+<title>DISCOVERY HD</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/discoveryhd.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 </item>
 <item>
 <title>Discovery Channel</title>
@@ -973,6 +1027,28 @@
 <title>DISCOVERY ID</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&amp;mode=2&amp;name=DISCOVERY ID</link>
 <thumbnail>https://s27.postimg.org/65pv3fcqr/discoveryid.png</thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/animalplanet.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+<item>
+<title>HISTORY</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/history.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 </item>
 <item>
 <title>BBC Earth</title>
@@ -1060,6 +1136,12 @@
 
 
 </items>
+
+
+
+
+
+
 
 
 
