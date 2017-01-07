@@ -58,35 +58,6 @@
 <thumbnail>https://s29.postimg.org/j56sgkip3/bongda.jpg</thumbnail>
 </item>
 ////////////////////////////////////////
-<item>
-<title> [COLOR cyan][B]->> XEM IPTVFree Tổng Hợp [/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR skyblue] [makelist2.param2][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
-<page>http://www.iptv4free.com/search?max-results=40</page>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1]  </link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-</item>
-/////////////////////////////////////// 
 
 <item>
 <title>[COLOR cyan][B]->> XEM KÊNH THỂ THAO [/B][/COLOR]</title>
@@ -1734,12 +1705,40 @@
 </item>
 ///////////////////////////////////////////
 <item>
+<title>[COLOR cyan][B]->> XEM IPTV WORLD [/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1]  </link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+/////////////////////////////////////// 
+<item>
 <title>[COLOR cyan][B]->> XEM TORRENT TV[/B][/COLOR]</title></title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TorrenTV.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item> 
-//////////////////////////////////////
+//////////////////////////////////////////
 <item>
 <title>[COLOR cyan][B]->> XEM PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
 <link>http://</link>
@@ -1820,5 +1819,6 @@
 
 
 </items>
+
 
 
