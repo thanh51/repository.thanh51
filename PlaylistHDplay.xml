@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]>>>>>>>>>>Cần addon Plexus & addon f4mTester<<<<<<<<<<[/B][/COLOR]</title>
+<title>[COLOR blue][B]>>>>>>>>Cần addon Plexus & addon f4mTester<<<<<<<<[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -27,7 +27,7 @@
 </item>
  
 <item>
-<title> [COLOR yellow][B]->> XEM THI ĐẤU THỂ THAO QUỐC TẾ TH(Auto Update) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR cyan][B]->> XEM THI ĐẤU THỂ THAO QUỐC TẾ TH(Auto Update) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -52,7 +52,7 @@
 </item>
 /////////////////////////////////////////
 <item>
-<title>[COLOR red][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG:ANH, ĐỨC, TÂY BAN NHA (AUTO UPDATE)[/B][/COLOR]</title>
+<title>[COLOR cyan][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG:ANH, ĐỨC, TÂY BAN NHA (AUTO UPDATE)[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnhTBNDUC.xml</externallink>
 <thumbnail>https://s29.postimg.org/j56sgkip3/bongda.jpg</thumbnail>
@@ -89,7 +89,7 @@
 /////////////////////////////////////// 
 
 <item>
-<title>[COLOR cyan][B](III) - Kênh THỂ THAO [/B][/COLOR]</title>
+<title>[COLOR cyan][B]->> XEM KÊNH THỂ THAO [/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -1298,7 +1298,7 @@
 </item>
 ///////////////////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((IV)) - KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
+<title>[COLOR cyan][B]->> XEM KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -1734,14 +1734,14 @@
 </item>
 ///////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((V)) - TORRENT TV[/B][/COLOR]</title></title>
+<title>[COLOR cyan][B]->> XEM TORRENT TV[/B][/COLOR]</title></title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TorrenTV.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item> 
 //////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]((VI)) - PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
+<title>[COLOR cyan][B]->> XEM PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -1801,7 +1801,7 @@
 ///////////////////////////////////////////  
 
 <item>
-<title>[COLOR cyan][B]((VII))- Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
+<title>[COLOR cyan][B]->> Xem Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -1820,6 +1820,18 @@
 
 
 </items>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
