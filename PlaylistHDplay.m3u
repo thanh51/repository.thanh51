@@ -390,6 +390,19 @@ http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
+#EXTINF:-1 group-title="France" tvg-logo="",CINE FX
+http://live-m03.abweb.com/liveabm03/cinefx.smil/chunklist_b1296000_slFRA.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="",CINE POLAR
+http://live-m03.abweb.com/liveabm03/cinepolar.smil/chunklist_b1296000_slFRA.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="",ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="",RLT9
+http://live-trl01.abweb.com/livetrl01/ngrp:rtl9.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="",ANIMAUX
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="",CHASSEE&PECHE
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 2
