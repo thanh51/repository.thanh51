@@ -1013,24 +1013,7 @@
 </regex>
 <thumbnail>http://www.liveonlinetv247.info/images/sporttv5.png</thumbnail>
 </item>
-////////////////////////////
-<item>
-<title> [COLOR orange]•[/COLOR]  [COLOR cyan][B]KÊNH THỂ THAO LINK ACE STREAM[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
-	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
-	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-]]></listrepeat>
-<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item>		
-/////////////////////////////////
+
 
 <item>
 <title>Ace1</title>
@@ -1362,6 +1345,24 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 </item>
+///////////////////////////
+<item>
+<title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO KHÁC[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>		
+
 ///////////////////////////////////////////////////////
 <item>
 <title>[COLOR orange][B]•[/B][/COLOR]  [COLOR cyan][B]KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
@@ -1935,6 +1936,9 @@
 //////////////////////
 
 </items>
+
+
+
 
 
 
