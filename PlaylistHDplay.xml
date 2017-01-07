@@ -27,7 +27,7 @@
 </item>
  
 <item>
-<title> [COLOR cyan][B]->> XEM THI ĐẤU THỂ THAO QUỐC TẾ TH(Auto Update) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR cyan][B]->> XEM THI ĐẤU THỂ THAO QUỐC TẾ: Bóng đá, bóng rổ, tenis...(được cập nhật hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -60,7 +60,7 @@
 ////////////////////////////////////////
 
 <item>
-<title>[COLOR orange][B]•[/B][/COLOR][COLOR cyan][B]KÊNH THỂ THAO [/B][/COLOR]</title>
+<title>[COLOR orange][B]•[/B][/COLOR]   [COLOR cyan][B]KÊNH THỂ THAO [/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -1269,7 +1269,7 @@
 </item>
 ///////////////////////////////////////////////////////
 <item>
-<title>[COLOR orange][B]•[/B][/COLOR][COLOR cyan][B]KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
+<title>[COLOR orange][B]•[/B][/COLOR]  [COLOR cyan][B]KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
@@ -1733,14 +1733,14 @@
 </item>
 /////////////////////////////////////// 
 <item>
-<title>[COLOR cyan][B]->> XEM TORRENT TV[/B][/COLOR]</title></title>
+<title>[COLOR cyan][B]->> XEM TORRENT TV[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TorrenTV.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item> 
 //////////////////////////////////////////
 <item>
-<title>[COLOR orange][B]•[/B][/COLOR][COLOR cyan][B]PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
+<title>[COLOR orange][B]•[/B][/COLOR]  [COLOR cyan][B]PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -1799,13 +1799,19 @@
 </item>
 ///////////////////////////////////////////  
 <item>
-<title>[COLOR cyan][B]->> XEM PHIM (Phụ đề tiếng Việt)[/B][/COLOR]</title></title>
+<title>[COLOR cyan][B]->> XEM PHIM VP9 - CHƯƠNG TRÌNH CHO NGƯỜI VIỆT Ở NƯỚC NGOÀI[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/PhimVP9.m3u</externallink>
+</item> 
+////////////////////////////////// 
+<item>
+<title>[COLOR cyan][B]->> XEM PHIM (Phụ đề tiếng Việt)[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TalkTV.xml</externallink>
 </item> 
 ////////////////////////////////// 
 <item>
-<title>[COLOR cyan][B]->> XEM PHIM NƯỚC NGOÀI HD[/B][/COLOR]</title></title>
+<title>[COLOR cyan][B]->> XEM PHIM NƯỚC NGOÀI HD[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://bit.ly/CINEHD</externallink>
 </item>
@@ -1829,6 +1835,9 @@
 //////////////////////
 
 </items>
+
+
+
 
 
 
