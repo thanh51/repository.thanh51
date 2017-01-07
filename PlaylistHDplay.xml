@@ -368,6 +368,19 @@
 <thumbnail>http://www.liveonlinetv247.info/images/uefachampionsleague.png</thumbnail>
 </item>
 <item>
+<title>Live football</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/livefootball.png</thumbnail>
+</item>
+
+<item>
 <title>CANAL FUTBOL</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
@@ -392,20 +405,6 @@
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png</thumbnail>
 </item>
-
-<item>
-<title>CANAL SPORT</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal%2Bsport.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/canal%2Bsport.png</thumbnail>
-</item>
-
 <item>
 <title>Premier Sports</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
@@ -560,18 +559,6 @@
 </regex>
 <thumbnail>http://www.liveonlinetv247.info/images/btsportespn.png</thumbnail>
 </item>
-<item>
-<title>Live football</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/livefootball.png</thumbnail>
-</item>
 
 <item>
 <title>ESPN</title>
@@ -585,7 +572,18 @@
 </regex>
 <thumbnail>http://www.liveonlinetv247.info/images/espn.png</thumbnail>
 </item>
-
+<item>
+<title>CANAL SPORT</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal%2Bsport.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/canal%2Bsport.png</thumbnail>
+</item>
 <item>
 <title>Euro Sports 1</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
@@ -1015,8 +1013,24 @@
 </regex>
 <thumbnail>http://www.liveonlinetv247.info/images/sporttv5.png</thumbnail>
 </item>
-
-
+////////////////////////////
+<item>
+<title> [COLOR orange]•[/COLOR]  [COLOR cyan][B]KÊNH THỂ THAO LINK ACE STREAM[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>		
+/////////////////////////////////
 
 <item>
 <title>Ace1</title>
@@ -1921,6 +1935,9 @@
 //////////////////////
 
 </items>
+
+
+
 
 
 
