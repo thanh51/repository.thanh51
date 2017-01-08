@@ -9,6 +9,10 @@ http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/bj9wfkb3p/sport.jpg",SPORTS 1 
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22898255&stream=1&connectionId=oldurl-b1eed36ecdf30f6d449e85d71c140fd6ee92732b&group=iphone
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/bj9wfkb3p/sport.jpg",SPORTS 2
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911267&stream=1&connectionId=oldurl-1874ef03b4171abb630c89ad6acc6be4e7660d40&group=iphone
 #EXTINF:-1 group-title="Sports" tvg-logo="",China:Sports HD 
 http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",China:Star Sports HD
@@ -133,10 +137,6 @@ http://185.2.83.63:8080/sAlakHHarR00sibhensfn-1/Strm/index.m3u8
 http://185.2.83.63:8080/sAlakHHarR00sibhensfn-2/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3france.png",BEIN SPORT 3HD(FR)
 http://185.2.83.63:8080/sAlakHHarR00sibhensfn-3/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/ahi6x42c3/mdeportes1.png",M DEPORTES 1
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22898255&stream=1&connectionId=oldurl-b1eed36ecdf30f6d449e85d71c140fd6ee92732b&group=iphone
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/ua3q0a8vh/beinhd.png",BEIN SPORT
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911267&stream=1&connectionId=oldurl-1874ef03b4171abb630c89ad6acc6be4e7660d40&group=iphone
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
