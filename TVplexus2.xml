@@ -1,19 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-			
-			
-			<item>
-			<title>[COLOR deepskyblue][B]All this channels needs the Addon PLEXUS to work[/B][/COLOR]</title> 
-			<link>http://ignora.me</link>
-			<thumbnail>https://s24.postimg.org/mal8efoxx/plexus.jpg</thumbnail>
-			</item>
-			
-					
 				
 			
 			<item>
 			<title>ArenaVision 1</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -22,11 +13,10 @@
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			</item>
-
 			
 			<item>
 			<title>ArenaVision 2</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -38,7 +28,7 @@
 			
 			<item>
 			<title>ArenaVision 3</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -50,7 +40,7 @@
 			
 			<item>
 			<title>ArenaVision 4</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -62,7 +52,7 @@
 			
 			<item>
 			<title>ArenaVision 5</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -74,7 +64,7 @@
 			
 			<item>
 			<title>ArenaVision 6</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -86,7 +76,7 @@
 			
 			<item>
 			<title>ArenaVision 7</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -98,7 +88,7 @@
 			
 			<item>
 			<title>ArenaVision 8</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -110,7 +100,7 @@
 			
 			<item>
 			<title>ArenaVision 9</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -122,7 +112,7 @@
 			
 			<item>
 			<title>ArenaVision 10</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -134,7 +124,7 @@
 			
 			<item>
 			<title>ArenaVision 11</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -147,7 +137,7 @@
 			
 			<item>
 			<title>ArenaVision 12</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -155,12 +145,11 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
+			</item>			
 			
 			<item>
 			<title>ArenaVision 13</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -168,12 +157,11 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
+			</item>			
 			
 			<item>
 			<title>ArenaVision 14</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -181,13 +169,12 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
+			</item>		
 			
 			
 			<item>
 			<title>ArenaVision 15</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -195,13 +182,12 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
+			</item>		
 			
 			
 			<item>
 			<title>ArenaVision 16</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -209,13 +195,12 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
+			</item>			
 			
 			
 			<item>
 			<title>ArenaVision 17</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -223,13 +208,12 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
+			</item>			
 			
 			
 			<item>
 			<title>ArenaVision 18</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -238,12 +222,11 @@
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			</item>
-			
-			
+						
 			
 			<item>
 			<title>ArenaVision 19</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -252,12 +235,11 @@
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			</item>
-			
-			
+						
 			
 			<item>
 			<title>ArenaVision 20</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -271,7 +253,7 @@
 			
 			<item>
 			<title>ArenaVision 21</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -279,14 +261,12 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
-			
-			
+			</item>			
+	
 			
 			<item>
 			<title>ArenaVision 22</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -294,14 +274,11 @@
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			</item>
-			
-			
-			
+			</item>			
 			
 			<item>
 			<title>ArenaVision 23</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -312,11 +289,9 @@
 			</item>
 			
 			
-			
-			
 			<item>
 			<title>ArenaVision 24</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -327,11 +302,9 @@
 			</item>
 			
 			
-			
-			
 			<item>
 			<title>ArenaVision 25</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -342,12 +315,9 @@
 			</item>
 			
 			
-			
-			
-			
 			<item>
 			<title>ArenaVision 26</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -357,13 +327,9 @@
 			</regex>
 			</item>
 			
-			
-			
-			
-			
 			<item>
 			<title>ArenaVision 27</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -373,13 +339,9 @@
 			</regex>
 			</item>
 			
-			
-			
-			
-			
 			<item>
 			<title>ArenaVision 28</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -389,13 +351,9 @@
 			</regex>
 			</item>
 			
-			
-			
-			
-			
 			<item>
 			<title>ArenaVision 29</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -405,12 +363,10 @@
 			</regex>
 			</item>
 			
-			
-			
-			
+						
 			<item>
 			<title>ArenaVision 30</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -419,5 +375,6 @@
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			</item>
+						
 			
 			
