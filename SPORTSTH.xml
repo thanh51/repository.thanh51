@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		
+
+		<item>
+		<title>======================================================</title>
+		<link>http://</link>
+		<thumbnail></thumbnail>
+		<item>
 
 		<item>
 		<title>[COLOR red][B]Kênh Thể Thao Cần Addon Plexus [/B][/COLOR]</title>
@@ -6,16 +13,21 @@
 		<thumbnail></thumbnail>
 		<item>
 		
+		<item>
+		<title>=======================================================</title>
+		<link>http://</link>
+		<thumbnail></thumbnail>
+		<item>
 		
                 <item>
-		<title>[COLOR cyan][B]XEM BÓNG ĐÁ NGOẠI HẠNG ANH[/B][/COLOR]</title>
+		<title>[COLOR cyan][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG ANH[/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/NHAnh.xml</externallink>
 		</item> 
-		///////////////////////////////////////
+///////////////////////////////////////
                        
                <item>
-<title> [COLOR yellow][B]XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]->> XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -38,9 +50,9 @@
 </regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>
 
-		///////////////////////////////////////                  
+///////////////////////////////////////                  
                 <item>
-<title>[COLOR cyan][B]CHANNELS SPORTS 1[/B][/COLOR]</title>
+<title>[COLOR cyan][B]->> XEM CHANNELS SPORTS 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -72,20 +84,39 @@
 
 </regex>
 
-		///////////////////////////////////////
+///////////////////////////////////////
                 <item>
-		<title>[COLOR cyan][B]CHANNELS SPORTS 2[/B][/COLOR]</title>
+		<title>[COLOR cyan][B]->> XEM CHANNELS SPORTS 2[/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus1.xml</externallink>
 		</item> 
-		///////////////////////////////////////		              
+///////////////////////////////////////		              
                 <item>
-		<title>[COLOR cyan][B]FOOTBALL VIDEOS[/B][/COLOR]</title>
+		<title>[COLOR cyan][B]->> XEM FOOTBALL VIDEOS[/B][/COLOR]</title>
 		<link>http://ignorame</link>
 		<externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 		</item>
-		//////////////////////
+//////////////////////
 
 		</items>
 	        </channel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
