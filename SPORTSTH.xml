@@ -8,17 +8,17 @@
 		<item>
 
 		<item>
-		<title>[COLOR red][B]Kênh Thể Thao Cần Addon Plexus [/B][/COLOR]</title>
+		<title>[COLOR red][B]Cần Addon Plexus[/B][/COLOR]</title>
 		<link>http://</link>
 		<thumbnail></thumbnail>
 		<item>
 		
 		<item>
-		<title>=======================================================</title>
+		<title>=====================================================</title>
 		<link>http://</link>
 		<thumbnail></thumbnail>
 		<item>
-		
+////////////////////////////////////////		
                 <item>
 		<title>[COLOR cyan][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG ANH[/B][/COLOR]</title>
 		<link>http://ignorame</link>
@@ -85,11 +85,23 @@
 </regex>
 
 ///////////////////////////////////////
-                <item>
-		<title>[COLOR cyan][B]->> XEM CHANNELS SPORTS 2[/B][/COLOR]</title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus1.xml</externallink>
-		</item> 
+ <item>
+<title>[COLOR deepskyblue][B]->> XEM CHANNELS SPORTS (ACE STREAM)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>		
+
 ///////////////////////////////////////		              
                 <item>
 		<title>[COLOR cyan][B]->> XEM FOOTBALL VIDEOS[/B][/COLOR]</title>
@@ -100,22 +112,6 @@
 
 		</items>
 	        </channel>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
