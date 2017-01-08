@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 04.01.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 08.01.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
@@ -133,6 +133,10 @@ http://185.2.83.63:8080/sAlakHHarR00sibhensfn-1/Strm/index.m3u8
 http://185.2.83.63:8080/sAlakHHarR00sibhensfn-2/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3france.png",BEIN SPORT 3HD(FR)
 http://185.2.83.63:8080/sAlakHHarR00sibhensfn-3/Strm/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/ahi6x42c3/mdeportes1.png",M DEPORTES 1
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22898255&stream=1&connectionId=oldurl-b1eed36ecdf30f6d449e85d71c140fd6ee92732b&group=iphone
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/ua3q0a8vh/beinhd.png",BEIN SPORT
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911267&stream=1&connectionId=oldurl-1874ef03b4171abb630c89ad6acc6be4e7660d40&group=iphone
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
@@ -420,25 +424,6 @@ http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
 #EXTINF:-1 group-title="KOREA",Korea:LIHAT TV
 http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
-
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",Taiwan:Asia channel
-http://211.22.61.109/sta/ch323051.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:CN
-http://211.22.61.109/sta/ch323058.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:Animal Planet
-http://211.22.61.109/sta/ch323052.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://s17.postimg.org/3q0vawnov/asian_food_channel.png",Taiwan:Asian Food Channel
-http://211.22.61.109/sta/ch323060.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://s22.postimg.org/5iujjsp8x/Logo_Da_Vinci_Learning.png",Taiwan:DaVinci Learning
-http://211.22.61.109/sta/ch323079.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://s13.postimg.org/3oruk6ejr/TLC_Logo_2016.png",Taiwan:TLC
-http://211.22.61.109/sta/CH323059.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_iConcerts.png",Taiwan:IConcerts
-http://211.22.61.109/sta/ch323075.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="http://www.fashionone.com/images/2013/logo.png",Taiwan:Fashion One
-http://211.22.61.109/sta/ch323071.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="",Taiwan:GOOD TV
-http://211.22.61.109/sta/ch323053.m3u8
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
