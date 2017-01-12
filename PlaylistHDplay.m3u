@@ -14,6 +14,10 @@ http://www.youtube.com
 #EXTINF:-1,[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
 http://www.youtube.com
 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
+http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
+http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
@@ -164,6 +168,8 @@ rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/YNCzLp9.png", VTVCab2 
 http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
+http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zr9dOPm.png", VTVCab4 
 http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png", VTVCab5
@@ -184,6 +190,8 @@ http://live.cdn.mobifonetv.vn/motv3/styletvhd_hls.smil/chunklist_b1200000.m3u8|U
 http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png", VTVCab15 
 http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
+http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/2nOJwku.png", VTVCab17 
 http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
