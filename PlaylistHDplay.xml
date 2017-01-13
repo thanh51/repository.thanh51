@@ -1552,13 +1552,8 @@
 </item>
 <item>
 <title>VTC1 HD</title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8</link>
+<link>http://118.107.68.10:1935/live/_definst_/smil:VTC1HD_2016_05122016.smil/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail>
-</item>
-<item>
-<title>VTC2</title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8</link>
-<thumbnail>http://i.imgur.com/2MwvQXo.png</thumbnail>
 </item>
 <item>
 <title>VTC3 </title>
@@ -1566,48 +1561,68 @@
 <thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
 </item>
 <item>
-<title>VTC3 HD </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8</link>
+<title>VTC3 HD s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD s2</title>
+<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD s3</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8</link>
 <thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
 </item>
 <item>
 <title>VTC4 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc4_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/fitz1bW.png</thumbnail>
 </item>
 <item>
-<title>VTC5 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8</link>
-<thumbnail>http://i.imgur.com/3QYpmSw.png</thumbnail>
+<title>VTC7 s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc7_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
 </item>
 <item>
-<title>VTC6</title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8</link>
-<thumbnail>http://i.imgur.com/xXeBAok.png</thumbnail>
-</item>
-<item>
-<title>VTC7 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8</link>
+<title>VTC7 s2</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8</link>
 <thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
 </item>
 <item>
 <title>VTC8 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc8_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/uPxgmeN.png</thumbnail>
 </item>
 <item>
-<title>VTC9 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8</link>
+<title>VTC9 s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc9_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
 </item>
 <item>
-<title>VTC10 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8</link>
+<title>VTC9 s2</title>
+<link>http://14.161.5.88:1935/live/myStream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
+</item>
+<item>
+<title>VTC9 s3</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
+</item>
+<item>
+<title>VTC10 s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc10_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/5GpXF4g.png</thumbnail>
+</item>
+<item>
+<title>VTC10 s2</title>
+<link>http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/5GpXF4g.png</thumbnail>
 </item>
 <item>
 <title>VTC11 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc11_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/Vg5XFcf.png</thumbnail>
 </item>
 <item>
@@ -1617,7 +1632,7 @@
 </item>
 <item>
 <title>VTC13 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8</link>
+<link>http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/ZIRi8xh.png</thumbnail>
 </item>
 <item>
@@ -1627,12 +1642,12 @@
 </item>
 <item>
 <title>VTC14 HD </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg</thumbnail>
 </item>
 <item>
 <title>VTC16 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc16_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail>
 </item>
 <item>
@@ -1941,6 +1956,7 @@
 //////////////////////
 
 </items>
+
 
 
 
