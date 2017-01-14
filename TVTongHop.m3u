@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 12.01.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 15.01.2017[/B][/COLOR]
 http:// 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
 http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
@@ -34,36 +34,6 @@ http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/espn.png",ESPN
-http://1.442244.info/uk_espn/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",SKY SPORTS 1
-http://1.442244.info/uk_sky_sports_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",SKY SPORTS 2
-http://1.442244.info/uk_sky_sports_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",SKY SPORTS 3
-http://1.442244.info/uk_sky_sports_3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",SKY SPORTS 4
-http://1.442244.info/uk_sky_sports_4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysportsf1.png",SKY SPORTS F1
-http://1.442244.info/uk_sky_sports_f1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/premiersports.png",PREMIER SPORT
-http://1.442244.info/uk_premier_sport/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/canal%2Bfutbol.png",M FOTBOL
-http://1.442244.info/sp_m_fotbol/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",M DEPORTES 1
-http://1.442244.info/sp_m_dep_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/canal%2Bliga.png",LA LIGA TV
-http://1.442244.info/sp_laligatv_bar/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",BEIN LA LIGA
-http://1.442244.info/sp_bein_laliga/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",REAL MADRID TV
-http://1.442244.info/sp_real_madrid_tv/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",ARENA SPORT 1 
-http://1.442244.info/ser_arena_sport_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",ARENA SPORT 2 
-http://1.442244.info/ser_arena_sport_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",ARENA SPORT 3 
-http://1.442244.info/ser_arena_sport_3/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
 http://46.105.161.243:8085/lighd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
@@ -285,6 +255,7 @@ rtmp://123.29.68.44/hctv/vstv021
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",VINH PHUC 
 rtmp://117.6.162.63/live/thvp
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HaNam 
+rtmp://113.160.198.111:8086/live//hanamtv
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/ABygmpS.png",Ha Tinh 
 http://hatinhtv.vn/liveevent.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri 
@@ -363,7 +334,7 @@ http://208.86.19.13:8080/live/20.stream/index.m3u8
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1 group-title="US" tvg-logo="",USA:TRU TV 
 http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="",USA:DYSCOVERY 
+#EXTINF:-1 group-title="US" tvg-logo="",USA:DISCOVERY 
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="",USA:ANIMAL PLANET HD 
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
@@ -382,16 +353,10 @@ http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRTBELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
 rtsp://yayin.networkbil.com/belgeseltv
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg",WORLD TRAVEL CHANNEL HD
-http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
@@ -427,6 +392,8 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
 
 
 
