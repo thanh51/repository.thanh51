@@ -118,25 +118,38 @@
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 </item>
 //////////////////////
+<item>
+<title>[COLOR yellow][B]->> Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1]                ( [makelist.param2] )</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>https://s29.postimg.org/ojsoj485j/sports.jpg</thumbnail>
+]]></listrepeat>
+<expres>span class="" >(.*?)<\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
+<page>https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw</page>
+</regex>
 
-		</items>
-	        </channel>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist2.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
+<thumbnail>https://s29.postimg.org/ojsoj485j/sports.jpg</thumbnail>
+]]></listrepeat>
+<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
+</regex>
+<thumbnail>https://s29.postimg.org/ojsoj485j/sports.jpg</thumbnail>
+</item>
+/////////////////////////////
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</items>
+</channel>
 
 
 
