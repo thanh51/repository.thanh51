@@ -25,8 +25,7 @@
 		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/NHAnh.xml</externallink>
 		</item> 
 ///////////////////////////////////////
-                       
-               <item>
+<item>
 <title> [COLOR yellow][B]->> XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -44,12 +43,13 @@
 			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">([0-9]+)</expres>
 <page>http://arenavision.in/schedule</page>
 <Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>
-
 ///////////////////////////////////////                  
 <item>
 <title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO 1[/B][/COLOR]</title>
@@ -150,6 +150,8 @@
 
 </items>
 </channel>
+
+
 
 
 
