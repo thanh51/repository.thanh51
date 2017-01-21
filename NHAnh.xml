@@ -59,32 +59,31 @@
 
 <item>
 <title>[COLOR red][B]Mục 2 - Lịch & Play xem bóng đá (auto update)-Theo giờ VN+6 tiếng[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
+	<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item>
-<title>[COLOR dodgerblue]B[COLOR lightblue]F[/COLOR]X[/COLOR]: [COLOR greenyellow][B][makelist.param1][/COLOR] [COLOR springgreen][makelist.param2][/COLOR] [COLOR khaki][makelist.param3][/COLOR][COLOR cyan] [Channel [makelist.param4]][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BassFox Premier League:[makelist.param3]</link>
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.in/AV[makelist.param4]</page>
-			<referer>http://arenavision.in</referer>
+			<page>http://www.arenavision.in/AV[makelist.param4]</page>
+			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			<thumbnail>http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/2016-17-Premier-league-sleeve-patch-2.jpg</thumbnail>
-                        <fanart>https://cdn0.vox-cdn.com/thumbor/yUs4pWI4BLTSsN0_4ShM-9sS10c=/0x30:4126x2781/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/48779295/2016-bpl-logo.0.0.jpg</fanart>
+			<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
 <expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}PREMIER LEAGUE[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,75}317px">([0-9]+)</expres>
 <page>http://arenavision.in/schedule</page>
 <Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/2016-17-Premier-league-sleeve-patch-2.jpg</thumbnail>
 <fanart>https://cdn0.vox-cdn.com/thumbor/yUs4pWI4BLTSsN0_4ShM-9sS10c=/0x30:4126x2781/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/48779295/2016-bpl-logo.0.0.jpg</fanart>
 </item>
-
 
 
 <item>
