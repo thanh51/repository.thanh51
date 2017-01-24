@@ -27,7 +27,7 @@
 </item>
  
 <item>
-<title> [COLOR cyan][B]->> XEM THI ĐẤU THỂ THAO QUỐC TẾ: Bóng đá, bóng rổ, tenis...(được cập nhật hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]->> XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -44,28 +44,49 @@
 			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">([0-9]+)</expres>
 <page>http://arenavision.in/schedule</page>
 <Agent>Mozilla</Agent>
-</regex>
-<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>
 /////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG:ANH, ĐỨC, TÂY BAN NHA (AUTO UPDATE)[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnhTBNDUC.xml</externallink>
-<thumbnail>https://s29.postimg.org/j56sgkip3/bongda.jpg</thumbnail>
+<title>[COLOR red][B]Xem bóng đá Ngoại hạng Anh(auto update)-Theo giờ VN+6 tiếng[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param4]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}PREMIER LEAGUE[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,75}317px">([0-9]+)</expres>
+<page>http://arenavision.in/schedule</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
+
+<fanart>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</fanart>
 </item>
-////////////////////////////////////////
+/////////////////////////////////////////////////
 
 <item>
 <title>[COLOR orange][B]•[/B][/COLOR]   [COLOR cyan][B]KÊNH THỂ THAO [/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>icon</thumbnail>
 </item>
-
-
 
 <item>
 <title>VTVcab3 ThethaoTV</title>
@@ -93,83 +114,58 @@
 <thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
 </item>
 <item>
-<title>ONLINE TV BEIN SPORT 1HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd1bein1/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports1.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 2HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd2bein2/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports2.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 3HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd3bein3/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports3.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 4HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd4bein4/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports4.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 5HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd5bein5/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports5.png</thumbnail>
-</item>
-<item>
-<title>Bóng đá 1 (thường phát các ngày cuối tuần)</title>
+<title>Bóng đá 1 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel1_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
-<title>Bóng đá 2 (thường phát các ngày cuối tuần)</title>
+<title>Bóng đá 2 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel4_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
-<title>Bóng đá 3 (thường phát các ngày cuối tuần)</title>
+<title>Bóng đá 3 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel5_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
-<title>Bóng đá 4 (thường phát các ngày cuối tuần)</title>
+<title>Bóng đá 4 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel6_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
-<title>Bóng đá 5 (thường phát các ngày cuối tuần)</title>
+<title>Bóng đá 5 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel7_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
-<title>Bóng đá 6(thường phát các ngày cuối tuần)</title>
+<title>Bóng đá 6(phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 
 <item>
-<title>K+(253096)(thường phát các ngày cuối tuần)</title>
+<title>K+(253096)(phát các ngày cuối tuần)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&amp;mode=2&amp;name=K+(253096)</link>
 <thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
 </item>
 <item>
-<title>K+(259091)(thường phát các ngày cuối tuần)</title>
+<title>K+(259091)(phát các ngày cuối tuần)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&amp;mode=2&amp;name=K+(259091)</link>
 <thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
 </item>
 <item>
-<title>K+(259400)(thường phát các ngày cuối tuần)</title>
+<title>K+(259400)(phát các ngày cuối tuần)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&amp;mode=2&amp;name=K+(259400)</link>
 <thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
 </item>
 <item>
-<title>K+(263117)(thường phát các ngày cuối tuần)</title>
+<title>K+(263117)(phát các ngày cuối tuần)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/263117&amp;mode=2&amp;name=K+(263117)</link>
 <thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
 </item>
 <item>
-<title>K+(262679)(thường phát các ngày cuối tuần)</title>
+<title>K+(262679)(phát các ngày cuối tuần)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262679&amp;mode=2&amp;name=K+(262679)</link>
 <thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
 </item>
@@ -1444,7 +1440,7 @@
 
 <item>
 <title>ANVIEN HD</title>
-<link>http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<link>http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>https://s29.postimg.org/b2fgjxxuv/anvienhd.jpg</thumbnail>
 </item>
 <item>
@@ -1747,6 +1743,340 @@
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&amp;mode=2&amp;name=BBC Earth</link>
 <thumbnail>https://s14.postimg.org/5pu5iqxgh/bbcearth.png</thumbnail>
 </item>
+<item>
+<title>MILITARY CHANNEL</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=591</page>
+</regex>
+</item>
+<item>
+<title>DOCUMENTARY(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=568</page>
+</regex>
+</item>
+<item>
+<title>MIAMI TV(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=95</page>
+</regex>
+</item>
+<item>
+<title>MIAMI TV LIFE(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=321</page>
+</regex>
+</item>
+<item>
+<title>MIAMITV MUSIC(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=322</page>
+</regex>
+</item>
+<item>
+<title>THE WORLD NETWORK(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=58</page>
+</regex>
+</item>
+<item>
+<title>MUSIC CHANNEL(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=579</page>
+</regex>
+</item>
+<item>
+<title>TRAVEL CHANNEL(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=561</page>
+</regex>
+</item>
+<item>
+<title>TV47(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=136</page>
+</regex>
+</item>
+<item>
+<title>YOGA CHANNEL(USA)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=558</page>
+</regex>
+</item>
+<item>
+<title>VIetface TV</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=103</page>
+</regex>
+</item>	
+<item>
+<title>CCTV9 DOCUMENTARY</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=161</page>
+</regex>
+</item>	
+<item>
+<title>HISTORY CHANNEL CHINA</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=634</page>
+</regex>
+</item>	
+<item>
+<title>HISTORY CHANNEL HONGKONG</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=677</page>
+</regex>
+</item>	
+<item>
+<title>HISTORY CHANNEL JAPAN</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=633</page>
+</regex>
+</item>	
+<item>
+<title>HISTORY CHANNEL KOREA</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=706</page>
+</regex>
+</item>	
+<item>
+<title>HISTORY CHANNEL(UK)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=632</page>
+</regex>
+</item>
+<item>
+<title>USA HISTORY CHANNEL</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=630</page>
+</regex>
+</item>
+<item>
+<title>HISTORY CHANNEL RUSSIA</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=728</page>
+</regex>
+</item>	
+<item>
+<title>BBC NEWS(UK)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=27</page>
+</regex>
+</item>
+<item>
+<title>BBC WORLD NEWS(UK)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=216</page>
+</regex>
+</item>
+<item>
+<title>BBC TWO(UK)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=190</page>
+</regex>
+</item>
+<item>
+<title>BLOOMBERG EURO(UK)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=217</page>
+</regex>
+</item>
+<item>
+<title>FASHION ON TELEVISION(UK)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=34</page>
+</regex>
+</item>
+<item>
+<title>FRANCE 24</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=93</page>
+</regex>
+</item>	
+<item>
+<title>EURONEWS</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=675</page>
+</regex>
+</item>	
+<item>
+<title>AL JAZEERA(Eng)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=2</page>
+</regex>
+</item>	
+<item>
+<title>TV PERSIAN</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=347</page>
+</regex>
+</item>
+<item>
+<title>RUSSIA TODAY</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=24</page>
+</regex>
+</item>	
+<item>
+<title>NEWS ONE UCRAINA</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=204</page>
+</regex>
+</item>	
+<item>
+<title>A ONE UA</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=203</page>
+</regex>
+</item>	
+<item>
+<title>WORLD TRAVEL CHANNEL(Turkey)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=198</page>
+</regex>
+</item>	
+<item>
+<title>CNC WORLDL(China)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=297</page>
+</regex>
+</item>	
+<item>
+<title>CHINASE CHANNEL</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=580</page>
+</regex>
+</item>	
+<item>
+<title>DAS ERSTE (Germany)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=35</page>
+</regex>
+</item>	
+<item>
+<title>DELUXE MUSIC (Germany)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=220</page>
+</regex>
+</item>	
+<item>
+<title>NEX1 TV (Germany)</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=221</page>
+</regex>
+</item>	
+
 ///////////////////////////////////////////
 <item>
 <title>[COLOR cyan][B]->> XEM IPTV WORLD [/B] [/COLOR]</title>
@@ -1885,18 +2215,6 @@
 //////////////////////
 
 </items>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
