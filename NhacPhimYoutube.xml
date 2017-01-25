@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channel>
-<items>
-
 <item>
 <title>NHAC TRU TINH </title>
 <link>$doregex[makelist]</link>
@@ -91,6 +88,20 @@
 
 /////////////////////////////
 <item>
+<title>[COLOR cyan][B]NHẠC THÚY NGA[/B][/COLOR]</title></title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/29RVAIZ</externallink>
+</item>
+///////////////////////////////////////
+<item>
+<title>[COLOR cyan][B]HÀI VÂN SƠN[/B][/COLOR]</title></title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/2a1sNQD</externallink>
+</item>
+///////////////////////////////////////   
+
+
+<item>
 <title>VAN SON</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -148,65 +159,7 @@
 </item>
 
 /////////////////////////////
-<item>
-<title>NHAC VANG PLUS</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item>
-<title>[makelist.param1]           </title>
-<link>$doregex[makelist2]</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>span class="" >(.*?)&lt;\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
-<page>https://www.youtube.com/channel/UCLVvi2ciMGxYcYyCcfbu1Hw</page>
-</regex>
 
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<item>
-<title>[makelist2.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
-</regex>
-</item>
-
-/////////////////////////////
-<item>
-<title>Nhạc Hải Ngoại Tuyển Chọn</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]   [makelist.param3]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-]]></listrepeat>
-<expres>href="\/watch\?v=(.*?)">(.*?)&lt;.*?> -.*?:(.*?)&lt;\/span>&lt;\/h3></expres>
-<page>https://www.youtube.com/channel/UCXFdEoEhJWUWUwl2-_1jdEg/videos</page>
-</regex>
-</item>
-
-//////////////////////////
-<item>
-<title>Góc Nhạc Vàng</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]   [makelist.param3]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-]]></listrepeat>
-<expres>href="\/watch\?v=(.*?)">(.*?)&lt;.*?> -.*?:(.*?)&lt;\/span>&lt;\/h3></expres>
-<page>https://www.youtube.com/channel/UCZ7YzALMKFNy18ufZnnsipg/videos</page>
-</regex>
-</item>
-
-//////////////////////////
 <item>
 <title>Nhạc Vàng Trữ Tình</title>
 <link>$doregex[makelist]</link>
@@ -295,35 +248,7 @@
 </item>
 
 /////////////////////////////
-<item>
-<title>BÀI HÁT YÊU THÍCH</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item>
-<title>[makelist.param1]           </title>
-<link>$doregex[makelist2]</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>span class="" >(.*?)&lt;\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>
-<page>https://www.youtube.com/channel/UC_Bxxa1zAGL14PH01UTnwuQ</page>
-</regex>
 
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<item>
-<title>[makelist2.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
-</regex>
-</item>
-
-/////////////////////////////
 <item>
 <title>THẦN TƯỢNG BOLERO</title>
 <link>$doregex[makelist]</link>
@@ -369,102 +294,7 @@
 </regex>
 </item>
 /////////////////////
-<item>
-<title>Tiếng hát vượt thời gian của huyền thoại hải ngoại Ngọc Lan </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=c9GfW-lH98E&amp;list=RDc9GfW-lH98E</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
-<item>
-<title>Những ca khúc Nhạc Vàng Giọng Nữ Được Yêu Thích Nhất Mọi Thời Đại</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=lymDYzI4kQU&amp;list=RDlymDYzI4kQU</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
-<item>
-<title>BĂNG TÂM</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=W3PwDzAnEXM&amp;list=RDW3PwDzAnEXM</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
-<item>
-<title>Những ca khúc nhạc trũ tình hay nhất của Hạ Vy</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=To34oHuLqlE&amp;list=RDTo34oHuLqlE</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
-<item>
-<title>Những tình khúc nhạc vàng hay nhất của Sơn Tuyền</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=dTzyI7n9xQY&amp;list=RDdTzyI7n9xQY</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
-<item>
-<title>Những ca khúc nhạc vàng hay nhất của giọng ca vàng Hoàng Oanh</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=gKgpw6L5t7k&amp;list=RDgKgpw6L5t7k#t=186</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
+
 <item>
 <title>Bộ Tứ Nữ Hoàng Nhạc Vàng Tuyển Chọn </title>
 <link>$doregex[makelist]</link>
@@ -481,22 +311,7 @@
 </regex>
 </item>
 /////////////////////
-<item>
-<title>Những Tình Khúc Nhạc Vàng bất hủ mãi với thời gian</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=GNMZqSnTdTU&amp;list=RDGNMZqSnTdTU</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-/////////////////////
+
 <item>
 <title>Những ca khúc bất hủ của ông hoàng Nhạc Vàng Duy Khánh</title>
 <link>$doregex[makelist]</link>
@@ -526,33 +341,10 @@
 <page>https://www.youtube.com/user/LadyKillahOfficial/videos</page>
 </regex>
 </item>
+
+
 /////////////////////////////
-<item>
-<title>Nhạc Việt Bất Hủ</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]   [makelist.param3]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-]]></listrepeat>
-<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
-<page>https://www.youtube.com/channel/UCcIdOGuvE8Yd0tUW6A13jAA/videos</page>
-</regex>
-</item>
-/////////////////////////////
-                <item>
-		<title>[COLOR cyan][B]NHẠC THÚY NGA[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>http://bit.ly/29RVAIZ</externallink>
-		</item>
-                ///////////////////////////////////////
-                <item>
-		<title>[COLOR cyan][B]HÀI VÂN SƠN[/B][/COLOR]</title></title>
-		<link>http://ignorame</link>
-		<externallink>http://bit.ly/2a1sNQD</externallink>
-		</item>
-                ///////////////////////////////////////              
+
 <item>
 <title>PHIM VIET</title>
 <link>$doregex[makelist]</link>
@@ -683,6 +475,8 @@
 </regex>
 </item>
 //////////////////////////
-  
+
+ 
 </items>
 </channel>
+
