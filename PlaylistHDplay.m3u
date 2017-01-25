@@ -14,16 +14,18 @@ http://www.youtube.com
 #EXTINF:-1,[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
-http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
-http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORTS 1
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925592&stream=1&connectionId=oldurl-d1a4148927b4f4e1432a2c6ac0e36b671d2c4107&group=iphone
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORTS 2
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22896134&stream=1&connectionId=oldurl-4c2dd67290c1272361f14925e3cca7ac0782b52c&group=iphone
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORTS 3
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925579&stream=1&connectionId=oldurl-2e242b0f0964475e5fb0f198d207cdbe6079a633&group=iphone
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/uiw7sb1u3/matchfutbol1hd.jpg",Match Futbol 1 HD (NHA)
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/254780&mode=2&name=Match Futbol 1 HD
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/4uvfgyh7v/matchfutbol2.jpg",Match Futbol 2 HD (NHA)
@@ -180,8 +182,6 @@ rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/YNCzLp9.png", VTVCab2 
 http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao
-http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zr9dOPm.png", VTVCab4 
 http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png", VTVCab5
@@ -202,8 +202,6 @@ http://live.cdn.mobifonetv.vn/motv3/styletvhd_hls.smil/chunklist_b1200000.m3u8|U
 http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png", VTVCab15 
 http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa
-http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/2nOJwku.png", VTVCab17 
 http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
