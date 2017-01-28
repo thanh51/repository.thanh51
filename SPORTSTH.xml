@@ -44,13 +44,19 @@
 			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">([0-9]+)</expres>
+<expres><![CDATA[190px">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">([0-9]+)]]></expres>
 <page>http://arenavision.in/schedule</page>
 <Agent>Mozilla</Agent>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>
+ 
+ 
+Z
+
+ 190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}196px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}991px">(.*?)<[\w\W\s]{0,45}189px">([0-9]+)
+
 ///////////////////////////////////////                  
 <item>
 <title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO 1[/B][/COLOR]</title>
