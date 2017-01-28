@@ -14,24 +14,16 @@ http://www.youtube.com
 #EXTINF:-1,[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
 http://www.youtube.com
 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
+http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
+http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
 http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",SPORTS 1
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925592&stream=1&connectionId=oldurl-d1a4148927b4f4e1432a2c6ac0e36b671d2c4107&group=iphone
-#EXTINF:-1 group-title="Sports" tvg-logo="",SPORTS 2
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22896134&stream=1&connectionId=oldurl-4c2dd67290c1272361f14925e3cca7ac0782b52c&group=iphone
-#EXTINF:-1 group-title="Sports" tvg-logo="",SPORTS 3
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925579&stream=1&connectionId=oldurl-2e242b0f0964475e5fb0f198d207cdbe6079a633&group=iphone
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/uiw7sb1u3/matchfutbol1hd.jpg",Match Futbol 1 HD (NHA)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/254780&mode=2&name=Match Futbol 1 HD
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/4uvfgyh7v/matchfutbol2.jpg",Match Futbol 2 HD (NHA)
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/255015&mode=2&name=Match Futbol 2 HD
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",Sky sport 1 (NHA)
-plugin://program.plexus/?url=acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d&mode=1&name=Sky sport 1
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 
 http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD 
@@ -116,25 +108,18 @@ http://149.202.207.8:8080/tinKk00JuTTairoona-4/Strm/index.m3u8
 http://149.202.207.8:8080/tinKk00JuTTairoona-5/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 1
 http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-1nl/Strm/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 2
 http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-2nl/Strm/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 3
 http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-3nl/Strm/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 4
 http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-4nl/Strm/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 5
 http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-5nl/Strm/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 6
 http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-6nl/Strm/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 1
 http://149.202.207.8:8080/tinKk00JuTT/f00cssp1/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 2
 http://149.202.207.8:8080/tinKk00JuTT/f00cssp2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT 1
@@ -199,6 +184,8 @@ rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
 http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/YNCzLp9.png", VTVCab2 
 http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
+http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zr9dOPm.png", VTVCab4 
 http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png", VTVCab5
@@ -219,6 +206,8 @@ http://live.cdn.mobifonetv.vn/motv3/styletvhd_hls.smil/chunklist_b1200000.m3u8|U
 http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png", VTVCab15 
 http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
+http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/2nOJwku.png", VTVCab17 
 http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
@@ -557,6 +546,15 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+
+
+
+
 
 
 
