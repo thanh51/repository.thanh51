@@ -1,109 +1,132 @@
-﻿#EXTM3U
-#EXTINF:-1 group-title="KÊNH VTV ",VTV1 HD
-http://118.69.252.4/tv/vtv1HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV3 HD
-http://118.69.252.4/tv/vtv3HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV6 HD
-http://118.69.252.4/tv/vtv6HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",QPVN HD
-http://118.69.184.194/tv1/quocphongHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",THETHAOTV HD
-http://118.69.252.4/tv1/thethaoTVHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",BONGDATV HD
-http://118.69.252.4/tv1/bongdaTVHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV2
-http://118.69.252.4/tv/vtv2/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV3
-http://118.69.252.4/tv/vtv3/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV4
-http://118.69.184.194/tv/vtv4/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV6
-http://118.69.252.4/tv/vtv6/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VTV9
-http://118.69.252.4/tv/vtv9/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",AN NINH TV
-http://118.69.252.4/tv/anninhtv/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",QUOC HOI
-http://118.69.184.194/tv1/quochoi/index.m3u8
-#EXTINF:-1 group-title="KÊNH VTV ",VNEWS
-http://118.69.252.4/tv1/vnews/index.m3u8
+#EXTM3U
 
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTV2 HD
-http://118.69.252.4/tv/htv2HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTV7 HD
-http://118.69.252.4/tv/htv7HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTV9 HD
-http://118.69.252.4/tv/htv9HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTVC MOVIE HD
-http://118.69.252.4/tv1/htvcmovieHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTVC THUANVIET HD
-http://118.69.252.4/tv1/htvcthuanvietHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",VTC3 HD
-http://118.69.252.4/tv1/vtc3HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",ITV HD
-http://118.69.184.194/tv1/itvHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTV3
-http://118.69.252.4/tv/htv3/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTV4
-http://118.69.252.4/tv1/htv4/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTVC THETHAO
-http://118.69.252.4/tv1/htvcthethao/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTVC GIA DINH
-http://118.69.252.4/tv1/htvcgiadinh/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",HTVC THUAN VIET
-http://118.69.252.4/tv1/htvcthuanviet/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",VTC6
-http://118.69.184.194/tv1/vtc6/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",VTC7
-http://118.69.252.4/tv/vtc7/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",VTC8
-http://118.69.184.194/tv1/vtc8/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",VTC9
-http://118.69.184.194/tv1/vtc9/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",VTC14
-http://118.69.184.194/tv1/vtc14/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",THVL1
-http://118.69.252.4/tv/vinhlong1/index.m3u8
-#EXTINF:-1 group-title="KÊNH HTV-VTC ",THVL2
-http://118.69.252.4/tv/vinhlong2/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
+http://alotv.mobifone.com.vn/lives/origin01/vtv1sd/vtv1sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png", VTV1 HD
+http://alotv.mobifone.com.vn/lives/origin01/vtv1hd/vtv1hd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
+http://alotv.mobifone.com.vn/lives/origin01/vtv2sd/vtv2sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png", VTV2 HD
+http://alotv.mobifone.com.vn/lives/origin03/vtv2hd/vtv2hd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
+http://alotv.mobifone.com.vn/lives/origin01/vtv3sd/vtv3sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png", VTV3 HD
+http://alotv.mobifone.com.vn/lives/origin01/vtv3hd/vtv3hd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png", VTV4
+http://alotv.mobifone.com.vn/lives/origin01/vtv4sd/vtv4sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png", VTV5
+http://alotv.mobifone.com.vn/lives/origin01/vtv5sd/vtv5sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6
+http://alotv.mobifone.com.vn/lives/origin01/vtv6sd/vtv6sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png", VTV6 HD
+http://alotv.mobifone.com.vn/lives/origin03/vtv6hd/vtv6hd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://s29.postimg.org/x5csh1p7r/vtv7.jpg", VTV7
+http://alotv.mobifone.com.vn/lives/origin01/vtv7sd/vtv7sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://s24.postimg.org/wpde90rol/vtv8.png", VTV8
+http://alotv.mobifone.com.vn/lives/origin01/vtv8sd/vtv8sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/qCWsfhc.png", VTV9
+http://alotv.mobifone.com.vn/lives/origin03/vtv9sd/vtv9sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV
+http://alotv.mobifone.com.vn/lives/origin02/antvsd/antvsd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/4Uv9ddm.png", Quochoi
+http://alotv.mobifone.com.vn/lives/origin03/quochoisd/quochoisd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
+http://alotv.mobifone.com.vn/lives/origin03/qpvnhd/qpvnhd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/nmmH5NG.png",VTVcab1 Giai tri
+http://alotv.mobifone.com.vn/lives/origin01/giaitrisd/giaitrisd.m3u8
 
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",STAR MOVIES HD
-http://118.69.252.4/tv3/StarMoviesHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",HBO HD
-http://118.69.252.4/tv3/HBOHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",AXN HD
-http://118.69.252.4/tv3/AXNHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",DISCOVERY WORLD HD
-http://118.69.252.4/tv3/DiscoveryWorldHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",NATIONAL GEOGRAPHIC HD
-http://118.69.252.4/tv3/NationalGeographicHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",CARTOON NETWORK HD
-http://118.69.252.4/tv3/CartoonNetworkHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",FASHION TV HD
-http://118.69.252.4/tv3/FashionTVHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",FOX SPORTS HD
-http://118.69.252.4/tv3/FoxSportsHD/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",CINEMAX
-http://118.69.252.4/tv3/Cinemax/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",ANIMAL PLANET
-http://118.69.252.4/tv3/AnimalPlanet/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",TLC
-http://118.69.252.4/tv3/TravelLiving/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",DISCOVERY
-http://118.69.252.4/tv3/Discovery/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",FOX SPORTS 2
-http://118.69.252.4/tv3/FoxSports2/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ ",FOX SPORTS
-http://118.69.252.4/tv3/FoxSports/index.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/s7x0UhN.png", HTV2
+http://alotv.mobifone.com.vn/lives/origin02/htv2sd/htv2sd.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/MMQITB4.png", HTV3
+http://alotv.mobifone.com.vn/lives/origin02/htv3sd/htv3sd.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/P7yWIBI.png", HTV7
+http://alotv.mobifone.com.vn/lives/origin02/htv7sd/htv7sd.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/N3nCaWT.png", HTV9
+http://alotv.mobifone.com.vn/lives/origin02/htv9sd/htv9sd.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s21.postimg.org/sbcyi4ttz/htvcthuanviet.png", Thuan viet
+http://alotv.mobifone.com.vn/lives/origin02/thuanvietsd/thuanvietsd.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png", FBNC
+http://alotv.mobifone.com.vn/lives/origin02/fbncsd/fbncsd.m3u8
 
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png", VTC1
+http://alotv.mobifone.com.vn/lives/origin01/vtc1sd/vtc1sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png", VTC1 HD
+http://alotv.mobifone.com.vn/lives/origin02/vtchd1hd/vtchd1hd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
+http://alotv.mobifone.com.vn/lives/origin01/vtc2sd/vtc2sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png", VTC3
+http://alotv.mobifone.com.vn/lives/origin01/vtc3sd/vtc3sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png", VTC3 HD
+http://alotv.mobifone.com.vn/lives/origin02/vtc3hd/vtc3hd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png", VTC4
+http://alotv.mobifone.com.vn/lives/origin01/vtc4sd/vtc4sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
+http://alotv.mobifone.com.vn/lives/origin01/vtc5sd/vtc5sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
+http://alotv.mobifone.com.vn/lives/origin01/vtc6sd/vtc6sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png", VTC7
+http://alotv.mobifone.com.vn/lives/origin01/vtc7sd/vtc7sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png", VTC8
+http://alotv.mobifone.com.vn/lives/origin01/vtc8sd/vtc8sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png", VTC9
+http://alotv.mobifone.com.vn/lives/origin01/vtc9sd/vtc9sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png", VTC10
+http://alotv.mobifone.com.vn/lives/origin01/vtc10sd/vtc10sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png", VTC11
+http://alotv.mobifone.com.vn/lives/origin01/vtc11sd/vtc11sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
+http://alotv.mobifone.com.vn/lives/origin01/vtc12sd/vtc12sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png", ITV SD
+http://alotv.mobifone.com.vn/lives/origin01/vtc13sd/vtc13sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/YnunTc5.png", ITV HD
+http://alotv.mobifone.com.vn/lives/origin02/itvhd/itvhd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png", VTC14
+http://alotv.mobifone.com.vn/lives/origin01/vtc14sd/vtc14sd.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png", VTC16
+http://alotv.mobifone.com.vn/lives/origin01/vtc16sd/vtc16sd.m3u8
 
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM
+http://alotv.mobifone.com.vn/lives/origin02/ncmsd/ncmsd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png", Phim hay
+http://alotv.mobifone.com.vn/lives/origin03/phimhaysd/phimhaysd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png", Mien tay
+http://alotv.mobifone.com.vn/lives/origin02/mientaysd/mientaysd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png", Vietteen
+http://alotv.mobifone.com.vn/lives/origin02/vietteensd/vietteensd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", Sam
+http://alotv.mobifone.com.vn/lives/origin03/samsd/samsd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_cachmang.png", Nhac cach mang
+http://alotv.mobifone.com.vn/lives/origin02/nhaccachmangsd/nhaccachmangsd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="https://s28.postimg.org/xfxwdbfbh/nhacthieunhi.jpg", Nhac thieu nhi
+http://alotv.mobifone.com.vn/lives/origin02/nhacthieunhisd/nhacthieunhisd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_nhactre.png", Nhac tre
+http://alotv.mobifone.com.vn/lives/origin02/nhactresd/nhactresd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_dantoc.png", Nhac dan toc
+http://alotv.mobifone.com.vn/lives/origin02/nhacdantocsd/nhacdantocsd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_trutinh.png", Nhac tru tinh
+http://alotv.mobifone.com.vn/lives/origin02/nhactrutinhsd/nhactrutinhsd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_nhacnhe.png", Nhac nhe
+http://alotv.mobifone.com.vn/lives/origin02/nhacnhesd/nhacnhesd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_nambo.png", Nhac nam bo
+http://alotv.mobifone.com.vn/lives/origin02/nhacnambosd/nhacnambosd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_codien.png", Nhac co dien
+http://alotv.mobifone.com.vn/lives/origin03/nhaccodiensd/nhaccodiensd.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_docsach.png", Doc sach
+http://alotv.mobifone.com.vn/lives/origin03/docsachsd/docsachsd.m3u8
 
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png", Vinh long 1
+http://alotv.mobifone.com.vn/lives/origin02/vinhlongsd/vinhlongsd.m3u8
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-duong-1.png", BTV1
+http://alotv.mobifone.com.vn/lives/origin03/btv1sd/btv1sd.m3u8
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s22.postimg.org/8l2x91pdd/sctv10.jpg", SCTV10
+http://alotv.mobifone.com.vn/lives/origin03/sctv10sd/sctv10sd.m3u8
 
-
-
-
-
-
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/pdpbe54ud/nhk.png", NHK
+http://alotv.vn/lives/origin03/nhkworldsd/nhkworldsd.m3u8
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg", MTV
+http://alotv.vn/lives/origin03/mtvsd/mtvsd.m3u8
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://kbsworld.kbs.co.kr/images/main_logo.jpg", KBS
+http://alotv.vn/lives/origin03/kbsworldsd/kbsworldsd.m3u8
 
 
 
