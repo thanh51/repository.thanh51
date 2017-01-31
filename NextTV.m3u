@@ -1,253 +1,112 @@
 #EXTM3U thanh51
 
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV1 HD
-http://27.67.50.6:18080/154_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV2
-http://27.67.50.6:18080/2_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV3 HD
-http://27.67.50.6:18080/155_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV4
-http://27.67.50.6:18080/4_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV5
-http://27.67.50.6:18080/5_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV6 HD
-http://27.67.50.6:18080/156_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV8 HD
-http://27.67.50.6:18080/39_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",VTV9
-http://27.67.50.6:18080/8_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",AN NINH TV
-http://27.67.50.6:18080/18_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",AN NINH THE GIOI HD
-http://27.67.50.6:18080/51_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",TTXVN
-http://27.67.50.6:18080/20_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",QUOC HOI s1
-http://27.67.50.6:18080/180_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",QUOC HOI s2
-http://27.67.50.6:18080/299_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="",QUOC PHONG VIET NAM HD
-http://27.67.50.6:18080/141_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+http://27.67.64.72:18080/155_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
+http://27.67.64.68:18080//195_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
+http://27.67.64.68:18080/196_3.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="",HA NOI 1 HD
-http://27.67.50.6:18080/9_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="",HA NOI 2
-http://27.67.50.6:18080/10_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="",HiTV-Hanoicab1
-http://27.67.50.6:18080/52_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="",You!TV-Hanoicab2
-http://27.67.50.6:18080/50_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="",MOV HD-Hanoicab4
-http://27.67.50.6:18080/30_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/nmmH5NG.png",VTVCAB1
+http://27.67.64.73:18080/211_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVCAB3 THETHAO
+http://27.67.64.71:18080/214_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/PTguOdx.png",VTVCAB3 THETHAO HD
+http://27.67.64.70:18080/221_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/NCIpILU.png",VTVCAB6
+http://27.67.64.71:18080/216_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/aVP5nbS.png",VTVCAB10
+http://27.67.64.71:18080/218_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/XhCmf93.png",VTVCAB12
+http://27.67.64.73:18080/231_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCAB15
+http://27.67.64.72:18080/219_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/8y24qz6yl/thethaott.jpg",THE THAO TIN TUC HD
+http://27.67.64.73:18080/223_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/TSfiqGv.png",VTVCAB16 BONGDA
+http://27.67.64.70:18080/215_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTTVcab16 BONGDA HD
+http://27.67.64.68:18080/222_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/iyg21My.png",VTVCAB20
+http://27.67.64.70:18080/213_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/iiga83zql/vtvcab22.jpg",VTVCAB22 LIFE TV
+http://27.67.64.71:18080/237_2.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTV1
-http://27.67.50.6:18080/53_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTV2
-http://27.67.50.6:18080/54_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTV3
-http://27.67.50.6:18080/71_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTV7 HD
-http://27.67.50.6:18080/157_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTV9 HD
-http://27.67.50.6:18080/158_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTV THE THAO
-http://27.67.50.6:18080/37_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC CA NHAC
-http://27.67.50.6:18080/58_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC DU LICH & CUOC SONG
-http://27.67.50.6:18080/60_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC FBNC HD
-http://27.67.50.6:18080/177_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC GIA DINH
-http://27.67.50.6:18080/59_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC PHIM
-http://27.67.50.6:18080/31_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC PHIM HD
-http://27.67.50.6:18080/159_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC PHU NU
-http://27.67.50.6:18080/56_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC THUAN VIET
-http://27.67.50.6:18080/57_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC THUAN VIET HD
-http://27.67.50.6:18080/160_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="",HTVC+ CHANNEL B
-http://27.67.50.6:18080/25_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/m603PX8.png",HTV7 HD
+http://27.67.64.68:18080/157_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/fbnc.png",HTVC FBNC HD
+http://27.67.64.68:18080/177_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-gia-dinh.png",HTVC GIADINH
+http://27.67.64.73:18080/59_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-thuan-viet.png",HTVC THUANVIET
+http://27.67.64.72:18080/57_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-thuan-viet-hd.png",HTVC THUANVIET HD
+http://27.67.64.68:18080/160_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-phu-nu.png",HTVC PHUNU
+http://27.67.64.72:18080/56_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-movie-hd.png",HTVC PHIM
+http://27.67.64.68:18080/31_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvccanhac.png",HTVC CANHAC
+http://27.67.64.73:18080/58_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-du-lich.png",HTVC DU LỊCH
+http://27.67.64.68:18080/60_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-hd.png",HTVC +
+http://27.67.64.73:18080/25_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/bULyZwy.png",HTVC THETHAO
+http://27.67.64.71:18080/37_2.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="VTC" tvg-logo="",VTC1 HD
-http://27.67.50.6:18080/150_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",VTC3
-http://27.67.50.6:18080/36_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",VTC3 HD
-http://27.67.50.6:18080/145_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",Yeah1!Family-VTC4
-http://27.67.50.6:18080/46_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",SOFATV-VTC5
-http://27.67.50.6:18080/28_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",VTC6
-http://27.67.50.6:18080/29_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",TodayTV-VTC7
-http://27.67.50.6:18080/47_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",VIEWTV-VTC8
-http://27.67.50.6:18080/14_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",LET'S VIET-VTC9
-http://27.67.50.6:18080/48_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",NETVIET-VTC10
-http://27.67.50.6:18080/15_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",Kids&FamilyTV-VTC11
-http://27.67.50.6:18080/72_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",VTC13-iTV HD
-http://27.67.50.6:18080/152_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",VTC14
-http://27.67.50.6:18080/16_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="",3NTV-VTC16
-http://27.67.50.6:18080/17_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+http://27.67.64.72:18080/150_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
+http://27.67.64.68:18080/181_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+http://27.67.64.68:18080/145_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
+http://27.67.64.71:18080/46_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
+http://27.67.64.71:18080/28_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png",VTC6
+http://27.67.64.68:18080/29_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
+http://27.67.64.70:18080/47_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+http://27.67.64.70:18080/14_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
+http://27.67.64.68:18080/48_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10
+http://27.67.64.73:18080/15_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
+http://27.67.64.68:18080/72_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 
+http://27.67.64.70:18080/152_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/YnunTc5.png",VTC13 HD
+http://27.67.64.70:18080/152_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
+http://27.67.64.70:18080/16_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
+http://27.67.64.73:18080/17_2.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",AN GIANG 1
-http://27.67.50.6:18080/136_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BA RIA VUNG TAU
-http://27.67.50.6:18080/128_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BAC LIEU
-http://27.67.50.6:18080/126_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BAC GIANG
-http://27.67.50.6:18080/84_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BAC KAN
-http://27.67.50.6:18080/78_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BAC NINH
-http://27.67.50.6:18080/92_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BEN TRE
-http://27.67.50.6:18080/131_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BINH DUONG 1
-http://27.67.50.6:18080/123_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BINH DUONG 2
-http://27.67.50.6:18080/124_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BINH DINH
-http://27.67.50.6:18080/111_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BINH PHUOC 1
-http://27.67.50.6:18080/121_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",BINH THUAN
-http://27.67.50.6:18080/118_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",CA MAU
-http://27.67.50.6:18080/125_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",CAO BANG
-http://27.67.50.6:18080/77_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",CAN THO
-http://27.67.50.6:18080/137_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",DA NANG 1
-http://27.67.50.6:18080/107_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",DAK LAK
-http://27.67.50.6:18080/115_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",DAK NONG
-http://27.67.50.6:18080/116_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",DIEN BIEN
-http://27.67.50.6:18080/86_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",DONG NAI 1
-http://27.67.50.6:18080/127_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",DONG THAP 1
-http://27.67.50.6:18080/132_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",GIA LAI
-http://27.67.50.6:18080/112_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HA GIANG
-http://27.67.50.6:18080/76_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HA NAM
-http://27.67.50.6:18080/97_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HA TINH
-http://27.67.50.6:18080/103_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HAI DUONG 1
-http://27.67.50.6:18080/93_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HAI PHONG
-http://27.67.50.6:18080/94_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HAU GIANG
-http://27.67.50.6:18080/138_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HOA BINH
-http://27.67.50.6:18080/100_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",HUNG YEN
-http://27.67.50.6:18080/96_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",KHANH HOA
-http://27.67.50.6:18080/102_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",KIEN GIANG
-http://27.67.50.6:18080/140_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",KON TUM
-http://27.67.50.6:18080/110_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",LAI CHAU
-http://27.67.50.6:18080/85_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",LANG SON
-http://27.67.50.6:18080/83_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",LAO CAI
-http://27.67.50.6:18080/88_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",LAM DONG
-http://27.67.50.6:18080/119_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",LONG AN 34
-http://27.67.50.6:18080/129_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",NAM DINH
-http://27.67.50.6:18080/98_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",NGHE AN
-http://27.67.50.6:18080/114_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",NINH BINH
-http://27.67.50.6:18080/99_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",NINH THUAN
-http://27.67.50.6:18080/117_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",PHU THO
-http://27.67.50.6:18080/90_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",PHU YEN
-http://27.67.50.6:18080/122_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",QUANG BINH
-http://27.67.50.6:18080/104_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",QUANG NAM
-http://27.67.50.6:18080/108_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",QUANG NGAI
-http://27.67.50.6:18080/109_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",QUANG NINH 1
-http://27.67.50.6:18080/81_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",QUANG NINH 3
-http://27.67.50.6:18080/82_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",QUANG TRI
-http://27.67.50.6:18080/105_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",SOC TRANG 1
-http://27.67.50.6:18080/139_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",SON LA
-http://27.67.50.6:18080/87_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",TAY NINH 11
-http://27.67.50.6:18080/120_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",THAI NGUYEN 1
-http://27.67.50.6:18080/80_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",THANH HOA
-http://27.67.50.6:18080/101_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",THUA THIEN HUE
-http://27.67.50.6:18080/106_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",TIEN GIANG
-http://27.67.50.6:18080/130_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",TRA VINH
-http://27.67.50.6:18080/135_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",TUYEN QUANG
-http://27.67.50.6:18080/79_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",VINH LONG 1
-http://27.67.50.6:18080/133_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",VINH LONG 2
-http://27.67.50.6:18080/134_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",VINH PHUC
-http://27.67.50.6:18080/91_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="",YEN BAI
-http://27.67.50.6:18080/89_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/eIbgrWr.png",HITV Hanoicab1
+http://27.67.64.71:18080/52_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tuyen-quang.png",TUYEN QUANG
+http://27.67.64.71:18080/79_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thai-nguyen.png",THAI NGUYEN
+http://27.67.64.71:18080/80_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-ninh.png",BAC NINH
+http://27.67.64.70:18080/92_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/nam-dinh.png",NAM DINH
+http://27.67.64.71:18080/117_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thanh-hoa.png",THANH HOA
+http://27.67.64.70:18080/101_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-tri.png",QUANG TRI
+http://27.67.64.70:18080/108_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ben-tre.png",BEN TRE
+http://27.67.64.68:18080/131_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tien-giang.png",TIEN GIANG
+http://27.67.64.68:18080/130_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-thap.png",DONG THAP 1 
+http://27.67.64.71:18080/132_2.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",RED BY HBO
-http://27.67.50.6:18080/45_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",FOX SPORTS
-http://27.67.50.6:18080/43_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",FOX SPORTS 2
-http://27.67.50.6:18080/42_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",ARIRANG
-http://27.67.50.6:18080/70_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",BBC WORLD NEWS
-http://27.67.50.6:18080/22_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",BLOOMBERG
-http://27.67.50.6:18080/44_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",CHANNEL NEWS ASIA
-http://27.67.50.6:18080/23_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",TV5MONDE ASIE s1
-http://27.67.50.6:18080/19_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",TV5MONDE ASIE s2
-http://27.67.50.6:18080/24_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="",TV5MONDE ASIE s3
-http://27.67.50.6:18080/27_2.m3u8?AdaptiveType=HLS
+
 
 
