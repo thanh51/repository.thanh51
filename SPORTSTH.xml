@@ -19,45 +19,30 @@
 		<thumbnail></thumbnail>
 		<item>
 ////////////////////////////////////////		
-                <item>
-		<title>[COLOR cyan][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG ANH[/B][/COLOR]</title>
-		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/NHAnh.xml</externallink>
-		<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
-		</item> 
-///////////////////////////////////////
 <item>
 <title> [COLOR yellow][B]->> XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR skyblue] [makelist.param4][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[190px">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">([0-9]+)]]></expres>
-<page>http://arenavision.in/schedule</page>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
+<page>https://avezy.tk/</page>
 <Agent>Mozilla</Agent>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
 </item>
- 
- 
-Z
 
- 190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}196px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}991px">(.*?)<[\w\W\s]{0,45}189px">([0-9]+)
-
-///////////////////////////////////////                  
+/////////////////////////////////////// 
+<item>
+<title> [COLOR cyan][B]->> XEM IPTV SPORTS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<externallink>http://silentstream.srve.io/silenthunter/main/hunterssports.xml</externallink>
+<thumbnail>https://s29.postimg.org/ojsoj485j/sports.jpg</thumbnail>
+</item>
+///////////////////////////////////////                 
 <item>
 <title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -157,6 +142,9 @@ Z
 
 </items>
 </channel>
+
+
+
 
 
 
