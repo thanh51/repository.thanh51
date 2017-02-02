@@ -27,113 +27,55 @@
 </item>
  
 <item>
-<title> [COLOR cyan][B]->> XEM THI ĐẤU THỂ THAO QUỐC TẾ: Bóng đá, bóng rổ, tenis...(được cập nhật hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
+<title>[COLOR cyan][B]->> XEM Live FootballOL[/B][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
 			</regex>
-			<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
-</item>	
 ]]></listrepeat>
-<expres><![CDATA[190px">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">([0-9]+)]]></expres>
-<page>http://arenavision.in/schedule</page>
-<Agent>Mozilla</Agent>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
- 
- 
-Z
-
- 190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}196px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}991px">(.*?)<[\w\W\s]{0,45}189px">([0-9]+)
-
-/////////////////////////////////////////
+//////////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]->> XEM BÓNG ĐÁ NGOẠI HẠNG:ANH, ĐỨC, TÂY BAN NHA (AUTO UPDATE)[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnhTBNDUC.xml</externallink>
-<thumbnail>https://s29.postimg.org/j56sgkip3/bongda.jpg</thumbnail>
+<title> [COLOR cyan][B]->> XEM IPTV SPORTS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<externallink>http://silentstream.srve.io/silenthunter/main/hunterssports.xml</externallink>
+<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
-////////////////////////////////////////
+///////////////////////////////////////
 
 <item>
-<title>[COLOR orange][B]•[/B][/COLOR]   [COLOR cyan][B]KÊNH THỂ THAO [/B][/COLOR]</title>
+<title>[COLOR orange][B]•[/B][/COLOR][COLOR cyan][B]KÊNH THỂ THAO [/B][/COLOR]</title>
 <link>http://</link>
-<thumbnail>icon</thumbnail>
+<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 
-
-
-<item>
-<title>VTVcab3 ThethaoTV</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/KuFexNw.png</thumbnail>
-</item>
-<item>
-<title>VTVcab16 BongdaTV</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/WQtKoni.png</thumbnail>
-</item>
-<item>
-<title>VTV6</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8</link>
-<thumbnail>http://i.imgur.com/keIENsc.png</thumbnail>
-</item>
-<item>
-<title>VTC3</title>
-<link>http://123.30.185.126/hls/vtc3.m3u8</link>
-<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
-</item>
-<item>
-<title>VTC3 HD</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
-<item>
-<title>SPORTS 1(lacasadeltikitaka.me)</title>
-<link>http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&amp;appVersion=3&amp;conn=wifi&amp;cid=22898255&amp;stream=1&amp;connectionId=oldurl-b1eed36ecdf30f6d449e85d71c140fd6ee92732b&amp;group=iphone</link>
-<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
-</item>
-<item>
-<title>SPORTS 2(lacasadeltikitaka.me)</title>
-<link>http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&amp;appVersion=3&amp;conn=wifi&amp;cid=22911267&amp;stream=1&amp;connectionId=oldurl-1874ef03b4171abb630c89ad6acc6be4e7660d40&amp;group=iphone</link>
-<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 1HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd1bein1/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports1.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 2HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd2bein2/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports2.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 3HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd3bein3/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports3.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 4HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd4bein4/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports4.png</thumbnail>
-</item>
-<item>
-<title>ONLINE TV BEIN SPORT 5HD</title>
-<link>http://mcdn-play-759.5centscdn.net/hd5bein5/live.stream/tracks-v1a1/index.m3u8</link>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports5.png</thumbnail>
-</item>
 <item>
 <title>Bóng đá 1 (thường phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel1_360p/chunklist.m3u8</link>
@@ -164,62 +106,16 @@ Z
 <link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
-
-<item>
-<title>K+(253096)(thường phát các ngày cuối tuần)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253096&amp;mode=2&amp;name=K+(253096)</link>
-<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
-</item>
-<item>
-<title>K+(259091)(thường phát các ngày cuối tuần)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259091&amp;mode=2&amp;name=K+(259091)</link>
-<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
-</item>
-<item>
-<title>K+(259400)(thường phát các ngày cuối tuần)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259400&amp;mode=2&amp;name=K+(259400)</link>
-<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
-</item>
-<item>
-<title>K+(263117)(thường phát các ngày cuối tuần)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/263117&amp;mode=2&amp;name=K+(263117)</link>
-<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
-</item>
-<item>
-<title>K+(262679)(thường phát các ngày cuối tuần)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262679&amp;mode=2&amp;name=K+(262679)</link>
-<thumbnail>https://s14.postimg.org/7f47nbf35/image.jpg</thumbnail>
-</item>
-<item>
-<title>Sky sport 1 (Ace stream)</title>
-<link>plugin://program.plexus/?url=acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d&amp;mode=1&amp;name=Sky sport 1</link>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports1.png</thumbnail>
-</item>
-<item>
-<title>Match Futbol 1 HD (ace stream)</title>
-<link>plugin://program.plexus/?url=acestream://86e53a9cf09993ac51c253a5b044d03776e8a54f&amp;mode=1&amp;name=Match Futbol 1 HD</link>
-<thumbnail>https://s23.postimg.org/uiw7sb1u3/matchfutbol1hd.jpg</thumbnail>
-</item>
+/////////////////
 <item>
 <title>Match Futbol 1 HD (sopcast)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/254780&amp;mode=2&amp;name=Match Futbol 1 HD</link>
 <thumbnail>https://s23.postimg.org/uiw7sb1u3/matchfutbol1hd.jpg</thumbnail>
 </item>
 <item>
-<title>Match Futbol 2 HD (ace stream)</title>
-<link>plugin://program.plexus/?url=acestream://a8248b3ebff4959a7323b9f80dd2eb2a89677992&amp;mode=1&amp;name=Match Futbol 2 HD</link>
-<thumbnail>https://s23.postimg.org/4uvfgyh7v/matchfutbol2.jpg</thumbnail>
-</item>
-<item>
 <title>Match Futbol 2 HD (sopcast)</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/255015&amp;mode=2&amp;name=Match Futbol 2 HD</link>
 <thumbnail>https://s23.postimg.org/4uvfgyh7v/matchfutbol2.jpg</thumbnail>
-</item>
-
-<item>
-<title>SUPERSPORTS</title>
-<link>http://46.105.161.243:8085/lighd</link>
-<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
 </item>
 
 <item>
@@ -253,29 +149,29 @@ Z
 <thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
 </item>
 <item>
-<title>SPORT 1 HD</title>
+<title>AD SPORT 1 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/NSQgKH4.png</thumbnail>
 </item>
 <item>
-<title>SPORT 2 HD</title>
+<title>AD SPORT 2 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/kiRDDPC.png</thumbnail>
 </item>
 <item>
-<title>SPORT 3 HD</title>
+<title>AD SPORT 3 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/lJ5C1yQ.png</thumbnail>
 </item>
 <item>
-<title>SPORT 4 HD</title>
+<title>AD SPORT 4 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/kpTqGy9.png</thumbnail>
 </item>
 <item>
-<title>SPORT 5 HD</title>
+<title>AD SPORT 5 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/6k6sPkh.png</thumbnail>
 </item>
 //////////////////////////
 <item>
@@ -1904,6 +1800,18 @@ Z
 </item>
 
 <item>
+<title>CINEMA WORLD</title> 
+<link>http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
+<thumbnail>https://s29.postimg.org/s0s7nmr87/cinemaworld.jpg</thumbnail>
+</item>
+
+<item>
+<title>HOLLYWOOD MOVIE</title> 
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
+<thumbnail>https://s29.postimg.org/6pw7rymk7/hollywoodmovie.jpg</thumbnail>
+</item>
+
+<item>
 <title>Phim Tài Liệu Khoa Học</title> 
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
 <thumbnail>https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg</thumbnail>
@@ -1958,7 +1866,6 @@ Z
 //////////////////////
 
 </items>
-
 
 
 
