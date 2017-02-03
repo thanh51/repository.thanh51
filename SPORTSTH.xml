@@ -229,14 +229,14 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 //////////////////////////////////////
             
 <item>
-<title>[COLOR cyan][B]FOOTBALL VIDEOS[/B][/COLOR]</title>
+<title>[COLOR cyan][B]7/ FOOTBALL VIDEOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 //////////////////////
 <item>
-<title>[COLOR yellow][B]Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
+<title>[COLOR yellow][B]8/ Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -267,4 +267,5 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 </items>
 </channel>
+
 
