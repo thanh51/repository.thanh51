@@ -20,7 +20,7 @@
 		<item>
 ////////////////////////////////////////		
 <item>
-<title> [COLOR yellow][B]THỂ THAO QUỐC TẾ TOOGR HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -28,7 +28,7 @@
   <listrepeat><![CDATA[
         <title>[COLOR deepskyblue][makelist.param1] ([makelist.param3])[/COLOR]</title>
 		<link>$doregex[getUrl]</link>
-		<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+		<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
         ]]></listrepeat>
 <expres>\n(.*?)<[\w\W\s]{0,15}tuttosportweb.com/(.*?).[\w\W\s]{0,15}blank">(.*?)<</expres>
 <page>http://tuttoserie.blogspot.com/p/daily.html</page>
@@ -73,12 +73,13 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <referer>http://tuttosportweb.com</referer>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
 <cookieJar></cookieJar>
-</regex>	<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+</regex>
+<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>	
 
 /////////////////////////////////////// 
 <item>
-<title>[COLOR cyan][B]KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
+<title>[COLOR cyan][B]2/ KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
@@ -143,7 +144,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 /////////////////
 <item>
-<title> [COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
+<title> [COLOR cyan][B]3/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -162,11 +163,11 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 ]]></listrepeat>
 <expres>tv-block[\w\W\s]{0,18}href="/(.*?)"[\w\W\s]{0,48}src="(.*?)"[\w\W\s]{0,27}alt="(.*?)" </expres>
 <page>http://streamking.cc/</page>
-</regex><thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 ///////////////////////////////////////                 
 <item>
-<title>[COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
+<title>[COLOR cyan][B]4/ KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -200,7 +201,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 ///////////////////////////////////////
  <item>
-<title>[COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
+<title>[COLOR cyan][B]5/ KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -219,9 +220,10 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 ///////////////////////////////////////	
 
 <item>
-<title>[COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 4[/B][/COLOR]</title>
+<title>[COLOR cyan][B]6/ KÊNH THỂ THAO QUỐC TẾ 4[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
+<thumbnail>https://s29.postimg.org/ojsoj485j/sports.jpg</thumbnail>
 </item> 
 
 //////////////////////////////////////
@@ -230,6 +232,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <title>[COLOR cyan][B]FOOTBALL VIDEOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 //////////////////////
 <item>
@@ -264,5 +267,4 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 </items>
 </channel>
-
 
