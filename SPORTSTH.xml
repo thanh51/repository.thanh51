@@ -20,7 +20,7 @@
 		<item>
 ////////////////////////////////////////		
 <item>
-<title> [COLOR yellow][B]->> XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]THỂ THAO QUỐC TẾ TOOGR HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -78,7 +78,72 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 /////////////////////////////////////// 
 <item>
-<title> [COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO 1[/B][/COLOR]</title>
+<title>[COLOR cyan][B]KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+</item>
+<item>
+<title>VTVcab3 ThethaoTV</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/KuFexNw.png</thumbnail>
+</item>
+<item>
+<title>VTVcab16 BongdaTV</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/WQtKoni.png</thumbnail>
+</item>
+<item>
+<title>VTC3 </title>
+<link>http://123.30.185.126/hls/vtc3.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD s2</title>
+<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+
+<item>
+<title>Bóng đá 1 (phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel1_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>Bóng đá 2 (phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel4_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>Bóng đá 3 (phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel5_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>Bóng đá 4 (phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel6_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>Bóng đá 5 (phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel7_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>Bóng đá 6(phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+/////////////////
+
+
+/////////////////
+<item>
+<title> [COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -101,7 +166,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 ///////////////////////////////////////                 
 <item>
-<title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO 2[/B][/COLOR]</title>
+<title>[COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -135,7 +200,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 ///////////////////////////////////////
  <item>
-<title>[COLOR deepskyblue][B]->> XEM CÁC KÊNH THỂ THAO 3[/B][/COLOR]</title>
+<title>[COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -154,7 +219,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 ///////////////////////////////////////	
 
 <item>
-<title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO 4[/B][/COLOR]</title>
+<title>[COLOR cyan][B]KÊNH THỂ THAO QUỐC TẾ 4[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
 </item> 
@@ -162,13 +227,13 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 //////////////////////////////////////
             
 <item>
-<title>[COLOR cyan][B]->> XEM FOOTBALL VIDEOS[/B][/COLOR]</title>
+<title>[COLOR cyan][B]FOOTBALL VIDEOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 </item>
 //////////////////////
 <item>
-<title>[COLOR yellow][B]->> Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
+<title>[COLOR yellow][B]Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -199,4 +264,5 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 </items>
 </channel>
+
 
