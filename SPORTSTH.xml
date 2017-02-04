@@ -140,30 +140,11 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 /////////////////
-
-
-/////////////////
 <item>
 <title> [COLOR cyan][B]3/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
-<item><title>[COLOR lightblue] [makelist.param3][/COLOR]</title>
-<link>$doregex[hash]|Referer=http://streamking.cc/[makelist.param1]&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-			<regex>
-			<name>hash</name> 
-			<expres>source: '(.*?)'</expres>
-			<page>http://streamking.cc/player?channel=[makelist.param1]&amp;player=clappr</page>
-			<referer>http://streamking.cc</referer>
-			<thumbnail>http://1streamking.co/[makelist.param2]</thumbnail>
-			</regex>
-</item>	
-]]></listrepeat>
-<expres>tv-block[\w\W\s]{0,18}href="/(.*?)"[\w\W\s]{0,48}src="(.*?)"[\w\W\s]{0,27}alt="(.*?)" </expres>
-<page>http://streamking.cc/</page>
-</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+<externallink>http://silentstream.srve.io/silenthunter/main/hunterssports.xml</externallink>
+<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 ///////////////////////////////////////                 
 <item>
@@ -223,7 +204,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <title>[COLOR cyan][B]6/ KÊNH THỂ THAO QUỐC TẾ 4[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
-<thumbnail>https://s29.postimg.org/ojsoj485j/sports.jpg</thumbnail>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item> 
 
 //////////////////////////////////////
@@ -267,6 +248,9 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 </items>
 </channel>
+
+
+
 
 
 
