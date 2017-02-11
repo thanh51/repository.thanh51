@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 10.02.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 11.02.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
@@ -123,7 +123,10 @@ http://149.202.207.8:8080/cHeekNe3Yyybhensfn-1/Strm/index.m3u8
 http://149.202.207.8:8080/cHeekNe3Yyybhensfn-2/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT FRANCE 3
 http://149.202.207.8:8080/cHeekNe3Yyybhensfn-3/Strm/index.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Eng)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Frace)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
@@ -407,6 +410,16 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 #EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/agk8xbxld/military.png",USA:MILITARY
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai:CHANNEL 3
+http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/chunklist_w1332595232.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai:CHANNEL 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w1969949377_b512000.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai:CHANNEL 7
+http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai:NEW TV 18
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
@@ -415,6 +428,11 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
 rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/z503og2c3/nasatv.jpg",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/vkq3q2yfn/bloomberg.png",BLOOMBERG
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M700.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
