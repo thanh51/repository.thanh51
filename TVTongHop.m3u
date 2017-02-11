@@ -130,9 +130,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png", VTV1 HD s1
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png",VTV1 HD s2
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png",VTV1 HD 
 http://118.107.68.10:1935/live/_definst_/VTV1HD_1280x720_07122016/playlist.m3u8 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2 s1
 http://118.107.68.10:1935/live/_definst_/VTV2_720x576_2016/playlist.m3u8
