@@ -83,16 +83,25 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <link>http://</link>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
+
 <item>
-<title>VTVcab3 ThethaoTV</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/KuFexNw.png</thumbnail>
-</item>
+<title>KÊNH BÓNG ÐÁ (Chỉ phát khi có bóng đá)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/cuocladuoc</page>
+<cookieJar></cookieJar>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
+</regex>
+</item> 
+
 <item>
-<title>VTVcab16 BongdaTV</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/WQtKoni.png</thumbnail>
+<title>SPORT NTD (Chỉ phát khi có bóng đá)</title>
+<link>http://bit.ly/ntdsport</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
+
 <item>
 <title>VTC3 </title>
 <link>http://123.30.185.126/hls/vtc3.m3u8</link>
@@ -116,26 +125,31 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 <item>
 <title>Bóng đá 2 (phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel4_360p/chunklist.m3u8</link>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel2_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
 <title>Bóng đá 3 (phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel5_360p/chunklist.m3u8</link>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel4_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
 <title>Bóng đá 4 (phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel6_360p/chunklist.m3u8</link>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel5_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
 <title>Bóng đá 5 (phát các ngày cuối tuần)</title>
+<link>http://yolive.958695d0.viettel-cdn.vn/channel6_360p/chunklist.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>Bóng đá 6 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel7_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 <item>
-<title>Bóng đá 6(phát các ngày cuối tuần)</title>
+<title>Bóng đá 7(phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
