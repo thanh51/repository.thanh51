@@ -85,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>KÊNH BÓNG ÐÁ (Chỉ phát khi có bóng đá)</title>
+<title>BÓNG ÐÁ 1 (Chỉ phát khi có bóng đá)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -97,27 +97,44 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item> 
 
 <item>
-<title>SPORT NTD (Chỉ phát khi có bóng đá)</title>
+<title>BÓNG ĐÁ 2 (Chỉ phát khi có bóng đá)</title>
 <link>http://bit.ly/ntdsport</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 
 <item>
-<title>VTC3 </title>
-<link>http://123.30.185.126/hls/vtc3.m3u8</link>
-<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
-</item>
+<title>THỂ THAO 1</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/vietnamsomot</page>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>  
+</regex>
+</item> 
 <item>
-<title>VTC3 HD s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
+<title>THỂ THAO 2</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/giaitritructiep</page>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>  
+</regex>
+</item> 
 <item>
-<title>VTC3 HD s2</title>
-<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
-
+<title>THỂ THAO 3</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/footballbongdavietnam</page>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>  
+</regex>
+</item> 
 <item>
 <title>Bóng đá 1 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel1_360p/chunklist.m3u8</link>
@@ -153,6 +170,22 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
+<item>
+<title>VTC3 </title>
+<link>http://123.30.185.126/hls/vtc3.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD s2</title>
+<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+
 /////////////////
 <item>
 <title> [COLOR cyan][B]3/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
@@ -262,6 +295,9 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 </items>
 </channel>
+
+
+
 
 
 
