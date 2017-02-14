@@ -21,8 +21,6 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/255015&mode=2&name=Ma
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s31.postimg.org/4sucxoqnf/sctv17.png", SCTV17
-http://178.238.236.212/live/sctv17/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 
 http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD 
@@ -290,8 +288,6 @@ http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
 rtmp://vf10.aditmedia.net/ingestx/ivn_000105
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://s31.postimg.org/4sucxoqnf/sctv17.png", SCTV17
-http://178.238.236.212/live/sctv17/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 
