@@ -13,18 +13,23 @@ http://www.youtube.com
 
 #EXTINF:-1,[COLOR cyan][B]I - KÊNH TV TỔNG HỢP[/B][/COLOR]
 http://www.youtube.com
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Match Futbol 1 HD (NHA) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/254780&mode=2&name=Match Futbol 1 HD
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Match Futbol 2 HD (NHA) 
-plugin://program.plexus/?url=sop://broker.sopcast.com:3912/255015&mode=2&name=Match Futbol 2 HD
+
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Match Futbol 1 HD (NHA) 
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/254780&mode=2&name=Match Futbol 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Match Futbol 2 HD (NHA) 
+plugin://program.plexus/?url=sop://broker.sopcast.com:3912/255015&mode=2&name=Match Futbol 2 HD
+#EXTINF:-1 group-title="Sports",China:New Vision HD (NHA)
+http://tv.cnbeijing.xyz/tvnx.php?id=165.m3u8
+#EXTINF:-1 group-title="Sports",China:Futbol
+http://tv.cnbeijing.xyz/tvnx.php?id=089.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 
-http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
+http://tv.cnbeijing.xyz/tvnx.php?id=005.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD 
-http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+http://tv.cnbeijing.xyz/tvnx.php?id=120.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
@@ -429,6 +434,77 @@ http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000
 #EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/oh4nqz5n3/Chasse_et_P_che.png",CHASSEE&PECHE
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
 
+#EXTINF:-1 group-title="CHINA",China:CCTV-1
+http://tv.cnbeijing.xyz/tvnx.php?id=001.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-2
+http://tv.cnbeijing.xyz/tvnx.php?id=002.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-2HD
+http://tv.cnbeijing.xyz/tvnx.php?id=137.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-3
+http://tv.cnbeijing.xyz/tvnx.php?id=003.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-3HD
+http://tv.cnbeijing.xyz/tvnx.php?id=129.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-4
+http://tv.cnbeijing.xyz/tvnx.php?id=004.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-5
+http://tv.cnbeijing.xyz/tvnx.php?id=005.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-5+HD
+http://tv.cnbeijing.xyz/tvnx.php?id=120.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-6HD
+http://tv.cnbeijing.xyz/tvnx.php?id=131.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-7HD
+http://tv.cnbeijing.xyz/tvnx.php?id=138.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-8
+http://tv.cnbeijing.xyz/tvnx.php?id=008.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-8HD
+http://tv.cnbeijing.xyz/tvnx.php?id=132.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-10HD
+http://tv.cnbeijing.xyz/tvnx.php?id=140.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-12HD
+http://tv.cnbeijing.xyz/tvnx.php?id=141.m3u8
+#EXTINF:-1 group-title="CHINA",China:Starmovies
+http://tv.cnbeijing.xyz/tvnx.php?id=111.m3u8
+#EXTINF:-1 group-title="CHINA",China:HBO
+http://tv.cnbeijing.xyz/tvnx.php?id=115.m3u8
+#EXTINF:-1 group-title="CHINA",China:Action movie
+http://tv.cnbeijing.xyz/tvnx.php?id=100.m3u8
+#EXTINF:-1 group-title="CHINA",China:TV HD
+http://tv.cnbeijing.xyz/tvnx.php?id=144.m3u8
+#EXTINF:-1 group-title="CHINA",China:Natgeo
+http://tv.cnbeijing.xyz/tvnx.php?id=114.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 1HD
+http://tv.cnbeijing.xyz/tvnx.php?id=158.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 2HD
+http://tv.cnbeijing.xyz/tvnx.php?id=169.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 3HD
+http://tv.cnbeijing.xyz/tvnx.php?id=160.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 4HD
+http://tv.cnbeijing.xyz/tvnx.php?id=161.m3u8
+#EXTINF:-1 group-title="CHINA",China:Full documentary HD
+http://tv.cnbeijing.xyz/tvnx.php?id=152.m3u8
+#EXTINF:-1 group-title="CHINA",China:Charm Theater HD
+http://tv.cnbeijing.xyz/tvnx.php?id=145.m3u8
+#EXTINF:-1 group-title="CHINA",China:City HD
+http://tv.cnbeijing.xyz/tvnx.php?id=149.m3u8
+#EXTINF:-1 group-title="CHINA",China:Charm Music HD
+http://tv.cnbeijing.xyz/tvnx.php?id=154.m3u8
+#EXTINF:-1 group-title="CHINA",China:Animation HD
+http://tv.cnbeijing.xyz/tvnx.php?id=156.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 1HD
+http://tv.cnbeijing.xyz/tvnx.php?id=162.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 2HD
+http://tv.cnbeijing.xyz/tvnx.php?id=163.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 3HD
+http://tv.cnbeijing.xyz/tvnx.php?id=164.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 4HD
+http://tv.cnbeijing.xyz/tvnx.php?id=166.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 5HD
+http://tv.cnbeijing.xyz/tvnx.php?id=167.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 6HD
+http://tv.cnbeijing.xyz/tvnx.php?id=169.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 7HD
+http://tv.cnbeijing.xyz/tvnx.php?id=170.m3u8
+
 #EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH3
 http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/chunklist_w1332595232.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH5 s1
@@ -599,6 +675,9 @@ http://live.gslb.letv.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
 
 
 
