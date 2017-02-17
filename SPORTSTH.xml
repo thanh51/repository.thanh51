@@ -22,60 +22,37 @@
 <item>
 <title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-
 <regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR deepskyblue][makelist.param1] ([makelist.param3])[/COLOR]</title>
-		<link>$doregex[getUrl]</link>
-		<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-        ]]></listrepeat>
-<expres>\n(.*?)<[\w\W\s]{0,15}tuttosportweb.com/(.*?).[\w\W\s]{0,15}blank">(.*?)<</expres>
-<page>http://tuttoserie.blogspot.com/p/daily.html</page>
-<cookieJar></cookieJar>
-</regex>
-
-
-
- <regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m, param=''):
-   
-    import requests
-    import re
-    import base64
-   
-    try:
-       
-        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
-        url = 'http://bro.adca.st/stream.php?id=' + id + '&cache=4&width=600&height=450&stretching=uniform&p=1&c=0'
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36', 'Referer': 'http://tuttosportweb.com/update/ch1.html'}
-        source = requests.get(url, headers = headers)
-        curl = re.findall('trap = "(.*?)"', source.text)[0]
-        m3u8 = base64.b64decode(curl)
- 
-        url2 = 'http://bro.adca.st/ckcskr.php' 
-        headers2 = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
-        source2 = requests.get(url2, headers = headers2)
-        token = re.findall('"rumba":"(.*?)"', source2.text)[0]
- 
-        return m3u8 + token + '|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D2598%26cache%3D4%26width%3D700%26height%3D480%26stretching%3Duniform%26p%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F54.0.2840.100%20Safari%2F537.36&X-Requested-With=ShockwaveFlash/23.0.0.162'
- 
-    except Exception as e:
-        print 'wizhdsports: Error: '
-        if hasattr(e, 'code'):
-            print str(e.code)              
-        if hasattr(e, 'reason'):
-            print " " + str(e.reason)
-]]></expres>
-<page>http://tuttosportweb.com/update/[makelist.param2].html</page>
-<referer>http://tuttosportweb.com</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[makelist.param1] - [makelist.param2] - [makelist.param3] - [makelist.param4] - [makelist.param5] - [makelist.param6]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>	
+]]></listrepeat>
+<expres><![CDATA[74px.*>(.*?)<[\w\W\s]{0,60}174px.*>(.*?)CET[\w\W\s]{0,60}196px.*>(.*?)<[\w\W\s]{0,60}283px.*>(.*?)<[\w\W\s]{0,80}837.*>\n(.*?)<[\w\W\s]{0,60}209px.*>([0-9]+)]]></expres>
+<page>http://arenavision.in/schedule</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+</item>
+
+
+style="width: 74px; height: 17px;">10/02/2017</td>
+<td class="auto-style3" style="width: 174px; height: 17px;">20:30 CET</td>
+<td class="auto-style3" style="width: 196px; height: 17px;">SOCCER</td>
+<td class="auto-style3" style="width: 283px; height: 17px;">BUNDESLIGA</td>
+<td class="auto-style3" style="width: 837px; height: 17px;">
+		MAINZ 05-AUGSBURG</td>
+<td class="auto-style3" style="width: 209px; height: 17px;">3-4 [SPA]</td>
 
 /////////////////////////////////////// 
 <item>
@@ -295,11 +272,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 </items>
 </channel>
-
-
-
-
-
 
 
 
