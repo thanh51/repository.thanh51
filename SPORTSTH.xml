@@ -62,7 +62,12 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 </item>
 
 <item>
-<title>BÓNG ÐÁ 1 (Chỉ phát khi có bóng đá)</title>
+<title>Kênh Cafe HD (Chỉ phát hình khi có bóng đá)</title>
+<link>https://azubuhlspull-a.akamaihd.net/bba592db3f432dd76dad0b19593b5760/us-west-1/video490173CHcafechannel/2400/index.m3u8</link>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+</item>
+<item>
+<title>THỂ THAO 1</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -72,15 +77,8 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
 </regex>
 </item> 
-
 <item>
-<title>BÓNG ĐÁ 2 (Chỉ phát khi có bóng đá)</title>
-<link>http://bit.ly/ntdsport</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
-</item>
-
-<item>
-<title>THỂ THAO 1</title>
+<title>THỂ THAO 2</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -91,7 +89,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 </regex>
 </item> 
 <item>
-<title>THỂ THAO 2</title>
+<title>THỂ THAO 3</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -102,7 +100,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 </regex>
 </item> 
 <item>
-<title>THỂ THAO 3</title>
+<title>THỂ THAO 4</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -272,6 +270,9 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 </items>
 </channel>
+
+
+
 
 
 
