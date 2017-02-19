@@ -27,9 +27,7 @@ http://tv.cnbeijing.xyz/tvnx.php?id=165.m3u8
 #EXTINF:-1 group-title="Sports",China:Futbol
 http://tv.cnbeijing.xyz/tvnx.php?id=089.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 
-http://tv.cnbeijing.xyz/tvnx.php?id=005.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD 
-http://tv.cnbeijing.xyz/tvnx.php?id=120.m3u8
+http://218.244.147.118:6389/wtvlive/migu2/608788135_5
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
@@ -495,76 +493,48 @@ http://cdn3.elitegol.xyz/verliga/1/chunks.m3u8|user-agent=Mozilla/5.0 (Windows N
 #EXTINF:-1 group-title="Espana" tvg-logo="https://static.filmon.com/assets/channels/2641/big_logo.png",Espana:DW
 http://cdn3.elitegol.xyz/verliga/2/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
 
-#EXTINF:-1 group-title="CHINA",China:CCTV-1
-http://tv.cnbeijing.xyz/tvnx.php?id=001.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-2
-http://tv.cnbeijing.xyz/tvnx.php?id=002.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-2HD
-http://tv.cnbeijing.xyz/tvnx.php?id=137.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-3
-http://tv.cnbeijing.xyz/tvnx.php?id=003.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-3HD
-http://tv.cnbeijing.xyz/tvnx.php?id=129.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-4
-http://tv.cnbeijing.xyz/tvnx.php?id=004.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-5
-http://tv.cnbeijing.xyz/tvnx.php?id=005.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-5+HD
-http://tv.cnbeijing.xyz/tvnx.php?id=120.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-6HD
-http://tv.cnbeijing.xyz/tvnx.php?id=131.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-7HD
-http://tv.cnbeijing.xyz/tvnx.php?id=138.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-8
-http://tv.cnbeijing.xyz/tvnx.php?id=008.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-8HD
-http://tv.cnbeijing.xyz/tvnx.php?id=132.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-10HD
-http://tv.cnbeijing.xyz/tvnx.php?id=140.m3u8
-#EXTINF:-1 group-title="CHINA",China:CCTV-12HD
-http://tv.cnbeijing.xyz/tvnx.php?id=141.m3u8
-#EXTINF:-1 group-title="CHINA",China:Starmovies
-http://tv.cnbeijing.xyz/tvnx.php?id=111.m3u8
-#EXTINF:-1 group-title="CHINA",China:HBO
-http://tv.cnbeijing.xyz/tvnx.php?id=115.m3u8
-#EXTINF:-1 group-title="CHINA",China:Action movie
-http://tv.cnbeijing.xyz/tvnx.php?id=100.m3u8
-#EXTINF:-1 group-title="CHINA",China:TV HD
-http://tv.cnbeijing.xyz/tvnx.php?id=144.m3u8
-#EXTINF:-1 group-title="CHINA",China:Natgeo
-http://tv.cnbeijing.xyz/tvnx.php?id=114.m3u8
-#EXTINF:-1 group-title="CHINA",China:Discovery 1HD
-http://tv.cnbeijing.xyz/tvnx.php?id=158.m3u8
-#EXTINF:-1 group-title="CHINA",China:Discovery 2HD
-http://tv.cnbeijing.xyz/tvnx.php?id=169.m3u8
-#EXTINF:-1 group-title="CHINA",China:Discovery 3HD
-http://tv.cnbeijing.xyz/tvnx.php?id=160.m3u8
-#EXTINF:-1 group-title="CHINA",China:Discovery 4HD
-http://tv.cnbeijing.xyz/tvnx.php?id=161.m3u8
-#EXTINF:-1 group-title="CHINA",China:Full documentary HD
-http://tv.cnbeijing.xyz/tvnx.php?id=152.m3u8
-#EXTINF:-1 group-title="CHINA",China:Charm Theater HD
-http://tv.cnbeijing.xyz/tvnx.php?id=145.m3u8
-#EXTINF:-1 group-title="CHINA",China:City HD
-http://tv.cnbeijing.xyz/tvnx.php?id=149.m3u8
-#EXTINF:-1 group-title="CHINA",China:Charm Music HD
-http://tv.cnbeijing.xyz/tvnx.php?id=154.m3u8
-#EXTINF:-1 group-title="CHINA",China:Animation HD
-http://tv.cnbeijing.xyz/tvnx.php?id=156.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 1HD
-http://tv.cnbeijing.xyz/tvnx.php?id=162.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 2HD
-http://tv.cnbeijing.xyz/tvnx.php?id=163.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 3HD
-http://tv.cnbeijing.xyz/tvnx.php?id=164.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 4HD
-http://tv.cnbeijing.xyz/tvnx.php?id=166.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 5HD
-http://tv.cnbeijing.xyz/tvnx.php?id=167.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 6HD
-http://tv.cnbeijing.xyz/tvnx.php?id=169.m3u8
-#EXTINF:-1 group-title="CHINA",China:HOT 7HD
-http://tv.cnbeijing.xyz/tvnx.php?id=170.m3u8
+#EXTINF:-1 group-title="China", CCTV-3HD
+http://218.244.147.118:6389/wtvlive/migu2/617276571_5
+#EXTINF:-1 group-title="China", CCTV-4 
+http://218.244.147.118:6389/wtvlive/migu2/608807424_4
+#EXTINF:-1 group-title="China", CCTV-5HD
+http://218.244.147.118:6389/wtvlive/migu2/608788135_5
+#EXTINF:-1 group-title="China", CCTV-6HD
+http://218.244.147.118:6389/wtvlive/migu2/617300489_5
+#EXTINF:-1 group-title="China", CCTV-7
+http://218.244.147.118:6389/wtvlive/migu2/609018153_4
+#EXTINF:-1 group-title="China", CCTV-8HD
+http://218.244.147.118:6389/wtvlive/migu2/617300502_5
+#EXTINF:-1 group-title="China", CCTV-9
+http://218.244.147.118:6389/wtvlive/migu2/608920109_4
+#EXTINF:-1 group-title="China", CCTV-10HD
+http://218.244.147.118:6389/wtvlive/migu2/617290240_5
+#EXTINF:-1 group-title="China", CCTV-11
+http://218.244.147.118:6389/wtvlive/migu2/609017121_4
+#EXTINF:-1 group-title="China", CCTV-12
+http://218.244.147.118:6389/wtvlive/migu2/609017191_4
+#EXTINF:-1 group-title="China", CCTV-13
+http://218.244.147.118:6389/wtvlive/migu2/608807423_4
+#EXTINF:-1 group-title="China", CCTV-14  
+http://218.244.147.118:6389/wtvlive/migu2/617290149_5
+#EXTINF:-1 group-title="China", CCTV-15
+http://218.244.147.118:6389/wtvlive/migu2/608807408_4
+#EXTINF:-1 group-title="China", Phim HD
+http://218.244.147.118:6389/wtvlive/migu2/617432318_4
+#EXTINF:-1 group-title="China", Phim tài liệu HD
+http://218.244.147.118:6389/wtvlive/migu2/617289997_5
+#EXTINF:-1 group-title="China", Giải trí HD
+http://218.244.147.118:6389/wtvlive/migu2/617289988_5
+#EXTINF:-1 group-title="China", Shanghai TV HD
+http://218.244.147.118:6389/wtvlive/migu2/617290061_5
+#EXTINF:-1 group-title="China", Shanghai HD Tin tức
+http://218.244.147.118:6389/wtvlive/migu2/617290046_5
+#EXTINF:-1 group-title="China", Shanghai HD
+http://218.244.147.118:6389/wtvlive/migu2/617289989_5
+#EXTINF:-1 group-title="China", Shanghai Star Sports
+http://218.244.147.118:6389/wtvlive/migu2/610998357_4
+#EXTINF:-1 group-title="China", Entertainment 
+http://218.244.147.118:6389/wtvlive/migu2/608796678_4
 
 #EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH3
 http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/chunklist_w1332595232.m3u8
@@ -736,6 +706,7 @@ http://live.gslb.letv.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 
 
 
