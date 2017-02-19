@@ -1,0 +1,372 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/3lybypo35/londonlive.jpg",USA:LONDON LIVE 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://s29.postimg.org/lpsr47ilj/bbcamerica.png",USA:BBC AMERICA
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://s29.postimg.org/ocl64c5zb/abcnews.png",USA:ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",USA:CNN 
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title="US" tvg-logo="https://s28.postimg.org/8jutkxofh/trutv.png",USA:TRU TV 
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/discovery.png",USA:DISCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/animalplanet.png",USA:ANIMAL PLANET HD 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.zoptv.com/assets/logo/nickelodeon-uk.png",USA:NICK TOONS 
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/tnt.png",USA:TNT 
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/v99c5trtt/image.jpg",USA:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/agk8xbxld/military.png",USA:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/u6gaxjmfj/cinefx.png",CINE FX
+http://live-m03.abweb.com/liveabm03/cinefx.smil/chunklist_b1296000_slFRA.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/6ti9f16bz/cinepolar.png",CINE POLAR
+http://live-m03.abweb.com/liveabm03/cinepolar.smil/chunklist_b1296000_slFRA.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/4wljagfnz/action.png",ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/wdkjlgrpr/rtl9.png",RLT9
+http://live-trl01.abweb.com/livetrl01/ngrp:rtl9.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="http://i.imgur.com/7SCM7FL.png",ANIMAUX
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/oh4nqz5n3/Chasse_et_P_che.png",CHASSEE&PECHE
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 group-title="Espana" tvg-logo="http://i.blogs.es/2fe8e7/mestrenos/650_1200.png",Espana:M+ ESTRENOS
+http://cdn3.elitegol.xyz/verliga/3/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/M._Comedia.svg/500px-M._Comedia.svg.png",Espana:M+ COMEDIA
+http://cdn3.elitegol.xyz/verliga/4/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/640px-Movistar_Acci%C3%B3n.svg.png",Espana:M+ ACCION
+http://cdn3.elitegol.xyz/verliga/5/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://vuapp.tranvu.info/upload//cinemax.jpg",Espana:CINEMAX
+http://cdn3.elitegol.xyz/verliga/20/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/M._DCine.svg/640px-M._DCine.svg.png",Espana:M+ DCINE
+http://cdn3.elitegol.xyz/verliga/7/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="https://lh4.googleusercontent.com/r18zZHUG3-PrbUlEN1zoIkmvn3tYezub4PKNRLoDSxC5L_jfVINYEM8uRZj_UZJO1L1H1KiduDjs8jZXbsx_nrXj65ty2xKljhjIqdlqw8oYygIv9hGqth3-dPTG6ZUu2qnYbJh9Tp0",Espana:COCINA
+http://cdn3.elitegol.xyz/verliga/8/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/tnt.png",Espana:TNT
+http://cdn3.elitegol.xyz/verliga/9/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/axn.png",Espana:AXN
+http://cdn3.elitegol.xyz/verliga/10/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/natgeo.png",Espana:NAT GEOGRAPHIC
+http://cdn3.elitegol.xyz/verliga/12/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",Espana:NAT GEO WILD
+http://cdn3.elitegol.xyz/verliga/13/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:RCN DEPORTES
+http://cdn3.elitegol.xyz/verliga/14/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:CAZA Y PESCA
+http://cdn3.elitegol.xyz/verliga/15/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:FACTORY
+http://cdn3.elitegol.xyz/verliga/16/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/fox.png",Espana:FOX
+http://cdn3.elitegol.xyz/verliga/17/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:CALLE 13 HD
+http://cdn3.elitegol.xyz/verliga/18/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/syfy.png",Espana:SYFY
+http://cdn3.elitegol.xyz/verliga/19/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:CRIMEN E INVEST
+http://cdn3.elitegol.xyz/verliga/22/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:LA 1
+http://cdn3.elitegol.xyz/verliga/23/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:#0
+http://cdn3.elitegol.xyz/verliga/24/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/eurosport.png",Espana:EUROSPORT
+http://cdn3.elitegol.xyz/verliga/25/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/amc.png",Espana:AMC
+http://cdn3.elitegol.xyz/verliga/26/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.dmax.de/wp-content/themes/dni_wp_theme_dmax_de/img/logo-orginal.png",Espana:DMAX
+http://cdn3.elitegol.xyz/verliga/27/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/fox.png",Espana:FOX
+http://cdn3.elitegol.xyz/verliga/28/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/tnt.png",Espana:TNT
+http://cdn3.elitegol.xyz/verliga/29/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/golfchannel.png",Espana:M+ GOLF
+http://cdn3.elitegol.xyz/verliga/31/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://latino-webtv.com/iptv/logos/fox%20life.png",Espana:FOX LIFE
+http://cdn3.elitegol.xyz/verliga/32/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="",Espana:TEN
+http://cdn3.elitegol.xyz/verliga/33/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="https://s30.postimg.org/qwlv289k1/odisea.jpg",Espana:ODISEA
+http://cdn3.elitegol.xyz/verliga/34/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="http://www.liveonlinetv247.info/images/mtv.png",Espana:MTV
+http://cdn3.elitegol.xyz/verliga/1/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+#EXTINF:-1 group-title="Espana" tvg-logo="https://static.filmon.com/assets/channels/2641/big_logo.png",Espana:DW
+http://cdn3.elitegol.xyz/verliga/2/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101
+
+#EXTINF:-1 group-title="CHINA",China:CCTV-1
+http://tv.cnbeijing.xyz/tvnx.php?id=001.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-2
+http://tv.cnbeijing.xyz/tvnx.php?id=002.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-2HD
+http://tv.cnbeijing.xyz/tvnx.php?id=137.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-3
+http://tv.cnbeijing.xyz/tvnx.php?id=003.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-3HD
+http://tv.cnbeijing.xyz/tvnx.php?id=129.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-4
+http://tv.cnbeijing.xyz/tvnx.php?id=004.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-5
+http://tv.cnbeijing.xyz/tvnx.php?id=005.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-5+HD
+http://tv.cnbeijing.xyz/tvnx.php?id=120.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-6HD
+http://tv.cnbeijing.xyz/tvnx.php?id=131.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-7HD
+http://tv.cnbeijing.xyz/tvnx.php?id=138.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-8
+http://tv.cnbeijing.xyz/tvnx.php?id=008.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-8HD
+http://tv.cnbeijing.xyz/tvnx.php?id=132.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-10HD
+http://tv.cnbeijing.xyz/tvnx.php?id=140.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV-12HD
+http://tv.cnbeijing.xyz/tvnx.php?id=141.m3u8
+#EXTINF:-1 group-title="CHINA",China:Starmovies
+http://tv.cnbeijing.xyz/tvnx.php?id=111.m3u8
+#EXTINF:-1 group-title="CHINA",China:HBO
+http://tv.cnbeijing.xyz/tvnx.php?id=115.m3u8
+#EXTINF:-1 group-title="CHINA",China:Action movie
+http://tv.cnbeijing.xyz/tvnx.php?id=100.m3u8
+#EXTINF:-1 group-title="CHINA",China:TV HD
+http://tv.cnbeijing.xyz/tvnx.php?id=144.m3u8
+#EXTINF:-1 group-title="CHINA",China:Natgeo
+http://tv.cnbeijing.xyz/tvnx.php?id=114.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 1HD
+http://tv.cnbeijing.xyz/tvnx.php?id=158.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 2HD
+http://tv.cnbeijing.xyz/tvnx.php?id=169.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 3HD
+http://tv.cnbeijing.xyz/tvnx.php?id=160.m3u8
+#EXTINF:-1 group-title="CHINA",China:Discovery 4HD
+http://tv.cnbeijing.xyz/tvnx.php?id=161.m3u8
+#EXTINF:-1 group-title="CHINA",China:Full documentary HD
+http://tv.cnbeijing.xyz/tvnx.php?id=152.m3u8
+#EXTINF:-1 group-title="CHINA",China:Charm Theater HD
+http://tv.cnbeijing.xyz/tvnx.php?id=145.m3u8
+#EXTINF:-1 group-title="CHINA",China:City HD
+http://tv.cnbeijing.xyz/tvnx.php?id=149.m3u8
+#EXTINF:-1 group-title="CHINA",China:Charm Music HD
+http://tv.cnbeijing.xyz/tvnx.php?id=154.m3u8
+#EXTINF:-1 group-title="CHINA",China:Animation HD
+http://tv.cnbeijing.xyz/tvnx.php?id=156.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 1HD
+http://tv.cnbeijing.xyz/tvnx.php?id=162.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 2HD
+http://tv.cnbeijing.xyz/tvnx.php?id=163.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 3HD
+http://tv.cnbeijing.xyz/tvnx.php?id=164.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 4HD
+http://tv.cnbeijing.xyz/tvnx.php?id=166.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 5HD
+http://tv.cnbeijing.xyz/tvnx.php?id=167.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 6HD
+http://tv.cnbeijing.xyz/tvnx.php?id=169.m3u8
+#EXTINF:-1 group-title="CHINA",China:HOT 7HD
+http://tv.cnbeijing.xyz/tvnx.php?id=170.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH3
+http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/chunklist_w1332595232.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH5 s1
+http://150.107.28.90/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH5 s2
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w1969949377_b512000.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH7 s1
+http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH7 s2
+http://150.107.28.90/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai CH8
+http://150.107.28.90/stream/totnew.php?channel_id=15c52eeb21b748319771eb794a6cf242
+#EXTINF:-1 group-title="Thai" tvg-logo="",Modern 9
+http://150.107.28.90/stream/totnew.php?channel_id=3ae2fd6ccaf6499e898de377ed74ea12
+#EXTINF:-1 group-title="Thai" tvg-logo="",Thai PBS
+http://150.107.28.90/stream/totnew.php?channel_id=d7182fae6e9f4d929bdb5ae06059bda8
+#EXTINF:-1 group-title="Thai" tvg-logo="",NEW TV 18 s1
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",NEW TV 18 s2
+http://150.107.28.90/stream/totnew.php?channel_id=0d01fdc1362f427ca5527c645f5f908f
+#EXTINF:-1 group-title="Thai" tvg-logo="",Euronews
+http://150.107.28.90/stream/totnew.php?channel_id=3f35c4428a0d4004a38ff0adba7664f4
+#EXTINF:-1 group-title="Thai" tvg-logo="",Al-Jazeera News
+http://150.107.28.90/stream/totnew.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
+#EXTINF:-1 group-title="Thai" tvg-logo="",Sky News HD
+http://150.107.28.90/stream/totnew.php?channel_id=31b003ab7e7749a798fe00424e3dd9ff
+#EXTINF:-1 group-title="Thai" tvg-logo="",Fox News
+http://150.107.28.90/stream/totnew.php?channel_id=1e2041858ca543fa90ec95d28197e907
+#EXTINF:-1 group-title="Thai" tvg-logo="",France 24
+http://150.107.28.90/stream/totnew.php?channel_id=82c764aa2d7f42579348b8717cb5b9a4
+#EXTINF:-1 group-title="Thai" tvg-logo="",CCTV News
+http://150.107.28.90/stream/totnew.php?channel_id=0ed1c715dc864ab3912d4015903a3d85
+#EXTINF:-1 group-title="Thai" tvg-logo="",Fox Crime HD
+http://150.107.28.90/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1 group-title="Thai" tvg-logo="",Universal Channel
+http://150.107.28.90/stream/totnew.php?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1 group-title="Thai" tvg-logo="",Syfy
+http://150.107.28.90/stream/totnew.php?channel_id=71f197de056e499a85265c03b44bdab1
+#EXTINF:-1 group-title="Thai" tvg-logo="",FX HD
+http://150.107.28.90/stream/totnew.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1 group-title="Thai" tvg-logo="",Nat Geo Wild HD
+http://150.107.28.90/stream/totnew.php?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Nat Geo Adventure HD
+http://150.107.28.90/stream/totnew.php?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1 group-title="Thai" tvg-logo="",Biography Channel
+http://150.107.28.90/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1 group-title="Thai" tvg-logo="",DocuBox HD
+http://150.107.28.90/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a
+#EXTINF:-1 group-title="Thai" tvg-logo="",Biography Channel HD
+http://150.107.28.90/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1 group-title="Thai" tvg-logo="",Crime and Investigation (CI) HD
+http://150.107.28.90/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
+#EXTINF:-1 group-title="Thai" tvg-logo="",STAR WOLRD HD
+http://150.107.28.90/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1 group-title="Thai" tvg-logo="",Fashion TV
+http://150.107.28.90/stream/totnew.php?channel_id=df468a12ae6547de9637486bdc2025aa
+#EXTINF:-1 group-title="Thai" tvg-logo="",Channel V International
+http://150.107.28.90/stream/totnew.php?channel_id=9e38a0084e6d45d080139a166c60a102
+#EXTINF:-1 group-title="Thai" tvg-logo="",MTV Asia
+http://150.107.28.90/stream/totnew.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.onlinetvler.com/sites/default/files/styles/logo/public/logo/trt-belgesel-hd.png",TRT BELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/v34n24f53/cbsn.jpg",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-1/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-2/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-3/Strm/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-4/Strm/index.m3u8
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Phim Tế Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjghf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s29.postimg.org/s0s7nmr87/cinemaworld.jpg",CINEMA WORLD
+http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s29.postimg.org/6pw7rymk7/hollywoodmovie.jpg",Hollywood movie
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s30.postimg.org/iln54dv8h/movie.jpg",MOVIES 1
+http://live.gslb.letv.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s30.postimg.org/iln54dv8h/movie.jpg",MOVIES 2
+http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s30.postimg.org/iln54dv8h/movie.jpg",MOVIES 3
+http://live.gslb.letv.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 01
+http://wshdl.load.cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 02
+http://wshdl.load.cdn.zhanqi.tv/zqlive/36932_86KeS.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 03
+http://wshdl.load.cdn.zhanqi.tv/zqlive/53346_ESoth.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 04
+http://wshdl.load.cdn.zhanqi.tv/zqlive/75885_IvfFq.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 05
+http://wshdl.load.cdn.zhanqi.tv/zqlive/88945_Kligp.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 06
+http://wshdl.load.cdn.zhanqi.tv/zqlive/90819_iMmHS.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 07
+http://wshdl.load.cdn.zhanqi.tv/zqlive/91997_Uf9mr.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 08
+http://wshdl.load.cdn.zhanqi.tv/zqlive/92089_GUwji.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 09
+http://wshdl.load.cdn.zhanqi.tv/zqlive/96851_ZeePd.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 10
+http://wshdl.load.cdn.zhanqi.tv/zqlive/99815_VmbZY.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 11
+http://wshdl.load.cdn.zhanqi.tv/zqlive/102444_ZGmRp.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 12
+http://wshdl.load.cdn.zhanqi.tv/zqlive/106395_X2dt1.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 13
+http://wshdl.load.cdn.zhanqi.tv/zqlive/124549_AsU5l.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", Phim 14
+http://wshdl.load.cdn.zhanqi.tv/zqlive/121900_BHDgs.flv
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN Movie Guide
+http://web-play.pptv.com/web-m3u8-303539.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", bộ phim CIBN
+http://web-play.pptv.com/web-m3u8-303541.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN ra rạp
+http://web-play.pptv.com/web-m3u8-303543.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN nhà hát chiến tranh
+http://web-play.pptv.com/web-m3u8-303547.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN nhà hát cổ điển
+http://web-play.pptv.com/web-m3u8-303549.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN Documentary
+http://web-play.pptv.com/web-m3u8-303555.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN nhạc
+http://web-play.pptv.com/web-m3u8-303557.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN Zen văn hóa
+http://web-play.pptv.com/web-m3u8-303561.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", nhà hát thành phố CIBN
+http://web-play.pptv.com/web-m3u8-303565.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN TÀI CHÍNH
+http://web-play.pptv.com/web-m3u8-303845.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN trò chơi
+http://web-play.pptv.com/web-m3u8-303847.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN toàn cầu mua sắm
+http://web-play.pptv.com/web-m3u8-303849.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN giáo dục
+http://web-play.pptv.com/web-m3u8-303935.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", rạp chiếu phim hài CIBN
+http://web-play.pptv.com/web-m3u8-303545.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", CIBN Nghệ thuật
+http://web-play.pptv.com/web-m3u8-303551.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="", phượng hoàng Trung Quốc
+http://web-play.pptv.com/web-m3u8-300621.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
