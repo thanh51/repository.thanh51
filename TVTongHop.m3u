@@ -1,16 +1,12 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 20.02.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 22.02.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 
-http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD 
-http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
@@ -67,6 +63,7 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 1
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 2
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 3
@@ -75,6 +72,7 @@ http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 1
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 2
@@ -99,22 +97,42 @@ http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-2/Strm/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-3/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 1
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 3
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 4
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 1
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 3
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 4
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/eurosport.png",EUROSPORT 1
+http://51.255.71.41:8080/Eurosport1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/eurosport2.png",EUROSPORT 2
+http://51.255.71.41:8080/Eurosport2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Eng)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Frace)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sport 1
+http://openlist.sytes.net:5022/stream/3h14uh/playlist.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
 http://123.30.185.126/hls/vtv1.m3u8
@@ -403,6 +421,63 @@ http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="",Thai:NEW TV 18
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 
+#EXTINF:-1 group-title="ESP" tvg-logo="",CINEMAX
+http://5.145.175.172/verliga/20/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",AXN s1
+http://5.145.175.172/verliga/10/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",AXN s2
+http://5.145.175.172/verliga/37/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",MOVIES 1
+http://5.145.175.172/verliga/23/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",SYFY
+http://5.145.175.172/verliga/19/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",#0
+http://5.145.175.172/verliga/24/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",AMC
+http://5.145.175.172/verliga/26/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",FOX
+http://5.145.175.172/verliga/28/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",TNT s1
+http://5.145.175.172/verliga/9/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",TNT s2
+http://5.145.175.172/verliga/29/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",M+Action
+http://5.145.175.172/verliga/5/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",M+Dcine
+http://5.145.175.172/verliga/7/playlist.m3u8
+
+#EXTINF:-1 group-title="ESP" tvg-logo="",M+Comedia
+http://5.145.175.172/verliga/4/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",M+ ESTRENOS
+http://5.145.175.172/verliga/3/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",FOX
+http://5.145.175.172/verliga/17/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",NATGEO 
+http://5.145.175.172/verliga/12/playlist.m3u8
+
+#EXTINF:-1 group-title="ESP" tvg-logo="",NATGEO WILD
+http://5.145.175.172/verliga/13/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",DMAX
+http://5.145.175.172/verliga/27/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",MTV
+http://5.145.175.172/verliga/1/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",TODDY
+http://5.145.175.172/verliga/14/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",CANAL 13
+http://5.145.175.172/verliga/18/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",SPORTS
+http://5.145.175.172/verliga/2/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",EUROSPORT 2
+http://5.145.175.172/verliga/25/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",M+GOLF
+http://5.145.175.172/verliga/31/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",WIN SPORT
+http://5.145.175.172/verliga/35/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",VENUS
+http://5.145.175.172/verliga/6/playlist.m3u8
+#EXTINF:-1 group-title="ESP" tvg-logo="",HUSTLER HD
+http://5.145.175.172/verliga/11/playlist.m3u8
+
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
@@ -413,7 +488,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=
 rtsp://yayin.networkbil.com/belgeseltv
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/z503og2c3/nasatv.jpg",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/vkq3q2yfn/bloomberg.png",BLOOMBERG
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M700.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
@@ -436,11 +510,6 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-2/Strm/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-3/Strm/index.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 4
 http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-4/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/ogclkorsd/sex.jpg",Sx 1
-http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/ogclkorsd/sex.jpg",Sx 2
-http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-
 
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -472,6 +541,7 @@ http://live.gslb.letv.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 
 
 
