@@ -20,7 +20,7 @@
 		<item>
 ////////////////////////////////////////		
 <item>
-<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP (Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -61,11 +61,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 
-<item>
-<title>Kênh Cafe HD (Chỉ phát hình khi có bóng đá)</title>
-<link>https://azubuhlspull-a.akamaihd.net/bba592db3f432dd76dad0b19593b5760/us-west-1/video490173CHcafechannel/2400/index.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
-</item>
+
 <item>
 <title>THỂ THAO 1</title>
 <link>$doregex[m3u8]</link>
@@ -83,24 +79,13 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/vietnamsomot</page>
-<cookieJar></cookieJar>
-<thumbnail></thumbnail>  
-</regex>
-</item> 
-<item>
-<title>THỂ THAO 3</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
 <page>http://talktv.vn/giaitritructiep</page>
 <cookieJar></cookieJar>
 <thumbnail></thumbnail>  
 </regex>
 </item> 
 <item>
-<title>THỂ THAO 4</title>
+<title>THỂ THAO 3</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -151,15 +136,11 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
 </item>
 <item>
-<title>VTC3 HD s1</title>
+<title>VTC3 HD</title>
 <link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
 </item>
-<item>
-<title>VTC3 HD s2</title>
-<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
+
 
 /////////////////
 <item>
@@ -270,6 +251,8 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 </items>
 </channel>
+
+
 
 
 
