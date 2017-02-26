@@ -20,7 +20,7 @@
 		<item>
 ////////////////////////////////////////		
 <item>
-<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP (Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -56,45 +56,23 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 /////////////////////////////////////// 
 <item>
-<title>[COLOR cyan][B]2/ KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
+<title>[COLOR cyan][B]2/ KÊNH VIỆT NAM[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 
+<item>
+<title>Kênh Thể Thao Giải Trí HD+CAFE</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/cafefilm</page>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>  
+</regex>
+</item> 
 
-<item>
-<title>THỂ THAO 1</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/cuocladuoc</page>
-<cookieJar></cookieJar>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
-</regex>
-</item> 
-<item>
-<title>THỂ THAO 2</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/giaitritructiep</page>
-<cookieJar></cookieJar>
-<thumbnail></thumbnail>  
-</regex>
-</item> 
-<item>
-<title>THỂ THAO 3</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/footballbongdavietnam</page>
-<cookieJar></cookieJar>
-<thumbnail></thumbnail>  
-</regex>
-</item> 
 <item>
 <title>Bóng đá 1 (phát các ngày cuối tuần)</title>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel1_360p/chunklist.m3u8</link>
@@ -136,11 +114,15 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
 </item>
 <item>
-<title>VTC3 HD</title>
+<title>VTC3 HD s1</title>
 <link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
 </item>
-
+<item>
+<title>VTC3 HD s2</title>
+<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
 
 /////////////////
 <item>
@@ -251,6 +233,9 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 </items>
 </channel>
+
+
+
 
 
 
