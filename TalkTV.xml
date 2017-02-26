@@ -18,18 +18,6 @@
 </item>
 /////////////////////////
 <item>
-<title>XEM PHIM (by thev)</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/thev</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://res1.talktv.vn/images/thev/designSetting/854x480/1447218868.png</thumbnail>
-</item>
-/////////////////////////
-<item>
 <title>XEM PHIM (by meowdoraemon)</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -41,17 +29,6 @@
 <thumbnail>http://res1.talktv.vn/images/meowdoraemon/designSetting/854x480/1466395787.jpg</thumbnail>
 </items>
 ////////////////////////////////
-<item>
-<title>XEM PHIM (by hdchannel)</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/hdchannel</page>
-<cookieJar></cookieJar>
-</regex>
-</item> 
-//////////////////
 <item>
 <title>XEM PHIM (by cafefilm)</title>
 <link>$doregex[m3u8]</link>
