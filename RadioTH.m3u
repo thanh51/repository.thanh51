@@ -1,11 +1,16 @@
 #EXTM3U thanh51
 
 #EXTINF:-1,VOV1
-http://210.245.60.242:1935/vov1/vov1/playlist.m3u8
+rtmp://210.245.60.242/vov1/ playpath=vov1 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
 #EXTINF:-1,VOV2
-http://210.245.60.242:1935/vov2/vov2/playlist.m3u8
+rtmp://210.245.60.242/vov2/ playpath=vov2 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
 #EXTINF:-1,VOV3
-http://210.245.60.242:1935/vov3/vov3/playlist.m3u8
+rtmp://210.245.60.242/vov3/ playpath=vov3 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
+#EXTINF:-1,VOV GTHN
+rtmp://210.245.60.242/vovgt/ playpath=vovgt live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
+
+#EXTINF:-1,VOV GTTPHCM
+rtmp://210.245.60.242/vovgtsg/ playpath=vovgtsg live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
 #EXTINF:-1,VOH FM 99.9 MHz
 http://221.132.38.110:1935/live/channel3/playlist.m3u8
 #EXTINF:-1,VOH AM 610 KHz
@@ -34,6 +39,10 @@ http://50.7.96.210:8618/;stream.mp3
 http://199.189.111.28:8226/;stream.mp3
 #EXTINF:-1,Cherry radio-Nhạc trữ tình
 http://174.37.252.208:8500/;stream.mp3
+
+
+
+
 
 
 
