@@ -60,6 +60,17 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <link>http://</link>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
+<item>
+<title>VTC3 </title>
+<link>http://123.30.185.126/hls/vtc3.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+
+<item>
+<title>VTC3 HD</title>
+<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
 
 <item>
 <title>Kênh Thể Thao Giải Trí HD+CAFE</title>
@@ -108,32 +119,10 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 <link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
-<item>
-<title>VTC3 </title>
-<link>http://123.30.185.126/hls/vtc3.m3u8</link>
-<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
-</item>
-<item>
-<title>VTC3 HD s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
-<item>
-<title>VTC3 HD s2</title>
-<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
 
-/////////////////
-<item>
-<title> [COLOR cyan][B]3/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<externallink>http://silentstream.srve.io/silenthunter/main/hunterssports.xml</externallink>
-<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-</item>
 ///////////////////////////////////////                 
 <item>
-<title>[COLOR cyan][B]4/ KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
+<title>[COLOR cyan][B]3/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -167,7 +156,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 ///////////////////////////////////////
  <item>
-<title>[COLOR cyan][B]5/ KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
+<title>[COLOR cyan][B]4/ KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -186,7 +175,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 ///////////////////////////////////////	
 
 <item>
-<title>[COLOR cyan][B]6/ KÊNH THỂ THAO QUỐC TẾ 4[/B][/COLOR]</title>
+<title>[COLOR cyan][B]5/ KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
@@ -195,7 +184,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 //////////////////////////////////////
             
 <item>
-<title>[COLOR cyan][B]7/ FOOTBALL VIDEOS[/B][/COLOR]</title>
+<title>[COLOR cyan][B]6/ FOOTBALL VIDEOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
@@ -233,15 +222,5 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 </items>
 </channel>
-
-
-
-
-
-
-
-
-
-
 
 
