@@ -12,6 +12,12 @@
 		<link>http://</link>
 		<thumbnail>https://s24.postimg.org/mal8efoxx/plexus.jpg</thumbnail>
 		<item>
+
+		<item>
+		<title>[COLOR cyan][B]Kênh Thể Thao Quốc Tế TH (1 & 2) Có Bóng đá các giải ngoại hạng:Anh, Tây Ban Nha, Đức, Italya....(Auto Update hàng ngày) [/B][/COLOR]</title>
+		<link>http://</link>
+		<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+		<item>
 		
 		<item>
 		<title>=====================================================</title>
@@ -20,43 +26,50 @@
 		<item>
 ////////////////////////////////////////		
 <item>
-<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
+<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP 1 - Xem Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[makelist.param1] - [makelist.param2] - [makelist.param3] - [makelist.param4] - [makelist.param5] - [makelist.param6]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]+Arenavision</link>
+<item><title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param4]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<page>http://www.arenavision.in/av[makelist.param6]</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[74px.*>(.*?)<[\w\W\s]{0,60}174px.*>(.*?)CET[\w\W\s]{0,60}196px.*>(.*?)<[\w\W\s]{0,60}283px.*>(.*?)<[\w\W\s]{0,80}837.*>\n(.*?)<[\w\W\s]{0,60}209px.*>([0-9]+)]]></expres>
+<expres><![CDATA[74px.*>(.*?)<[\w\W\s]{0,60}174px.*>(.*?)CET[\w\W\s]{0,60}196px.*>(.*?)<[\w\W\s]{0,60}283px.*>(.*?)<[\w\W\s]{0,80}837.*>(.*?)<[\w\W\s]{0,60}209px.*>([0-9]+)]]></expres>
 <page>http://arenavision.in/schedule</page>
 <Agent>Mozilla</Agent>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
-
-
-style="width: 74px; height: 17px;">10/02/2017</td>
-<td class="auto-style3" style="width: 174px; height: 17px;">20:30 CET</td>
-<td class="auto-style3" style="width: 196px; height: 17px;">SOCCER</td>
-<td class="auto-style3" style="width: 283px; height: 17px;">BUNDESLIGA</td>
-<td class="auto-style3" style="width: 837px; height: 17px;">
-		MAINZ 05-AUGSBURG</td>
-<td class="auto-style3" style="width: 209px; height: 17px;">3-4 [SPA]</td>
-
 /////////////////////////////////////// 
 <item>
-<title>[COLOR cyan][B]2/ KÊNH VIỆT NAM[/B][/COLOR]</title>
+<title>[B][COLOR blue]2/ THỂ THAO QUỐC TẾ TỔNG HỢP 2 - Xem Theo Giờ VN + 6 Tiếng[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+</item>
+
+///////////////////////////////////////
+<item>
+<title>[COLOR cyan][B]3/ KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
@@ -122,7 +135,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 ///////////////////////////////////////                 
 <item>
-<title>[COLOR cyan][B]3/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
+<title>[COLOR cyan][B]4/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -156,7 +169,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 ///////////////////////////////////////
  <item>
-<title>[COLOR cyan][B]4/ KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
+<title>[COLOR cyan][B]5/ KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -175,7 +188,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 ///////////////////////////////////////	
 
 <item>
-<title>[COLOR cyan][B]5/ KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
+<title>[COLOR cyan][B]6/ KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
@@ -184,7 +197,7 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 //////////////////////////////////////
             
 <item>
-<title>[COLOR cyan][B]6/ FOOTBALL VIDEOS[/B][/COLOR]</title>
+<title>[COLOR cyan][B]7/ FOOTBALL VIDEOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
@@ -222,5 +235,16 @@ style="width: 74px; height: 17px;">10/02/2017</td>
 
 </items>
 </channel>
+
+
+
+
+
+
+
+
+
+
+
 
 
