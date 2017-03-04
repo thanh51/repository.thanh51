@@ -1,6 +1,34 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] English[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] [makelist.param2][/COLOR]</title>			
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Catoal ( [makelist.param2] )</link>
+	
+	<regex>
+	<name>hash</name>
+	<expres>this.loadPlayer\("(.*?)"</expres>
+	<page>$doregex[URL]</page>
+	</regex>
+	<regex>
+	<name>URL</name>
+	<expres>allowfullscreen src="(.*?)"</expres>
+	<page>http://freelive365.com/[makelist.param1]</page>
+	</regex>
+		
+	<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)' [\w\W\s]{0,65}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=2</page>
+</regex>
+<thumbnail>http://i.imgur.com/V3klE56.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-rLHvP5fvBHg/Vf0isvJSGhI/AAAAAAAAG1U/DurLKrJ1Y5A/s640/plexus-kodi.jpg</fanart>
+</item>
+////////////////////////
 <item>
 <title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] España[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -209,3 +237,6 @@
 <thumbnail>http://i.imgur.com/V3klE56.png</thumbnail>
 <fanart>http://4.bp.blogspot.com/-rLHvP5fvBHg/Vf0isvJSGhI/AAAAAAAAG1U/DurLKrJ1Y5A/s640/plexus-kodi.jpg</fanart>
 </item>
+	
+	
+	
