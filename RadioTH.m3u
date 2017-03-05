@@ -8,12 +8,16 @@ rtmp://210.245.60.242:1935/nghehevov2 playpath=vov2 live=1 swfUrl=http://player.
 rtmp://210.245.60.242:1935/nghehevov3 playpath=vov3 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
 #EXTINF:-1,VOV247
 rtmp://210.245.60.242:1935/vov247 playpath=vov247 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
-#EXTINF:-1,JoyFM(HN)
-rtmp://radio.joyfm.vn:1935/live playpath=RadioOnline swfUrl= pageUrl=
+#EXTINF:-1,JoyFM(HN) s1
+rtmp://27.72.58.175:1935/live playpath=RadioOnline live=1 swfUrl=http://joyfm.vn/flashplayer/player.swf pageUrl=http://www.joyfm.vn/
+#EXTINF:-1,JoyFM(HN) s2
+rtmp://radio.joyfm.vn:1935/live playpath=RadioOnline swfUrl=http://hanoitv.vn/lib/JScripts/player.swf pageUrl=http://hanoitv.vn/joy.radio
+
 #EXTINF:-1,Radio HN
-rtmp://123.30.185.123:1935/live playpath=hn1audio swfUrl= pageUrl=
+rtmp://123.30.185.123/live/ playpath=hn1audio swfUrl=http://hanoitv.vn/lib/jwplayer6.12/jwplayer.flash.swf pageUrl=http://hanoitv.vn/fm90.radio
 #EXTINF:-1,VOV GTHN
 rtmp://210.245.60.242:1935/vovgt playpath=vovgt live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
+
 #EXTINF:-1,VOV GTTPHCM
 rtmp://210.245.60.242:1935/vovgtsg playpath=vovgtsg live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/
 #EXTINF:-1,VOH FM 99.9 MHz
@@ -42,6 +46,15 @@ http://209.250.131.2:8000/;stream.mp3
 http://vndcradio2.serverroom.us:4480/
 #EXTINF:-1,Radio VNHN/VABC Falls Church  
 http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
