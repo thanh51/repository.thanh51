@@ -1,161 +1,170 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1,Us:FOX SPORT 2
-http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:ABC News HD
-http://199.21.149.125:8888/US_ABC_NEWS/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Animal Planet HD
-http://199.21.149.125:8888/UK_ANIMAL-PLANET-HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Bein Sports US HD
-http://199.21.149.125:8888/US_BEIN_SPORT_USA/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Bein US HD
-http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:BTN Sports US HD
-http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:BNN HD
-http://199.19.95.115:8888/EXP_BNN_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Animal Planet 
-http://199.21.149.125:8888/UK_ANIMAL_PLANET/index.m3u8
-
-#EXTINF:-1,Us:AMC HD 
-http://199.21.149.125:8888/US_AMC_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Cartoon Network HD 
-http://199.21.149.125:8888/UK_CARTOON_NETWORK/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:CNN HD 
-http://199.21.149.125:8888/US_CNN_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:CBS Sports Network HD 
-http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Comedy Central HD 
-http://199.21.149.125:8888/US_COMEDY_CENTRAL_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:CBN News HD 
-http://199.21.149.125:8888/US_CBN_NEWS/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:CW HD 
-http://199.21.149.125:8888/US_CW_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:CNBC HD 
-http://199.21.149.125:8888/US_CNBC/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Cinemax 5 StarMax HD 
-http://199.21.149.125:8888/US_CINEMAX_5_STARMAX/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Cinemax Action Max East HD 
-http://199.21.149.125:8888/US_CINEMAX_ACTION_MAX_EAST/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Discovery Channel HD 
-http://199.21.149.125:8888/US_DISCOVERY_CHANNEL_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Discovery Science HD 
-http://199.21.149.125:8888/US_DISCOVERY_SCIENCE_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:ESPN  2 HD 
-http://199.21.149.125:8888/US_ESPN-2-HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Fox HD 
-FOXhttp://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Fox Sports 1 HD 
-http://199.21.149.125:8888/US_FOX_SPORTS_1_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Foxx HD 
-http://199.21.149.125:8888/US_FOXX_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:FX HD 
-http://199.21.149.125:8888/US_FX/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Fix HD 
-http://199.21.149.125:8888/US_FIX_TV_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:HallMark Channel HD 
-http://199.21.149.125:8888/US_HALLMARK_CHANNEL_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:ID 
-http://199.21.149.125:8888/US_INVESTIGATION_DISCOVERY/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:TNT HD
-http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:HBO 2 HD
-http://199.19.95.115:8888/EXP_HBO2_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:HBO Zone HD
-http://199.21.149.125:8888/US_HBO_ZONE_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:CBC HD
-http://199.19.95.115:8888/EXP_CBC_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Bravo HD
-http://199.19.95.115:8888/EXP_BRAVO_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:TLC HD
-http://199.19.95.115:8888/EXP_TLC_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Discovery HD
+#EXTINF:-1 group-title="DOC" tvg-logo="",US:NATGEO
+http://199.21.149.125:8888/US_NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:NATGEO
+http://199.21.149.125:8888/UK_NAT_GEOGRAPHIC_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",US:NATGEO WILD
+http://199.21.149.125:8888/US_NAT-GEO-HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",US:DISCOVERY
+http://199.21.149.125:8888/US_DISCOVERY_CHANNEL_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",EXP:DISCOVERY 
 http://199.19.95.115:8888/EXP_DISCOVERY_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",US:DISCOVERY SC
+http://199.21.149.125:8888/US_DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY TURBO
+http://199.21.149.125:8888/UK_DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",US:DISCOVERY ID 
+http://199.21.149.125:8888/US_INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY HISTORY
+http://199.21.149.125:8888/UK_DISCOVERY-HISTORY-HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY SC
+http://199.21.149.125:8888/UK_DISCOVERY-SCIENCE-HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:ANIMAL PLANET HD
+http://199.21.149.125:8888/UK_ANIMAL-PLANET-HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:ANIMAL PLANET 
+http://199.21.149.125:8888/UK_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",EXP:TLC HD
+http://199.19.95.115:8888/EXP_TLC_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",US:TRAVEL CHANNEL
+http://199.21.149.125:8888/US_TRAVEL_CHANNEL_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:LONDON LIVE
+http://199.21.149.125:8888/UK_LONDON_LIVE/index.m3u8
 
-#EXTINF:-1,Us:StarZ Cinema HD
-http://199.21.149.125:8888/US_STARZ_CINEMA_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 1
+http://199.21.149.125:8888/UK_SKY_SPORTS_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 2
+http://199.21.149.125:8888/UK_SKY_SPORTS_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 3
+http://199.21.149.125:8888/UK_SKY_SPORTS_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 4
+http://199.21.149.125:8888/UK_SKY_SPORTS_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 5
+http://199.21.149.125:8888/UK_SKY_SPORTS_5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 1 HD
+http://199.21.149.125:8888/UK_SKY_SPORT_1_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 2 HD
+http://199.21.149.125:8888/UK_SKY_SPORT_2_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 3 HD
+http://199.21.149.125:8888/UK_SKY_SPORT_3_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 4 HD
+http://199.21.149.125:8888/UK_SKY_SPORT_4_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 5 HD
+http://199.21.149.125:8888/UK_SKY_SPORT_5_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:BT SPORT 1
+http://199.21.149.125:8888/UK_BT_SPORTS_1_HD_TRUE/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:BT SPORT 2
+http://199.21.149.125:8888/UK_BT_SPORTS_2_HD_TRUE/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",UK:BT SPORT 3
+http://199.21.149.125:8888/UK_BT_SPORTS_EUROPE_HD_TRUE/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 1
+http://199.21.149.151:8080/PT_SPORT_TV_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 2
+http://199.21.149.151:8080/PT_SPORT_TV_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 3
+http://199.21.149.151:8080/PT_SPORT_TV_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 4
+http://199.21.149.151:8080/PT_SPORT_TV_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 5
+http://199.21.149.151:8080/PT_SPORT_TV_5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",FOX SPORT 2
+http://199.21.149.125:8888/US_FOX_SPORT_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:Bein Sports US HD
+http://199.21.149.125:8888/US_BEIN_SPORT_USA/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:Bein US HD
+http://199.21.149.125:8888/US_BEIN_USA/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:BTN Sports US HD
+http://199.21.149.125:8888/US_BEIN_USA/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:ESPN 2 HD 
+http://199.21.149.125:8888/US_ESPN-2-HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:Fox Sports 1 HD 
+http://199.21.149.125:8888/US_FOX_SPORTS_1_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:Tennis HD
+http://199.21.149.125:8888/US_TENNIS_CHANNEL_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:NBC Golf HD
+http://199.21.149.125:8888/US_NBC_GOLF/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:CBS Sports Network HD 
+http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/index.m3u8
 
-#EXTINF:-1,Us:SYFY HD
-http://199.21.149.125:8888/US_SYFY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",US:ABC News HD
+http://199.21.149.125:8888/US_ABC_NEWS/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",US:CNN HD 
+http://199.21.149.125:8888/US_CNN_HD/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",US:CBN News HD 
+http://199.21.149.125:8888/US_CBN_NEWS/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",US:CNBC HD 
+http://199.21.149.125:8888/US_CNBC/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",UK:SKY NEWS
+http://199.21.149.125:8888/UK_SKY_NEWS_HD/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",UK:NHK
+http://199.21.149.125:8888/UK_NHK_NEWS_HD/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",US:ALJAZEERA
+http://199.21.149.125:8888/US_AL_JAZEERA/index.m3u8
 
-#EXTINF:-1,Us:Showtime Showcase
-http://199.21.149.125:8888/US_SHOWTIME_SHOWCASE/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Cinemax 5 StarMax HD 
+http://199.21.149.125:8888/US_CINEMAX_5_STARMAX/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Cinemax Action Max East HD 
+http://199.21.149.125:8888/US_CINEMAX_ACTION_MAX_EAST/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Fox HD 
+FOXhttp://199.21.149.125:8888/US_FOX_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Foxx HD 
+http://199.21.149.125:8888/US_FOXX_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:FX HD 
+http://199.21.149.125:8888/US_FX/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Fix HD 
+http://199.21.149.125:8888/US_FIX_TV_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:HallMark Channel HD 
+http://199.21.149.125:8888/US_HALLMARK_CHANNEL_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:TNT HD
+http://199.21.149.125:8888/US_TNT/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",EXP:HBO 2 HD
+http://199.19.95.115:8888/EXP_HBO2_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:HBO Zone HD
+http://199.21.149.125:8888/US_HBO_ZONE_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:StarZ Cinema HD
+http://199.21.149.125:8888/US_STARZ_CINEMA_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:SYFY HD
+http://199.21.149.125:8888/US_SYFY/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Showtime Showcase
+http://199.21.149.125:8888/US_SHOWTIME_SHOWCASE/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:Showtime Extreme
+http://199.21.149.125:8888/US_SHOWTE_IMEXTREME/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:TNT HD
+http://199.21.149.125:8888/US_TNT/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",US:AMC HD 
+http://199.21.149.125:8888/US_AMC_HD/index.m3u8
 
-#EXTINF:-1,Us:Showtime Extreme
-http://199.21.149.125:8888/US_SHOWTE_IMEXTREME/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Spike HD
-http://199.21.149.125:8888/US_SPIKE_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Travel HD
-http://199.21.149.125:8888/US_TRAVEL_CHANNEL_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:TBS HD
-http://199.21.149.125:8888/US_TBS_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:TNT HD
-http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:TBC HD
-http://199.21.149.125:8888/US_NBC_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Tennis HD
-http://199.21.149.125:8888/US_TENNIS_CHANNEL_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:USA Network HD
-http://199.21.149.125:8888/US_USA_NETWORK_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Music RMC1 HD
-http://199.21.149.125:8888/US_MUSIC_RMC1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:NASA HD
-http://199.21.149.125:8888/US_NASA_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:NBC Golf HD
-http://199.21.149.125:8888/US_NBC_GOLF/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:National Geographic HD
-http://199.21.149.125:8888/US_NAT-GEO-HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Us:Nickoloden HD
+#EXTINF:-1 group-title="KID" tvg-logo="",UK:BOOMERANG
+http://199.21.149.125:8888/UK_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="KID" tvg-logo="",UK:Cartoon Network HD 
+http://199.21.149.125:8888/UK_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="KID" tvg-logo="",US:Nickoloden HD
 http://199.21.149.125:8888/US_NICKELODEN_HD/index.m3u8
 
-#EXTINF:-1,Us:WWE Network
-http://199.21.149.125:8888/US_WWE_NETWORK_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",EXP:CBC HD
+http://199.19.95.115:8888/EXP_CBC_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",EXP:Bravo HD
+http://199.19.95.115:8888/EXP_BRAVO_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:Spike HD
+http://199.21.149.125:8888/US_SPIKE_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:TBS HD
+http://199.21.149.125:8888/US_TBS_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:TBC HD
+http://199.21.149.125:8888/US_NBC_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:USA Network HD
+http://199.21.149.125:8888/US_USA_NETWORK_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:Music RMC1 HD
+http://199.21.149.125:8888/US_MUSIC_RMC1/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:NASA HD
+http://199.21.149.125:8888/US_NASA_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:WWE Network
+http://199.21.149.125:8888/US_WWE_NETWORK_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:Willow Cricket HD 
+http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",EXP:BNN HD
+http://199.19.95.115:8888/EXP_BNN_HD/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="",US:CW HD 
+http://199.21.149.125:8888/US_CW_HD/index.m3u8
 
-#EXTINF:-1,Us:Willow Cricket HD Network
-http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/tracks-v1a1/index.m3u8
+
 
