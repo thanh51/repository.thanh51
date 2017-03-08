@@ -12,14 +12,16 @@ http://199.21.149.125:8888/US_DISCOVERY_CHANNEL_HD/index.m3u8
 http://199.19.95.115:8888/EXP_DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",US:DISCOVERY SC
 http://199.21.149.125:8888/US_DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY SC
+http://199.21.149.125:8888/UK_DISCOVERY-SCIENCE-HD/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY TURBO
 http://199.21.149.125:8888/UK_DISCOVERY_TURBO/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",US:DISCOVERY ID 
 http://199.21.149.125:8888/US_INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY ID
+http://199.21.149.125:8888/UK_DISCOVERY_INVESTIGATION_HD/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY HISTORY
 http://199.21.149.125:8888/UK_DISCOVERY-HISTORY-HD/index.m3u8
-#EXTINF:-1 group-title="DOC" tvg-logo="",UK:DISCOVERY SC
-http://199.21.149.125:8888/UK_DISCOVERY-SCIENCE-HD/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",UK:ANIMAL PLANET HD
 http://199.21.149.125:8888/UK_ANIMAL-PLANET-HD/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",UK:ANIMAL PLANET 
@@ -30,6 +32,8 @@ http://199.19.95.115:8888/EXP_TLC_HD/index.m3u8
 http://199.21.149.125:8888/US_TRAVEL_CHANNEL_HD/index.m3u8
 #EXTINF:-1 group-title="DOC" tvg-logo="",UK:LONDON LIVE
 http://199.21.149.125:8888/UK_LONDON_LIVE/index.m3u8
+#EXTINF:-1 group-title="DOC" tvg-logo="",UK:RUSSIA DOCUMENTARY
+http://199.21.149.125:8888/UK_RUSSIA_DOCUMENTARY/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",UK:SKY SPORT 1
 http://199.21.149.125:8888/UK_SKY_SPORTS_1/index.m3u8
@@ -85,6 +89,10 @@ http://199.21.149.125:8888/US_TENNIS_CHANNEL_HD/index.m3u8
 http://199.21.149.125:8888/US_NBC_GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",US:CBS Sports Network HD 
 http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:WWE Network
+http://199.21.149.125:8888/US_WWE_NETWORK_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:Willow Cricket HD 
+http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="",US:ABC News HD
 http://199.21.149.125:8888/US_ABC_NEWS/index.m3u8
@@ -94,6 +102,8 @@ http://199.21.149.125:8888/US_CNN_HD/index.m3u8
 http://199.21.149.125:8888/US_CBN_NEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="",US:CNBC HD 
 http://199.21.149.125:8888/US_CNBC/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",UK:CBBC
+http://199.21.149.125:8888/UK_CBBC/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="",UK:SKY NEWS
 http://199.21.149.125:8888/UK_SKY_NEWS_HD/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="",UK:NHK
@@ -133,6 +143,8 @@ http://199.21.149.125:8888/US_SHOWTE_IMEXTREME/index.m3u8
 http://199.21.149.125:8888/US_TNT/index.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="",US:AMC HD 
 http://199.21.149.125:8888/US_AMC_HD/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",UK:MOVIES ACTION
+http://199.21.149.125:8888/UK_MOVIES_ACTION/index.m3u8
 
 #EXTINF:-1 group-title="KID" tvg-logo="",UK:BOOMERANG
 http://199.21.149.125:8888/UK_BOOMERANG/index.m3u8
@@ -141,8 +153,6 @@ http://199.21.149.125:8888/UK_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="KID" tvg-logo="",US:Nickoloden HD
 http://199.21.149.125:8888/US_NICKELODEN_HD/index.m3u8
 
-#EXTINF:-1 group-title="TH" tvg-logo="",EXP:CBC HD
-http://199.19.95.115:8888/EXP_CBC_HD/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="",EXP:Bravo HD
 http://199.19.95.115:8888/EXP_BRAVO_HD/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="",US:Spike HD
@@ -157,10 +167,6 @@ http://199.21.149.125:8888/US_USA_NETWORK_HD/index.m3u8
 http://199.21.149.125:8888/US_MUSIC_RMC1/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="",US:NASA HD
 http://199.21.149.125:8888/US_NASA_HD/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="",US:WWE Network
-http://199.21.149.125:8888/US_WWE_NETWORK_HD/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="",US:Willow Cricket HD 
-http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="",EXP:BNN HD
 http://199.19.95.115:8888/EXP_BNN_HD/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="",US:CW HD 
