@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 06/03/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 09/03/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -299,32 +299,50 @@ rtmp://123.30.110.170:1939/thhg/thhg
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/YAGwIeW.png",CÀ MAU
 rtmp://113.161.220.254/livepkgr/ playpath=livestream1?adbe-live-event=liveevent live=1 swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf pageUrl=http://ctvcamau.vn/
 
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIETFACE
-http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w1396114361.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",SAIGON TV LIVE – Media Kit & Rate
-http://63.143.59.125:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",KVLA
-http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VBS TELEVISION Channel 57.6 
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",QUÊ HƯƠNG
-rtmp://vf10.aditmedia.net/ingestx/ius_000130
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIETBAY
-rtmp://vf10.aditmedia.net/ingestx/ius_000131
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VNATV 57.3 
-http://livestream.vnvn.net/vnatv573.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",S CHANNEL TV 56.6 Live TV
-http://64.71.129.2:8080/hls/ius_000114.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",IBC NEWS
-rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",Công Giáo TV
-http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIETCHRISTIAN
-mms://live.vietchristian.com/tv
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIET MY TV
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png", Việtface Cali. 57.2 
+http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png", Việt Mỹ TV 
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIỆT SÓNG TV 47.7 WKTB
-http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s23.postimg.org/s0fe2u0t7/image.png",Việt Sóng TV 47.7  Atlanta  2
+rtmp://uni5rtmp.tulix.tv/playout2multi10/ playpath=playout2multi10.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/playout2multi10/index.php
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s27.postimg.org/dkmv2jpdf/vietbay_television_logo.png",Việt Bay- San Jose
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s24.postimg.org/ze5fqmvrp/Vietpho.png",Việt Phố
+rtmp://63.143.59.125/live playpath=myStream swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png", Việt News TV 
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",SBTN -SET channel 
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s27.postimg.org/6o0q5ftw3/channel_schannel_4.png", SChannel 54.4 
+rtmp://vf10.aditmedia.net/origin/ playpath=ius_000114 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/s-channel/
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",SET TV 
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",IBC TV 57.8 
+rtmp://liveplay3.malimarcdn.com:1935/ibcnews playpath=ibcnews.sdp swfUrl=http://ibcnews.tv/content/scripts/media/strobe/StrobeMediaPlayback.swf pageUrl=http://nguoiviet.tv/ibc-tv/
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s28.postimg.org/nll6ubj9p/quehuong.png", Quê Hương Media s1
+http://64.71.129.2:8080/hls/ius_000130.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s28.postimg.org/nll6ubj9p/quehuong.png",Quê Hương Media s2
+rtmp://vf10.aditmedia.net/ingestx/ playpath=ius_000130 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/truyen-hinh-que-huong/
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s27.postimg.org/zd62aenf7/vnbc.png",VNBC 
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s27.postimg.org/wnwdqo22b/vstar.png", ViệtStar 57.11  
+http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s24.postimg.org/h5hrvpwg5/saigon.png",Saigon TV 
+http://63.143.59.125:1935/live/myStream/chunklist_w225895095.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s24.postimg.org/h5hrvpwg5/saigon.png", Saigon TV Westminster CA 57.5 
+http://63.143.59.125:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s30.postimg.org/p2ybmvni9/lstv.png", Little Saigon TV 57.7 
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png", KVLA TV 56.5 
+http://63.143.59.125:1935/live/myStream/chunklist_w322541891.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS- Vietnames Broadcasting Service 
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s24.postimg.org/7t4su66md/vbs1.png",VBS (WS) 
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS Canada 
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",VNA TV 
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
 #EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/3lybypo35/londonlive.jpg",USA:LONDON LIVE 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
