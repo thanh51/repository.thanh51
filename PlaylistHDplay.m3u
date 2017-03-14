@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 09/03/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 14/03/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -20,10 +20,24 @@ http://123.30.185.126/hls/vtc3.m3u8
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/om0fk5x5v/sport.png",China:Sport+
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",UK:SKY SPORT 1  
+http://199.21.149.125:8888/UK_SKY_SPORTS_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",UK:SKY SPORT 2  
+http://199.21.149.125:8888/UK_SKY_SPORTS_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",UK:SKY SPORT 3  
+http://199.21.149.125:8888/UK_SKY_SPORTS_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",UK:SKY SPORT 4  
+http://199.21.149.125:8888/UK_SKY_SPORTS_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png",UK:SKY SPORT 5  
+http://199.21.149.125:8888/UK_SKY_SPORTS_5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",UK:BT SPORT 1
+http://31.204.155.156:8080/edge/10560/tracks-v1a1/index.m3u8?token=17.18.1371.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.03fb24bcf98a302242d7b20edea5a374
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",UK:BT SPORT 2
+http://31.204.155.156:8080/edge/8584/tracks-v1a1/index.m3u8?token=17.18.1384.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.69b4ca0e63e4c7f53c6187681cd0d997
+#EXTINF:-1 group-title="Sports" tvg-logo="http://freelive365.com/img/channels/bteuropa.png",UK:BT SPORT 3
+http://31.204.150.12:8080/edge/10788/tracks-v1a1/index.m3u8?token=17.18.1385.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.c4332d57145ac75649b1fe7b4730e48d
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
-http://46.105.161.243:8085/lighd
+http://tinyurl.com/hqnvr69
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
@@ -70,11 +84,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",BT SPORT 2
-
-http://151.80.100.131:1935/uk7/btsport2.stream/playlist.m3u8?token=
-#EXTINF:-1 group-title="Sports" tvg-logo="http://freelive365.com/img/channels/bteuropa.png",BT SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBeeT3yy-U/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 1
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 2
@@ -452,54 +461,63 @@ http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="",NEW TV 18 s1
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",Sopcast:AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 2
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",Sopcast:HBO 2
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO 2
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO 3
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",Sopcast:HBO 3
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&mode=2&name=HBO 3
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Film Cafe
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Sopcast:Film Cafe
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&mode=2&name=Film Cafe
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",TV1000
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",Sopcast:TV1000
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Filmbox
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Sopcast:Filmbox
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/llmsvh9ct/frocinema.jpg",Fro Cinema
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/llmsvh9ct/frocinema.jpg",Sopcast:Fro Cinema
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148249&mode=2&name=Fro Cinema
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/dfo48lyab/divauni.jpg",DIVA UNIVERSAL
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/dfo48lyab/divauni.jpg",Sopcast:DIVA UNIVERSAL
 plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253034&mode=2&name=DIVA UNIVERSAL
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/lyq86n2pp/paramo.jpg",PARAMOUNT
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/lyq86n2pp/paramo.jpg",Sopcast:PARAMOUNT
 plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253033&mode=2&name=PARAMOUNT
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Boomerang
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Sopcast:Boomerang
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Sopcast:Cartoon Network
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/ffzer71xx/disney.jpg",DISNEY
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/ffzer71xx/disney.jpg",Sopcast:DISNEY
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253031&mode=2&name=DISNEY
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/of5s1whi5/disneyjr.jpg",DISNEY JR
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/of5s1whi5/disneyjr.jpg",Sopcast:DISNEY JR
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256239&mode=2&name=DISNEY JR
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/r4hnzsdtj/megamax.jpg",MEGAMAX
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/r4hnzsdtj/megamax.jpg",Sopcast:MEGAMAX
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256328&mode=2&name=MEGAMAX
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/y3vtg49nb/nicke.jpg",NICKELODEON
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/y3vtg49nb/nicke.jpg",Sopcast:NICKELODEON
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253472&mode=2&name=NICKELODEON
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",Sopcast:National Geographic
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",NatGeo Wild
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",Sopcast:NatGeo Wild
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=NatGeo wild
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Sopcast:Discovery Channel
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Discovery Science
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Sopcast:Discovery Science
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/65pv3fcqr/discoveryid.png",Discovery ID
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/65pv3fcqr/discoveryid.png",Sopcast:Discovery ID
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&mode=2&name=Discovery ID
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",Sopcast:BBC Earth
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s23.postimg.org/gd53j7e17/history.jpg",HISTORY
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s23.postimg.org/gd53j7e17/history.jpg",Sopcast:HISTORY
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&mode=2&name=HISTORY
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/gpytq8sd1/viasathistory.jpg",VIASAT HISTORY
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/gpytq8sd1/viasathistory.jpg",Sopcast:VIASAT HISTORY
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&mode=2&name=VIASAT HISTORY
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",TLC
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",Sopcast:TLC
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&mode=2&name=TLC
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/l5ajqyznr/natgeoabu.png",AR: National Geographic Abu Dhabi HD
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.liveonlinetv247.info/images/natgeo.png",Bul: National Geographic HD Bulgaria
+http://93.123.65.4:8080/live/nghd/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.liveonlinetv247.info/images/natgeo.png",ESP: National geografic
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/102.ts?callerApp=canalp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",UK: National geo wild
+http://gtv.tn:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/1610.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
@@ -589,6 +607,8 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/121900_BHDgs.flv
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
 
 
 
