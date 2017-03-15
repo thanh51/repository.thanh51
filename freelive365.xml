@@ -168,7 +168,20 @@
 <fanart>http://4.bp.blogspot.com/-rLHvP5fvBHg/Vf0isvJSGhI/AAAAAAAAG1U/DurLKrJ1Y5A/s640/plexus-kodi.jpg</fanart>
 </item>
 /////////////////////
-
+<item>
+<title>[COLOR lime] UK:BT ESPN [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BT SPORT 3</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://freelive365.com/tv/ace/uk/espnuk.php</page>
+<referer>http://freelive365.com</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/V3klE56.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-rLHvP5fvBHg/Vf0isvJSGhI/AAAAAAAAG1U/DurLKrJ1Y5A/s640/plexus-kodi.jpg</fanart>
+</item>
+/////////////////////
 
 
 
@@ -178,16 +191,5 @@
 
 </items>
 </channel>
-
-
-
-
-
-
-
-
-
-
-
 
 
