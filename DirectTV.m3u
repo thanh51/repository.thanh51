@@ -61,18 +61,10 @@ http://199.21.149.125:8888/UK_BT_SPORTS_1_HD_TRUE/index.m3u8
 http://199.21.149.125:8888/UK_BT_SPORTS_2_HD_TRUE/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",UK:BT SPORT 3
 http://199.21.149.125:8888/UK_BT_SPORTS_EUROPE_HD_TRUE/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 1
-http://199.21.149.151:8080/PT_SPORT_TV_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 2
-http://199.21.149.151:8080/PT_SPORT_TV_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 3
-http://199.21.149.151:8080/PT_SPORT_TV_3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 4
-http://199.21.149.151:8080/PT_SPORT_TV_4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 5
-http://199.21.149.151:8080/PT_SPORT_TV_5/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",FOX SPORT 2
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:FOX SPORT 2
 http://199.21.149.125:8888/US_FOX_SPORT_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",US:NBCSN HD
+http://199.21.149.125:8888/US_NBC_SPORT/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",US:Bein Sports US HD
 http://199.21.149.125:8888/US_BEIN_SPORT_USA/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",US:Bein US HD
@@ -93,6 +85,16 @@ http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/index.m3u8
 http://199.21.149.125:8888/US_WWE_NETWORK_HD/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",US:Willow Cricket HD 
 http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 1
+http://199.21.149.151:8080/PT_SPORT_TV_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 2
+http://199.21.149.151:8080/PT_SPORT_TV_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 3
+http://199.21.149.151:8080/PT_SPORT_TV_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 4
+http://199.21.149.151:8080/PT_SPORT_TV_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PT:SPORT TV 5
+http://199.21.149.151:8080/PT_SPORT_TV_5/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="",US:ABC News HD
 http://199.21.149.125:8888/US_ABC_NEWS/index.m3u8
