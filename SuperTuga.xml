@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <item>
-<title>[COLOR deepskyblue][B]SUPER TUGA [/B][/COLOR]</title>
+<title>[COLOR deepskyblue][B]ADDON SUPER TUGA [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://teamtuga4ever.net23.net/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20Principal.xml</externallink>
 </item>
@@ -64,173 +64,9 @@
 </item>
 
 /////////////////////////////////////////
-<item> 
-<title>[COLOR green] [I] HOLLYWOOD HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV HOLLYWOOD|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green] [I] AXN HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV AXN|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV AXN|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green] [I] AXN WHITE HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV AXN WHITE|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV AXN WHITE|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green] [I] FOX HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FOX|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FOX|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/foxcrl/1/650/500</page>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
-</item>
-
-<item>
-<title>[COLOR green] [I] FOX LIFE HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FOX LIFE|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
-</regex>
-<item>
- 
-
-<item> 
-<title>[COLOR green] [I] NAT GEO HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NAT GEO|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green] [I] DISCOVERY HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV DISCOVERY|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green] [I] HISTÓRIA HD[/I] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV HISTORIA|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green] [I] ODISSEIA HD[/I] [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ODISSEIA|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium</thumbnail>
-</item>
-
-
 
 
 </items>
 </channel>
+
 
