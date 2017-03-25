@@ -1,10 +1,12 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 22.03.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 25.03.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+http://livetv.flix.vn:80/613e34fe36c4a1907be8bc465d1a1b5d/spsklfl/vtc3.720p.stream/playlist.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
@@ -29,12 +31,6 @@ http://81.7.13.162/hls/ss4/index.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/kiRDDPC.png",AD SPORT 2 HD
 http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/lJ5C1yQ.png",AD SPORT 3 HD
-http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/kpTqGy9.png",AD SPORT 4 HD
-http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/6k6sPkh.png",AD SPORT 5 HD
-http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National HD
 http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona HD
@@ -63,56 +59,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 1
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 2
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-2/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 3
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-3/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 4
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-4/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 5
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 1
-http://149.202.207.8:8080/je3nNaM00tAa/f00cssp1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 2
-http://149.202.207.8:8080/je3nNaM00tAa/f00cssp2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT 1
-http://149.202.208.85:8080/mystreambhenssp-1/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORT 2
-http://149.202.208.85:8080/mystreambhenssp-2/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT 3
-http://149.202.208.85:8080/mystreambhenssp-3/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",BEIN SPORT 4
-http://149.202.208.85:8080/mystreambhenssp-4/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",BEIN SPORT 5
-http://149.202.208.85:8080/mystreambhenssp-5/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",BEIN SPORT 6
-http://149.202.208.85:8080/mystreambhenssp-6/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT FRANCE 1
-http://149.202.208.85:8080/mystreambhenssfn-1/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORT FRANCE 2
-http://149.202.208.85:8080/mystreambhenssfn-2/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT FRANCE 3
-http://149.202.208.85:8080/mystreambhenssfn-3/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 1
-http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 2
-http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 3
-http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 4
-http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 1
-http://149.202.207.8:8080/je3nNaM00tAa/Tseennna1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 2
-http://149.202.207.8:8080/je3nNaM00tAa/Tseennna2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 3
-http://149.202.207.8:8080/je3nNaM00tAa/Tseennna3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 4
-http://149.202.207.8:8080/je3nNaM00tAa/Tseennna4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 5
-http://149.202.207.8:8080/je3nNaM00tAa/Tseennna5/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Eng)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Frace)
@@ -164,8 +110,6 @@ http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|Use
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Play
-http://118.107.68.10:1935/live/_definst_/VTCPlay_music/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png", VTC1 FullHD
 http://livetv.flix.vn:80/613e34fe36c4a1907be8bc465d1a1b5d/spsklfl/vtc1.1080p.stream/playlist.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png", VTC3 HD
@@ -399,14 +343,6 @@ rtmp://54.251.134.121/live/15273.sdp
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/v34n24f53/cbsn.jpg",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 1
-http://149.202.207.8:8080/je3nNaM00tAabeebyc-1/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 2
-http://149.202.207.8:8080/je3nNaM00tAabeebyc-2/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 3
-http://149.202.207.8:8080/je3nNaM00tAabeebyc-3/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 4
-http://149.202.207.8:8080/je3nNaM00tAabeebyc-4/Strm/index.m3u8
 
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -495,6 +431,7 @@ http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
 http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
 #EXTINF:-1 group-title="Adult" tvg-logo="http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg",English: Porn 5
 http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
+
 
 
 
