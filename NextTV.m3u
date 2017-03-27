@@ -1,256 +1,205 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
-http://27.67.64.73:18080/154_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
-http://27.67.64.72:18080/155_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
-http://27.67.64.70:18080/193_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
-http://27.67.64.71:18080/194_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
-http://27.67.64.71:18080/156_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
-http://27.67.64.68:18080/195_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
-http://27.67.64.68:18080/196_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/qCWsfhc.png",VTV9 HD
-http://27.67.64.70:18080/197_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png",ANTV
-http://27.67.64.71:18080/18_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
-http://27.67.64.71:18080/20_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN HD
-http://27.67.64.72:18080/141_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/j7NsBwD.png",ANTG
-http://27.67.64.68:18080/51_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="" tvg-logo="",VTV1 HD
+http://truongquocvi.com/getViettelTV/?cid=154
+#EXTINF:-1 group-title="" tvg-logo="",VTV3 HD
+http://truongquocvi.com/getViettelTV/?cid=155
+#EXTINF:-1 group-title="" tvg-logo="",VTV4 HD
+http://truongquocvi.com/getViettelTV/?cid=193
+#EXTINF:-1 group-title="" tvg-logo="",VTV5 HD
+http://truongquocvi.com/getViettelTV/?cid=194
+#EXTINF:-1 group-title="" tvg-logo="",VTV6 HD
+http://truongquocvi.com/getViettelTV/?cid=156
+#EXTINF:-1 group-title="" tvg-logo="",VTV7 HD
+http://truongquocvi.com/getViettelTV/?cid=195
+#EXTINF:-1 group-title="" tvg-logo="",VTV8 HD
+http://truongquocvi.com/getViettelTV/?cid=196
+#EXTINF:-1 group-title="" tvg-logo="",VTV9 HD
+http://truongquocvi.com/getViettelTV/?cid=197
+#EXTINF:-1 group-title="" tvg-logo="",TTXVN
+http://truongquocvi.com/getViettelTV/?cid=20
+#EXTINF:-1 group-title="" tvg-logo="",ANTV HD
+http://truongquocvi.com/getViettelTV/?cid=18
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB1
+http://truongquocvi.com/getViettelTV/?cid=211
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB5
+http://truongquocvi.com/getViettelTV/?cid=212
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB6
+http://truongquocvi.com/getViettelTV/?cid=216
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB13
+http://truongquocvi.com/getViettelTV/?cid=277
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB15
+http://truongquocvi.com/getViettelTV/?cid=232
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB15 HD
+http://truongquocvi.com/getViettelTV/?cid=220
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB18
+http://truongquocvi.com/getViettelTV/?cid=223
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB20
+http://truongquocvi.com/getViettelTV/?cid=213
+#EXTINF:-1 group-title="" tvg-logo="",VTVCAB22
+http://truongquocvi.com/getViettelTV/?cid=237
+
+#EXTINF:-1 group-title="" tvg-logo="",HTV1
+http://truongquocvi.com/getViettelTV/?cid=53
+#EXTINF:-1 group-title="" tvg-logo="",HTV2
+http://truongquocvi.com/getViettelTV/?cid=54
+#EXTINF:-1 group-title="" tvg-logo="",HTV7 HD
+http://truongquocvi.com/getViettelTV/?cid=157
+#EXTINF:-1 group-title="" tvg-logo="",HTV9 HD
+http://truongquocvi.com/getViettelTV/?cid=158
+#EXTINF:-1 group-title="" tvg-logo="",HTV THE THAO
+http://truongquocvi.com/getViettelTV/?cid=37
+#EXTINF:-1 group-title="" tvg-logo="",HTVC CA NHAC
+http://truongquocvi.com/getViettelTV/?cid=58
+#EXTINF:-1 group-title="" tvg-logo="",HTVC GIA DINH
+http://truongquocvi.com/getViettelTV/?cid=59
+#EXTINF:-1 group-title="" tvg-logo="",HTVC PHIM
+http://truongquocvi.com/getViettelTV/?cid=31
+#EXTINF:-1 group-title="" tvg-logo="",HTVC PHIM HD
+http://truongquocvi.com/getViettelTV/?cid=159
+#EXTINF:-1 group-title="" tvg-logo="",HTVC PHU NU
+http://truongquocvi.com/getViettelTV/?cid=56
+#EXTINF:-1 group-title="" tvg-logo="",HTVC DU LICH
+http://truongquocvi.com/getViettelTV/?cid=60
+#EXTINF:-1 group-title="" tvg-logo="",HTVC THUAN VIET HD
+http://truongquocvi.com/getViettelTV/?cid=160
+#EXTINF:-1 group-title="" tvg-logo="",HTVC CHANNEL B
+http://truongquocvi.com/getViettelTV/?cid=25
+
+#EXTINF:-1 group-title="" tvg-logo="",VTC2
+http://truongquocvi.com/getViettelTV/?cid=181
+#EXTINF:-1 group-title="" tvg-logo="",VTC3 HD
+http://truongquocvi.com/getViettelTV/?cid=145
+#EXTINF:-1 group-title="" tvg-logo="",VTC4
+http://truongquocvi.com/getViettelTV/?cid=46
+#EXTINF:-1 group-title="" tvg-logo="",VTC5
+http://truongquocvi.com/getViettelTV/?cid=28
+#EXTINF:-1 group-title="" tvg-logo="",VTC6
+http://truongquocvi.com/getViettelTV/?cid=29
+#EXTINF:-1 group-title="" tvg-logo="",VTC7
+http://truongquocvi.com/getViettelTV/?cid=47
+#EXTINF:-1 group-title="" tvg-logo="",VTC8
+http://truongquocvi.com/getViettelTV/?cid=14
+#EXTINF:-1 group-title="" tvg-logo="",VTC9
+http://truongquocvi.com/getViettelTV/?cid=48
+#EXTINF:-1 group-title="" tvg-logo="",VTC10
+http://truongquocvi.com/getViettelTV/?cid=15
+#EXTINF:-1 group-title="" tvg-logo="",VTC11
+http://truongquocvi.com/getViettelTV/?cid=72
+#EXTINF:-1 group-title="" tvg-logo="",VTC13 HD
+http://truongquocvi.com/getViettelTV/?cid=152
+#EXTINF:-1 group-title="" tvg-logo="",VTC14
+http://truongquocvi.com/getViettelTV/?cid=16
+#EXTINF:-1 group-title="" tvg-logo="",VTC16
+http://truongquocvi.com/getViettelTV/?cid=17
+
+#EXTINF:-1 group-title="" tvg-logo="",HA NOI 1
+http://truongquocvi.com/getViettelTV/?cid=9
+#EXTINF:-1 group-title="" tvg-logo="",HA NOI 2
+http://truongquocvi.com/getViettelTV/?cid=10
+#EXTINF:-1 group-title="" tvg-logo="",MOVHD Hanoicab4
+http://truongquocvi.com/getViettelTV/?cid=30
+#EXTINF:-1 group-title="" tvg-logo="",YOUTV Hanoicab2
+http://truongquocvi.com/getViettelTV/?cid=50
+#EXTINF:-1 group-title="" tvg-logo="",HITV Hanoicab1
+http://truongquocvi.com/getViettelTV/?cid=52
+#EXTINF:-1 group-title="" tvg-logo="",VINH PHUC
+http://truongquocvi.com/getViettelTV/?cid=91
+#EXTINF:-1 group-title="" tvg-logo="",YEN BAI
+http://truongquocvi.com/getViettelTV/?cid=89
+#EXTINF:-1 group-title="" tvg-logo="",THVL2
+http://truongquocvi.com/getViettelTV/?cid=134
+#EXTINF:-1 group-title="" tvg-logo="",THVL1
+http://truongquocvi.com/getViettelTV/?cid=133
+#EXTINF:-1 group-title="" tvg-logo="",TUYEN QUANG
+http://truongquocvi.com/getViettelTV/?cid=79
+#EXTINF:-1 group-title="" tvg-logo="",TRA VINH
+http://truongquocvi.com/getViettelTV/?cid=135
+#EXTINF:-1 group-title="" tvg-logo="",TIEN GIANG
+http://truongquocvi.com/getViettelTV/?cid=130
+#EXTINF:-1 group-title="" tvg-logo="",TRT
+http://truongquocvi.com/getViettelTV/?cid=106
+#EXTINF:-1 group-title="" tvg-logo="",THAI NGUYEN
+http://truongquocvi.com/getViettelTV/?cid=80
+#EXTINF:-1 group-title="" tvg-logo="",LONG AN
+http://truongquocvi.com/getViettelTV/?cid=120
+#EXTINF:-1 group-title="" tvg-logo="",SON LA
+http://truongquocvi.com/getViettelTV/?cid=87
+#EXTINF:-1 group-title="" tvg-logo="",SOC TRANG
+http://truongquocvi.com/getViettelTV/?cid=139
+#EXTINF:-1 group-title="" tvg-logo="",QUANG TRI
+http://truongquocvi.com/getViettelTV/?cid=105
+#EXTINF:-1 group-title="" tvg-logo="",QUANG NINH 3
+http://truongquocvi.com/getViettelTV/?cid=82
+#EXTINF:-1 group-title="" tvg-logo="",QUANG NINH 1
+http://truongquocvi.com/getViettelTV/?cid=81
+#EXTINF:-1 group-title="" tvg-logo="",QUANG NGAI
+http://truongquocvi.com/getViettelTV/?cid=109
+#EXTINF:-1 group-title="" tvg-logo="",QUANG TRI
+http://truongquocvi.com/getViettelTV/?cid=108
+#EXTINF:-1 group-title="" tvg-logo="",PTP(PHU THO)
+http://truongquocvi.com/getViettelTV/?cid=122
+#EXTINF:-1 group-title="" tvg-logo="",PHU YEN
+http://truongquocvi.com/getViettelTV/?cid=90
+#EXTINF:-1 group-title="" tvg-logo="",NINH THUAN
+http://truongquocvi.com/getViettelTV/?cid=117
+#EXTINF:-1 group-title="" tvg-logo="",NINH BINH
+http://truongquocvi.com/getViettelTV/?cid=99
+#EXTINF:-1 group-title="" tvg-logo="",HOA BINH
+http://truongquocvi.com/getViettelTV/?cid=100
+#EXTINF:-1 group-title="" tvg-logo="",HAU GIANG
+http://truongquocvi.com/getViettelTV/?cid=138
+#EXTINF:-1 group-title="" tvg-logo="",HAI PHONG
+http://truongquocvi.com/getViettelTV/?cid=94
+#EXTINF:-1 group-title="" tvg-logo="",HAI DUONG
+http://truongquocvi.com/getViettelTV/?cid=93
+#EXTINF:-1 group-title="" tvg-logo="",HA TINH
+http://truongquocvi.com/getViettelTV/?cid=103
+#EXTINF:-1 group-title="" tvg-logo="",HA NAM
+http://truongquocvi.com/getViettelTV/?cid=97
+#EXTINF:-1 group-title="" tvg-logo="",HA GIANG
+http://truongquocvi.com/getViettelTV/?cid=76
+#EXTINF:-1 group-title="" tvg-logo="",GIA LAI
+http://truongquocvi.com/getViettelTV/?cid=112
+#EXTINF:-1 group-title="" tvg-logo="",DONG THAP
+http://truongquocvi.com/getViettelTV/?cid=132
+#EXTINF:-1 group-title="" tvg-logo="",DONG NAI 1
+http://truongquocvi.com/getViettelTV/?cid=127
+#EXTINF:-1 group-title="" tvg-logo="",DIEN BIEN
+http://truongquocvi.com/getViettelTV/?cid=86
+#EXTINF:-1 group-title="" tvg-logo="",PTD
+http://truongquocvi.com/getViettelTV/?cid=116
+#EXTINF:-1 group-title="" tvg-logo="",DRT (DAKLAK)
+http://truongquocvi.com/getViettelTV/?cid=115
+#EXTINF:-1 group-title="" tvg-logo="",DA NANG 1
+http://truongquocvi.com/getViettelTV/?cid=107
+#EXTINF:-1 group-title="" tvg-logo="",CAN THO
+http://truongquocvi.com/getViettelTV/?cid=137
+#EXTINF:-1 group-title="" tvg-logo="",CRTV(CONGTUM)
+http://truongquocvi.com/getViettelTV/?cid=77
+#EXTINF:-1 group-title="" tvg-logo="",CA MAU
+http://truongquocvi.com/getViettelTV/?cid=125
+#EXTINF:-1 group-title="" tvg-logo="",BINH THUAN
+http://truongquocvi.com/getViettelTV/?cid=118
+#EXTINF:-1 group-title="" tvg-logo="",BINH PHUOC 1
+http://truongquocvi.com/getViettelTV/?cid=121
+#EXTINF:-1 group-title="" tvg-logo="",BTV(BINH THUAN)
+http://truongquocvi.com/getViettelTV/?cid=111
+#EXTINF:-1 group-title="" tvg-logo="",BINH DUONG 2
+http://truongquocvi.com/getViettelTV/?cid=124
+#EXTINF:-1 group-title="" tvg-logo="",BTV
+http://truongquocvi.com/getViettelTV/?cid=92
+#EXTINF:-1 group-title="" tvg-logo="",BAC KAN
+http://truongquocvi.com/getViettelTV/?cid=78
+#EXTINF:-1 group-title="" tvg-logo="",BAC GIANG
+http://truongquocvi.com/getViettelTV/?cid=84
+#EXTINF:-1 group-title="" tvg-logo="",BAC LIEU
+http://truongquocvi.com/getViettelTV/?cid=126
+#EXTINF:-1 group-title="" tvg-logo="",AN GIANG
+http://truongquocvi.com/getViettelTV/?cid=136
 
 
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/nmmH5NG.png",VTVCab1 HD
-http://27.67.64.73:18080/211_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVCab3 Thể Thao 
-http://27.67.64.71:18080/214_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/PTguOdx.png",VTVCab3 Thể Thao HD
-http://27.67.64.70:18080/221_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png",VTVCab5 HD
-http://27.67.64.72:18080/212_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/NCIpILU.png",VTVCab6 HD
-http://27.67.64.71:18080/216_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/aVP5nbS.png",VTVCab10
-http://27.67.64.71:18080/218_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/XhCmf93.png",VTVCab12
-http://27.67.64.73:18080/231_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://www.vtvcab.vn/content/upload/1/9/image/-nh-h-nh-tr-nh-vtvcab/anh-1huyndai280116_w122_h122.png",VTVCab13
-http://27.67.64.70:18080/277_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCab15
-http://27.67.64.71:18080/232_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCab15 HD
-http://27.67.64.72:18080/220_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/TSfiqGv.png",VTVCab16 Bóng Đá
-http://27.67.64.70:18080/215_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVCab16 Bóng Đá HD
-http://27.67.64.68:18080/222_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/8y24qz6yl/thethaott.jpg",VTVCab18 Thể Thao Tin Tức HD
-http://27.67.64.73:18080/223_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/iyg21My.png",VTVCab20
-http://27.67.64.70:18080/213_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s30.postimg.org/qyyzegnip/vtvcab21hd.jpg",VTVCab21 SaoTV HD
-http://27.67.64.70:18080/234_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/iiga83zql/vtvcab22.jpg",VTVCab22 Life TV
-http://27.67.64.71:18080/237_2.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
-http://27.67.64.70:18080/53_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/s7x0UhN.png",HTV2
-http://27.67.64.73:18080/54_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/m603PX8.png",HTV7 HD
-http://27.67.64.68:18080/157_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/DUhJcZK.png",HTV9 HD
-http://27.67.64.73:18080/158_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/bULyZwy.png",HTV Thể Thao
-http://27.67.64.71:18080/37_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvccanhac.png",HTVC Ca Nhạc
-http://27.67.64.73:18080/58_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-du-lich.png",HTVC Du Lịch 
-http://27.67.64.68:18080/60_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/cP7NV5h.png",HTVC FBNC HD
-http://27.67.64.68:18080/177_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-gia-dinh.png",HTVC Gia Đình
-http://27.67.64.73:18080/59_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-movie-hd.png",HTVC Phim
-http://27.67.64.68:18080/31_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-movie-hd.png",HTVC Phim HD
-http://27.67.64.72:18080/159_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-phu-nu.png",HTVC Phụ Nữ
-http://27.67.64.72:18080/56_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-thuan-viet.png",HTVC Thuần Việt
-http://27.67.64.72:18080/57_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-thuan-viet-hd.png",HTVC Thuần Việt HD
-http://27.67.64.71:18080/160_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-hd.png",HTVC B Channel
-http://27.67.64.73:18080/25_2.m3u8?AdaptiveType=HLS
-
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
-http://27.67.64.72:18080/150_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
-http://27.67.64.68:18080/181_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
-http://27.67.64.68:18080/145_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
-http://27.67.64.71:18080/46_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
-http://27.67.64.71:18080/28_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png",VTC6
-http://27.67.64.68:18080/29_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
-http://27.67.64.70:18080/47_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
-http://27.67.64.70:18080/14_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
-http://27.67.64.68:18080/48_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10
-http://27.67.64.73:18080/15_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
-http://27.67.64.68:18080/72_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/YnunTc5.png",VTC13 HD
-http://27.67.64.70:18080/152_3.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
-http://27.67.64.70:18080/16_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
-http://27.67.64.73:18080/17_2.m3u8?AdaptiveType=HLS
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",Hà Nội 2
-http://27.67.64.68:18080/10_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/eIbgrWr.png",HiTV - Hanoicab1
-http://27.67.64.71:18080/52_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/7uqtQEM.png",You!TV - Hanoicab2
-http://27.67.64.71:18080/50_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FD1sjQe.png",MOV HD - Hanoicab4
-http://27.67.64.72:18080/30_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/an-giang.png",An Giang 1 
-http://27.67.64.71:18080/136_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ba-ria-vung-tau.png",Bà Rịa Vũng Tàu
-http://27.67.64.70:18080/128_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-lieu.png",Bạc Liêu
-http://27.67.64.73:18080/126_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-giang.png",Bắc Giang
-http://27.67.64.68:18080/84_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Kan_TV.png",Bắc Kạn
-http://27.67.64.68:18080/78_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-ninh.png",Bắc Ninh
-http://27.67.64.71:18080/92_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-duong-2.png",Bình Dương 2
-http://27.67.64.72:18080/124_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ben-tre.png",Bến Tre
-http://27.67.64.68:18080/131_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-dinh.png",Bình Định
-http://27.67.64.70:18080/111_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-phuoc-1.png",Bình Phước 1
-http://27.67.64.73:18080/121_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-thuan.png",Bình Thuận
-http://27.67.64.72:18080/118_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ca-mau.png",Cà Mau
-http://27.67.64.71:18080/125_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Cao_Bang_TV.png",Cao Bằng
-http://27.67.64.70:18080/77_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/can-tho.png",Cần Thơ
-http://27.67.64.71:18080/137_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/da-nang-1.png",Đà Nẵng 1
-http://27.67.64.70:18080/107_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dak-lak.png",Đắk Lắk
-http://27.67.64.71:18080/115_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/daknong.png",Đắk Nông
-http://27.67.64.70:18080/116_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dien-bien.png",Điện Biên
-http://27.67.64.72:18080/86_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-1.png",Đồng Nai 1
-http://27.67.64.73:18080/127_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-thap.png",Đồng Tháp 1
-http://27.67.64.71:18080/132_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/gia-lai.png",Gia Lai 1
-http://27.67.64.68:18080/112_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ha-giang.png",Hà Giang
-http://27.67.64.70:18080/76_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Nam_TV.png",Hà Nam
-http://27.67.64.68:18080/97_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ha-tinh.png",Hà Tĩnh
-http://27.67.64.73:18080/103_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hai-phong.png",Hải Phòng
-http://27.67.64.72:18080/93_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hai-phong.png",Hải Phòng HD
-http://27.67.64.70:18080/94_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hau-giang.png",Hậu Giang
-http://27.67.64.73:18080/138_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hoa-binh.png",Hòa Bình
-http://27.67.64.68:18080/100_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hung-yen.png",Hưng Yên
-http://27.67.64.71:18080/96_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/khanh-hoa.png",Khánh Hòa
-http://27.67.64.68:18080/102_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/kien-giang.png",Kiên Giang
-http://27.67.64.72:18080/140_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Kon_Tum_TV.jpg",Kon Tum
-http://27.67.64.73:18080/110_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lai_Chau_TV.png",Lai Châu
-http://27.67.64.72:18080/85_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lang-son.png",Lạng Sơn
-http://27.67.64.68:18080/83_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lao_Cai_TV.png",Lào Cai
-http://27.67.64.72:18080/88_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lam-dong.png",Lâm Đồng
-http://27.67.64.70:18080/119_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/long-an.png",Long An 34
-http://27.67.64.68:18080/129_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/nam-dinh.png",Nam Định
-http://27.67.64.73:18080/98_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/nghe-an.png",Nghệ An
-http://27.67.64.72:18080/114_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ninh-binh.png",Ninh Bình
-http://27.67.64.72:18080/99_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static-stage.sctv.vn/channel/151/NTVninhthuan.png",Ninh Thuận
-http://27.67.64.72:18080/117_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/phu-tho.png",Phú Thọ
-http://27.67.64.73:18080/90_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-binh-tv.png",Quảng Bình
-http://27.67.64.71:18080/104_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-nam.png",Quảng Nam
-http://27.67.64.70:18080/108_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ngai.png",Quảng Ngãi
-http://27.67.64.68:18080/109_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-1.png",Quảng Ninh 1
-http://27.67.64.73:18080/81_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-3.png",Quảng Ninh 3
-http://27.67.64.73:18080/82_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-tri.png",Quảng Trị
-http://27.67.64.73:18080/105_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/soctrang.png",Sóc Trăng
-http://27.67.64.73:18080/139_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/son-la.png",Sơn La
-http://27.67.64.70:18080/87_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tayninh.png",Tây Ninh 11
-http://27.67.64.70:18080/120_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thai-binh.png",Thái Bình
-http://27.67.64.70:18080/95_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thai-nguyen.png",Thái Nguyên 1
-http://27.67.64.71:18080/80_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thanh-hoa.png",Thanh Hóa
-http://27.67.64.70:18080/101_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thua-thien-hue.png",Thừa Thiên Huế
-http://27.67.64.68:18080/106_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tien-giang.png",Tiền Giang
-http://27.67.64.68:18080/130_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tra-vinh.png",Trà Vinh
-http://27.67.64.72:18080/135_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tuyen-quang.png",Tuyên Quang
-http://27.67.64.73:18080/79_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static-stage.sctv.vn/channel/62/THVL1.png",Vĩnh Long 1
-http://27.67.64.70:18080/133_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static-stage.sctv.vn/channel/124/THVL2.png",Vĩnh Long 2
-http://27.67.64.70:18080/134_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/vinh-phuc.png",Vĩnh Phúc
-http://27.67.64.68:18080/91_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/yen-bai.png",Yên Bái
-http://27.67.64.71:18080/89_2.m3u8?AdaptiveType=HLS
 
 
 
