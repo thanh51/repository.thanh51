@@ -8,13 +8,13 @@
 		<item>
 
 		<item>
-		<title>[COLOR red][B]******* Cần Addon Plexus & Addon f4mTester *******[/B][/COLOR]</title>
+		<title>[COLOR red][B]******* Cần Addon Plexus *******[/B][/COLOR]</title>
 		<link>http://</link>
 		<thumbnail>https://s24.postimg.org/mal8efoxx/plexus.jpg</thumbnail>
 		<item>
 
 		<item>
-		<title>[COLOR cyan][B]Kênh Thể Thao Quốc Tế TH (1 & 2) Có Bóng đá các giải ngoại hạng:Anh, Tây Ban Nha, Đức, Italya....(Auto Update hàng ngày) [/B][/COLOR]</title>
+		<title>[COLOR cyan][B]THỂ THAO QUỐC TẾ TỔNG HỢP Có Bóng đá các giải ngoại hạng:Anh, Tây Ban Nha, Đức, Italya....(Auto Update hàng ngày) [/B][/COLOR]</title>
 		<link>http://</link>
 		<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 		<item>
@@ -26,33 +26,7 @@
 		<item>
 ////////////////////////////////////////		
 <item>
-<title> [COLOR yellow][B]1/ THỂ THAO QUỐC TẾ TỔNG HỢP 1 - Xem Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  [/COLOR]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param4]+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/av[makelist.param6]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[74px.*>(.*?)<[\w\W\s]{0,60}174px.*>(.*?)CET[\w\W\s]{0,60}196px.*>(.*?)<[\w\W\s]{0,60}283px.*>(.*?)<[\w\W\s]{0,80}837.*>(.*?)<[\w\W\s]{0,60}209px.*>([0-9]+)]]></expres>
-<page>http://arenavision.in/schedule</page>
-<Agent>Mozilla</Agent>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-</item>
-/////////////////////////////////////// 
-<item>
-<title>[B][COLOR blue]2/ THỂ THAO QUỐC TẾ TỔNG HỢP 2 - Xem Theo Giờ VN + 6 Tiếng[/COLOR][/B]</title>
+<title>[B][COLOR blue]>>> XEM THỂ THAO QUỐC TẾ TỔNG HỢP (Theo Giờ VN + 5 Tiếng)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -69,7 +43,7 @@
 
 ///////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]3/ KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> KÊNH THỂ THAO VIỆT NAM[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
@@ -81,21 +55,9 @@
 
 <item>
 <title>VTC3 HD</title>
-<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
+<link>http://118.107.68.10:1935/live/_definst_/smil:VTC3HD_15032017.smil/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
 </item>
-
-<item>
-<title>Kênh Thể Thao Giải Trí HD+CAFE</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/cafefilm</page>
-<cookieJar></cookieJar>
-<thumbnail></thumbnail>  
-</regex>
-</item> 
 
 <item>
 <title>Bóng đá 1 (phát các ngày cuối tuần)</title>
@@ -135,7 +97,7 @@
 
 ///////////////////////////////////////                 
 <item>
-<title>[COLOR cyan][B]4/ KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> KÊNH THỂ THAO QUỐC TẾ 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -169,7 +131,7 @@
 
 ///////////////////////////////////////
  <item>
-<title>[COLOR cyan][B]5/ KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> KÊNH THỂ THAO QUỐC TẾ 2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -188,7 +150,7 @@
 ///////////////////////////////////////	
 
 <item>
-<title>[COLOR cyan][B]6/ KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> KÊNH THỂ THAO QUỐC TẾ 3[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
@@ -197,14 +159,14 @@
 //////////////////////////////////////
             
 <item>
-<title>[COLOR cyan][B]7/ FOOTBALL VIDEOS[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> FOOTBALL VIDEOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://www.bulldogstreams.football/foxfull.xml</externallink>
 <thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
 </item>
 //////////////////////
 <item>
-<title>[COLOR yellow][B]8/ Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
+<title>[COLOR yellow][B]>>> Thể Thao Tổng Hợp (In YoutuBe)[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -235,14 +197,6 @@
 
 </items>
 </channel>
-
-
-
-
-
-
-
-
 
 
 
