@@ -7,7 +7,7 @@
 		</item>
 
 		<item>
-		<title>[COLOR cyan][B]******* Cần Addon Sportsdevil *******[/B][/COLOR]</title>
+		<title>[COLOR cyan][B]************ Cần Addon Sportsdevil *************[/B][/COLOR]</title>
 		<link>http://</link>
 		<thumbnail>https://s13.postimg.org/6qc94y847/sportdevil.jpg</thumbnail>
 		</item>
@@ -19,7 +19,7 @@
 ////////////////////////////////////////		
 
 <item>
-<title>==============TRUYỀN HÌNH VIỆT NAM=============</title>
+<title>[COLOR yellow]============== TRUYỀN HÌNH VIỆT NAM =============[/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -428,7 +428,7 @@
 
 
 <item>
-<title>==============TRUYỀN HÌNH QUỐC TẾ================</title>
+<title>[COLOR yellow]============== TRUYỀN HÌNH QUỐC TẾ ================[/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -553,10 +553,70 @@
 <thumbnail>http://cinestrenostv.tv/img/animalplanet.png</thumbnail>
 </item>
 <item>
-<title>ODISEA</title>
+<title>ODISEA S1</title>
+<sportsdevil>http://lacasadeltikitaka.me/MultiTV/Documentales/odisea.php</sportsdevil>
+<referer>http://lacasadeltikitaka.me/MultiTV/Documentales/odisea.php</referer>
+<thumbnail>http://lacasadeltikitaka.me/Botones/Documentales/odisea.png</thumbnail>
+</item>
+<item>
+<title>ODISEA S2</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/odisea.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/documentales/odisea.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/odisea.png</thumbnail>
+</item>
+<item>
+<title>A&E</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/documentales/bio.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/ae.png</thumbnail>
+</item>
+<item>
+<title>COCINA</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/documentales/cocina.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/cocina.png</thumbnail>
+</item>
+<item>
+<title>FOX</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/fox.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/fox.png</thumbnail>
+</item>
+<item>
+<title>#0</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/plus1.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
+</item>
+<item>
+<title>DISNEY Jr</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/disneyjunior.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/disneyjunior.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/disneyjunior.png</thumbnail>
+</item>
+<item>
+<title>CN</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cartoon.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/cartoon.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/cartoon.png</thumbnail>
+</item>
+<item>
+<title>PANDA</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/panda.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/panda.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/panda.png</thumbnail>
+</item>
+<item>
+<title>CINEMAX</title>
+<sportsdevil>http://cinestrenostv.tv/canales/argentina/cinemax.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/argentina/cinemax.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/cinemax.png</thumbnail>
+</item>
+<item>
+<title>CINE 1</title>
+<sportsdevil>http://cinestrenostv.tv/canales/pelis/cine1.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/pelis/cine1.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/cine.png</thumbnail>
 </item>
 <item>
 <title>AXN</title>
@@ -626,7 +686,7 @@
 </item>
 
 <item>
-<title>==============KÊNH THỂ THAO TỔNG HỢP==============</title>
+<title>[COLOR yellow]============== KÊNH THỂ THAO TỔNG HỢP ==============[/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
@@ -825,14 +885,26 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
 </item>
 <item>
-<title>FOX SPORT 1</title>
+<title>FOX SPORT s1</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/foxsports.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/foxsports.png</thumbnail>
+</item>
+<item>
+<title>FOX SPORT 2 s1</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports2.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/foxsports2.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/foxsports2.png</thumbnail>
+</item>
+<item>
+<title>FOX SPORT s2</title>
 <sportsdevil>http://www.liveonlinetv247.info/foxsports1.php</sportsdevil>
 <referer>http://www.liveonlinetv247.info/foxsports1.php</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/foxsports1.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>FOX SPORT 2</title>
+<title>FOX SPORT 2 s2</title>
 <sportsdevil>http://www.liveonlinetv247.info/foxsports2.php</sportsdevil>
 <referer>http://www.liveonlinetv247.info/foxsports2.php</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/foxsports2.png</thumbnail>
@@ -1102,234 +1174,260 @@
 <referer>http://www.vipgoal.net/elitegol.com/</referer>
 <thumbnail>http://www.indir.com/logo/128/lig-tv.png</thumbnail>
 </item>
+<item>
+<title>NBA</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/nba/canal.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://cinestrenostv.tv/img/nba.png</thumbnail>
+</item>
+<item>
+<title>DIRECTV SPORTS</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/directv-sports.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/directv-sports.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/directvsports.png</thumbnail>
+</item>
+<item>
+<title>TYC SPORTS</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/tycsports.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/tycsports.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/tyc.png</thumbnail>
+</item>
+<item>
+<title>CANAL+SPORTS</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/sport1.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/sport1.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/sport1.png</thumbnail>
+</item>
+
+
 
 <item>
-<title>============KÊNH GIẢI TRÍ===========</title>
+<title>[COLOR yellow]============ KÊNH GIẢI TRÍ ===========[/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>PHIM 1</title>
+<title>PHIM 1 (phụ đề tiếng Việt)</title>
 <sportsdevil>http://www.tivi12h.net/2015/07/kenh-hbo.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>https://s24.postimg.org/3lqfihh5x/movie.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>PHIM 2</title>
+<title>PHIM 2 (phụ đề tiếng Việt)</title>
 <sportsdevil>http://www.tivi12h.net/2015/07/kenh-cinemax.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>https://s24.postimg.org/3lqfihh5x/movie.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>PHIM 3</title>
+<title>PHIM 3 (phụ đề tiếng Việt)</title>
 <sportsdevil>http://www.tivi12h.net/2015/07/kenh-star-movies.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>https://s24.postimg.org/3lqfihh5x/movie.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THAN TUONG BOLERO 1</title>
+<title>THẦN TƯỢNG BOLERO 1</title>
 <sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/118643-tap-1.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>THAN TUONG BOLERO 2</title>
+<title>THẦN TƯỢNG BOLERO 2</title>
 <sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/118812-tap-2.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>THAN TUONG BOLERO 3</title>
+<title>THẦN TƯỢNG BOLERO 3</title>
 <sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/120301-tap-3.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 1</title>
+<title>BIỆT TÀI TÍ HON 1</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/106532-15-01.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 2</title>
+<title>BIỆT TÀI TÍ HON 2</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/106885-22-01.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 3</title>
+<title>BIỆT TÀI TÍ HON 3</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/112404-12-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 4</title>
+<title>BIỆT TÀI TÍ HON 4</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/113102-19-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 5</title>
+<title>BIỆT TÀI TÍ HON 5</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/114623-26-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 6</title>
+<title>BIỆT TÀI TÍ HON 6</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/115071-05-03.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 8</title>
+<title>BIỆT TÀI TÍ HON 8</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/118601-12-03.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BIET TAI TI HON 9</title>
+<title>BIỆT TÀI TÍ HON 9</title>
 <sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/118945-19-03.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 1</title>
+<title>HÒA ÂM ÁNH SÁNG 1</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/106508-13-01.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 2</title>
+<title>HÒA ÂM ÁNH SÁNG 2</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/106893-20-01-phan-1.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 3</title>
+<title>HÒA ÂM ÁNH SÁNG 3</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/106896-20-01-phan-2.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 4</title>
+<title>HÒA ÂM ÁNH SÁNG 4</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/112416-10-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 5</title>
+<title>HÒA ÂM ÁNH SÁNG 5</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/113106-17-02-phan-1.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 6</title>
+<title>HÒA ÂM ÁNH SÁNG 6</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/113107-17-02-phan-2.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 7</title>
+<title>HÒA ÂM ÁNH SÁNG 7</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/114617-24-02-phan-1.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 8</title>
+<title>HÒA ÂM ÁNH SÁNG 8</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/114618-24-02-phan-2.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HOA AM ANH SANG 9</title>
+<title>HÒA ÂM ÁNH SÁNG 9</title>
 <sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/115072-03-03-phan-1.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 1</title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 1</title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/101878-03-12.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 2</title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 2</title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/102445-10-12.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 3 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 3 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/103063-17-12.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 4 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 4 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/103659-24-12.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 5 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 5 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/104627-31-12.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 6 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 6 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/104841-07-01.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 7 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 7 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/106533-14-01.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 8 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 8 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/106897-20-01.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 9 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 9 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/112418-11-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 10 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 10 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/113109-18-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 11 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 11 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/114620-25-02.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 12 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 12 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/115074-04-03.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 13 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 13 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/118603-11-03.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ANH SANG HAY BONG TOI 14 </title>
+<title>ÁNH SÁNG HAY BÓNG TỐI 14 </title>
 <sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/118948-18-03.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
@@ -1341,6 +1439,9 @@
 
 </items>
 </channel>
+
+
+
 
 
 
