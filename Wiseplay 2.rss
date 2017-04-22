@@ -1,4 +1,4 @@
-﻿{"name": "CHƯƠNG TRÌNH TỔNG HỢP 2 - All In One (update 15H30' ngày 22/04/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP 2 - All In One (update 06H30' ngày 23/04/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/BJdbaH53e.w3u",
    "groups": [
@@ -9,11 +9,6 @@
                
                 "stations": [
  				  {
-			"name": "West Ham United vs Everton (21:00 ngày 22/04/2017) - NBCSN",
-                        "image": "http://tvron.net/static/canal/arenavision.png",
-			"url": "acestream://2afed8296d3e093bd513df41bb6c47dd29331b55"
-		        },
-		        {
 			"name": "Burnley vs Manchester United (20:15 ngày 23/04/2017) - NBCSN",
                         "image": "http://tvron.net/static/canal/arenavision.png",
 			"url": "acestream://2afed8296d3e093bd513df41bb6c47dd29331b55"
@@ -188,11 +183,6 @@
                
                 "stations": [
  				  {
-			 "name": "Osasuna v Sporting Gijon (23:30 ngày 22/04/2017) - Sky sport 1",
-                        "image": "http://tvron.net/static/canal/arenavision.png",
-                        "url": "acestream://49429150001fb998bda34055b4b21cd10482ac8f" 
-			},
-                        {
 			"name": "Espanyol v Atletico Madrid (19:45 ngày 23/04/2017) - Sky sport 5 ",
 			"image": "http://tvron.net/static/canal/arenavision.png",
           	  	 "url": "acestream://0a58e5a154cf3097f6eca5387b28e7776e43b1cc"
@@ -421,7 +411,130 @@
 "name": "MOTORSPORT.TV UK ","image":" https://pbs.twimg.com/profile_images/836922818239545344/h0oRh2ci.jpg","url": "acestream://076d23603ec0ae3308eb42941ccbd67a068e25ee"},{   
 "name": "ESPN ","image":"http://www.liveonlinetv247.info/images/espn.png","url": "acestream://2d468d38f57248998cf52cc90de64f9c379380f4"},{   
 "name": "SPORTSNET WEST ","image":" http://i438.photobucket.com/albums/qq102/krazykraz/SN-WEST.png","url": "acestream://8397bb1d89c3abe59886c26d80726060f97667a5"  
-
+    }
+                
+    ]
+    },
+     
+    {
+                "name": "SOPCAST TV & SPORTS CHANNELS",
+                "image": "https://s15.postimg.org/4otd5lk63/sopcast.jpg",
+               
+                "stations": [
+ 				  {
+		"name": "AXN",
+          	"image": "https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",
+          	"url": "sop://broker.sopcast.com:3912/149261"
+		},
+                {
+		"name": "HBO 2",
+          	"image": "http://xemtvhd.net/images/icon-channel/hbohd.png",
+          	"url": "sop://broker.sopcast.com:3912/149259"
+		},
+                {
+		"name": "HB0 3",
+          	"image": "http://xemtvhd.net/images/icon-channel/hbohd.png",
+          	"url": "sop://broker.sopcast.com:3912/149255"
+		},
+                {
+		"name": "FILM CAFE",
+          	"image": "https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",
+	        "url": "sop://broker.sopcast.com:3912/256238"
+		},
+                {
+		"name": "TV1000",
+          	"image": "https://s21.postimg.org/xh54lyfd3/tv1000.png",
+          	"url": "sop://broker.sopcast.com:3912/256337"
+		},
+                {
+		"name": "FILMBOX",
+          	"image": "https://s17.postimg.org/degirpvvz/filmbox.jpg",
+          	"url": "sop://broker.sopcast.com:3912/148981"
+		},
+                {
+		"name": "FRO CINEMA",
+          	"image": "https://s28.postimg.org/llmsvh9ct/frocinema.jpg",
+          	"url": "sop://broker.sopcast.com:3912/148249"
+		},
+                {
+		"name": "DIVA UNIVERSAL",
+          	"image": "https://s27.postimg.org/dfo48lyab/divauni.jpg",
+          	"url": "sop://broker.sopcast.com:3912/253034"
+		},
+                {
+		"name": "PARAMOUNT",
+          	"image": "https://s28.postimg.org/lyq86n2pp/paramo.jpg",
+          	"url": "sop://broker.sopcast.com:3912/253033"
+		},
+                {
+		"name": "BOOMERANG",
+          	"image": "https://s9.postimg.org/jw706m5b3/boomerang.png",
+          	"url": "sop://broker.sopcast.com:3912/149264"
+		},
+                {
+		"name": "CARTOON NETWORK",
+          	"image": "https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",
+          	"url": "sop://broker.sopcast.com:3912/148254"
+		},
+                {
+		"name": "DISNEY",
+          	"image": "https://s24.postimg.org/ffzer71xx/disney.jpg",
+          	"url": "sop://broker.sopcast.com:3912/253031"
+		},
+                {
+		"name": "DISNEY JR",
+          	"image": "https://s28.postimg.org/of5s1whi5/disneyjr.jpg",
+          	"url": "sop://broker.sopcast.com:3912/256239"
+		},
+                {
+		"name": "NATGEO",
+          	"image": "http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",
+          	"url": "sop://broker.sopcast.com:3912/148248"
+		},
+                {
+		"name": "NATGEO WILD",
+          	"image": "http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",
+          	"url": "sop://broker.sopcast.com:3912/253037"
+		},
+                {
+		"name": "DISCOVERY",
+          	"image": "http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",
+	        "url": "sop://broker.sopcast.com:3912/256241"
+		},
+                {
+		"name": "DISCOVERY SC",
+          	"image": "http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",
+          	"url": "sop://broker.sopcast.com:3912/256243"
+		},
+                {
+		"name": "DISCOVERY ID",
+          	"image": "https://s27.postimg.org/65pv3fcqr/discoveryid.png",
+          	"url": "sop://broker.sopcast.com:3912/256244"
+		},
+                {
+		"name": "BBC EARTH",
+          	"image": "https://s14.postimg.org/5pu5iqxgh/bbcearth.png",
+          	"url": "sop://broker.sopcast.com:3912/148257"
+		},
+                {
+		"name": "HISTORY",
+          	"image": "https://s23.postimg.org/gd53j7e17/history.jpg",
+          	"url": "sop://broker.sopcast.com:3912/253032"
+		},
+                {
+		"name": "TLC",
+          	"image": "https://s29.postimg.org/vul7d9707/tlc.jpg",
+          	"url": "sop://broker.sopcast.com:3912/148256"
+    	        },
+                {		
+		"name": "Russia:Match Futbol 1 HD (Chỉ phát khi có bóng đá)",
+		"image": "https://s16.postimg.org/ywvm0eqbp/matchfutbol1hd.jpg",
+		"url": "sop://broker.sopcast.com:3912/254780"
+		 },
+		 {		
+		 "name": "Russia:Match Futbol 2 HD (Chỉ phát khi có bóng đá)",
+ 		 "image": "https://s4.postimg.org/i2xv430il/matchfutbol2.jpg",
+		 "url": "sop://broker.sopcast.com:3912/255015"
     }
                 
     ]
@@ -1427,15 +1540,15 @@
 
 "name": "beIN Sports 1HD s1","image": "http://www.liveonlinetv247.info/images/beinsports1.png","url": "http://urhd.ipnostop.com:8080/AR-Bein-sport1-HD/index.m3u8"},{   
 "name": "beIN Sports 1HD s2","image": "http://www.liveonlinetv247.info/images/beinsports1.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports1","isHost": true},{   
-"name": "beIN Sports 2HD s2","image": "http://www.liveonlinetv247.info/images/beinsports2.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports2","isHost": true},{   
-"name": "beIN Sports 3HD s2","image": "http://www.liveonlinetv247.info/images/beinsports3.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports3","isHost": true},{   
-"name": "beIN Sports 4HD s2","image": "http://www.liveonlinetv247.info/images/beinsports4.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports4","isHost": true},{   
-"name": "beIN Sports 5HD s2","image": "http://www.liveonlinetv247.info/images/beinsports5.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports5","isHost": true},{   
-"name": "beIN Sports 6HD s2","image": "http://www.liveonlinetv247.info/images/beinsports6.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports6","isHost": true},{   
-"name": "beIN Sports 7HD s2","image": "http://www.liveonlinetv247.info/images/beinsports7.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports7","isHost": true},{   
-"name": "beIN Sports 8HD s2","image": "http://www.liveonlinetv247.info/images/beinsports8.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports8","isHost": true},{   
-"name": "beIN Sports 9HD s2","image": "http://www.liveonlinetv247.info/images/beinsports9.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports9","isHost": true},{   
-"name": "beIN Sports 10HD s2","image": "http://www.liveonlinetv247.info/images/beinsports10.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports10","isHost": true},{   
+"name": "beIN Sports 2HD","image": "http://www.liveonlinetv247.info/images/beinsports2.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports2","isHost": true},{   
+"name": "beIN Sports 3HD","image": "http://www.liveonlinetv247.info/images/beinsports3.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports3","isHost": true},{   
+"name": "beIN Sports 4HD","image": "http://www.liveonlinetv247.info/images/beinsports4.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports4","isHost": true},{   
+"name": "beIN Sports 5HD","image": "http://www.liveonlinetv247.info/images/beinsports5.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports5","isHost": true},{   
+"name": "beIN Sports 6HD","image": "http://www.liveonlinetv247.info/images/beinsports6.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports6","isHost": true},{   
+"name": "beIN Sports 7HD","image": "http://www.liveonlinetv247.info/images/beinsports7.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports7","isHost": true},{   
+"name": "beIN Sports 8HD","image": "http://www.liveonlinetv247.info/images/beinsports8.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports8","isHost": true},{   
+"name": "beIN Sports 9HD","image": "http://www.liveonlinetv247.info/images/beinsports9.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports9","isHost": true},{   
+"name": "beIN Sports 10HD","image": "http://www.liveonlinetv247.info/images/beinsports10.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports10","isHost": true},{   
 "name": "beIN Sports 11HD","image": "http://www.liveonlinetv247.info/images/beinsports11.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports11","isHost": true},{   
 "name": "beIN Sports 12HD","image": "http://www.liveonlinetv247.info/images/beinsports12.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports12","isHost": true},{   
 "name": "beIN Sports 13HD","image": "http://www.liveonlinetv247.info/images/beinsports13.png","url": "http://embratoria.com/embed/hls/is.php?s=beinsports13","isHost": true},{   
@@ -2019,25 +2132,6 @@
 "name":"ANTV HD","image":"http://103.56.158.185/tv_icon/antv.png","url": "http://sv.keodabanh.com/iptv/18_2.m3u8"},{
 "name":"QPVN","image":"http://103.56.158.185/tv_icon/quoc-phong-vn.png","url": "http://sv.keodabanh.com/iptv/141_3.m3u8"},{
 "name":"ANTG","image":"http://i.imgur.com/j7NsBwD.png","url": "http://sv.keodabanh.com/iptv/51_2.m3u8"},{
-"name":"VTVCAB1","image":"http://i.imgur.com/nmmH5NG.png","url": "http://sv.keodabanh.com/iptv/211_3.m3u8"},{
-"name":"VTVCAB2","image":"http://i.imgur.com/YNCzLp9.png","url": "http://sv.keodabanh.com/iptv/205_2.m3u8"},{
-"name":"VTVCAB3 HD","image":"http://i.imgur.com/PTguOdx.png","url": "http://sv.keodabanh.com/iptv/221_3.m3u8"},{
-"name":"VTVCAB4","image":"http://i.imgur.com/zr9dOPm.png","url": "http://sv.keodabanh.com/iptv/206_2"},{
-"name":"VTVCAB5","image":"http://i.imgur.com/pFgmD7i.png","url": "http://sv.keodabanh.com/iptv/212_3.m3u8"},{
-"name":"VTVCAB6","image":"http://i.imgur.com/NCIpILU.png","url": "http://sv.keodabanh.com/iptv/216_3.m3u8"},{
-"name":"VTVCAB7","image":"http://i.imgur.com/Kyv11bZ.png","url": "http://sv.keodabanh.com/iptv/226_2.m3u8"},{
-"name":"VTVCAB8","image":"http://i.imgur.com/Sjc6xj8.png","url": "http://sv.keodabanh.com/iptv/207_2.m3u8"},{
-"name":"VTVCAB9","image":"http://i.imgur.com/I6letfB.png","url": "http://sv.keodabanh.com/iptv/208_2.m3u8"},{
-"name":"VTVCAB12","image":"http://i.imgur.com/XhCmf93.png","url": "http://sv.keodabanh.com/iptv/231_2.m3u8"},{
-"name":"VTVCAB13","image":"http://103.56.158.185/tv_icon/vtv-hyundai-homeshopping.png","url": "http://sv.keodabanh.com/iptv/277_2.m3u8"},{
-"name":"VTVCAB15","image":"http://i.imgur.com/3ZbKdiV.png","url": "http://sv.keodabanh.com/iptv/232_2.m3u8"},{
-"name":"VTVCAB15 HD","image":"http://i.imgur.com/3ZbKdiV.png","url": "http://sv.keodabanh.com/iptv/220_3.m3u8"},{
-"name":"VTVCAB16 HD","image":"http://i.imgur.com/WQtKoni.png","url": "http://sv.keodabanh.com/iptv/222_3.m3u8"},{
-"name":"VTVCAB18","image":"https://s28.postimg.org/tygi9furh/vtvcab18.jpg","url": "http://sv.keodabanh.com/iptv/223_3.m3u8"},{
-"name":"VTVCAB19","image":"https://s28.postimg.org/l4cgsi8t9/vtvcab19.png","url": "http://sv.keodabanh.com/iptv/210_2.m3u8"},{
-"name":"VTVCAB20","image":"http://i.imgur.com/iyg21My.png","url": "http://sv.keodabanh.com/iptv/213_2.m3u8"},{
-"name":"VTVCAB21","image":"https://s30.postimg.org/qyyzegnip/vtvcab21hd.jpg","url": "http://sv.keodabanh.com/iptv/234_3.m3u8"},{
-"name":"VTVCAB22","image":"https://s3.postimg.org/imw9o1dub/vtvcab22.jpg","url": "http://sv.keodabanh.com/iptv/237_2.m3u8"},{
 "name":"HTV1","image":"http://i.imgur.com/XWtxYdm.png","url": "http://sv.keodabanh.com/iptv/53_2.m3u8"},{
 "name":"HTV2","image":"http://i.imgur.com/s7x0UhN.png","url": "http://sv.keodabanh.com/iptv/54_2.m3u8"},{
 "name":"HTV3","image":"http://i.imgur.com/MMQITB4.png","url": "http://sv.keodabanh.com/iptv/71_2.m3u8"},{
@@ -2067,7 +2161,6 @@
 "name":"VTC13 HD","image":"http://i.imgur.com/YnunTc5.png","url": "http://sv.keodabanh.com/iptv/152_3.m3u8"},{
 "name":"VTC14","image":"http://i.imgur.com/annOIzX.png","url": "http://sv.keodabanh.com/iptv/16_2.m3u8"},{
 "name":"VTC16","image":"http://i.imgur.com/aJyUj9n.png","url": "http://sv.keodabanh.com/iptv/17_2.m3u8"},{
-"name":"HA NOI 1","image":"http://i.imgur.com/kFSFBHp.png","url": "http://sv.keodabanh.com/iptv/9_2.m3u8"},{
 "name":"HA NOI 2","image":"http://i.imgur.com/JHYNvNs.png","url": "http://sv.keodabanh.com/iptv/10_2.m3u8"},{
 "name":"MOVHD Hanoicab4","image":"http://i.imgur.com/FD1sjQe.png","url": "http://sv.keodabanh.com/iptv/30_2.m3u8"},{
 "name":"YOUTV Hanoicab2","image":"http://i.imgur.com/7uqtQEM.png","url": "http://sv.keodabanh.com/iptv/50_2.m3u8"},{
@@ -4065,7 +4158,7 @@
     },
      
     {
-                   "name": "Truyền Hình Quốc Tế Tổng Hợp - Một số kênh cần app Sopcast",
+                   "name": "Truyền Hình Quốc Tế Tổng Hợp",
                    "image": "https://s23.postimg.org/eoffpx7kr/kenh_qt.jpg",
                
                    "stations": [
@@ -4292,111 +4385,7 @@
           	   "image": "https://s24.postimg.org/qgy03ux3p/skyselect.jpg",
           	   "url": "http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/420.ts",		   
                    "replay": true
-		    },
-		    {	
-		"name": "AXN(sopcast)",
-          	"image": "https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",
-          	"url": "sop://broker.sopcast.com:3912/149261"
-		},
-                {
-		"name": "HBO 2(sopcast)",
-          	"image": "http://xemtvhd.net/images/icon-channel/hbohd.png",
-          	"url": "sop://broker.sopcast.com:3912/149259"
-		},
-                {
-		"name": "HB0 3(sopcast)",
-          	"image": "http://xemtvhd.net/images/icon-channel/hbohd.png",
-          	"url": "sop://broker.sopcast.com:3912/149255"
-		},
-                {
-		"name": "FILM CAFE(sopcast)",
-          	"image": "https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",
-	        "url": "sop://broker.sopcast.com:3912/256238"
-		},
-                {
-		"name": "TV1000(sopcast)",
-          	"image": "https://s21.postimg.org/xh54lyfd3/tv1000.png",
-          	"url": "sop://broker.sopcast.com:3912/256337"
-		},
-                {
-		"name": "FILMBOX(sopcast)",
-          	"image": "https://s17.postimg.org/degirpvvz/filmbox.jpg",
-          	"url": "sop://broker.sopcast.com:3912/148981"
-		},
-                {
-		"name": "FRO CINEMA(sopcast)",
-          	"image": "https://s28.postimg.org/llmsvh9ct/frocinema.jpg",
-          	"url": "sop://broker.sopcast.com:3912/148249"
-		},
-                {
-		"name": "DIVA UNIVERSAL(sopcast)",
-          	"image": "https://s27.postimg.org/dfo48lyab/divauni.jpg",
-          	"url": "sop://broker.sopcast.com:3912/253034"
-		},
-                {
-		"name": "PARAMOUNT(sopcast)",
-          	"image": "https://s28.postimg.org/lyq86n2pp/paramo.jpg",
-          	"url": "sop://broker.sopcast.com:3912/253033"
-		},
-                {
-		"name": "BOOMERANG(sopcast)",
-          	"image": "https://s9.postimg.org/jw706m5b3/boomerang.png",
-          	"url": "sop://broker.sopcast.com:3912/149264"
-		},
-                {
-		"name": "CARTOON NETWORK(sopcast)",
-          	"image": "https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",
-          	"url": "sop://broker.sopcast.com:3912/148254"
-		},
-                {
-		"name": "DISNEY(sopcast)",
-          	"image": "https://s24.postimg.org/ffzer71xx/disney.jpg",
-          	"url": "sop://broker.sopcast.com:3912/253031"
-		},
-                {
-		"name": "DISNEY JR(sopcast)",
-          	"image": "https://s28.postimg.org/of5s1whi5/disneyjr.jpg",
-          	"url": "sop://broker.sopcast.com:3912/256239"
-		},
-                {
-		"name": "NATGEO(sopcast)",
-          	"image": "http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",
-          	"url": "sop://broker.sopcast.com:3912/148248"
-		},
-                {
-		"name": "NATGEO WILD(sopcast)",
-          	"image": "http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",
-          	"url": "sop://broker.sopcast.com:3912/253037"
-		},
-                {
-		"name": "DISCOVERY(sopcast)",
-          	"image": "http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",
-	        "url": "sop://broker.sopcast.com:3912/256241"
-		},
-                {
-		"name": "DISCOVERY SC(sopcast)",
-          	"image": "http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",
-          	"url": "sop://broker.sopcast.com:3912/256243"
-		},
-                {
-		"name": "DISCOVERY ID(sopcast)",
-          	"image": "https://s27.postimg.org/65pv3fcqr/discoveryid.png",
-          	"url": "sop://broker.sopcast.com:3912/256244"
-		},
-                {
-		"name": "BBC EARTH(sopcast)",
-          	"image": "https://s14.postimg.org/5pu5iqxgh/bbcearth.png",
-          	"url": "sop://broker.sopcast.com:3912/148257"
-		},
-                {
-		"name": "HISTORY(sopcast)",
-          	"image": "https://s23.postimg.org/gd53j7e17/history.jpg",
-          	"url": "sop://broker.sopcast.com:3912/253032"
-		},
-                {
-		"name": "TLC(sopcast)",
-          	"image": "https://s29.postimg.org/vul7d9707/tlc.jpg",
-          	"url": "sop://broker.sopcast.com:3912/148256"
+
  }
       ]
     },
