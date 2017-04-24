@@ -2,7 +2,7 @@
 		
 
 		<item>
-		<title>thanh51(updated 22.04.2017)=============================================</title>
+		<title>thanh51(updated 24.04.2017)=============================================</title>
 		<link>http://</link>
 		</item>
 
@@ -50,7 +50,9 @@
 <item><title>HTVC THUAN VIET HD</title><thumbnail>https://s22.postimg.org/3uakz73td/thuanviethd.jpg</thumbnail> <link>http://sv.keodabanh.com/iptv/160_3.m3u8</link></item>
 <item><title>HTVC FBNC HD</title><thumbnail>http://i.imgur.com/cP7NV5h.png</thumbnail> <link>http://sv.keodabanh.com/iptv/177_3.m3u8</link></item>
 <item><title>HTVC CHANNEL B</title><thumbnail>http://103.56.158.185/tv_icon/htvc-hd.png</thumbnail> <link>http://sv.keodabanh.com/iptv/25_2.m3u8</link></item>
-<item><title>VTC1 HD</title><thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail> <link>http://sv.keodabanh.com/iptv/150_3.m3u8</link></item>
+<item><title>VTCPlay HD</title><sportsdevil>http://test.anluong.info/tiviplay.php?id=vtv1</sportsdevil><referer>http://test.anluong.info/tiviplay.php?id=vtv1</referer><thumbnail>https://s21.postimg.org/9wp59n2ev/vtcplay.jpg</thumbnail></item>
+<item><title>VTC1 HD s1</title><sportsdevil>http://test.anluong.info/tiviplay.php?id=vtc1</sportsdevil><referer>http://test.anluong.info/tiviplay.php?id=vtc1</referer><thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail></item>
+<item><title>VTC1 HD s2</title><thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail> <link>http://sv.keodabanh.com/iptv/150_3.m3u8</link></item>
 <item><title>VTC2</title><thumbnail>http://i.imgur.com/2MwvQXo.png</thumbnail> <link>http://sv.keodabanh.com/iptv/181_2.m3u8</link></item>
 <item><title>VTC3 HD</title><thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail> <link>http://sv.keodabanh.com/iptv/145_3.m3u8</link></item>
 <item><title>VTC4</title><thumbnail>http://i.imgur.com/fitz1bW.png</thumbnail> <link>http://sv.keodabanh.com/iptv/46_2.m3u8</link></item>
@@ -64,7 +66,7 @@
 <item><title>VTC13 HD</title><thumbnail>http://i.imgur.com/YnunTc5.png</thumbnail> <link>http://sv.keodabanh.com/iptv/152_3.m3u8</link></item>
 <item><title>VTC14</title><thumbnail>http://i.imgur.com/annOIzX.png</thumbnail> <link>http://sv.keodabanh.com/iptv/16_2.m3u8</link></item>
 <item><title>VTC16</title><thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail> <link>http://sv.keodabanh.com/iptv/17_2.m3u8</link></item>
-<item><title>HA NOI 1</title><thumbnail>http://i.imgur.com/kFSFBHp.png</thumbnail> <link>http://sv.keodabanh.com/iptv/9_2.m3u8</link></item>
+<item><title>HA NOI 1</title><sportsdevil>http://www.tivi12h.net/2015/08/kenh-ha-noi-1.html</sportsdevil><referer>http://www.tivi12h.net</referer><thumbnail>http://i.imgur.com/kFSFBHp.png</thumbnail></item>
 <item><title>HA NOI 2</title><thumbnail>http://i.imgur.com/JHYNvNs.png</thumbnail> <link>http://sv.keodabanh.com/iptv/10_2.m3u8</link></item>
 <item><title>MOVHD Hanoicab4</title><thumbnail>http://i.imgur.com/FD1sjQe.png</thumbnail> <link>http://sv.keodabanh.com/iptv/30_2.m3u8</link></item>
 <item><title>YOUTV Hanoicab2</title><thumbnail>http://i.imgur.com/7uqtQEM.png</thumbnail> <link>http://sv.keodabanh.com/iptv/50_2.m3u8</link></item>
@@ -237,19 +239,13 @@
 <thumbnail>http://cinestrenostv.tv/img/ci.png</thumbnail>
 </item>
 <item>
-<title>ODISEA S1</title>
-<sportsdevil>http://lacasadeltikitaka.me/MultiTV/Documentales/odisea.php</sportsdevil>
-<referer>http://lacasadeltikitaka.me/MultiTV/Documentales/odisea.php</referer>
-<thumbnail>http://lacasadeltikitaka.me/Botones/Documentales/odisea.png</thumbnail>
-</item>
-<item>
-<title>ODISEA S2</title>
+<title>ODISEA</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/odisea.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/documentales/odisea.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/odisea.png</thumbnail>
 </item>
 <item>
-<title>A&E</title>
+<title>AE</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/documentales/bio.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/ae.png</thumbnail>
@@ -259,6 +255,17 @@
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/nacionales/plus1.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
+</item>
+<item><title>Viasat Explorer</title>
+<sportsdevil>http://www.moskvatv.org/page/viasat-explorer-online.php</sportsdevil>
+<referer>http://www.moskvatv.org/page/viasat-explorer-online.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>Viasat History</title>
+<sportsdevil>http://www.moskvatv.org/page/viasat-history-online.php</sportsdevil>
+<referer>http://www.moskvatv.org/page/viasat-history-online.php</referer>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>DISNEY Jr</title>
@@ -277,12 +284,6 @@
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/panda.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/nacionales/panda.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/panda.png</thumbnail>
-</item>
-<item>
-<title>CINEMAX</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/cinemax.php</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/argentina/cinemax.php</referer>
-<thumbnail>http://cinestrenostv.tv/img/cinemax.png</thumbnail>
 </item>
 <item>
 <title>CINE 1</title>
@@ -331,6 +332,12 @@
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tnt.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/nacionales/tnt.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/tnt.png</thumbnail>
+</item>
+<item>
+<title>TV1000 Action</title>
+<sportsdevil>http://www.moskvatv.org/page/tv1000-action-east-tv-online.php</sportsdevil>
+<referer>http://www.moskvatv.org/page/tv1000-action-east-tv-online.php</referer>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>beIN Movies 1</title>
@@ -405,31 +412,31 @@
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 7</title>
+<title>THỂ THAO VIỆT 7 (Chỉ phát khi có bóng đá)</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-k1-truc-tiep-bong-da.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 8</title>
+<title>THỂ THAO VIỆT 8 (Chỉ phát khi có bóng đá)</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-k-pm-online.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 9</title>
+<title>THỂ THAO VIỆT 9 (Chỉ phát khi có bóng đá)</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-vtvcab16-bong-da-tv-online.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 10</title>
+<title>THỂ THAO VIỆT 10 (Chỉ phát khi có bóng đá)</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-vtvcab3-the-thao-tv-online.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 11</title>
+<title>THỂ THAO VIỆT 11 (Chỉ phát khi có bóng đá)</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-btv5-online-binh-duong-5.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
@@ -588,25 +595,38 @@
 </item>
 <item>
 <title>FOX SPORT s1</title>
+<sportsdevil>http://test.anluong.info/tiviplay.php?id=foxsports</sportsdevil>
+<referer>http://test.anluong.info/tiviplay.php?id=foxsports</referer>
+<thumbnail>http://www.liveonlinetv247.info/images/foxsports1.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT 2 s2</title>
+<sportsdevil>http://test.anluong.info/tiviplay.php?id=foxsports2</sportsdevil>
+<referer>http://test.anluong.info/tiviplay.php?id=foxsports2</referer>
+<thumbnail>http://www.liveonlinetv247.info/images/foxsports2.png</thumbnail>
+</item>       
+<item>
+<title>FOX SPORT s2</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/foxsports.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/foxsports.png</thumbnail>
 </item>
 <item>
-<title>FOX SPORT 2 s1</title>
+<title>FOX SPORT 2 s2</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports2.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/foxsports2.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/foxsports2.png</thumbnail>
 </item>
 <item>
-<title>FOX SPORT s2</title>
+<title>FOX SPORT s3</title>
 <sportsdevil>http://www.liveonlinetv247.info/foxsports1.php</sportsdevil>
 <referer>http://www.liveonlinetv247.info/foxsports1.php</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/foxsports1.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>FOX SPORT 2 s2</title>
+<title>FOX SPORT 2 s3</title>
 <sportsdevil>http://www.liveonlinetv247.info/foxsports2.php</sportsdevil>
 <referer>http://www.liveonlinetv247.info/foxsports2.php</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/foxsports2.png</thumbnail>
@@ -857,6 +877,152 @@
 <fanart></fanart>
 </item>
 <item>
+<title>GIỌNG HÁT VIỆT 1</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/112412-12-02-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GIỌNG HÁT VIỆT 2</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/112414-12-02-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GIỌNG HÁT VIỆT 3</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/113100-19-02-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GIỌNG HÁT VIỆT 4</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/113225-19-02-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>BÀI HÁT HAY NHẤT 1</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/99602-20-11-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 2</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/99610-20-11-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 3</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/100376-27-11-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 4</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/100377-27-11-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 5</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/101904-05-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 6</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/101905-05-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 7</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/102459-12-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 8</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/102460-12-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 9</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103059-18-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 10</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103060-18-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 11</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103667-25-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 12</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103673-25-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 13</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104625-1-1-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 14</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104626-1-1-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 15</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104842-08-01-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 16</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104843-08-01-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 17</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106506-15-01-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 18</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106507-15-01-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT - CHUNG KẾT PHẦN 1</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106901-chung-ket-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT -CHUNG KẾT PHẦN 2 </title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106902-chung-ket-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
 <title>THẦN TƯỢNG BOLERO 1</title>
 <sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/118643-tap-1.html</sportsdevil>
 <referer>http://m.tvplay.vn/</referer>
@@ -1067,6 +1233,10 @@
 
 </items>
 </channel>
+
+
+
+
 
 
         
