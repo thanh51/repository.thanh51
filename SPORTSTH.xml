@@ -48,6 +48,30 @@
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 <item>
+<title>BÓNG ÐÁ 1 (By talktv.vn)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/baovipboydzz</page>
+<cookieJar></cookieJar>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
+</regex>
+</item> 
+//////////////////
+<item>
+<title>BÓNG ÐÁ 2 (By talktv.vn)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/playonline</page>
+<cookieJar></cookieJar>
+<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
+</regex>
+</item> 
+//////////////////
+<item>
 <title>THỂ THAO VIỆT 1 (Chỉ phát khi có bóng đá)</title>
 <sportsdevil>http://www.tivi12h.net/2015/08/the-thao-tv.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
@@ -221,6 +245,7 @@
 
 </items>
 </channel>
+
 
 
 
