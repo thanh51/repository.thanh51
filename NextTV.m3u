@@ -1,251 +1,256 @@
-#EXTM3U
+#EXTM3U thanh51
 
-#EXTINF:-1 group-title="VTV",VTV1 HD
-http://45.124.94.83/get_vt/154
-#EXTINF:-1 group-title="VTV",VTV2 HD
-http://45.124.94.83/get_vt/192
-#EXTINF:-1 group-title="VTV",VTV3 HD
-http://45.124.94.83/get_vt/155
-#EXTINF:-1 group-title="VTV",VTV4 HD
-http://45.124.94.83/get_vt/193
-#EXTINF:-1 group-title="VTV",VTV5 HD
-http://45.124.94.83/get_vt/194
-#EXTINF:-1 group-title="VTV",VTV6 HD
-http://45.124.94.83/get_vt/156
-#EXTINF:-1 group-title="VTV",VTV7 HD
-http://45.124.94.83/get_vt/195
-#EXTINF:-1 group-title="VTV",VTV8 HD
-http://45.124.94.83/get_vt/196
-#EXTINF:-1 group-title="VTV",VTV9 HD
-http://45.124.94.83/get_vt/197
-#EXTINF:-1 group-title="VTV",QPVN HD
-http://45.124.94.83/get_vt/141
-#EXTINF:-1 group-title="VTV",ANTV
-http://45.124.94.83/get_vt/18
-#EXTINF:-1 group-title="VTV",TTXVN
-http://45.124.94.83/get_vt/20
-#EXTINF:-1 group-title="VTV",ANTG
-http://45.124.94.83/get_vt/51
-#EXTINF:-1 group-title="VTV",VTVCAB 1
-http://45.124.94.83/get_vt/211
-#EXTINF:-1 group-title="VTV",VTVCAB 5
-http://45.124.94.83/get_vt/212
-#EXTINF:-1 group-title="VTV",VTVCAB 6
-http://45.124.94.83/get_vt/216
-#EXTINF:-1 group-title="VTV",VTVCAB 15
-http://45.124.94.83/get_vt/220
-#EXTINF:-1 group-title="VTV",VTVCAB 12
-http://45.124.94.83/get_vt/231
-#EXTINF:-1 group-title="NHÓM KHÁC",VTVCAB 13
-http://45.124.94.83/get_vt/277
-#EXTINF:-1 group-title="VTV",VTVCAB 20
-http://45.124.94.83/get_vt/213
-#EXTINF:-1 group-title="VTV",VTVCAB 21 - BIBI+
-http://45.124.94.83/get_vt/234
-#EXTINF:-1 group-title="VTV",VTVCAB 22 - LIFE
-http://45.124.94.83/get_vt/237
-#EXTINF:-1 group-title="VTV",THỂ THAO TIN TỨC
-http://45.124.94.83/get_vt/223
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD *
+http://sv.keodabanh.com/iptv/154_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+http://sv.keodabanh.com/iptv/155_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
+http://sv.keodabanh.com/iptv/193_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
+http://sv.keodabanh.com/iptv/194_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
+http://sv.keodabanh.com/iptv/156_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
+http://sv.keodabanh.com/iptv/195_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
+http://sv.keodabanh.com/iptv/196_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/qCWsfhc.png",VTV9 HD
+http://sv.keodabanh.com/iptv/197_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",ANTV
+http://sv.keodabanh.com/iptv/18_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
+http://sv.keodabanh.com/iptv/20_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN HD
+http://sv.keodabanh.com/iptv/141_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/j7NsBwD.png",ANTG
+http://sv.keodabanh.com/iptv/51_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
 
-#EXTINF:-1 group-title="VTC",VTC1 HD
-http://45.124.94.83/get_vt/150
-#EXTINF:-1 group-title="VTC",VTC3 HD
-http://45.124.94.83/get_vt/145
-#EXTINF:-1 group-title="VTC",VTC4
-http://45.124.94.83/get_vt/46
-#EXTINF:-1 group-title="VTC",VTC5
-http://45.124.94.83/get_vt/28
-#EXTINF:-1 group-title="VTC",VTC6
-http://45.124.94.83/get_vt/29
-#EXTINF:-1 group-title="VTC",VTC7
-http://45.124.94.83/get_vt/47
-#EXTINF:-1 group-title="VTC",VTC8
-http://45.124.94.83/get_vt/14
-#EXTINF:-1 group-title="VTC",VTC9
-http://45.124.94.83/get_vt/48
-#EXTINF:-1 group-title="VTC",VTC10
-http://45.124.94.83/get_vt/15
-#EXTINF:-1 group-title="VTC",VTC11
-http://45.124.94.83/get_vt/72
-#EXTINF:-1 group-title="VTC",ITV HD 
-http://45.124.94.83/get_vt/152
-#EXTINF:-1 group-title="VTC",VTC14
-http://45.124.94.83/get_vt/16
-#EXTINF:-1 group-title="VTC",VTC16
-http://45.124.94.83/get_vt/17
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/nmmH5NG.png",VTVCab1 HD
+http://sv.keodabanh.com/iptv/211_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVCab3 Thể Thao 
+http://sv.keodabanh.com/iptv/214_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/PTguOdx.png",VTVCab3 Thể Thao HD
+http://sv.keodabanh.com/iptv/221_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png",VTVCab5 HD
+http://sv.keodabanh.com/iptv/212_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/NCIpILU.png",VTVCab6 HD
+http://sv.keodabanh.com/iptv/216_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/aVP5nbS.png",VTVCab10
+http://sv.keodabanh.com/iptv/218_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/XhCmf93.png",VTVCab12
+http://sv.keodabanh.com/iptv/231_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://www.vtvcab.vn/content/upload/1/9/image/-nh-h-nh-tr-nh-vtvcab/anh-1huyndai280116_w122_h122.png",VTVCab13
+http://sv.keodabanh.com/iptv/277_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCab15
+http://sv.keodabanh.com/iptv/232_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCab15 HD
+http://sv.keodabanh.com/iptv/220_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/TSfiqGv.png",VTVCab16 Bóng Đá
+http://sv.keodabanh.com/iptv/215_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVCab16 Bóng Đá HD
+http://sv.keodabanh.com/iptv/222_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/8y24qz6yl/thethaott.jpg",VTVCab18 Thể Thao Tin Tức HD
+http://sv.keodabanh.com/iptv/223_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/iyg21My.png",VTVCab20
+http://sv.keodabanh.com/iptv/213_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s30.postimg.org/qyyzegnip/vtvcab21hd.jpg",VTVCab21 SaoTV HD
+http://sv.keodabanh.com/iptv/234_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/iiga83zql/vtvcab22.jpg",VTVCab22 Life TV
+http://sv.keodabanh.com/iptv/237_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
 
-#EXTINF:-1 group-title="HTV",HTV1
-http://45.124.94.83/get_vt/53
-#EXTINF:-1 group-title="HTV",HTV2
-http://45.124.94.83/get_vt/54
-#EXTINF:-1 group-title="HTV",HTV3
-http://45.124.94.83/get_vt/71
-#EXTINF:-1 group-title="HTV",HTV7 HD
-http://45.124.94.83/get_vt/157
-#EXTINF:-1 group-title="HTV",HTV9 HD
-http://45.124.94.83/get_vt/158
-#EXTINF:-1 group-title="HTV",HTVC PHIM HD
-http://45.124.94.83/get_vt/159
-#EXTINF:-1 group-title="HTV",HTVC THUAN VIET HD
-http://45.124.94.83/get_vt/160
-#EXTINF:-1 group-title="HTV",FBNC HD
-http://45.124.94.83/get_vt/177
-#EXTINF:-1 group-title="HTV",HTVC PHỤ NỮ
-http://45.124.94.83/get_vt/56
-#EXTINF:-1 group-title="HTV",HTVC THUẦN VIỆT
-http://45.124.94.83/get_vt/57
-#EXTINF:-1 group-title="HTV",HTVC CA NHẠC
-http://45.124.94.83/get_vt/58
-#EXTINF:-1 group-title="HTV",HTVC GIA ĐÌNH
-http://45.124.94.83/get_vt/59
-#EXTINF:-1 group-title="HTV",HTVC DU LỊCH
-http://45.124.94.83/get_vt/60
-#EXTINF:-1 group-title="HTV",HTVC PHIM
-http://45.124.94.83/get_vt/31
-#EXTINF:-1 group-title="HTV",HTVC +
-http://45.124.94.83/get_vt/25
-#EXTINF:-1 group-title="HTV",HTV THỂ THAO
-http://45.124.94.83/get_vt/37
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
+http://sv.keodabanh.com/iptv/53_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/s7x0UhN.png",HTV2
+http://sv.keodabanh.com/iptv/54_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/m603PX8.png",HTV7 HD
+http://sv.keodabanh.com/iptv/157_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/DUhJcZK.png",HTV9 HD
+http://sv.keodabanh.com/iptv/158_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/bULyZwy.png",HTV Thể Thao
+http://sv.keodabanh.com/iptv/37_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvccanhac.png",HTVC Ca Nhạc
+http://sv.keodabanh.com/iptv/58_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-du-lich.png",HTVC Du Lịch 
+http://sv.keodabanh.com/iptv/60_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/cP7NV5h.png",HTVC FBNC HD
+http://sv.keodabanh.com/iptv/177_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-gia-dinh.png",HTVC Gia Đình
+http://sv.keodabanh.com/iptv/59_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-movie-hd.png",HTVC Phim
+http://sv.keodabanh.com/iptv/31_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-movie-hd.png",HTVC Phim HD
+http://sv.keodabanh.com/iptv/159_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-phu-nu.png",HTVC Phụ Nữ
+http://sv.keodabanh.com/iptv/56_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-thuan-viet.png",HTVC Thuần Việt
+http://sv.keodabanh.com/iptv/57_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-thuan-viet-hd.png",HTVC Thuần Việt HD
+http://sv.keodabanh.com/iptv/160_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/htvc-hd.png",HTVC B Channel
+http://sv.keodabanh.com/iptv/25_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HÀ NỘI 1
-http://45.124.94.83/get_vt/9
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HÀ NỘI 2
-http://45.124.94.83/get_vt/10
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",MOV
-http://45.124.94.83/get_vt/30
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",YOU TV
-http://45.124.94.83/get_vt/50
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HITV
-http://45.124.94.83/get_vt/52
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BTV4
-http://45.124.94.83/get_vt/32
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",THVL2
-http://45.124.94.83/get_vt/38
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HÀ GIANG
-http://45.124.94.83/get_vt/76
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",CAO BẰNG
-http://45.124.94.83/get_vt/77
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BẮC KẠN
-http://45.124.94.83/get_vt/78
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",TUYÊN QUANG
-http://45.124.94.83/get_vt/79
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",THÁI NGUYÊN
-http://45.124.94.83/get_vt/80
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QUẢNG NINH 1
-http://45.124.94.83/get_vt/81
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QUẢNG NINH 3
-http://45.124.94.83/get_vt/82
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",LẠNG SƠN
-http://45.124.94.83/get_vt/83
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BẮC GIANG
-http://45.124.94.83/get_vt/84
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",LAI CHÂU
-http://45.124.94.83/get_vt/85
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ĐIỆN BIÊN
-http://45.124.94.83/get_vt/86
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",SƠN LA
-http://45.124.94.83/get_vt/87
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",LÀO CAI
-http://45.124.94.83/get_vt/88
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",YÊN BÁI
-http://45.124.94.83/get_vt/89
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",PHÚ THỌ
-http://45.124.94.83/get_vt/90
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",VĨNH PHÚC
-http://45.124.94.83/get_vt/91
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BẮC NINH
-http://45.124.94.83/get_vt/92
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HẢI DƯƠNG
-http://45.124.94.83/get_vt/93
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HẢI PHÒNG
-http://45.124.94.83/get_vt/94
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HƯNG YÊN
-http://45.124.94.83/get_vt/96
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HÀ NAM
-http://45.124.94.83/get_vt/97
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",NAM ĐỊNH
-http://45.124.94.83/get_vt/98
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",NINH BÌNH
-http://45.124.94.83/get_vt/99
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HÒA BÌNH
-http://45.124.94.83/get_vt/100
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",THANH HÓA
-http://45.124.94.83/get_vt/101
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",KHÁNH HÒA
-http://45.124.94.83/get_vt/102
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HÀ TĨNH
-http://45.124.94.83/get_vt/103
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QUẢNG BÌNH
-http://45.124.94.83/get_vt/104
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QUẢNG TRỊ
-http://45.124.94.83/get_vt/105
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HUẾ
-http://45.124.94.83/get_vt/106
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ĐÀ NĂNG 1
-http://45.124.94.83/get_vt/107
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QUẢNG NAM
-http://45.124.94.83/get_vt/108
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",QUẢNG NGÃI
-http://45.124.94.83/get_vt/109
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",KONTUM
-http://45.124.94.83/get_vt/110
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BÌNH ĐỊNH
-http://45.124.94.83/get_vt/111
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",GIA LAI
-http://45.124.94.83/get_vt/112
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",NGHỆ AN
-http://45.124.94.83/get_vt/114
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ĐẮK LẮK
-http://45.124.94.83/get_vt/115
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ĐẮK NÔNG
-http://45.124.94.83/get_vt/116
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",NINH THUẬN
-http://45.124.94.83/get_vt/117
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BÌNH THUẬN
-http://45.124.94.83/get_vt/118
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",LÂM ĐỒNG
-http://45.124.94.83/get_vt/119
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",TÂY NINH
-http://45.124.94.83/get_vt/120
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BÌNH PHƯỚC
-http://45.124.94.83/get_vt/121
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",PHÚ YÊN
-http://45.124.94.83/get_vt/122
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BTV1
-http://45.124.94.83/get_vt/123
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BTV2
-http://45.124.94.83/get_vt/124
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",CÀ MAU
-http://45.124.94.83/get_vt/125
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BẠC LIÊU
-http://45.124.94.83/get_vt/126
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ĐỒNG NAI 1
-http://45.124.94.83/get_vt/127
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BÀ RỊA
-http://45.124.94.83/get_vt/128
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",LONG AN
-http://45.124.94.83/get_vt/129
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",TIỀN GIANG
-http://45.124.94.83/get_vt/130
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",BẾN TRE
-http://45.124.94.83/get_vt/131
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",ĐỒNG THÁP
-http://45.124.94.83/get_vt/132
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",VĨNH LONG 1
-http://45.124.94.83/get_vt/133
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",VĨNH LONG 2
-http://45.124.94.83/get_vt/134
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",TRÀ VINH
-http://45.124.94.83/get_vt/135
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",AN GIANG
-http://45.124.94.83/get_vt/136
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",CẦN THƠ
-http://45.124.94.83/get_vt/137
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",HẬU GIANG
-http://45.124.94.83/get_vt/138
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",SÓC TRĂNG
-http://45.124.94.83/get_vt/139
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",KIÊN GIANG
-http://45.124.94.83/get_vt/140
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+http://sv.keodabanh.com/iptv/150_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
+http://sv.keodabanh.com/iptv/181_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+http://sv.keodabanh.com/iptv/145_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
+http://sv.keodabanh.com/iptv/46_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
+http://sv.keodabanh.com/iptv/28_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png",VTC6
+http://sv.keodabanh.com/iptv/29_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
+http://sv.keodabanh.com/iptv/47_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+http://sv.keodabanh.com/iptv/14_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
+http://sv.keodabanh.com/iptv/48_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10
+http://sv.keodabanh.com/iptv/15_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
+http://sv.keodabanh.com/iptv/72_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/YnunTc5.png",VTC13 HD
+http://sv.keodabanh.com/iptv/152_3.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
+http://sv.keodabanh.com/iptv/16_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
+http://sv.keodabanh.com/iptv/17_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",Hà Nội 2
+http://sv.keodabanh.com/iptv/10_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/eIbgrWr.png",HiTV - Hanoicab1
+http://sv.keodabanh.com/iptv/52_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/7uqtQEM.png",You!TV - Hanoicab2
+http://sv.keodabanh.com/iptv/50_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FD1sjQe.png",MOV HD - Hanoicab4
+http://sv.keodabanh.com/iptv/30_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/an-giang.png",An Giang 1 
+http://sv.keodabanh.com/iptv/136_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ba-ria-vung-tau.png",Bà Rịa Vũng Tàu
+http://sv.keodabanh.com/iptv/128_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-lieu.png",Bạc Liêu
+http://sv.keodabanh.com/iptv/126_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-giang.png",Bắc Giang
+http://sv.keodabanh.com/iptv/84_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Bac_Kan_TV.png",Bắc Kạn
+http://sv.keodabanh.com/iptv/78_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-ninh.png",Bắc Ninh
+http://sv.keodabanh.com/iptv/92_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-duong-2.png",Bình Dương 2
+http://sv.keodabanh.com/iptv/124_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ben-tre.png",Bến Tre
+http://sv.keodabanh.com/iptv/131_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-dinh.png",Bình Định
+http://sv.keodabanh.com/iptv/111_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-phuoc-1.png",Bình Phước 1
+http://sv.keodabanh.com/iptv/121_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-thuan.png",Bình Thuận
+http://sv.keodabanh.com/iptv/118_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ca-mau.png",Cà Mau
+http://sv.keodabanh.com/iptv/125_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Cao_Bang_TV.png",Cao Bằng
+http://sv.keodabanh.com/iptv/77_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/can-tho.png",Cần Thơ
+http://sv.keodabanh.com/iptv/137_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/da-nang-1.png",Đà Nẵng 1
+http://sv.keodabanh.com/iptv/107_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dak-lak.png",Đắk Lắk
+http://sv.keodabanh.com/iptv/115_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/daknong.png",Đắk Nông
+http://sv.keodabanh.com/iptv/116_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dien-bien.png",Điện Biên
+http://sv.keodabanh.com/iptv/86_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-1.png",Đồng Nai 1
+http://sv.keodabanh.com/iptv/127_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-thap.png",Đồng Tháp 1
+http://sv.keodabanh.com/iptv/132_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/gia-lai.png",Gia Lai 1
+http://sv.keodabanh.com/iptv/112_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ha-giang.png",Hà Giang
+http://sv.keodabanh.com/iptv/76_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Ha_Nam_TV.png",Hà Nam
+http://sv.keodabanh.com/iptv/97_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ha-tinh.png",Hà Tĩnh
+http://sv.keodabanh.com/iptv/103_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hai-phong.png",Hải Phòng
+http://sv.keodabanh.com/iptv/93_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hai-phong.png",Hải Phòng HD
+http://sv.keodabanh.com/iptv/94_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hau-giang.png",Hậu Giang
+http://sv.keodabanh.com/iptv/138_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hoa-binh.png",Hòa Bình
+http://sv.keodabanh.com/iptv/100_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/hung-yen.png",Hưng Yên
+http://sv.keodabanh.com/iptv/96_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/khanh-hoa.png",Khánh Hòa
+http://sv.keodabanh.com/iptv/102_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/kien-giang.png",Kiên Giang
+http://sv.keodabanh.com/iptv/140_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Kon_Tum_TV.jpg",Kon Tum
+http://sv.keodabanh.com/iptv/110_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lai_Chau_TV.png",Lai Châu
+http://sv.keodabanh.com/iptv/85_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lang-son.png",Lạng Sơn
+http://sv.keodabanh.com/iptv/83_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/Lao_Cai_TV.png",Lào Cai
+http://sv.keodabanh.com/iptv/88_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lam-dong.png",Lâm Đồng
+http://sv.keodabanh.com/iptv/119_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/long-an.png",Long An 34
+http://sv.keodabanh.com/iptv/129_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/nam-dinh.png",Nam Định
+http://sv.keodabanh.com/iptv/98_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/nghe-an.png",Nghệ An
+http://sv.keodabanh.com/iptv/114_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ninh-binh.png",Ninh Bình
+http://sv.keodabanh.com/iptv/99_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static-stage.sctv.vn/channel/151/NTVninhthuan.png",Ninh Thuận
+http://sv.keodabanh.com/iptv/117_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/phu-tho.png",Phú Thọ
+http://sv.keodabanh.com/iptv/90_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-binh-tv.png",Quảng Bình
+http://sv.keodabanh.com/iptv/104_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-nam.png",Quảng Nam
+http://sv.keodabanh.com/iptv/108_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ngai.png",Quảng Ngãi
+http://sv.keodabanh.com/iptv/109_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-1.png",Quảng Ninh 1
+http://sv.keodabanh.com/iptv/81_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-3.png",Quảng Ninh 3
+http://sv.keodabanh.com/iptv/82_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-tri.png",Quảng Trị
+http://sv.keodabanh.com/iptv/105_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/soctrang.png",Sóc Trăng
+http://sv.keodabanh.com/iptv/139_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/son-la.png",Sơn La
+http://sv.keodabanh.com/iptv/87_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tayninh.png",Tây Ninh 11
+http://sv.keodabanh.com/iptv/120_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thai-binh.png",Thái Bình
+http://sv.keodabanh.com/iptv/95_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thai-nguyen.png",Thái Nguyên 1
+http://sv.keodabanh.com/iptv/80_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thanh-hoa.png",Thanh Hóa
+http://sv.keodabanh.com/iptv/101_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thua-thien-hue.png",Thừa Thiên Huế
+http://sv.keodabanh.com/iptv/106_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tien-giang.png",Tiền Giang
+http://sv.keodabanh.com/iptv/130_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tra-vinh.png",Trà Vinh
+http://sv.keodabanh.com/iptv/135_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tuyen-quang.png",Tuyên Quang
+http://sv.keodabanh.com/iptv/79_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static-stage.sctv.vn/channel/62/THVL1.png",Vĩnh Long 1
+http://sv.keodabanh.com/iptv/133_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static-stage.sctv.vn/channel/124/THVL2.png",Vĩnh Long 2
+http://sv.keodabanh.com/iptv/134_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/vinh-phuc.png",Vĩnh Phúc
+http://sv.keodabanh.com/iptv/91_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/yen-bai.png",Yên Bái
+http://sv.keodabanh.com/iptv/89_2.m3u8|User-Agent=ExoPlayerDemo/2.0.1 (Linux;Android 5.0.2) ExoPlayerLib/1.2.3
+
+
 
 
