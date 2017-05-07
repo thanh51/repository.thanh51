@@ -443,7 +443,17 @@
           	   "image": "https://s30.postimg.org/yyex12te9/bongda.jpg",
           	   "url": "http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8"               
             	    },
-		    {         	   
+		    { 
+		   "name": "NBC",
+          	   "image": "https://s27.postimg.org/qpp3n3rqr/nbc.jpg",
+          	   "url": "http://64.71.129.2:8080/hls/ius_000133.m3u8"
+    		   },
+                   {	
+		   "name": "ABC",
+          	   "image": "https://s7.postimg.org/fv36zcg0r/abc.jpg",
+          	   "url": "http://64.71.129.2:8080/hls/ius_000132.m3u8"               
+            	    },
+		    {  
                    "name": "China:Champions League",
           	   "image": "https://s23.postimg.org/3z1fchvmj/champions.jpg",
           	   "url": "http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1"             
