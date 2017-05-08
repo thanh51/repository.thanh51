@@ -48,19 +48,7 @@
 <thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 <item>
-<title>BÓNG ÐÁ 1 (By talktv.vn)</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/baovipboydzz</page>
-<cookieJar></cookieJar>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
-</regex>
-</item> 
-//////////////////
-<item>
-<title>BÓNG ÐÁ 2 (By talktv.vn)</title>
+<title>BÓNG ÐÁ (Chỉ phát khi có bóng đá)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -72,89 +60,80 @@
 </item> 
 //////////////////
 <item>
-<title>THỂ THAO VIỆT 1 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 1</title>
 <sportsdevil>http://www.tivi12h.net/2015/08/the-thao-tv.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 2 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 2</title>
 <sportsdevil>http://www.tivi12h.net/2015/11/kenh-vtvcab3-thao-tv-hd.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 3 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 3</title>
 <sportsdevil>http://www.tivi12h.net/2015/08/bong-da-tv.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 4 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 4</title>
 <sportsdevil>http://www.tivi12h.net/2015/11/kenh-vtvcab16-bong-da-tv-hd.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 5 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 5/BTV5 - SSport3</title>
 <sportsdevil>http://www.tivi12h.net/2015/10/kenh-btv5-online.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 6 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 6</title>
 <sportsdevil>http://www.tivi12h.net/2015/08/kenh-fox-hd.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>THỂ THAO VIỆT 7 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 7/SCTV17 - SSport</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-k1-truc-tiep-bong-da.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 8 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 8</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-k-pm-online.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 9 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 9</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-vtvcab16-bong-da-tv-online.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 10 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 10</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-vtvcab3-the-thao-tv-online.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 <item>
-<title>THỂ THAO VIỆT 11 (Chỉ phát khi có bóng đá)</title>
+<title>THỂ THAO VIỆT 11</title>
 <sportsdevil>http://www.tivi8k.net/2016/02/kenh-btv5-online-binh-duong-5.html</sportsdevil>
 <referer>http://www.tivi8k.net/</referer>
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 ///////////////////////////////////////                 
-<item>
-<title>[COLOR cyan][B]>>> KÊNH THỂ THAO (Ace stream) 1[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Ace(kodi).m3u</externallink>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item> 
-
-//////////////////////////////////////
-
  <item>
-<title>[COLOR cyan][B]>>> KÊNH THỂ THAO (Ace stream) 2[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> KÊNH THỂ THAO (Ace stream) 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -173,7 +152,7 @@
 ///////////////////////////////////////	
 
 <item>
-<title>[COLOR cyan][B]>>> KÊNH THỂ THAO (Ace stream) 3[/B][/COLOR]</title>
+<title>[COLOR cyan][B]>>> KÊNH THỂ THAO (Ace stream) 2 - Load hơi chậm, kiên nhẫn chờ để thưởng thức[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVplexus2.xml</externallink>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
@@ -220,6 +199,7 @@
 
 </items>
 </channel>
+
 
 
 
