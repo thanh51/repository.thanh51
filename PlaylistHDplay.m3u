@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 02/05/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 08/05/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -15,6 +15,14 @@ http://www.youtube.com
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://118.107.68.10:1935/live/_definst_/smil:VTC3HD_15032017.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.solidiptv.com:25461/images/loogo/btsports2hd.png",BT sport 2
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/9220.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",Sky sport 3
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/6909.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Sports" tvg-logo="http://cheap-hosting.in/iframe/pic/ssf1.png",Sky sport F1
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/9299.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Sports" tvg-logo="http://sportstv.club/pic/realmadrid.jpg",Real Madrid TV
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/14131.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
@@ -395,6 +403,33 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&mode=2&name=HI
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&mode=2&name=VIASAT HISTORY
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",Sopcast:TLC
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&mode=2&name=TLC
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="", CHANNEL 1
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/15568.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",RUSSIA 24
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/223_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",BBC world news
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/334_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CNN
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/51_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",EURONEWS
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/41_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",Bloomberg
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/50_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",NEWSNETWORK
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/1032_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",Paramount Comedy
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/487_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",DISNEY
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/240_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
@@ -405,14 +440,22 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=
 rtsp://yayin.networkbil.com/belgeseltv
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
-rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",24 DOC
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/101_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",365 DAY
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/65_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CGTN Documentary
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/537_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",TRAVEL CHANNEL
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/630_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",TV XXY
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/70_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",Food Network
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/1010_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",EWTN UK and Ireland
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/839_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",NTV HD
+http://127.0.0.1:6878/ace/getstream?url=http://content.asplaylist.net/cdn/992_all.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -525,4 +568,8 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,MC Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8
+
+
+
+
 
