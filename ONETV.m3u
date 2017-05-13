@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 29.03.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 13.05.2017[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
@@ -348,27 +348,31 @@ udp://@225.1.2.239:30120
 udp://@225.1.1.237:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/Pi3AFTe.png",AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",CINEMAX
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",MAX BY HBO
 udp://@225.1.1.230:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/cartoon-network.png",CN
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",MAX BY HBO HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CN
 udp://@225.1.1.240:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="",WARNER TV
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="",CINEMAWORLD
+udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cartoon-network.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/wc4vczpo5/sgem.jpg",S GEM HD
 udp://@225.1.1.60:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/toonami.png",TOONAMI HD
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_toonami_146580863385.png",TOONAMI HD
 udp://@225.1.2.220:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s13.postimg.org/4hex6o56v/disney.png",DISNEY CHANNEL
 udp://@225.1.1.232:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s17.postimg.org/hwdjjrwkv/disneyjr.png",DISNEY JUNIOR
 udp://@225.1.1.233:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://www.liveonlinetv247.info/images/natgeo.png",National Geographic
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
 udp://@225.1.1.244:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/9RsSxQt.png",National Geographic HD
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://vuapp.tranvu.info/upload//discovery.png",DISCOVERY ASIA
-udp://@225.1.2.6:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://vuapp.tranvu.info/upload//discovery.png",Discovery Channel
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
 udp://@225.1.1.238:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/eNPI6Bd.png",Discovery World HD
 udp://@225.1.2.223:30120
@@ -378,14 +382,16 @@ udp://@225.1.2.215:30120
 udp://@225.1.2.253:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/9iwcw4rvp/animal.jpg",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://vuapp.tranvu.info/upload//tlc.png",TLC
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://2.bp.blogspot.com/_wWviPa3VFRE/S76Sngu7fVI/AAAAAAAAACI/_yYxpwmH-tk/s200/tlc.jpg",TLC
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://yt3.ggpht.com/-YBAwzp9qQ1o/AAAAAAAAAAI/AAAAAAAAAAA/CoaoaqDCWeQ/s900-c-k-no/photo.jpg",Australia Plus
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s11.postimg.org/f27d0vsmr/cnbc.jpg",CNBC
-udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg",BBC LifeStyle
+udp://@225.1.2.52:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png",BBC WORLD NEWS
-udp://@225.1.1.10:30120
+udp://@225.1.2.74:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://kbsworld.kbs.co.kr/images/main_logo.jpg",KBS WORLD
 udp://@225.1.2.91:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/cnn.png",CNN
