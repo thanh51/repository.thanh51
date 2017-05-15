@@ -56,8 +56,6 @@ udp://225.1.2.169:30120
 udp://@225.1.2.150:30120
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/YNCzLp9.png",VTVCAB 2 - Phim Viet
 udp://@225.1.2.159:30120
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVCAB 3 - The Thao TV
-udp://@225.1.2.29:30120
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/PTguOdx.png",VTVCab3-The Thao TV HD (LOW)
 udp://@225.1.2.54:30120
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zr9dOPm.png",VTVCAB 4 - Van Hoa
@@ -84,9 +82,7 @@ udp://@225.1.1.122:30120
 udp://@225.1.1.253:30120
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCAB 15 - INVEST TV
 udp://@225.1.1.251:30120
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/TSfiqGv.png",VTVCAB 16 - Bong Da TV
-udp://@225.1.2.52:30120
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVCab16-Bong Da TV HD
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVCab16-Bong Da TV HD (LOW)
 udp://@225.1.2.55:30120
 #EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/2nOJwku.png",VTVCAB 17 - YEAH1 TV
 udp://@225.1.2.151:30120
@@ -386,8 +382,10 @@ udp://@225.1.1.231:30120
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://yt3.ggpht.com/-YBAwzp9qQ1o/AAAAAAAAAAI/AAAAAAAAAAA/CoaoaqDCWeQ/s900-c-k-no/photo.jpg",Australia Plus
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth s1
 udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth s2
+udp://@225.1.2.29:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg",BBC LifeStyle
 udp://@225.1.2.52:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png",BBC WORLD NEWS
@@ -464,7 +462,6 @@ udp://@225.1.2.75:30120
 udp://@225.1.1.31:30120
 #EXTINF:-1 group-title="BONG DA" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",BÓNG ĐÁ 11
 udp://@225.1.1.32:30120
-
 
 
 
