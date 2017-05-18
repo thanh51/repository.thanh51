@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 22h00' ngày 17/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 08h00' ngày 18/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/417_l9uNz.w3u",
    "groups": [
@@ -10,21 +10,6 @@
                 "stations": [
  				  {
 
-			"name": "Southampton Vs Man Utd (01:45 ngày 18/05/2017) - AV3",
-                        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://3f8e4ac1381a1e8d954e72647e77198901cea11e"
-		        },
-		        {
-			"name": "Southampton Vs Man Utd (01:45 ngày 18/05/2017) - AV4",
-                        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://db6ac226f9f28c5f948a53e3f8e865d727d20281"
-		        },
-		        {
-			"name": "Southampton Vs Man Utd (01:45 ngày 18/05/2017) - Sky sport 1",
-                        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1"
-		        },
-		        {
 			"name": "Leicester City Vs Tottenham Hotspur (01:45 ngày 19/05/2017) - AV3",
                         "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://3f8e4ac1381a1e8d954e72647e77198901cea11e"
@@ -60,16 +45,6 @@
                
                 "stations": [
  				  {
-			"name": "CELTA-REAL MADRID (02:00 18/05/17) - AV1",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://a16800843a07936b5abbd394f5265950d416d21e"
-		        },
-		        {
-			"name": "CELTA-REAL MADRID (02:00 18/05/17) - AV2",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://bdfadd4d0395bccb8721c528cd5560468cccbd89"
-		        },
-		        {
 			"name": "GRANADA-ESPANYOL (01:45 20/05/17) - AV1",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://a16800843a07936b5abbd394f5265950d416d21e"
@@ -181,11 +156,6 @@
                 "stations": [
  				  {
 
-			"name": "Juventus v Lazio (02:00 18/05/17) - Sky sport 4",
-			"image": "https://s22.postimg.org/9vk2rbqep/ace.png", 
-			"url": "acestream://969a42388e101e6c6d9574a311e4b387a6ff1413"
-		        },
-		        {
 			"name": "CHIEVO VERONA-ROMA (23:00 20/05/17) - AV13",
 			"image": "https://s22.postimg.org/9vk2rbqep/ace.png", 
 			"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"
@@ -284,6 +254,8 @@
 "name": "Sky Sports F1","image": "","url": "acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295"},{
 "name": "Sport 1 LT","image": "","url": "acestream://0b48bf1261368b82637d8a26eb4457d54c80f3e1"},{
 "name": "Sport 5+ Live HD","image": "","url": "acestream://9e0a489436b0859e20098fc3f81e07abb4c5a612"
+
+
     }
                 
     ]
@@ -899,7 +871,10 @@
 	           "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/520.ts",		   
                    "replay": true
 		    },
-		    {	
+		    {
+		   "name": "Sky Sports Mix","image":"",
+		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/271.ts","replay": true},{	
+
 		    "name": "UK: SKY SPORTS 1",
           	   "image": "http://www.liveonlinetv247.info/images/skysports1.png",
           	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/178.ts",		   
@@ -972,6 +947,9 @@
                    "replay": true
 		    },
 		    {
+		   "name": "UK: BT Sport 3","image":"http://www.liveonlinetv247.info/images/btsporteurope.png",
+		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/188.ts","replay": true},{
+
 		    "name": "UK: BT Sports 1 HD",
           	   "image": "http://www.liveonlinetv247.info/images/btsport1.png",
           	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/267.ts",	   
@@ -983,7 +961,10 @@
           	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/266.ts",		   
                    "replay": true
 		    },
-		    {	
+		    {
+		   "name": "UK: BT Sport 3 HD","image":"http://www.liveonlinetv247.info/images/btsporteurope.png",
+		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/269.ts","replay": true},{
+
 		    "name": "BT Sport Extra 1",
           	   "image": "https://s1.postimg.org/gxthzwxdr/btsportextra.png",
           	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/187.ts",		   
@@ -1329,7 +1310,8 @@
 "name": "alkass 1 HD","image": "","url": "http://embratoria.com/embed/hls/alkass.php?s=QVpxMTR0MmZ0L0NYMD0q","isHost": true},{   
 "name": "alkass 2 HD","image": "","url": "http://embratoria.com/embed/hls/alkass.php?s=QVprYXNSRGtuYXZ3dz0q","isHost": true},{   
 "name": "alkass 3 HD","image": "","url": "http://embratoria.com/embed/hls/alkass.php?s=QVpqYUtKbzd0VCtrdz0q","isHost": true},{   
-"name": "alkass 4 HD","image": "","url": "http://embratoria.com/embed/hls/alkass.php?s=QVorMWlXWjk3R2Yxaz0q","isHost": true 
+"name": "alkass 4 HD","image": "","url": "http://embratoria.com/embed/hls/alkass.php?s=QVorMWlXWjk3R2Yxaz0q","isHost": true  	
+           
      }
             ]
         },
@@ -2403,6 +2385,498 @@
 "name": "YTV","image":"","url": "http://dns1.theplayersklub.host:2095/live/leetv/leetv1/768.ts","userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36"},{
 "name": "TelemundoFREE","image":"","url": "http://dns1.theplayersklub.host:2095/live/leetv/leetv1/615.ts","userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36"},{
 "name": "ESPN Deportes","image":"","url": "http://dns1.theplayersklub.host:2095/live/leetv/leetv1/823.ts","userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36"
+
+                 "name": "TRUYỀN HÌNH MỸ",
+                "image": "http://livestreamlinks.net/images/flags/Usa.png",
+               
+                "stations": [
+ 				  {
+"name": "NBCSN HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/562.ts","replay": true},{
+"name": "TSN 5*","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/309.ts","replay": true},{
+"name": "TSN 4 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/310.ts","replay": true},{
+"name": "TSN 3*","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/311.ts","replay": true},{
+"name": "TSN 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/312.ts","replay": true},{
+"name": "TSN 1*","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/313.ts","replay": true},{
+"name": "Sportsnet 360 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/314.ts","replay": true},{
+"name": "TBS HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/315.ts","replay": true},{
+"name": "SEC Network","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/316.ts","replay": true},{
+"name": "PAG HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/317.ts","replay": true},{
+"name": "Offical Olympic Channel","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/318.ts","replay": true},{
+"name": "NHL Network","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/319.ts","replay": true},{
+"name": "NFL Network 1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/165.ts","replay": true},{
+"name": "MSNBC HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/320.ts","replay": true},{
+"name": "MLB Network","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/321.ts","replay": true},{
+"name": "MBL HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/322.ts","replay": true},{
+"name": "FREE FORM HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/323.ts","replay": true},{
+"name": "Fox SPORTS 506 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/324.ts","replay": true},{
+"name": " FOX 43","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/325.ts","replay": true},{
+"name": " FIGHT SPORT","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/308.ts","replay": true},{
+"name": " ESPN 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/326.ts","replay": true},{
+"name": " CNN HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/327.ts","replay": true},{
+"name": "Fox Sports 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/328.ts","replay": true},{
+"name": "Fox Sports 1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/329.ts","replay": true},{
+"name": "ESPN","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/330.ts","replay": true},{
+"name": "Amazing Discoveries HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/331.ts","replay": true},{
+"name": "A&E HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/332.ts","replay": true},{
+"name": "NFL: 9","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/164.ts","replay": true},{
+"name": "NFL: 8","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/163.ts","replay": true},{
+"name": "NFL: 7","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/162.ts","replay": true},{
+"name": "NFL: 6","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/161.ts","replay": true},{
+"name": "NFL: 5","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/160.ts","replay": true},{
+"name": "NFL: 4","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/159.ts","replay": true},{
+"name": "NFL: 3","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/158.ts","replay": true},{
+"name": "NFL: 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/157.ts","replay": true},{
+"name": "NFL: 1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/156.ts","replay": true},{
+"name": " TNT HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/333.ts","replay": true},{
+"name": " SYFY HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/334.ts","replay": true},{
+"name": " NICKELODEN HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/335.ts","replay": true},{
+"name": " Network (US)","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/336.ts","replay": true},{
+"name": " NBC Golf","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/337.ts","replay": true},{
+"name": " Investigation Discovery","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/338.ts","replay": true},{
+"name": " HISTORY HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/339.ts","replay": true},{
+"name": " FOX NEWS HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/340.ts","replay": true},{
+"name": "NFL REDZONE SD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/155.ts","replay": true},{
+"name": "NFL Network 1080","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/154.ts","replay": true},{
+"name": "AFN SPORTS","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/667.ts","replay": true},{
+"name": "AFN SPORTS 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/668.ts","replay": true},{
+"name": "AFN SPORTS HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/669.ts","replay": true},{
+"name": "NBA SD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/636.ts","replay": true
+   }
+                
+    ]
+    },
+     
+    {
+     "name": "TRUYỀN HÌNH ANH",
+     "image": "http://livestreamlinks.net/images/flags/England.png",
+              
+     "stations": [
+        	  {
+
+"name": "Sky Sports Mix","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/271.ts","replay": true},{
+"name": "SKY SPORTS 5","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/174.ts","replay": true},{
+"name": "SKY SPORTS 4","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/175.ts","replay": true},{
+"name": "SKY SPORTS 3","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/176.ts","replay": true},{
+"name": "SKY SPORTS 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/177.ts","replay": true},{
+"name": "SKY SPORTS 1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/178.ts","replay": true},{
+"name": "Premier Sports HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/520.ts","replay": true},{
+"name": "Crime & Investigiation","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/270.ts","replay": true},{
+"name": "BT Sport 3 SD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/188.ts","replay": true},{
+"name": "BT Sport 3 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/269.ts","replay": true},{
+"name": "BT Sports 2 SD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/179.ts","replay": true},{
+"name": "BT Sports 1 SD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/180.ts","replay": true},{
+"name": "BT Sport Mosaic 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/181.ts","replay": true},{
+"name": "BT Sport Mosaic","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/182.ts","replay": true},{
+"name": "BT Sport Extra 5","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/183.ts","replay": true},{
+"name": "BT Sport Extra 4","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/184.ts","replay": true},{
+"name": "BT Sport Extra 3","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/185.ts","replay": true},{
+"name": "BT Sport Extra 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/186.ts","replay": true},{
+"name": "BT Sport Extra 1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/187.ts","replay": true},{
+"name": "BBC4/CBEEBIES","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/189.ts","replay": true},{
+"name": "BBC TWO HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/190.ts","replay": true},{
+"name": "At The Races","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/191.ts","replay": true},{
+"name": "Sky Sports 1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/254.ts","replay": true},{
+"name": "Sky Sport News","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/255.ts","replay": true},{
+"name": "Sky Sport 5 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/256.ts","replay": true},{
+"name": "Sky Sport 4 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/257.ts","replay": true},{
+"name": "Sky Sport 3 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/258.ts","replay": true},{
+"name": "Sky Sport 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/259.ts","replay": true},{
+"name": "Sky Movies Thriller","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/260.ts","replay": true},{
+"name": "Sky Movies Showcase","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/261.ts","replay": true},{
+"name": "Sky Movies Premiere","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/262.ts","replay": true},{
+"name": "Sky Movies Greats","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/263.ts","replay": true},{
+"name": "BT Sport Europe HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/264.ts","replay": true},{
+"name": "BT Sport ESPN","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/265.ts","replay": true},{
+"name": "BT Sport 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/266.ts","replay": true},{
+"name": "BT Sport 1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/267.ts","replay": true},{
+"name": "Boxnation","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/268.ts","replay": true},{
+"name": "Pick","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/521.ts","replay": true},{
+"name": "CBBC","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/522.ts","replay": true},{
+"name": "BBC Three HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/523.ts","replay": true},{
+"name": "BBC ONE HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/524.ts","replay": true},{
+"name": "Sky Sport F1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/664.ts","replay": true},{
+"name": "PREMIERE SPORT HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/680.ts","replay": true},{
+"name": "Racing UK","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/681.ts","replay": true
+
+   }
+                
+    ]
+    },
+     
+    {
+
+     "name": "TRUYỀN HÌNH PHÁP",
+     "image": "http://livestreamlinks.net/images/flags/France.png",
+              
+     "stations": [
+        	  {
+
+"name": "AB1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/641.ts","replay": true},{
+"name": "AB3","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/642.ts","replay": true},{
+"name": "ACTION","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/643.ts","replay": true},{
+"name": "beIN SPORTS 3HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/677.ts","replay": true},{
+"name": "beIN SPORTS1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/678.ts","replay": true},{
+"name": "beINSPORTS 2HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/679.ts","replay": true},{
+"name": "C8","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/638.ts","replay": true},{
+"name": "CHERIE 25 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/639.ts","replay": true},{
+"name": "CINE CLASSIC HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/625.ts","replay": true},{
+"name": "CINE EMOTION","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/626.ts","replay": true},{
+"name": "CINE EMOTION HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/627.ts","replay": true},{
+"name": "COMEDIE Plus","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/624.ts","replay": true},{
+"name": "PARIS PREMIERE HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/640.ts","replay": true},{
+"name": "France O  HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/67.ts","replay": true},{
+"name": "France 5 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/68.ts","replay": true},{
+"name": "France 4  HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/69.ts","replay": true},{
+"name": "FRANCE 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/70.ts","replay": true},{
+"name": "EUROSPORT2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/71.ts","replay": true},{
+"name": "Eurosport 2","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/72.ts","replay": true},{
+"name": "Eurosport 1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/73.ts","replay": true},{
+"name": "Equidia Live HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/75.ts","replay": true},{
+"name": "EQUIDIA live","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/74.ts","replay": true},{
+"name": "DISNEY CHANNEL","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/76.ts","replay": true},{
+"name": "DISCOVERY","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/77.ts","replay": true},{
+"name": "D8","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/78.ts","replay": true},{
+"name": "D17","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/79.ts","replay": true},{
+"name": "CSTAR HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/80.ts","replay": true
+
+   }
+                
+    ]
+    },
+     
+    {
+     "name": "TRUYỀN HÌNH TÂY BAN NHA",
+     "image": "http://livestreamlinks.net/images/flags/Spain.png",
+              
+     "stations": [
+        	  {
+
+"name": "VIAJAR HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/1.ts","replay": true},{
+"name": "TELEDEPORTE HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/2.ts","replay": true},{
+"name": "TELECINCO HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/3.ts","replay": true},{
+"name": "TCM HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/4.ts","replay": true},{
+"name": "NICK Jr","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/5.ts","replay": true},{
+"name": "NATIONAL GEOGRAPHIC HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/6.ts","replay": true},{
+"name": "NAT GEO WILD HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/7.ts","replay": true},{
+"name": "MEGA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/8.ts","replay": true},{
+"name": "LA SEXTA HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/9.ts","replay": true},{
+"name": "LA 1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/10.ts","replay": true},{
+"name": "HISTORIA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/12.ts","replay": true},{
+"name": "FOX LIFE HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/13.ts","replay": true},{
+"name": "FOX HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/14.ts","replay": true},{
+"name": "DISNEY XD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/15.ts","replay": true},{
+"name": "DISNEY JUNIOR","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/16.ts","replay": true},{
+"name": "DISNE CHANNEL HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/17.ts","replay": true},{
+"name": "DISCOVERY CI","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/18.ts","replay": true},{
+"name": "DISCOVERY CHANNEL HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/19.ts","replay": true},{
+"name": "CUATRO HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/20.ts","replay": true},{
+"name": "Canal  XTRA HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/21.ts","replay": true},{
+"name": "Canal  TOROS HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/22.ts","replay": true},{
+"name": "Canal  SERIES XTRA HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/23.ts","replay": true},{
+"name": "Canal  LIGA HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/24.ts","replay": true},{
+"name": "Canal  LIGA 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/25.ts","replay": true},{
+"name": "Canal  GOLF HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/26.ts","replay": true},{
+"name": "Canal  FUTBOL HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/27.ts","replay": true},{
+"name": "Canal  ESTRENOS HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/28.ts","replay": true},{
+"name": "Canal  DEPORTES HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/29.ts","replay": true},{
+"name": "Canal  DEPORTES 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/30.ts","replay": true},{
+"name": "Canal  DCINE HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/31.ts","replay": true},{
+"name": "Canal  COMEDIA HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/32.ts","replay": true},{
+"name": "CANAL  ACTION HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/33.ts","replay": true},{
+"name": "CALLE 13 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/34.ts","replay": true},{
+"name": "AXN WHITE HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/35.ts","replay": true},{
+"name": "ANTENA 3 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/36.ts","replay": true},{
+"name": " TNT","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/37.ts","replay": true},{
+"name": " SYFY","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/38.ts","replay": true},{
+"name": " PANDA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/39.ts","replay": true},{
+"name": " ODISEA HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/40.ts","replay": true},{
+"name": " NOVA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/41.ts","replay": true},{
+"name": " NICKELODEON HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/42.ts","replay": true},{
+"name": " NEOX","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/43.ts","replay": true},{
+"name": " La Liga BAR HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/44.ts","replay": true},{
+"name": " LA 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/45.ts","replay": true},{
+"name": " IBERALIA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/46.ts","replay": true},{
+"name": " HOLLYWOOD HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/11.ts","replay": true},{
+"name": " GOL Tv","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/47.ts","replay": true},{
+"name": " FDF","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/48.ts","replay": true},{
+"name": " DIVINITY","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/49.ts","replay": true},{
+"name": " COSMO HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/50.ts","replay": true},{
+"name": " Clan Tve","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/51.ts","replay": true},{
+"name": " Caza y pesca","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/52.ts","replay": true},{
+"name": " Canal SERIES HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/53.ts","replay": true},{
+"name": " CANAL DECASA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/54.ts","replay": true},{
+"name": " CANAL COCINA","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/55.ts","replay": true},{
+"name": " Boing","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/56.ts","replay": true},{
+"name": " Bein Sport HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/57.ts","replay": true},{
+"name": " Bein Liga HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/58.ts","replay": true},{
+"name": " AXN HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/59.ts","replay": true},{
+"name": " AMC","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/60.ts","replay": true},{
+"name": " A&E","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/61.ts","replay": true},{
+"name": " #0 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/62.ts","replay": true},{
+"name": "ES : MOVISTAR MOTOGP","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/63.ts","replay": true},{
+"name": "ES : movistar Futbol","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/64.ts","replay": true},{
+"name": "ES : MOVISTAR FORMULA 1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/65.ts","replay": true},{
+"name": "ES : MOVISTAR F1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/66.ts","replay": true
+
+   }
+                
+    ]
+    },
+     
+    {
+
+     "name": "TRUYỀN HÌNH BỒ ĐÀO NHA",
+     "image": "http://livestreamlinks.net/images/flags/Portugal.png",
+              
+     "stations": [
+        	  {
+
+"name": "SPORT TV 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/531.ts","replay": true},{
+"name": "SPORT TV 1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/532.ts","replay": true},{
+"name": " VH1 CLASSIC","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/533.ts","replay": true},{
+"name": " VH1","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/534.ts","replay": true},{
+"name": " TVI Reality (A Quinta)","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/535.ts","replay": true},{
+"name": " TVI REALITY","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/536.ts","replay": true},{
+"name": " TVI 24","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/537.ts","replay": true},{
+"name": " TVI","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/538.ts","replay": true},{
+"name": " TVCseries","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/539.ts","replay": true},{
+"name": " TVC SERIES HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/540.ts","replay": true},{
+"name": " TV RECORD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/541.ts","replay": true},{
+"name": " TV Globo Premium","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/542.ts","replay": true},{
+"name": " TV GLOBO","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/543.ts","replay": true},{
+"name": " TV CINE 4","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/544.ts","replay": true},{
+"name": " TV CINE 3 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/545.ts","replay": true},{
+"name": " TV CINE 2  HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/546.ts","replay": true},{
+"name": " TV CINE 1  HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/547.ts","replay": true},{
+"name": " TOUROS TV","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/548.ts","replay": true},{
+"name": " TLC","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/549.ts","replay": true},{
+"name": " SYFY","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/550.ts","replay": true},{
+"name": " SPORTING TV","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/551.ts","replay": true},{
+"name": " SPORT TV 5HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/552.ts","replay": true},{
+"name": " SPORT TV 5","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/553.ts","replay": true},{
+"name": " SPORT TV 4HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/554.ts","replay": true},{
+"name": " SPORT TV 4","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/555.ts","replay": true},{
+"name": " SPORT TV 3 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/556.ts","replay": true},{
+"name": " SPORT TV 2 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/557.ts","replay": true},{
+"name": " SPORT TV 1 HD","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/558.ts","replay": true},{
+"name": " SIC RADICAL","image":"",
+"url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/559.ts","replay": true
+
     }
                 
     ]
