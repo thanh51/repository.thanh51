@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[B][COLOR lime]YouTube[/B][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/list/</jsonrpc>
+<thumbnail>http://ajbuilds.uk/art/660b4b8cb1d2131398912ee6cd46bdecyou-1920x1080-400x400.png</thumbnail>
+<fanart>http://ajbuilds.uk/art/falconblue.jpg</fanart>
+</item>
+///////////////////
+<item>
 <title>NHAC TRU TINH </title>
 <link>$doregex[makelist]</link>
 <regex>
