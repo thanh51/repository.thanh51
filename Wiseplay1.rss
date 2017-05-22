@@ -297,448 +297,298 @@
             "name": "PAC 12 WASHINGTON (EN)",
             "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg",
             "url": "If41lhjMusfZzeHMJPlr+j+SdYFlhbP0/IM3RVKjftG5QxoV8YLM0ZJXxd+nLaliQOIY5f8pxmg2Kr7IiG08Gg=="
-        }, {
-		    "name": "USA: NBCSN HD",
+                },
+		{
+		   "name": "NBCSN",
           	   "image": "http://www.liveonlinetv247.info/images/nbcsn.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/562.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "USA:TSN 1",
-          	   "image": "http://www.liveonlinetv247.info/images/tsn.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/313.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "USA:TSN 4 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/tsn.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/310.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "USA:Fox Sports 1 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/nbcsn.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Sky Sport 1",
+          	   "image": "http://www.liveonlinetv247.info/images/skysports1.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Sky Sport 2",
+          	   "image": "http://www.liveonlinetv247.info/images/skysports2.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Sky Sport 3",
+          	   "image": "http://www.liveonlinetv247.info/images/skysports3.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		  "name": "Sky Sport 4",
+          	   "image": "http://www.liveonlinetv247.info/images/skysports4.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Sky Sport 5",
+          	   "image": "http://www.liveonlinetv247.info/images/skysports5.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Sky Sport F1 HD",
+          	   "image": "http://www.liveonlinetv247.info/images/skysportsf1.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysportsf1.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Sky Sports News",
+          	   "image": "http://www.liveonlinetv247.info/images/skysportsnews.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysportsnews.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "BT Sport 1",
+          	   "image": "http://www.liveonlinetv247.info/images/btsport1.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/btsport1.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "BT Sport 2",
+          	   "image": "http://www.liveonlinetv247.info/images/btsport2.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/btsport2.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "BT Sport Euro",
+          	   "image": "http://www.liveonlinetv247.info/images/btsporteurope.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "BT Sport ESPN",
+          	   "image": "http://www.liveonlinetv247.info/images/btsportespn.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/btsportespn.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+                  "name": "ESPN",
+          	   "image": "http://www.liveonlinetv247.info/images/espn.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/espn.php?width=650&height=480",
+          	   "isHost": true
+		
+                },
+		{
+		   "name": "CANAL FUTBOL",
+          	   "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/canal%2Bfutbol.php?width=650&height=480",
+          	   "isHost": true
+		
+                },
+		{
+		   "name": "CANAL LIGA",
+          	   "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/canal%2Bliga.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "CANAL SPORT",
+          	   "image": "https://s28.postimg.org/k2lphkx4d/canalsport.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/canal%2Bsport.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Fox Sport 1",
           	   "image": "http://www.liveonlinetv247.info/images/foxsports1.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/329.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "USA:Fox Sports 2 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Fox Sport 2",
           	   "image": "http://www.liveonlinetv247.info/images/foxsports2.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/328.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: Premier Sports HD",
-          	   "image": "http://www.liveonlinetv247.info/images/premiersports.png",
-	           "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/520.ts",		   
-                   "replay": true
-		    },
-		    {
-		   "name": "Sky Sports Mix","image":"https://s17.postimg.org/4slwaohsv/skysportmix.jpg",
-		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/271.ts","replay": true},{	
-
-		    "name": "UK: SKY SPORTS 1",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports1.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/178.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: SKY SPORTS 2",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports2.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/177.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "UK: SKY SPORTS 3",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports3.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/176.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: SKY SPORTS 4",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports4.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/175.ts",	   
-                   "replay": true
-		    },
-		    {	
-		    "name": "UK: SKY SPORTS 5",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports5.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/174.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: SKY Sports 1 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports1.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/254.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: SKY Sports 2 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports2.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/259.ts",		   
-                   "replay": true
-		    },
-		    {		
-		    "name": "UK: SKY Sports 3 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports3.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/258.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: SKY Sports 4 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports4.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/257.ts",		   
-                   "replay": true
-		    },
-		    {		
-		    "name": "UK: SKY Sports 5 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/skysports5.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/256.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "UK: BT Sports 1",
-          	   "image": "http://www.liveonlinetv247.info/images/btsport1.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/180.ts",		   
-                   "replay": true
-		    },
-		    {		
-		    "name": "UK: BT Sports 2",
-          	   "image": "http://www.liveonlinetv247.info/images/btsport2.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/179.ts",		   
-                   "replay": true
-		    },
-		    {
-		   "name": "UK: BT Sport 3","image":"http://www.liveonlinetv247.info/images/btsporteurope.png",
-		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/188.ts",
-		   "replay": true
-		    },
-		    {
-		    "name": "UK: BT Sports 1 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/btsport1.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/267.ts",	   
-                   "replay": true
-		    },
-		    {	
-		    "name": "UK: BT Sports 2 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/btsport2.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/266.ts",		   
-                   "replay": true
-		    },
-		    {
-		   "name": "UK: BT Sport 3 HD","image":"http://www.liveonlinetv247.info/images/btsporteurope.png",
-		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/269.ts","replay": true},{
-
-		    "name": "BT Sport Extra 1",
-          	   "image": "https://s1.postimg.org/gxthzwxdr/btsportextra.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/187.ts",		   
-                   "replay": true 
-		    },
-		    {	
-		    "name": "BT Sport Extra 2",
-          	   "image": "https://s1.postimg.org/gxthzwxdr/btsportextra.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/186.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "BT Sport Extra 3",
-          	   "image": "https://s1.postimg.org/gxthzwxdr/btsportextra.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/185.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "BT Sport Extra 4",
-          	   "image": "https://s1.postimg.org/gxthzwxdr/btsportextra.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/184.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "BT Sport Extra 5",
-          	   "image": "https://s1.postimg.org/gxthzwxdr/btsportextra.png",
-	           "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/183.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "ES:Canal  LIGA HD",
-          	   "image": "http://www.liveonlinetv247.info/images/canal+liga.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/24.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "ES:Canal  LIGA 2 HD",
-          	   "image": "http://www.liveonlinetv247.info/images/canal+liga.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/25.ts",		   
-                   "replay": true
-		   },
-		    {	
-		    "name": "ES:La Liga BAR HD",
-          	   "image": "http://www.liveonlinetv247.info/images/canal+liga.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/44.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "ES:Canal  FUTBOL HD",
-          	   "image": "http://www.liveonlinetv247.info/images/canal+futbol.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/27.ts",		   
-                   "replay": true
-		   },
-		    {	
-		    "name": "ES: movistar Futbol",
-          	   "image": "http://vignette1.wikia.nocookie.net/logopedia/images/0/05/MovistarFutbol.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/64.ts",	   
-                   "replay": true
-		    },
-		    {	
-		    "name": "ES: Bein Sport HD",
-          	   "image": "https://s21.postimg.org/k2pt4fr/beinsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/57.ts",		   
-                   "replay": true
-		   },
-		    {	
-		    "name": "ES: Bein Liga HD",
-          	   "image": "https://s14.postimg.org/47ht2f2wh/beinliga.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/58.ts",		   
-                   "replay": true
-		    },
-		    {	
- 		    "name": "*VIP*: Skynet Sports HD",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/293.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "SKYNET SPORT 1",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/307.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "SKYNET SPORT 2",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/306.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "SKYNET SPORT 3",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/305.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "SKYNET SPORT 4",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/304.ts",
-                   "replay": true
-		    },
-		    {	
-		    "name": "SKYNET SPORT 5",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/303.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "SKYNET SPORT 6",
-          	   "image": "https://s1.postimg.org/4m29vi1hb/skynet.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/302.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "VIP VIASAT: TV2 Sport Premium 1",
-          	   "image": "https://s8.postimg.org/halg0g66d/viasatsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/301.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "VIP VIASAT: TV2 Sport Premium 2",
-          	   "image": "https://s8.postimg.org/halg0g66d/viasatsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/300.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "VIP VIASAT: TV2 Sport Premium 3",
-          	   "image": "https://s8.postimg.org/halg0g66d/viasatsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/209.ts",		   
-                   "replay": true
-		   },
-		    {	
-		    "name": "NL: Fox Sports 1",
-          	   "image": "https://s24.postimg.org/5ndrqs41x/foxsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/350.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "NL: Fox Sports 2",
-          	   "image": "https://s24.postimg.org/5ndrqs41x/foxsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/349.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "NL: Fox Sports 3",
-          	   "image": "https://s24.postimg.org/5ndrqs41x/foxsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/348.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "NL: Fox Sports 4",
-          	   "image": "https://s24.postimg.org/5ndrqs41x/foxsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/347.ts",		   
-                   "replay": true
-		   },
-		    {	
-		    "name": "NL: Fox Sports 5",
-          	   "image": "https://s24.postimg.org/5ndrqs41x/foxsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/346.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "NL: Fox Sports 6",
-          	   "image": "https://s24.postimg.org/5ndrqs41x/foxsport.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/345.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "DE: Bundesliga 1",
-          	   "image": "https://s27.postimg.org/ht0jdx243/bundesliga.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/471.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "DE: Sport1  HD",
-          	   "image": "https://s3.postimg.org/59ixmzrer/deskysport1.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/498.ts",		   
-                   "replay": true
-		    },
-		    {
-		   "name": "France:beIN SPORTS1 HD","image":"http://www.liveonlinetv247.info/images/beinsports1.png",
-		   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/678.ts","replay": true},{
-		   "name": "France:beINSPORTS 2HD","image":"http://www.liveonlinetv247.info/images/beinsports2.png",
-		    "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/679.ts","replay": true},{
-		    "name": "France:beIN SPORTS 3HD","image":"http://www.liveonlinetv247.info/images/beinsports3.png",
-		    "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/677.ts","replay": true},{	
-		    "name": "AR: AD Sports 3 HD",
-          	   "image": "http://i.imgur.com/lJ5C1yQ.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/383.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR: AD Sports 4 HD",
-          	   "image": "http://i.imgur.com/kpTqGy9.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/382.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR: AD Sports 5 HD",
-          	   "image": "http://i.imgur.com/6k6sPkh.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/381.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 1 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "Bein Sports News",
+          	   "image": "http://www.liveonlinetv247.info/images/beinsportsnews.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsportsnews.php?width=650&height=480",
+          	   "isHost": true
+                
+          	},
+		{
+		"name": "Bein Sports 1",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports1.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/401.ts",	   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 2 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480",
+          	   "isHost": true
+                
+          	},
+		{
+		    "name": "Bein Sports 2",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports2.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/392.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 3 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{ 
+		   "name": "Bein Sports 3",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports3.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/391.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 4 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Bein Sports 4",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports4.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/390.ts",	   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 5 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Bein Sports 5",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports5.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/389.ts",
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 6 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		  "name": "Bein Sports 6",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports6.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/388.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 7 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Bein Sports 7",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports7.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/387.ts",
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 8 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		    "name": "Bein Sports 8",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports8.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/386.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 9 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Bein Sports 9",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports9.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/385.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 10 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480",
+          	   "isHost": true
+                
+                },
+		{
+		   "name": "Bein Sports 10",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports10.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/400.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 11 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Bein Sports 11(ENG)",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports11.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/399.ts",
-		   "replay": true
-		    },
-		    {	
-		    "name": "AR : beIN Sports 12 HD",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "Bein Sports 12(ENG)",
           	   "image": "http://www.liveonlinetv247.info/images/beinsports12.png",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/398.ts",		   
-                   "replay": true
-		    },
-		    {		        
-		   "name": "UKR:FUTBOL 1",
-          	   "image": "https://s11.postimg.org/x1gg1t0vn/bongda.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/584.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "UKR:FUTBOL 1 HD",
-          	   "image": "https://s11.postimg.org/x1gg1t0vn/bongda.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/583.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "UKR:FUTBOL 2",
-          	   "image": "https://s11.postimg.org/x1gg1t0vn/bongda.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/582.ts",		   
-                   "replay": true
-		    },
-		    {
-		    "name": "RUS: Match Futbol 1 HD",
-          	   "image": "https://s16.postimg.org/ywvm0eqbp/matchfutbol1hd.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/235.ts",		   
-                   "replay": true	
-		    },
-		    {	
-		    "name": "RUS: Match Futbol 2 HD",
-          	   "image": "https://s4.postimg.org/i2xv430il/matchfutbol2.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/234.ts",		   
-                   "replay": true
-		    },
-		    {	
-		    "name": "RUS: Match Futbol 3 HD",
-          	   "image": "https://s32.postimg.org/ldsqy0l9x/matchfutbol3.jpg",
-          	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/233.ts",		   
-                   "replay": true
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Bein Sports 13(ENG)",
+          	   "image": "http://www.liveonlinetv247.info/images/beinsports13.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		    "name": "Bein Sports 1 France",
+          	   "image": "http://i.imgur.com/0vGYvd9.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "Bein Sports 2 France",
+          	   "image": "http://i.imgur.com/0UtbhZH.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Bein Sports 3 France",
+          	   "image": "http://i.imgur.com/QusZf2J.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		    "name": "Sky Sport 1 Italia",
+          	   "image": "http://www.liveonlinetv247.info/images/skysport1italia.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysport1italia.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "Sky Sport 2 Italia",
+          	   "image": "http://www.liveonlinetv247.info/images/skysport2italia.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysport2italia.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Sky Sport 3 Italia",
+          	   "image": "http://www.liveonlinetv247.info/images/skysport3italia.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysport3italia.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		    "name": "Sky Sport 24 Italia",
+          	   "image": "http://www.liveonlinetv247.info/images/skysport24italia.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/skysport24italia.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "Setanta sport",
+          	   "image": "http://www.liveonlinetv247.info/images/setantasports.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/setantasports.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Star Sports",
+          	   "image": "http://www.liveonlinetv247.info/images/starsports.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/starsports.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "SPORT TV 1",
+          	   "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/sporttv1.php?width=650&height=480",
+          	   "isHost": true
+        	},
+		{ 
+		   "name": "Sport TV 2",
+          	   "image": "https://s29.postimg.org/u0eibx5nb/sporttv2.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		  "name": "Sport TV 3",
+          	   "image": "https://s30.postimg.org/gnij95dkh/sporttv3.jpg",
+          	   "url": "http://www.liveonlinetv247.info/embed/sporttv3.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{
+		   "name": "Sport TV 4",
+          	   "image": "https://s30.postimg.org/jjfdqqhap/sporttv4.jpg",
+          	   "url": "http://www.liveonlinetv247.info/embed/sporttv4.php?width=650&height=480",
+          	   "isHost": true
+                },
+		{	
+		     "name": "Sport TV 5",
+          	   "image": "https://s30.postimg.org/3srl6lx6p/sporttv5.png",
+          	   "url": "http://www.liveonlinetv247.info/embed/sporttv5.php?width=650&height=480",
+          	   "isHost": true
 
         }
                 
