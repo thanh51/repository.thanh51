@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP 2 - All In One (update ngày 22/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP 2 - All In One (update 07h30' ngày 22/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/BJdbaH53e.w3u",
    "groups": [
@@ -230,6 +230,82 @@
                
                    "stations": [
  		   {
+                   "name": "China:Champions League",
+          	   "image": "https://s23.postimg.org/3z1fchvmj/champions.jpg",
+          	   "url": "http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1"
+               
+            	    },
+		    {	
+		   "name": "China:Bóng rổ",
+          	   "image": "https://s28.postimg.org/oq0fmsb0t/bongro.jpg",
+          	   "url": "http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1"
+                    },
+		    {
+
+		    "name": "China:Sports+",
+          	   "image": "https://s27.postimg.org/om0fk5x5v/sport.png",
+          	   "url": "http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1"
+	   	},
+		{
+		  "name": "SUPER SPORT 1",
+          	   "image": "https://s17.postimg.org/40k6uwysv/supersports.png",
+          	   "url": "http://81.7.13.162/hls/ss1/index.m3u8"            
+          	},
+		{
+		   "name": "SUPER SPORT 2",
+          	   "image": "https://s17.postimg.org/40k6uwysv/supersports.png",
+          	   "url": "http://81.7.13.162/hls/ss2/index.m3u8" 
+                },
+		{
+		   "name": "SUPER SPORT 3",
+          	   "image": "https://s17.postimg.org/40k6uwysv/supersports.png",
+          	   "url": "http://81.7.13.162/hls/ss3/index.m3u8"
+          	},
+		{
+		   "name": "SUPER SPORT 4",
+          	   "image": "https://s17.postimg.org/40k6uwysv/supersports.png",
+          	   "url": "http://81.7.13.162/hls/ss4/index.m3u8"
+                },
+		{
+		  "name": "AD SPORT 1 HD",
+          	   "image": "http://i.imgur.com/NSQgKH4.png",
+          	   "url": "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8"
+          	},
+		{
+		   "name": "AD SPORT 2 HD",
+          	   "image": "http://i.imgur.com/kiRDDPC.png",
+          	   "url": "http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8"
+                },
+		{
+
+            "name": "PAC 12 ARIZONA (EN)",
+            "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg",
+            "url": "Tl83/0qcAx7dK9ZqQif4uiTR7xVUYkh1r68k4ZVdzquWL0QX54it97sZdeGtNUyzos5QClJ+8YrBx3XlV0Oflw=="
+        }, {
+            "name": "PAC 12 BY AREA (EN)",
+            "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg",
+            "url": "uWxJycGdbosaTUvHG1IU0YPOYmBCQJpWB4pDykWOUBdpi6pQOvTz4p1HpsHdPXKxwpT91bFKmNpbWiUHHoDATg=="
+        }, {
+            "name": "PAC 12 LOS ANGELES (EN)",
+            "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg",
+            "url": "fJCNOLGv1dnNWRQmCFagoMTOUN3EzMw267c/bQt1Vwy/OGQ20smHfSN1TG7C8tIIFEf3E2XgYrqnolVrdSWMWw=="
+        }, {
+            "name": "PAC 12 MOUNTAIN (EN)",
+            "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg",
+            "url": "Gud1EqGO0YXLQVL7fvJi37UKJY3puT2TF3yYSE5ASjP0Poak+brtHyrMsDuAApq5evUCsCAzue7Kr+7FJHcbiQ=="
+        }, {
+            "name": "PAC 12 NETWORK (EN)",
+            "image": "http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg",
+            "url": "uRPZ7OJjdV19KNKPRkC7k3r7pWHWCkq5+9FbUxhBDhyZDs7N4OriwyY1i06Fl+/Y2lYGV6nevVU2eRorKTnnoA=="
+        }, {
+            "name": "PAC 12 OREGON (EN)",
+            "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg",
+            "url": "N0Ve0yCIOl1DRXFTvOGhrZ+VtPwOLVxBxAF2QXiv4zlivrSQNHaGEoWkVPXwb3opzEH77agPIXpmBJ/i5PuVsw=="
+        }, {
+            "name": "PAC 12 WASHINGTON (EN)",
+            "image": "http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg",
+            "url": "If41lhjMusfZzeHMJPlr+j+SdYFlhbP0/IM3RVKjftG5QxoV8YLM0ZJXxd+nLaliQOIY5f8pxmg2Kr7IiG08Gg=="
+        }, {
 		    "name": "USA: NBCSN HD",
           	   "image": "http://www.liveonlinetv247.info/images/nbcsn.png",
           	   "url": "http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/562.ts",		   
