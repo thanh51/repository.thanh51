@@ -7,12 +7,14 @@ http://
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://118.107.68.10:1935/live/_definst_/smil:VTC3HD_15032017.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s1
+http://www.lineduball.com/ch1/hls-live/channel1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s2
+http://ballsod.live/ch1/hls-live/channel1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
-http://46.105.161.243:8080/lig
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
@@ -165,7 +167,6 @@ http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|Use
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
 rtmp://vf10.aditmedia.net/ingestx/ivn_000105
@@ -435,58 +436,4 @@ http://live.gslb.letv.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=liv
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Brits + Hits
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Dance/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Hip-Hop And R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,R&B Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Today’s Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Kidz Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://imgur.com/y1YCl0M.png" ,MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8
-
 
