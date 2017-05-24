@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 17h00' ngày 23/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 17h30' ngày 24/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/417_l9uNz.w3u",
    "groups": [
@@ -10,21 +10,6 @@
                 "stations": [
  				  {
 
-			"name": "MEXICO-GERMANY (18:00 23/05/17) - AV8",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3"
-		        },
-		        {
-			"name": "MEXICO-GERMANY (18:00 23/05/17) - AV9",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3"
-		        },
-		        {
-			"name": "SOUTH AFRICA-ITALY (15:00 24/05/17) - AV7",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://c4fae9f2d3b2299de258e9f2f4fbc45e3fcefda0"
-		        },
-		        {
 			"name": "COSTA RICA-PORTUGAL (18:00 24/05/17) - AV8",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3"
@@ -299,6 +284,34 @@
                
                    "stations": [
  		   {
+		    "name": "Thai:Sport s1",
+		    "url": "http://www.lineduball.com/ch1/hls-live/channel1.m3u8"
+		    },
+		    {	
+		    "name": "Thai:Sport s2",
+		    "url": "http://www.lineduball.com/ch2/hls-live/channel2.m3u8"
+		    },
+		    {	
+		    "name": "Thai:Sport s3",
+		    "url": "http://www.lineduball.com/ch3/hls-live/channel3.m3u8"
+		    },
+		    {	
+		    "name": "Thai:Sport s4",
+		    "url": "http://www.lineduball.com/ch4/hls-live/channel4.m3u8"
+		    },
+		    {	
+		    "name": "Thai:Sport s5",
+		    "url": "http://www.lineduball.com/ch5/hls-live/channel5.m3u8"
+		    },
+		    {	
+		    "name": "EUROSPORTS (Eng)", "image":"https://s27.postimg.org/f1g5yfew3/eurosport.png",
+		    "url": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8"
+		    },
+		    {	
+		    "name": "EUROSPORTS (France)",  "image":"https://s27.postimg.org/f1g5yfew3/eurosport.png",
+		    "url": "http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8"
+		    },
+		    {	
                    "name": "China:Champions League",
           	   "image": "https://s23.postimg.org/3z1fchvmj/champions.jpg",
           	   "url": "http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1"
@@ -1353,13 +1366,13 @@
                
                    "stations": [
  						{
-		   "name": "VTV 1 s1", "image": "http://i.imgur.com/JW8VXef.png","url": "http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8"},{
-		   "name": "VTV1 s2",
+
+		   "name": "VTV1 s1",
           	   "image": "http://i.imgur.com/JW8VXef.png",
           	   "url": "http://sv.tivi3g.com/stream-vtv/vtv1.m3u8"
 	            },
 		    {
-		   "name": "VTV1 s3",
+		   "name": "VTV1 s2",
           	   "image": "http://i.imgur.com/JW8VXef.png",
           	   "url": "http://123.30.185.126/hls/vtv1.m3u8"
 	            },
@@ -1374,13 +1387,12 @@
           	   "url": "http://123.30.185.126/hls/vtv2.m3u8"
 	            },
 		    {
-		   "name": "VTV3 s1", "image": "http://i.imgur.com/spL8IHO.png","url": "http://113.160.49.39/lives/origin04/v3sd.isml/v3sd.m3u8"},{
-		   "name": "VTV3 s2",
+		   "name": "VTV3 s1",
           	   "image": "http://i.imgur.com/spL8IHO.png",
           	   "url": "http://sv.tivi3g.com/stream-vtv/vtv3.m3u8"
 	            },
 		    {
-		   "name": "VTV3 s3",
+		   "name": "VTV3 s2",
           	   "image": "http://i.imgur.com/spL8IHO.png",
           	   "url": "http://123.30.185.126/hls/vtv3.m3u8"
 	            },
@@ -1410,6 +1422,8 @@
 		    "url": "http://123.30.185.126/hls/antv.m3u8"},{
 		    "name": "TTXVN","image": "http://103.56.158.185/tv_icon/ttxvn.png",
 		    "url": "http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8"},{
+		   "name": "VOV","image": "",
+          	   "url": "http://123.30.185.126/hls/vov.m3u8"},{ 	
  		    "name": "HTV 7", "image": "https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png","url": "http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8"},{
 		    "name": "HTV 9", "image": "https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png","url": "http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8"},{
 		   "name": "VTC1",
@@ -1417,8 +1431,7 @@
           	   "url": "http://123.30.185.126/hls/vtc1.m3u8"
 		    },
 		    { 
-		   "name": "VTC1 HD s1", "image": "http://i.imgur.com/HC5iUuK.png","url": "http://118.107.68.10:1935/live/smil:VTC1HD_15032017.smil/playlist.m3u8"},{
-		   "name": "VTC1 HD s2",
+		   "name": "VTC1 HD",
           	   "image": "http://i.imgur.com/HC5iUuK.png",
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8"
 		    },
@@ -1453,9 +1466,7 @@
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8"
 		    },
 		    { 
-		    "name": "VTC7 s1", "image": "http://i.imgur.com/ZfjtPa2.png","url": "http://113.160.49.39/lives/origin04/vtc7sd.isml/vtc7sd.m3u8"},{
-		    "name": "VTC7 s2",
-          	   "image": "http://i.imgur.com/ZfjtPa2.png",
+		    "name": "VTC7","image": "http://i.imgur.com/ZfjtPa2.png",          	   
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8"
 		    },
 		    { 
@@ -1464,14 +1475,12 @@
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8"
 	            },
 		    {
-		    "name": "VTC9 s1", "image": "http://i.imgur.com/5SoblfV.png","url": "http://113.160.49.39/lives/origin04/vtc9sd.isml/vtc9sd.m3u8"},{
-		    "name": "VTC9 s2",
+		    "name": "VTC9",
           	   "image": "http://i.imgur.com/5SoblfV.png",
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8"
 	            },
 		    {
-		   "name": "VTC10 s1", "image": "http://103.56.158.185/tv_icon/vtc10.png","url": "http://118.107.71.15:1935/live/_definst_/smil:VTC10/VTC10_live.smil/playlist.m3u8"},{
-		    "name": "VTC10 s2",
+		    "name": "VTC10",
           	   "image": "http://103.56.158.185/tv_icon/vtc10.png",
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8"
 	            },
