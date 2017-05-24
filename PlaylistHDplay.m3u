@@ -13,6 +13,22 @@ http://www.youtube.com
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
 http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",BT Sport 1
+http://127.0.0.1:6878/ace/getstream?id=e502c197dde3921551957ef2ec08fc6bbdc663ae&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",BT Sport 2
+http://127.0.0.1:6878/ace/getstream?id=04b38c71065be18d799edf8c37d63e738030b84d&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsportespn.png",BT Sport ESPN
+http://127.0.0.1:6878/ace/getstream?id=f4e2ade22f407fe567728923cbbe1ccb5b43a9df&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",Sky Sports 2
+http://127.0.0.1:6878/ace/getstream?id=6b2fb9a9e67aaabd63004059147dfdc46e882aba&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",Sky Sports 3
+http://127.0.0.1:6878/ace/getstream?id=4dbce55abecd154ff71b3477a332bd63611309e5&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",Sky Sports 4
+http://127.0.0.1:6878/ace/getstream?id=969a42388e101e6c6d9574a311e4b387a6ff1413&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sport 1 LT
+http://127.0.0.1:6878/ace/getstream?id=0b48bf1261368b82637d8a26eb4457d54c80f3e1&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sport 5+ Live HD
+http://127.0.0.1:6878/ace/getstream?id=9e0a489436b0859e20098fc3f81e07abb4c5a612&.mp4
 #EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s1
 http://www.lineduball.com/ch1/hls-live/channel1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s2
