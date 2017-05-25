@@ -22,16 +22,85 @@
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
-<title>VTV1</title>
+<title>VTV1 s1</title>
 <sportsdevil>http://m.tivi12h.net/vtv1.php</sportsdevil><referer>no</referer>
+<thumbnail>http://i.imgur.com/JW8VXef.png</thumbnail>
+</item>
+<item>
+<title>VTV1 s2</title>
+<link>http://sv.tivi3g.com/stream-vtv/vtv1.m3u8</link>
+<thumbnail>http://i.imgur.com/JW8VXef.png</thumbnail>
+</item>
+<item>
+<title>VTV1 s3</title>
+<link>http://123.30.185.126/hls/vtv1.m3u8</link>
+<thumbnail>http://i.imgur.com/JW8VXef.png</thumbnail>
+</item>
+<item>
+<title>VTV2 s1</title>
+<link>http://sv.tivi3g.com/stream-vtv/vtv2.m3u8</link>
+<thumbnail>http://i.imgur.com/RwwN9B3.png</thumbnail>
+</item>
+<item>
+<title>VTV2 s2</title>
+<link>http://123.30.185.126/hls/vtv2.m3u8</link>
+<thumbnail>http://i.imgur.com/RwwN9B3.png</thumbnail>
+</item>
+<item>
+<title>VTV3 s1</title>
+<sportsdevil>http://m.tivi12h.net/vtv3.php</sportsdevil><referer>no</referer>
+<thumbnail>http://i.imgur.com/spL8IHO.png</thumbnail>
+</item>
+<item>
+<title>VTV3 s2</title>
+<link>http://sv.tivi3g.com/stream-vtv/vtv3.m3u8</link>
+<thumbnail>http://i.imgur.com/spL8IHO.png</thumbnail>
+</item>
+<item>
+<title>VTV3 s3</title>
+<link>http://123.30.185.126/hls/vtv3.m3u8</link>
+<thumbnail>http://i.imgur.com/spL8IHO.png</thumbnail>
+</item>
+<item>
+<title>VTV6</title>
+<link>http://sv.tivi3g.com/stream-vtv/vtv6.m3u8</link>
+<thumbnail>http://i.imgur.com/keIENsc.png</thumbnail>
+</item>
+<item>
+<title>VTV8 s1</title>
+<link>http://sv.tivi3g.com/stream-vtv/vtv8.m3u8</link>
+<thumbnail>http://103.56.158.185/tv_icon/vtv8.png</thumbnail>
+</item>
+<item>
+<title>VTV8 s2</title>
+<link>http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8</link>
+<thumbnail>http://103.56.158.185/tv_icon/vtv8.png</thumbnail>
+</item>
+<item>
+<title>VTV9</title>
+<link>http://sv.tivi3g.com/stream-vtv/vtv9.m3u8</link>
+<thumbnail>http://103.56.158.185/tv_icon/vtv9.png</thumbnail>
+</item>
+<item>
+<title>QPVN</title>
+<link>rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p</link>
+<thumbnail>http://103.56.158.185/tv_icon/quoc-phong-vn.png</thumbnail>
+</item>
+<item>
+<title>ANTV</title>
+<link>http://123.30.185.126/hls/antv.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png</thumbnail>
+</item>
+<item>
+<title>VOV</title>
+<link>http://123.30.185.126/hls/vov.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>VTV3</title>
-<sportsdevil>http://m.tivi12h.net/vtv3.php</sportsdevil><referer>no</referer>
-<thumbnail></thumbnail>
+<title>TTXVN</title>
+<link>http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>http://103.56.158.185/tv_icon/ttxvn.png</thumbnail>
 </item>
 <item>
 <title>E CHANNEL</title>
@@ -39,21 +108,125 @@
 <thumbnail>http://xbmc.itvplus.net/LOGO/VTVCAB/CAB5.png</thumbnail>
 </item>
 <item>
-<title>VTC2</title>
+<title>VTC1</title>
+<link>http://123.30.185.126/hls/vtc1.m3u8</link>
+<thumbnail>http://i.imgur.com/VJ8DiUW.png</thumbnail>
+</item>
+<item>
+<title>VTC1 HD</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8</link>
+<thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail>
+</item>
+<item>
+<title>VTC2 s1</title>
 <sportsdevil>http://m.tivi12h.net/vtc2.php</sportsdevil><referer>no</referer>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/2MwvQXo.png</thumbnail>
 </item>
 <item>
-<title>VTC7</title>
+<title>VTC2 s2</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/2MwvQXo.png</thumbnail>
+</item>
+<item>
+<title>VTC3</title>
+<link>http://123.30.185.126/hls/vtc3.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>VTC4</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/fitz1bW.png</thumbnail>
+</item>
+<item>
+<title>VTC5</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/3QYpmSw.png</thumbnail>
+</item>
+<item>
+<title>VTC6</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/xXeBAok.png</thumbnail>
+</item>
+<item>
+<title>VTC7 s1</title>
 <sportsdevil>http://m.tivi12h.net/vtc7.php</sportsdevil><referer>no</referer>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
 </item>
 <item>
-<title>VTC12</title>
-<sportsdevil>http://m.tivi12h.net/vtc12.php</sportsdevil><referer>no</referer>
-<thumbnail></thumbnail>
+<title>VTC7 s2</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
 </item>
-
+<item>
+<title>VTC8</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/uPxgmeN.png</thumbnail>
+</item>
+<item>
+<title>VTC9</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
+</item>
+<item>
+<title>VTC10</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://103.56.158.185/tv_icon/vtc10.png</thumbnail>
+</item>
+<item>
+<title>VTC11</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/Vg5XFcf.png</thumbnail>
+</item>
+<item>
+<title>VTC12 s1</title>
+<sportsdevil>http://m.tivi12h.net/vtc12.php</sportsdevil><referer>no</referer>
+<thumbnail>http://i.imgur.com/aKmAf9Z.png</thumbnail>
+</item>
+<item>
+<title>VTC12 s2</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/aKmAf9Z.png</thumbnail>
+</item>
+<item>
+<title>VTC13 s1</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/ZIRi8xh.png</thumbnail>
+</item>
+<item>
+<title>VTC13 s2</title>
+<link>http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/ZIRi8xh.png</thumbnail>
+</item>
+<item>
+<title>VTC13 HD</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8</link>
+<thumbnail>https://s21.postimg.org/jwo4w6mfb/itvhd.png</thumbnail>
+</item>
+<item>
+<title>VTC14</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/annOIzX.png</thumbnail>
+</item>
+<item>
+<title>VTC14 HD</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg</thumbnail>
+</item>
+<item>
+<title>VTC16</title>
+<link>http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail>
+</item>
+<item>
+<title>VTC PLAY</title>
+<link>http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8</link>
+<thumbnail>https://s21.postimg.org/9wp59n2ev/vtcplay.jpg</thumbnail>
+</item>
 <item>
 <title>mobiTV:NCM BTV10</title>
 <sportsdevil>http://m.xemtvhd.com/testtvhd.php?tvhd=http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8</sportsdevil>
@@ -84,7 +257,16 @@
 <referer>http://m.tivi12h.net/115-tvhd.php</referer>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png</thumbnail>
 </item>
-
+<item>
+<title>HTV 7</title>
+<link>http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png</thumbnail>
+</item>
+<item>
+<title>HTV 9</title>
+<link>http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png</thumbnail>
+</item>
 <item>
 <title>HTVC Du lịch</title>
 <sportsdevil>http://m.xemtvhd.com/htv-dulich.php</sportsdevil>
@@ -116,6 +298,11 @@
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>SCTVHD Phim Việt</title>
+<link>rtmp://vf10.aditmedia.net/ingestx/ivn_000105</link>
+<thumbnail>https://static-stage.sctv.vn/channel/84/PhimVietHD.png</thumbnail>
+</item>
+<item>
 <title>SCTV2 HD</title>
 <sportsdevil>http://m.tivi12h.net/sctv2.php</sportsdevil>
 <referer>http://m.tivi12h.net/sctv2.php</referer>
@@ -132,6 +319,11 @@
 <sportsdevil>http://m.tivi12h.net/sctv4.php</sportsdevil>
 <referer>http://m.tivi12h.net/sctv2.php</referer>
 <thumbnail>https://static-stage.sctv.vn/channel/9/s4.png</thumbnail>
+</item>
+<item>
+<title>SCTV5-SCJ</title>
+<link>http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8</link>
+<thumbnail>http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png</thumbnail>
 </item>
 <item>
 <title>SCTVHD Văn hóa nghệ thuật </title>
@@ -296,11 +488,22 @@
 <thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>BT Sport 1 s1</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=e502c197dde3921551957ef2ec08fc6bbdc663ae&.mp4</link>
+<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+</item>
+<item>
+<title>BT Sport 1 s2</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=btsport1</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=btsport1</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>   
+</item>
+<item>
+<title>BT Sport 2 s1</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=04b38c71065be18d799edf8c37d63e738030b84d&.mp4</link>
+<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
 </item>
 <item>
 <title>BT Sport 2 s1</title>
@@ -309,82 +512,205 @@
 <thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>   
 </item>
 <item>
-<title>BT Sport 3 s1 </title>
+<title>BT Sport 3</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=btsport3</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=btsport3</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/btsporteurope.png</thumbnail>   
 </item>
 <item>
-<title>BT SPORT 1 s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/BT-Sport-1.html</sportsdevil>
-<referer>http://www.shadow-net.org</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
-</item>
-<item>
-<title>BT SPORT 2 s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/BT-Sport-2.html</sportsdevil>
-<referer>http://www.shadow-net.org</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
-</item>
-<item>
-<title>BT SPORT 3 s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/BT-Sport-Europe.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/btsporteurope.png</thumbnail>
-</item>
-<item>
-<title>BT SPORT ESPN</title>
-<sportsdevil>http://www.shadow-net.org/channels/BT-Sport-ESPN.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
+<title>BT Sport ESPN</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=f4e2ade22f407fe567728923cbbe1ccb5b43a9df&.mp4</link>
 <thumbnail>http://www.liveonlinetv247.info/images/btsportespn.png</thumbnail>
 </item>
 <item>
-<title>Sky Sport 1 s1</title>
+<title>Sky Sport 1</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=skysports1</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=skysports1</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/skysports1.png</thumbnail>   
 </item>
 <item>
-<title>Sky Sport 2 s1</title>
+<title>Sky Sports 2 s1</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=6b2fb9a9e67aaabd63004059147dfdc46e882aba&.mp4</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports2.png</thumbnail>
+</item>
+<item>
+<title>Sky Sport 2 s2</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=skysports2</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=skysports2</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/skysports2.png</thumbnail>   
 </item>
 <item>
-<title>Sky Sport 3 s1</title>
+<title>Sky Sports 3 s1</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=4dbce55abecd154ff71b3477a332bd63611309e5&.mp4</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports3.png</thumbnail>
+</item>
+<item>
+<title>Sky Sport 3 s2</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=skysports3</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=skysports3</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/skysports3.png</thumbnail>   
 </item>
 <item>
-<title>Sky Sport 4 s1</title>
+<title>Sky Sports 4 s1</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=969a42388e101e6c6d9574a311e4b387a6ff1413&.mp4</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports4.png</thumbnail>
+</item>
+<item>
+<title>Sky Sport 4 s2</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=skysports4</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=skysports4</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/skysports4.png</thumbnail>   
 </item>
 <item>
-<title>Sky Sport 5 s1</title>
+<title>Sky Sport 5</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=skysports5</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=skysports5</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/skysports5.png</thumbnail>   
 </item>
 <item>
-<title>SKY SPORT 1 s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/Sky-Sport-1.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports1.png</thumbnail>
+<title>Sport 1 LT</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=0b48bf1261368b82637d8a26eb4457d54c80f3e1&.mp4</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>SKY SPORT 2 s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/Sky-Sport-2.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports2.png</thumbnail>
+<title>Sport 5+ Live HD</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=9e0a489436b0859e20098fc3f81e07abb4c5a612&.mp4</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>SKY SPORT 5 s2</title>
-<sportsdevil>http://shadow.go.ro/sdwnet/channels/it/player/sky-sport5.php</sportsdevil>
-<referer>http://shadow.go.ro/sdwnet/channels/it/player/sky-sport5.php</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports5.png</thumbnail>
+<title>Thai:Sport s1</title>
+<link>http://www.lineduball.com/ch1/hls-live/channel1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport s2</title>
+<link>http://www.lineduball.com/ch2/hls-live/channel2.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport s3</title>
+<link>http://www.lineduball.com/ch3/hls-live/channel3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport s4</title>
+<link>http://www.lineduball.com/ch4/hls-live/channel4.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport s5</title>
+<link>http://www.lineduball.com/ch5/hls-live/channel5.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 1</title>
+<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 2</title>
+<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 3</title>
+<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>SUPER SPORT 4</title>
+<link>http://81.7.13.162/hls/ss4/index.m3u8</link>
+<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+</item>
+<item>
+<title>AD SPORT 1 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
+<thumbnail>http://i.imgur.com/NSQgKH4.png</thumbnail>
+</item>
+<item>
+<title>AD SPORT 2 HD</title>
+<link>http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8</link>
+<thumbnail>http://i.imgur.com/kiRDDPC.png</thumbnail>
+</item>
+<item>
+<title>Pac-12 National HD</title>
+<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Arizona HD</title>
+<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12  Los Angeles HD</title>
+<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Mountain HD</title>
+<link>http://xrxs.net/video/live-p12moun-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Oregon HD</title>
+<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Washington HD</title>
+<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Bay Area HD</title>
+<link>http://xrxs.net/video/live-p12baya-2328.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 National Full HD</title>
+<link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Arizona Full HD</title>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12  Los Angeles Full HD</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Mountain Full HD</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Oregon Full HD</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Washington Full HD</title>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg</thumbnail>
+</item>
+<item>
+<title>Pac-12 Bay Area Full HD</title>
+<link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg</thumbnail>
+</item>
+<item>
+<title>EUROSPORTS (Eng)</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<thumbnail>https://s27.postimg.org/f1g5yfew3/eurosport.png</thumbnail>
+</item>
+<item>
+<title>EUROSPORTS (Frace)</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://s27.postimg.org/f1g5yfew3/eurosport.png</thumbnail>
 </item>
 <item>
 <title>CANAL+FUTBOL s1</title>
@@ -447,40 +773,22 @@
 <thumbnail>http://cinestrenostv.tv/img/foxsports2.png</thumbnail>
 </item>
 <item>
-<title>beIN Sports 1HD Fr s1</title>
+<title>beIN Sports 1HD Fr</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports1france</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=beinsports1france</referer>
 <thumbnail>http://i.imgur.com/0vGYvd9.png</thumbnail>   
 </item>
 <item>
-<title>beIN Sports 2HD Fr s1</title>
+<title>beIN Sports 2HD Fr</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports2france</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=beinsports2france</referer>
 <thumbnail>http://i.imgur.com/0UtbhZH.png</thumbnail>   
 </item>
 <item>
-<title>beIN Sports 3HD Fr s1</title>
+<title>beIN Sports 3HD Fr</title>
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports3france</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=beinsports3france</referer>
 <thumbnail>http://i.imgur.com/QusZf2J.png</thumbnail>   
-</item>
-<item>
-<title>BEIN SPORT 1 FR s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sport-1-FR.html</sportsdevil>
-<referer>http://www.shadow-net.org</referer>
-<thumbnail>http://i.imgur.com/0vGYvd9.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 2 FR s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sport-2-FR.html</sportsdevil>
-<referer>http://www.shadow-net.org</referer>
-<thumbnail>http://i.imgur.com/0UtbhZH.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 3 FR s2</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sport-3-FR.html</sportsdevil>
-<referer>http://www.shadow-net.org</referer>
-<thumbnail>http://i.imgur.com/QusZf2J.png</thumbnail>
 </item>
 <item>
 <title>beIN Sports 1HD</title>
@@ -559,78 +867,6 @@
 <sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports13</sportsdevil>
 <referer>http://embratoria.com/embed/hls/is.php?s=beinsports13</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports13.png</thumbnail>   
-</item>
-<item>
-<title>BEIN SPORT 1</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-1.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/h/891/bein_sports1__51322_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 2</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-2.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/x/414/BeIN_SPORTS_2HD_Couleur__35070_thumb.jpg</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 3</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-3.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/s/745/bein-sports-3-hd_14gzpciv0r55j1l92btw93npju__75859_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 4</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-4.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/g/293/Bein_4__71534_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 5</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-5.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/k/320/bein_sports5__41625_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 6</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-6.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/y/276/bein_sports6__65337_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 7</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-7.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/v/858/bein_sports7__44128_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 8</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-8.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/g/028/bein_sports8__04092_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 9</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-9.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/w/291/bein_sport_9hd__26067_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 10</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-10.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/k/284/bein_sports10__25010_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 11</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-11.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/g/582/bein_sports11__25618_thumb.png</thumbnail>
-</item>
-<item>
-<title>BEIN SPORT 12</title>
-<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-12.html</sportsdevil>
-<referer>http://www.shadow-net.org/</referer>
-<thumbnail>http://www.sdwnet.org/product_images/f/600/bein_sports12__01362_thumb.png</thumbnail>
 </item>
 <item>
 <title>TSN 1</title>
