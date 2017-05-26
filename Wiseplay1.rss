@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 07h00' ngày 26/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update ngày 27/05/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/417_l9uNz.w3u",
    "groups": [
@@ -10,22 +10,7 @@
                 "stations": [
  				  {
 
-			"name": "GERMANY-VANUATU (15:00 26/05/17) - AV7",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://c4fae9f2d3b2299de258e9f2f4fbc45e3fcefda0"
-		        },
-		        {
-			"name": "ENGLAND-SOUTH KOREA (18:00 26/05/17) - AV8-9",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3"
-		        },
-		        {
-			"name": "ENGLAND-SOUTH KOREA (18:00 26/05/17) - AV27-28",
-          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
-			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
-		        },
-		        {
-			"name": "PORTUGAL-IRAN (15:00 27/05/17) - AV8-8",
+			"name": "PORTUGAL-IRAN (15:00 27/05/17) - AV8-9",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3"
 		        },
@@ -85,12 +70,16 @@
     },
      
     {
-
-                "name": "Xem bóng đá ITALYA (Serie A) theo giờ Việt Nam",
-                "image": "https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",
+                       "name": "Xem bóng đá ITALYA (Serie A) theo giờ Việt Nam",
+                       "image": "https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",
                
-                "stations": [
+                        "stations": [
  				  {
+			"name": "BOLOGNA -JUVENTUS (23:00 ngày 27/05/17) - AV13-14",
+          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
+			"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"
+			},
+                        {
 			"name": "Cagliari v AC Milan (20:00 ngày 28/05/17) - AV13-14",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"
@@ -106,18 +95,16 @@
 			"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"
 			},
                         {
-			"name": " Roma v Genoa (23:00 ngày 28/05/2017) - BT Sport 3",
-                        "image": "http://www.liveonlinetv247.info/images/btsporteurope.png",
-			"url": "http://embratoria.com/embed/hls/is.php?s=btsport3",
-			"isHost": true
+			"name": " Roma v Genoa (23:00 ngày 28/05/2017) - Al:SuperSport 2",
+  			"image": "https://s17.postimg.org/40k6uwysv/supersports.png",
+          	        "url": "http://81.7.13.162/hls/ss2/index.m3u8"
 			},
 			{
-			"name": "Crotone v Lazio (01:45 ngày 29/05/2017) - BT sport 3",
-                        "image": "http://www.liveonlinetv247.info/images/btsporteurope.png",
-			"url": "http://embratoria.com/embed/hls/is.php?s=btsport3",
-			"isHost": true
-		        },
-		        {
+			"name": "Sampdoria vs Napoli (23:00 ngày 28/05/2017) - Al:SuperSport 3 ",
+  			"image": "https://s17.postimg.org/40k6uwysv/supersports.png",
+          	        "url": "http://81.7.13.162/hls/ss3/index.m3u8"
+			},
+			{
 			"name": "INTER MILAN-UDINESE (01:45 29/05/17) - AV13-14",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"
@@ -149,6 +136,75 @@
                
                 "stations": [
  				  {
+"name": "Arenavision 1",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://a16800843a07936b5abbd394f5265950d416d21e"},
+{"name": "Arenavision 2",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://bdfadd4d0395bccb8721c528cd5560468cccbd89"},
+{"name": "Arenavision 3",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://3f8e4ac1381a1e8d954e72647e77198901cea11e"},
+{"name": "Arenavision 4",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://db6ac226f9f28c5f948a53e3f8e865d727d20281"},
+{"name": "Arenavision 5 - 6",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://9dc0519f9b4fdadef70feef6dd51026cd8e4eaa7"},
+{"name": "Arenavision 7",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://c4fae9f2d3b2299de258e9f2f4fbc45e3fcefda0"},
+{"name": "Arenavision 8 - 9",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3"},
+{"name": "Arenavision 10 - 11",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://ff270c4d474a57e66b8bf03548f005974753c843"},
+{"name": "Arenavision 12",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://0e7968faddf24d9702c1809d5aea6c80e95779a1"},
+{"name": "Arenavision 13",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"},
+{"name": "Arenavision 14",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://974903257b1aea10203b4d14d781b4bf58a31f5c"},
+{"name": "Arenavision 15",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://807379837b9782d752b7530745fc0925b08e205b"},
+{"name": "Arenavision 16",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://807379837b9782d752b7530745fc0925b08e205b"},
+{"name": "Arenavision 17 - 18",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://15f72b1fd8e9f90758f3a5a33437abf43863901d"},
+{"name": "Arenavision 19 - 20",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://7e5d84b1d72b717d9f9fafa348be8902f80c7d15"},
+{"name": "Arenavision 21",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://ee832078a13bce64afc79a70a8104a7399c6d84e"},
+{"name": "Arenavision 22",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://7cfa09ccca24f096145dc958b8462737965d1907"},
+{"name": "Arenavision 23",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://20a660ce4d787dd1e32235c8fb0594f21844ac76"},
+{"name": "Arenavision 24",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://0f43f810f4d55b51e206462eb64981bcb0230efb"},
+{"name": "Arenavision 25 - 26",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://be74b381cd347d3c88bebe48ebabca443b233196"},
+{"name": "Arenavision 27 - 28",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"},
+{"name": "Arenavision 29",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://90176444c50df6c9a60acdd488a65e1593f9e869"},
+{"name": "Arenavision 30",
+"image": "http://tvron.net/static/canal/arenavision.png",
+"url": "acestream://1775d7b4d9bbb847d0570fa98d9828e195af35fc"},{
 "name":"BT Sport 1","image": "http://www.liveonlinetv247.info/images/btsport1.png","url": "acestream://e502c197dde3921551957ef2ec08fc6bbdc663ae"},{
 "name":"BT Sport 2","image": "http://www.liveonlinetv247.info/images/btsport2.png","url": "acestream://04b38c71065be18d799edf8c37d63e738030b84d"},{
 "name":"BT Sport ESPN","image": "http://www.liveonlinetv247.info/images/btsportespn.png","url": "acestream://f4e2ade22f407fe567728923cbbe1ccb5b43a9df"},{
@@ -1550,7 +1606,6 @@
           	   "url": "http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8"		
 		    },
 		    { 
-		   "name": "VTC CA NHAC", "image": "https://s21.postimg.org/9wp59n2ev/vtcplay.jpg","url": "http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8"},{
 		   "name": "SCTVHD PHIM VIET",
           	   "image": "https://static-stage.sctv.vn/channel/84/PhimVietHD.png",
           	   "url": "rtmp://vf10.aditmedia.net/ingestx/ivn_000105"
@@ -1558,11 +1613,6 @@
 		    {
  	            "name": "SCTV5-SCJ", "image": "http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",
           	   "url": "http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8"},{
-		   "name": "Anvien HD",
-          	   "image": "https://s29.postimg.org/b2fgjxxuv/anvienhd.jpg",
-          	   "url": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b2500000.m3u8"
-	            },
-		    {
 		    "name": "An ninh thế giới",
           	   "image": "http://i.imgur.com/j7NsBwD.png",
           	   "url": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8"
