@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 28/05/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 29/05/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -10,21 +10,6 @@ http://www.youtube.com
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",[COLOR cyan]Xem bóng đá ITALYA (Serie A) theo giờ Việt Nam[/COLOR]
-http://
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",Cagliari v AC Milan (20:00 ngày 28/05/17) - AV13-14
-http://127.0.0.1:6878/ace/getstream?id=974903257b1aea10203b4d14d781b4bf58a31f5c&.mp4
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg", Cagliari v AC Milan (20:00 ngày 28/05/2017) - BT Sport 2
-http://127.0.0.1:6878/ace/getstream?id=04b38c71065be18d799edf8c37d63e738030b84d&.mp4
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",Roma v Genoa (23:00 ngày 28/05/17) - AV13-14
-http://127.0.0.1:6878/ace/getstream?id=974903257b1aea10203b4d14d781b4bf58a31f5c&.mp4
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg", Roma v Genoa (23:00 ngày 28/05/2017) - Al:SuperSport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",Sampdoria vs Napoli (23:00 ngày 28/05/2017) - Al:SuperSport 3 
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s4.postimg.org/k0wj4ovcd/bongdaitaly.jpg",INTER MILAN-UDINESE (01:45 29/05/17) - AV13-14
-http://127.0.0.1:6878/ace/getstream?id=974903257b1aea10203b4d14d781b4bf58a31f5c&.mp4
 
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s22.postimg.org/xbdfv8j41/cupc1.jpg",[COLOR cyan]Xem chung kết bóng đá vô địch các câu lạc bộ châu Âu (Cup C1) theo giờ Việt Nam[/COLOR]
 http://
@@ -75,46 +60,124 @@ http://127.0.0.1:6878/ace/getstream?id=dd7b7780bb13ce3757827f301c761ebe17a19015&
 http://127.0.0.1:6878/ace/getstream?id=90176444c50df6c9a60acdd488a65e1593f9e869&.mp4 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://tvron.net/static/canal/arenavision.png",AV30
 http://127.0.0.1:6878/ace/getstream?id=1775d7b4d9bbb847d0570fa98d9828e195af35fc&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",BT Sport 1 s1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Arena Sport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=4bfba5f4059e58d80dc56b37cec9e9db6b70a10c&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",BT Sport 1
 http://127.0.0.1:6878/ace/getstream?id=e502c197dde3921551957ef2ec08fc6bbdc663ae&.mp4
-#EXTINF:-1 group-title="Sports" BT SPORT 1 tvg-logo="https://www.thelogodb.com/images/media/logo/ruprqp1433360902.png",BT SPORT 1 s2
-http://127.0.0.1:6878/ace/getstream?id=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",BT Sport 2 s1
+#EXTINF:-1 group-title="Sports" tvg-logo="",BT Sport 2
 http://127.0.0.1:6878/ace/getstream?id=04b38c71065be18d799edf8c37d63e738030b84d&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png", BT SPORT 2 s2
-http://127.0.0.1:6878/ace/getstream?id=4750a998726dbe169f2e86eb970dfae45c96ae84&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thelogodb.com/images/media/logo/wysstw1434038860.png",BT SPORT 3 
-http://127.0.0.1:6878/ace/getstream?id=66ce42b59cd7028be149ee7e7ca17066910b2db3&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsportespn.png",BT Sport ESPN
+#EXTINF:-1 group-title="Sports" tvg-logo="",BT Sport ESPN
 http://127.0.0.1:6878/ace/getstream?id=f4e2ade22f407fe567728923cbbe1ccb5b43a9df&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png", SKY SPORTS 1 s1
+#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=8cd84695f46dd3ac4903af2d48d2ec186a4b5267&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=b8f019e56e1282dae2cd55b248ed515a9e6436e7&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=d5084c1860732733fa44fda6ab58fe326d71de26&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=25ea35390f4cf8efebc5306678c7443c5b4cba31&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Extreme Sports
+http://127.0.0.1:6878/ace/getstream?id=d34a2b450c1186477e7ee1830d7ed4351320a3da&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Idman TV
+http://127.0.0.1:6878/ace/getstream?id=31b252d4b28f10d63b8349bb0b8e7c18cba51e08&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Kazsport
+http://127.0.0.1:6878/ace/getstream?id=ae1f4846d3714d27f8b074457f6f36ed1d5f12a1&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Real Madrid TV
+http://127.0.0.1:6878/ace/getstream?id=677b613d289b71812cbee35c6948a27161a50b7f&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sky Sports 1
 http://127.0.0.1:6878/ace/getstream?id=aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png", SKY SPORTS 1 s2
-http://127.0.0.1:6878/ace/getstream?id=e061202217ea02d1c62e03688eaa3a60ee7b6829&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",Sky Sports 2 s1
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sky Sports 2
 http://127.0.0.1:6878/ace/getstream?id=6b2fb9a9e67aaabd63004059147dfdc46e882aba&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png",SKY SPORTS 2 s2
-http://127.0.0.1:6878/ace/getstream?id=e524f1380a0f1549895f6727368c8ddffb3a8c37&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",Sky Sports 3 s1
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sky Sports 3
 http://127.0.0.1:6878/ace/getstream?id=4dbce55abecd154ff71b3477a332bd63611309e5&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thelogodb.com/images/media/logo/vtusxx1433965268.png",SKY SPORTS 3 s2
-http://127.0.0.1:6878/ace/getstream?id=c4ff54b834532047fc0aa1779d17281f193d6938&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",Sky Sports 4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sky Sports 4
 http://127.0.0.1:6878/ace/getstream?id=969a42388e101e6c6d9574a311e4b387a6ff1413&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png",SKY SPORTS F1 
-http://127.0.0.1:6878/ace/getstream?id=81a040885ec61a2266e4c014dd0531789194fcf3&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.thelogodb.com/images/media/logo/upsspx1433379567.png",TSN 1 
-http://127.0.0.1:6878/ace/getstream?id=4e5abe370e1bfa45a5d8dfb510431b662ab90225&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://bonkers-assets.s3.amazonaws.com/blog/2016/07/eir_sport_small.jpg",Eir Sport 2 
-http://127.0.0.1:6878/ace/getstream?id=0cec6c0299c99f45c1859398d150c3a48e6d8b2e&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://bonkers-assets.s3.amazonaws.com/blog/2016/07/eir_sport_small.jpg",Eir Sport 1 
-http://127.0.0.1:6878/ace/getstream?id=becf1899b47ad0bdd439370dd75439ee11a7f79b&.mp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thelogodb.com/images/media/logo/wpttyu1433780385.png",PREMIER SPORT 
-http://127.0.0.1:6878/ace/getstream?id=e4d9f7188e4403523c32717a98093671f8931101&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sky Sports F1
+http://127.0.0.1:6878/ace/getstream?id=969dbafa76bbd0ca37d73629f392c83fcf9cc295&.mp4
 #EXTINF:-1 group-title="Sports" tvg-logo="",Sport 1 LT
 http://127.0.0.1:6878/ace/getstream?id=0b48bf1261368b82637d8a26eb4457d54c80f3e1&.mp4
 #EXTINF:-1 group-title="Sports" tvg-logo="",Sport 5+ Live HD
 http://127.0.0.1:6878/ace/getstream?id=9e0a489436b0859e20098fc3f81e07abb4c5a612&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Sportsnet World (MUFC v CP)
+http://127.0.0.1:6878/ace/getstream?id=aadb29184bf36f26e486f4a81e3986928a2037bc&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Super Tennis HD
+http://127.0.0.1:6878/ace/getstream?id=0dd0f029bb89324c3f6a95721ce9f1aa372afb3a&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",TSN 1
+http://127.0.0.1:6878/ace/getstream?id=4e5abe370e1bfa45a5d8dfb510431b662ab90225&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Fotboll
+http://127.0.0.1:6878/ace/getstream?id=52a4998aa2545e1dcd94ff4d7f2efa6883331701&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Golf
+http://127.0.0.1:6878/ace/getstream?id=9802a03f4ae299a97eac0077c67c16d4e0d6f0a2&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Hockey
+http://127.0.0.1:6878/ace/getstream?id=7a73b3500cedc9f986ba0ac26776a2be236f71e4&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Motor
+http://127.0.0.1:6878/ace/getstream?id=0afc6b95e79f63b7e0f00484453d5cc0c1a67290&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Sport
+http://127.0.0.1:6878/ace/getstream?id=5ff224a14a9e13270dee592ee4c6e08689ffbc3e&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Sport Baltic
+http://127.0.0.1:6878/ace/getstream?id=47435cc97656b6326a72eb3b30926dc5ba11e0fa&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Sport HD
+http://127.0.0.1:6878/ace/getstream?id=8975c507b2b9e05f03908e71e86c11f1cf7d2eac&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",XSport
+http://127.0.0.1:6878/ace/getstream?id=25a7871050c5a6940579cd94df8543f1c8825a24&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",КХЛ HD
+http://127.0.0.1:6878/ace/getstream?id=98104568e2e57989e55d85e9409b5e99e577c010&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",КХЛ ТВ
+http://127.0.0.1:6878/ace/getstream?id=d3a19ca995ac00def6af7f4cca956d575f7ef4d8&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Конный мир
+http://127.0.0.1:6878/ace/getstream?id=d1fe68d95dd9a05c37e54ee7ad521cf5be61936d&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?id=a6c03187a8339f2b97354887ea5d0b49ecf8f547&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=5a7ee05c31510c2b11c2ce2e71ebe805abc2350f&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Арена
+http://127.0.0.1:6878/ace/getstream?id=2a789f536f4f95192bafd9b7613c521daad480f5&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Арена HD
+http://127.0.0.1:6878/ace/getstream?id=2d8b8f4b2dd628c47157252ca617ffa987de6bae&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Игра
+http://127.0.0.1:6878/ace/getstream?id=086f1ec55f6080823028b0927da9d9daf3fe4aaf&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Игра HD
+http://127.0.0.1:6878/ace/getstream?id=990fa1dbc4350014e12c11ffe6b8d45d89f166b6&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Наш Спорт
+http://127.0.0.1:6878/ace/getstream?id=efb94220a2143a590705182bb1ddf1320694dfcc&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Планета
+http://127.0.0.1:6878/ace/getstream?id=ec95c75378e351184eb316d995c3aba1b266d7c4&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1
+http://127.0.0.1:6878/ace/getstream?id=29b4901806ee6d81ce8af2debd5d8ffe0c091eef&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1664a010735721d82f121e3522001e9789fa8bc9&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 HD Резерв 1
+http://127.0.0.1:6878/ace/getstream?id=18b94280e5173e6093709665be4ff629befae3ff&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 HD Резерв 2
+http://127.0.0.1:6878/ace/getstream?id=f2c45a93e7d9e30e069fc85190a4e359298f6e1a&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 HD Резерв 3
+http://127.0.0.1:6878/ace/getstream?id=6c007115e3928abea72e235d8ea0da5f3a9555d6&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 Резерв 1
+http://127.0.0.1:6878/ace/getstream?id=71e0835ec33d5f383c5476d7181251a7f25d34e6&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 Резерв 2
+http://127.0.0.1:6878/ace/getstream?id=62c416b2dfd5e098e3541ba1e76c7c64f159f576&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 1 Резерв 3
+http://127.0.0.1:6878/ace/getstream?id=dd8236b486cd028b4314a4fccd72941c46b24a97&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 2
+http://127.0.0.1:6878/ace/getstream?id=1d3cdbe0f5ef4f1eb9ae871a0512b270feeafd09&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?id=848105161dac8e777acfdab00eb02e48a3b1b32b&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 3
+http://127.0.0.1:6878/ace/getstream?id=e838ca98dd3ec238611e68526348d91ca097d9b6&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Матч! Футбол 3 HD
+http://127.0.0.1:6878/ace/getstream?id=f93069c718541efb241c81fa3ecb4775da4fd332&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Наш футбол HD
+http://127.0.0.1:6878/ace/getstream?id=3ea9d83a91347f6b7bcabeb89b3c5de3dff2cf75&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Спорт 1 (Украина)
+http://127.0.0.1:6878/ace/getstream?id=a2058738fbb658147e411ac047a373273783743a&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Спорт 2 (Украина)
+http://127.0.0.1:6878/ace/getstream?id=75f57785eaef12c2d50015c7bd795cdf94a47047&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Футбол 1 (Украина)
+http://127.0.0.1:6878/ace/getstream?id=a5bb31611ec459bff4ff6e7a019e1a2d45881d86&.mp4
+#EXTINF:-1 group-title="Sports" tvg-logo="",Футбол 2 (Украина)
+http://127.0.0.1:6878/ace/getstream?id=cf197405805b7d8d7034f9fa1afd831d7c1015a0&.mp4
+
 #EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s1
 http://www.lineduball.com/ch1/hls-live/channel1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s2
