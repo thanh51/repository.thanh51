@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 22.05.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 01.06.2017[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
@@ -199,6 +199,11 @@ udp://@225.1.2.88:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
 udp://@225.1.2.190:30120
 
+#EXTINF:-1 group-title="SCTV" tvg-logo="http://i.imgur.com/eAqQO4Y.png",SCTV9
+udp://@225.1.1.1:30120
+#EXTINF:-1 group-title="SCTV" tvg-logo=http://i.imgur.com/ZZiL1Gi.png",AZ SHOP SCTV10
+udp://@225.1.2.205:30120
+
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",CAO BẰNG
 udp://225.1.1.102:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s11.postimg.org/y1ijz2a83/hagiang.jpg",HA GIANG
@@ -325,8 +330,6 @@ udp://225.1.1.61:30120
 udp://@225.1.1.163:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/YAGwIeW.png",Cà Mau
 udp://225.1.1.104:30120
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s22.postimg.org/8l2x91pdd/sctv10.jpg",AZ SHOP SCTV10
-udp://@225.1.2.205:30120
 
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s13.postimg.org/o8yh7baef/hbo.png",HBO
 udp://@225.1.1.235:30120
