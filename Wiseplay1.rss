@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 12h00' ngày 02/06/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 17h00' ngày 02/06/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/417_l9uNz.w3u",
    "groups": [
@@ -10,24 +10,32 @@
                 "stations": [
  				  {
 
+		        "name": "(13h00 ngày 04/06/2017) - Tứ kết: Venezuela vs Mỹ", "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"},{
 			"name": "(13h00 ngày 04/06/2017) - Tứ kết: Venezuela vs Mỹ",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
 		        },
 		        {
+		        "name": "(16h00 ngày 04/06/2017) - Tứ kết: Portugal vs Uruguay", "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"},{
 			"name": "(16h00 ngày 04/06/2017) - Tứ kết: Portugal vs Uruguay",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
 		        },
 		        {
+		        "name": "(15h00 ngày 05/06/2017) - Tứ kết: Italy vs Zambia", "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"},{
 			"name": "(15h00 ngày 05/06/2017) - Tứ kết: Italy vs Zambia",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
 		        },
 		        {
+		        "name": "(18h00 ngày 05/06/2017) - Tứ kết: Mexico vs England", "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"},{
 			"name": "(18h00 ngày 05/06/2017) - Tứ kết: Mexico vs England",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
+		        },
+		        {
+			"name": "(15h00 ngày 08/06/2017) - Bán kết",
+  		        "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"	
 
    }
                 
@@ -1416,10 +1424,15 @@
 		   "name": "VTV 1 s1", "image": "http://i.imgur.com/JW8VXef.png","url": "http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8"},{
 		   "name": "VTV1 s2",
           	   "image": "http://i.imgur.com/JW8VXef.png",
-          	   "url": "http://sv.tivi3g.com/stream-vtv/vtv1.m3u8"
+          	   "url": "http://203.162.235.41:17820"
 	            },
 		    {
 		   "name": "VTV1 s3",
+          	   "image": "http://i.imgur.com/JW8VXef.png",
+          	   "url": "http://sv.tivi3g.com/stream-vtv/vtv1.m3u8"
+	            },
+		    {
+		   "name": "VTV1 s4",
           	   "image": "http://i.imgur.com/JW8VXef.png",
           	   "url": "http://123.30.185.126/hls/vtv1.m3u8"
 	            },
@@ -1445,7 +1458,8 @@
           	   "url": "http://123.30.185.126/hls/vtv3.m3u8"
 	            },
 		    {
-		    "name": "VTV6", "image": "http://i.imgur.com/keIENsc.png","url": "http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8"},{
+		    "name": "VTV6 s1", "image": "http://i.imgur.com/keIENsc.png","url": "http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8"},{
+		    "name": "VTV6 s2", "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"},{
 
 		   "name": "VTV8 s1",
           	   "image": "http://103.56.158.185/tv_icon/vtv8.png",
@@ -1817,7 +1831,7 @@
     },
      
     {
-	
+
                  "name": "USA TV - Theplayersklub",
                 "image": "https://s8.postimg.org/i2fdr8f11/theplayersklub.jpg",
                
@@ -2120,24 +2134,49 @@
                
                    "stations": [
  						{
+		   "name": "BBC WORLD NEWS ",
+          	   "image": "https://s24.postimg.org/q8v24y35h/bbcworldnews.png",
+          	   "url": "http://203.162.235.41:17817"
+		   },
+		    {
+		   "name": "CNBC",
+          	   "image": "",
+          	   "url": "http://203.162.235.41:17802"
+		   },
+		    {	
 		   "name": "LONĐON LIVE",
           	   "image": "https://s29.postimg.org/6vuc7i5lz/londonlive.jpg",
           	   "url": "http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8"
 		   },
-		    {	
+		    {		
 		    "name": "BBC AMERICA",
           	   "image": "https://s30.postimg.org/gmr5kuj8x/bbcamerica.png",
           	   "url": "http://208.86.19.13:8080/live/34.stream/index.m3u8"
 		   },
 		    {	
+		    "name": "NHK",
+          	   "image": "http://vuapp.tranvu.info/upload//nhk.jpg",
+          	   "url": "http://203.162.235.41:17802"
+		   },
+		    {
 		    "name": "CHANNEL NEWSASIA",
           	   "image": "http://vuapp.tranvu.info/upload//channel-newsasia.png",
           	   "url": "http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8"
+		   },
+		    {		
+		    "name": "ARIANG",
+          	   "image": "http://vuapp.tranvu.info/upload//arirang.png",
+          	   "url": "http://203.162.235.41:17821"
 		   },
 		    {	
 		    "name": "ARIANG HD",
           	   "image": "http://vuapp.tranvu.info/upload//arirang.png",
           	   "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+		   },
+		    {	
+		    "name": "CNN",
+          	   "image": "http://103.56.158.185/tv_icon/cnn.png",
+          	   "url": "http://203.162.235.41:17818"
 		   },
 		    {	
 		    "name": "CNN PHILIPIN",
