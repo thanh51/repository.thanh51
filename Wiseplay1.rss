@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 06h00' ngày 06/06/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 13h00' ngày 06/06/2017). Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/417_l9uNz.w3u",
    "groups": [
@@ -9,7 +9,6 @@
                
                 "stations": [
  				  {
-
 
 			"name": "(15h00 ngày 08/06/2017) - Bán kết 1: Uruguay vs Venezuela",
   		        "image": "http://i.imgur.com/keIENsc.png","url": "http://203.162.235.41:17822"
@@ -37,7 +36,6 @@
 		        {
 			"name": "(17h00 ngày 11/06/2017) - Chung kết",
   		        "image": "http://www.liveonlinetv247.info/images/foxsports1.png","url": "http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts","userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36"				
-
 
    }
                 
@@ -4530,74 +4528,246 @@
                
                    "stations": [
  						{
-		    "name": "VOV1",
+    "name":"Đài Tiếng nói VN 1 - VOV1",
+    "url":"rtmp://210.245.60.242:1935/nghehevov1/vov1" 
+  },
+  {
+    "name":"Đài Tiếng nói VN 2 - VOV2",
+    "url":"rtmp://210.245.60.242:1935/nghehevov2/vov2" 
+
+  },
+  {
+    "name":"Đài Tiếng nói VN 3 - VOV3",
+    "url":"rtmp://210.245.60.242:1935/nghehevov3/vov3" 
+
+  },
+  {
+    "name":"XONE Radio",
+    "url":"http://118.69.80.81:8000/http://118.69.80.81:8000" 
+
+  },
+  {
+     "name":"Đài Tiếng nói VN 5",
+    "url":"rtmp://210.245.60.242/vov5/vov5" 
+  },
+  {
+    "name":"VOV 247",
+    "url":"rtmp://210.245.60.242:1935/vov247/vov247" 
+  },
+  {
+    "name":"VOV Giao thông Hà Nội",
+    "url":"rtmp://117.6.129.102:1900/live/vovgthn.sdp" 
+
+  },
+  {
+    "name":"VOV Giao thông HCM",
+    "url":"rtmp://117.6.129.102:1901/live/vovgthcm.sdp"  
+
+  },
+  {
+    "name":"Joy FM - Radio sức khỏe",
+    "url":"rtmp://radio.joyfm.vn:1935/live/RadioOnline" 
+  },
+  {
+    "name":"Tp.HCM FM 95.6MHz",
+    "url":"rtmp://221.132.38.110:1935/live/channel1" 
+
+  },
+  {
+    "name":"Tp.HCM AM 610KHz",
+    "url":"rtmp://221.132.38.110:1935/live/channel2" 
+  },
+  {
+    "name":"Tp.HCM FM 99.9MHz",
+    "url":"rtmp://221.132.38.110:1935/live/channel3"  
+
+  },
+  {
+    "name":"Đài Hà Nội (FM 90)",
+    "url":"rtmp://123.30.185.123/live/hn1audio"  
+
+  },
+  {
+    "name":"Tin tức & Giải trí (Cherry Radio)",
+    "url":"http://192.240.102.195:9055/stream.mp3" 
+
+  },
+  {
+    "name":"Nhạc trữ tình (Cherry Radio)",
+    "url":"http://68.168.101.146:8454/stream.mp3" 
+
+  },
+   {
+    "name":"VOA tiếng Việt",
+    "url":"http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56||||http://69.22.149.199/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56" 
+
+  },
+  {
+    "name":"An Giang",
+    "url":"rtmp://113.161.212.25/live/radio" 
+
+  },
+  {
+    "name":"Bạc Liêu",
+    "url":"rtmp://118.69.205.213/livepkgr/livestream2?adbe-live-event=liveevent" 
+  },
+  {
+    "name":"Bắc Kạn",
+    "url":"http://118.107.76.15:1983/live/BKradio.stream/playlist.m3u8" 
+
+  },
+  {
+    "name":"Bến Tre",
+    "url":"rtmp://113.163.94.245/livepkgr/audiostream" 
+
+  },
+  {
+    "name":"Bình Phước",
+    "url":"http://118.69.197.145/hls/radio.m3u8" 
+
+  },
+  {
+ 
+    "name":"Cà Mau",
+    "url":"rtmp://113.161.220.254/livepkgr/livestream4" 
+  },
+  {
+    
+
+    "name":"Cần Thơ",
+    "url":"rtmp://tv.canthotv.vn/livepkgr/livestream4?adbe-live-event=liveevent" 
+
+  },
+  {
+
+    "name":"Đà Nẵng",
+    "url":"http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8" 
+
+  },
+  {
+   
+
+    "name":"Đắk Nông",
+    "url":"rtmp://222.255.158.22:1935/live2/phatthanh" 
+  },
+  {
+
+    "name":"Đồng Tháp",
+    "url":"rtmp://123.30.110.170:1939/thdt/radio" 
+
+  },
+  {
+
+    "name":"Gia Lai",
+    "url":"http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/radio.m3u8" 
+
+  },
+  {
+
+    "name":"Hà Giang",
+    "url":"http://118.107.76.15:1983/live/HGradio.stream/playlist.m3u8" 
+  },
+   {
+
+    "name":"Hải Dương",
+    "url":"http://113.160.131.11:8000/" 
+  },
+  {
+
+    "name":"Hải Phòng",
+    "url":"http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8" 
+  },
+  {
+
+    "name":"Hậu Giang",
+    "url":"rtmp://123.30.110.170:1939/hgradio/pthg" 
+  },
+   {
+
+    "name":"Huế",
+    "url":"rtmp://118.69.176.149:1936/live/radio" 
+
+  },
+  {
+
+    "name":"Khánh Hòa",
+    "url":"http://210.245.20.94/hls/radio.m3u8" 
+  },
+  {
+
+    "name":"Kiên Giang",
+    "url":"http://tv.kgtv.vn/hls/kgaudio.m3u8" 
+
+  },
+  {
+
+    "name":"Kon Tum",
+    "url":"http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumaudio.m3u8" 
+
+  },
+  {
+    
+    "name":"Long An",
+    "url":"http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8" 
+
+  },
+  {
+
+    "name":"Ninh Bình",
+    "url":"http://117.6.94.35:8001/" 
+  },
+  {
+
+    "name":"Ninh Thuận",
+    "url":"rtmp://203.113.166.233/live/NTV_AUDIO" 
+
+  },
+  {
+
+    "name":"Quảng Nam",
+    "url":"rtmp://113.161.6.157:1935/live/audiostream" 
+  },
+   {
+    
+    "name":"Quảng Ninh Radio 1",
+    "url":"rtmp://123.29.68.44/hctv/vsrd001" 
+  },
+  {
+    "name":"Quảng Ninh Radio 2",
+    "url":"rtmp://123.29.68.44/hctv/vsrd004" 
+  },
+  {
+    "name":"Sóc Trăng",
+    "url":"rtmp://115.78.3.164/live/FMsoctrang" 
+
+  },
+  {
+    "name":"Sơn La",
+    "url":"http://118.107.76.15:1983/live/SLradio.stream/playlist.m3u8" 
+
+  },
+  {
+     "name":"Tiền Giang",
+    "url":"rtmp://123.30.141.4:1935/live/radio" 
+  },
+  {
+    "name":"Tuyên Quang",
+    "url":"rtmp://210.245.89.40:1935/live/liveaudiostream" 
+  },
+  {
+    
+    "name":"Vũng Tàu",
+    "url":"rtmp://113.163.216.24:80/livepkgr/livestream" 
+  },
+  {
+     "name":"Yên Bái",
+    "url":"rtmp://123.30.186.141/oflaDemo/livestream" 
+  },
+  {
+
+		    "name": "Hải Ngoại:Radio Bolsa Westminster",
           	   "image": "",
-          	   "url": "rtmp://210.245.60.242:1935/nghehevov1 playpath=vov1 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/"
-		    },
-		    {	
-		    "name": "VOV2",
-          	   "image": "",
-          	   "url": "rtmp://210.245.60.242:1935/nghehevov2 playpath=vov2 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/"
-		    },
-		    {	
-		    "name": "VOV3",
-          	   "image": "",
-          	   "url": "rtmp://210.245.60.242:1935/nghehevov1 playpath=vov3 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/"
-		    },
-		    {
-		    "name": "VOV247",
-          	   "image": "",
-          	   "url": "rtmp://210.245.60.242:1935/vov247 playpath=vov247 live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/"
-		    },
-		    {
-		    "name": "Joy FM (kênh chăm sóc sức khỏe)",
-          	   "image": "",
-          	   "url": "rtmp://radio.joyfm.vn:1935/live playpath=RadioOnline live=1 swfUrl=http://hanoitv.vn/lib/JScripts/player.swf pageUrl=http://hanoitv.vn/joy.radio"
-		    },
-		    {
-		    "name": "Radio Hà Nội FM 90.0 MHz",
-          	   "image": "",
-          	   "url": "rtmp://123.30.185.123/live/ playpath=hn1audio live=1 swfUrl=http://hanoitv.vn/lib/jwplayer6.12/jwplayer.flash.swf pageUrl=http://hanoitv.vn/fm90.radio"
-		    },
-		    {
-		    "name": "VOV GTHN",
-          	   "image": "",
-          	   "url": "rtmp://210.245.60.242:1935/vovgt/ playpath=vovgt live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/"
-		    },
-		    {
-		    "name": "VOV GTTPHCM",
-          	   "image": "",
-          	   "url": "rtmp://210.245.60.242:1935/vovgtsg/ playpath=vovgtsg live=1 swfUrl=http://player.phim.pw/player/jwplayer.flash.swf pageUrl=http://player.phim.pw/"
-		    },
-		    {	
-		    "name": "VOH FM 99.9 MHz",
-          	   "image": "",
-          	   "url": "http://221.132.38.110:1935/live/channel3/playlist.m3u8"
-		    },
-		    {	
-		    "name": "VOH AM 610 KHz",
-          	   "image": "",
-          	   "url": "http://221.132.38.110:1935/live/channel2/playlist.m3u8"
-		    },
-		    {	
-		    "name": "VOH FM 95.6 Mhz",
-          	   "image": "",
-          	   "url": "http://221.132.38.110:1935/live//channel1/playlist.m3u8"
-		    },
-		    {	
-		    "name": "Cherry radio-Tin tức.giải trí",
-          	   "image": "",
-          	   "url": "http://50.7.96.210:8618/;stream.mp3"
-		    },
-		    {	
-		    "name": "Cherry radio-Nhạc trữ tình",
-          	   "image": "",
-          	   "url": "http://174.37.252.208:8500/;stream.mp3"
-		    },
-		    {	
-		    "name": "Hải Ngoại:VOA tiếng Việt",
-          	   "image": "",
-          	   "url": "http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56"
+          	   "url": "http://ice7.securenetsystems.net/RBVU?type=.flv"
 		    },
 		    {	
 		    "name": "Hải Ngoại:Saigon Radio 106.3 FM Los Angeles",
@@ -4633,6 +4803,126 @@
 		    "name": "Hải Ngoại:Radio VNHN/VABC Falls Church",
           	   "image": "",
           	   "url": "http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8"
+		    },
+		    {
+    "name":"VoA 1",
+    "url":"http://voa-28.ng.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28" 
+   },
+  {
+    "name":"KJAZZ (Music)",
+    "url":"http://1.ice1.firststreaming.com:8000/kkjz_fm.aac" 
+   },
+  {
+    "name":"Jazz FM (Music)",
+    "url":"http://tx.sharp-stream.com/icecast.php?i=jazzfmmobile.aac" 
+  },
+  {
+    "name":"Classic FM (Music)",
+    "url":"http://media-ice.musicradio.com/ClassicFM" 
+  },
+  {
+    "name":"FUV Music",
+    "url":"http://50.31.165.82/music-aacplus-nopreroll" 
+  },
+  {
+    "name": "BBC Radio 1",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p" 
+  },
+  {
+    "name": "BBC Radio 1 Extra",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_q" 
+   },
+  {
+    "name": "BBC Radio 2",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p" 
+  },
+  {
+    "name": "BBC Radio 3",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p" 
+  },
+  {
+    "name":"ABC News (Australia)",
+    "url":"http://live-radio02.mediahubaustralia.com/PBW/mp3/" 
+  },
+  {
+    "name":"LBC London",
+    "url":"http://media-ice.musicradio.com/LBCLondonMP3Low" 
+  },
+  {
+    "name":"LBC London News",
+    "url":"http://media-ice.musicradio.com/LBC1152MP3Low" 
+  },
+  {
+    "name":"LBC UK",
+    "url":"http://media-ice.musicradio.com/LBCUK" 
+  },
+  {
+    "name":"ESPN New York",
+    "url":"http://edge.espn.cdn.abacast.net/espn-wepnmp3-32?source=tunein" 
+  },
+  {
+    "name":"ESPN Los Angeles",
+    "url":"http://edge.espn.cdn.abacast.net/espn-kspnmp3-48?source=tunein" 
+  },
+  {
+    "name":"WTOP FM (Washington DC)",
+    "url":"http://16863.live.streamtheworld.com/WTOPFM_SC" 
+  },
+  {
+    "name":"WNYC FM (New York)",
+    "url":"http://204.93.192.135/wnycfm-tunein.aac" 
+  },
+  {
+    "name":"KEXP FM (Seattle)",
+    "url":"http://live-aacplus-64.kexp.org/kexp64.aac" 
+  },
+  {
+    "name":"KABL FM (SF)",
+    "url":"http://184.164.135.70:8259/stream" 
+  },
+  {
+    "name":"CBS 981 (Hàn Quốc)",
+    "url":"rtsp://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream" 
+   },
+  {
+     "name":"Arirang FM (Hàn Quốc)",
+    "url":"rtmp://arirang.ktics.co.kr/fm/_definst_/mp4:fm128",
+  },
+  {
+    "name":"BBS FM (Hàn Quốc)",
+    "url":"rtmp://bbslive.clouducs.com/bbsradio-mlive/livestream" 
+  },
+  {
+    "name":"988 FM TQ",
+    "url":"http://starrfm.rastream.com/starrfm-988" 
+  },
+  {
+    "name":"Quảng Đông Music",
+    "url":"http://ctt.rgd.com.cn:8000/fm993" 
+  },
+  {
+    "name":"VOA Trung Quốc",
+    "url":"http://voa-11.ng.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11" 
+  },
+  {
+    "name":"UFM 1003 TQ",
+    "url":"http://sph.rastream.com/1003fm" 
+  },
+  {
+    "name":"Yes 93.3 FM TQ",
+    "url":"http://mediacorp.rastream.com/933fm" 
+  },
+  {
+    "name":"Chinese Mandarin Radio",
+    "url":"http://mobilekazn.serverroom.us:6914" 
+  },
+  {
+    "name":"Capital 95.8 FM TQ",
+    "url":"http://mediacorp.rastream.com/958fm" 
+  },
+  {
+    "name":"RTI News TQ",
+    "url":"mms://media.ccdntech.com/wmtencoder/rti/cbs2.wmv" 
     }
                 
     ]
