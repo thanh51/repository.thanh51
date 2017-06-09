@@ -1,4 +1,4 @@
-{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update 07h00' ngày 09/06/2017):Cập nhật lịch thi đấu Fifa  World cup U20 và các kênh acestream sports; Bổ sung nhóm kênh truyền hình Mỹ và các kênh thể thao HD. Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
+{"name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One (update ngày 10/06/2017):Cập nhật acestream sports channels. Một số kênh cần app sopcast và app Ace stream media - Hãy nhập lại path khi có update mới. Chúc bạn thưởng thức vui vẻ !",
     "author": "thanh51",
     "url": "http://w3ubin.com/417_l9uNz.w3u",
    "groups": [
@@ -10,6 +10,11 @@
                 "stations": [
  				  {
 
+			"name": "(13h30 ngày 11/06/2017) - Tranh giải ba:Uruguay vs Italy (AV27-28)",
+          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
+			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
+		        },
+		        {
 			"name": "(13h30 ngày 11/06/2017) - Tranh giải ba:Uruguay vs Italy (AV7)",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://c4fae9f2d3b2299de258e9f2f4fbc45e3fcefda0"
@@ -23,7 +28,11 @@
   		        "image": "http://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-usa.png","url": "http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts"				
 		        },
 		        {
-
+			"name": "(17h00 ngày 11/06/2017) - Chung kết:Venezuela vs England (AV27-28)",
+          	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
+			"url": "acestream://dd7b7780bb13ce3757827f301c761ebe17a19015"
+		        },
+		        {
 			"name": "(17h00 ngày 11/06/2017) - Chung kết:Venezuela vs England (AV7)",
           	        "image": "https://s22.postimg.org/9vk2rbqep/ace.png",
 			"url": "acestream://c4fae9f2d3b2299de258e9f2f4fbc45e3fcefda0"
@@ -32,11 +41,9 @@
 			"name": "(17h00 ngày 11/06/2017) - Chung kết:Venezuela vs England (channel FS1 USA s1)",
   		        "image": "http://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-usa.png","url": "http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts","userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36"
 		        },
-		        {			
-
-			"name": "(17h00 ngày 11/06/2017) - Chung kết:Venezuela vs England (channel FS1 USA s2) ",
-  		        "image": "http://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-usa.png","url": "http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts"				
-		  
+		        {	
+   		        "name": "(17h00 ngày 11/06/2017) - Chung kết:Venezuela vs England (channel FS1 USA s2) ",
+  		        "image": "http://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-usa.png","url": "http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts"	
     }
                 
     ]
@@ -116,12 +123,12 @@
 "name":"BT Sport 2","url": "acestream://04b38c71065be18d799edf8c37d63e738030b84d"},{
 "name":"BT Sport ESPN","url": "acestream://f4e2ade22f407fe567728923cbbe1ccb5b43a9df"},{
 "name":"CBC Sport HD","url": "acestream://21f6cfa67820200d37d046a0905159c9fd8577ae"},{
-"name":"Eurosport 1","url": "acestream://ef1eed9fe589c5caf769013aac06f2921f2a7b1f"},{
-"name":"Eurosport 1 HD","url": "acestream://c9deec2b78c01655b01827d6b46af996cb700404"},{
+"name":"Eurosport 1","url": "acestream://b068d0e752d9df87d765a6070ff89636a6096805"},{
+"name":"Eurosport 1 HD","url": "acestream://4e5a07c24995e792f54d206d5e1b693b7c2db5e2"},{
 "name":"Eurosport 2","url": "acestream://d5084c1860732733fa44fda6ab58fe326d71de26"},{
 "name":"Eurosport 2 HD","url": "acestream://25ea35390f4cf8efebc5306678c7443c5b4cba31"},{
-"name":"Extreme Sports","url": "acestream://54499ad1ade1eb4c981f9285cdad4eea1f9a3045"},{
-"name":"Idman TV","url": "acestream://311e0a3df02d9fee83ba8438fa95205d0678059b"},{
+"name":"Extreme Sports","url": "acestream://91168de9f7cc7fbc26b1f4340a44491a1501b0b5"},{
+"name":"Idman TV","url": "acestream://3bc589344ebe1ac79df069c5a2e3292488e5365f"},{
 "name":"Kazsport","url": "acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1"},{
 "name":"Real Madrid TV","url": "acestream://677b613d289b71812cbee35c6948a27161a50b7f"},{
 "name":"Setanta Sports + HD","url": "acestream://887c32a4712d6ce3c6104562e2ee3d9afb1592ac"},{
@@ -132,41 +139,41 @@
 "name":"Sky Sports F1","url": "acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295"},{
 "name":"Sport 1 LT","url": "acestream://0b48bf1261368b82637d8a26eb4457d54c80f3e1"},{
 "name":"Sport 5+ Live HD","url": "acestream://9e0a489436b0859e20098fc3f81e07abb4c5a612"},{
-"name":"Super Tennis HD","url": "acestream://73b5b854e44a169884f0e04f278ba74206b589f4"},{
+"name":"Super Tennis HD","url": "acestream://d3975ca33e7ebd5882f14d5717db453d6f3e53aa"},{
 "name":"TSN 1","url": "acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225"},{
-"name":"Viasat Fotboll","url": "acestream://d0163f1da9ce61ae0bc89b899817298ac0dc0b6a"},{
+"name":"Viasat Fotboll","url": "acestream://0082738f80546d88e8c9b397018b79ff149cd201"},{
 "name":"Viasat Golf","url": "acestream://9802a03f4ae299a97eac0077c67c16d4e0d6f0a2"},{
 "name":"Viasat Hockey","url": "acestream://7a73b3500cedc9f986ba0ac26776a2be236f71e4"},{
-"name":"Viasat Sport","url": "acestream://bb8e1aaf149f8fff8c6eb0f9923a3e8321628b37"},{
-"name":"Viasat Sport Baltic","url": "acestream://fcd6052ce4b89f7801d64af081a27b580e83ed24"},{
-"name":"Viasat Sport HD","url": "acestream://8ff7334035a3869306a9aaea5db760dca05e34d9"},{
-"name":"КХЛ HD","url": "acestream://1f20b3747eb96ef00c73b2b9f80e3027b79d8d0c"},{
+"name":"Viasat Sport","url": "acestream://660063f5f26ea0b8dfd87180cc73ea089cf8ddf8"},{
+"name":"Viasat Sport Baltic","url": "acestream://ea2ae9f53422767d534ef1560212d7875a4e9195"},{
+"name":"Viasat Sport HD","url": "acestream://0ac992377d252c1f5f4a15d866fd84a3aa635553"},{
+"name":"КХЛ HD","url": "acestream://1ecabcb01289e6dc7b7cb6c0b9aad496c1f23e1a"},{
 "name":"КХЛ ТВ","url": "acestream://d3a19ca995ac00def6af7f4cca956d575f7ef4d8"},{
 "name":"Конный мир","url": "acestream://d1fe68d95dd9a05c37e54ee7ad521cf5be61936d"},{
-"name":"Матч ТВ","url": "acestream://cf9068f2c1b7df4fdf9f8aef4add347cb7f3a06d"},{
-"name":"Матч ТВ HD","url": "acestream://f2093f9fc8c656185281f30f288f65fe8922b3fe"},{
+"name":"Матч ТВ","url": "acestream://38be2709f53fd8a38cb18e3789f05f406f5090e2"},{
+"name":"Матч ТВ HD","url": "acestream://43c2a3d9e59c87319791ef9a67d66db330354ba6"},{
 "name":"Матч! Арена","url": "acestream://2a789f536f4f95192bafd9b7613c521daad480f5"},{
-"name":"Матч! Арена HD","url": "acestream://8303879a893f2fec46daf584a47e9565b8e7ff50"},{
+"name":"Матч! Арена HD","url": "acestream://88e2db252f4f00ff4f6870131e975d9d71c59f7a"},{
 "name":"Матч! Игра","url": "acestream://086f1ec55f6080823028b0927da9d9daf3fe4aaf"},{
-"name":"Матч! Игра HD","url": "acestream://b978bf9fffdcc7bb8a9d638efbdec11c958191b6"},{
-"name":"Матч! Наш Спорт","url": "acestream://6c543f366673fbad9b3875af5fa37e93622b3302"},{
-"name":"Матч! Планета","url": "acestream://c5f49f0dbdecedb60a90e761bbc8182063050e9d"},{
-"name":"Матч! Футбол 1","url": "acestream://e82ca384f3ab9768592a573ae4650a9041f6de62"},{
-"name":"Матч! Футбол 1 HD","url": "acestream://9df6bfceeb03b39a9952a6e4460ca9968f539ca6"},{
-"name":"Матч! Футбол 1 HD Резерв 1","url": "acestream://0b3b446dbb2a8a8300be9b407545e6c40217583e"},{
-"name":"Матч! Футбол 1 HD Резерв 2","url": "acestream://0ee962a9104d05a8b1cdc88d0722dff8610088c7"},{
+"name":"Матч! Игра HD","url": "acestream://dfd4be9215b3b5ed6769b0d4e65a34bc17a502f0"},{
+"name":"Матч! Наш Спорт","url": "acestream://5879b5ba59771cde2b6b34e30493d601a85213f5"},{
+"name":"Матч! Планета","url": "acestream://bd88262ae6595b8bfd51fba081ffcb561d569977"},{
+"name":"Матч! Футбол 1","url": "acestream://9703eac4b2c53158378760c599ab758c33dbb686"},{
+"name":"Матч! Футбол 1 HD","url": "acestream://9c007d30d50ec33b6781b86d2e63cc955a8850e7"},{
+"name":"Матч! Футбол 1 HD Резерв 1","url": "acestream://1b5b16e8e56c27906eaf4dddd8beb8f14a07b900"},{
+"name":"Матч! Футбол 1 HD Резерв 2","url": "acestream://6ba38307cbea1d940a1da05db540338f461e3464"},{
 "name":"Матч! Футбол 1 HD Резерв 3","url": "acestream://8187f9c5fab85c186edc76b5b6415b804bfcdd97"},{
 "name":"Матч! Футбол 1 Резерв 1","url": "acestream://64353a9f1400b232640302e91e9f0eb20385677e"},{
 "name":"Матч! Футбол 1 Резерв 2","url": "acestream://6156a3d3eb83f6a325491368e44df8cb02d32cac"},{
 "name":"Матч! Футбол 1 Резерв 3","url": "acestream://79b4593d57105d3bae7ae8dc1a34aec1544a7723"},{
-"name":"Матч! Футбол 2","url": "acestream://aee7b5377756ae8775ee97c3df28b66dabf377b0"},{
-"name":"Матч! Футбол 2 HD","url": "acestream://f7d1fb95cdbe57118d6603995a033820fd6efa4b"},{
-"name":"Матч! Футбол 3","url": "acestream://888afb6e2a8361ff8b6ec91f32bfe11af11e46ec"},{
-"name":"Матч! Футбол 3 HD","url": "acestream://c7969721878e475f4d7526b6618be443b9db8862"},{
+"name":"Матч! Футбол 2","url": "acestream://ec39e3f923b5d2e582a147308af7dfd927317834"},{
+"name":"Матч! Футбол 2 HD","url": "acestream://02e89dc647ef3ec8ee7947b4cfc3a9dc327c0e0a"},{
+"name":"Матч! Футбол 3","url": "acestream://b17340bb1580bd20921e1687c647c26c5b9d719d"},{
+"name":"Матч! Футбол 3 HD","url": "acestream://d113106f9e782f7d64099376bbd66505c1ee7d6f"},{
 "name":"Наш футбол HD","url": "acestream://3ea9d83a91347f6b7bcabeb89b3c5de3dff2cf75"},{
 "name":"Спорт 1 (Украина)","url": "acestream://c4e6518298f9e35e6240f9a264a80766f16e5831"},{
-"name":"Футбол","url": "acestream://6535445e2d295915193a60f3895c6ccd9fbd89e7"},{
-"name":"Футбол 1 (Украина)","url": "acestream://1002dee41da830b65d092b93834328333ea298c7"},{
+"name":"Футбол","url": "acestream://8dbd863e621739e36fef39a2301e932a3c5fee3c"},{
+"name":"Футбол 1 (Украина)","url": "acestream://678fa328d6e28f72f6c3f21e7d6e4464bb1b5107"},{
 "name":"Футбол 2 (Украина)","url": "acestream://cf197405805b7d8d7034f9fa1afd831d7c1015a0" 
 
     }
