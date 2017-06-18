@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 13.06.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 19.06.2017[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
@@ -9,14 +9,20 @@ udp://@225.1.2.1:30120
 udp://@225.1.2.249:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2
 udp://@225.1.1.249:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
+udp://@225.1.2.13:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3
 udp://@225.1.2.167:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
 udp://@225.1.2.247:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4
 udp://@225.1.1.248:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
+udp://@225.1.2.20:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5
 udp://@225.1.1.247:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
+udp://@225.1.1.131:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
 udp://@225.1.1.246:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
@@ -29,6 +35,8 @@ udp://@225.1.2.137:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/qCWsfhc.png",VTV9
 udp://@225.1.1.153:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
+udp://@225.1.1.128:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
 udp://@225.1.1.226:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN HD
