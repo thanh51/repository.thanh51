@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 15/06/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 18/06/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -134,10 +134,16 @@ http://113.160.49.39/lives/origin04/v3sd.isml/v3sd.m3u8
 http://sv.tivi3g.com/stream-vtv/vtv3.m3u8		    
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 s3 
 http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv4.png",VTV4
+http://sv.tivi3g.com/stream-vtv/vtv4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv5.png",VTV5
+http://sv.tivi3g.com/stream-vtv/vtv5.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 s1
 http://203.162.235.41:17822
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 s2
-http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8
+http://sv.tivi3g.com/stream-vtv/vtv6.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv7.png",VTV7
+http://sv.tivi3g.com/stream-vtv/vtv7.m3u8
 #XTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8 s1
 http://sv.tivi3g.com/stream-vtv/vtv8.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8 s2
@@ -160,49 +166,13 @@ http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
  
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1
 http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
-http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3
 http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
-http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
-http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png",VTC6
-http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
-http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
-http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
-http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8          
-#EXTINF:-1 group-title="VTC" tvg-logo="http://103.56.158.185/tv_icon/vtc10.png",VTC10
-http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
-http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png",VTC12
-http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s2
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
-http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
-http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8 
 #EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC PLAY
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
 
-#EXTINF:-1 group-title="MobiTV" tvg-logo="https://s29.postimg.org/b2fgjxxuv/anvienhd.jpg", ANVIEN HD
-http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png", ANTG HD
 http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM BTV10
@@ -214,9 +184,6 @@ http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|Use
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 
-
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
-rtmp://vf10.aditmedia.net/ingestx/ivn_000105
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 
