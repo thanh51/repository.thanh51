@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 18/06/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 25/06/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -15,7 +15,9 @@ http://www.youtube.com
 http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", USA:NBC SN
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/48.mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="", USA:Fox Sports 1
+#EXTINF:-1 group-title="Sports" tvg-logo="", USA:Fox Sports 1 s1
+http://thepk.co:2095/live/husham/isaplayer/1632.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="", USA:Fox Sports 1 s2
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts
 #EXTINF:-1 group-title="Sports" tvg-logo="", USA:Fox Sports 2
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/51.mpegts
@@ -59,6 +61,7 @@ http://192.99.66.208:9090/load/wk2bl7jh3cdk/46.mpegts
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/47.mpegts
 #EXTINF:-1 group-title="Sports" tvg-logo="", USA:CBS SN
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/49.mpegts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s1
 http://www.lineduball.com/ch1/hls-live/channel1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",Thai:Sport s2
@@ -117,7 +120,7 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Frace)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
- 
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV 1 s1 
 http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1 s2
@@ -307,30 +310,102 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3
 #EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",VNA TV 
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
-#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/3lybypo35/londonlive.jpg",USA:LONDON LIVE 
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s29.postimg.org/lpsr47ilj/bbcamerica.png",USA:BBC AMERICA
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s29.postimg.org/ocl64c5zb/abcnews.png",USA:ABC NEWS 
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
-#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",USA:CNN 
-http://208.86.19.13:8080/live/20.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-#EXTINF:-1 group-title="US" tvg-logo="https://s28.postimg.org/8jutkxofh/trutv.png",USA:TRU TV 
-http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/discovery.png",USA:DISCOVERY 
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/animalplanet.png",USA:ANIMAL PLANET HD 
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.zoptv.com/assets/logo/nickelodeon-uk.png",USA:NICK TOONS 
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/tnt.png",USA:TNT 
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/v99c5trtt/image.jpg",USA:H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/agk8xbxld/military.png",USA:MILITARY
-http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",AMC USA
+http://thepk.co:2095/live/husham/isaplayer/1630.ts
+#EXTINF:-1 group-title="US" tvg-logo="",ANIMAL PLANET USA
+http://thepk.co:2095/live/husham/isaplayer/1631.ts
+#EXTINF:-1 group-title="US" tvg-logo="",BET
+http://thepk.co:2095/live/husham/isaplayer/1629.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CA : ABC SPARK
+http://thepk.co:2095/live/husham/isaplayer/1619.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CA : CARTOON NETWORK
+http://thepk.co:2095/live/husham/isaplayer/1618.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CA : CBC TORONTO
+http://thepk.co:2095/live/husham/isaplayer/1617.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CARTOON NETWORK USA
+http://thepk.co:2095/live/husham/isaplayer/1649.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CBS
+http://thepk.co:2095/live/husham/isaplayer/1628.ts
+#EXTINF:-1 group-title="US" tvg-logo="",Cinemax East
+http://thepk.co:2095/live/husham/isaplayer/1621.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CINEMAX MORE
+http://thepk.co:2095/live/husham/isaplayer/1627.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CNBC
+http://thepk.co:2095/live/husham/isaplayer/1626.ts
+#EXTINF:-1 group-title="US" tvg-logo="",CRIME AND INVESTIGATION
+http://thepk.co:2095/live/husham/isaplayer/1638.ts
+#EXTINF:-1 group-title="US" tvg-logo="",DISCOVERY HISTORY
+http://thepk.co:2095/live/husham/isaplayer/1637.ts
+#EXTINF:-1 group-title="US" tvg-logo="",DISNEY XD
+http://thepk.co:2095/live/husham/isaplayer/1648.ts
+#EXTINF:-1 group-title="US" tvg-logo="",ESPN
+http://thepk.co:2095/live/husham/isaplayer/1634.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FIGHT NETWORK
+http://thepk.co:2095/live/husham/isaplayer/1633.ts
+#EXTINF:-1 group-title="US" tvg-logo="",Food Network USA
+http://thepk.co:2095/live/husham/isaplayer/1623.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FOX SPORTS 1
+http://thepk.co:2095/live/husham/isaplayer/1632.ts
+#EXTINF:-1 group-title="US" tvg-logo="",HGTV USA HD
+http://thepk.co:2095/live/husham/isaplayer/1644.ts
+#EXTINF:-1 group-title="US" tvg-logo="",HISTORY USA
+http://thepk.co:2095/live/husham/isaplayer/1635.ts
+#EXTINF:-1 group-title="US" tvg-logo="",NAT GEO WILD USA
+http://thepk.co:2095/live/husham/isaplayer/1636.ts
+#EXTINF:-1 group-title="US" tvg-logo="",NHL 1 HD
+http://thepk.co:2095/live/husham/isaplayer/1656.ts
+#EXTINF:-1 group-title="US" tvg-logo="",NHL 10 HD
+http://thepk.co:2095/live/husham/isaplayer/1655.ts
+#EXTINF:-1 group-title="US" tvg-logo="",NHL 11 HD
+http://thepk.co:2095/live/husham/isaplayer/1654.ts
+#EXTINF:-1 group-title="US" tvg-logo="",PAC 12 ARIZONA HD
+http://thepk.co:2095/live/husham/isaplayer/1647.ts
+#EXTINF:-1 group-title="US" tvg-logo="",PAC 12 BAY AREA HD
+http://thepk.co:2095/live/husham/isaplayer/1646.ts
+#EXTINF:-1 group-title="US" tvg-logo="",PAC 12 LA HD
+http://thepk.co:2095/live/husham/isaplayer/1645.ts
+#EXTINF:-1 group-title="US" tvg-logo="",PBS
+http://thepk.co:2095/live/husham/isaplayer/1625.ts
+#EXTINF:-1 group-title="US" tvg-logo="",SHOWTIME 2
+http://thepk.co:2095/live/husham/isaplayer/1624.ts
+#EXTINF:-1 group-title="US" tvg-logo="",SPORTS NET ONTARIO
+http://thepk.co:2095/live/husham/isaplayer/1643.ts
+#EXTINF:-1 group-title="US" tvg-logo="",SPORTSNET 360
+http://thepk.co:2095/live/husham/isaplayer/1642.ts
+#EXTINF:-1 group-title="US" tvg-logo="",SPORTSNET ONE
+http://thepk.co:2095/live/husham/isaplayer/1641.ts
+#EXTINF:-1 group-title="US" tvg-logo="",STARZ KIDS AND FAMILY
+http://thepk.co:2095/live/husham/isaplayer/1620.ts
+#EXTINF:-1 group-title="US" tvg-logo="",THE WEATHER CHANNEL USA
+http://thepk.co:2095/live/husham/isaplayer/1622.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TSN 1
+http://thepk.co:2095/live/husham/isaplayer/1640.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TSN 2
+http://thepk.co:2095/live/husham/isaplayer/1639.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -MLB Extra Innings 720
+http://thepk.co:2095/live/husham/isaplayer/1659.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -MLB Extra Innings 721
+http://thepk.co:2095/live/husham/isaplayer/1658.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -MLB Extra Innings 722
+http://thepk.co:2095/live/husham/isaplayer/1657.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 3 HD
+http://thepk.co:2095/live/husham/isaplayer/1653.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 4 HD
+http://thepk.co:2095/live/husham/isaplayer/1652.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 5 HD
+http://thepk.co:2095/live/husham/isaplayer/1651.ts
+#EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 6 HD
+http://thepk.co:2095/live/husham/isaplayer/1650.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC MEXICAAN
+http://thepk.co:2095/live/husham/isaplayer/841.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC POP & COUNTRY
+http://thepk.co:2095/live/husham/isaplayer/840.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC POP HITS
+http://thepk.co:2095/live/husham/isaplayer/839.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC R&B SOUL
+http://thepk.co:2095/live/husham/isaplayer/838.ts
+#EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC RAP 2K
+http://thepk.co:2095/live/husham/isaplayer/836.ts
 
 #EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/u6gaxjmfj/cinefx.png",CINE FX
 http://live-m03.abweb.com/liveabm03/cinefx.smil/chunklist_b1296000_slFRA.m3u8
@@ -480,4 +555,3 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/121900_BHDgs.flv
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
