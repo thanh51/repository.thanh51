@@ -1,10 +1,10 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 19.06.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 26.06.2017[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
-udp://@225.1.2.1:30120
+udp://@225.1.1.250:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
 udp://@225.1.2.249:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2
@@ -238,8 +238,8 @@ udp://225.1.1.164:30120
 udp://225.1.2.165:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/vinh-phuc.png",VĨNH PHÚC
 udp://225.1.2.99:30120
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thp.png",Hải Phòng
-udp://225.1.2.187:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thp.png",Hải Phòng HD
+udp://225.1.1.44:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-1.png",Quảng Ninh 1
 udp://225.1.2.181:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-3.png",Quảng Ninh 3
