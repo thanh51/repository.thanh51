@@ -11,8 +11,6 @@ http://www.youtube.com
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", USA:NBC SN
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/48.mpegts
 #EXTINF:-1 group-title="Sports" tvg-logo="", USA:Fox Sports 1 s1
@@ -121,56 +119,25 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Frace)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV 1 s1 
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1 
 http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1 s2
-http://sv.tivi3g.com/stream-vtv/vtv1.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png,VTV1 s3
-http://123.30.185.126/hls/vtv1.m3u8		    	
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2 s1 
-http://sv.tivi3g.com/stream-vtv/vtv2.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2 s2 
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 s1 
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 
 http://113.160.49.39/lives/origin04/v3sd.isml/v3sd.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 s2 
-http://sv.tivi3g.com/stream-vtv/vtv3.m3u8		    
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 s3 
-http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv4.png",VTV4
-http://sv.tivi3g.com/stream-vtv/vtv4.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv5.png",VTV5
-http://sv.tivi3g.com/stream-vtv/vtv5.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 s1
-http://203.162.235.41:17822
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 s2
-http://sv.tivi3g.com/stream-vtv/vtv6.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv7.png",VTV7
-http://sv.tivi3g.com/stream-vtv/vtv7.m3u8
-#XTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8 s1
-http://sv.tivi3g.com/stream-vtv/vtv8.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8 s2
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
+http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8 
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv9.png",VTV9
-http://sv.tivi3g.com/stream-vtv/vtv9.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png",ANTV
-http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="",VOV
-http://123.30.185.126/hls/vov.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-             
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHAN DAN
+http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8             
 #EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV 7
 http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV 9
 http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
  
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1
-http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3
-http://123.30.185.126/hls/vtc3.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC PLAY
@@ -190,10 +157,6 @@ http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Age
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HANOI 1
-http://123.30.185.126/hls/hanoi1.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HANOI 2
-http://123.30.185.126/hls/hanoi2.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",Ha Giang
 http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/son-la.png",Son La
@@ -206,8 +169,6 @@ http://118.107.76.15:1983/live/BK_live.smil/playlist.m3u8
 rtmp://123.18.206.40:1935/live/livestream
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
 rtmp://45.124.85.26/oflaDemo/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
-http://123.30.185.126/hls/hoabinh.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
 http://118.107.76.15:1983/live/smil:PT_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
@@ -262,8 +223,6 @@ http://123.30.185.126/hls/tiengiang.m3u8
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hau Giang
 rtmp://123.30.110.170:1939/thhg/thhg
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/YAGwIeW.png",CÀ MAU
-rtmp://113.161.220.254/livepkgr/ playpath=livestream1?adbe-live-event=liveevent live=1 swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf pageUrl=http://ctvcamau.vn/
 
 #EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png", Việtface Cali. 57.2 
 http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
