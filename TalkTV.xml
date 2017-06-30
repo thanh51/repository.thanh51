@@ -39,18 +39,6 @@
 <cookieJar></cookieJar>
 </regex>
 </item> 
-
-<item>
-<title>XEM BÓNG ÐÁ</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/playonline</page>
-<cookieJar></cookieJar>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>  
-</regex>
-</item> 
 //////////////////
 
 </items>    
