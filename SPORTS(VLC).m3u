@@ -34,6 +34,9 @@ http://127.0.0.1:6878/ace/getstream?id=3fe81a6abda4fa2574e11672f613dea23c362928&
 http://127.0.0.1:6878/ace/getstream?id=bea4d78d37b0d2c4077bdbfdd78e78f54b0e5799&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,PREMIER SPORT 2 UK
 http://127.0.0.1:6878/ace/getstream?id=c728c0d6b301e30d782686f5999b54ca2d8cbe2f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1,BOX NATION UK 
+http://127.0.0.1:6878/ace/getstream?id=7959d092b006f0db312298b7a2fc6e690a299884&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
 #EXTINF:-1,NBCSN US
 http://127.0.0.1:6878/ace/getstream?id=2a3974d916e1af4a81655b1e8d6e0c08ac08b5fe&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,FOX SPORT 1 US
@@ -90,35 +93,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=12602cfc254ba7727b0b72ac49cfd6a7865e0
 #EXTINF:-1,AD SPORTS 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dbf971a54b123f20f93f6e9c8afd64b46b63c37f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,Sport Klub 1
-http://smarttv.tvviet.tv/live12/SK1HD.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Sport Klub 2
-http://smarttv.tvviet.tv/live12/SK2HD.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Sport Klub 3
-http://smarttv.tvviet.tv/live12/SK3HD.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,SportKlub 4
-http://smarttv.tvviet.tv/live82/SK4.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,SportKlub 5
-http://smarttv.tvviet.tv/live82/SK5.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,SportKlub 6
-http://smarttv.tvviet.tv/live82/SK6.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 1
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 2
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 3
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 4
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 5
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 1 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD1.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 2 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD2.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 3 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD3.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 4 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD4.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
-#EXTINF:-1,Arena Sport 5 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD5.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+#EXTINF:-1,FUTBOL 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c2e442b4fcfb99936fb465641aa6a9b279d21671&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
+#EXTINF:-1,FUTBOL 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a200b433ed7efbf3073c18a4a84bc2c0cadc3425&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
