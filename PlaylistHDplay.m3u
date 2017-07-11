@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 09/07/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 11/07/2017) *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
@@ -178,110 +178,86 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/f1g5yfew3/eurosport.png",EUROSPORTS (Frace)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1 
-http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 
-http://113.160.49.39/lives/origin04/v3sd.isml/v3sd.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
-http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8 
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
-rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
-http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHAN DAN
-http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8             
-#EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV 7
-http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
-#EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV 9
-http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
- 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC PLAY
-http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
-
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png", ANTG HD
-http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM BTV10
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png", PHIM HAY TV HD
-http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png", Mien Tay
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
-http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",Ha Giang
-http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/son-la.png",Son La
-http://118.107.76.15:1983/live/smil:SL_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",Cao Bang
-http://118.107.76.15:1983/live/CB_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Kan
-http://118.107.76.15:1983/live/BK_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
-rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
-rtmp://45.124.85.26/oflaDemo/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
-http://118.107.76.15:1983/live/smil:PT_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
-rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png",Quang Ninh 3
-rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",VINH PHUC 
-rtmp://117.6.162.63/live/thvp
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HaNam 
-rtmp://113.160.198.111:8086/live//hanamtv
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/ABygmpS.png",Ha Tinh 
-http://hatinhtv.vn/liveevent.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri s1
-http://118.107.76.15:1983/live/smil:QT_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri s2
-rtmp://123.25.117.9:80/live/qtv
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",THUA THIEN HUE 
-rtmp://118.69.176.149:1935/live/trt
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png",Da Nang 1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png",Da Nang 2 
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt2/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s22.postimg.org/4yt2cm741/quangnam.png",Quang Nam
-rtmp://113.161.6.157:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",Binh Dinh 
-http://123.30.185.126/hls/binhdinh.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",Khánh Hòa 
-rtmp://118.69.198.109/live/video
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s11.postimg.org/g5akk3vrn/dacnong.jpg",DAK NONG 
-rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lam-dong.png",Lam Dong
-http://118.107.76.15:1983/live/smil:LD_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",Binh Phuoc 1
-http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg",Binh Phuoc 2
-http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png",Bà Rịa-Vũng Tàu 
-rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-thvl1_w150_h150.png",THVL1 
-http://113.160.49.39/lives/origin04/vinhlongsd.isml/vinhlongsd.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg",Ben Tre
-rtmp://113.163.94.245/livepkgr/thbt
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg",Sóc trăng 
-rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s14.postimg.org/aqu8lk3i9/travinh.jpg",Tra Vinh 
-http://123.30.185.126/hls/travinh.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg",Bac Lieu 
-rtmp://118.69.205.213/livepkgr/livestream1
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png",Tien Giang 
-http://123.30.185.126/hls/tiengiang.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",An Giang 
-rtmp://113.161.212.25/live//atv1
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hau Giang
-rtmp://123.30.110.170:1939/thhg/thhg
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzQzZjkyNTEtYzUxNS00YmM3LWJiN2MtMzJhMjY5MGQwZDEwIiwiZXhwIjoxNDk4NjIzNzE0MzQ4fQ.ma172lhi2Nf9N10kQ6dj4Oyo8G10a1Cll_Yf-bOKfDo/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV1/VTV1_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZDkyYzlmNmEtMTEwZS00MDY0LWE2YTYtZGMwZDAyYjA4NzY3IiwiZXhwIjoxNDk4NjI0NDEzMzIzfQ.y8nhLpEY-Da3sBOLL-lauYLlE5o-Iv7dUTmJgk9nJqg/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV2/VTV2_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTQzOWNlYTgtZjkzNC00OWViLWE5MzAtYjI1YjM5NmQ1ZTQxIiwiZXhwIjoxNDk4NjI0NDkzNjA0fQ.VMjjRyW7fL4qSiSqOwIZ5x3J3wiMPstC3__q8vsqKcc/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV3/VTV3_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/QwsdDjH.png", VTV4 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiODE0NzBmOTMtMmQ3MS00MzliLTg2NTYtYTFlMzdkMWU2MzhhIiwiZXhwIjoxNDk4NjI0NTM4MjU5fQ.IswkLi6hrrb0CKSnbWuF36SyEeJPe7Z775R1fxWuAwk/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV4-new/VTV4-new_e90879a9/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/bdKkIw2.png", VTV5 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjA4NTgwNmEtZTE4NC00ZTU3LTkzYTEtZTcwYzllZmM2MzZiIiwiZXhwIjoxNDk4NjI0NjM5NjAyfQ.z9BXDNcDaQLat6lr5K0jrCcGzlUPFrawe38fKKKuJM0/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV5-new/VTV5-new_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiOTcxZTNmYmEtNzU3Yy00NjNhLWI4NzMtODk1MjY0Mzk4Yzk4IiwiZXhwIjoxNDk4NjI0Nzc1NzUxfQ.In-RULwai1jsq0becEH1D1ZwQh7IwGCjXDAqbTFrNy8/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV6/VTV6_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png", VTV7 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZWE0MzYzMjgtODkwMS00YzRlLTlkNGYtZjdkYWZkY2ZmMjkyIiwiZXhwIjoxNDk4NjI0OTY1MjcyfQ.fJQedweAsQur-QaA1yBOwAmxuJRdvBHtPTLnX3kXLw8/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV7-new/VTV7-new_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png", VTV8 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNWE1OWJhNzEtMzBiZS00MjgzLTgyMWYtN2JjM2I5NTBhZWYxIiwiZXhwIjoxNDk4NzI0MDM4MDAyfQ.HlaNfvvq8VcH7jy4iqBdQkOfeU0NGO4plVOB8BCWeds/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV8-new3/VTV8-new3_e90879a9/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/qCWsfhc.png", VTV9 
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2RiYjEzZDAtOWVkZS00NDU5LWEwMDMtYWNkYWYxYmZiYjEwIiwiZXhwIjoxNDk4NzI0MDc3NDQyfQ.Df5YHOpZIwRlDUQEXZZb6Nx-Tz0xDXt_FwIhpHajJFk/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV9/VTV9_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png", TTXVN
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzRlOThkMTgtYjFjYi00OGE5LWIwNjItOTA5NjVmY2U5NGFlIiwiZXhwIjoxNDk4NzI1MTI4NDcyfQ.KrJ1BVmDzdTkAi40_sObmPfpw132HFmTIyuQKNTYibY/hls/6adf97f83acf6453d4a6a4b1070f3754/VNews/VNews_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png", NHAN DAN
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTg1OTlhZmQtYTE2Mi00NTJmLWFjYmQtMTJkZjhjYTM5MjY2IiwiZXhwIjoxNDk4NzI1NTkyNjExfQ.VGO0wyYA9tVKsNYQh9XKgofevopm9Y8sRRIGc7KCzAQ/hls/6adf97f83acf6453d4a6a4b1070f3754/TH-NHAN-DAN/TH-NHAN-DAN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png", QUOC HOI
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTIxMjJiOTYtMmE2Yi00NzQ0LTk3ZjctYTZkYWJjNzBjZWU1IiwiZXhwIjoxNDk4NzI1NDQ2ODA2fQ.w0Olg31wm_EDradDFgOYzdbxh2BYfVzCd5UO4NRRzvw/hls/6adf97f83acf6453d4a6a4b1070f3754/QHVN/QHVN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png", QUOC PHONG VN
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGFhMThiZDktOWRiZC00NDk4LWJmN2EtOWU4ODg2MjJmMTRlIiwiZXhwIjoxNDk4NzI1NTEwNjE4fQ.UJs28oR2li3WYF_KOpK50VNyCtnStlM0SEBCEP-Sd0M/hls/6adf97f83acf6453d4a6a4b1070f3754/QPVN/QPVN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/VJ8DiUW.png", VTC1 HD
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMDM1MDI0YjQtYjhjZC00ZGE3LWFmNDEtYjBlYTMwM2Y5ZDZiIiwiZXhwIjoxNDk4NzI1ODQ5MzMwfQ.GSfFg3Jb5CMk23epmcREb7snSV3wifxCPZUBSdqIzrI/hls/6adf97f83acf6453d4a6a4b1070f3754/VTC1/VTC1_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", DOC SACH
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2I5NzYwMWUtMWQ3MC00NTI3LWIyMWYtZjlmMjVjYWVmYWQyIiwiZXhwIjoxNDk4NzI2MTU0ODY3fQ.4T-WXUaMrsNMKfpQ_VGGbizLlY9csxfIQnU14FETMio/hls/6adf97f83acf6453d4a6a4b1070f3754/DOC-SACH/DOC-SACH_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC CACH MANG
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjgwNjIzMzEtZmMyOS00YTVhLTgzMjctZWJhOThjNWI5YTE3IiwiZXhwIjoxNDk4NzI2NDc5NjI0fQ.6U75MwCksRkhLlW_YgRFvbxlDyyuwKLgL2dH0MmpBjw/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CACH-MANG/NHAC-CACH-MANG_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC CO DIEN
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYjAyZTY5NjQtOWJmOS00Y2Q3LWIxNzktNWM5YTVjOTRkN2M0IiwiZXhwIjoxNDk4NzI2MzU2NjgwfQ.1woiXMyW99x-JsWZyU-s0S2oafZBxbWINAfJraMC2jo/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CO-DIEN/NHAC-CO-DIEN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC DAN TOC
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNzZkZjcyMzEtNjUxOC00MjJkLWI3NzMtNGQyMGI0YmMwYmI4IiwiZXhwIjoxNDk4NzI2NTE5NjU0fQ.5zUVagqki7gi6CxdLfwgIQn_Hxi2Uk3sES3u1WDxJzA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-DAN-TOC/NHAC-DAN-TOC_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC NAM BO
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTcxYjdmMTktZjkxYS00ZGRjLWEyOGEtZTlhMmJjOTVjNmJiIiwiZXhwIjoxNDk4NzI2MjEyMjQzfQ.R5Q0JLN0El5yuc_dGRhQBS3JuiKW7FUdsc8lwRpvkvY/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NAM-BO/NHAC-NAM-BO_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC NHE
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ0NDZlZjMtM2IzMC00ZDMwLWE4NjctYTc4OGM4ZjQ0MzAwIiwiZXhwIjoxNDk4NzI2MjYwNDE5fQ.DntVjw-UGO_2yxFktynPMUawy4s7zeH6teyZkYPfUjU/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NHE/NHAC-NHE_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC THIEU NHI
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGJlMTE0OTUtODQ1Zi00MjJiLWIwY2YtYmIyODJhNDBlZDBhIiwiZXhwIjoxNDk4NzI2NDAxOTg1fQ.3YsXMr9pwXheaZYZimtQOSsguFj0bSsei2urCi6f9KA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-THIEU-NHI/NHAC-THIEU-NHI_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC TRE
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ2ODg4ZjItYTZkMi00NDY0LWIwMDEtZThjZDE5YWQwMjUxIiwiZXhwIjoxNDk4NzI2MzE3NjQwfQ.nV09JvqIsOSWEzFuewl_ZscnL-i4AGMpI_LbL5ZZE5U/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRE/NHAC-TRE_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="", NHAC TRU TINH
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiM2QzZjQ1Y2YtMWQ0Ny00NjE4LTk3NWUtM2ZjNmU4ZWM3YjIyIiwiZXhwIjoxNDk4NzI2NDQxNTkzfQ.-JB9oDGKgZljMRAKo9lrVcrM2nVwmeZJg-6_830-p8M/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRU-TINH/NHAC-TRU-TINH_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png", PHIM HAY HD
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzQyMGNmOTMtMjY4MC00ZmY2LTgzNWEtZDk2MzM1M2U5NmFiIiwiZXhwIjoxNDk4NzI0MTU5NjE0fQ.4R5uDPHT51CbFpaMvQTkh3XXluq8UNBhlJHoYhQ6ZLQ/hls/6adf97f83acf6453d4a6a4b1070f3754/PHIM-HAY/PHIM-HAY_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png", BTV6-VIETTEEN HD
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjAyNDQ4NmItMTIyNS00NTE4LTlmYzMtMjAwMjYzODRjZDVmIiwiZXhwIjoxNDk4NzI0MjAyMjY0fQ.f6xqraeZz_xb9qStFS5uhqaNgappmoIj92SUbcuRSTc/hls/6adf97f83acf6453d4a6a4b1070f3754/VIETTEEN/VIETTEEN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/ncm.png", BTV10-NCM
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiN2E1OGI0ZGUtNTFjMC00MWY5LWE5ZmMtMDBhZGNhOGZkYzIxIiwiZXhwIjoxNDk4NzI1MzA3OTg0fQ.0EvrKroma0AIdt7QTp6cJ8fTiwyvfPhCc3z4ci1EQhU/hls/6adf97f83acf6453d4a6a4b1070f3754/NCM/NCM_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/sam.png", BTV11-SAM HD
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiOGRjMzQ3NTQtYjgwOC00ZDRiLTkzMzQtODYzODgyNGVhMGFjIiwiZXhwIjoxNDk4NzI1OTkwOTU4fQ.50GKs1A5Opck9dVNUm7tdh-nZE5Wbz83pdQ21QJviVo/hls/6adf97f83acf6453d4a6a4b1070f3754/SAM/SAM_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png", THDT2-MIENTAY
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2UwOTVlOTUtMTRkNC00MDJjLTljNWEtY2NiY2FjODQyMDM2IiwiZXhwIjoxNDk4NzI2MDI4OTgyfQ.lnRDQUQ4hpOXdVnphR-cLBr5jGPWzxs_DLVSKDm8bng/hls/6adf97f83acf6453d4a6a4b1070f3754/MienTay-new/MienTay-new_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://vuapp.tranvu.info/upload//thvl1.png", VINH LONG 1
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTU4NjBkZDEtZDY5Zi00ZDU3LTg0ZjItMGI3ZDQxNjcxNTNiIiwiZXhwIjoxNDk4NzI1NzI2NDU1fQ.PuLcGfeB6U_OykwhIensBpa4J0X29bul3XzkcxAhiqQ/hls/6adf97f83acf6453d4a6a4b1070f3754/THVL1-new/THVL1-new_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="https://s21.postimg.org/s9srpmz6f/starmovies.png", STARMOVIES
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMDI3ZWEzZDUtMmE1ZC00ZGIxLTlhOTAtYTU0OWNkODBiZGQwIiwiZXhwIjoxNDk4NzI0MTEyMTI5fQ.mm3V3hwIuGo_-hhvtaBT1GWJmo8kpb0QMEoYxYwo5Ew/hls/6adf97f83acf6453d4a6a4b1070f3754/Star-Movie/Star-Movie_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/axn.png", AXN
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjkwNDRhMzctOGNjNi00ZGMwLWIzMjItMWEwZWEzMmZhNGZmIiwiZXhwIjoxNDk4NzI0MjQyMTA4fQ.N0T7EfuLfFTwE94ZL6PFn06MGpCYKeW4RGcPSr33C6Y/hls/6adf97f83acf6453d4a6a4b1070f3754/AXN/AXN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png", BBC WORLD NEWS
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWQ1N2YxNzItYzY4YS00ZGIxLTk3OGYtNTMzZDE2ZTMxMTlkIiwiZXhwIjoxNDk4NzI1NjMyODM1fQ.2AC8YHFdtTFbbxJi8WzQtr9vRlJOz_2kbtBTLP9N7tw/hls/6adf97f83acf6453d4a6a4b1070f3754/BBC/BBC_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://xemtvhd.net/images/icon-channel/cartoon-network.png", CARTOON NETWORK
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYmM0M2RmY2MtMmJhZC00YTU5LTkzN2YtNzg0M2EyM2EzMzg3IiwiZXhwIjoxNDk4NzI0MzA1NjYyfQ.n29jK110GBvRliqYJGxnvlCsQd1-wVjLCh-BuGJ9z1M/hls/6adf97f83acf6453d4a6a4b1070f3754/CARTOON/CARTOON_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="https://s21.postimg.org/oscpdmwyf/canalv.png", CHANNEL V
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTk4ODYzNTYtMmZlNi00NjA0LTljMGUtZDBhMTNmMTk0OTY1IiwiZXhwIjoxNDk4NzI1Njc5MzEwfQ.tYFjK_hQQ3zkt8LViKrIVPnlsUnWupjO03msjFiVPgQ/hls/6adf97f83acf6453d4a6a4b1070f3754/Channel-V/Channel-V_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://103.56.158.185/tv_icon/cnn.png", CNN
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNWU2YjQzZDQtODQzZi00Y2Q4LTgwMDMtYTk4MGRiMjZhNjlkIiwiZXhwIjoxNDk4NzI1MjQ5NzMwfQ.xbG7Kei6y9vgDuUKS-UJ-Va0mFJXaFxya6lfyXNUOhE/hls/6adf97f83acf6453d4a6a4b1070f3754/CNN/CNN_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://i.imgur.com/IeuIsMr.png", FASHION TV
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWVjNzljMTQtYjAzYS00MDA3LWE1ODMtNjE5MjMxNTgxMDA4IiwiZXhwIjoxNDk4NzI1NzgwNDY5fQ.wNWLnG4zGPm1Ii7qK4UEVKQSqaEzcwuUmSCstZHshWA/hls/6adf97f83acf6453d4a6a4b1070f3754/FTV/FTV_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="https://s17.postimg.org/8tupl9rbz/foxsport.jpg", FOX SPORTS
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGI3N2ExNmQtY2RmMC00MjMzLWIxNmEtZWJkYTY0NDBlZmY5IiwiZXhwIjoxNDk4NzI2MDg2Nzk0fQ.fCNYKbNuKluKMBp-k9KG0x8hFQrDbDzeOBAO3RO8hw8/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT-2/FOX-SPORT-2_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="https://s15.postimg.org/t99faj8bf/foxsport2.jpg", FOX SPORTS 2
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTczNWVkNTYtNWE4ZS00YmJjLWFlYzktY2MxZTU5Nzc5YThjIiwiZXhwIjoxNDk4NzI0Mjc0NDc5fQ.XCuSeYc0lEDek_ZZOgXBaV2tC-sG4CNOq-Lq1VYLX-A/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT/FOX-SPORT_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png", STAR WORLD
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMGE5Mjk1OTAtM2M2MS00ODVmLTk4NjQtNTEwOGY4YWQ2ODk0IiwiZXhwIjoxNDk4NzI0NTcyNjg0fQ.RlK95giMs2jkFTGGCqcmWMCJsCu6jICpGRyjWRLkRTc/hls/6adf97f83acf6453d4a6a4b1070f3754/Star-World/Star-World_4caa7169/index.m3u8
+#EXTINF:-1 group-title="mobiTV" tvg-logo="https://s14.postimg.org/w9bfq5pi9/tv5.jpg", TV5 MONDE ASIE
+http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiODJhYTA4ZTktZGQwNS00YmI4LWFjYTgtMTUxYzNhNmNiMTdjIiwiZXhwIjoxNDk4NzI1MzQ1OTc5fQ.T_K76LivPi5ub_RqJebF3JNnKi_jLzW9ZqFaCns4DG8/hls/6adf97f83acf6453d4a6a4b1070f3754/TV5/TV5_4caa7169/index.m3u8
 
 #EXTINF:-1 group-title="HAI NGOAI" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png", Việtface Cali. 57.2 
 http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
@@ -329,101 +305,101 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
 #EXTINF:-1 group-title="US" tvg-logo="",AMC USA
-http://thepk.co:2095/live/husham/isaplayer/1630.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1630.ts
 #EXTINF:-1 group-title="US" tvg-logo="",ANIMAL PLANET USA
-http://thepk.co:2095/live/husham/isaplayer/1631.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1631.ts
 #EXTINF:-1 group-title="US" tvg-logo="",BET
-http://thepk.co:2095/live/husham/isaplayer/1629.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1629.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CA : ABC SPARK
-http://thepk.co:2095/live/husham/isaplayer/1619.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1619.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CA : CARTOON NETWORK
-http://thepk.co:2095/live/husham/isaplayer/1618.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1618.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CA : CBC TORONTO
-http://thepk.co:2095/live/husham/isaplayer/1617.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1617.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CARTOON NETWORK USA
-http://thepk.co:2095/live/husham/isaplayer/1649.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1649.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CBS
-http://thepk.co:2095/live/husham/isaplayer/1628.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1628.ts
 #EXTINF:-1 group-title="US" tvg-logo="",Cinemax East
-http://thepk.co:2095/live/husham/isaplayer/1621.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1621.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CINEMAX MORE
-http://thepk.co:2095/live/husham/isaplayer/1627.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1627.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CNBC
-http://thepk.co:2095/live/husham/isaplayer/1626.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1626.ts
 #EXTINF:-1 group-title="US" tvg-logo="",CRIME AND INVESTIGATION
-http://thepk.co:2095/live/husham/isaplayer/1638.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1638.ts
 #EXTINF:-1 group-title="US" tvg-logo="",DISCOVERY HISTORY
-http://thepk.co:2095/live/husham/isaplayer/1637.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1637.ts
 #EXTINF:-1 group-title="US" tvg-logo="",DISNEY XD
-http://thepk.co:2095/live/husham/isaplayer/1648.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1648.ts
 #EXTINF:-1 group-title="US" tvg-logo="",ESPN
-http://thepk.co:2095/live/husham/isaplayer/1634.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1634.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FIGHT NETWORK
-http://thepk.co:2095/live/husham/isaplayer/1633.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1633.ts
 #EXTINF:-1 group-title="US" tvg-logo="",Food Network USA
-http://thepk.co:2095/live/husham/isaplayer/1623.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1623.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FOX SPORTS 1
-http://thepk.co:2095/live/husham/isaplayer/1632.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1632.ts
 #EXTINF:-1 group-title="US" tvg-logo="",HGTV USA HD
-http://thepk.co:2095/live/husham/isaplayer/1644.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1644.ts
 #EXTINF:-1 group-title="US" tvg-logo="",HISTORY USA
-http://thepk.co:2095/live/husham/isaplayer/1635.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1635.ts
 #EXTINF:-1 group-title="US" tvg-logo="",NAT GEO WILD USA
-http://thepk.co:2095/live/husham/isaplayer/1636.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1636.ts
 #EXTINF:-1 group-title="US" tvg-logo="",NHL 1 HD
-http://thepk.co:2095/live/husham/isaplayer/1656.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1656.ts
 #EXTINF:-1 group-title="US" tvg-logo="",NHL 10 HD
-http://thepk.co:2095/live/husham/isaplayer/1655.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1655.ts
 #EXTINF:-1 group-title="US" tvg-logo="",NHL 11 HD
-http://thepk.co:2095/live/husham/isaplayer/1654.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1654.ts
 #EXTINF:-1 group-title="US" tvg-logo="",PAC 12 ARIZONA HD
-http://thepk.co:2095/live/husham/isaplayer/1647.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1647.ts
 #EXTINF:-1 group-title="US" tvg-logo="",PAC 12 BAY AREA HD
-http://thepk.co:2095/live/husham/isaplayer/1646.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1646.ts
 #EXTINF:-1 group-title="US" tvg-logo="",PAC 12 LA HD
-http://thepk.co:2095/live/husham/isaplayer/1645.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1645.ts
 #EXTINF:-1 group-title="US" tvg-logo="",PBS
-http://thepk.co:2095/live/husham/isaplayer/1625.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1625.ts
 #EXTINF:-1 group-title="US" tvg-logo="",SHOWTIME 2
-http://thepk.co:2095/live/husham/isaplayer/1624.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1624.ts
 #EXTINF:-1 group-title="US" tvg-logo="",SPORTS NET ONTARIO
-http://thepk.co:2095/live/husham/isaplayer/1643.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1643.ts
 #EXTINF:-1 group-title="US" tvg-logo="",SPORTSNET 360
-http://thepk.co:2095/live/husham/isaplayer/1642.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1642.ts
 #EXTINF:-1 group-title="US" tvg-logo="",SPORTSNET ONE
-http://thepk.co:2095/live/husham/isaplayer/1641.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1641.ts
 #EXTINF:-1 group-title="US" tvg-logo="",STARZ KIDS AND FAMILY
-http://thepk.co:2095/live/husham/isaplayer/1620.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1620.ts
 #EXTINF:-1 group-title="US" tvg-logo="",THE WEATHER CHANNEL USA
-http://thepk.co:2095/live/husham/isaplayer/1622.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1622.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TSN 1
-http://thepk.co:2095/live/husham/isaplayer/1640.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1640.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TSN 2
-http://thepk.co:2095/live/husham/isaplayer/1639.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1639.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -MLB Extra Innings 720
-http://thepk.co:2095/live/husham/isaplayer/1659.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1659.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -MLB Extra Innings 721
-http://thepk.co:2095/live/husham/isaplayer/1658.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1658.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -MLB Extra Innings 722
-http://thepk.co:2095/live/husham/isaplayer/1657.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1657.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 3 HD
-http://thepk.co:2095/live/husham/isaplayer/1653.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1653.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 4 HD
-http://thepk.co:2095/live/husham/isaplayer/1652.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1652.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 5 HD
-http://thepk.co:2095/live/husham/isaplayer/1651.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1651.ts
 #EXTINF:-1 group-title="US" tvg-logo="",FREE -NBA LEAGUE PASS LIVE 6 HD
-http://thepk.co:2095/live/husham/isaplayer/1650.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/1650.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC MEXICAAN
-http://thepk.co:2095/live/husham/isaplayer/841.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/841.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC POP & COUNTRY
-http://thepk.co:2095/live/husham/isaplayer/840.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/840.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC POP HITS
-http://thepk.co:2095/live/husham/isaplayer/839.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/839.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC R&B SOUL
-http://thepk.co:2095/live/husham/isaplayer/838.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/838.ts
 #EXTINF:-1 group-title="US" tvg-logo="",TPK  MUSIC RAP 2K
-http://thepk.co:2095/live/husham/isaplayer/836.ts
+http://theplayersklub.host:2095/live/husham/isaplayer/836.ts
 
 #EXTINF:-1 group-title="France" tvg-logo="https://s25.postimg.org/u6gaxjmfj/cinefx.png",CINE FX
 http://live-m03.abweb.com/liveabm03/cinefx.smil/chunklist_b1296000_slFRA.m3u8
