@@ -598,20 +598,6 @@
 <referer>0</referer>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>FOX SPORT</title>
-<sportsdevil>http://m.tivi8k.net/fox.php</sportsdevil>
-<referer>0</referer>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX SPORT 2</title>
-<sportsdevil>http://m.tivi8k.net/fox2.php</sportsdevil>
-<referer>0</referer>
-<thumbnail></thumbnail>
-</item>
-
-
 
 
 <item>
@@ -621,17 +607,17 @@
 </item>
 
 <item>
-<title>THỂ THAO tv</title>
+<title>THỂ THAO TV</title>
 <sportsdevil>http://www.tivi12h.net/2015/11/kenh-vtvcab3-thao-tv-hd.html</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
-<thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>BONG DA TV</title>
-<sportsdevil>http://www.tivi12h.net/2015/11/kenh-vtvcab16-bong-da-tv-hd.html</sportsdevil>
+<sportsdevil>http://m.tivi12h.net/bongdatv.php</sportsdevil>
 <referer>http://www.tivi12h.net</referer>
-<thumbnail>http://fantazyrepo.uk/addonimages/livetv/sport.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
@@ -652,101 +638,112 @@
 <referer>http://m.tivi12h.net/sctv2.php</referer>
 <thumbnail>https://static-stage.sctv.vn/channel/119/ssport.png</thumbnail>
 </item>
-
+<item>
+<title>FOX SPORT</title>
+<sportsdevil>http://m.tivi8k.net/fox.php</sportsdevil>
+<referer>http://m.tivi8k.net/fox.php</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORT 2</title>
+<sportsdevil>http://m.tivi8k.net/fox2.php</sportsdevil>
+<referer>http://m.tivi8k.net/fox2.php</referer>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>K+1</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=5e8ca8e058e714a69f6e34819f1771cd92408e2d&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BT SPORT 1</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=e502c197dde3921551957ef2ec08fc6bbdc663ae&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BT SPORT 2</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=04b38c71065be18d799edf8c37d63e738030b84d&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BT SPORT 3</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=66ce42b59cd7028be149ee7e7ca17066910b2db3&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SKY SPORT 1</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=92f9a34c12787497ea6053582be0c05cb5ab9d9a&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SKY SPORT 2</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=6b2fb9a9e67aaabd63004059147dfdc46e882aba&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SKY SPORT 3</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=4dbce55abecd154ff71b3477a332bd63611309e5&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SKY SPORT 4</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=4288c3e2d1a06413e8ba497299c3c59243a52af0&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SKY SPORT 5</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=d5d4072eac68df3a3744ecc45cd95e44c91609eb&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>NBCSN</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=2a3974d916e1af4a81655b1e8d6e0c08ac08b5fe&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>FS1</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=9a8fd4918cb4f864e0d63a6821a55806f68dc0cc&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>FS2</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=bcf455236e4bfbeef6ed76d7a47307e36bf30816&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BEIN SPORT USA</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=7064ed08ee876a36061d43b646a00524f27141fd&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BEIN SPORT 1 FRANCE</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=00ec28a5137eff6e4274f28391e9577bc885f32b&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BEIN SPORT 2 FRANCE</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=f0b7875f4311e34cada858a0146a8d25ed485d3a&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BEIN SPORT 3 FRANCE</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=d0adf8e6b274b6d55ca90651ee67d946873a5ff7&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BEIN SPORT ESP</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>BEIN LALIGA ESP</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>M+FUTBOL ESP</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=dcc88db99783f98e203dd9513650ba8d34daf522&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>Thai:Sport s1</title>
@@ -1167,3 +1164,5 @@
 
 </items>
 </channel>
+
+
