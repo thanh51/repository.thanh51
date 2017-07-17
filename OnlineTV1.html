@@ -16,486 +16,537 @@ padding: 0px;
  <center><script type="text/javascript">
   <!--
 	function song(){
-	document.getElementById('music1').innerHTML="<embed type='application/x-mplayer2' id='music2' pluginspage='http://www.microsoft.com/Windows/MediaPlayer/' src='"+document.getElementById('estacao').value+"' name='MediaPlayer1' width='950' height='650' controltype='2' showcontrols='1' showstatusbar='1' AutoStart='true'></embed>";
+	document.getElementById('music1').innerHTML="<embed type='application/x-mplayer2' id='music2' pluginspage='http://www.microsoft.com/Windows/MediaPlayer/' src='"+document.getElementById('estacao').value+"' name='MediaPlayer1' width='1350' height='600' controltype='2' showcontrols='1' showstatusbar='1' AutoStart='true'></embed>";
 	}
   //-->
   </script>
   <center><div id="jukebox">
 	<span id="music1"><embed type="application/x-mplayer2" id="music1"
 		pluginspage="http://www.microsoft.com/Windows/MediaPlayer/"
-		src="http://v2.ustreamix.com/stream.php?id=nbc-sn"></iframe> 
+		src="http://sv2.xemtivitt.net/mimi.php?id=vtv6hd"></iframe> 
 
 
 	</embed></span>
 
   </div>
        <center><select id="estacao" onchange="song()" size="1">
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8">** Update ngày 13/07/2017 **
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8">== TRUYỀN HÌNH VIỆT NAM ==
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8">VTVgo:VTV1 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv2-high.m3u8">VTVgo:VTV2 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv3-high.m3u8">VTVgo:VTV3 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo45-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv4-high.m3u8">VTVgo:VTV4 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo45-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv5-high.m3u8">VTVgo:VTV5 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo67-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv6-high.m3u8">VTVgo:VTV6 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo67-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv7-high.m3u8">VTVgo:VTV7 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv8-high.m3u8">VTVgo:VTV8 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv8-high.m3u8">VTVgo:VTV9 HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8">*** Update ngày 17/07/2017 - Chúc bạn thưởng thức vui vẻ ! ***</option>
+<option value="http://tvplay.vn/">====== TVPlay - Chương trình tổng hợp =======</option>
+<option value="http://tv.beeb.vn/livetv-vtv1-vtv1-beebTV.html">===== BeeTV online (bấm List TV để chọn kênh) ======</option>
 
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzQzZjkyNTEtYzUxNS00YmM3LWJiN2MtMzJhMjY5MGQwZDEwIiwiZXhwIjoxNDk4NjIzNzE0MzQ4fQ.ma172lhi2Nf9N10kQ6dj4Oyo8G10a1Cll_Yf-bOKfDo/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV1/VTV1_4caa7169/index.m3u8">mobiTV:VTV1 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZDkyYzlmNmEtMTEwZS00MDY0LWE2YTYtZGMwZDAyYjA4NzY3IiwiZXhwIjoxNDk4NjI0NDEzMzIzfQ.y8nhLpEY-Da3sBOLL-lauYLlE5o-Iv7dUTmJgk9nJqg/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV2/VTV2_4caa7169/index.m3u8">mobiTV:VTV2 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTQzOWNlYTgtZjkzNC00OWViLWE5MzAtYjI1YjM5NmQ1ZTQxIiwiZXhwIjoxNDk4NjI0NDkzNjA0fQ.VMjjRyW7fL4qSiSqOwIZ5x3J3wiMPstC3__q8vsqKcc/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV3/VTV3_4caa7169/index.m3u8">mobiTV:VTV3 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiODE0NzBmOTMtMmQ3MS00MzliLTg2NTYtYTFlMzdkMWU2MzhhIiwiZXhwIjoxNDk4NjI0NTM4MjU5fQ.IswkLi6hrrb0CKSnbWuF36SyEeJPe7Z775R1fxWuAwk/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV4-new/VTV4-new_e90879a9/index.m3u8">mobiTV:VTV4 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjA4NTgwNmEtZTE4NC00ZTU3LTkzYTEtZTcwYzllZmM2MzZiIiwiZXhwIjoxNDk4NjI0NjM5NjAyfQ.z9BXDNcDaQLat6lr5K0jrCcGzlUPFrawe38fKKKuJM0/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV5-new/VTV5-new_4caa7169/index.m3u8">mobiTV:VTV5 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiOTcxZTNmYmEtNzU3Yy00NjNhLWI4NzMtODk1MjY0Mzk4Yzk4IiwiZXhwIjoxNDk4NjI0Nzc1NzUxfQ.In-RULwai1jsq0becEH1D1ZwQh7IwGCjXDAqbTFrNy8/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV6/VTV6_4caa7169/index.m3u8">mobiTV:VTV6 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZWE0MzYzMjgtODkwMS00YzRlLTlkNGYtZjdkYWZkY2ZmMjkyIiwiZXhwIjoxNDk4NjI0OTY1MjcyfQ.fJQedweAsQur-QaA1yBOwAmxuJRdvBHtPTLnX3kXLw8/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV7-new/VTV7-new_4caa7169/index.m3u8">mobiTV:VTV7 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNWE1OWJhNzEtMzBiZS00MjgzLTgyMWYtN2JjM2I5NTBhZWYxIiwiZXhwIjoxNDk4NzI0MDM4MDAyfQ.HlaNfvvq8VcH7jy4iqBdQkOfeU0NGO4plVOB8BCWeds/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV8-new3/VTV8-new3_e90879a9/index.m3u8">mobiTV:VTV8 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2RiYjEzZDAtOWVkZS00NDU5LWEwMDMtYWNkYWYxYmZiYjEwIiwiZXhwIjoxNDk4NzI0MDc3NDQyfQ.Df5YHOpZIwRlDUQEXZZb6Nx-Tz0xDXt_FwIhpHajJFk/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV9/VTV9_4caa7169/index.m3u8">mobiTV:VTV9 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzRlOThkMTgtYjFjYi00OGE5LWIwNjItOTA5NjVmY2U5NGFlIiwiZXhwIjoxNDk4NzI1MTI4NDcyfQ.KrJ1BVmDzdTkAi40_sObmPfpw132HFmTIyuQKNTYibY/hls/6adf97f83acf6453d4a6a4b1070f3754/VNews/VNews_4caa7169/index.m3u8">mobiTV:TTXVN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTg1OTlhZmQtYTE2Mi00NTJmLWFjYmQtMTJkZjhjYTM5MjY2IiwiZXhwIjoxNDk4NzI1NTkyNjExfQ.VGO0wyYA9tVKsNYQh9XKgofevopm9Y8sRRIGc7KCzAQ/hls/6adf97f83acf6453d4a6a4b1070f3754/TH-NHAN-DAN/TH-NHAN-DAN_4caa7169/index.m3u8">mobiTV:NHAN DAN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTIxMjJiOTYtMmE2Yi00NzQ0LTk3ZjctYTZkYWJjNzBjZWU1IiwiZXhwIjoxNDk4NzI1NDQ2ODA2fQ.w0Olg31wm_EDradDFgOYzdbxh2BYfVzCd5UO4NRRzvw/hls/6adf97f83acf6453d4a6a4b1070f3754/QHVN/QHVN_4caa7169/index.m3u8">mobiTV:QHVN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGFhMThiZDktOWRiZC00NDk4LWJmN2EtOWU4ODg2MjJmMTRlIiwiZXhwIjoxNDk4NzI1NTEwNjE4fQ.UJs28oR2li3WYF_KOpK50VNyCtnStlM0SEBCEP-Sd0M/hls/6adf97f83acf6453d4a6a4b1070f3754/QPVN/QPVN_4caa7169/index.m3u8">mobiTV:QPVN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMDM1MDI0YjQtYjhjZC00ZGE3LWFmNDEtYjBlYTMwM2Y5ZDZiIiwiZXhwIjoxNDk4NzI1ODQ5MzMwfQ.GSfFg3Jb5CMk23epmcREb7snSV3wifxCPZUBSdqIzrI/hls/6adf97f83acf6453d4a6a4b1070f3754/VTC1/VTC1_4caa7169/index.m3u8">mobiTV:VTC1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2I5NzYwMWUtMWQ3MC00NTI3LWIyMWYtZjlmMjVjYWVmYWQyIiwiZXhwIjoxNDk4NzI2MTU0ODY3fQ.4T-WXUaMrsNMKfpQ_VGGbizLlY9csxfIQnU14FETMio/hls/6adf97f83acf6453d4a6a4b1070f3754/DOC-SACH/DOC-SACH_4caa7169/index.m3u8">mobiTV:DOC SACH
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjgwNjIzMzEtZmMyOS00YTVhLTgzMjctZWJhOThjNWI5YTE3IiwiZXhwIjoxNDk4NzI2NDc5NjI0fQ.6U75MwCksRkhLlW_YgRFvbxlDyyuwKLgL2dH0MmpBjw/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CACH-MANG/NHAC-CACH-MANG_4caa7169/index.m3u8">mobiTV:NHAC CACH MẠNG
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYjAyZTY5NjQtOWJmOS00Y2Q3LWIxNzktNWM5YTVjOTRkN2M0IiwiZXhwIjoxNDk4NzI2MzU2NjgwfQ.1woiXMyW99x-JsWZyU-s0S2oafZBxbWINAfJraMC2jo/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CO-DIEN/NHAC-CO-DIEN_4caa7169/index.m3u8">mobiTV:NHAC CO DIEN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNzZkZjcyMzEtNjUxOC00MjJkLWI3NzMtNGQyMGI0YmMwYmI4IiwiZXhwIjoxNDk4NzI2NTE5NjU0fQ.5zUVagqki7gi6CxdLfwgIQn_Hxi2Uk3sES3u1WDxJzA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-DAN-TOC/NHAC-DAN-TOC_4caa7169/index.m3u8">mobiTV:NHAC DAN TOC
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTcxYjdmMTktZjkxYS00ZGRjLWEyOGEtZTlhMmJjOTVjNmJiIiwiZXhwIjoxNDk4NzI2MjEyMjQzfQ.R5Q0JLN0El5yuc_dGRhQBS3JuiKW7FUdsc8lwRpvkvY/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NAM-BO/NHAC-NAM-BO_4caa7169/index.m3u8">mobiTV:NHAC NAM BO
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ0NDZlZjMtM2IzMC00ZDMwLWE4NjctYTc4OGM4ZjQ0MzAwIiwiZXhwIjoxNDk4NzI2MjYwNDE5fQ.DntVjw-UGO_2yxFktynPMUawy4s7zeH6teyZkYPfUjU/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NHE/NHAC-NHE_4caa7169/index.m3u8">mobiTV:NHAC NHE
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGJlMTE0OTUtODQ1Zi00MjJiLWIwY2YtYmIyODJhNDBlZDBhIiwiZXhwIjoxNDk4NzI2NDAxOTg1fQ.3YsXMr9pwXheaZYZimtQOSsguFj0bSsei2urCi6f9KA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-THIEU-NHI/NHAC-THIEU-NHI_4caa7169/index.m3u8">mobiTV:NHAC THIEU NHI
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ2ODg4ZjItYTZkMi00NDY0LWIwMDEtZThjZDE5YWQwMjUxIiwiZXhwIjoxNDk4NzI2MzE3NjQwfQ.nV09JvqIsOSWEzFuewl_ZscnL-i4AGMpI_LbL5ZZE5U/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRE/NHAC-TRE_4caa7169/index.m3u8">mobiTV:NHAC TRE
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiM2QzZjQ1Y2YtMWQ0Ny00NjE4LTk3NWUtM2ZjNmU4ZWM3YjIyIiwiZXhwIjoxNDk4NzI2NDQxNTkzfQ.-JB9oDGKgZljMRAKo9lrVcrM2nVwmeZJg-6_830-p8M/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRU-TINH/NHAC-TRU-TINH_4caa7169/index.m3u8">mobiTV:NHAC TRU TINH
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzQyMGNmOTMtMjY4MC00ZmY2LTgzNWEtZDk2MzM1M2U5NmFiIiwiZXhwIjoxNDk4NzI0MTU5NjE0fQ.4R5uDPHT51CbFpaMvQTkh3XXluq8UNBhlJHoYhQ6ZLQ/hls/6adf97f83acf6453d4a6a4b1070f3754/PHIM-HAY/PHIM-HAY_4caa7169/index.m3u8">mobiTV:PHIM HAY
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjAyNDQ4NmItMTIyNS00NTE4LTlmYzMtMjAwMjYzODRjZDVmIiwiZXhwIjoxNDk4NzI0MjAyMjY0fQ.f6xqraeZz_xb9qStFS5uhqaNgappmoIj92SUbcuRSTc/hls/6adf97f83acf6453d4a6a4b1070f3754/VIETTEEN/VIETTEEN_4caa7169/index.m3u8">mobiTV:VIETTEEN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiN2E1OGI0ZGUtNTFjMC00MWY5LWE5ZmMtMDBhZGNhOGZkYzIxIiwiZXhwIjoxNDk4NzI1MzA3OTg0fQ.0EvrKroma0AIdt7QTp6cJ8fTiwyvfPhCc3z4ci1EQhU/hls/6adf97f83acf6453d4a6a4b1070f3754/NCM/NCM_4caa7169/index.m3u8">mobiTV:NCM
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiOGRjMzQ3NTQtYjgwOC00ZDRiLTkzMzQtODYzODgyNGVhMGFjIiwiZXhwIjoxNDk4NzI1OTkwOTU4fQ.50GKs1A5Opck9dVNUm7tdh-nZE5Wbz83pdQ21QJviVo/hls/6adf97f83acf6453d4a6a4b1070f3754/SAM/SAM_4caa7169/index.m3u8">mobiTV:SAM
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2UwOTVlOTUtMTRkNC00MDJjLTljNWEtY2NiY2FjODQyMDM2IiwiZXhwIjoxNDk4NzI2MDI4OTgyfQ.lnRDQUQ4hpOXdVnphR-cLBr5jGPWzxs_DLVSKDm8bng/hls/6adf97f83acf6453d4a6a4b1070f3754/MienTay-new/MienTay-new_4caa7169/index.m3u8">mobiTV:MIEN TAY
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTU4NjBkZDEtZDY5Zi00ZDU3LTg0ZjItMGI3ZDQxNjcxNTNiIiwiZXhwIjoxNDk4NzI1NzI2NDU1fQ.PuLcGfeB6U_OykwhIensBpa4J0X29bul3XzkcxAhiqQ/hls/6adf97f83acf6453d4a6a4b1070f3754/THVL1-new/THVL1-new_4caa7169/index.m3u8">mobiTV:THVL1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjkwNDRhMzctOGNjNi00ZGMwLWIzMjItMWEwZWEzMmZhNGZmIiwiZXhwIjoxNDk4NzI0MjQyMTA4fQ.N0T7EfuLfFTwE94ZL6PFn06MGpCYKeW4RGcPSr33C6Y/hls/6adf97f83acf6453d4a6a4b1070f3754/AXN/AXN_4caa7169/index.m3u8">mobiTV:AXN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWQ1N2YxNzItYzY4YS00ZGIxLTk3OGYtNTMzZDE2ZTMxMTlkIiwiZXhwIjoxNDk4NzI1NjMyODM1fQ.2AC8YHFdtTFbbxJi8WzQtr9vRlJOz_2kbtBTLP9N7tw/hls/6adf97f83acf6453d4a6a4b1070f3754/BBC/BBC_4caa7169/index.m3u8">mobiTV:BBC WORLD NEWS
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYmM0M2RmY2MtMmJhZC00YTU5LTkzN2YtNzg0M2EyM2EzMzg3IiwiZXhwIjoxNDk4NzI0MzA1NjYyfQ.n29jK110GBvRliqYJGxnvlCsQd1-wVjLCh-BuGJ9z1M/hls/6adf97f83acf6453d4a6a4b1070f3754/CARTOON/CARTOON_4caa7169/index.m3u8">mobiTV:CN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTk4ODYzNTYtMmZlNi00NjA0LTljMGUtZDBhMTNmMTk0OTY1IiwiZXhwIjoxNDk4NzI1Njc5MzEwfQ.tYFjK_hQQ3zkt8LViKrIVPnlsUnWupjO03msjFiVPgQ/hls/6adf97f83acf6453d4a6a4b1070f3754/Channel-V/Channel-V_4caa7169/index.m3u8">mobiTV:CHANNEL V
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNWU2YjQzZDQtODQzZi00Y2Q4LTgwMDMtYTk4MGRiMjZhNjlkIiwiZXhwIjoxNDk4NzI1MjQ5NzMwfQ.xbG7Kei6y9vgDuUKS-UJ-Va0mFJXaFxya6lfyXNUOhE/hls/6adf97f83acf6453d4a6a4b1070f3754/CNN/CNN_4caa7169/index.m3u8">mobiTV:CNN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWVjNzljMTQtYjAzYS00MDA3LWE1ODMtNjE5MjMxNTgxMDA4IiwiZXhwIjoxNDk4NzI1NzgwNDY5fQ.wNWLnG4zGPm1Ii7qK4UEVKQSqaEzcwuUmSCstZHshWA/hls/6adf97f83acf6453d4a6a4b1070f3754/FTV/FTV_4caa7169/index.m3u8">mobiTV:FASHIONTV
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGI3N2ExNmQtY2RmMC00MjMzLWIxNmEtZWJkYTY0NDBlZmY5IiwiZXhwIjoxNDk4NzI2MDg2Nzk0fQ.fCNYKbNuKluKMBp-k9KG0x8hFQrDbDzeOBAO3RO8hw8/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT-2/FOX-SPORT-2_4caa7169/index.m3u8">mobiTV:FOX SPORT 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTczNWVkNTYtNWE4ZS00YmJjLWFlYzktY2MxZTU5Nzc5YThjIiwiZXhwIjoxNDk4NzI0Mjc0NDc5fQ.XCuSeYc0lEDek_ZZOgXBaV2tC-sG4CNOq-Lq1VYLX-A/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT/FOX-SPORT_4caa7169/index.m3u8">mobiTV:FOX SPORT
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMDI3ZWEzZDUtMmE1ZC00ZGIxLTlhOTAtYTU0OWNkODBiZGQwIiwiZXhwIjoxNDk4NzI0MTEyMTI5fQ.mm3V3hwIuGo_-hhvtaBT1GWJmo8kpb0QMEoYxYwo5Ew/hls/6adf97f83acf6453d4a6a4b1070f3754/Star-Movie/Star-Movie_4caa7169/index.m3u8">mobiTV:STARMOVIES
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMGE5Mjk1OTAtM2M2MS00ODVmLTk4NjQtNTEwOGY4YWQ2ODk0IiwiZXhwIjoxNDk4NzI0NTcyNjg0fQ.RlK95giMs2jkFTGGCqcmWMCJsCu6jICpGRyjWRLkRTc/hls/6adf97f83acf6453d4a6a4b1070f3754/Star-World/Star-World_4caa7169/index.m3u8">mobiTV:STARWORLD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiODJhYTA4ZTktZGQwNS00YmI4LWFjYTgtMTUxYzNhNmNiMTdjIiwiZXhwIjoxNDk4NzI1MzQ1OTc5fQ.T_K76LivPi5ub_RqJebF3JNnKi_jLzW9ZqFaCns4DG8/hls/6adf97f83acf6453d4a6a4b1070f3754/TV5/TV5_4caa7169/index.m3u8">mobiTV:TV5MONDE
+<option value="http://m.tivi12h.net/giaitritv.php">====== KÊNH TV TỔNG HỢP ========</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8">VTV1 HD s1</option>
+<option value="http://sv2.xemtivitt.net/mimi.php?id=vtv1hd">VTV1 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv2-high.m3u8">VTV2 HD s1</option>
+<option value="http://m.xemtvhd.com/vtv2.php">VTV2 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv3-high.m3u8">VTV3 HD s1</option>
+<option value="http://sv2.xemtivitt.net/mimi.php?id=vtv3hd">VTV3 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo45-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv4-high.m3u8">VTV4 HD s1</option>
+<option value="http://m.xemtvhd.com/vtv4.php">VTV4 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo45-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv5-high.m3u8">VTV5 HD s1</option>
+<option value="http://m.xemtvhd.com/vtv5.php">VTV5 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo67-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv6-high.m3u8">VTV6 HD s1</option>
+<option value="http://sv2.xemtivitt.net/mimi.php?id=vtv6hd">VTV6 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo67-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv7-high.m3u8">VTV7 HD s1</option>
+<option value="http://m.xemtvhd.com/vtv7.php">VTV7 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv8-high.m3u8">VTV8 HD s1</option>
+<option value="http://m.xemtvhd.com/vtv8.php">VTV8 HD s2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv8-high.m3u8">VTV9 HD s1</option>
+<option value="http://m.xemtvhd.com/vtv9.php">VTV9 HD s2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=qpvn">QPVN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=antv">ANTV</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=ttxvn">TTXVN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vov">VOVNEWS</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quochoi">QUOC HOI</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTg1OTlhZmQtYTE2Mi00NTJmLWFjYmQtMTJkZjhjYTM5MjY2IiwiZXhwIjoxNDk4NzI1NTkyNjExfQ.VGO0wyYA9tVKsNYQh9XKgofevopm9Y8sRRIGc7KCzAQ/hls/6adf97f83acf6453d4a6a4b1070f3754/TH-NHAN-DAN/TH-NHAN-DAN_4caa7169/index.m3u8">NHAN DAN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab1">VTVcab1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab2">VTVcab2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab17">VTVcab4</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab5">VTVcab5</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab6">VTVcab6</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab7">VTVcab7</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab8">VTVcab8</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab10">VTVcab10</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab12">VTVcab12</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab13">VTVcab14</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtvcab19">VTVcab20</option>
 
-	           <option value="http://tv.beeb.vn/livetv-vtv1-vtv1-beebTV.html">===== OnlineTV(tv.beeb.vn)=======
-	           <option value="http://tv.beeb.vn/livetv-vtv1-vtv1-beebTV.html">Mở xem kênh VTV1, bấm List TV để xem các kênh TV khác                                 
- 
-	           <option value="http://m.tivi12h.net/giaitritv.php">====== KÊNH TV TỔNG HỢP ========
-	           <option value="http://m.tivi12h.net/giaitritv.php">VTVcab1
-	           <option value="http://m.tivi12h.net/phimviet.php">VTVcab2
-	           <option value="http://m.tivi12h.net/thethaotv.php">VTVcab3
-	           <option value="http://m.tivi12h.net/vctv17.php">VTVcab4
-	           <option value="http://m.tivi12h.net/echannel.php">VTVcab5
-	           <option value="http://m.tivi12h.net/drama.php">VTVcab7
-	           <option value="http://m.tivi12h.net/bibi-3.php">VTVcab8
-	           <option value="http://m.tivi12h.net/02.php">VTVcab10
-	           <option value="http://m.tivi12h.net/style.php">VTVcab12
-	           <option value="http://m.tivi12h.net/invest.php">VTVcab15
-	           <option value="http://m.tivi12h.net/bongdatv.php">VTVcab16
-	           <option value="http://m.tivi12h.net/yeah1.php">VTVcab17           
-		   <option value="http://m.tivi12h.net/sctv2.php">SCTV2
-		   <option value="http://m.tivi12h.net/sctv3.php">SCTV3
-		   <option value="http://m.tivi12h.net/sctv4.php">SCTV4
-		   <option value="http://m.tivi12h.net/sctv11.php">SCTV11
-		   <option value="http://m.tivi12h.net/sctv12.php">SCTV12
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8">mobiTV:NCM BTV10
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8">mobiTV:PHIMHAY
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8">mobiTV:MIENTAY
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8">mobiTV:ANTG
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8">mobiTV:SAM
-		   <option value="http://m.tivi12h.net/movies.php">STARMOVIES (Phụ đề Việt)
-		   <option value="http://m.tivi12h.net/axn.php">AXN (Phụ đề Việt)
-		   <option value="http://m.tivi12h.net/cinemax.php">CINEMAX (Phụ đề Việt)
-		   <option value="http://m.tivi12h.net/hbo.php">HBO (Phụ đề Việt)
-		   <option value="http://talktv.vn/streaming/play/embed/meowdoraemon">PHIM 1 (Phụ đề Việt)
-		   <option value="http://talktv.vn/streaming/play/embed/thegioionline">PHIM 2 (Phụ đề Việt)
-		   <option value="http://talktv.vn/streaming/play/embed/hdtvv">PHIM 3 (Lồng tiếng Việt)
-		   <option value="http://m.tivi12h.net/carton-cn.php">CN (Phụ đề Việt)
-		   <option value="http://m.tivi12h.net/disney.php">DISNEY (Phụ đề Việt)
-		   <option value="http://m.tivi12h.net/dicovery.php">Discovery (Phụ đề Việt)
-		   <option value="http://m.tivi12h.net/animal.php">Animal planet (Phụ đề Việt) 		   
-		   <option value="http://m.tivi12h.net/fashion.php">FASHIONTV 
-		   <option value="http://m.tivi12h.net/mtvviet.php">MTV Viet		   
-		   <option value="http://m.tivi12h.net/star-world.php">STARWORLD (Phụ đề Việt)
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htv1">HTV1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htv2">HTV2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htv3">HTV3</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htv4">HTV4</option>
+<option value="http://sv2.xemtivitt.net/mimi.php?id=htv7hd">HTV7</option>
+<option value="http://m.tivi12h.net/htv7hd.php">HTV7 HD</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htv9">HTV9</option>
+<option value="http://sv2.xemtivitt.net/mimi.php?id=htv9hd">HTV9 HD</option>
+<option value="http://sv2.xemtiviso.com/hplus.php?id=htvc-phim">HTVC PHIM</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-dulich">HTVC DU LICH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-thuanviet">HTVC THUAN VIET</option>
+<option value="http://cdn.xemtivitt.net/2015/07/htvthuanviethd.html">HTVC THUAN VIET HD</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-giadinh">HTVC GIA DINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-phunu">HTVC PHU NU</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-canhac">HTVC CA NHAC</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-thethao">HTVC THE THAO</option>
 
-		   <option value="http://m.tivi12h.net/thethaotv.php">== KÊNH THỂ THAO TH===
-		   <option value="http://m.tivi12h.net/thethaotv.php">VTVcab3 THETHAO TV
-	           <option value="http://m.tivi12h.net/bongdatv.php">VTVcab16 BONGDA TV
-		   <option value="http://m.tivi12h.net/btv5.php">BTV5
-		   <option value="http://m.tivi12h.net/sctv17-2.php">SCTV17
-		   <option value="http://m.tivi8k.net/sctv15.php">SCTV15
-		   <option value="http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480">sky sport 1(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480">Sky sport 2(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480">Sky sport 3(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480">Sky sport 4(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480">Sky sport 5(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/btsport1.php?width=650&height=480">BT sport 1(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/btsport2.php?width=650&height=480">BT sport 2(UK)
-		   <option value="http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&height=480">BT sport 3(UK)
-		   <option value="http://v2.ustreamix.com/stream.php?id=nbc-sn">NBCSN USA
-		   <option value="http://www.liveonlinetv247.info/embed/canal%2Bfutbol.php?width=650&height=480">Canal Futbol(ESP) 
-		   <option value="http://www.liveonlinetv247.info/embed/canal%2Bliga.php?width=650&height=480">Canal Liga(ESP)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480">Bein sport 1(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480">Bein sport 2(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480">Bein sport 3(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480">Bein sport 4(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480">Bein sport 5(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480">Bein sport 6(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480">Bein sport 7(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480">Bein sport 8(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480">Bein sport 9(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480">Bein sport 10(AR)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480">Bein sport 11(Eng)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480">Bein sport 12(Eng)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480">Bein sport 13(Eng)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480">Bein sport 1(France)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480">Bein sport 2(France)
-		   <option value="http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480">Bein sport 3(France)
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc1">VTC1</option> 
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc2">VTC2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc3">VTC3</option>
+<option value="http://cdn.xemtivitt.net/2015/10/vtc3hd.html">VTC3 HD</option>
+<option value="http://sv2.xemtiviso.com/nexttv.php?id=vtc4">VTC4</option>
+<option value="http://sv2.xemtiviso.com/nexttv.php?id=vtc5">VTC5</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc6">VTC6</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc7">VTC7</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc9">VTC9</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc10">VTC10</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc11">VTC11</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc12">VTC12</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=itv">VTC13</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc14">VTC14</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vtc16">VTC16</option>
 
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_hd_480p.stream/playlist.m3u8">TV TrueSport HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_hd_2_480p.stream/playlist.m3u8">TrueSport HD 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_hd_3_480p.stream/playlist.m3u8">TrueSport HD 3
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_hd_4_480p.stream/playlist.m3u8">TrueSport HD 4
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_2_480p.stream/playlist.m3u8">TrueSport 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_5_480p.stream/playlist.m3u8">TrueSport 5
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_6_480p.stream/playlist.m3u8">TrueSport 6
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/truesport_7_480p.stream/playlist.m3u8">TrueSport 7
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_1_480p.stream/playlist.m3u8">beIN Sports 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_2_480p.stream/playlist.m3u8">beIN Sports 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_3_480p.stream/playlist.m3u8">beIN Sports 3
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_4_480p.stream/playlist.m3u8">beIN Sports 4
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_5_360p.stream/playlist.m3u8">beIN Sports 5
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8">beIN Sports 6
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fox_sports_hd_480p.stream/playlist.m3u8">FOX Sports HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fox_sports_1_480p.stream/playlist.m3u8">FOX Sports 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fox_sports_2_360p.stream/playlist.m3u8">FOX Sports 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fox_sports_3_360p.stream/playlist.m3u8">FOX Sports 3
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_tennis_hd_480p.stream/playlist.m3u8">True Tennis HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/nba_tv_hd_480p.stream/playlist.m3u8">NBA TV HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/siamsport_football_480p.stream/playlist.m3u8">Siamsport Football
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_1_france_360p.stream/playlist.m3u8">beIN Sports 1 (France)
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_2_france_360p.stream/playlist.m3u8">beIN Sports 2 (France)
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_1_turkey_360p.stream/playlist.m3u8">beIN Sports 1 Turkey
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_2_turkey_360p.stream/playlist.m3u8">beIN Sports 2 Turkey
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_2_turkey_360p.stream/playlist.m3u8">beIN Sports 1 IND
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bein_sports_2_turkey_360p.stream/playlist.m3u8">beIN Sports 2 IND
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sport_hd_480p.stream/playlist.m3u8">Skynet Sport HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sports_1_480p.stream/playlist.m3u8">SkyNet Sports 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sports_2_480p.stream/playlist.m3u8">SkyNet Sports 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sports_3_480p.stream/playlist.m3u8">SkyNet Sports 3
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sports_4_480p.stream/playlist.m3u8">SkyNet Sports 4
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sports_5_480p.stream/playlist.m3u8">SkyNet Sports 5
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/skynet_sports_6_480p.stream/playlist.m3u8">SkyNet Sports 6
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_sports_1_360p.stream/playlist.m3u8">Sky Sports 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_sports_2_360p.stream/playlist.m3u8">Sky Sports 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_sports_3_360p.stream/playlist.m3u8">Sky Sports 3
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_sports_4_360p.stream/playlist.m3u8">Sky Sports 4
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_sports_5_360p.stream/playlist.m3u8">Sky Sports 5
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_sports_f1_360p.stream/playlist.m3u8">Sky Sports F1
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8">BT Sport 1 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8">BT Sport 2 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8">BT Sport 3 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8">BT Sport ESPN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/tv2_sport_premium_2_360p.stream/playlist.m3u8">TV2 Sport Premium 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/arena_sport_5_serbia_360p.stream/playlist.m3u8">Arena Sport 5 Serbia
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/arena_sport_4_croatia_360p.stream/playlist.m3u8">Arena Sport 4 Croatia
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/arena_sport_3_croatia_360p.stream/playlist.m3u8">Arena Sport 3 Croatia
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/arena_Sport_2_croatia_360p.stream/playlist.m3u8">Arena Sport 2 Croatia
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/arena_Sport_1_croatia_360p.stream/playlist.m3u8">Arena Sport 1 Croatia
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sport_tv_1_360p.stream/playlist.m3u8">SPORT TV 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sport_tv_2_360p.stream/playlist.m3u8">SPORT TV 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sport_tv_3_360p.stream/playlist.m3u8">SPORT TV 3
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sport_tv_4_360p.stream/playlist.m3u8">SPORT TV 4
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sport_tv_5_360p.stream/playlist.m3u8">SPORT TV 5
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/supersport_3_albania_360p.stream/playlist.m3u8">SuperSport 3 Albania
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/supersport_4_albania_360p.stream/playlist.m3u8">SuperSport 4 Albania
+<option value="http://m.tivi12h.net/sctv2.php">SCTV2</option>
+<option value="http://m.tivi12h.net/sctv3.php">SCTV3</option>
+<option value="http://m.tivi12h.net/sctv4.php">SCTV4</option>
+<option value="http://m.tivi12h.net/sctv11.php">SCTV11</option>
+<option value="http://m.tivi12h.net/sctv12.php">SCTV12</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8">mobiTV:NCM BTV10</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8">mobiTV:PHIMHAY</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8">mobiTV:MIENTAY</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8">mobiTV:ANTG</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8">mobiTV:SAM</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjAyNDQ4NmItMTIyNS00NTE4LTlmYzMtMjAwMjYzODRjZDVmIiwiZXhwIjoxNDk4NzI0MjAyMjY0fQ.f6xqraeZz_xb9qStFS5uhqaNgappmoIj92SUbcuRSTc/hls/6adf97f83acf6453d4a6a4b1070f3754/VIETTEEN/VIETTEEN_4caa7169/index.m3u8">mobiTV:VIETTEEN</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjgwNjIzMzEtZmMyOS00YTVhLTgzMjctZWJhOThjNWI5YTE3IiwiZXhwIjoxNDk4NzI2NDc5NjI0fQ.6U75MwCksRkhLlW_YgRFvbxlDyyuwKLgL2dH0MmpBjw/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CACH-MANG/NHAC-CACH-MANG_4caa7169/index.m3u8">mobiTV:NHAC CACH MẠNG</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYjAyZTY5NjQtOWJmOS00Y2Q3LWIxNzktNWM5YTVjOTRkN2M0IiwiZXhwIjoxNDk4NzI2MzU2NjgwfQ.1woiXMyW99x-JsWZyU-s0S2oafZBxbWINAfJraMC2jo/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CO-DIEN/NHAC-CO-DIEN_4caa7169/index.m3u8">mobiTV:NHAC CO DIEN</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNzZkZjcyMzEtNjUxOC00MjJkLWI3NzMtNGQyMGI0YmMwYmI4IiwiZXhwIjoxNDk4NzI2NTE5NjU0fQ.5zUVagqki7gi6CxdLfwgIQn_Hxi2Uk3sES3u1WDxJzA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-DAN-TOC/NHAC-DAN-TOC_4caa7169/index.m3u8">mobiTV:NHAC DAN TOC</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTcxYjdmMTktZjkxYS00ZGRjLWEyOGEtZTlhMmJjOTVjNmJiIiwiZXhwIjoxNDk4NzI2MjEyMjQzfQ.R5Q0JLN0El5yuc_dGRhQBS3JuiKW7FUdsc8lwRpvkvY/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NAM-BO/NHAC-NAM-BO_4caa7169/index.m3u8">mobiTV:NHAC NAM BO</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ0NDZlZjMtM2IzMC00ZDMwLWE4NjctYTc4OGM4ZjQ0MzAwIiwiZXhwIjoxNDk4NzI2MjYwNDE5fQ.DntVjw-UGO_2yxFktynPMUawy4s7zeH6teyZkYPfUjU/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NHE/NHAC-NHE_4caa7169/index.m3u8">mobiTV:NHAC NHE</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGJlMTE0OTUtODQ1Zi00MjJiLWIwY2YtYmIyODJhNDBlZDBhIiwiZXhwIjoxNDk4NzI2NDAxOTg1fQ.3YsXMr9pwXheaZYZimtQOSsguFj0bSsei2urCi6f9KA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-THIEU-NHI/NHAC-THIEU-NHI_4caa7169/index.m3u8">mobiTV:NHAC THIEU NHI</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ2ODg4ZjItYTZkMi00NDY0LWIwMDEtZThjZDE5YWQwMjUxIiwiZXhwIjoxNDk4NzI2MzE3NjQwfQ.nV09JvqIsOSWEzFuewl_ZscnL-i4AGMpI_LbL5ZZE5U/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRE/NHAC-TRE_4caa7169/index.m3u8">mobiTV:NHAC TRE</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiM2QzZjQ1Y2YtMWQ0Ny00NjE4LTk3NWUtM2ZjNmU4ZWM3YjIyIiwiZXhwIjoxNDk4NzI2NDQxNTkzfQ.-JB9oDGKgZljMRAKo9lrVcrM2nVwmeZJg-6_830-p8M/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRU-TINH/NHAC-TRU-TINH_4caa7169/index.m3u8">mobiTV:NHAC TRU TINH</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2I5NzYwMWUtMWQ3MC00NTI3LWIyMWYtZjlmMjVjYWVmYWQyIiwiZXhwIjoxNDk4NzI2MTU0ODY3fQ.4T-WXUaMrsNMKfpQ_VGGbizLlY9csxfIQnU14FETMio/hls/6adf97f83acf6453d4a6a4b1070f3754/DOC-SACH/DOC-SACH_4caa7169/index.m3u8">mobiTV:DOC SACH</option>
 
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/discovery_hd_world_480p.stream/playlist.m3u8">== KÊNH TH QUỐC TẾ ==
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/discovery_hd_world_480p.stream/playlist.m3u8">Discovery HD World
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/history_channel_hd_480p.stream/playlist.m3u8">History Channel HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/h2_480p.stream/playlist.m3u8">H2
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/national_geographic_hd_360p.stream/playlist.m3u8">National Geographic HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_explore_life_480p.stream/playlist.m3u8">True Explore Life
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_explore_sci_480p.stream/playlist.m3u8">True Explore Sci
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_explore_wild_480p.stream/playlist.m3u8">True Explore Wild
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/discovery_channel_480p.stream/playlist.m3u8">Discovery Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/discovery_science_480p.stream/playlist.m3u8">Discovery Science
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/dmax_480p.stream/playlist.m3u8">DMAX
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/animal_planet_480p.stream/playlist.m3u8">Animal Planet
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bbc_earth_480p.stream/playlist.m3u8">BBC Earth
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/national_geographic_wild_360p.stream/playlist.m3u8">National Geographic Wild
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/national_geographic_people_360p.stream/playlist.m3u8">National Geographic People
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/samrojlok_480p.stream/playlist.m3u8">Samrojlok
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fyi_360p.stream/playlist.m3u8">fyi
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/ci_hd_360p.stream/playlist.m3u8">CI HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/asian_food_channel_480p.stream/playlist.m3u8">Asian Food Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/jkn_dramax_360p.stream/playlist.m3u8">JKN Dramax
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/smart_sme_channel_480p.stream/playlist.m3u8">Smart SME Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/rama_channel_480p.stream/playlist.m3u8">RAMA Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/eve_360p.stream/playlist.m3u8">EVE
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/reality_hd_480p.stream/playlist.m3u8">Reality HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/axn_hd_480p.stream/playlist.m3u8">AXN HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fashion_tv_hd_360p.stream/playlist.m3u8">Fashion TV HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_x zyte_480p.stream/playlist.m3u8">True X zyte
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/travel_channel_thailand_480p.stream/playlist.m3u8">Travel Channel Thailand
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/super_bunteung_480p.stream/playlist.m3u8">Super Bunteung
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/miracle_channel_480p.stream/playlist.m3u8">Miracle Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/etv_480p.stream/playlist.m3u8">ETV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/you_channel_480p.stream/playlist.m3u8">You Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/gvtv_480p.stream/playlist.m3u8">GVTV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/gvv_480p.stream/playlist.m3u8">GVV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/gvx_480p.stream/playlist.m3u8">GVX
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/disney_xd_360p.stream/playlist.m3u8">Disney XD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_spark_play_480p.stream/playlist.m3u8">True Spark play
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_spark_jump_480p.stream/playlist.m3u8">True Spark Jump
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/disney_channel_360p.stream/playlist.m3u8">Disney Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/discovery_kids_480p.stream/playlist.m3u8">Discovery Kids
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/gang_cartoon_480p.stream/playlist.m3u8">Gang Cartoon
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/baby_tv_hd_360p.stream/playlist.m3u8">Baby TV HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/boomerang_480p.stream/playlist.m3u8">Boomerang
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/nick_jr._360p.stream/playlist.m3u8">NiCK Jr
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/toonami_360p.stream/playlist.m3u8">Toonami
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/tgn2_480p.stream/playlist.m3u8">TGN2
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/tgn_480p.stream/playlist.m3u8">TGN
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/tnn24_480p.stream/playlist.m3u8">TNN24
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/tnn2_480p.stream/playlist.m3u8">TNN2
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/money_channel_480p.stream/playlist.m3u8">Money Channel
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/nhk_world_tv_360p.stream/playlist.m3u8">NHK World TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/france_24_360p.stream/playlist.m3u8">FRANCE 24
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/euronews_360p.stream/playlist.m3u8">euronews
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/channel_newsasia_360p.stream/playlist.m3u8">Channel NewsAsia
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/sky_news_hd_360p.stream/playlist.m3u8">Sky News HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/fox_news_360p.stream/playlist.m3u8">FOX News
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/cctv4_480p.stream/playlist.m3u8">CCTV4
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/tv5_hd_480p.stream/playlist.m3u8">TV5 HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/nbt_480p.stream/playlist.m3u8">NBT
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/3_family_480p.stream/playlist.m3u8">3 Family
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/mcot_family_480p.stream/playlist.m3u8">MCOT Family
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/new_tv_480p.stream/playlist.m3u8">NEW TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/spring_news_480p.stream/playlist.m3u8">Spring News
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/bright_tv_480p.stream/playlist.m3u8">Bright TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/voice_tv_480p.stream/playlist.m3u8">VOICE TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/nation_tv_480p.stream/playlist.m3u8">Nation TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/workpoint_tv_480p.stream/playlist.m3u8">Workpoint TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true4u_480p.stream/playlist.m3u8">True4U
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/gmm25_480p.stream/playlist.m3u8">Gmm25
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/8_480p.stream/playlist.m3u8">CH 8
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/3_sd_480p.stream/playlist.m3u8">CH 3 SD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/mono_29_480p.stream/playlist.m3u8">Mono 29
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/mcot_hd_480p.stream/playlist.m3u8">MCOT HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/thairath_tv_480p.stream/playlist.m3u8">Thairath TV
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/3_hd_480p.stream/playlist.m3u8">CH 3 HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/amarin_tv_hd_480p.stream/playlist.m3u8">Amarin TV HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/7_hd_480p.stream/playlist.m3u8">CH 7 HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/pptv_hd_480p.stream/playlist.m3u8">PPTV HD
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/true_plook_panya_480p.stream/playlist.m3u8">True Plook Panya
- 		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://livetv.khaozap.com/mcot1_480p.stream/playlist.m3u8">MCOT1
+<option value="http://cdn.xemtiviso.com/vnn.php?id=hanoi1">HA NOI 1</option>
+<option value="http://cdn.xemtiviso.com/vnn.php?id=hanoi2">HA NOI 2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hagiang">HA GIANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=caobang">CAO BANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=langson">LANG SON</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=laichau">LAI CHAU</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=dienbien">DIEN BIEN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=sonla">SON LA</option> 
+<option value="http://sv2.xemtiviso.com/mimi.php?id=laocai">LAO CAI</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=yenbai">YEN BAI</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=thainguyen1">THAI NGUYEN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=phutho">PHU THO</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vinhphuc">VINH PHUC</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=bacgiang">BAC GIANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hoabinh">HOA BINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quangninh1">QUANG NINH 1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quangninh3">QUANG NINH 3</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=haiphong">HAI PHONG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=haiduong">HAI DUONG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hungyen">HUNG YEN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=bacninh">BAC NINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=thaibinh">THAI BINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hanam">HA NAM</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=namdinh">NAM DINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=ninhbinh">NINH BINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=thanhhoa">THANH HOA</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=nghean">NGHE AN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hatinh">HA TINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quangbinh">QUANG BINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quangtri">QUANG TRI</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hue">HUE</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=danang1">DA NANG 1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quangnam">QUANG NAM</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=quangngai">QUANG NGAI</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=binhdinh">BINH DINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=kontum">KON TUM</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=daklak">DAKLAK</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=daknong">DAKNONG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=lamdong">LAM DONG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=ninhthuan">NINH THUAN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=binhthuan">BINH THUAN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=phuyen">PHU YEN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=longan">LONG AN</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=tayninh">TAY NINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=binhphuoc1">BINH PHUOC 1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=binhduong1">BINH DUONG 1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=binhduong2">BINH DUONG 2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=binhduong4">BINH DUONG 4</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=dongnai1">DONG NAI 1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vinhlong1">VINH LONG 1</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=vinhlong2">VINH LONG 2</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=travinh">TRA VINH</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=angiang1">AN GIANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=cantho">CAN THO</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=tiengiang">TIEN GIANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=haugiang">HAU GIANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=camau">CA MAU</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=kiengiang">KIEN GIANG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=dongthap">DONG THAP</option>
 
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1079.m3u8">==USA TV: THEPLAYERSKLUB==
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1079.m3u8">SyFy Latinoamerica
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1127.m3u8">A&E Latinoamerica
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1126.m3u8">Animal Planet Latinoamerica
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1125.m3u8">AXN Latinoamerica
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1123.m3u8">Cartoon Network Latinoamerica
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1094.m3u8">NatGeo Wild Latinoamerica
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1630.m3u8">AMC USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1631.m3u8">ANIMAL PLANET USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1629.m3u8">BET
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1619.m3u8">CA:ABC SPARK
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1618.m3u8">CA: CARTOON NETWORK
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1617.m3u8">CA: CBC TORONTO
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1649.m3u8">CARTOON NETWORK USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1628.m3u8">CBS
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1621.m3u8">Cinemax East
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1627.m3u8">CINEMAX MORE
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1626.m3u8">CNBC
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1638.m3u8">CRIME AND INVESTIGATION
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1637.m3u8">DISCOVERY HISTORY
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1648.m3u8">DISNEY XD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1634.m3u8">ESPN
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1633.m3u8">FIGHT NETWORK
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1623.m3u8">Food Network USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1632.m3u8">FOX SPORTS 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1644.m3u8">HGTV USA HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1635.m3u8">HISTORY USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1636.m3u8">NAT GEO WILD USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1656.m3u8">NHL 1 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1655.m3u8">NHL 10 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1654.m3u8">NHL 11 HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1647.m3u8">PAC 12 ARIZONA HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1646.m3u8">PAC 12 BAY AREA HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1645.m3u8">PAC 12 LA HD
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1625.m3u8">PBS
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1624.m3u8">SHOWTIME 2
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1643.m3u8">SPORTS NET ONTARIO
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1642.m3u8">SPORTSNET 360
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1641.m3u8">SPORTSNET ONE
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1620.m3u8">STARZ KIDS AND FAMILY
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1622.m3u8">THE WEATHER CHANNEL USA
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1640.m3u8">TSN 1
-		   <option value="http://m.xemtvhd.com/testtvhd.php?tvhd=http://theplayersklub.host:2095/live/husham/isaplayer/1639.m3u8">TSN 2
+<option value="http://talktv.vn/streaming/play/embed/meowdoraemon">PHIM 1 (phụ đề tiếng Việt)</option>
+<option value="http://talktv.vn/streaming/play/embed/thegioionline">PHIM 2 (phụ đề tiếng Việt)</option>
+<option value="http://talktv.vn/streaming/play/embed/hdtvv">PHIM 3 (phụ đề tiếng Việt)</option>
+<option value="https://livestream.com/accounts/20251373/events/6338970/player?autoPlay=true">Phim 247- TVB(lồng tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=axn">AXN (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=hbo">HBO (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=cinemax">CINEMAX (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=starmovies">STARMOVIES (phụ đề tiếng Việt)</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWQ1N2YxNzItYzY4YS00ZGIxLTk3OGYtNTMzZDE2ZTMxMTlkIiwiZXhwIjoxNDk4NzI1NjMyODM1fQ.2AC8YHFdtTFbbxJi8WzQtr9vRlJOz_2kbtBTLP9N7tw/hls/6adf97f83acf6453d4a6a4b1070f3754/BBC/BBC_4caa7169/index.m3u8">BBC WORLD NEWS</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=cnn">CNN</option> 
+<option value="http://sv2.xemtiviso.com/mimi.php?id=nhk">NHK</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=dw">DW (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=tv5monde">TV5MONDE (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=discovery">DISCOVERY (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=animalplanet">ANIMAL PLANET (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=tlc">TLC</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=davinci">DAVINCI (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=foxsport">RT TODAY</option> 
+<option value="http://sv2.xemtiviso.com/mimi.php?id=disney">DISNEY (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=cartoon">CARTOON NETWORK (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=bloomberg">BLOOMBERG</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=mtv">MTV (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=starworld">STARWORLD</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=diva">DIVA (phụ đề tiếng Việt)</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=outdoor">OUTDOOR CHANNEL</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=channelv">CHANNEL V</option>
+<option value="http://m.tivi8k.net/fox.php">Fox Sport</option> 
+<option value="http://m.tivi8k.net/fox2.php">Fox Sport 2</option> 
 
-		   <option value="https://www.youtube.com/embed/tANJiz4cDWE">=== NGHE NHẠC TRỮ TÌNH - Nhấn nút Play để thưởng thức ====
-		   <option value="https://www.youtube.com/embed/tANJiz4cDWE"> Chúc Bạn Nghe Nhạc Vui Vẻ !
-		   <option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vàng Trữ Tình
-		   <option value="https://www.youtube.com/embed/CJV7M61_8Ck">Nhạc TRữ Tình ChỌn Lọc Hay Nhất
-		   <option value="https://www.youtube.com/embed/MqCaUOABeg4">Nhac Vang Chon Loc
-		   <option value="https://www.youtube.com/embed/PANY0e-6hfU">Liên Khúc Chiều Mưa 4
-		   <option value="https://www.youtube.com/embed/Xb8GDL6hM3s">Bolero LossLess
-		   <option value="https://www.youtube.com/embed/XgY1_OFAwg4">NHẠC ÂU MỸ BẤT HỦ
-		   <option value="https://www.youtube.com/embed/g77tMnZrbYk">Tuyển tập Lệ Quyên 2016
-		   <option value="https://www.youtube.com/embed/Ni99S4O-s4I">Album Trường Vũ
-		   <option value="https://www.youtube.com/embed/7BO0IJsiAmE">Nhạc vàng hải ngoại chọn lọc 2017
-		   <option value="https://www.youtube.com/embed/sRf8sgPnAQs">Ngọc Lan, Kiều Nga, Tuyết Nhung
-		   <option value="https://www.youtube.com/embed/ZbCyyZeMe-A">Liên khúc Đan Nguyên 1
-		   <option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vang Chất Lượng Cao
-		   <option value="https://www.youtube.com/embed/Dun_rnVOLns">Tuyển Chọn 30 Bài Nhạc Lính Chiến HAY NHẤT
-		   <option value="https://www.youtube.com/embed/22RqeRGsWZ0">Những tình khúc nhạc vàng bất hủ chọn lọc
-		   <option value="https://www.youtube.com/embed/Ipd6ukMXZng">Album Trường Vũ  Nó Và Tôi
-		   <option value="https://www.youtube.com/embed/yynJP3pTKlM">Nhạc vàng trữ tình Bolero hải ngoại
-		   <option value="https://www.youtube.com/embed/qKeKdk3VZSg">Liên Khúc Tình Yêu Tuyệt Vời
-		   <option value="https://www.youtube.com/embed/uvL_-j25S-4">Tuấn Vũ Tuyệt Phẩm
-		   <option value="https://www.youtube.com/embed/VOh7vErZTiw">Tuyển tập nhạc không lời hay
-		   <option value="https://www.youtube.com/embed/bmaibO5eKT4">Tuấn Vũ & Hương Lan
-		   <option value="https://www.youtube.com/embed/L35gySNQXe0">Tổng hợp nhạc trẻ hay nhất 2015
-		   <option value="https://www.youtube.com/embed/__rb8Tk_Txw">Thiên Kim
-		   <option value="https://www.youtube.com/embed/l1U02IZPJIk">Nhạc xuân 2016 hay nhất
-		   <option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình
-		   <option value="https://www.youtube.com/embed/FJpXaNjk8jQ">Nhạc Vàng Hải Ngoại Trường Vũ
-		   <option value="https://www.youtube.com/embed/wJX_-Znj1Ys">Top 10 Bài Hát Nhạc Trẻ Hay
-		   <option value="https://www.youtube.com/embed/BYLwgqdknWk">Lệ Quyên 2017
-		   <option value="https://www.youtube.com/embed/6_YrxuPKzG4">Tuấn Vũ Hương Lan , Giao Linh, Sơn Tuyền
-		   <option value="https://www.youtube.com/embed/EVVXkCC4HVo">Ngọc Lan, Lâm Thúy Vân, Kiều Nga
-		   <option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
-		   <option value="https://www.youtube.com/embed/_OlfydeRdOQ">Liên Khúc Chiều Mưa 3
-		   <option value="https://www.youtube.com/embed/lMRkqW7sMUA">Hương Lan - Biết Nói Gì Đây
-		   <option value="https://www.youtube.com/embed/kRJButYEBsY">Liên Khúc Tuấn Vũ Trọn Bộ
-		   <option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình
-		   <option value="https://www.youtube.com/embed/QkIIGOzHavk">Tuấn Vũ, Hương Lan, Ngọc lan, Sơn Tuyền
-		   <option value="https://www.youtube.com/embed/3LffW65BXcI">Nhạc Vàng Hải Ngoại Trường Vũ
-		   <option value="https://www.youtube.com/embed/6OhJiTjD9g4">Minh Tuyết
-		   <option value="https://www.youtube.com/embed/taD6lwTFqsY">LK NHAC Vàng Không Lời Hay nhất
-		   <option value="https://www.youtube.com/embed/H2T6Z6msyNE">Nhạc Vàng Trữ Tình
-		   <option value="https://www.youtube.com/embed/X76RqT6COKw">Liên Khúc Chọn Lọc
-		   <option value="https://www.youtube.com/embed/dxWVeTE-yoc">Thiên Kim, Diễm Liên, Thanh Trúc, Quang Minh, Thanh Hà
-		   <option value="https://www.youtube.com/embed/O1zENZEPYmY">Bolero Hải Ngoại
-		   <option value="https://www.youtube.com/embed/A-dl87R9RF8">Liên Khúc Tình Yêu 2
-		   <option value="https://www.youtube.com/embed/iiaxJwaY94A">LK Nhạc Bolero Trữ Tình Hay Nhất 2017
-		   <option value="https://www.youtube.com/embed/kyyFsbi8QhI">Nhạc Vàng Bolero Chọn Lọc Hay Nhất
-		   <option value="https://www.youtube.com/embed/L-OpiBmXHzU">Liên Khúc Chiều Mưa 3
-		   <option value="https://www.youtube.com/embed/nZ6rZ-eqzi4">Tuyển tập những bài hát guitar hay nhất
-		   <option value="https://www.youtube.com/embed/zcN6oArjg5g">Tuấn Vũ, Giao Linh, Thanh Tuyền, Trúc Mai, Huy Sinh
-		   <option value="https://www.youtube.com/embed/H2T6Z6msyNE">Dan Nguyen - Nhạc Vàng Trữ Tình
-		   <option value="https://www.youtube.com/embed/tOIr7UaHtlw">Liên khúc ĐÓN XUÂN NÀY NHỚ XUÂN XƯA
-		   <option value="https://www.youtube.com/embed/W4GltzeQ1aY">Liên Khúc Chiều Mưa 3
-		   <option value="https://www.youtube.com/embed/xZcT_BEJaTY">Nhạc Vàng Chọn Lọc Hay nhất 2017
-		   <option value="https://www.youtube.com/embed/7YdZGjGrotk">Như Quỳnh 2017
-		   <option value="https://www.youtube.com/embed/iCL4fYm6Ojs">Đàm Vĩnh Hưng 2011
-		   <option value="https://www.youtube.com/embed/CgYOUa6aDk4">Trường Vũ  - Album Cơn Mê Tình Ái
-		   <option value="https://www.youtube.com/embed/IJKkzPHQNUQ">Ngọc Lan, Như Mai, Kim Anh
-		   <option value="https://www.youtube.com/embed/ABtzFR8LZB8">Nhạc vàng Bolero hải ngoại
-		   <option value="https://www.youtube.com/embed/4cInu7BJzHE">Ngọc Lan, Kiều Nga, Nhật Hạ, Thúy Vi
-		   <option value="https://www.youtube.com/embed/NQAIiYIDYJQ">Nhạc Vang Chất Lượng Cao
-		   <option value="https://www.youtube.com/embed/zIqcwIsHLKo">Tình Khúc Trịnh Công Sơn
-		   <option value="https://www.youtube.com/embed/hTBWHRlhQmk">Giang Tử - Tuyệt phẩm Nhạc vàng Bolero Hải ngoại
-		   <option value="https://www.youtube.com/embed/ZgUJ7OqH0eo">Liên Khúc Nhac lossless
-		   <option value="https://www.youtube.com/embed/0FQpYeXMltA">Anh Thơ tuyển tập nhạc Lossless
-		   <option value="https://www.youtube.com/embed/mT2bPvIrwdM">Nhạc vàng trữ tình Bolero Như Quỳnh
-		   <option value="https://www.youtube.com/embed/eJgwMRoKrzY">Nhạc vàng Bolero
-		   <option value="https://www.youtube.com/embed/g4t0SKQ3UXE">NHẠC VÀNG TRỮ TÌNH BOLERO GIỌNG CA TRẺ
-		   <option value="https://www.youtube.com/embed/6KKVD2VQs5A">Nhạc không lời 
-		   <option value="https://www.youtube.com/embed/LNmnmw7gY4A">Thien Trang- Chế Linh- Tuấn Vũ
-		   <option value="https://www.youtube.com/embed/LIlwpJPWL5c">Những Bản Độc Tấu Guitar
-		   <option value="https://www.youtube.com/embed/VrCjIETR6qU">Liên khúc Nonstop Cha cha cha
-		   <option value="https://www.youtube.com/embed/4sPaKw6CHoQ">Liên Khúc Hải Ngoại sôi động
-		   <option value="https://www.youtube.com/embed/60Zdy3jfzb4">Album Cho người tình nhỏ
-		   <option value="https://www.youtube.com/embed/KP-MzFJS7sc">Nhạc không lời hay- Two Guitars
-		   <option value="https://www.youtube.com/embed/lySf_wpbXC8">Liên khúc Hit hải ngoại
-		   <option value="https://www.youtube.com/embed/_V1HlcCDJhg">liên  khúc nhạc trữ tình hay nhất
-		   <option value="https://www.youtube.com/embed/ZnS0WG7-ZCI">Đan Nguyên - Album Có Thế Thôi
-		   <option value="https://www.youtube.com/embed/Nz-_cbp8icg">Lệ Quyên colection
-		   <option value="https://www.youtube.com/embed/72Imeuf6ufY">Nhạc Trữ Tình - Liên Khúc Mưa
-		   <option value="https://www.youtube.com/embed/KdJo3sr-4fs">Lien Khúc Tình yêu 4
-		   <option value="https://www.youtube.com/embed/jMIC3QjSd3E">nhạc không lời buồn
-		   <option value="https://www.youtube.com/embed/pNSFMsEiCkY">Liên Khúc Hải Ngoại
-		   <option value="https://www.youtube.com/embed/ZJc218-49mY">Nhac tru tinh lossless
-		   <option value="https://www.youtube.com/embed/qUzPkZSLEds">Nhạc Bolero Hay Nhất
-		   <option value="https://www.youtube.com/embed/tqe9trZ3LYk">Nhạc vàng trữ tình Bolero Hoàng Oanh
-		   <option value="https://www.youtube.com/embed/Y2SF55I-KmU">Lien khúc chiều mưa 3
-		   <option value="https://www.youtube.com/embed/KaC4uoKLJa0">Album Ngọc Lan
-		   <option value="https://www.youtube.com/embed/bqW7ttN-Sxg">Hòa Tấu Guitar Vô Thường
-		   <option value="https://www.youtube.com/embed/2LVokR-E3ig">Đan Trường - Nhạc tuyển Vol 1
-		   <option value="https://www.youtube.com/embed/wRPHpIwIf40">Nhạc vàng trữ tình - Như Quỳnh 4
-		   <option value="https://www.youtube.com/embed/4V04Hp60_zg">Sương Lạnh Chiều Đồng - Thanh Tuyền
-		   <option value="https://www.youtube.com/embed/lnrUe7PCbc0">Liên khúc tình đầu - Elvis Phương, Hương Lan
-		   <option value="https://www.youtube.com/embed/VOh7vErZTiw">Nhạc không lời - Aranjuez Mon Amour
-		   <option value="https://www.youtube.com/embed/ckRJvaqZlQ4">Phương Dung - Ngày đó xa rồi
-		   <option value="https://www.youtube.com/embed/4Qk2_PSAoAo">Nhac tru tinh am thanh lossless
-		   <option value="https://www.youtube.com/embed/EHu6goQNfyo">Liên Khúc Tình Yêu
-		   <option value="https://www.youtube.com/embed/mA3V4YVfdIQ">Liên Khúc Chiều Mưa 2
-		   <option value="https://www.youtube.com/embed/H2T6Z6msyNE">NHẠC ÂU MỸ BẤT HỦ
-		   <option value="https://www.youtube.com/embed/-12Y8Dqikic">Album Ngọc Lan
-		   <option value="https://www.youtube.com/embed/6ksyO7WkP0M">Nhạc vàng trữ tình Bolero Mạnh Đình
-		   <option value="https://www.youtube.com/embed/Yec1oZPTsI4">Nhạc Vang Chất Lượng Cao
-		   <option value="https://www.youtube.com/embed/PMxgWY-ZHlQ">LK Thành Phố Buồn
-		   <option value="https://www.youtube.com/embed/IngVVpfGECQ">Liên Khúc Nhạc Mừng Xuân 2017
-		   <option value="https://www.youtube.com/embed/rFSBxyj7PiA">Tâm Đoan - Sầu Lẻ Bóng
-		   <option value="https://www.youtube.com/embed/ioXLpcbgSzE">Nhạc vàng trữ tình Bolero hải ngoại
-		   <option value="https://www.youtube.com/embed/5xz0N6iaFoA">Album Song Ca Đặc Biệt
-		   <option value="https://www.youtube.com/embed/e2tKtqZKJXs">Khánh Ly Lossless - Album Chưa Phai
-		   <option value="https://www.youtube.com/embed/S81aM0j2OWU">Nhạc vàng Bolero hải ngoại Tâm Đoan - Huế Xưa
-		   <option value="https://www.youtube.com/embed/mHDl579NB7c">Tuyển Tập Những Bài Hát Hay Nhất của Như Quỳnh
-		   <option value="https://www.youtube.com/embed/EaREyFjObdM">Nhạc Trữ Tình 2015
-		   <option value="https://www.youtube.com/embed/p9OXuRZezZM">NSƯT Thanh Thúy
-		   <option value="https://www.youtube.com/embed/RxkU08-m45M">Liên khúc nhạc vàng nhiều ca sĩ nổi tiếng
-		   <option value="https://www.youtube.com/embed/ZeuyUDluSNU">Liên khúc Tuấn Vũ, Sơn Tuyền, Thiên Trang
-		   <option value="https://www.youtube.com/embed/b_f3ewyt9ys">Đâu Ngờ Tình Dang Dỡ
-		   <option value="https://www.youtube.com/embed/AsX9sMv-zS4">Quang Lê - Lệ Quyên
-		   <option value="https://www.youtube.com/embed/VFBqKis__Kg">Nhạc Trữ Tình Chọn Lọc 2014
-		   <option value="https://www.youtube.com/embed/MQkgocK411s">Nhạc Vàng 2015
-		   <option value="https://www.youtube.com/embed/rf2EmSUaHF0">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
-		   <option value="https://www.youtube.com/embed/83RB4SIwdCY">Beethoven - Moonlight Sonata
-		   <option value="https://www.youtube.com/embed/ycGfvA1vkR8">Như Quỳnh - Duyên Phận
-		   <option value="https://www.youtube.com/embed/2Km_rqn8Xh4">Lk nhac lossless
-		   <option value="https://www.youtube.com/embed/bO89Wb6c5r0">LK Nhạc Vàng Trữ Tình Remix Hay Nhất 2017
-		   <option value="https://www.youtube.com/embed/y8TC_xT1pvk">Đan Trường - Album Vol 2
-		   <option value="https://www.youtube.com/embed/C3VIlJtv340">Những Bài Hát Hay Nhất Của Phan Đình Tùng
-		   <option value="https://www.youtube.com/embed/b2pECiq5bkk">Lk Nhạc Vàng Trữ Tình
-		   <option value="https://www.youtube.com/embed/65EE7hTWq18">The Best of Richard Clayderman
-		   <option value="https://www.youtube.com/embed/ByU11bUeqQE">Lk Nhạc Trữ Tình Sôi Động
-		   <option value="https://www.youtube.com/embed/LAi20eSw08A">LK Chuyện Nàng Trinh Nữ Tên Thi
-		   <option value="https://www.youtube.com/embed/HQbIMV96vL8">Chiến Thắng 2016
-		   <option value="https://www.youtube.com/embed/ziWFwMFEQGY">Đàm Vĩnh Hưng - Vol 1
-		   <option value="https://www.youtube.com/embed/mlmEqgKkqGc">Michael Learns To Rock
-		   <option value="https://www.youtube.com/embed/bOuGW44nXDg">Đại Hội New Wave - Kỳ 2
-		   <option value="https://www.youtube.com/embed/4BaVMDthGK8">Xót xa - Karaoke HD
-		   <option value="https://www.youtube.com/embed/rKinIrzdc6k">Đan Trường - Album Vol 3
-		   <option value="https://www.youtube.com/embed/0HQTqBD3lYI">Những ca khúc hay nhất của Quang Dũng
-		   <option value="https://www.youtube.com/embed/ADhaNYy3k0Y">Happy New Year Mix 2017
-		   <option value="https://www.youtube.com/embed/m3VYx4WGRUU">Chế Linh
-		   <option value="https://www.youtube.com/embed/wSbKYTSZ85M">LỆ QUYÊN - Những Tình Khúc Trữ Tình Hải Ngoại
-		   <option value="https://www.youtube.com/embed/dsbLcdihBNg">Tuyệt Phẩm Bolero Hay Nhất Của Tuấn Vũ
-		   <option value="https://www.youtube.com/embed/ttFufKO0Z0I">Trường Vũ 2017
-		   <option value="https://www.youtube.com/embed/p-MXd77YYIs">Chế Linh, Tuấn Vũ, Trường Vũ
-		   <option value="https://www.youtube.com/embed/JfxIIfFgXvE">Nhạc vàng Bolero Như Quỳnh
-		   <option value="https://www.youtube.com/embed/xe4KtTLIIfA">50 Tình Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn
-		   <option value="https://www.youtube.com/embed/mESQHwisCpk">CA SĨ HẢI NGOẠI THANH TUYỀN
-		   <option value="https://www.youtube.com/embed/G9EBwN7mVac">Những ca khúc Nhạc Vàng hay nhất 
-		   <option value="https://www.youtube.com/embed/Hd69oK4Ey5E">Song Ca Nhạc Vàng Bolero
-		   <option value="https://www.youtube.com/embed/wznYnJQvaPY">Tuyệt phẩm Chế Linh hay nhất 2016
-		   <option value="https://www.youtube.com/embed/lGBYXW1EpCk">Giọng Ca Trẻ Hải Ngoại Hát Tình Khúc
-		   <option value="https://www.youtube.com/embed/LdcffuOZPZI">Giang Hồng Ngọc 2017
-		   <option value="https://www.youtube.com/embed/dIlHSakjUkM">Song Ca Nhạc Vàng - Chế Linh, Thanh Tuyền
-		   <option value="https://www.youtube.com/embed/EQrZy_pLROw">NHẠC XUÂN ĐAN NGUYÊN 2017 Mới Nhất
-		   <option value="https://www.youtube.com/embed/2uf8craWIdE">Sơn Tuyền Nhạc Tuyển
-		   <option value="https://www.youtube.com/embed/AeH_49wSqFE">Những Tình Khúc Bất Hủ Trần Thiện Thanh
-		   <option value="https://www.youtube.com/embed/vRRiv1pI6D4">Tuyệt phẩm Nhạc Vàng Song Ca
+<option value="http://sv.xemtivitt.net/viettv24.php?id=shop">Hải ngoại:VIETV</option>
+<option value="http://sv.xemtivitt.net/viettv24.php?id=ykhoa">Hải ngoại:VIETFACE TV</option>
+<option value="http://sv.xemtivitt.net/viettv24.php?id=dulich">Hải ngoại:KVLA</option>
+<option value="http://sv.xemtivitt.net/viettv24.php?id=vmusic">Hải ngoại:VMUSIC</option> 
+<option value="http://sv.xemtivitt.net/viettv24.php?id=luatphap">Hải ngoại:LSTV</option>
+<option value="http://sv.xemtivitt.net/viettv24.php?id=sankhau">Hải ngoại:SAN KHAU</option> 
+<option value="http://sv.xemtivitt.net/viettv24.php?id=vpoptv">Hải ngoại:VpopTV</option>
+<option value="http://sv.xemtivitt.net/viettv24.php?id=hai247">Hải ngoại:HAI 24/7</option>
+<option value="http://sv.xemtivitt.net/viettv24.php?id=fashion">Hải ngoại:SET TV</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8">Hải ngoại:VIET MY</option>
+
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/discovery_hd_world_480p.stream/playlist.m3u8">===== Kênh TH quốc tế (sever nước ngoài) ======</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/discovery_hd_world_480p.stream/playlist.m3u8">Discovery HD World
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/history_channel_hd_480p.stream/playlist.m3u8">History Channel HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/h2_480p.stream/playlist.m3u8">H2
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/national_geographic_hd_360p.stream/playlist.m3u8">National Geographic HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_explore_life_480p.stream/playlist.m3u8">True Explore Life
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_explore_sci_480p.stream/playlist.m3u8">True Explore Sci
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_explore_wild_480p.stream/playlist.m3u8">True Explore Wild
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/discovery_channel_480p.stream/playlist.m3u8">Discovery Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/discovery_science_480p.stream/playlist.m3u8">Discovery Science
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/dmax_480p.stream/playlist.m3u8">DMAX
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/animal_planet_480p.stream/playlist.m3u8">Animal Planet
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bbc_earth_480p.stream/playlist.m3u8">BBC Earth
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/national_geographic_wild_360p.stream/playlist.m3u8">National Geographic Wild
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/national_geographic_people_360p.stream/playlist.m3u8">National Geographic People
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/samrojlok_480p.stream/playlist.m3u8">Samrojlok
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/fyi_360p.stream/playlist.m3u8">fyi
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/ci_hd_360p.stream/playlist.m3u8">CI HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/asian_food_channel_480p.stream/playlist.m3u8">Asian Food Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/jkn_dramax_360p.stream/playlist.m3u8">JKN Dramax
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/smart_sme_channel_480p.stream/playlist.m3u8">Smart SME Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/rama_channel_480p.stream/playlist.m3u8">RAMA Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/eve_360p.stream/playlist.m3u8">EVE
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/reality_hd_480p.stream/playlist.m3u8">Reality HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/axn_hd_480p.stream/playlist.m3u8">AXN HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/fashion_tv_hd_360p.stream/playlist.m3u8">Fashion TV HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_x zyte_480p.stream/playlist.m3u8">True X zyte
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/travel_channel_thailand_480p.stream/playlist.m3u8">Travel Channel Thailand
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/super_bunteung_480p.stream/playlist.m3u8">Super Bunteung
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/miracle_channel_480p.stream/playlist.m3u8">Miracle Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/etv_480p.stream/playlist.m3u8">ETV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/you_channel_480p.stream/playlist.m3u8">You Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/gvtv_480p.stream/playlist.m3u8">GVTV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/gvv_480p.stream/playlist.m3u8">GVV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/gvx_480p.stream/playlist.m3u8">GVX
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/disney_xd_360p.stream/playlist.m3u8">Disney XD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_spark_play_480p.stream/playlist.m3u8">True Spark play
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_spark_jump_480p.stream/playlist.m3u8">True Spark Jump
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/disney_channel_360p.stream/playlist.m3u8">Disney Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/discovery_kids_480p.stream/playlist.m3u8">Discovery Kids
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/gang_cartoon_480p.stream/playlist.m3u8">Gang Cartoon
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/baby_tv_hd_360p.stream/playlist.m3u8">Baby TV HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/boomerang_480p.stream/playlist.m3u8">Boomerang
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/nick_jr._360p.stream/playlist.m3u8">NiCK Jr
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/toonami_360p.stream/playlist.m3u8">Toonami
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/tgn2_480p.stream/playlist.m3u8">TGN2
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/tgn_480p.stream/playlist.m3u8">TGN
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/tnn24_480p.stream/playlist.m3u8">TNN24
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/tnn2_480p.stream/playlist.m3u8">TNN2
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/money_channel_480p.stream/playlist.m3u8">Money Channel
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/nhk_world_tv_360p.stream/playlist.m3u8">NHK World TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/france_24_360p.stream/playlist.m3u8">FRANCE 24
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/euronews_360p.stream/playlist.m3u8">euronews
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/channel_newsasia_360p.stream/playlist.m3u8">Channel NewsAsia
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_news_hd_360p.stream/playlist.m3u8">Sky News HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/fox_news_360p.stream/playlist.m3u8">FOX News
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/cctv4_480p.stream/playlist.m3u8">CCTV4
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/tv5_hd_480p.stream/playlist.m3u8">TV5 HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/nbt_480p.stream/playlist.m3u8">NBT
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/3_family_480p.stream/playlist.m3u8">3 Family
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/mcot_family_480p.stream/playlist.m3u8">MCOT Family
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/new_tv_480p.stream/playlist.m3u8">NEW TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/spring_news_480p.stream/playlist.m3u8">Spring News
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bright_tv_480p.stream/playlist.m3u8">Bright TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/voice_tv_480p.stream/playlist.m3u8">VOICE TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/nation_tv_480p.stream/playlist.m3u8">Nation TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/workpoint_tv_480p.stream/playlist.m3u8">Workpoint TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true4u_480p.stream/playlist.m3u8">True4U
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/gmm25_480p.stream/playlist.m3u8">Gmm25
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/8_480p.stream/playlist.m3u8">CH 8
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/3_sd_480p.stream/playlist.m3u8">CH 3 SD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/mono_29_480p.stream/playlist.m3u8">Mono 29
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/mcot_hd_480p.stream/playlist.m3u8">MCOT HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/thairath_tv_480p.stream/playlist.m3u8">Thairath TV
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/3_hd_480p.stream/playlist.m3u8">CH 3 HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/amarin_tv_hd_480p.stream/playlist.m3u8">Amarin TV HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/7_hd_480p.stream/playlist.m3u8">CH 7 HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/pptv_hd_480p.stream/playlist.m3u8">PPTV HD
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/true_plook_panya_480p.stream/playlist.m3u8">True Plook Panya
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/mcot1_480p.stream/playlist.m3u8">MCOT1
+
+<option value="http://m.tivi12h.net/thethaotv.php">===== Kênh Thể Thao Tổng Hợp =======</option>
+<option value="http://m.tivi12h.net/thethaotv.php">VTVcab3 THETHAO TV</option>
+<option value="http://m.tivi12h.net/bongdatv.php">VTVcab16 BONGDA TV</option>
+<option value="http://cdn.xemtivitt.net/2015/10/vtc3hd.html">VTC3 HD</option>
+<option value="http://sv2.xemtiviso.com/mimi.php?id=htvc-thethao">HTVC THE THAO</option>
+<option value="http://cdn.xemtivitt.net/2015/08/k11.html">THE THAO</option>
+<option value="http://cdn.xemtivitt.net/2016/07/vpf.html">VPF</option>
+<option value="http://m.tivi12h.net/btv5.php">BTV5</option>
+<option value="http://m.tivi12h.net/sctv17-2.php">SCTV17</option>
+<option value="http://m.tivi8k.net/sctv15.php">SCTV15</option>
+<option value="http://m.tivi8k.net/fox.php">Fox Sport</option>
+<option value="http://m.tivi8k.net/fox2.php">Fox Sport 2</option>
+
+<option value="http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480">sky sport 1(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480">Sky sport 2(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480">Sky sport 3(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480">Sky sport 4(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480">Sky sport 5(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/btsport1.php?width=650&height=480">BT sport 1(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/btsport2.php?width=650&height=480">BT sport 2(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&height=480">BT sport 3(UK)</option>
+<option value="http://v2.ustreamix.com/stream.php?id=nbc-sn">NBCSN USA</option>
+<option value="http://v2.ustreamix.com/stream.php?id=fox-sports-1-b">FOX SPORT 1(FS1) USA</option>
+<option value="http://v2.ustreamix.com/stream.php?id=fox-sports-2">FOX SPORT 2(FS2) USA</option>
+<option value="http://www.liveonlinetv247.info/embed/canal%2Bfutbol.php?width=650&height=480">Canal Futbol(ESP)</option>)
+<option value="http://www.liveonlinetv247.info/embed/canal%2Bliga.php?width=650&height=480">Canal Liga (ESP)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480">Bein sport 1(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480">Bein sport 2(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480">Bein sport 3(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480">Bein sport 4(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480">Bein sport 5(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480">Bein sport 6(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480">Bein sport 7(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480">Beins port 8(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480">Beins port 9(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480">Bein sport 10(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480">Bein sport 11(Eng)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480">Bein sport 12(Eng)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480">Bein sport 13(Eng)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480">Bein sport 1(France)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480">Bein sport 2(France)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480">Bein sport 3(France)</option>
+
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch1/hls-live/channel1.m3u8">Thai:Sport 1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch2/hls-live/channel2.m3u8">Thai:Sport 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch3/hls-live/channel3.m3u8">Thai:Sport 3</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch4/hls-live/channel4.m3u8">Thai:Sport 4</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch5/hls-live/channel5.m3u8">Thai:Sport 5</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch6/hls-live/channel6.m3u8">Thai:Sport 6</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch7/hls-live/channel7.m3u8">Thai:Sport 7</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch8/hls-live/channel8.m3u8">Thai:Sport 8</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch9/hls-live/channel9.m3u8">Thai:Sport 9</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://www.lineduball.com/ch10/hls-live/channel10.m3u8">Thai:Sport 10</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_hd_480p.stream/playlist.m3u8">Thai:True Sport HD 1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_hd_2_480p.stream/playlist.m3u8">Thai:True Sport HD 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_hd_3_480p.stream/playlist.m3u8">Thai:True Sport HD 3</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_hd_4_480p.stream/playlist.m3u8">Thai:True Sport HD 4</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_2_480p.stream/playlist.m3u8">Thai:True Sport 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_5_480p.stream/playlist.m3u8">Thai:True Sport 5</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_6_480p.stream/playlist.m3u8">Thai:True Sport 6</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/truesport_7_480p.stream/playlist.m3u8">Thai:True Sport 7</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_1_480p.stream/playlist.m3u8">Thai:beIN Sports 1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_2_480p.stream/playlist.m3u8">Thai:beIN Sports 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_3_480p.stream/playlist.m3u8">Thai:beIN Sports 3</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_4_480p.stream/playlist.m3u8">Thai:beIN Sports 4</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_5_360p.stream/playlist.m3u8">Thai:beIN Sports 5</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8">Thai:beIN Sports 6</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_1_france_360p.stream/playlist.m3u8">Thai:beIN Sports 1 (France)</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bein_sports_2_france_360p.stream/playlist.m3u8">Thai:beIN Sports 2 (France)</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sport_hd_480p.stream/playlist.m3u8">Thai:Skynet Sport HD</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sports_1_480p.stream/playlist.m3u8">Thai:SkyNet Sports 1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sports_2_480p.stream/playlist.m3u8">Thai:SkyNet Sports 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sports_3_480p.stream/playlist.m3u8">Thai:SkyNet Sports 3</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sports_4_480p.stream/playlist.m3u8">Thai:SkyNet Sports 4</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sports_5_480p.stream/playlist.m3u8">Thai:SkyNet Sports 5</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/skynet_sports_6_480p.stream/playlist.m3u8">Thai:SkyNet Sports 6</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_sports_1_360p.stream/playlist.m3u8">Thai:Sky Sports 1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_sports_2_360p.stream/playlist.m3u8">Thai:Sky Sports 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_sports_3_360p.stream/playlist.m3u8">Thai:Sky Sports 3</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_sports_4_360p.stream/playlist.m3u8">Thai:Sky Sports 4</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_sports_5_360p.stream/playlist.m3u8">Thai:Sky Sports 5</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/sky_sports_f1_360p.stream/playlist.m3u8">Thai:Sky Sports F1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8">Thai:BT Sport 1 HD</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8">Thai:BT Sport 2 HD</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8">Thai:BT Sport 3 HD</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8">Thai:BT Sport ESPN</option>
+
+<option value="https://www.youtube.com/embed/tANJiz4cDWE">=========== NGHE NHẠC TRỮ TÌNH ===============</option>
+<option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vàng Trữ Tình
+<option value="https://www.youtube.com/embed/CJV7M61_8Ck">Nhạc TRữ Tình ChỌn Lọc Hay Nhất
+<option value="https://www.youtube.com/embed/MqCaUOABeg4">Nhac Vang Chon Loc
+<option value="https://www.youtube.com/embed/PANY0e-6hfU">Liên Khúc Chiều Mưa 4
+<option value="https://www.youtube.com/embed/Xb8GDL6hM3s">Bolero LossLess
+<option value="https://www.youtube.com/embed/XgY1_OFAwg4">NHẠC ÂU MỸ BẤT HỦ
+<option value="https://www.youtube.com/embed/g77tMnZrbYk">Tuyển tập Lệ Quyên 2016
+<option value="https://www.youtube.com/embed/Ni99S4O-s4I">Album Trường Vũ
+<option value="https://www.youtube.com/embed/7BO0IJsiAmE">Nhạc vàng hải ngoại chọn lọc 2017
+<option value="https://www.youtube.com/embed/sRf8sgPnAQs">Ngọc Lan, Kiều Nga, Tuyết Nhung
+<option value="https://www.youtube.com/embed/ZbCyyZeMe-A">Liên khúc Đan Nguyên 1
+<option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vang Chất Lượng Cao
+<option value="https://www.youtube.com/embed/Dun_rnVOLns">Tuyển Chọn 30 Bài Nhạc Lính Chiến HAY NHẤT
+<option value="https://www.youtube.com/embed/22RqeRGsWZ0">Những tình khúc nhạc vàng bất hủ chọn lọc
+<option value="https://www.youtube.com/embed/Ipd6ukMXZng">Album Trường Vũ  Nó Và Tôi
+<option value="https://www.youtube.com/embed/yynJP3pTKlM">Nhạc vàng trữ tình Bolero hải ngoại
+<option value="https://www.youtube.com/embed/qKeKdk3VZSg">Liên Khúc Tình Yêu Tuyệt Vời
+<option value="https://www.youtube.com/embed/uvL_-j25S-4">Tuấn Vũ Tuyệt Phẩm
+<option value="https://www.youtube.com/embed/VOh7vErZTiw">Tuyển tập nhạc không lời hay
+<option value="https://www.youtube.com/embed/bmaibO5eKT4">Tuấn Vũ & Hương Lan
+<option value="https://www.youtube.com/embed/L35gySNQXe0">Tổng hợp nhạc trẻ hay nhất 2015
+<option value="https://www.youtube.com/embed/__rb8Tk_Txw">Thiên Kim
+<option value="https://www.youtube.com/embed/l1U02IZPJIk">Nhạc xuân 2016 hay nhất
+<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình
+<option value="https://www.youtube.com/embed/FJpXaNjk8jQ">Nhạc Vàng Hải Ngoại Trường Vũ
+<option value="https://www.youtube.com/embed/wJX_-Znj1Ys">Top 10 Bài Hát Nhạc Trẻ Hay
+<option value="https://www.youtube.com/embed/BYLwgqdknWk">Lệ Quyên 2017
+<option value="https://www.youtube.com/embed/6_YrxuPKzG4">Tuấn Vũ Hương Lan , Giao Linh, Sơn Tuyền
+<option value="https://www.youtube.com/embed/EVVXkCC4HVo">Ngọc Lan, Lâm Thúy Vân, Kiều Nga
+<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
+<option value="https://www.youtube.com/embed/_OlfydeRdOQ">Liên Khúc Chiều Mưa 3
+<option value="https://www.youtube.com/embed/lMRkqW7sMUA">Hương Lan - Biết Nói Gì Đây
+<option value="https://www.youtube.com/embed/kRJButYEBsY">Liên Khúc Tuấn Vũ Trọn Bộ
+<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình
+<option value="https://www.youtube.com/embed/QkIIGOzHavk">Tuấn Vũ, Hương Lan, Ngọc lan, Sơn Tuyền
+<option value="https://www.youtube.com/embed/3LffW65BXcI">Nhạc Vàng Hải Ngoại Trường Vũ
+<option value="https://www.youtube.com/embed/6OhJiTjD9g4">Minh Tuyết
+<option value="https://www.youtube.com/embed/taD6lwTFqsY">LK NHAC Vàng Không Lời Hay nhất
+<option value="https://www.youtube.com/embed/H2T6Z6msyNE">Nhạc Vàng Trữ Tình
+<option value="https://www.youtube.com/embed/X76RqT6COKw">Liên Khúc Chọn Lọc
+<option value="https://www.youtube.com/embed/dxWVeTE-yoc">Thiên Kim, Diễm Liên, Thanh Trúc, Quang Minh, Thanh Hà
+<option value="https://www.youtube.com/embed/O1zENZEPYmY">Bolero Hải Ngoại
+<option value="https://www.youtube.com/embed/A-dl87R9RF8">Liên Khúc Tình Yêu 2
+<option value="https://www.youtube.com/embed/iiaxJwaY94A">LK Nhạc Bolero Trữ Tình Hay Nhất 2017
+<option value="https://www.youtube.com/embed/kyyFsbi8QhI">Nhạc Vàng Bolero Chọn Lọc Hay Nhất
+<option value="https://www.youtube.com/embed/L-OpiBmXHzU">Liên Khúc Chiều Mưa 3
+<option value="https://www.youtube.com/embed/nZ6rZ-eqzi4">Tuyển tập những bài hát guitar hay nhất
+<option value="https://www.youtube.com/embed/zcN6oArjg5g">Tuấn Vũ, Giao Linh, Thanh Tuyền, Trúc Mai, Huy Sinh
+<option value="https://www.youtube.com/embed/H2T6Z6msyNE">Dan Nguyen - Nhạc Vàng Trữ Tình
+<option value="https://www.youtube.com/embed/tOIr7UaHtlw">Liên khúc ĐÓN XUÂN NÀY NHỚ XUÂN XƯA
+<option value="https://www.youtube.com/embed/W4GltzeQ1aY">Liên Khúc Chiều Mưa 3
+<option value="https://www.youtube.com/embed/xZcT_BEJaTY">Nhạc Vàng Chọn Lọc Hay nhất 2017
+<option value="https://www.youtube.com/embed/7YdZGjGrotk">Như Quỳnh 2017
+<option value="https://www.youtube.com/embed/iCL4fYm6Ojs">Đàm Vĩnh Hưng 2011
+<option value="https://www.youtube.com/embed/CgYOUa6aDk4">Trường Vũ  - Album Cơn Mê Tình Ái
+<option value="https://www.youtube.com/embed/IJKkzPHQNUQ">Ngọc Lan, Như Mai, Kim Anh
+<option value="https://www.youtube.com/embed/ABtzFR8LZB8">Nhạc vàng Bolero hải ngoại
+<option value="https://www.youtube.com/embed/4cInu7BJzHE">Ngọc Lan, Kiều Nga, Nhật Hạ, Thúy Vi
+<option value="https://www.youtube.com/embed/NQAIiYIDYJQ">Nhạc Vang Chất Lượng Cao
+<option value="https://www.youtube.com/embed/zIqcwIsHLKo">Tình Khúc Trịnh Công Sơn
+<option value="https://www.youtube.com/embed/hTBWHRlhQmk">Giang Tử - Tuyệt phẩm Nhạc vàng Bolero Hải ngoại
+<option value="https://www.youtube.com/embed/ZgUJ7OqH0eo">Liên Khúc Nhac lossless
+<option value="https://www.youtube.com/embed/0FQpYeXMltA">Anh Thơ tuyển tập nhạc Lossless
+<option value="https://www.youtube.com/embed/mT2bPvIrwdM">Nhạc vàng trữ tình Bolero Như Quỳnh
+<option value="https://www.youtube.com/embed/eJgwMRoKrzY">Nhạc vàng Bolero
+<option value="https://www.youtube.com/embed/g4t0SKQ3UXE">NHẠC VÀNG TRỮ TÌNH BOLERO GIỌNG CA TRẺ
+<option value="https://www.youtube.com/embed/6KKVD2VQs5A">Nhạc không lời 
+<option value="https://www.youtube.com/embed/LNmnmw7gY4A">Thien Trang- Chế Linh- Tuấn Vũ
+<option value="https://www.youtube.com/embed/LIlwpJPWL5c">Những Bản Độc Tấu Guitar
+<option value="https://www.youtube.com/embed/VrCjIETR6qU">Liên khúc Nonstop Cha cha cha
+<option value="https://www.youtube.com/embed/4sPaKw6CHoQ">Liên Khúc Hải Ngoại sôi động
+<option value="https://www.youtube.com/embed/60Zdy3jfzb4">Album Cho người tình nhỏ
+<option value="https://www.youtube.com/embed/KP-MzFJS7sc">Nhạc không lời hay- Two Guitars
+<option value="https://www.youtube.com/embed/lySf_wpbXC8">Liên khúc Hit hải ngoại
+<option value="https://www.youtube.com/embed/_V1HlcCDJhg">liên  khúc nhạc trữ tình hay nhất
+<option value="https://www.youtube.com/embed/ZnS0WG7-ZCI">Đan Nguyên - Album Có Thế Thôi
+<option value="https://www.youtube.com/embed/Nz-_cbp8icg">Lệ Quyên colection
+<option value="https://www.youtube.com/embed/72Imeuf6ufY">Nhạc Trữ Tình - Liên Khúc Mưa
+<option value="https://www.youtube.com/embed/KdJo3sr-4fs">Lien Khúc Tình yêu 4
+<option value="https://www.youtube.com/embed/jMIC3QjSd3E">nhạc không lời buồn
+<option value="https://www.youtube.com/embed/pNSFMsEiCkY">Liên Khúc Hải Ngoại
+<option value="https://www.youtube.com/embed/ZJc218-49mY">Nhac tru tinh lossless
+<option value="https://www.youtube.com/embed/qUzPkZSLEds">Nhạc Bolero Hay Nhất
+<option value="https://www.youtube.com/embed/tqe9trZ3LYk">Nhạc vàng trữ tình Bolero Hoàng Oanh
+<option value="https://www.youtube.com/embed/Y2SF55I-KmU">Lien khúc chiều mưa 3
+<option value="https://www.youtube.com/embed/KaC4uoKLJa0">Album Ngọc Lan
+<option value="https://www.youtube.com/embed/bqW7ttN-Sxg">Hòa Tấu Guitar Vô Thường
+<option value="https://www.youtube.com/embed/2LVokR-E3ig">Đan Trường - Nhạc tuyển Vol 1
+<option value="https://www.youtube.com/embed/wRPHpIwIf40">Nhạc vàng trữ tình - Như Quỳnh 4
+<option value="https://www.youtube.com/embed/4V04Hp60_zg">Sương Lạnh Chiều Đồng - Thanh Tuyền
+<option value="https://www.youtube.com/embed/lnrUe7PCbc0">Liên khúc tình đầu - Elvis Phương, Hương Lan
+<option value="https://www.youtube.com/embed/VOh7vErZTiw">Nhạc không lời - Aranjuez Mon Amour
+<option value="https://www.youtube.com/embed/ckRJvaqZlQ4">Phương Dung - Ngày đó xa rồi
+<option value="https://www.youtube.com/embed/4Qk2_PSAoAo">Nhac tru tinh am thanh lossless
+<option value="https://www.youtube.com/embed/EHu6goQNfyo">Liên Khúc Tình Yêu
+<option value="https://www.youtube.com/embed/mA3V4YVfdIQ">Liên Khúc Chiều Mưa 2
+<option value="https://www.youtube.com/embed/H2T6Z6msyNE">NHẠC ÂU MỸ BẤT HỦ
+<option value="https://www.youtube.com/embed/-12Y8Dqikic">Album Ngọc Lan
+<option value="https://www.youtube.com/embed/6ksyO7WkP0M">Nhạc vàng trữ tình Bolero Mạnh Đình
+<option value="https://www.youtube.com/embed/Yec1oZPTsI4">Nhạc Vang Chất Lượng Cao
+<option value="https://www.youtube.com/embed/PMxgWY-ZHlQ">LK Thành Phố Buồn
+<option value="https://www.youtube.com/embed/IngVVpfGECQ">Liên Khúc Nhạc Mừng Xuân 2017
+<option value="https://www.youtube.com/embed/rFSBxyj7PiA">Tâm Đoan - Sầu Lẻ Bóng
+<option value="https://www.youtube.com/embed/ioXLpcbgSzE">Nhạc vàng trữ tình Bolero hải ngoại
+<option value="https://www.youtube.com/embed/5xz0N6iaFoA">Album Song Ca Đặc Biệt
+<option value="https://www.youtube.com/embed/e2tKtqZKJXs">Khánh Ly Lossless - Album Chưa Phai
+<option value="https://www.youtube.com/embed/S81aM0j2OWU">Nhạc vàng Bolero hải ngoại Tâm Đoan - Huế Xưa
+<option value="https://www.youtube.com/embed/mHDl579NB7c">Tuyển Tập Những Bài Hát Hay Nhất của Như Quỳnh
+<option value="https://www.youtube.com/embed/EaREyFjObdM">Nhạc Trữ Tình 2015
+<option value="https://www.youtube.com/embed/p9OXuRZezZM">NSƯT Thanh Thúy
+<option value="https://www.youtube.com/embed/RxkU08-m45M">Liên khúc nhạc vàng nhiều ca sĩ nổi tiếng
+<option value="https://www.youtube.com/embed/ZeuyUDluSNU">Liên khúc Tuấn Vũ, Sơn Tuyền, Thiên Trang
+<option value="https://www.youtube.com/embed/b_f3ewyt9ys">Đâu Ngờ Tình Dang Dỡ
+<option value="https://www.youtube.com/embed/AsX9sMv-zS4">Quang Lê - Lệ Quyên
+<option value="https://www.youtube.com/embed/VFBqKis__Kg">Nhạc Trữ Tình Chọn Lọc 2014
+<option value="https://www.youtube.com/embed/MQkgocK411s">Nhạc Vàng 2015
+<option value="https://www.youtube.com/embed/rf2EmSUaHF0">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
+<option value="https://www.youtube.com/embed/83RB4SIwdCY">Beethoven - Moonlight Sonata
+<option value="https://www.youtube.com/embed/ycGfvA1vkR8">Như Quỳnh - Duyên Phận
+<option value="https://www.youtube.com/embed/2Km_rqn8Xh4">Lk nhac lossless
+<option value="https://www.youtube.com/embed/bO89Wb6c5r0">LK Nhạc Vàng Trữ Tình Remix Hay Nhất 2017
+<option value="https://www.youtube.com/embed/y8TC_xT1pvk">Đan Trường - Album Vol 2
+<option value="https://www.youtube.com/embed/C3VIlJtv340">Những Bài Hát Hay Nhất Của Phan Đình Tùng
+<option value="https://www.youtube.com/embed/b2pECiq5bkk">Lk Nhạc Vàng Trữ Tình
+<option value="https://www.youtube.com/embed/65EE7hTWq18">The Best of Richard Clayderman
+<option value="https://www.youtube.com/embed/ByU11bUeqQE">Lk Nhạc Trữ Tình Sôi Động
+<option value="https://www.youtube.com/embed/LAi20eSw08A">LK Chuyện Nàng Trinh Nữ Tên Thi
+<option value="https://www.youtube.com/embed/HQbIMV96vL8">Chiến Thắng 2016
+<option value="https://www.youtube.com/embed/ziWFwMFEQGY">Đàm Vĩnh Hưng - Vol 1
+<option value="https://www.youtube.com/embed/mlmEqgKkqGc">Michael Learns To Rock
+<option value="https://www.youtube.com/embed/bOuGW44nXDg">Đại Hội New Wave - Kỳ 2
+<option value="https://www.youtube.com/embed/4BaVMDthGK8">Xót xa - Karaoke HD
+<option value="https://www.youtube.com/embed/rKinIrzdc6k">Đan Trường - Album Vol 3
+<option value="https://www.youtube.com/embed/0HQTqBD3lYI">Những ca khúc hay nhất của Quang Dũng
+<option value="https://www.youtube.com/embed/ADhaNYy3k0Y">Happy New Year Mix 2017
+<option value="https://www.youtube.com/embed/m3VYx4WGRUU">Chế Linh
+<option value="https://www.youtube.com/embed/wSbKYTSZ85M">LỆ QUYÊN - Những Tình Khúc Trữ Tình Hải Ngoại
+<option value="https://www.youtube.com/embed/dsbLcdihBNg">Tuyệt Phẩm Bolero Hay Nhất Của Tuấn Vũ
+<option value="https://www.youtube.com/embed/ttFufKO0Z0I">Trường Vũ 2017
+<option value="https://www.youtube.com/embed/p-MXd77YYIs">Chế Linh, Tuấn Vũ, Trường Vũ
+<option value="https://www.youtube.com/embed/JfxIIfFgXvE">Nhạc vàng Bolero Như Quỳnh
+<option value="https://www.youtube.com/embed/xe4KtTLIIfA">50 Tình Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn
+<option value="https://www.youtube.com/embed/mESQHwisCpk">CA SĨ HẢI NGOẠI THANH TUYỀN
+<option value="https://www.youtube.com/embed/G9EBwN7mVac">Những ca khúc Nhạc Vàng hay nhất 
+<option value="https://www.youtube.com/embed/Hd69oK4Ey5E">Song Ca Nhạc Vàng Bolero
+<option value="https://www.youtube.com/embed/wznYnJQvaPY">Tuyệt phẩm Chế Linh hay nhất 2016
+<option value="https://www.youtube.com/embed/lGBYXW1EpCk">Giọng Ca Trẻ Hải Ngoại Hát Tình Khúc
+<option value="https://www.youtube.com/embed/LdcffuOZPZI">Giang Hồng Ngọc 2017
+<option value="https://www.youtube.com/embed/dIlHSakjUkM">Song Ca Nhạc Vàng - Chế Linh, Thanh Tuyền
+<option value="https://www.youtube.com/embed/EQrZy_pLROw">NHẠC XUÂN ĐAN NGUYÊN 2017 Mới Nhất
+<option value="https://www.youtube.com/embed/2uf8craWIdE">Sơn Tuyền Nhạc Tuyển
+<option value="https://www.youtube.com/embed/AeH_49wSqFE">Những Tình Khúc Bất Hủ Trần Thiện Thanh
+<option value="https://www.youtube.com/embed/vRRiv1pI6D4">Tuyệt phẩm Nhạc Vàng Song Ca
 
        </select>       
 
