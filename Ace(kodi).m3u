@@ -1,17 +1,11 @@
 #EXTM3U thanh51
 
-#EXTINF:-1 group-title="Sports" tvg-logo="" ,K+1
-plugin://program.plexus/?url=acestream://0533d072cec645da06e7bace62dc3e55b1464c8f&mode=1&name=K+1
-#EXTINF:-1 group-title="Sports" tvg-logo="" ,K+PM
-plugin://program.plexus/?url=acestream://5d8c87b537bcb56693754b2f2f191cd0b46212eb&mode=1&name=K+PM
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,VTV3
-plugin://program.plexus/?url=acestream://10ddc7f1028c17391e110c50e177e4e3a299b783&mode=1&name=VTV3 
+plugin://program.plexus/?url=acestream://1c499267ffe2caa529e13660d612c27567d0ac28&mode=1&name=VTV3 
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,VTV6
-plugin://program.plexus/?url=acestream://06fdf3a3bc79ad1ba107f8f3df87f482bcf4a0ec&mode=1&name=VTV6 
+plugin://program.plexus/?url=acestream://91033f788fdfd45d842cd7cbb089a567d18c12d6&mode=1&name=VTV6 
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,VTV6 HD
 plugin://program.plexus/?url=acestream://39d96c0d4b0721572fa3dce8b84e6b6293df578f&mode=1&name=VTV6 HD 
-#EXTINF:-1 group-title="Sports" tvg-logo="" ,VTVcab3 THETHAO
-plugin://program.plexus/?url=acestream://1a1ef157a099294aace5b1307f4a0a634d837108&mode=1&name=VTVcab3 THETHAO 
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,VTVcab16 Bongda HD
 plugin://program.plexus/?url=acestream://3235cf9277a59ed3d835dae5dff1ddaab400c3a2&mode=1&name=VTVcab16 Bongda HD
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,MyBongda Sport
@@ -56,6 +50,8 @@ plugin://program.plexus/?url=acestream://f0b7875f4311e34cada858a0146a8d25ed485d3
 plugin://program.plexus/?url=acestream://d0adf8e6b274b6d55ca90651ee67d946873a5ff7&mode=1&name=BEIN SPORT 3 FRANCE
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN SPORT 1 TURKEY
 plugin://program.plexus/?url=acestream://3945a315a0903d7db3a909c66d91a01e3f7ccf83&mode=1&name=BEIN SPORT 1 TURKEY
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKYNET SPORT HD
+plugin://program.plexus/?url=acestream://f1f703dee1e333831c003be50d57f238b51057e8&mode=1&name=SKYNET SPORT HD
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SUPER TENNIS ITALY
 plugin://program.plexus/?url=acestream://beb5b7ca3d08cd264919af78730dc35cc3adbf0e&mode=1&name=SUPER TENNIS ITALY
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,ARENA SPORT 2 
@@ -66,23 +62,31 @@ plugin://program.plexus/?url=acestream://86e490e2ac897375c7449d458a436b000b87918
 plugin://program.plexus/?url=acestream://39b1946e738415f284acd64720f3019e48dfbf37&mode=1&name=ARENA SPORT 4
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,ARENA SPORT 5
 plugin://program.plexus/?url=acestream://c01ce3cc326419cdc0db3775447deebf08d23d66&mode=1&name=ARENA SPORT 5
-
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET ONE US
-plugin://program.plexus/?url=acestream://fe61b821aed6d9ea6eb9738b67a6b5076550d8a5
+plugin://program.plexus/?url=acestream://fe61b821aed6d9ea6eb9738b67a6b5076550d8a5&mode=1&name=SPORTSNET ONE US
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET WEST US
-plugin://program.plexus/?url=acestream://f837516598125785ee9ba48b121c5874361e6b79
+plugin://program.plexus/?url=acestream://f837516598125785ee9ba48b121c5874361e6b79&mode=1&name=SPORTSNET WEST US
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET PACIFIC US
-plugin://program.plexus/?url=acestream://f4a4ab6d93a8d864a4bda868708274feeb244134
+plugin://program.plexus/?url=acestream://f4a4ab6d93a8d864a4bda868708274feeb244134&mode=1&name=SPORTSNET PACIFIC US
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET ONTARIO US
-plugin://program.plexus/?url=acestream://7c806df3418f3012bf220f059968cedd386d444d
+plugin://program.plexus/?url=acestream://7c806df3418f3012bf220f059968cedd386d444d&mode=1&name=SPORTSNET ONTARIO US
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET WORLD US
-plugin://program.plexus/?url=acestream://d5bdd288d1c321fc4c4f82345449e95bd4090be9
+plugin://program.plexus/?url=acestream://d5bdd288d1c321fc4c4f82345449e95bd4090be9&mode=1&name=SPORTSNET WORLD US
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET 360 US
-plugin://program.plexus/?url=acestream://c29503a75690b7ecda8dc4b42f2049944a7dbbc3
+plugin://program.plexus/?url=acestream://c29503a75690b7ecda8dc4b42f2049944a7dbbc3&mode=1&name=SPORTSNET 360 US
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,CANAL SPORTS POLAND
-plugin://program.plexus/?url=acestream://9c49b233876731d02aa9d0a586381a9e9ff6a644
+plugin://program.plexus/?url=acestream://9c49b233876731d02aa9d0a586381a9e9ff6a644&mode=1&name=CANAL SPORTS POLAND
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,CANAL SPORTS 2 POLAND
-plugin://program.plexus/?url=acestream://9b49b8a86858cbce85c799a1d18dfac39f43af2c
-
+plugin://program.plexus/?url=acestream://9b49b8a86858cbce85c799a1d18dfac39f43af2c&mode=1&name=CANAL SPORTS 2 POLAND
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MATSH FUTBOL 1
+plugin://program.plexus/?url=acestream://0c498acb9fca59cf89f8180f3bcd7aa7171ae4af&mode=1&name=MATSH FUTBOL 1 
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MATSH FUTBOL 2
+plugin://program.plexus/?url=acestream://c2eb663d4bc1d0fced00858e4011af4c8a0aae4f&mode=1&name=MATSH FUTBOL 2 
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MATSH FUTBOL 3
+plugin://program.plexus/?url=acestream://2130ae43514edcfa348eee7fa142b31cbf5df8ab&mode=1&name=MATSH FUTBOL 3
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,FUTBOL 1
+plugin://program.plexus/?url=acestream://c2e442b4fcfb99936fb465641aa6a9b279d21671&mode=1&name=FUTBOL 1 
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,FUTBOL 2
+plugin://program.plexus/?url=acestream://a200b433ed7efbf3073c18a4a84bc2c0cadc3425&mode=1&name=FUTBOL 2 
 
 
