@@ -1,17 +1,12 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,K+1
-http://127.0.0.1:6878/ace/getstream?id=0533d072cec645da06e7bace62dc3e55b1464c8f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1,K+PM
-http://127.0.0.1:6878/ace/getstream?id=5d8c87b537bcb56693754b2f2f191cd0b46212eb&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
 #EXTINF:-1,VTV3
-http://127.0.0.1:6878/ace/getstream?id=10ddc7f1028c17391e110c50e177e4e3a299b783&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/getstream?id=1c499267ffe2caa529e13660d612c27567d0ac28&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,VTV6
-http://127.0.0.1:6878/ace/getstream?id=06fdf3a3bc79ad1ba107f8f3df87f482bcf4a0ec&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/getstream?id=91033f788fdfd45d842cd7cbb089a567d18c12d6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,VTV6 HD
 http://127.0.0.1:6878/ace/getstream?id=39d96c0d4b0721572fa3dce8b84e6b6293df578f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1,VTVcab3 THETHAO
-http://127.0.0.1:6878/ace/getstream?id=1a1ef157a099294aace5b1307f4a0a634d837108&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,VTVcab16 Bongda HD
 http://127.0.0.1:6878/ace/getstream?id=3235cf9277a59ed3d835dae5dff1ddaab400c3a2&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,MyBongda Sport
@@ -68,6 +63,8 @@ http://127.0.0.1:6878/ace/getstream?id=f0b7875f4311e34cada858a0146a8d25ed485d3a&
 http://127.0.0.1:6878/ace/getstream?id=d0adf8e6b274b6d55ca90651ee67d946873a5ff7&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,BEIN SPORT 1 TURKEY
 http://127.0.0.1:6878/ace/getstream?id=3945a315a0903d7db3a909c66d91a01e3f7ccf83&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1,SKYNET SPORT HD
+http://127.0.0.1:6878/ace/getstream?id=f1f703dee1e333831c003be50d57f238b51057e8&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,SUPER TENNIS ITALY
 http://127.0.0.1:6878/ace/getstream?id=beb5b7ca3d08cd264919af78730dc35cc3adbf0e&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,ARENA SPORT 2 
@@ -82,4 +79,13 @@ http://127.0.0.1:6878/ace/getstream?id=c01ce3cc326419cdc0db3775447deebf08d23d66&
 http://127.0.0.1:6878/ace/getstream?id=9c49b233876731d02aa9d0a586381a9e9ff6a644&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1,CANAL SPORTS 2 POLAND
 http://127.0.0.1:6878/ace/getstream?id=9b49b8a86858cbce85c799a1d18dfac39f43af2c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-
+#EXTINF:-1,MATSH FUTBOL 1
+http://127.0.0.1:6878/ace/getstream?id=0c498acb9fca59cf89f8180f3bcd7aa7171ae4af&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
+#EXTINF:-1,MATSH FUTBOL 2
+http://127.0.0.1:6878/ace/getstream?id=c2eb663d4bc1d0fced00858e4011af4c8a0aae4f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
+#EXTINF:-1,MATSH FUTBOL 3
+http://127.0.0.1:6878/ace/getstream?id=2130ae43514edcfa348eee7fa142b31cbf5df8ab&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
+#EXTINF:-1,FUTBOL 1
+http://127.0.0.1:6878/ace/getstream?id=c2e442b4fcfb99936fb465641aa6a9b279d21671&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
+#EXTINF:-1,FUTBOL 2
+http://127.0.0.1:6878/ace/getstream?id=a200b433ed7efbf3073c18a4a84bc2c0cadc3425&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng 
