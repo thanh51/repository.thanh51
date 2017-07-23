@@ -1,1937 +1,1990 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<items>
+<stream>
+
 
 <item>
-<title>=================================================</title>
-<link>http://</link>
-<thumbnail>icon</thumbnail>
+<title>[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 23/07/2017) *********[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B]>>>>>>>>>>Cần addon Plexus & addon Sportsdevil<<<<<<<<<[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B]========== KÊNH THỂ THAO ==========[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
 </item>
 
+
 <item>
-<title>[COLOR red][B]*************Chung Cho Các Mạng Internet *************[/B][/COLOR]</title>
-<link>http://</link>
-<thumbnail>icon</thumbnail>
+<title>THỂ THAO TV</title>
+<sportsdevil>http://www.tivi12h.net/2015/11/kenh-vtvcab3-thao-tv-hd.html</sportsdevil>
+<referer>http://www.tivi12h.net</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
 <item>
-<title>[COLOR blue][B]>>>>>>>>Cần addon Plexus & addon f4mTester<<<<<<<<[/B][/COLOR]</title>
-<link>http://</link>
-<thumbnail>icon</thumbnail>
+<title>BONG DA TV</title>
+<sportsdevil>http://m.tivi12h.net/bongdatv.php</sportsdevil>
+<referer>http://www.tivi12h.net</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
- 
 <item>
-<title>==================================================</title>
-<link>http://</link>
-<thumbnail>icon</thumbnail>
+<title>SCTV17 HD - SSport </title>
+<sportsdevil>http://m.tivi12h.net/sctv17.php</sportsdevil>
+<referer>http://m.tivi12h.net/sctv2.php</referer>
+<thumbnail>http://vuapp.tranvu.info/upload//sctv17.png</thumbnail>
 </item>
-///////////////////////////////////// 
 <item>
-<title> [COLOR yellow][B]->> XEM THI ĐẤU CÁC MÔN THỂ THAO QUỐC TẾ:Bóng đá, bóng rổ, tenis...(Auto Update hàng ngày) - Theo Giờ VN + 6 Tiếng[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR deepskyblue][makelist.param1] ([makelist.param3])[/COLOR]</title>
-		<link>$doregex[getUrl]</link>
-		<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
-        ]]></listrepeat>
-<expres>\n(.*?)<[\w\W\s]{0,15}tuttosportweb.com/(.*?).[\w\W\s]{0,15}blank">(.*?)<</expres>
-<page>http://tuttoserie.blogspot.com/p/daily.html</page>
-<cookieJar></cookieJar>
-</regex>
-
-
-
- <regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m, param=''):
-   
-    import requests
-    import re
-    import base64
-   
-    try:
-       
-        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
-        url = 'http://bro.adca.st/stream.php?id=' + id + '&cache=4&width=600&height=450&stretching=uniform&p=1&c=0'
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36', 'Referer': 'http://tuttosportweb.com/update/ch1.html'}
-        source = requests.get(url, headers = headers)
-        curl = re.findall('trap = "(.*?)"', source.text)[0]
-        m3u8 = base64.b64decode(curl)
- 
-        url2 = 'http://bro.adca.st/ckcskr.php' 
-        headers2 = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
-        source2 = requests.get(url2, headers = headers2)
-        token = re.findall('"rumba":"(.*?)"', source2.text)[0]
- 
-        return m3u8 + token + '|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D2598%26cache%3D4%26width%3D700%26height%3D480%26stretching%3Duniform%26p%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F54.0.2840.100%20Safari%2F537.36&X-Requested-With=ShockwaveFlash/23.0.0.162'
- 
-    except Exception as e:
-        print 'wizhdsports: Error: '
-        if hasattr(e, 'code'):
-            print str(e.code)              
-        if hasattr(e, 'reason'):
-            print " " + str(e.reason)
-]]></expres>
-<page>http://tuttosportweb.com/update/[makelist.param2].html</page>
-<referer>http://tuttosportweb.com</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>	<thumbnail>https://s24.postimg.org/k5bimyrpx/sport.jpg</thumbnail>
-</item>	
-
-/////////////////////////////////////// 
-<item>
-<title>[COLOR cyan][B]->> XEM Live FootballOL[/B][/COLOR]</title>
-
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
-    <link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>href="(/streaming.*?)">(.*?)<</expres>
-<page>http://www.livefootballol.me/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
-			<regex>
-			<name>hash</name> 
-			<expres>acestream://(.*?)"</expres>
-			<page>[makelist.param1]<page>
-			</regex>
-]]></listrepeat>
-<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
-<page>http://www.livefootballol.me[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+<title>SCTV15 - SSport2 </title>
+<sportsdevil>http://m.tivi12h.net/sctv15.php</sportsdevil>
+<referer>http://m.tivi12h.net/sctv2.php</referer>
+<thumbnail>https://static-stage.sctv.vn/channel/20/s15.png</thumbnail>
 </item>
-//////////////////////////////////////////////
 <item>
-<title> [COLOR cyan][B]->> XEM IPTV SPORTS[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<externallink>http://silentstream.srve.io/silenthunter/main/hunterssports.xml</externallink>
-<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+<title>BTV5 HD - SSport3 </title>
+<sportsdevil>http://m.tivi12h.net/btv5.php</sportsdevil>
+<referer>http://m.tivi12h.net/sctv2.php</referer>
+<thumbnail>https://static-stage.sctv.vn/channel/119/ssport.png</thumbnail>
 </item>
-///////////////////////////////////////
-
 <item>
-<title>[COLOR orange][B]•[/B][/COLOR][COLOR cyan][B]KÊNH THỂ THAO [/B][/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+<title>FOX SPORT s1</title>
+<sportsdevil>http://m.tivi8k.net/fox.php</sportsdevil>
+<referer>http://m.tivi8k.net/fox.php</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> FOX SPORTS s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGI3N2ExNmQtY2RmMC00MjMzLWIxNmEtZWJkYTY0NDBlZmY5IiwiZXhwIjoxNDk4NzI2MDg2Nzk0fQ.fCNYKbNuKluKMBp-k9KG0x8hFQrDbDzeOBAO3RO8hw8/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT-2/FOX-SPORT-2_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORT 2 s1</title>
+<sportsdevil>http://m.tivi8k.net/fox2.php</sportsdevil>
+<referer>http://m.tivi8k.net/fox2.php</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> FOX SPORTS 2 s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTczNWVkNTYtNWE4ZS00YmJjLWFlYzktY2MxZTU5Nzc5YThjIiwiZXhwIjoxNDk4NzI0Mjc0NDc5fQ.XCuSeYc0lEDek_ZZOgXBaV2tC-sG4CNOq-Lq1VYLX-A/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT/FOX-SPORT_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Bóng đá 1 (thường phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel1_360p/chunklist.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+<title>SKY SPORT 1 UK</title>
+<link>plugin://program.plexus/?url=acestream://92f9a34c12787497ea6053582be0c05cb5ab9d9a&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Bóng đá 2 (thường phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel4_360p/chunklist.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+<title>SKY SPORT 2 UK</title>
+<link>plugin://program.plexus/?url=acestream://8e5f67a32e3df4c250d7481167e002110c47fde4&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Bóng đá 3 (thường phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel5_360p/chunklist.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+<title>SKY SPORT 3 UK</title>
+<link>plugin://program.plexus/?url=acestream://6ec624cdd23346b5712100ffeaa8bd20b776384a&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Bóng đá 4 (thường phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel6_360p/chunklist.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+<title>SKY SPORT 4 UK</title>
+<link>plugin://program.plexus/?url=acestream://4288c3e2d1a06413e8ba497299c3c59243a52af0&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Bóng đá 5 (thường phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel7_360p/chunklist.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
+<title>SKY SPORT 5 UK</title>
+<link>plugin://program.plexus/?url=acestream://d5d4072eac68df3a3744ecc45cd95e44c91609eb&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Bóng đá 6(thường phát các ngày cuối tuần)</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/channel8_360p/chunklist.m3u8</link>
-<thumbnail>https://s30.postimg.org/yyex12te9/bongda.jpg</thumbnail>
-</item>
-/////////////////
-<item>
-<title>Match Futbol 1 HD (sopcast)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/254780&amp;mode=2&amp;name=Match Futbol 1 HD</link>
-<thumbnail>https://s23.postimg.org/uiw7sb1u3/matchfutbol1hd.jpg</thumbnail>
+<title>SKY SPORT MIX UK</title>
+<link>plugin://program.plexus/?url=acestream://bea4d78d37b0d2c4077bdbfdd78e78f54b0e5799&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Match Futbol 2 HD (sopcast)</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/255015&amp;mode=2&amp;name=Match Futbol 2 HD</link>
-<thumbnail>https://s23.postimg.org/4uvfgyh7v/matchfutbol2.jpg</thumbnail>
+<title>SKYNET SPORT HD UK </title>
+<link>plugin://program.plexus/?url=acestream://49531cbda169500ada739315d179ed8eb12c41d5&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
 </item>
-
+<item>
+<title>BT SPORT 1 UK</title>
+<link>plugin://program.plexus/?url=acestream://8372f4d25b6125cda0a1ab3434bd3846b8d6ba81&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT SPORT 2 UK</title>
+<link>plugin://program.plexus/?url=acestream://269b8486f81990cb52499ca25d54595ae215c211&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT SPORT 3 UK</title>
+<link>plugin://program.plexus/?url=acestream://53a3b7d732cb786f8a7fe10fce7912279a0c1da9&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eir Sport 2E UK</title>
+<link>plugin://program.plexus/?url=acestream://0cec6c0299c99f45c1859398d150c3a48e6d8b2e&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EUROSPORT 1 UK</title>
+<link>plugin://program.plexus/?url=acestream://707efd4bee3c2eae81019eaadc021df810efe942&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EUROSPORT 2 UK</title>
+<link>plugin://program.plexus/?url=acestream://b568d9576a4c6edb304a6172973ee49d97ecff82&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BOX NATION UK</title>
+<link>plugin://program.plexus/?url=acestream://7959d092b006f0db312298b7a2fc6e690a299884&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBCSN US</title>
+<link>plugin://program.plexus/?url=acestream://2a3974d916e1af4a81655b1e8d6e0c08ac08b5fe&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORT 1 US (FS1)</title>
+<link>plugin://program.plexus/?url=acestream://9a8fd4918cb4f864e0d63a6821a55806f68dc0cc&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORT 2 US (FS2)</title>
+<link>plugin://program.plexus/?url=acestream://bcf455236e4bfbeef6ed76d7a47307e36bf30816&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT US</title>
+<link>plugin://program.plexus/?url=acestream://7064ed08ee876a36061d43b646a00524f27141fd&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN US</title>
+<link>plugin://program.plexus/?url=acestream://1c266f536a26dd5d75943f66f57efa6771304202&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN2 US</title>
+<link>plugin://program.plexus/?url=acestream://8ecf546395ce9359475aaca7d8084244e7cdc34d&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN1 US</title>
+<link>plugin://program.plexus/?url=acestream://9caac0887df0470bc42c3d70a24ac74b5e9c4d8a&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN2 US</title>
+<link>plugin://program.plexus/?url=acestream://d0c37674c9b192cd0cc4eec2bef8b97756fcb681&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN3 US</title>
+<link>plugin://program.plexus/?url=acestream://a977e1b2ca7e5789bfc38988ade53566b7f02aa7&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN5 US</title>
+<link>plugin://program.plexus/?url=acestream://a977e1b2ca7e5789bfc38988ade53566b7f02aa7&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET PACIFIC US</title>
+<link>plugin://program.plexus/?url=acestream://f4a4ab6d93a8d864a4bda868708274feeb244134&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET WEST US</title>
+<link>plugin://program.plexus/?url=acestream://f837516598125785ee9ba48b121c5874361e6b79&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET ONE US</title>
+<link>plugin://program.plexus/?url=acestream://fe61b821aed6d9ea6eb9738b67a6b5076550d8a5&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET WORLD US</title>
+<link>plugin://program.plexus/?url=acestream://d5bdd288d1c321fc4c4f82345449e95bd4090be9&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET 360 US</title>
+<link>plugin://program.plexus/?url=acestream://c29503a75690b7ecda8dc4b42f2049944a7dbbc3&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET ONTARIO US</title>
+<link>plugin://program.plexus/?url=acestream://7c806df3418f3012bf220f059968cedd386d444d&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANAL+ SPORT FRANCE</title>
+<link>plugin://program.plexus/?url=acestream://11047c908cc99ea6a58983a023ac7cb1f2dc20e0&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 1 FRANCE</title>
+<link>plugin://program.plexus/?url=acestream://00ec28a5137eff6e4274f28391e9577bc885f32b&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 2 FRANCE</title>
+<link>plugin://program.plexus/?url=acestream://f0b7875f4311e34cada858a0146a8d25ed485d3a&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 3 FRANCE</title>
+<link>plugin://program.plexus/?url=acestream://d0adf8e6b274b6d55ca90651ee67d946873a5ff7&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT SPAIN</title>
+<link>plugin://program.plexus/?url=acestream://2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN LA LIGA SPAIN</title>
+<link>plugin://program.plexus/?url=acestream://f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANAL FUTBOL SPAIN</title>
+<link>plugin://program.plexus/?url=acestream://56f24e6a5ae92c4875cbd51fe5ed7ebc9ef7da91&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT TV 1 PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://983e2192ed5bac57b84a305a26884b679affaddd&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT TV 2 PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://b7943ae1f4b55cfc53baf5bbe9fbcbb39c7bea6d&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT TV 3 PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://f14245d7494ff19ff016bbd7a6561006e74deb90&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT TV 4 PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://710f5d897920c17493bda6c1adddb2c2679ce3a4&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT TV 5 PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://b408857e4904dd53a693653b7d8b53567da20be1&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT TV PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://9184f499f0917af6acabb22ce4b299f6570a450d&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTING TV PORTUGAL</title>
+<link>plugin://program.plexus/?url=acestream://842b80946886fcb463672505f4fd0e03e435887c&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SUPER TENNIS ITALY</title>
+<link>plugin://program.plexus/?url=acestream://beb5b7ca3d08cd264919af78730dc35cc3adbf0e&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORT ITALY</title>
+<link>plugin://program.plexus/?url=acestream://22416230c7766a0050097983e8e2583e4c8da257&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKY SPORT 1 ITALY</title>
+<link>plugin://program.plexus/?url=acestream://986ea9418dd4604df704e04ff9dc44948562d839&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKY SPORT 2 ITALY</title>
+<link>plugin://program.plexus/?url=acestream://ac49bb03bae6593b13ea0d92aae8b22a0fc0218e&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKY SPORT 3 ITALY</title>
+<link>plugin://program.plexus/?url=acestream://46e610b18f03f5fc708419835b531e3a7f8137cb&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EUROSPORT 1 ITALY</title>
+<link>plugin://program.plexus/?url=acestream://55a0f52547164315b53f7bcda319ca6745efa84d&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 1 TURKEY</title>
+<link>plugin://program.plexus/?url=acestream://3945a315a0903d7db3a909c66d91a01e3f7ccf83&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVP SPORT POLAND</title>
+<link>plugin://program.plexus/?url=acestream://fa6537c6187e3930c14539d38e53aa0cc506aa80&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATSH FUTBOL 1</title>
+<link>plugin://program.plexus/?url=acestream://0c498acb9fca59cf89f8180f3bcd7aa7171ae4af&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATSH FUTBOL 2</title>
+<link>plugin://program.plexus/?url=acestream://c2eb663d4bc1d0fced00858e4011af4c8a0aae4f&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATSH FUTBOL 3</title>
+<link>plugin://program.plexus/?url=acestream://2130ae43514edcfa348eee7fa142b31cbf5df8ab&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FUTBOL 1</title>
+<link>plugin://program.plexus/?url=acestream://c2e442b4fcfb99936fb465641aa6a9b279d21671&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FUTBOL 2</title>
+<link>plugin://program.plexus/?url=acestream://a200b433ed7efbf3073c18a4a84bc2c0cadc3425&amp;mode=1&amp;name=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 1</title>
+<link>http://www.lineduball.com/ch1/hls-live/channel1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 2</title>
+<link>http://www.lineduball.com/ch2/hls-live/channel2.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 3</title>
+<link>http://www.lineduball.com/ch3/hls-live/channel3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 4</title>
+<link>http://www.lineduball.com/ch4/hls-live/channel4.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 5</title>
+<link>http://www.lineduball.com/ch5/hls-live/channel5.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 6</title>
+<link>http://www.lineduball.com/ch6/hls-live/channel6.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 7</title>
+<link>http://www.lineduball.com/ch7/hls-live/channel7.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 8</title>
+<link>http://www.lineduball.com/ch8/hls-live/channel8.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 9</title>
+<link>http://www.lineduball.com/ch9/hls-live/channel9.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thai:Sport 10</title>
+<link>http://www.lineduball.com/ch10/hls-live/channel10.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>China:Champions League</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s23.postimg.org/3z1fchvmj/champions.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>China:Bóng rổ</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s28.postimg.org/oq0fmsb0t/bongro.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SUPER SPORT 1</title>
 <link>http://81.7.13.162/hls/ss1/index.m3u8</link>
-<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SUPER SPORT 2</title>
 <link>http://81.7.13.162/hls/ss2/index.m3u8</link>
-<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SUPER SPORT 3</title>
 <link>http://81.7.13.162/hls/ss3/index.m3u8</link>
-<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>SUPER SPORT 4</title>
 <link>http://81.7.13.162/hls/ss4/index.m3u8</link>
-<thumbnail>https://s17.postimg.org/40k6uwysv/supersports.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>AD SPORT 1 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
-<thumbnail>http://i.imgur.com/NSQgKH4.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>AD SPORT 2 HD</title>
 <link>http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8</link>
-<thumbnail>http://i.imgur.com/kiRDDPC.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>AD SPORT 3 HD</title>
-<link>http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8</link>
-<thumbnail>http://i.imgur.com/lJ5C1yQ.png</thumbnail>
+<title> Pac-12 National HD</title>
+<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>AD SPORT 4 HD</title>
-<link>http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8</link>
-<thumbnail>http://i.imgur.com/kpTqGy9.png</thumbnail>
+<title> Pac-12 Arizona HD</title>
+<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>AD SPORT 5 HD</title>
-<link>http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8</link>
-<thumbnail>http://i.imgur.com/6k6sPkh.png</thumbnail>
-</item>
-//////////////////////////
-<item>
-<title>Barclays Premier League</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/barclayspremierleague.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/barclayspremierleague.png</thumbnail>
+<title> Pac-12  Los Angeles HD</title>
+<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>UEFA Champions League</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/uefachampionsleague.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/uefachampionsleague.png</thumbnail>
+<title> Pac-12 Mountain HD</title>
+<link>http://xrxs.net/video/live-p12moun-2328.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Live football</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/livefootball.png</thumbnail>
-</item>
-
-<item>
-<title>CANAL FUTBOL</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal%2Bfutbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/canal%2Bfutbol.png</thumbnail>
-</item>
-
-<item>
-<title>CANAL LIGA</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal%2Bliga.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png</thumbnail>
+<title> Pac-12 Oregon HD</title>
+<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Premier Sports</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/premiersports.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/premiersports.png</thumbnail>
+<title> Pac-12 Washington HD</title>
+<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Sport 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports1.png</thumbnail>
+<title> Pac-12 Bay Area HD</title>
+<link>http://xrxs.net/video/live-p12baya-2328.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12 National Full HD</title>
+<link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12 Arizona Full HD</title>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12  Los Angeles Full HD</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12 Mountain Full HD</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12 Oregon Full HD</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12 Washington Full HD</title>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Pac-12 Bay Area Full HD</title>
+<link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EUROSPORTS (Eng)</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EUROSPORTS (Frace)</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports2.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 3</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports3.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 4</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 5</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysports5.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport F1 HD</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysportsf1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysportsf1.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports News</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysportsnews.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysportsnews.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport1.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport Euro</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsporteurope.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/btsporteurope.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport ESPN</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsportespn.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/btsportespn.png</thumbnail>
-</item>
-
-<item>
-<title>ESPN</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/espn.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/espn.png</thumbnail>
-</item>
-<item>
-<title>CANAL SPORT</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal%2Bsport.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/canal%2Bsport.png</thumbnail>
-</item>
-<item>
-<title>Euro Sports 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/eurosport.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/eurosport.png</thumbnail>
-</item>
-
-<item>
-<title>Euro Sports 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/eurosport2.png</thumbnail>
-</item>
-
-<item>
-<title>Box Nation</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/boxnation.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Sport 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/foxsports1.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Sport 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/foxsports2.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports News</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsportsnews.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsportsnews.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports1.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports2.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Aports 3</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports3.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 4</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports4.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 5</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports5.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 6</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports6.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 7</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports7.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 8</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports8.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 9</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports9.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 10</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports10.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports10.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 11(ENG)</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports11.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports11.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 12(ENG)</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports12.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports12.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 13(ENG)</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports13.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports13.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 1 France</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports1france.png</thumbnail>
-</item>
-
-
-<item>
-<title>Bein Sports 2 France</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports2france.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports2france.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 3 France</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports3france.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 Italia</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysport1italia.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysport1italia.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 Italia</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysport2italia.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysport2italia.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 3 Italia</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysport3italia.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysport3italia.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 24 Italia</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysport24italia.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysport24italia.png</thumbnail>
-</item>
-
-<item>
-<title>Setanta sport</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/setantasports.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/setantasports.png</thumbnail>
-</item>
-
-<item>
-<title>Star Sports</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/starsports.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/starsports.png</thumbnail>
-</item>
-
-<item>
-<title>Sport TV 1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/sporttv1.png</thumbnail>
-</item>
-
-<item>
-<title>Sport TV 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/sporttv2.png</thumbnail>
-</item>
-
-<item>
-<title>Sport TV 3</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/sporttv3.png</thumbnail>
-</item>
-
-<item>
-<title>Sport TV 4</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/sporttv4.png</thumbnail>
-</item>
-
-<item>
-<title>Sport TV 5</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/sporttv5.png</thumbnail>
-</item>
-
-
-<item>
-<title>Ace1</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace1</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av1</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace2</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace2</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av2</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace3</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace3</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av3</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace4</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace4</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av4</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace5</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace5</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av5</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace6</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace6</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av6</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace7</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace7</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av7</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace8</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace8</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av8</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace9</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace9</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av9</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace10</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace10</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av10</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace11</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace11</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av11</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace12</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace12</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av12</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace13</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace13</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av13</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace14</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace14</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av14</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace15</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace15</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av15</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace16</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace16</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av16</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace17</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace17</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av17</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace18</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace18</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av18</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace19</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace19</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av19</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace20</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace20</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av20</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace21</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace21</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av21</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace22</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace22</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av22</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace23</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace23</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av23</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace24</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace24</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av24</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace25</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace25</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av25</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace26</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace26</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av26</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace27</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace27</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av27</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace28</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace28</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av28</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace29</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace29</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av29</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-<item>
-<title>Ace30</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ace30</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in//av30</page>
-<referer>http://arenavision.in/</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-</item>
-///////////////////////////
-<item>
-<title>[COLOR cyan][B]->> XEM CÁC KÊNH THỂ THAO KHÁC[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
-	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
-	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-]]></listrepeat>
-<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item>		
-
-///////////////////////////////////////////////////////
-<item>
-<title>[COLOR orange][B]•[/B][/COLOR]  [COLOR cyan][B]KÊNH TV TỔNG HỢP[/B][/COLOR]</title>
-<link>http://</link>
-<thumbnail>icon</thumbnail>
-</item>
-
-<item>
-<title>VTV1</title>
-<link>http://123.30.185.126/hls/vtv1.m3u8</link>
-<thumbnail>http://i.imgur.com/JW8VXef.png</thumbnail>
+<title>[COLOR=cyan][B]========== TH VIỆT NAM (sever trong nước)==========[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VTV1 HD</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png</thumbnail>
-</item>
-<item>
-<title>VTV2</title>
-<link>http://123.30.185.126/hls/vtv2.m3u8</link>
-<thumbnail>http://i.imgur.com/RwwN9B3.png</thumbnail>
+<link>http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>VTV2 HD</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png</thumbnail>
+<link>http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv2-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>VTV3</title>
-<link>http://123.30.185.126/hls/vtv3.m3u8</link>
-<thumbnail>http://i.imgur.com/spL8IHO.png</thumbnail>
-</item>
-<item>
-<title>VTV4</title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png</thumbnail>
+<title>VTV3 HD</title>
+<link>http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv3-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>VTV4 HD</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>https://s24.postimg.org/3psdc8o11/vtv4hd.png</thumbnail>
+<link>http://vtvgo45-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv4-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>VTV5</title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png</thumbnail>
+<title>VTV5 HD</title>
+<link>http://vtvgo45-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv5-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>VTV6</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8</link>
-<thumbnail>http://i.imgur.com/keIENsc.png</thumbnail>
+<title>VTV6 HD</title>
+<link>http://vtvgo67-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv6-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>VTV8</title>
-<link>http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8</link>
-<thumbnail>https://s11.postimg.org/gi9l9vi4j/vtv8.jpg</thumbnail>
+<title>VTV7 HD</title>
+<link>http://vtvgo67-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv7-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>VOVNEWS</title>
-<link>http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png</thumbnail>
+<title>VTV8 HD</title>
+<link>http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv8-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>ANTV</title>
-<link>http://123.30.185.126/hls/antv.m3u8</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png</thumbnail>
-</item>
-
-<item>
-<title>TTXVN</title>
-<link>http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png</thumbnail>
+<title>VTV9 HD</title>
+<link>http://vtvgo289-amzobj.b5695cde.cdnviet.com/live/_definst_/vtv8-high.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>QPVN</title>
-<link>rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png</thumbnail>
+<title> VTV1 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzQzZjkyNTEtYzUxNS00YmM3LWJiN2MtMzJhMjY5MGQwZDEwIiwiZXhwIjoxNDk4NjIzNzE0MzQ4fQ.ma172lhi2Nf9N10kQ6dj4Oyo8G10a1Cll_Yf-bOKfDo/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV1/VTV1_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>NHÂN DÂN</title>
-<link>rtmp://203.162.121.235:1935/live/truyenhinhnhandan720</link>
-<thumbnail>https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png</thumbnail>
+<title> VTV2 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZDkyYzlmNmEtMTEwZS00MDY0LWE2YTYtZGMwZDAyYjA4NzY3IiwiZXhwIjoxNDk4NjI0NDEzMzIzfQ.y8nhLpEY-Da3sBOLL-lauYLlE5o-Iv7dUTmJgk9nJqg/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV2/VTV2_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV3 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTQzOWNlYTgtZjkzNC00OWViLWE5MzAtYjI1YjM5NmQ1ZTQxIiwiZXhwIjoxNDk4NjI0NDkzNjA0fQ.VMjjRyW7fL4qSiSqOwIZ5x3J3wiMPstC3__q8vsqKcc/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV3/VTV3_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV4 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiODE0NzBmOTMtMmQ3MS00MzliLTg2NTYtYTFlMzdkMWU2MzhhIiwiZXhwIjoxNDk4NjI0NTM4MjU5fQ.IswkLi6hrrb0CKSnbWuF36SyEeJPe7Z775R1fxWuAwk/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV4-new/VTV4-new_e90879a9/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV5 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjA4NTgwNmEtZTE4NC00ZTU3LTkzYTEtZTcwYzllZmM2MzZiIiwiZXhwIjoxNDk4NjI0NjM5NjAyfQ.z9BXDNcDaQLat6lr5K0jrCcGzlUPFrawe38fKKKuJM0/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV5-new/VTV5-new_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV6 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiOTcxZTNmYmEtNzU3Yy00NjNhLWI4NzMtODk1MjY0Mzk4Yzk4IiwiZXhwIjoxNDk4NjI0Nzc1NzUxfQ.In-RULwai1jsq0becEH1D1ZwQh7IwGCjXDAqbTFrNy8/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV6/VTV6_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV7 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZWE0MzYzMjgtODkwMS00YzRlLTlkNGYtZjdkYWZkY2ZmMjkyIiwiZXhwIjoxNDk4NjI0OTY1MjcyfQ.fJQedweAsQur-QaA1yBOwAmxuJRdvBHtPTLnX3kXLw8/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV7-new/VTV7-new_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV8 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNWE1OWJhNzEtMzBiZS00MjgzLTgyMWYtN2JjM2I5NTBhZWYxIiwiZXhwIjoxNDk4NzI0MDM4MDAyfQ.HlaNfvvq8VcH7jy4iqBdQkOfeU0NGO4plVOB8BCWeds/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV8-new3/VTV8-new3_e90879a9/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> VTV9 </title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2RiYjEzZDAtOWVkZS00NDU5LWEwMDMtYWNkYWYxYmZiYjEwIiwiZXhwIjoxNDk4NzI0MDc3NDQyfQ.Df5YHOpZIwRlDUQEXZZb6Nx-Tz0xDXt_FwIhpHajJFk/hls/6adf97f83acf6453d4a6a4b1070f3754/VTV9/VTV9_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> TTXVN</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzRlOThkMTgtYjFjYi00OGE5LWIwNjItOTA5NjVmY2U5NGFlIiwiZXhwIjoxNDk4NzI1MTI4NDcyfQ.KrJ1BVmDzdTkAi40_sObmPfpw132HFmTIyuQKNTYibY/hls/6adf97f83acf6453d4a6a4b1070f3754/VNews/VNews_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAN DAN</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTg1OTlhZmQtYTE2Mi00NTJmLWFjYmQtMTJkZjhjYTM5MjY2IiwiZXhwIjoxNDk4NzI1NTkyNjExfQ.VGO0wyYA9tVKsNYQh9XKgofevopm9Y8sRRIGc7KCzAQ/hls/6adf97f83acf6453d4a6a4b1070f3754/TH-NHAN-DAN/TH-NHAN-DAN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> QUOC HOI</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTIxMjJiOTYtMmE2Yi00NzQ0LTk3ZjctYTZkYWJjNzBjZWU1IiwiZXhwIjoxNDk4NzI1NDQ2ODA2fQ.w0Olg31wm_EDradDFgOYzdbxh2BYfVzCd5UO4NRRzvw/hls/6adf97f83acf6453d4a6a4b1070f3754/QHVN/QHVN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> QUOC PHONG VN</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGFhMThiZDktOWRiZC00NDk4LWJmN2EtOWU4ODg2MjJmMTRlIiwiZXhwIjoxNDk4NzI1NTEwNjE4fQ.UJs28oR2li3WYF_KOpK50VNyCtnStlM0SEBCEP-Sd0M/hls/6adf97f83acf6453d4a6a4b1070f3754/QPVN/QPVN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VTVcab1</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/nmmH5NG.png</thumbnail>
-</item>
-<item>
-<title>VTVcab2</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/YNCzLp9.png</thumbnail>
-</item>
-<item>
-<title>VTVcab3 ThethaoTV</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/KuFexNw.png</thumbnail>
-</item>
-<item>
-<title>VTVcab4</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/zr9dOPm.png</thumbnail>
-</item>
-<item>
-<title>VTVcab5</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/echannel_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/pFgmD7i.png</thumbnail>
-</item>
-<item>
-<title>VTVcab7</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/ddramas_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/Kyv11bZ.png</thumbnail>
-</item>
-<item>
-<title>VTVcab8</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/bibi_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/Sjc6xj8.png</thumbnail>
-</item>
-<item>
-<title>VTVcab9</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/infotv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/I6letfB.png</thumbnail>
-</item>
-<item>
-<title>VTVcab10</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/o2tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/aVP5nbS.png</thumbnail>
-</item>
-<item>
-<title>VTVcab11</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/tvshopping_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/Dh0hG7u.png</thumbnail>
-</item>
-<item>
-<title>VTVcab12</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/styletvhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/XhCmf93.png</thumbnail>
-</item>
-<item>
-<title>VTVcab14</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/Ew4EaPw.png</thumbnail>
-</item>
-<item>
-<title>VTVcab15</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/3ZbKdiV.png</thumbnail>
-</item>
-<item>
-<title>VTVcab16 BongdaTV</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/WQtKoni.png</thumbnail>
-</item>
-<item>
-<title>VTVcab17</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/2nOJwku.png</thumbnail>
-</item>
-
-<item>
-<title>ANVIEN HD</title>
-<link>http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>https://s29.postimg.org/b2fgjxxuv/anvienhd.jpg</thumbnail>
-</item>
-<item>
-<title>ANTG</title>
-<link>http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/j7NsBwD.png</thumbnail>
-</item>
-<item>
-<title>NCM BTV10</title>
-<link>http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png</thumbnail>
-</item>
-<item>
-<title>PHIMHAY</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png</thumbnail>
-</item>
-<item>
-<title>MIỀN TÂY</title>
-<link>http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png</thumbnail>
-</item>
-<item>
-<title>SAM TV BTV11</title>
-<link>http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png</thumbnail>
-</item>
-
-
-<item>
-<title>VTC1</title>
-<link>http://123.30.185.126/hls/vtc1.m3u8</link>
-<thumbnail>http://i.imgur.com/VJ8DiUW.png</thumbnail>
-</item>
-<item>
-<title>VTC1 HD</title>
-<link>http://118.107.68.10:1935/live/_definst_/smil:VTC1HD_2016_05122016.smil/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail>
-</item>
-<item>
-<title>VTC3 </title>
-<link>http://123.30.185.126/hls/vtc3.m3u8</link>
-<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
-</item>
-<item>
-<title>VTC3 HD s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
-<item>
-<title>VTC3 HD s2</title>
-<link>http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
-<item>
-<title>VTC3 HD s3</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8</link>
-<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
-</item>
-<item>
-<title>VTC4 </title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc4_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/fitz1bW.png</thumbnail>
-</item>
-<item>
-<title>VTC7 s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc7_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
-</item>
-<item>
-<title>VTC7 s2</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8</link>
-<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
-</item>
-<item>
-<title>VTC8 </title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc8_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/uPxgmeN.png</thumbnail>
-</item>
-<item>
-<title>VTC9 s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc9_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
-</item>
-<item>
-<title>VTC9 s2</title>
-<link>http://14.161.5.88:1935/live/myStream/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
-</item>
-<item>
-<title>VTC9 s3</title>
-<link>http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8</link>
-<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
-</item>
-<item>
-<title>VTC10 s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc10_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/5GpXF4g.png</thumbnail>
-</item>
-<item>
-<title>VTC10 s2</title>
-<link>http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/5GpXF4g.png</thumbnail>
-</item>
-<item>
-<title>VTC11 </title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc11_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/Vg5XFcf.png</thumbnail>
-</item>
-<item>
-<title>VTC12 </title>
-<link>http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8</link>
-<thumbnail>http://i.imgur.com/aKmAf9Z.png</thumbnail>
-</item>
-<item>
-<title>VTC13 </title>
-<link>http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/ZIRi8xh.png</thumbnail>
-</item>
-<item>
-<title>VTC14 </title>
-<link>http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/annOIzX.png</thumbnail>
-</item>
-<item>
-<title>VTC14 HD </title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg</thumbnail>
-</item>
-<item>
-<title>VTC16 </title>
-<link>http://live.cdn.mobifonetv.vn/motv/vtc16_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail>
-</item>
-<item>
-<title>SCTVHD PHIM VIET </title>
-<link>rtmp://vf10.aditmedia.net/ingestx/ivn_000105</link>
-<thumbnail>https://static-stage.sctv.vn/channel/84/PhimVietHD.png</thumbnail>
-</item>
-<item>
-<title>SCTV5</title>
-<link>http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8</link>
-<thumbnail>http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png</thumbnail>
-</item>
-
-<item>
-<title>AXN</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&amp;mode=2&amp;name=AXN</link>
-<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png</thumbnail>
-</item>
-<item>
-<title>HBO</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/hbo.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-</item>
-<item>
-<title>HBO HD</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/hbohd.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-</item>
-<item>
-<title>HBO 2</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&amp;mode=2&amp;name=HBO</link>
-<thumbnail>http://xemtvhd.net/images/icon-channel/hbohd.png</thumbnail>
-</item>
-<item>
-<title>HBO 3</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&amp;mode=2&amp;name=HBO HD</link>
-<thumbnail>http://xemtvhd.net/images/icon-channel/hbohd.png</thumbnail>
-</item>
-<item>
-<title>Film Cafe</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&amp;mode=2&amp;name=Film Cafe</link>
-<thumbnail>https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg</thumbnail>
-</item>
-<item>
-<title>TV1000</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&amp;mode=2&amp;name=TV1000</link>
-<thumbnail>https://s21.postimg.org/xh54lyfd3/tv1000.png</thumbnail>
-</item>
-<item>
-<title>Filmbox</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&amp;mode=2&amp;name=Filmbox</link>
-<thumbnail>https://s17.postimg.org/degirpvvz/filmbox.jpg</thumbnail>
-</item>
-<item>
-<title>FRO CINEMA</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148249&amp;mode=2&amp;name=FRO CINEMA</link>
-<thumbnail>https://s28.postimg.org/llmsvh9ct/frocinema.jpg</thumbnail>
-</item>
-<item>
-<title>Boomerang</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&amp;mode=2&amp;name=Boomerang</link>
-<thumbnail>https://s9.postimg.org/jw706m5b3/boomerang.png</thumbnail>
-</item>
-<item>
-<title>Cartoon Network</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&amp;mode=2&amp;name=Cartoon Network</link>
-<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png</thumbnail>
-</item>
-<item>
-<title>NATGEO</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/natgeo.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg</thumbnail>
-</item>
-<item>
-<title>National Geographic</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&amp;mode=2&amp;name=National Geographic</link>
-<thumbnail>http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg</thumbnail>
-</item>
-<item>
-<title>NatGeo Wild</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&amp;mode=2&amp;name=NatGeo wild</link>
-<thumbnail>http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png</thumbnail>
-</item>
-<item>
-<title>DISCOVERY</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/discovery.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg</thumbnail>
-</item>
-<item>
-<title>DISCOVERY HD</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/discoveryhd.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg</thumbnail>
-</item>
-<item>
-<title>Discovery Channel</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&amp;mode=2&amp;name=Discovery Channel</link>
-<thumbnail>http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg</thumbnail>
-</item>
-<item>
-<title>Discovery Science</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&amp;mode=2&amp;name=Discovery Science</link>
-<thumbnail>http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png</thumbnail>
-</item>
-<item>
-<title>DISCOVERY ID</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&amp;mode=2&amp;name=DISCOVERY ID</link>
-<thumbnail>https://s27.postimg.org/65pv3fcqr/discoveryid.png</thumbnail>
-</item>
-<item>
-<title>ANIMAL PLANET</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/animalplanet.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>https://s27.postimg.org/sw0ckkg43/animal.jpg</thumbnail>
-</item>
-<item>
-<title>HISTORY</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/history.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>https://s29.postimg.org/oq50cso8n/history.jpg</thumbnail>
-</item>
-<item>
-<title>BBC Earth</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&amp;mode=2&amp;name=BBC Earth</link>
-<thumbnail>https://s14.postimg.org/5pu5iqxgh/bbcearth.png</thumbnail>
-</item>
-///////////////////////////////////////////
-<item>
-<title> [COLOR yellow][B]->> Xem Ultimate IPTV (update hàng ngày)[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR cyan] [makelist2.param2][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
-<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR cyan][/COLOR] [makelist.param1]  </link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-</item>
-/////////////////////////////////
-<item>
-<title>[COLOR cyan][B]->> XEM CHINA TV[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/ChinaTV.m3u</externallink>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item> 
-//////////////////////////////////////////
-<item>
-<title>[COLOR cyan][B]->> XEM USA TV[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/mpegts.m3u</externallink>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item> 
-//////////////////////////////////////////
-<item>
-<title>[COLOR cyan][B]->> XEM UK TV[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/UKTV.m3u</externallink>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item> 
-//////////////////////////////////////////
-<item>
-<title>[COLOR cyan][B]->> XEM IPTV WORLD [/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR skyblue] [makelist2.param2][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
-<page>http://www.iptv4free.com/search?max-results=40</page>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1]  </link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-</item>
-/////////////////////////////////////// 
-<item>
-<title>[COLOR cyan][B]->> XEM TORRENT TV[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TorrenTV.xml</externallink>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item> 
-//////////////////////////////////////////
-<item>
-<title>[COLOR orange][B]•[/B][/COLOR]  [COLOR cyan][B]PHIM TRUYỀN HÌNH[/B][/COLOR]</title>
-<link>http://</link>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab1</sportsdevil>
+<referer>0</referer>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Phim Jackie Chan</title> 
+<title>VTVcab2</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab2</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab3 THETHAO TV</title>
+<sportsdevil>http://m.tivi12h.net/thethaotv.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab4</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab17</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab5</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab5</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab6</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab6</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab7</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab7</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab8</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab8</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab10</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab10</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab12</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab12</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab14</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab14</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab16 BONGDA TV</title>
+<sportsdevil>http://m.tivi12h.net/bongdatv.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTVcab20</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtvcab19</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HTV1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htv1</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV2</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htv2</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV3</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htv3</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV4</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htv4</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV7</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htv7</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV7 HD</title>
+<sportsdevil>http://m.tivi12h.net/htv7hd.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV9</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htv9</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV9 HD</title>
+<sportsdevil>http://m.tivi12h.net/htv9hd.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC PHIM</title>
+<sportsdevil>http://sv2.xemtiviso.com/hplus.php?id=htvc-phim</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC DU LICH</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htvc-dulich</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC THUAN VIET</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htvc-thuanviet</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC THUAN VIET HD</title>
+<sportsdevil>http://cdn.xemtivitt.net/2015/07/htvthuanviethd.html</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC GIA DINH</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htvc-giadinh</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC PHU NU</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htvc-phunu</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC CA NHAC</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htvc-canhac</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTVC THE THAO</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=htvc-thethao</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title> VTC1 HD</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMDM1MDI0YjQtYjhjZC00ZGE3LWFmNDEtYjBlYTMwM2Y5ZDZiIiwiZXhwIjoxNDk4NzI1ODQ5MzMwfQ.GSfFg3Jb5CMk23epmcREb7snSV3wifxCPZUBSdqIzrI/hls/6adf97f83acf6453d4a6a4b1070f3754/VTC1/VTC1_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc1</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC2</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc2</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC3</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc3</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC3 HD</title>
+<sportsdevil>http://cdn.xemtivitt.net/2015/10/vtc3hd.html</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC4</title>
+<sportsdevil>http://sv2.xemtiviso.com/nexttv.php?id=vtc4</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC5</title>
+<sportsdevil>http://sv2.xemtiviso.com/nexttv.php?id=vtc4</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC6</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc6</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC7</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc7</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC8</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc8</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC9</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc9</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC10</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc10</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC11</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc11</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC12</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc12</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC13</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=itv</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC14</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc14</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC16</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=vtc16</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SCTV2</title>
+<sportsdevil>http://m.tivi12h.net/sctv2.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV3</title>
+<sportsdevil>http://m.tivi12h.net/sctv3.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV4</title>
+<sportsdevil>http://m.tivi12h.net/sctv4.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV11</title>
+<sportsdevil>http://m.tivi12h.net/sctv11.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV12</title>
+<sportsdevil>http://m.tivi12h.net/sctv12.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV:BTV5</title>
+<sportsdevil>http://m.tivi12h.net/btv5.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV17</title>
+<sportsdevil>http://m.tivi12h.net/sctv17-2.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCTV15</title>
+<sportsdevil>http://m.tivi8k.net/sctv15.php</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PHIMHAY s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> PHIMHAY s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMzQyMGNmOTMtMjY4MC00ZmY2LTgzNWEtZDk2MzM1M2U5NmFiIiwiZXhwIjoxNDk4NzI0MTU5NjE0fQ.4R5uDPHT51CbFpaMvQTkh3XXluq8UNBhlJHoYhQ6ZLQ/hls/6adf97f83acf6453d4a6a4b1070f3754/PHIM-HAY/PHIM-HAY_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> BTV6-VIETTEEN HD</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjAyNDQ4NmItMTIyNS00NTE4LTlmYzMtMjAwMjYzODRjZDVmIiwiZXhwIjoxNDk4NzI0MjAyMjY0fQ.f6xqraeZz_xb9qStFS5uhqaNgappmoIj92SUbcuRSTc/hls/6adf97f83acf6453d4a6a4b1070f3754/VIETTEEN/VIETTEEN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NCM BTV10 s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NCM BTV10 s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiN2E1OGI0ZGUtNTFjMC00MWY5LWE5ZmMtMDBhZGNhOGZkYzIxIiwiZXhwIjoxNDk4NzI1MzA3OTg0fQ.0EvrKroma0AIdt7QTp6cJ8fTiwyvfPhCc3z4ci1EQhU/hls/6adf97f83acf6453d4a6a4b1070f3754/NCM/NCM_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANTG</title>
+<link>http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MIENTAY s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MIENTAY s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2UwOTVlOTUtMTRkNC00MDJjLTljNWEtY2NiY2FjODQyMDM2IiwiZXhwIjoxNDk4NzI2MDI4OTgyfQ.lnRDQUQ4hpOXdVnphR-cLBr5jGPWzxs_DLVSKDm8bng/hls/6adf97f83acf6453d4a6a4b1070f3754/MienTay-new/MienTay-new_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SAM s1</title>
+<link>http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SAM s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiOGRjMzQ3NTQtYjgwOC00ZDRiLTkzMzQtODYzODgyNGVhMGFjIiwiZXhwIjoxNDk4NzI1OTkwOTU4fQ.50GKs1A5Opck9dVNUm7tdh-nZE5Wbz83pdQ21QJviVo/hls/6adf97f83acf6453d4a6a4b1070f3754/SAM/SAM_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC CACH MANG</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNjgwNjIzMzEtZmMyOS00YTVhLTgzMjctZWJhOThjNWI5YTE3IiwiZXhwIjoxNDk4NzI2NDc5NjI0fQ.6U75MwCksRkhLlW_YgRFvbxlDyyuwKLgL2dH0MmpBjw/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CACH-MANG/NHAC-CACH-MANG_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC CO DIEN</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYjAyZTY5NjQtOWJmOS00Y2Q3LWIxNzktNWM5YTVjOTRkN2M0IiwiZXhwIjoxNDk4NzI2MzU2NjgwfQ.1woiXMyW99x-JsWZyU-s0S2oafZBxbWINAfJraMC2jo/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-CO-DIEN/NHAC-CO-DIEN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC DAN TOC</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNzZkZjcyMzEtNjUxOC00MjJkLWI3NzMtNGQyMGI0YmMwYmI4IiwiZXhwIjoxNDk4NzI2NTE5NjU0fQ.5zUVagqki7gi6CxdLfwgIQn_Hxi2Uk3sES3u1WDxJzA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-DAN-TOC/NHAC-DAN-TOC_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC NAM BO</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTcxYjdmMTktZjkxYS00ZGRjLWEyOGEtZTlhMmJjOTVjNmJiIiwiZXhwIjoxNDk4NzI2MjEyMjQzfQ.R5Q0JLN0El5yuc_dGRhQBS3JuiKW7FUdsc8lwRpvkvY/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NAM-BO/NHAC-NAM-BO_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC NHE</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ0NDZlZjMtM2IzMC00ZDMwLWE4NjctYTc4OGM4ZjQ0MzAwIiwiZXhwIjoxNDk4NzI2MjYwNDE5fQ.DntVjw-UGO_2yxFktynPMUawy4s7zeH6teyZkYPfUjU/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-NHE/NHAC-NHE_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC THIEU NHI</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZGJlMTE0OTUtODQ1Zi00MjJiLWIwY2YtYmIyODJhNDBlZDBhIiwiZXhwIjoxNDk4NzI2NDAxOTg1fQ.3YsXMr9pwXheaZYZimtQOSsguFj0bSsei2urCi6f9KA/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-THIEU-NHI/NHAC-THIEU-NHI_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC TRE</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZmQ2ODg4ZjItYTZkMi00NDY0LWIwMDEtZThjZDE5YWQwMjUxIiwiZXhwIjoxNDk4NzI2MzE3NjQwfQ.nV09JvqIsOSWEzFuewl_ZscnL-i4AGMpI_LbL5ZZE5U/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRE/NHAC-TRE_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> NHAC TRU TINH</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiM2QzZjQ1Y2YtMWQ0Ny00NjE4LTk3NWUtM2ZjNmU4ZWM3YjIyIiwiZXhwIjoxNDk4NzI2NDQxNTkzfQ.-JB9oDGKgZljMRAKo9lrVcrM2nVwmeZJg-6_830-p8M/hls/6adf97f83acf6453d4a6a4b1070f3754/NHAC-TRU-TINH/NHAC-TRU-TINH_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> DOC SACH</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiY2I5NzYwMWUtMWQ3MC00NTI3LWIyMWYtZjlmMjVjYWVmYWQyIiwiZXhwIjoxNDk4NzI2MTU0ODY3fQ.4T-WXUaMrsNMKfpQ_VGGbizLlY9csxfIQnU14FETMio/hls/6adf97f83acf6453d4a6a4b1070f3754/DOC-SACH/DOC-SACH_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TH VINH LONG 1</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiZTU4NjBkZDEtZDY5Zi00ZDU3LTg0ZjItMGI3ZDQxNjcxNTNiIiwiZXhwIjoxNDk4NzI1NzI2NDU1fQ.PuLcGfeB6U_OykwhIensBpa4J0X29bul3XzkcxAhiqQ/hls/6adf97f83acf6453d4a6a4b1070f3754/THVL1-new/THVL1-new_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PHIM 1 (phụ đề tiếng Việt)</title>
+<sportsdevil>http://talktv.vn/streaming/play/embed/meowdoraemon</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PHIM 2 (phụ đề tiếng Việt)</title>
+<sportsdevil>http://talktv.vn/streaming/play/embed/thegioionline</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PHIM 3 (phụ đề tiếng Việt)</title>
+<sportsdevil>http://talktv.vn/streaming/play/embed/hdtvv</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AXN (phụ đề tiếng Việt) s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=axn</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> AXN (phụ đề tiếng Việt) s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjkwNDRhMzctOGNjNi00ZGMwLWIzMjItMWEwZWEzMmZhNGZmIiwiZXhwIjoxNDk4NzI0MjQyMTA4fQ.N0T7EfuLfFTwE94ZL6PFn06MGpCYKeW4RGcPSr33C6Y/hls/6adf97f83acf6453d4a6a4b1070f3754/AXN/AXN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=hbo</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CINEMAX (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=cinemax</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARMOVIES (phụ đề tiếng Việt) s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=starmovies</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> STARMOVIES (phụ đề tiếng Việt) s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMDI3ZWEzZDUtMmE1ZC00ZGIxLTlhOTAtYTU0OWNkODBiZGQwIiwiZXhwIjoxNDk4NzI0MTEyMTI5fQ.mm3V3hwIuGo_-hhvtaBT1GWJmo8kpb0QMEoYxYwo5Ew/hls/6adf97f83acf6453d4a6a4b1070f3754/Star-Movie/Star-Movie_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> BBC WORLD NEWS</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWQ1N2YxNzItYzY4YS00ZGIxLTk3OGYtNTMzZDE2ZTMxMTlkIiwiZXhwIjoxNDk4NzI1NjMyODM1fQ.2AC8YHFdtTFbbxJi8WzQtr9vRlJOz_2kbtBTLP9N7tw/hls/6adf97f83acf6453d4a6a4b1070f3754/BBC/BBC_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=cnn</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> CNN s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNWU2YjQzZDQtODQzZi00Y2Q4LTgwMDMtYTk4MGRiMjZhNjlkIiwiZXhwIjoxNDk4NzI1MjQ5NzMwfQ.xbG7Kei6y9vgDuUKS-UJ-Va0mFJXaFxya6lfyXNUOhE/hls/6adf97f83acf6453d4a6a4b1070f3754/CNN/CNN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHK</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=nhk</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DW (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=dw</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TV5MONDE (phụ đề tiếng Việt) s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=tv5monde</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> TV5MONDE (phụ đề tiếng Việt) s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiODJhYTA4ZTktZGQwNS00YmI4LWFjYTgtMTUxYzNhNmNiMTdjIiwiZXhwIjoxNDk4NzI1MzQ1OTc5fQ.T_K76LivPi5ub_RqJebF3JNnKi_jLzW9ZqFaCns4DG8/hls/6adf97f83acf6453d4a6a4b1070f3754/TV5/TV5_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT TODAY</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=foxsport</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=discovery</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=animalplanet</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TLC</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=tlc</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DAVINCI (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=davinci</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISNEY (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=disney</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CARTOON NETWORK (phụ đề tiếng Việt) s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=cartoon</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> CARTOON NETWORK (phụ đề tiếng Việt) s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYmM0M2RmY2MtMmJhZC00YTU5LTkzN2YtNzg0M2EyM2EzMzg3IiwiZXhwIjoxNDk4NzI0MzA1NjYyfQ.n29jK110GBvRliqYJGxnvlCsQd1-wVjLCh-BuGJ9z1M/hls/6adf97f83acf6453d4a6a4b1070f3754/CARTOON/CARTOON_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BLOOMBERG</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=bloomberg</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV VIET</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=mtv</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARWORLD s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=starworld</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> STAR WORLD s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMGE5Mjk1OTAtM2M2MS00ODVmLTk4NjQtNTEwOGY4YWQ2ODk0IiwiZXhwIjoxNDk4NzI0NTcyNjg0fQ.RlK95giMs2jkFTGGCqcmWMCJsCu6jICpGRyjWRLkRTc/hls/6adf97f83acf6453d4a6a4b1070f3754/Star-World/Star-World_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DIVA (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=diva</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OUTDOOR CHANNEL (phụ đề tiếng Việt)</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=outdoor</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHANEL V s1</title>
+<sportsdevil>http://sv2.xemtiviso.com/mimi.php?id=channelv</sportsdevil>
+<referer>0</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> CHANNEL V s2</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiNTk4ODYzNTYtMmZlNi00NjA0LTljMGUtZDBhMTNmMTk0OTY1IiwiZXhwIjoxNDk4NzI1Njc5MzEwfQ.tYFjK_hQQ3zkt8LViKrIVPnlsUnWupjO03msjFiVPgQ/hls/6adf97f83acf6453d4a6a4b1070f3754/Channel-V/Channel-V_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> FASHION TV</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYWVjNzljMTQtYjAzYS00MDA3LWE1ODMtNjE5MjMxNTgxMDA4IiwiZXhwIjoxNDk4NzI1NzgwNDY5fQ.wNWLnG4zGPm1Ii7qK4UEVKQSqaEzcwuUmSCstZHshWA/hls/6adf97f83acf6453d4a6a4b1070f3754/FTV/FTV_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B]========== TH HẢI NGOẠI ==========[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Việtface Cali. 57.2 </title>
+<link>http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Việt Mỹ TV </title>
+<link>http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Việt Sóng TV 47.7  Atlanta  2</title>
+<link>rtmp://uni5rtmp.tulix.tv/playout2multi10/</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Việt Bay- San Jose</title>
+<link>http://64.71.129.2:8080/hls/ius_000131.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Việt Phố</title>
+<link>rtmp://63.143.59.125/live</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Việt News TV </title>
+<link>http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SBTN -SET channel </title>
+<link>http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> SChannel 54.4 </title>
+<link>rtmp://vf10.aditmedia.net/origin/</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SET TV </title>
+<link>http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>IBC TV 57.8 </title>
+<link>rtmp://liveplay3.malimarcdn.com:1935/ibcnews</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Quê Hương Media s1</title>
+<link>http://64.71.129.2:8080/hls/ius_000130.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Quê Hương Media s2</title>
+<link>rtmp://vf10.aditmedia.net/ingestx/</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VNBC </title>
+<link>http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> ViệtStar 57.11  </title>
+<link>http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Saigon TV </title>
+<link>http://63.143.59.125:1935/live/myStream/chunklist_w225895095.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Saigon TV Westminster CA 57.5 </title>
+<link>http://63.143.59.125:1935/live/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Little Saigon TV 57.7 </title>
+<link>http://64.71.129.2:8080/hls/ius_000131.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> KVLA TV 56.5 </title>
+<link>http://63.143.59.125:1935/live/myStream/chunklist_w322541891.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VBS- Vietnames Broadcasting Service </title>
+<link>http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VBS (WS) </title>
+<link>http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VBS Canada </title>
+<link>http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VNA TV </title>
+<link>http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B]==========TH QUỐC TẾ TỔNG HỢP==========[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Sopcast:AXN</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&amp;mode=2&amp;name=AXN</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:HBO 2</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&amp;mode=2&amp;name=HBO</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:HBO 3</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&amp;mode=2&amp;name=HBO</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Film Cafe</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&amp;mode=2&amp;name=Film</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:TV1000</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&amp;mode=2&amp;name=TV1000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Filmbox</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&amp;mode=2&amp;name=Filmbox</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Fro Cinema</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148249&amp;mode=2&amp;name=Fro</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:DIVA UNIVERSAL</title>
+<link>plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253034&amp;mode=2&amp;name=DIVA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:PARAMOUNT</title>
+<link>plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253033&amp;mode=2&amp;name=PARAMOUNT</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Boomerang</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&amp;mode=2&amp;name=Boomerang</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Cartoon Network</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&amp;mode=2&amp;name=Cartoon</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:DISNEY</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253031&amp;mode=2&amp;name=DISNEY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:DISNEY JR</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256239&amp;mode=2&amp;name=DISNEY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:MEGAMAX</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256328&amp;mode=2&amp;name=MEGAMAX</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:NICKELODEON</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253472&amp;mode=2&amp;name=NICKELODEON</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:National Geographic</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&amp;mode=2&amp;name=National</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:NatGeo Wild</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&amp;mode=2&amp;name=NatGeo</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Discovery Channel</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&amp;mode=2&amp;name=Discovery</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Discovery Science</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&amp;mode=2&amp;name=Discovery</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:Discovery ID</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&amp;mode=2&amp;name=Discovery</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:BBC Earth</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&amp;mode=2&amp;name=BBC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:HISTORY</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&amp;mode=2&amp;name=HISTORY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:VIASAT HISTORY</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&amp;mode=2&amp;name=VIASAT</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sopcast:TLC</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&amp;mode=2&amp;name=TLC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN PHILIPPIN</title>
+<link>rtmp://54.251.134.121/live/15273.sdp</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Aljazeera</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHANNEL NEWSASIA</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARIANG HD</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KOSMOS</title>
+<link>http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT DOCUMENTARY</title>
+<link>http://rtmp.api.rt.com/hls/rtdru.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT BELGESEL HD</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BELGESEL TV</title>
+<link>rtsp://yayin.networkbil.com/belgeseltv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Aljazeera Doc</title>
+<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=cyan][B]========== PHIM TRUYỀN HÌNH ==========[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Phim Jackie Chan</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s21.postimg.org/7mnffp0p3/jackiechan.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Thần Thám Địch Nhân Kiệt</title> 
+<title>Phim Thần Thám Địch Nhân Kiệt</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Tây Du Ký</title> 
+<title>Phim Tây Du Ký</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s11.postimg.org/dvn52h743/tayduky.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Bao Công</title> 
+<title>Phim Bao Công</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s14.postimg.org/p6e7zhi5d/baocong.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Tế Công</title> 
+<title>Phim Tế Công</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjghf_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s28.postimg.org/vpylbtm8t/tecong.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Tom And Jerry</title> 
+<title>Phim Tom And Jerry</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Truyền hình Mỹ</title> 
+<title>Phim Truyền hình Mỹ</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s21.postimg.org/r22vxwb07/tvmy.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Hành Động</title> 
+<title>Phim Hành Động</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s4.postimg.org/bpgra044d/actiontv.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>CINEMA WORLD</title> 
+<title>CINEMA WORLD</title>
 <link>http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s29.postimg.org/s0s7nmr87/cinemaworld.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>HOLLYWOOD MOVIE</title> 
+<title>Hollywood movie</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s29.postimg.org/6pw7rymk7/hollywoodmovie.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Tài Liệu Khoa Học</title> 
+<title>Phim Tài Liệu Khoa Học</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phim Thế Giới Động Vật</title> 
+<title>Phim Thế Giới Động Vật</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1</link>
-<thumbnail>https://s14.postimg.org/4gmm2m95d/dongvat.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
-///////////////////////////////////////////  
+
 <item>
-<title>[COLOR cyan][B]->> XEM PHIM VP9 - CHƯƠNG TRÌNH CHO NGƯỜI VIỆT Ở NƯỚC NGOÀI[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/PhimVP9.m3u</externallink>
-</item> 
-////////////////////////////////// 
-<item>
-<title>[COLOR cyan][B]->> XEM PHIM (Phụ đề tiếng Việt)[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TalkTV.xml</externallink>
-</item> 
-////////////////////////////////// 
-<item>
-<title>[COLOR cyan][B]->> XEM PHIM NƯỚC NGOÀI HD[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://bit.ly/CINEHD</externallink>
+<title>[COLOR=cyan][B]========== KÊNH GIẢI TRÍ ==========[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
 </item>
-///////////////////////////////////////////
+
 <item>
-<title>[COLOR cyan][B]->> XEM PHIM NƯỚC NGOÀI TH[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://blackhome.myvisio.me:8000/get.php?username=ondemandPorta&amp;password=E6R7t9hllK&amp;type=m3u</externallink>
+<title>GIỌNG HÁT VIỆT 1</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/112412-12-02-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
 </item>
-///////////////////////////////////////////
 <item>
-<title>[COLOR cyan][B]->> Xem Phim Hoạt Hình Tom And Jerry (lồng tiếng Việt)[/B][/COLOR]</title>
-<link>$doregex[makelist3]</link>
-
-<regex>
-<name>makelist3</name>   
-<listrepeat><![CDATA[
-<title>[makelist3.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
-<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
-</regex>
-<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
+<title>GIỌNG HÁT VIỆT 2</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/112414-12-02-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
 </item>
-//////////////////////
+<item>
+<title>GIỌNG HÁT VIỆT 3</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/113100-19-02-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GIỌNG HÁT VIỆT 4</title>
+<sportsdevil>http://m.tvplay.vn/video/119130-giong-hat-viet-the-voice-2017/113225-19-02-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
 
-</items>
+
+<item>
+<title>BÀI HÁT HAY NHẤT 1</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/99602-20-11-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 2</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/99610-20-11-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 3</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/100376-27-11-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 4</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/100377-27-11-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 5</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/101904-05-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 6</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/101905-05-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 7</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/102459-12-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 8</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/102460-12-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 9</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103059-18-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 10</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103060-18-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 11</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103667-25-12-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 12</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/103673-25-12-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 13</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104625-1-1-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 14</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104626-1-1-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 15</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104842-08-01-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 16</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/104843-08-01-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 17</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106506-15-01-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT 18</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106507-15-01-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT - CHUNG KẾT PHẦN 1</title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106901-chung-ket-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BÀI HÁT HAY NHẤT -CHUNG KẾT PHẦN 2 </title>
+<sportsdevil>http://m.tvplay.vn/video/94932-sing-my-song-bai-hat-hay-nhat/106902-chung-ket-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THẦN TƯỢNG BOLERO 1</title>
+<sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/118643-tap-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THẦN TƯỢNG BOLERO 2</title>
+<sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/118812-tap-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THẦN TƯỢNG BOLERO 3</title>
+<sportsdevil>http://m.tvplay.vn/video/129118-than-tuong-bolero-2017/120301-tap-3.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 1</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/106532-15-01.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 2</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/106885-22-01.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 3</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/112404-12-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 4</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/113102-19-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 5</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/114623-26-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 6</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/115071-05-03.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 8</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/118601-12-03.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIỆT TÀI TÍ HON 9</title>
+<sportsdevil>http://m.tvplay.vn/video/105896-biet-tai-ti-hon/118945-19-03.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 1</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/106508-13-01.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 2</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/106893-20-01-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 3</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/106896-20-01-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 4</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/112416-10-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 5</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/113106-17-02-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 6</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/113107-17-02-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 7</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/114617-24-02-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 8</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/114618-24-02-phan-2.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HÒA ÂM ÁNH SÁNG 9</title>
+<sportsdevil>http://m.tvplay.vn/video/105879-hoa-am-anh-sang-2017-remix-new-generation/115072-03-03-phan-1.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 1</title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/101878-03-12.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 2</title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/102445-10-12.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 3 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/103063-17-12.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 4 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/103659-24-12.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 5 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/104627-31-12.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 6 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/104841-07-01.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 7 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/106533-14-01.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 8 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/106897-20-01.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 9 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/112418-11-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 10 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/113109-18-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 11 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/114620-25-02.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 12 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/115074-04-03.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 13 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/118603-11-03.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ÁNH SÁNG HAY BÓNG TỐI 14 </title>
+<sportsdevil>http://m.tvplay.vn/video/97985-anh-sang-hay-bong-toi/118948-18-03.html</sportsdevil>
+<referer>http://m.tvplay.vn/</referer>
+<thumbnail></thumbnail>
+</item>
 
 
-
-
-
-
-
-
+</stream>
 
 
 
