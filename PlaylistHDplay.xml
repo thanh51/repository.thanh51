@@ -978,7 +978,7 @@
 
 <item>
 <title>PHIMHAY s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -987,14 +987,8 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title> BTV6-VIETTEEN HD</title>
-<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjAyNDQ4NmItMTIyNS00NTE4LTlmYzMtMjAwMjYzODRjZDVmIiwiZXhwIjoxNDk4NzI0MjAyMjY0fQ.f6xqraeZz_xb9qStFS5uhqaNgappmoIj92SUbcuRSTc/hls/6adf97f83acf6453d4a6a4b1070f3754/VIETTEEN/VIETTEEN_4caa7169/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>NCM BTV10 s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -1004,12 +998,12 @@
 </item>
 <item>
 <title>ANTG</title>
-<link>http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>MIENTAY s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -1018,8 +1012,13 @@
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>VIETTEEN</title>
+<link>http://cdn-l2.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMjAyNDQ4NmItMTIyNS00NTE4LTlmYzMtMjAwMjYzODRjZDVmIiwiZXhwIjoxNDk4NzI0MjAyMjY0fQ.f6xqraeZz_xb9qStFS5uhqaNgappmoIj92SUbcuRSTc/hls/6adf97f83acf6453d4a6a4b1070f3754/VIETTEEN/VIETTEEN_4caa7169/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
 <title>SAM s1</title>
-<link>http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8</link>
+<link>http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -1982,6 +1981,17 @@
 <referer>http://m.tvplay.vn/</referer>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
+
+
+
+
+
+
+
 
 
 </stream>
