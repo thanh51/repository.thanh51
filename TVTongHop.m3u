@@ -12,8 +12,7 @@ http://www.youtube.com
 
 #EXTINF:-1 group-title="Sports for kodi",====== Acestream Sports channels for Kodi =======
 http://
-#EXTINF:-1 group-title="Sports for kodi",VTV3/Movies
-plugin://program.plexus/?url=acestream://1c499267ffe2caa529e13660d612c27567d0ac28&mode=1&name=
+
 #EXTINF:-1 group-title="Sports for kodi",A Spor HD Tur
 plugin://program.plexus/?url=acestream://6921518252ec41dc03565a9a794d99f3d5c0a40f&mode=1&name=
 #EXTINF:-1 group-title="Sports for kodi",AFN Sports HD
@@ -435,56 +434,22 @@ http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png", TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png", NHAN DAN
-http://m.tvplay.vn:9999/icomvtc/smil:thnd.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png", NHAN DAN HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png", QUOC PHONG VN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",ANTV
-http://m.tvplay.vn:9999/icomvtc/smil:antv.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vovtv.png",VOVNEWS
-http://m.tvplay.vn:9999/icomvtc/smil:vov_adb_security.smil/playlist.m3u8 
 
 #EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV 7 HD
 http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV 9 HD
 http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1
-http://m.tvplay.vn:9999/icomvtc/smil:vtc1.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
 http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
-http://m.tvplay.vn:9999/icomvtc/smil:vtc2.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3
-http://m.tvplay.vn:9999/icomvtc/smil:vtc3.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
 http://118.107.68.10:1935/live/vtc3hd_H_5374560ab1a33dfee617ce3516ca502d/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
-http://m.tvplay.vn:9999/icomvtc/vtc4_576/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
-http://m.tvplay.vn:9999/icomvtc/smil:vtc5_ad_1.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s1
+#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 
 http://118.107.68.10:1935/live/_definst_/VTC7a7cf86b2ca3b8aca/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s2
-http://m.tvplay.vn:9999/icomvtc/smil:todaytv_1.smil/playlist.m3u8          	   
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
-http://m.tvplay.vn:9999/icomvtc/vtc8_576/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
-http://m.tvplay.vn:9999/icomvtc/smil:vtc9.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://103.56.158.185/tv_icon/vtc10.png",VTC10
-http://m.tvplay.vn:9999/icomvtc/vtc10_576/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
-http://m.tvplay.vn:9999/icomvtc/smil:vtc11_ad_121.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s1
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s2
-http://m.tvplay.vn:9999/icomvtc/smil:itv_adb.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
-http://m.tvplay.vn:9999/icomvtc/smil:vtc14_1.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC"  tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
-http://m.tvplay.vn:9999/icomvtc/smil:vtc16.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC"  tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Ca nhac
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
 
