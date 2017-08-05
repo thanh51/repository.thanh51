@@ -244,7 +244,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
 http://118.107.68.10:1935/live/_definst_/VTV1HD_12806b51bdf7ac364126%20/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
-http://m.tvplay.vn:9999/hdvtv/smil:vtv1.smil/playlist.m3u8
+http://m.tvplay.vn:9999/hdvtv/smil:vtv1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vovtv.png",VOVNEWS
