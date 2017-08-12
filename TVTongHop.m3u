@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 11.08.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 12.08.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1,[COLOR=yellow][B]>> Cần Addon Plexus <<[/B][/COLOR]
@@ -128,6 +128,27 @@ plugin://program.plexus/?url=acestream://3ffb5da1616f7a80ba209bfcabfc33317821f63
 
 #EXTINF:-1 group-title="Sports",==== Sports channels =====
 http://
+#EXTINF:-1 group-title="Sports",Bein sport 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein sport 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8 
+#EXTINF:-1 group-title="Sports",Bein sport 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8 
+
 #EXTINF:-1  group-title="Sports",SKYNET SPORTS HD
 http://183.88.212.205:8010/play/a00r
 #EXTINF:-1  group-title="Sports",SKYNET SPORTS-1
@@ -353,11 +374,6 @@ http://m.tvplay.vn:9999/icomvtc/smil:antv.smil/playlist.m3u8|User-Agent=Mozilla/
 http://m.tvplay.vn:9999/icomvtc/smil:thnd.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png",QUOC HOI
 http://m.tvplay.vn:9999/icomvtc/qh_800/playlist.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV 7 HD
-http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
-#EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV 9 HD
-http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
 http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
