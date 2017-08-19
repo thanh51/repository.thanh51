@@ -1,96 +1,100 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<link href="http://static.timnhanh.com/portal4/images/favicon.ico" rel="shortcut icon" />
 <title>TIVI Online</title>
 <style>
+
 body {
-background-image:url([url][/url]);
 margin: 0px;
 padding: 0px;
+border: none;
 }
 </style>
+
 </head>
 
 <body>
- <center><script type="text/javascript">
-  <!--
-	function song(){
-	document.getElementById('music1').innerHTML="<embed type='application/x-mplayer2' id='music2' pluginspage='http://www.microsoft.com/Windows/MediaPlayer/' src='"+document.getElementById('estacao').value+"' name='MediaPlayer1' width='1350' height='600' controltype='2' showcontrols='1' showstatusbar='1' AutoStart='true'></embed>";
-	}
-  //-->
-  </script>
-  <center><div id="jukebox">
-	<span id="music1"><embed type="application/x-mplayer2" id="music1"
-		pluginspage="http://www.microsoft.com/Windows/MediaPlayer/"
-		src="http://talktv.vn/streaming/play/embed/meowdoraemon"></iframe> 
+<script type="text/javascript">
+<!--
+//visit http://dienlanhlongbien.net/
+var message="sorry";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+// -->
+</script>
+ <center>
 
+<form name="change">
+<SELECT NAME="options" ONCHANGE="document.getElementById('Myiframe').src = this.options[this.selectedIndex].value">
+<option value="https://href.li/http://talktv.vn/streaming/play/embed/meowdoraemon">*Chọn kênh xem TV trên mọi trình duyệt - Update thường xuyên*</option>
 
-	</embed></span>
+<option value="https://href.li/http://tvplay.vn/truyen-hinh-0.htm">Truyền hình TVplay (TV & Phim) - Bấm biểu tượng kênh TH để chọn kênh</option>
+<option value="https://href.li/http://truongquocvi.com/viettelTV.php">Truong Quoc Vi online TV</option>
+<option value="https://href.li/http://tv.beeb.vn/livetv-vtv1-vtv1-beebTV.html">Xem BeeTV online (bấm List TV để chọn kênh)</option>
 
-  </div>
-       <center><select id="estacao" onchange="song()" size="1">
-<option value="http://sv.keodabanh.com/vs.php?sv=http://vtvgo13-amzobj.89cb1039.viettel-cdn.vn/live/_definst_/vtv1-high.m3u8">OnlineTV1 cập nhật liên tục - Chúc bạn thưởng thức vui vẻ !</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv11.php"> VTV1</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv21.php"> VTV2</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv31.php"> VTV3</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv42.php"> VTV4</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv61.php"> VTV6</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv72.php"> VTV7</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv82.php"> VTV8</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtv/vtv92.php"> VTV9</option>
+<option value="https://href.li/http://plus.trumtv.net/antv.php">ANTV</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab11.php"> VTVcab1</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab21.php"> VTVcab2</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab31.php"> VTVcab3</option>
+<option value="https://href.li/http://plus.trumtv.net/vtvcab4.php"> VTVcab4</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab61.php"> VTVcab6</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab71.php"> VTVcab7</option>
+<option value="https://href.li/http://plus.trumtv.net/bibi.php"> VTVcab8</option> 
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab161.php"> VTVcab16</option>
+<option value="https://href.li/http://link.tvmienphi.biz/vtvcab/mobifone.php?tvmienphi=yeah1tv"> VTVcab17</option>
+<option value="https://href.li/http://plus.trumtv.net/vfamily.php"> VTVcab20</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtvcab/vtvcab211.php"> VTVcab21</option>
 
-<option value="http://tvplay.vn/">>>>>TRUYỀN HÌNH TỔNG HỢP</option>
-<option value="http://tvplay.vn/">TVPlay - Xem TV & Movies</option>
-<option value="http://truongquocvi.com/viettelTV.php">Truong Quoc Vi online TV
-<option value="http://tv.beeb.vn/livetv-vtv1-vtv1-beebTV.html">BeeTV online (bấm List TV để chọn kênh)</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-mega/vtc1.php">VTC1</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-flix/vtc3.php">VTC3</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc4.php">VTC4</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc5.php">VTC5</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-vtc/vtc6.php">VTC6</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtc/vtc71.php">VTC7</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc8.php">VTC8</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/vtc/vtc91.php">VTC9</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc10.php">VTC10</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-vtc/kids.php">VTC11</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc13.php">VTC13</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc14.php">VTC14</option>
+<option value="https://href.li/http://plus.trumtv.net/vtc16.php">VTC16</option>
 
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv11.php"> VTV1
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv21.php"> VTV2
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv31.php"> VTV3
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv42.php"> VTV4
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv61.php"> VTV6
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv72.php"> VTV7
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv82.php"> VTV8
-<option value="http://sv.tvmienphi.biz/ok/vtv/vtv92.php"> VTV9
-<option value="http://plus.trumtv.net/antv.php">ANTV
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab11.php"> VTVcab1
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab21.php"> VTVcab2
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab31.php"> VTVcab3
-<option value="http://plus.trumtv.net/vtvcab4.php"> VTVcab4
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab61.php"> VTVcab6
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab71.php"> VTVcab7
-<option value="http://plus.trumtv.net/bibi.php"> VTVcab8 
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab161.php"> VTVcab16
-<option value="http://link.tvmienphi.biz/vtvcab/mobifone.php?tvmienphi=yeah1tv"> VTVcab17
-<option value="http://plus.trumtv.net/vfamily.php"> VTVcab20
-<option value="http://sv.tvmienphi.biz/ok/vtvcab/vtvcab211.php"> VTVcab21
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/htv/htv12.php">HTV1</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/htv/htv21.php">HTV2</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/htv/htv31.php">HTV3</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/htv/htv41.php">HTV4</option> 
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/htv/htv71.php">HTV7</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/htv/htv91.php">HTV9</option> 
+<option value="https://href.li/http://plus.trumtv.net/htvc-thethao.php">HTV The thao</option>
+<option value="https://href.li/http://plus.trumtv.net/htvc-phim.php">HTVC phim</option>
+<option value="https://href.li/http://plus.trumtv.net/htvc-giadinh.php.php">HTVC gia đình</option>
+<option value="https://href.li/http://plus.trumtv.net/htvc-dulich.php">HTVC Du lịch</option> 
+<option value="https://href.li/http://plus.trumtv.net/htvc-thuanviet.php">HTVC Thuần việt</option>
+<option value="https://href.li/http://plus.trumtv.net/htvc-canhac.php">HTVC Ca nhạc</option>
+<option value="https://href.li/http://plus.trumtv.net/htvc-shop.php">HTVC Shopping</option>
 
-<option value="http://link.tvmienphi.biz/stream-mega/vtc1.php">VTC1
-<option value="http://link.tvmienphi.biz/stream-flix/vtc3.php">VTC3
-<option value="http://plus.trumtv.net/vtc4.php">VTC4
-<option value="http://plus.trumtv.net/vtc5.php">VTC5
-<option value="http://link.tvmienphi.biz/stream-vtc/vtc6.php">VTC6
-<option value="http://sv.tvmienphi.biz/ok/vtc/vtc71.php">VTC7
-<option value="http://plus.trumtv.net/vtc8.php">VTC8
-<option value="http://sv.tvmienphi.biz/ok/vtc/vtc91.php">VTC9
-<option value="http://plus.trumtv.net/vtc10.php">VTC10
-<option value="http://link.tvmienphi.biz/stream-vtc/kids.php">VTC11
-<option value="http://plus.trumtv.net/vtc13.php">VTC13
-<option value="http://plus.trumtv.net/vtc14.php">VTC14
-<option value="http://plus.trumtv.net/vtc16.php">VTC16
-
-<option value="http://sv.tvmienphi.biz/ok/htv/htv12.php">HTV1
-<option value="http://sv.tvmienphi.biz/ok/htv/htv21.php">HTV2
-<option value="http://sv.tvmienphi.biz/ok/htv/htv31.php">HTV3
-<option value="http://sv.tvmienphi.biz/ok/htv/htv41.php">HTV4 
-<option value="http://sv.tvmienphi.biz/ok/htv/htv71.php">HTV7
-<option value="http://sv.tvmienphi.biz/ok/htv/htv91.php">HTV9 
-<option value="http://plus.trumtv.net/htvc-thethao.php">HTV The thao
-<option value="http://plus.trumtv.net/htvc-phim.php">HTVC phim
-<option value="http://plus.trumtv.net/htvc-giadinh.php.php">HTVC gia đình
-<option value="http://plus.trumtv.net/htvc-dulich.php">HTVC Du lịch 
-<option value="http://plus.trumtv.net/htvc-thuanviet.php">HTVC Thuần việt
-<option value="http://plus.trumtv.net/htvc-canhac.php">HTVC Ca nhạc
-<option value="http://plus.trumtv.net/htvc-shop.php">HTVC Shopping
-
-<option value="http://plus.trumtv.net/btv10.php">mobiTV:NCM
-<option value="http://plus.trumtv.net/anninhtg.php">mobiTV:ANTG
-<option value="http://plus.trumtv.net/phimhay.php">mobiTV:Phimhay
-<option value="http://plus.trumtv.net/mientay.php">mobiTV:Mientay
-<option value="http://plus.trumtv.net/samtv.php">mobiTV:Sam
+<option value="https://href.li/http://plus.trumtv.net/btv10.php">mobiTV:NCM</option>
+<option value="https://href.li/http://plus.trumtv.net/anninhtg.php">mobiTV:ANTG</option>
+<option value="https://href.li/http://plus.trumtv.net/phimhay.php">mobiTV:Phimhay</option>
+<option value="https://href.li/http://plus.trumtv.net/mientay.php">mobiTV:Mientay</option>
+<option value="https://href.li/http://plus.trumtv.net/samtv.php">mobiTV:Sam</option>
 
 <option value="http://sv.keodabanh.com/vs.php?sv=http://118.107.68.10:1935/live/TN_720x576_01052017/playlist.m3u8">Thái Nguyên 1</option>
 <option value="http://sv.keodabanh.com/vs.php?sv=http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8">Hà Giang</option>
@@ -104,297 +108,205 @@ padding: 0px;
 <option value="http://sv.keodabanh.com/vs.php?sv=http://118.107.76.15:1983/live/smil:SL_live.smil/playlist.m3u8">Sơn La</option>
 <option value="http://sv.keodabanh.com/vs.php?sv=http://118.107.76.15:1983/live/DB_640x480_800kbps.stream/playlist.m3u8">Điện Biên</option>
 
-<option value="http://talktv.vn/streaming/play/embed/meowdoraemon">Phim 1 (phụ đề tiếng Việt)</option>
-<option value="http://talktv.vn/streaming/play/embed/thegioionline">Phim 2 (phụ đề tiếng Việt)</option>
-<option value="http://talktv.vn/streaming/play/embed/hdtvv">Phim 3 (phụ đề tiếng Việt)</option>
-<option value="https://livestream.com/accounts/20251373/events/6338970/player?autoPlay=true">Phim 24/7- TVB(lồng tiếng Việt)</option>
-<option value="http://sv.tvmienphi.biz/ok/world/hbo11.php">HBO
-<option value="http://plus.trumtv.net/redhbo.php">Red by HBO
-<option value="http://plus.trumtv.net/maxhbo.php">Max by HBO
-<option value="http://plus.trumtv.net/warner.php">Warner
-<option value="http://link.tvmienphi.biz/stream-world/starmovies.php">Stamovies
-<option value="http://link.tvmienphi.biz/stream-world/cinemax.php">Cinemax
-<option value="http://plus.trumtv.net/cineworld.php">Cinemaworld
-<option value="http://link.tvmienphi.biz/stream-flix/starworld.php">Starworld
-<option value="http://live1.tvmienphi.biz/stream-world/axn.php">AXN 
-<option value="http://plus.trumtv.net/animalplanet.php">Animalplanet
-<option value="http://plus.trumtv.net/afc.php">AFC
-<option value="http://plus.trumtv.net/diva.php">DIVA
-<option value="http://plus.trumtv.net/davinci.php">Davinci
-<option value="http://sv.tvmienphi.biz/ok/world/cartoon11.php">CN
-<option value="http://sv.tvmienphi.biz/ok/world/disney11.php">DISNEY
-<option value="http://plus.trumtv.net/disneyjunior.php">Disney Jr
-<option value="http://plus.trumtv.net/toonami.php">TOONAMI
-<option value="http://plus.trumtv.net/cnn.php">CNN
-<option value="http://plus.trumtv.net/channelnewasia.php">Channel new Asia
-<option value="http://plus.trumtv.net/kbs.php">KBS
-<option value="http://plus.trumtv.net/nhk.php">NHK
-<option value="http://plus.trumtv.net/tv5monde.php">TV5Monde
-<option value="http://plus.trumtv.net/arirang.php">ARIANG
-<option value="http://plus.trumtv.net/fashion.php">Fashion
-	
-<option value="http://www.acesoplisting.in/">>>>>>>THỂ THAO TỔNG HỢP</option>
-<option value="http://www.acesoplisting.in/">Xem Thi đấu thể thao QT theo giờ VN</option>
-<option value="http://talktv.vn/streaming/play/embed/kenhbongdathethao">Bóng Đá</option>
-<option value="http://cdn.xemtivitt.net/2016/07/vpf.html">VPF</option>
-<option value="http://plus.trumtv.net/fox.php">Fox sport
-<option value="http://plus.trumtv.net/fox2.php">Fox sport 2
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8">Bein sport 1
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8">Bein sport 2
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8">Bein sport 3
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8">Bein sport 4
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8">Bein sport 5
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8">Bein sport 6
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8">Bein sport 7
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8">Bein sport 8
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8">Bein sport 9
-<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8">Bein sport 10
-	
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports1">Bein sport 1 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports2">Bein sport 2 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports3">Bein sport 3 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports4">Bein sport 4 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports5">Bein sport 5 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports6">Bein sport 6 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports7">Bein sport 7 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports8">Bein sport 8 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports9">Bein sport 9 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports10">Bein sport 10 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports11">Bein sport 11 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports12">Bein sport 12 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports13">Bein sport 13 HD</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports1france">Bein sport 1 HD(France)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports2france">Bein sport 2 HD(France)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=beinsports3france">Bein sport 3 HD(France)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=btsport1">BT sport 1(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=btsport2">BT sport 2(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=btsport3">BT sport 3(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=skysports1">Sky sport 1(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=skysports2">Sky sport 2(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=skysports3">Sky sport 3(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=skysports4">Sky sport 4(UK)</option>
-<option value="http://embratoria.com/embed/hls/is.php?s=skysports5">Sky sport 5(UK)</option>        
+<option value="https://href.li/http://talktv.vn/streaming/play/embed/meowdoraemon">PHIM 1 (phụ đề tiếng Việt)</option>
+<option value="https://href.li/http://talktv.vn/streaming/play/embed/thegioionline">PHIM 2 (phụ đề tiếng Việt)</option>
+<option value="https://href.li/http://talktv.vn/streaming/play/embed/hdtvv">PHIM 3 (phụ đề tiếng Việt)</option>
+<option value="https://href.li/https://livestream.com/accounts/20251373/events/6338970/player?autoPlay=true">Phim 247- TVB(lồng tiếng Việt)</option>
 
-<option value="https://www.youtube.com/embed/tANJiz4cDWE">>>>>>> NGHE NHẠC TRỮ TÌNH</option>
-<option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/CJV7M61_8Ck">Nhạc TRữ Tình ChỌn Lọc Hay Nhất
-<option value="https://www.youtube.com/embed/MqCaUOABeg4">Nhac Vang Chon Loc
-<option value="https://www.youtube.com/embed/PANY0e-6hfU">Liên Khúc Chiều Mưa 4
-<option value="https://www.youtube.com/embed/Xb8GDL6hM3s">Bolero LossLess
-<option value="https://www.youtube.com/embed/XgY1_OFAwg4">NHẠC ÂU MỸ BẤT HỦ
-<option value="https://www.youtube.com/embed/g77tMnZrbYk">Tuyển tập Lệ Quyên 2016
-<option value="https://www.youtube.com/embed/Ni99S4O-s4I">Album Trường Vũ
-<option value="https://www.youtube.com/embed/7BO0IJsiAmE">Nhạc vàng hải ngoại chọn lọc 2017
-<option value="https://www.youtube.com/embed/sRf8sgPnAQs">Ngọc Lan, Kiều Nga, Tuyết Nhung
-<option value="https://www.youtube.com/embed/ZbCyyZeMe-A">Liên khúc Đan Nguyên 1
-<option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vang Chất Lượng Cao
-<option value="https://www.youtube.com/embed/Dun_rnVOLns">Tuyển Chọn 30 Bài Nhạc Lính Chiến HAY NHẤT
-<option value="https://www.youtube.com/embed/22RqeRGsWZ0">Những tình khúc nhạc vàng bất hủ chọn lọc
-<option value="https://www.youtube.com/embed/Ipd6ukMXZng">Album Trường Vũ  Nó Và Tôi
-<option value="https://www.youtube.com/embed/yynJP3pTKlM">Nhạc vàng trữ tình Bolero hải ngoại
-<option value="https://www.youtube.com/embed/qKeKdk3VZSg">Liên Khúc Tình Yêu Tuyệt Vời
-<option value="https://www.youtube.com/embed/uvL_-j25S-4">Tuấn Vũ Tuyệt Phẩm
-<option value="https://www.youtube.com/embed/VOh7vErZTiw">Tuyển tập nhạc không lời hay
-<option value="https://www.youtube.com/embed/bmaibO5eKT4">Tuấn Vũ & Hương Lan
-<option value="https://www.youtube.com/embed/L35gySNQXe0">Tổng hợp nhạc trẻ hay nhất 2015
-<option value="https://www.youtube.com/embed/__rb8Tk_Txw">Thiên Kim
-<option value="https://www.youtube.com/embed/l1U02IZPJIk">Nhạc xuân 2016 hay nhất
-<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/FJpXaNjk8jQ">Nhạc Vàng Hải Ngoại Trường Vũ
-<option value="https://www.youtube.com/embed/wJX_-Znj1Ys">Top 10 Bài Hát Nhạc Trẻ Hay
-<option value="https://www.youtube.com/embed/BYLwgqdknWk">Lệ Quyên 2017
-<option value="https://www.youtube.com/embed/6_YrxuPKzG4">Tuấn Vũ Hương Lan , Giao Linh, Sơn Tuyền
-<option value="https://www.youtube.com/embed/EVVXkCC4HVo">Ngọc Lan, Lâm Thúy Vân, Kiều Nga
-<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
-<option value="https://www.youtube.com/embed/_OlfydeRdOQ">Liên Khúc Chiều Mưa 3
-<option value="https://www.youtube.com/embed/lMRkqW7sMUA">Hương Lan - Biết Nói Gì Đây
-<option value="https://www.youtube.com/embed/kRJButYEBsY">Liên Khúc Tuấn Vũ Trọn Bộ
-<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/QkIIGOzHavk">Tuấn Vũ, Hương Lan, Ngọc lan, Sơn Tuyền
-<option value="https://www.youtube.com/embed/3LffW65BXcI">Nhạc Vàng Hải Ngoại Trường Vũ
-<option value="https://www.youtube.com/embed/6OhJiTjD9g4">Minh Tuyết
-<option value="https://www.youtube.com/embed/taD6lwTFqsY">LK NHAC Vàng Không Lời Hay nhất
-<option value="https://www.youtube.com/embed/H2T6Z6msyNE">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/X76RqT6COKw">Liên Khúc Chọn Lọc
-<option value="https://www.youtube.com/embed/dxWVeTE-yoc">Thiên Kim, Diễm Liên, Thanh Trúc, Quang Minh, Thanh Hà
-<option value="https://www.youtube.com/embed/O1zENZEPYmY">Bolero Hải Ngoại
-<option value="https://www.youtube.com/embed/A-dl87R9RF8">Liên Khúc Tình Yêu 2
-<option value="https://www.youtube.com/embed/iiaxJwaY94A">LK Nhạc Bolero Trữ Tình Hay Nhất 2017
-<option value="https://www.youtube.com/embed/kyyFsbi8QhI">Nhạc Vàng Bolero Chọn Lọc Hay Nhất
-<option value="https://www.youtube.com/embed/L-OpiBmXHzU">Liên Khúc Chiều Mưa 3
-<option value="https://www.youtube.com/embed/nZ6rZ-eqzi4">Tuyển tập những bài hát guitar hay nhất
-<option value="https://www.youtube.com/embed/zcN6oArjg5g">Tuấn Vũ, Giao Linh, Thanh Tuyền, Trúc Mai, Huy Sinh
-<option value="https://www.youtube.com/embed/H2T6Z6msyNE">Dan Nguyen - Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/tOIr7UaHtlw">Liên khúc ĐÓN XUÂN NÀY NHỚ XUÂN XƯA
-<option value="https://www.youtube.com/embed/W4GltzeQ1aY">Liên Khúc Chiều Mưa 3
-<option value="https://www.youtube.com/embed/xZcT_BEJaTY">Nhạc Vàng Chọn Lọc Hay nhất 2017
-<option value="https://www.youtube.com/embed/7YdZGjGrotk">Như Quỳnh 2017
-<option value="https://www.youtube.com/embed/iCL4fYm6Ojs">Đàm Vĩnh Hưng 2011
-<option value="https://www.youtube.com/embed/CgYOUa6aDk4">Trường Vũ  - Album Cơn Mê Tình Ái
-<option value="https://www.youtube.com/embed/IJKkzPHQNUQ">Ngọc Lan, Như Mai, Kim Anh
-<option value="https://www.youtube.com/embed/ABtzFR8LZB8">Nhạc vàng Bolero hải ngoại
-<option value="https://www.youtube.com/embed/4cInu7BJzHE">Ngọc Lan, Kiều Nga, Nhật Hạ, Thúy Vi
-<option value="https://www.youtube.com/embed/NQAIiYIDYJQ">Nhạc Vang Chất Lượng Cao
-<option value="https://www.youtube.com/embed/zIqcwIsHLKo">Tình Khúc Trịnh Công Sơn
-<option value="https://www.youtube.com/embed/hTBWHRlhQmk">Giang Tử - Tuyệt phẩm Nhạc vàng Bolero Hải ngoại
-<option value="https://www.youtube.com/embed/ZgUJ7OqH0eo">Liên Khúc Nhac lossless
-<option value="https://www.youtube.com/embed/0FQpYeXMltA">Anh Thơ tuyển tập nhạc Lossless
-<option value="https://www.youtube.com/embed/mT2bPvIrwdM">Nhạc vàng trữ tình Bolero Như Quỳnh
-<option value="https://www.youtube.com/embed/eJgwMRoKrzY">Nhạc vàng Bolero
-<option value="https://www.youtube.com/embed/g4t0SKQ3UXE">NHẠC VÀNG TRỮ TÌNH BOLERO GIỌNG CA TRẺ
-<option value="https://www.youtube.com/embed/6KKVD2VQs5A">Nhạc không lời 
-<option value="https://www.youtube.com/embed/LNmnmw7gY4A">Thien Trang- Chế Linh- Tuấn Vũ
-<option value="https://www.youtube.com/embed/LIlwpJPWL5c">Những Bản Độc Tấu Guitar
-<option value="https://www.youtube.com/embed/VrCjIETR6qU">Liên khúc Nonstop Cha cha cha
-<option value="https://www.youtube.com/embed/4sPaKw6CHoQ">Liên Khúc Hải Ngoại sôi động
-<option value="https://www.youtube.com/embed/60Zdy3jfzb4">Album Cho người tình nhỏ
-<option value="https://www.youtube.com/embed/KP-MzFJS7sc">Nhạc không lời hay- Two Guitars
-<option value="https://www.youtube.com/embed/lySf_wpbXC8">Liên khúc Hit hải ngoại
-<option value="https://www.youtube.com/embed/_V1HlcCDJhg">liên  khúc nhạc trữ tình hay nhất
-<option value="https://www.youtube.com/embed/ZnS0WG7-ZCI">Đan Nguyên - Album Có Thế Thôi
-<option value="https://www.youtube.com/embed/Nz-_cbp8icg">Lệ Quyên colection
-<option value="https://www.youtube.com/embed/72Imeuf6ufY">Nhạc Trữ Tình - Liên Khúc Mưa
-<option value="https://www.youtube.com/embed/KdJo3sr-4fs">Lien Khúc Tình yêu 4
-<option value="https://www.youtube.com/embed/jMIC3QjSd3E">nhạc không lời buồn
-<option value="https://www.youtube.com/embed/pNSFMsEiCkY">Liên Khúc Hải Ngoại
-<option value="https://www.youtube.com/embed/ZJc218-49mY">Nhac tru tinh lossless
-<option value="https://www.youtube.com/embed/qUzPkZSLEds">Nhạc Bolero Hay Nhất
-<option value="https://www.youtube.com/embed/tqe9trZ3LYk">Nhạc vàng trữ tình Bolero Hoàng Oanh
-<option value="https://www.youtube.com/embed/Y2SF55I-KmU">Lien khúc chiều mưa 3
-<option value="https://www.youtube.com/embed/KaC4uoKLJa0">Album Ngọc Lan
-<option value="https://www.youtube.com/embed/bqW7ttN-Sxg">Hòa Tấu Guitar Vô Thường
-<option value="https://www.youtube.com/embed/2LVokR-E3ig">Đan Trường - Nhạc tuyển Vol 1
-<option value="https://www.youtube.com/embed/wRPHpIwIf40">Nhạc vàng trữ tình - Như Quỳnh 4
-<option value="https://www.youtube.com/embed/4V04Hp60_zg">Sương Lạnh Chiều Đồng - Thanh Tuyền
-<option value="https://www.youtube.com/embed/lnrUe7PCbc0">Liên khúc tình đầu - Elvis Phương, Hương Lan
-<option value="https://www.youtube.com/embed/VOh7vErZTiw">Nhạc không lời - Aranjuez Mon Amour
-<option value="https://www.youtube.com/embed/ckRJvaqZlQ4">Phương Dung - Ngày đó xa rồi
-<option value="https://www.youtube.com/embed/4Qk2_PSAoAo">Nhac tru tinh am thanh lossless
-<option value="https://www.youtube.com/embed/EHu6goQNfyo">Liên Khúc Tình Yêu
-<option value="https://www.youtube.com/embed/mA3V4YVfdIQ">Liên Khúc Chiều Mưa 2
-<option value="https://www.youtube.com/embed/H2T6Z6msyNE">NHẠC ÂU MỸ BẤT HỦ
-<option value="https://www.youtube.com/embed/-12Y8Dqikic">Album Ngọc Lan
-<option value="https://www.youtube.com/embed/6ksyO7WkP0M">Nhạc vàng trữ tình Bolero Mạnh Đình
-<option value="https://www.youtube.com/embed/Yec1oZPTsI4">Nhạc Vang Chất Lượng Cao
-<option value="https://www.youtube.com/embed/PMxgWY-ZHlQ">LK Thành Phố Buồn
-<option value="https://www.youtube.com/embed/IngVVpfGECQ">Liên Khúc Nhạc Mừng Xuân 2017
-<option value="https://www.youtube.com/embed/rFSBxyj7PiA">Tâm Đoan - Sầu Lẻ Bóng
-<option value="https://www.youtube.com/embed/ioXLpcbgSzE">Nhạc vàng trữ tình Bolero hải ngoại
-<option value="https://www.youtube.com/embed/5xz0N6iaFoA">Album Song Ca Đặc Biệt
-<option value="https://www.youtube.com/embed/e2tKtqZKJXs">Khánh Ly Lossless - Album Chưa Phai
-<option value="https://www.youtube.com/embed/S81aM0j2OWU">Nhạc vàng Bolero hải ngoại Tâm Đoan - Huế Xưa
-<option value="https://www.youtube.com/embed/mHDl579NB7c">Tuyển Tập Những Bài Hát Hay Nhất của Như Quỳnh
-<option value="https://www.youtube.com/embed/EaREyFjObdM">Nhạc Trữ Tình 2015
-<option value="https://www.youtube.com/embed/p9OXuRZezZM">NSƯT Thanh Thúy
-<option value="https://www.youtube.com/embed/RxkU08-m45M">Liên khúc nhạc vàng nhiều ca sĩ nổi tiếng
-<option value="https://www.youtube.com/embed/ZeuyUDluSNU">Liên khúc Tuấn Vũ, Sơn Tuyền, Thiên Trang
-<option value="https://www.youtube.com/embed/b_f3ewyt9ys">Đâu Ngờ Tình Dang Dỡ
-<option value="https://www.youtube.com/embed/AsX9sMv-zS4">Quang Lê - Lệ Quyên
-<option value="https://www.youtube.com/embed/VFBqKis__Kg">Nhạc Trữ Tình Chọn Lọc 2014
-<option value="https://www.youtube.com/embed/MQkgocK411s">Nhạc Vàng 2015
-<option value="https://www.youtube.com/embed/rf2EmSUaHF0">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
-<option value="https://www.youtube.com/embed/83RB4SIwdCY">Beethoven - Moonlight Sonata
-<option value="https://www.youtube.com/embed/ycGfvA1vkR8">Như Quỳnh - Duyên Phận
-<option value="https://www.youtube.com/embed/2Km_rqn8Xh4">Lk nhac lossless
-<option value="https://www.youtube.com/embed/bO89Wb6c5r0">LK Nhạc Vàng Trữ Tình Remix Hay Nhất 2017
-<option value="https://www.youtube.com/embed/y8TC_xT1pvk">Đan Trường - Album Vol 2
-<option value="https://www.youtube.com/embed/C3VIlJtv340">Những Bài Hát Hay Nhất Của Phan Đình Tùng
-<option value="https://www.youtube.com/embed/b2pECiq5bkk">Lk Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/65EE7hTWq18">The Best of Richard Clayderman
-<option value="https://www.youtube.com/embed/ByU11bUeqQE">Lk Nhạc Trữ Tình Sôi Động
-<option value="https://www.youtube.com/embed/LAi20eSw08A">LK Chuyện Nàng Trinh Nữ Tên Thi
-<option value="https://www.youtube.com/embed/HQbIMV96vL8">Chiến Thắng 2016
-<option value="https://www.youtube.com/embed/ziWFwMFEQGY">Đàm Vĩnh Hưng - Vol 1
-<option value="https://www.youtube.com/embed/mlmEqgKkqGc">Michael Learns To Rock
-<option value="https://www.youtube.com/embed/bOuGW44nXDg">Đại Hội New Wave - Kỳ 2
-<option value="https://www.youtube.com/embed/4BaVMDthGK8">Xót xa - Karaoke HD
-<option value="https://www.youtube.com/embed/rKinIrzdc6k">Đan Trường - Album Vol 3
-<option value="https://www.youtube.com/embed/0HQTqBD3lYI">Những ca khúc hay nhất của Quang Dũng
-<option value="https://www.youtube.com/embed/ADhaNYy3k0Y">Happy New Year Mix 2017
-<option value="https://www.youtube.com/embed/m3VYx4WGRUU">Chế Linh
-<option value="https://www.youtube.com/embed/wSbKYTSZ85M">LỆ QUYÊN - Những Tình Khúc Trữ Tình Hải Ngoại
-<option value="https://www.youtube.com/embed/dsbLcdihBNg">Tuyệt Phẩm Bolero Hay Nhất Của Tuấn Vũ
-<option value="https://www.youtube.com/embed/ttFufKO0Z0I">Trường Vũ 2017
-<option value="https://www.youtube.com/embed/p-MXd77YYIs">Chế Linh, Tuấn Vũ, Trường Vũ
-<option value="https://www.youtube.com/embed/JfxIIfFgXvE">Nhạc vàng Bolero Như Quỳnh
-<option value="https://www.youtube.com/embed/xe4KtTLIIfA">50 Tình Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn
-<option value="https://www.youtube.com/embed/mESQHwisCpk">CA SĨ HẢI NGOẠI THANH TUYỀN
-<option value="https://www.youtube.com/embed/G9EBwN7mVac">Những ca khúc Nhạc Vàng hay nhất 
-<option value="https://www.youtube.com/embed/Hd69oK4Ey5E">Song Ca Nhạc Vàng Bolero
-<option value="https://www.youtube.com/embed/wznYnJQvaPY">Tuyệt phẩm Chế Linh hay nhất 2016
-<option value="https://www.youtube.com/embed/lGBYXW1EpCk">Giọng Ca Trẻ Hải Ngoại Hát Tình Khúc
-<option value="https://www.youtube.com/embed/LdcffuOZPZI">Giang Hồng Ngọc 2017
-<option value="https://www.youtube.com/embed/dIlHSakjUkM">Song Ca Nhạc Vàng - Chế Linh, Thanh Tuyền
-<option value="https://www.youtube.com/embed/EQrZy_pLROw">NHẠC XUÂN ĐAN NGUYÊN 2017 Mới Nhất
-<option value="https://www.youtube.com/embed/2uf8craWIdE">Sơn Tuyền Nhạc Tuyển
-<option value="https://www.youtube.com/embed/AeH_49wSqFE">Những Tình Khúc Bất Hủ Trần Thiện Thanh
-<option value="https://www.youtube.com/embed/vRRiv1pI6D4">Tuyệt phẩm Nhạc Vàng Song Ca
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/world/hbo11.php">HBO</option>
+<option value="https://href.li/http://plus.trumtv.net/redhbo.php">Red by HBO</option>
+<option value="https://href.li/http://plus.trumtv.net/maxhbo.php">Max by HBO</option>
+<option value="https://href.li/http://plus.trumtv.net/warner.php">Warner</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-world/starmovies.php">Stamovies</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-world/cinemax.php">Cinemax</option>
+<option value="https://href.li/http://plus.trumtv.net/cineworld.php">Cinemaworld</option>
+<option value="https://href.li/http://link.tvmienphi.biz/stream-flix/starworld.php">Starworld</option>
+<option value="https://href.li/http://live1.tvmienphi.biz/stream-world/axn.php">AXN</option> 
+<option value="https://href.li/http://plus.trumtv.net/animalplanet.php">Animalplanet</option>
+<option value="https://href.li/http://plus.trumtv.net/afc.php">AFC</option>
+<option value="https://href.li/http://plus.trumtv.net/diva.php">DIVA</option>
+<option value="https://href.li/http://plus.trumtv.net/davinci.php">Davinci</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/world/cartoon11.php">CN</option>
+<option value="https://href.li/http://sv.tvmienphi.biz/ok/world/disney11.php">DISNEY</option>
+<option value="https://href.li/http://plus.trumtv.net/disneyjunior.php">Disney Jr</option>
+<option value="https://href.li/http://plus.trumtv.net/toonami.php">TOONAMI</option>
+<option value="https://href.li/http://plus.trumtv.net/cnn.php">CNN</option>
+<option value="https://href.li/http://plus.trumtv.net/channelnewasia.php">Channel new Asia</option>
+<option value="https://href.li/http://plus.trumtv.net/kbs.php">KBS</option>
+<option value="https://href.li/http://plus.trumtv.net/nhk.php">NHK</option>
+<option value="https://href.li/http://plus.trumtv.net/tv5monde.php">TV5Monde</option>
+<option value="https://href.li/http://plus.trumtv.net/arirang.php">ARIANG</option>
+<option value="https://href.li/http://plus.trumtv.net/fashion.php">Fashion</option>
 
-<option value="https://www.youtube.com/embed/5Tn2Wfeu9_c">Nhạc Vàng Trữ Tình - TRÚC PHƯƠNG
-<option value="https://www.youtube.com/embed/xZcT_BEJaTY">Nhạc Vàng Chọn Lọc Hay nhất
-<option value="https://www.youtube.com/embed/Ef-GmQuerpg">Nhac Vang tuyen chon
-<option value="https://www.youtube.com/embed/ikDRb_DH7r8">Liên Khúc Nhạc Vàng Hải Ngoại Chọn lọc
-<option value="https://www.youtube.com/embed/MmTz0O2n5fo">LK Nhạc TRỮ TÌNH BOLERO Sáng tác Anh Bằng
-<option value="https://www.youtube.com/embed/yTjVaxsshis">Liên Khúc Nhạc Trữ Tình
-<option value="https://www.youtube.com/embed/hw4Qp0xDk8Q">Nhạc Vàng Hay Nhất
-<option value="https://www.youtube.com/embed/wScAETcX61o">Liên Khúc Nhạc Trữ Tình Bolero
-<option value="https://www.youtube.com/embed/WZRGgW0SSJQ">Nhạc Trữ Tình Chọn Lọc
-<option value="https://www.youtube.com/embed/Gz4Pjpi0WeQ">Nhạc Bolero tru Tinh
-<option value="https://www.youtube.com/embed/eBuVeWSv4Mw">Tuyệt đỉnh nhạc trữ tình 2017
-<option value="https://www.youtube.com/embed/ihfqL2PBLOs">Trường Vũ Bolero
-<option value="https://www.youtube.com/embed/hnejqmJXvFA">LK Nhạc Vàng Trữ Tình Buồn
-<option value="https://www.youtube.com/embed/A1rc0lYGv5A">Liên Khúc Nhạc Trữ Tình Bolero Hay Nhất
-<option value="https://www.youtube.com/embed/rf2EmSUaHF0">ĐAN NGUYÊN
-<option value="https://www.youtube.com/embed/NQAIiYIDYJQ">100 bài Nhạc Vàng Bolero
-<option value="https://www.youtube.com/embed/cDglNuQ0Sk0">TRƯỜNG VŨ Tuyển chọn Nhạc vàng
-<option value="https://www.youtube.com/embed/ow7RPR3gAcE">Liên Khúc Nhạc Vàng Trữ Tình Hay Nhất 2016
-<option value="https://www.youtube.com/embed/uAZuHXYY-u0">Những Ca Khúc Nhạc Trẻ Hay Nhất 2016
-<option value="https://www.youtube.com/embed/IB9WMHKl86o">Tuyệt Đỉnh Trữ Tình Bolero 2017
-<option value="https://www.youtube.com/embed/mFZL_waCNjk">Bolero Tuyển Chọn Hay Nhất
-<option value="https://www.youtube.com/embed/5FzXliuvYy8">Những Ca Khúc Bolero Buồn
-<option value="https://www.youtube.com/embed/5Uc_I3BrOFY">Nhac Vang Hay Nhất GIỌNG CA NAM vol2
-<option value="https://www.youtube.com/embed/9bYTSxe2ElE">Lk Thuyền Xa Bến Đỗ
-<option value="https://www.youtube.com/embed/1t796znRRhA">Những Ca Khúc Nhạc Vàng Hay Nhất
-<option value="https://www.youtube.com/embed/IQ2mzypzA38">Nhạc Vàng Chọn Lọc  Âm thanh CHUẨN 320Kbps
-<option value="https://www.youtube.com/embed/UIY8TsX7Upg">Nhạc Vàng hay nhất 2017 SONG CA
-<option value="https://www.youtube.com/embed/ubMk_GcBuXg">NHẠC VÀNG HẢI NGOẠI XƯA BẤT HỦ
-<option value="https://www.youtube.com/embed/i8D1kG1hqaU">Liên Khúc Nhạc Trữ Tình Bolero Hay Nhất 2017
-<option value="https://www.youtube.com/embed/D4g2-4wq3JI">Liên Khúc Nhạc Vàng Bolero
-<option value="https://www.youtube.com/embed/8_yB2Ah3KNE">Tuyển tập nhạc tiền chiến trữ tình
-<option value="https://www.youtube.com/embed/BqiwmSafdK0">Liên Khúc Nhạc Trữ Tình Bolero Hay Nhất
-<option value="https://www.youtube.com/embed/FAcMOcQTKao">Liên Khúc Nhạc Vàng Trữ Tình Hay Nhất 2016
-<option value="https://www.youtube.com/embed/wtF0GDilitw">LK nhạc vàng tru tinh Chọn Lọc
-<option value="https://www.youtube.com/embed/3t5EcBbfv1Y">Những Bài Hát Trữ Tình Hay Nhất Của Thu Hiền
-<option value="https://www.youtube.com/embed/YOysel8eqe8">Nhạc Bolero Tuyển Chọn 2017
-<option value="https://www.youtube.com/embed/tiN82SSWnpU">NGHE NHẠC NHƯ QUỲNH CHỌN LỌC
-<option value="https://www.youtube.com/embed/e_Arhip3pfs">Nhạc Vàng Hay Nhất 
-<option value="https://www.youtube.com/embed/BYNdP_1Tb_o">Liên Khúc Nhạc Vàng Trữ Tình Hay Nhất 2016
-<option value="https://www.youtube.com/embed/srAyi8oLEwg">Liên Khúc Nhạc Vàng 2017
-<option value="https://www.youtube.com/embed/o2Zl2C-8e2A">ĐAN NGUYÊN 2016
-<option value="https://www.youtube.com/embed/iu5PkyXoArs">LK Trữ Tình Đặc Biệt
-<option value="https://www.youtube.com/embed/xJ0KgN6bo8I">Liên Khúc Nhạc Trữ Tình Ca Sĩ Trẻ
-<option value="https://www.youtube.com/embed/wKJreQO_UkQ">THVL - Solo cùng Bolero 2015 - Tập 7
-<option value="https://www.youtube.com/embed/5aHvGvMQzW0">Tuyển chọn Nhạc vàng Đan nguyên
-<option value="https://www.youtube.com/embed/g4t0SKQ3UXE">NHẠC VÀNG TRỮ TÌNH BOLERO GIỌNG CA TRẺ
-<option value="https://www.youtube.com/embed/B0KBSHbEFaI">LIÊN KHÚC NHẠC VÀNG Chọn Lọc hay nhất
-<option value="https://www.youtube.com/embed/52N7EXXKHjA">Nhạc Vàng Hay
-<option value="https://www.youtube.com/embed/tfzaXaZINqM">Không Bao Giờ Quên Anh
-<option value="https://www.youtube.com/embed/QR1z-YBpco4">Nhạc Vàng Không Lời 2017 Hay Nhất
-<option value="https://www.youtube.com/embed/P5m58gburOA">Liên Khúc Organ
-<option value="https://www.youtube.com/embed/CA_dkB1LUu8">Nhạc sĩ Trúc Phương và những bài hát tuyển chọn
-<option value="https://www.youtube.com/embed/mjpQN6E3rOo">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/embed/GO1s83ulZgo">Những Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất
-<option value="https://www.youtube.com/embed/lDtOaZMW-o8">Nhạc Vàng Tuyển Chọn
-<option value="https://www.youtube.com/embed/wvfrCygCqY0">Liên Khúc Nhạc Trữ Tình Bolero Hay Nhất
-<option value="https://www.youtube.com/embed/TZUjNhPd4BY">Tuyển Tập Bài Hát Trữ Tình Hay Nhất Của Anh Thơ
-<option value="https://www.youtube.com/embed/chFpVVq3BZA">Nhạc Trữ Tình Quê Hương Chọn Lọc
-<option value="https://www.youtube.com/embed/Xstz1OPGris">THẦN TƯỢNG BOLERO 2016
-<option value="https://www.youtube.com/embed/qt2wh7gpWP0">Nhạc Bolero Hay Nhất
-<option value="https://www.youtube.com/embed/NdVDyYSGab4">Liên Khúc Nhạc Trữ Tình Hay Nhất 2016
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=shop">Truyền hình Hải Ngoại</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=shop">VIETV</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=ykhoa">VIETFACE TV</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=dulich">KVLA</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=vmusic">VMUSIC</option> 
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=luatphap">LSTV</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=sankhau">SAN KHAU</option> 
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=vpoptv">VpopTV</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=hai247">HAI 24/7</option>
+<option value="https://href.li/http://sv.xemtivitt.net/viettv24.php?id=fashion">SET TV</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8">VIET MY</option>
 
-       </select>       
+<option value="https://href.li/http://m.tivi12h.net/thethaotv.php">===== Kênh Thể Thao Tổng Hợp =======</option>
+<option value="https://href.li/http://talktv.vn/streaming/play/embed/kenhbongdathethao">Bóng Đá</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480">sky sport 1(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480">Sky sport 2(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480">Sky sport 3(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480">Sky sport 4(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480">Sky sport 5(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/btsport1.php?width=650&height=480">BT sport 1(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/btsport2.php?width=650&height=480">BT sport 2(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&height=480">BT sport 3(UK)</option>
+<option value="http://www.liveonlinetv247.info/embed/canal%2Bfutbol.php?width=650&height=480">Canal Futbol(ESP)</option>)
+<option value="http://www.liveonlinetv247.info/embed/canal%2Bliga.php?width=650&height=480">Canal Liga (ESP)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480">Bein sport 1(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480">Bein sport 2(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480">Bein sport 3(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480">Bein sport 4(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480">Bein sport 5(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480">Bein sport 6(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480">Bein sport 7(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480">Beins port 8(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480">Beins port 9(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480">Bein sport 10(AR)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480">Bein sport 11(Eng)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480">Bein sport 12(Eng)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480">Bein sport 13(Eng)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480">Bein sport 1(France)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480">Bein sport 2(France)</option>
+<option value="http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480">Bein sport 3(France)</option>
 
-       
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8">Bein sport 1</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8">Bein sport 2</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8">Bein sport 3</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8">Bein sport 4</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8">Bein sport 5</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8">Bein sport 6</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8">Bein sport 7</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8">Bein sport 8</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8">Bein sport 9</option>
+<option value="http://sv.keodabanh.com/vs.php?sv=http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8">Bein sport 10</option>
+
+<option value="https://www.youtube.com/embed/tANJiz4cDWE">=== NHẠC TRỮ TÌNH - Chúc bạn nghe nhạc vui vẻ ! ====</option>
+<option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vàng Trữ Tình</option>
+<option value="https://www.youtube.com/embed/CJV7M61_8Ck">Nhạc TRữ Tình ChỌn Lọc Hay Nhất</option>
+<option value="https://www.youtube.com/embed/MqCaUOABeg4">Nhac Vang Chon Loc</option>
+<option value="https://www.youtube.com/embed/PANY0e-6hfU">Liên Khúc Chiều Mưa 4</option>
+<option value="https://www.youtube.com/embed/Xb8GDL6hM3s">Bolero LossLess</option>
+<option value="https://www.youtube.com/embed/XgY1_OFAwg4">NHẠC ÂU MỸ BẤT HỦ</option>
+<option value="https://www.youtube.com/embed/g77tMnZrbYk">Tuyển tập Lệ Quyên 2016</option>
+<option value="https://www.youtube.com/embed/Ni99S4O-s4I">Album Trường Vũ</option>
+<option value="https://www.youtube.com/embed/7BO0IJsiAmE">Nhạc vàng hải ngoại chọn lọc 2017</option>
+<option value="https://www.youtube.com/embed/sRf8sgPnAQs">Ngọc Lan, Kiều Nga, Tuyết Nhung</option>
+<option value="https://www.youtube.com/embed/ZbCyyZeMe-A">Liên khúc Đan Nguyên 1</option>
+<option value="https://www.youtube.com/embed/tANJiz4cDWE">Nhạc Vang Chất Lượng Cao</option>
+<option value="https://www.youtube.com/embed/Dun_rnVOLns">Tuyển Chọn 30 Bài Nhạc Lính Chiến HAY NHẤT</option>
+<option value="https://www.youtube.com/embed/22RqeRGsWZ0">Những tình khúc nhạc vàng bất hủ chọn lọc</option>
+<option value="https://www.youtube.com/embed/Ipd6ukMXZng">Album Trường Vũ  Nó Và Tôi</option>
+<option value="https://www.youtube.com/embed/yynJP3pTKlM">Nhạc vàng trữ tình Bolero hải ngoại</option>
+<option value="https://www.youtube.com/embed/qKeKdk3VZSg">Liên Khúc Tình Yêu Tuyệt Vời</option>
+<option value="https://www.youtube.com/embed/uvL_-j25S-4">Tuấn Vũ Tuyệt Phẩm</option>
+<option value="https://www.youtube.com/embed/VOh7vErZTiw">Tuyển tập nhạc không lời hay</option>
+<option value="https://www.youtube.com/embed/bmaibO5eKT4">Tuấn Vũ & Hương Lan</option>
+<option value="https://www.youtube.com/embed/L35gySNQXe0">Tổng hợp nhạc trẻ hay nhất 2015</option>
+<option value="https://www.youtube.com/embed/__rb8Tk_Txw">Thiên Kim</option>
+<option value="https://www.youtube.com/embed/l1U02IZPJIk">Nhạc xuân 2016 hay nhất</option>
+<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình</option>
+<option value="https://www.youtube.com/embed/FJpXaNjk8jQ">Nhạc Vàng Hải Ngoại Trường Vũ</option>
+<option value="https://www.youtube.com/embed/wJX_-Znj1Ys">Top 10 Bài Hát Nhạc Trẻ Hay</option>
+<option value="https://www.youtube.com/embed/BYLwgqdknWk">Lệ Quyên 2017</option>
+<option value="https://www.youtube.com/embed/6_YrxuPKzG4">Tuấn Vũ Hương Lan , Giao Linh, Sơn Tuyền</option>
+<option value="https://www.youtube.com/embed/EVVXkCC4HVo">Ngọc Lan, Lâm Thúy Vân, Kiều Nga</option>
+<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN</option>
+<option value="https://www.youtube.com/embed/_OlfydeRdOQ">Liên Khúc Chiều Mưa 3</option>
+<option value="https://www.youtube.com/embed/lMRkqW7sMUA">Hương Lan - Biết Nói Gì Đây</option>
+<option value="https://www.youtube.com/embed/kRJButYEBsY">Liên Khúc Tuấn Vũ Trọn Bộ</option>
+<option value="https://www.youtube.com/embed/SEwEBdlLBug">Nhạc Vàng Trữ Tình</option>
+<option value="https://www.youtube.com/embed/QkIIGOzHavk">Tuấn Vũ, Hương Lan, Ngọc lan, Sơn Tuyền</option>
+<option value="https://www.youtube.com/embed/3LffW65BXcI">Nhạc Vàng Hải Ngoại Trường Vũ</option>
+<option value="https://www.youtube.com/embed/6OhJiTjD9g4">Minh Tuyết</option>
+<option value="https://www.youtube.com/embed/taD6lwTFqsY">LK NHAC Vàng Không Lời Hay nhất</option>
+<option value="https://www.youtube.com/embed/H2T6Z6msyNE">Nhạc Vàng Trữ Tình</option>
+<option value="https://www.youtube.com/embed/X76RqT6COKw">Liên Khúc Chọn Lọc</option>
+<option value="https://www.youtube.com/embed/dxWVeTE-yoc">Thiên Kim, Diễm Liên, Thanh Trúc, Quang Minh, Thanh Hà</option>
+<option value="https://www.youtube.com/embed/O1zENZEPYmY">Bolero Hải Ngoại</option>
+<option value="https://www.youtube.com/embed/A-dl87R9RF8">Liên Khúc Tình Yêu 2</option>
+<option value="https://www.youtube.com/embed/iiaxJwaY94A">LK Nhạc Bolero Trữ Tình Hay Nhất 2017</option>
+<option value="https://www.youtube.com/embed/kyyFsbi8QhI">Nhạc Vàng Bolero Chọn Lọc Hay Nhất</option>
+<option value="https://www.youtube.com/embed/L-OpiBmXHzU">Liên Khúc Chiều Mưa 3</option>
+<option value="https://www.youtube.com/embed/nZ6rZ-eqzi4">Tuyển tập những bài hát guitar hay nhất</option>
+<option value="https://www.youtube.com/embed/zcN6oArjg5g">Tuấn Vũ, Giao Linh, Thanh Tuyền, Trúc Mai, Huy Sinh</option>
+<option value="https://www.youtube.com/embed/H2T6Z6msyNE">Dan Nguyen - Nhạc Vàng Trữ Tình</option>
+<option value="https://www.youtube.com/embed/tOIr7UaHtlw">Liên khúc ĐÓN XUÂN NÀY NHỚ XUÂN XƯA</option>
+<option value="https://www.youtube.com/embed/W4GltzeQ1aY">Liên Khúc Chiều Mưa 3</option>
+<option value="https://www.youtube.com/embed/xZcT_BEJaTY">Nhạc Vàng Chọn Lọc Hay nhất 2017</option>
+<option value="https://www.youtube.com/embed/7YdZGjGrotk">Như Quỳnh 2017</option>
+<option value="https://www.youtube.com/embed/iCL4fYm6Ojs">Đàm Vĩnh Hưng 2011</option>
+<option value="https://www.youtube.com/embed/CgYOUa6aDk4">Trường Vũ  - Album Cơn Mê Tình Ái</option>
+<option value="https://www.youtube.com/embed/IJKkzPHQNUQ">Ngọc Lan, Như Mai, Kim Anh</option>
+<option value="https://www.youtube.com/embed/ABtzFR8LZB8">Nhạc vàng Bolero hải ngoại</option>
+<option value="https://www.youtube.com/embed/4cInu7BJzHE">Ngọc Lan, Kiều Nga, Nhật Hạ, Thúy Vi</option>
+<option value="https://www.youtube.com/embed/NQAIiYIDYJQ">Nhạc Vang Chất Lượng Cao</option>
+<option value="https://www.youtube.com/embed/zIqcwIsHLKo">Tình Khúc Trịnh Công Sơn</option>
+<option value="https://www.youtube.com/embed/hTBWHRlhQmk">Giang Tử - Tuyệt phẩm Nhạc vàng Bolero Hải ngoại</option>
+<option value="https://www.youtube.com/embed/ZgUJ7OqH0eo">Liên Khúc Nhac lossless</option>
+<option value="https://www.youtube.com/embed/0FQpYeXMltA">Anh Thơ tuyển tập nhạc Lossless</option>
+<option value="https://www.youtube.com/embed/mT2bPvIrwdM">Nhạc vàng trữ tình Bolero Như Quỳnh</option>
+<option value="https://www.youtube.com/embed/eJgwMRoKrzY">Nhạc vàng Bolero</option>
+<option value="https://www.youtube.com/embed/g4t0SKQ3UXE">NHẠC VÀNG TRỮ TÌNH BOLERO GIỌNG CA TRẺ</option>
+<option value="https://www.youtube.com/embed/6KKVD2VQs5A">Nhạc không lời</option> 
+<option value="https://www.youtube.com/embed/LNmnmw7gY4A">Thien Trang- Chế Linh- Tuấn Vũ</option>
+<option value="https://www.youtube.com/embed/LIlwpJPWL5c">Những Bản Độc Tấu Guitar</option>
+<option value="https://www.youtube.com/embed/VrCjIETR6qU">Liên khúc Nonstop Cha cha cha</option>
+<option value="https://www.youtube.com/embed/4sPaKw6CHoQ">Liên Khúc Hải Ngoại sôi động</option>
+<option value="https://www.youtube.com/embed/60Zdy3jfzb4">Album Cho người tình nhỏ</option>
+<option value="https://www.youtube.com/embed/KP-MzFJS7sc">Nhạc không lời hay- Two Guitars</option>
+<option value="https://www.youtube.com/embed/lySf_wpbXC8">Liên khúc Hit hải ngoại</option>
+<option value="https://www.youtube.com/embed/_V1HlcCDJhg">liên  khúc nhạc trữ tình hay nhất</option>
+<option value="https://www.youtube.com/embed/ZnS0WG7-ZCI">Đan Nguyên - Album Có Thế Thôi</option>
+<option value="https://www.youtube.com/embed/Nz-_cbp8icg">Lệ Quyên colection</option>
+<option value="https://www.youtube.com/embed/72Imeuf6ufY">Nhạc Trữ Tình - Liên Khúc Mưa</option>
+<option value="https://www.youtube.com/embed/KdJo3sr-4fs">Lien Khúc Tình yêu 4</option>
+<option value="https://www.youtube.com/embed/jMIC3QjSd3E">nhạc không lời buồn</option>
+<option value="https://www.youtube.com/embed/pNSFMsEiCkY">Liên Khúc Hải Ngoại</option>
+<option value="https://www.youtube.com/embed/ZJc218-49mY">Nhac tru tinh lossless</option>
+<option value="https://www.youtube.com/embed/qUzPkZSLEds">Nhạc Bolero Hay Nhất</option>
+<option value="https://www.youtube.com/embed/tqe9trZ3LYk">Nhạc vàng trữ tình Bolero Hoàng Oanh</option>
+<option value="https://www.youtube.com/embed/Y2SF55I-KmU">Lien khúc chiều mưa 3</option>
+<option value="https://www.youtube.com/embed/KaC4uoKLJa0">Album Ngọc Lan</option>
+<option value="https://www.youtube.com/embed/bqW7ttN-Sxg">Hòa Tấu Guitar Vô Thường</option>
+<option value="https://www.youtube.com/embed/2LVokR-E3ig">Đan Trường - Nhạc tuyển Vol 1</option>
+<option value="https://www.youtube.com/embed/wRPHpIwIf40">Nhạc vàng trữ tình - Như Quỳnh 4</option>
+<option value="https://www.youtube.com/embed/4V04Hp60_zg">Sương Lạnh Chiều Đồng - Thanh Tuyền</option>
+<option value="https://www.youtube.com/embed/lnrUe7PCbc0">Liên khúc tình đầu - Elvis Phương, Hương Lan</option>
+<option value="https://www.youtube.com/embed/VOh7vErZTiw">Nhạc không lời - Aranjuez Mon Amour</option>
+<option value="https://www.youtube.com/embed/ckRJvaqZlQ4">Phương Dung - Ngày đó xa rồi</option>
+<option value="https://www.youtube.com/embed/4Qk2_PSAoAo">Nhac tru tinh am thanh lossless</option>
+<option value="https://www.youtube.com/embed/EHu6goQNfyo">Liên Khúc Tình Yêu</option>
+<option value="https://www.youtube.com/embed/mA3V4YVfdIQ">Liên Khúc Chiều Mưa 2</option>
+<option value="https://www.youtube.com/embed/H2T6Z6msyNE">NHẠC ÂU MỸ BẤT HỦ</option>
+<option value="https://www.youtube.com/embed/-12Y8Dqikic">Album Ngọc Lan</option>
+<option value="https://www.youtube.com/embed/6ksyO7WkP0M">Nhạc vàng trữ tình Bolero Mạnh Đình</option>
+<option value="https://www.youtube.com/embed/Yec1oZPTsI4">Nhạc Vang Chất Lượng Cao</option>
+<option value="https://www.youtube.com/embed/PMxgWY-ZHlQ">LK Thành Phố Buồn</option>
+<option value="https://www.youtube.com/embed/IngVVpfGECQ">Liên Khúc Nhạc Mừng Xuân 2017</option>
+<option value="https://www.youtube.com/embed/rFSBxyj7PiA">Tâm Đoan - Sầu Lẻ Bóng</option>
+<option value="https://www.youtube.com/embed/ioXLpcbgSzE">Nhạc vàng trữ tình Bolero hải ngoại</option>
+<option value="https://www.youtube.com/embed/5xz0N6iaFoA">Album Song Ca Đặc Biệt</option>
+<option value="https://www.youtube.com/embed/e2tKtqZKJXs">Khánh Ly Lossless - Album Chưa Phai</option>
+<option value="https://www.youtube.com/embed/S81aM0j2OWU">Nhạc vàng Bolero hải ngoại Tâm Đoan - Huế Xưa</option>
+<option value="https://www.youtube.com/embed/mHDl579NB7c">Tuyển Tập Những Bài Hát Hay Nhất của Như Quỳnh</option>
+
+
+
+</select>         </form>   </br>   
+<iframe name="iframe" id="Myiframe" src="https://href.li/http://talktv.vn/streaming/play/embed/meowdoraemon" scrolling="no" height="800" width="90%" frameborder="0" allowfullscreen></iframe> </center></br>
+
+
+
 
 </body>
 </html>
@@ -402,6 +314,7 @@ padding: 0px;
 ♥ ACESTREAM SPORTS CHANNELS: Nhấp chuột vào biểu tượng kênh để xem TV bằng Media Ace stream cài trong máy tính và thiết bị android ♥ <br>
 
 ✔ Bóng đá ngoại hạng Anh (England Premier League) xem theo giờ Việt Nam ✔<br>
+
 - (18h30' ngày 19/08/2017):  Swansea City Vs Man Utd	> Kênh:  SKY SPORT 5 <br>
 - (23h30' ngày 19/08/2017):  Stoke City Vs Arsenal	> Kênh: BT SPORT 1 <br>
 - (19h30' ngày 20/08/2017):  Huddersfield Town Vs Newcastle United	> > Kênh:  SKY SPORT 5 <br>
@@ -462,7 +375,7 @@ padding: 0px;
 
 
 ✔✔ Bóng đá Tây Ban Nha (Spain La Liga) xem theo giờ Việt Nam ✔✔ <br>
-	
+
 - (01h15' ngày 19/08/2017): Leganés vs Deportivo Alavés 	> Kênh: AV1, AV2 <br>
 - (03h15' ngày 19/08/2017): Valencia vs Las Palmas 		> Kênh:AV1, AV2, AV27, AV28 <br>
 
@@ -773,5 +686,7 @@ qacct:"p-0cfM8Oh7M9bVQ"
                             roll_ads();
                         }
                 }());</script>
+
+
 
 
