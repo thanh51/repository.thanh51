@@ -19,385 +19,391 @@
 <thumbnail></thumbnail>
 </item>
 
-			
 			<item>
 			<title>ArenaVision 1</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av1</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/tLQVtwY.png</thumbnail>
+			</regex>
 			</item>
-
 			
 			<item>
 			<title>ArenaVision 2</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av2</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/cz3YKbp.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 3</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av3</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/WknbXP6.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 4</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av4</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/GWbD8e0.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 5</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av5</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/ekIG0je.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 6</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av6</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/V9BsrjW.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 7</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av7</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/vcTwGOU.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 8</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av8</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/GoOVX47.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 9</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av9</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/4phNdQq.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 10</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av10</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/HVnHsHs.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 11</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av11</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/dx8GE89.png</thumbnail>
+			</regex>
 			</item>
 			
 			
 			<item>
 			<title>ArenaVision 12</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av12</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/pxQBxQa.png</thumbnail>
-			</item>
-			
+			</regex>
+			</item>			
 			
 			<item>
 			<title>ArenaVision 13</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av13</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/BEB6DAx.png</thumbnail>
-			</item>
-			
+			</regex>
+			</item>			
 			
 			<item>
 			<title>ArenaVision 14</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av14</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/eYkfDIV.png</thumbnail>
-			</item>
+			</regex>
+			</item>		
 			
 			
 			<item>
 			<title>ArenaVision 15</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av15</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/5UKDtIH.png</thumbnail>
-			</item>
+			</regex>
+			</item>		
 			
 			
 			<item>
 			<title>ArenaVision 16</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av16</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/Fwha1kH.png</thumbnail>
-			</item>
-
+			</regex>
+			</item>			
+			
 			
 			<item>
 			<title>ArenaVision 17</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av17</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/HW5HHaw.png</thumbnail>
-			</item>
+			</regex>
+			</item>			
+			
 			
 			<item>
 			<title>ArenaVision 18</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av18</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/UHFYXmJ.png</thumbnail>
+			</regex>
 			</item>
+						
 			
 			<item>
 			<title>ArenaVision 19</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av19</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/lBY1wg7.png</thumbnail>
+			</regex>
 			</item>
+						
 			
 			<item>
 			<title>ArenaVision 20</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av20</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/agx6SKg.png</thumbnail>
+			</regex>
 			</item>
+			
+			
 			
 			<item>
 			<title>ArenaVision 21</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av21</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/HMkxFTm.png</thumbnail>
-			</item>
+			</regex>
+			</item>			
+	
 			
 			<item>
 			<title>ArenaVision 22</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av22</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/pbbZRF9.png</thumbnail>
-			</item>
+			</regex>
+			</item>			
 			
 			<item>
 			<title>ArenaVision 23</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av23</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/0eE7u33.png</thumbnail>
+			</regex>
 			</item>
+			
 			
 			<item>
 			<title>ArenaVision 24</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av24</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/is8aoQC.png</thumbnail>
+			</regex>
 			</item>
+			
 			
 			<item>
 			<title>ArenaVision 25</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av25</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/zyH0CnX.png</thumbnail>
+			</regex>
 			</item>
+			
 			
 			<item>
 			<title>ArenaVision 26</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av26</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/wadW62U.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 27</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av27</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/YFDEb4t.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 28</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av28</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/2Jyw5tq.png</thumbnail>
+			</regex>
 			</item>
 			
 			<item>
 			<title>ArenaVision 29</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av29</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/1moAtnh.png</thumbnail>
+			</regex>
 			</item>
 			
+						
 			<item>
 			<title>ArenaVision 30</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av30</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/63UWyXS.png</thumbnail>
+			</regex>
 			</item>
-			
+
 			<item>
 			<title>ArenaVision 31</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://www.arenavision.in/av31</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex><thumbnail>http://i.imgur.com/O5MFU7i.png</thumbnail>
-			</item>		
+			</regex>
+			</item>
 
 <item>
 <title>SUPER SPORT 1</title>
