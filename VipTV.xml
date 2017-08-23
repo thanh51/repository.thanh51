@@ -1,5 +1,5 @@
-﻿<item>
-<title>[COLOR red][B] OneTV[/B][/COLOR]</title>
+<item>
+<title>[COLOR red][B] OneTV (cho mạng FPT)[/B][/COLOR]</title>
 <thumbnail>https://s28.postimg.org/ung05osp9/onetv.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/OneTV.xml</externallink>
@@ -7,7 +7,7 @@
 <info></info>
 <genre>Live TV</genre>
 </item>
-
+/////////////////
 <item>
 <title>[COLOR turquoise][B] mobiTV[/B][/COLOR]</title>
 <thumbnail>https://s28.postimg.org/yu0ul0sb1/mobitv.jpg</thumbnail>
@@ -17,9 +17,9 @@
 <info></info>
 <genre>Live TV</genre>
 </item>
-
+/////////////////////
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]Premium IPTV[/COLOR] - [COLOR white]PlayersKlub[/COLOR]</title>
+<title>[COLOR pink][B]ThePlayersKlub[/B][/COLOR]</title>
 <thumbnail>https://4.bp.blogspot.com/-gmHWtqit9HM/WMqd_giWvYI/AAAAAAAAWgo/sV1BU-Ro6ssNyB3JytJWFx2QG5sYXVIKwCLcB/s1600/The%2BPlayers%2BKlub%2BREpo%2BKodi%2BKrypton%2B17%2B1.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Playrsklub.xml</externallink>
@@ -27,6 +27,88 @@
 <info></info>
 <genre>Live TV</genre>
 </item>
+/////////////////////
+<item>
+<title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.ru/[makelist.param1]</page>
+			<referer>http://arenavision.ru</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>href="/acestream1">AV 1-10<
+<page>http://arenavision.ru/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+</item>
+////////////////////
+<item>
+<title> [COLOR lime][B]Acestream Channels Sports[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/as.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>		
+/////////////////////////////////
+
+<item>
+<title> [COLOR deepskyblue][B]IPTV Sports (by liveonline247)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+   <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[COLOR lightblue][makelist.param1][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' if not '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'=='' else '$doregex[hls]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'</expres>
+<page></page>
+</regex>
+<regex>
+<name>progressive</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<regex>
+<name>hls</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
+
+
+]]></listrepeat>
+<expres><![CDATA[title=(.*?)&channel=(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/sports-channels.php</page>
+
+</regex>
+<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
+</item>
+
+////////////////////////
 
 <item>
 <title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng[/B][/COLOR]</title>
@@ -43,7 +125,7 @@
 <Agent>Mozilla</Agent>
 </regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
-
+/////////////
 <item>
 <title>7 Giờ Trữ Tình</title>
 <link>ignorme</link>
@@ -72,3 +154,5 @@
 <thumbnail>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
+
+
