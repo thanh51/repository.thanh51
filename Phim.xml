@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+		
                 <item>
 		<title>[COLOR cyan][B]XEM PHIM (By talktv.vn)[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
@@ -14,25 +14,27 @@
                 <thumbnail>https://s11.postimg.org/7grnify7n/tomjerry.jpg</thumbnail>
 		</item>
                //////////////////////////////////
-               <item>
-<title>[COLOR cyan][B]Phim Hoạt Hình Tom And Jerry Tales (lồng tiếng Việt)[/B][/COLOR]</title>
-<link>$doregex[makelist3]</link>
+              	<item>
+		<title>[COLOR cyan][B]Phim Hoạt Hình Tom And Jerry Tales (lồng tiếng Việt)[/B][/COLOR]</title>
+		<link>$doregex[makelist3]</link>
 
-<regex>
-<name>makelist3</name>   
-<listrepeat><![CDATA[
-<title>[makelist3.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
-<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
-</regex>
-<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
-</item>
-//////////////////////
+		<regex>
+		<name>makelist3</name>   
+		<listrepeat><![CDATA[
+		<title>[makelist3.param2]</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+		<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+		]]></listrepeat>
+		<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
+		<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
+		</regex>
+		<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
+		</item>
+		//////////////////////
 
-                 </items>
+                
+
+                </items>
 	        </channel>
 
 
