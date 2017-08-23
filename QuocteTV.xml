@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR yellow][B]THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 5 Tiếng)[/B][/COLOR]</title>
+<title>[COLOR yellow][B]* THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 5 Tiếng)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -22,7 +22,7 @@
 </item>
 //////////////////////		
 <item>
-<title>[COLOR cyan][B]Arenavision Channels Sports(kênh AV1 đến kênh AV31)[/B][/COLOR]</title>
+<title>[COLOR cyan][B]* Arenavision Channels Sports (kênh AV1 đến kênh AV31)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -48,7 +48,7 @@
  <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
 </item>
 ////////////////////////////
-<item><title>[COLOR cyan][B]Channels Sports[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
+<item><title>[COLOR cyan][B]* Channels Sports[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
 
 <item><title> UK - BT Sport 1</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bt-sport-1/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> UK - BT Sport 2</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bt-sport-2/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
@@ -189,7 +189,7 @@
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports13.png</thumbnail>   
 </item>
 
-<item><title>[COLOR orange][B]Channels Television[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
+<item><title>[COLOR orange][B]* Channels Television[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
 
 <item><title> UK - BBC One</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bbc-one/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> UK - BBC Three</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bbc-three/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
@@ -420,5 +420,4 @@
 
 
 </stream>
-	
 	
