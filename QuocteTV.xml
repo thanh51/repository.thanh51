@@ -2,10 +2,24 @@
 
 <stream>
 
-
-		
 <item>
-<title>[B]Arenavision Channels Sports(kênh AV1 đến kênh AV31)[/B]</title>
+<title>[COLOR yellow][B]THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 5 Tiếng)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+</item>
+//////////////////////		
+<item>
+<title>[COLOR cyan][B]Arenavision Channels Sports(kênh AV1 đến kênh AV31)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -30,6 +44,8 @@
 </regex>
  <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
 </item>
+////////////////////////////
+<item><title>[COLOR cyan][B]Channels Sports[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
 
 <item><title> UK - BT Sport 1</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bt-sport-1/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> UK - BT Sport 2</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bt-sport-2/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
@@ -169,6 +185,8 @@
 <referer>0</referer>
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports13.png</thumbnail>   
 </item>
+
+<item><title>[COLOR orange][B]Channels Television[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
 
 <item><title> UK - BBC One</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bbc-one/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> UK - BBC Three</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bbc-three/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
