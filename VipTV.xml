@@ -1,0 +1,74 @@
+﻿<item>
+<title>[COLOR red][B] OneTV[/B][/COLOR]</title>
+<thumbnail>https://s28.postimg.org/ung05osp9/onetv.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/OneTV.xml</externallink>
+<fanart>https://s28.postimg.org/ung05osp9/onetv.jpg</fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+
+<item>
+<title>[COLOR turquoise][B] mobiTV[/B][/COLOR]</title>
+<thumbnail>https://s28.postimg.org/yu0ul0sb1/mobitv.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/IPTVpro.xml</externallink>
+<fanart>https://s28.postimg.org/yu0ul0sb1/mobitv.jpg</fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]Premium IPTV[/COLOR] - [COLOR white]PlayersKlub[/COLOR]</title>
+<thumbnail>https://4.bp.blogspot.com/-gmHWtqit9HM/WMqd_giWvYI/AAAAAAAAWgo/sV1BU-Ro6ssNyB3JytJWFx2QG5sYXVIKwCLcB/s1600/The%2BPlayers%2BKlub%2BREpo%2BKodi%2BKrypton%2B17%2B1.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Playrsklub.xml</externallink>
+<fanart>http://www.thestreammachine.net/uploads/8/0/4/5/8045572/published/fanart_118.jpg?1489084405</fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+
+<item>
+<title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>7 Giờ Trữ Tình</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC-TZQspRaYcMdvCI9tXi1sw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-_EB82UWJLmY/AAAAAAAAAAI/AAAAAAAAAAA/9tOkPyxkaKM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-_EB82UWJLmY/AAAAAAAAAAI/AAAAAAAAAAA/9tOkPyxkaKM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+<item>
+<title>Giọng Ca Để Đời</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCwZ2ZaFfTusqV_MGMHUnEsg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-ZalDHZrw6Fs/AAAAAAAAAAI/AAAAAAAAAAA/1_UbeimvGqg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-ZalDHZrw6Fs/AAAAAAAAAAI/AAAAAAAAAAA/1_UbeimvGqg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+<item>
+<title>NHẠC VÀNG TRỮ TÌNH</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCA1D9ewXaWAT4pO0vxsMhOA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-BVEfIISL6Cs/AAAAAAAAAAI/AAAAAAAAAAA/S_7czHSSG1Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-BVEfIISL6Cs/AAAAAAAAAAI/AAAAAAAAAAA/S_7czHSSG1Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+<item>
+<title>NHẠC BOLERO</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/PHONGTHUVOHOANG/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
