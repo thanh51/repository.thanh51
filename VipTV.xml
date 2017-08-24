@@ -109,9 +109,28 @@
 </item>
 
 ////////////////////////
+<item>
+<title>[COLOR turquoise]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s1)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://i2.wp.com/observergm.com/wp-content/uploads/2016/12/sport.png?fit=620%2C324&ssl=1</thumbnail>
+<fanart>http://repo.streamlive.to/plugin.video.streamlive.to/fanart.jpg</fanart>
+<info>Siaran Live TV Sport daripada luar negara</info>
+<genre>Live TV</genre>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR cyan][makelist.param1] [makelist.param2][/COLOR][COLOR Yellow][makelist.param4][/COLOR] [makelist.param5]</title>
+    <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param6]&amp;name=Link[makelist.param5]</link>
+	<thumbnail>http://avezy.tk/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<tr.*?row.*?center'>(.*?)<.*?>(.*?)<.*?img src="(.*?)".*?title='(.*?)'.*?br>(.*?)<.*?//(.*?)"]]></expres>
+<page>http://avezy.tk/</page>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
+</item>
+//////////////////////////
 
 <item>
-<title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng[/B][/COLOR]</title>
+<title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s2)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -154,5 +173,4 @@
 <thumbnail>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
-
 
