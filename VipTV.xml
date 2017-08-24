@@ -56,7 +56,7 @@
 </item>
 ////////////////////
 <item>
-<title> [COLOR lime][B]Acestream Channels Sports[/B] [/COLOR]</title>
+<title> [COLOR lime][B]Acestream Channels Sports - Cần addon Plexus[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -74,43 +74,24 @@
 /////////////////////////////////
 
 <item>
-<title> [COLOR deepskyblue][B]IPTV Sports (by liveonline247)[/B][/COLOR]</title>
+<title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s1)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-   <regex>
+<regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-
-<title>[COLOR lightblue][makelist.param1][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' if not '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'=='' else '$doregex[hls]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'</expres>
-<page></page>
-</regex>
-<regex>
-<name>progressive</name>
-<expres>x-mpegurl" src="(.*?)"</expres>
-<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
-</regex>
-<regex>
-<name>hls</name>
-<expres>x-mpegurl" src="(.*?)"</expres>
-<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
-</regex>
-<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
-
-
+<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
+</item>	
 ]]></listrepeat>
-<expres><![CDATA[title=(.*?)&channel=(.*?)"]]></expres>
-<page>http://www.liveonlinetv247.info/sports-channels.php</page>
-
-</regex>
-<thumbnail>https://s29.postimg.org/ft4uzzz4n/sport.jpg</thumbnail>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
+/////////////
 
-////////////////////////
 <item>
-<title>[COLOR turquoise]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s1)[/COLOR]</title>
+<title>[COLOR turquoise][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s2)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i2.wp.com/observergm.com/wp-content/uploads/2016/12/sport.png?fit=620%2C324&ssl=1</thumbnail>
 <fanart>http://repo.streamlive.to/plugin.video.streamlive.to/fanart.jpg</fanart>
@@ -129,22 +110,6 @@
 </item>
 //////////////////////////
 
-<item>
-<title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s2)[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]  </title>
-<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
-<page>https://avezy.tk/</page>
-<Agent>Mozilla</Agent>
-</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-</item>
-/////////////
 <item>
 <title>7 Giờ Trữ Tình</title>
 <link>ignorme</link>
@@ -173,4 +138,3 @@
 <thumbnail>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
-
