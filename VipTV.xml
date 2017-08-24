@@ -28,6 +28,15 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
+<item> 
+<title>[COLOR cyan][B]Server gmcllc.de:25461(VN)[/B][/COLOR]</title> 
+<link>ignore</link>
+  <externallink>http://gmcllc.de:25461/get.php?username=აპანდ15&amp;password=საპრინდრო&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<thumbnail>http://www.cubela-gradnja.hr/ico/OSlogo.PNG</thumbnail>
+<page></page>
+</item> 
+
+////////////////////////////
 <item>
 <title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -138,3 +147,4 @@
 <thumbnail>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://yt3.ggpht.com/-LeHINzm1U3I/AAAAAAAAAAI/AAAAAAAAAAA/Owl2BWIdHws/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
+
