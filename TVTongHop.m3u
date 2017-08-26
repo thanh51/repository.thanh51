@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 25.08.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 26.08.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1,[COLOR=yellow][B]>> Cần Addon Plexus <<[/B][/COLOR]
@@ -281,9 +281,13 @@ http://cdn-l1.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDA
 #EXTINF:-1 group-title="mobiTV" tvg-logo="http://static.mobitv.online/91cce024-2bc9-4263-a25f-e99b439d688b.jpg",mobiTV:Fox Sport 2
 http://cdn-l1.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiMTczNWVkNTYtNWE4ZS00YmJjLWFlYzktY2MxZTU5Nzc5YThjIiwiZXhwIjoxNTAyMjc5MjM0MDY2fQ.MFLexj1xGqz_8BT4CpDqacmLFGcVlyG9CEqrfZ-xDDE/hls/6adf97f83acf6453d4a6a4b1070f3754/FOX-SPORT/FOX-SPORT.m3u8|User-Agent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
-http://118.107.68.10:1935/live/_definst_/VTV1HD_12806b51bdf7ac364126%20/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
+http://m.tvplay.vn:9999/hdvtv/smil:vtv1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.mobitv.online/6678a695-4d4c-4f6b-8b96-d112023243ea.jpg",VTV2
+http://m.tvplay.vn:9999/hdvtv/smil:vtv1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.mobitv.online/0c7a6907-4c8d-47e2-961c-83ac2a952f6c.jpg",VTV7
+http://m.tvplay.vn:9999/hdvtv/smil:vtv1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.mobitv.online/3a20013e-0d4f-4d2e-9d3a-8049ceef66be.jpg",VTV9
 http://m.tvplay.vn:9999/hdvtv/smil:vtv1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
