@@ -1,14 +1,14 @@
 <item>
-<title>SPORTS DEVIL LIVE TV</title>
+<title>[COLOR cyan]SPORTS DEVIL LIVE TV[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
-	<item>
-<title>ALL ACESTREAMS</title>
+//////////////
+<item>
+<title>[COLOR cyan]ALL ACESTREAMS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -26,10 +26,10 @@
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
+////////////////////
 
 <item>
-<title>TORRENT TV WORLD</title>
+<title>[COLOR cyan]TORRENT TV WORLD[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -48,10 +48,10 @@
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
+///////////////////
 <items>
 <item>
-<title>ROJA IPTV M3U</title>
+<title>[COLOR cyan]ROJA IPTV M3U[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
@@ -83,25 +83,19 @@
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 </item>
-
+/////////////////////////
 	
-
-
-
-
-
-
 <item>
-<title>EDOCTOR</title>
+<title>[COLOR cyan]EDOCTOR[/COLOR]</title>
 <link>rs</link>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</externallink>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
+///////////////////
 <item>
-<title>FLUXUS TV</title>
+<title>[COLOR cyan]FLUXUS TV[/COLOR]</title>
 <link>rs</link>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
@@ -109,12 +103,10 @@
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 
-
- 
-
+////////////////////////
 
 <item>
- <title>IPTV EMBED</title>
+ <title>[COLOR cyan]IPTV EMBED[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -134,10 +126,10 @@
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
+///////////////////////////
 
 <item>
-<title>DAILY IPTV M3U 2</title>
+<title>[COLOR cyan]DAILY IPTV M3U 2[/COLOR]</title>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <link>$doregex[makelist]</link>
@@ -170,12 +162,12 @@
 </regex>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-
+///////////////////////
 </item>
 
 
-item>
-<title>Ustreamix Beta</title>
+<item>
+<title>[COLOR cyan]Ustreamix Beta[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://www.tvaddons.ag/forums/images/tvaddons/misc/tvaddons-retinafooter.png</thumbnail>
 <regex>
@@ -192,12 +184,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
   channels = re.findall('<a href="(.*?)".*?>(.*?)<.*?live">(.*?)<',page_data)
   return sorted(channels)
 ]]></expres>
-<page>https://beta.ustreamix.com/</page>
+<page>https://v2.ustreamix.com/</page>
 </regex>
 <regex>
 <name>get-url</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://beta.ustreamix.com/[makelist.param1]'):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://v2.ustreamix.com/[makelist.param1]'):
   import re, requests
   hdr = {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X)'}
   html = requests.get(url,headers=hdr).text
@@ -219,12 +211,12 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://beta.ustreamix.com/[makelis
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 </item>
-
+//////////////////////////
 
 
 
 <item>
-<title>DAILY PLAYLIST COUNTRIES</title>
+<title>[COLOR cyan]DAILY PLAYLIST COUNTRIES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 
@@ -280,13 +272,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://beta.ustreamix.com/[makelis
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
+/////////////////////////
 
 
 
 
 <item>
-<title>M3U LIST</title>
+<title>[COLOR cyan]M3U LIST[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 
@@ -364,7 +356,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
  
  <item>
-<title>DiarLima IPTV BRASIL </title>
+<title>[COLOR cyan]DiarLima IPTV BRASIL[/COLOR] </title>
 <link>rs</link>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <externallink>http://secretv.j2mf4.com/RSIPTV/World/brasil.html</externallink>
@@ -375,7 +367,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 
 <item>
-<title>WORLD DAILY SERVERS IPTV</title>title>
+<title>[COLOR cyan]WORLD DAILY SERVERS IPTV[/COLOR]</title>title>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <link>$doregex[makelist]</link>
@@ -395,7 +387,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </regex>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
-
+///////////////////////////
 
 
 
@@ -442,7 +434,7 @@ item>
 
 
 <item>
-<title>SERVER ORBIT</title>
+<title>[COLOR cyan]SERVER ORBIT[/COLOR]</title>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <link>$doregex[makelist]</link>
@@ -467,7 +459,7 @@ item>
 
 
 <item>
-<title>M3U LISTS Updated Daily</title>
+<title>[COLOR cyan]M3U LISTS Updated Daily[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -517,7 +509,7 @@ item>
 
 
 <item>
-<title>ULTIMATE IPTV</title>
+<title>[COLOR cyan]ULTIMATE IPTV[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -554,7 +546,7 @@ item>
 
 
 <item>
-<title>IPTV SHARING</title>
+<title>[COLOR cyan]IPTV SHARING[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -592,7 +584,7 @@ item>
 
 
 <item>
-<title>IPTV FREE</title>
+<title>[COLOR cyan]IPTV FREE[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
