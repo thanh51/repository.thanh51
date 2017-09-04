@@ -38,8 +38,25 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
+<item>
+<title>[COLOR skyblue][B]ThePlayersKlub[/B][/COLOR]</title>
+<thumbnail></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/thepk.co:2095\/.*?get.php.*?)<</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
-
+///////////////////
 <item> 
 <title>[COLOR pink][B]IPTV WORLD[/B][/COLOR]</title>
 <thumbnail>https://s26.postimg.org/lumy77z4p/iptvworld.jpg</thumbnail>
