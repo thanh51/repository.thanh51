@@ -40,17 +40,6 @@
 /////////////////////
 
 <item>
-<title>[COLOR turquoise][B] BunTV[/B][/COLOR]</title>
-<thumbnail></thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://178.63.91.147:8000/playlist.m3u8</externallink>
-<fanart></fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
-
-<item>
 <title>[COLOR skyblue][B]ThePlayersKlub[/B][/COLOR]</title>
 <thumbnail></fanart>
 <link>$doregex[makelist]</link>
@@ -122,6 +111,14 @@
 </item>
 
 ///////////////////////
+<item>
+<title>[B][COLOR blue] Lista IPTV Bungari[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
+<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
+<externallink>https://pastebin.com/XDMUSEUW/raw.m3u$$TSDOWNLOADER$$</externallink>
+</item>
+////////////////////////
 <item>
 <title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
