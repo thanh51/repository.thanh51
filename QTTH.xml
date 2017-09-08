@@ -19,11 +19,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=nbc-sn', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=nbc-sn', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=nbc-sn&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=nbc-sn</page>
+<page>http://ustreamyx.com/stream.php?id=nbc-sn</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -46,11 +46,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-sports-1-b', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=fox-sports-1-b', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=fox-sports-1-b&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</page>
+<page>http://ustreamyx.com/stream.php?id=fox-sports-1-b</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -74,11 +74,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-sports-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=fox-sports-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=fox-sports-2&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=fox-sports-2</page>
+<page>http://ustreamyx.com/stream.php?id=fox-sports-2</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -102,11 +102,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=bt-sport-1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=bt-sport-1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=bt-sport-1&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=bt-sport-1</page>
+<page>http://ustreamyx.com/stream.php?id=bt-sport-1</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -129,11 +129,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=bt-sport-1-v2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=bt-sport-1-v2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=bt-sport-1-v2&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=bt-sport-1-v2</page>
+<page>http://ustreamyx.com/stream.php?id=bt-sport-1-v2</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -156,11 +156,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=bt-sport-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=bt-sport-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=bt-sport-2&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=bt-sport-2</page>
+<page>http://ustreamyx.com/stream.php?id=bt-sport-2</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -184,11 +184,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sky-sports-1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sky-sports-1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sky-sports-1&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sky-sports-1</page>
+<page>http://ustreamyx.com/stream.php?id=sky-sports-1</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -212,11 +212,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sky-sports-2-b', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sky-sports-2-b', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sky-sports-2-b&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sky-sports-2-b</page>
+<page>http://ustreamyx.com/stream.php?id=sky-sports-2-b</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -240,11 +240,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sky-sports-f1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sky-sports-f1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sky-sports-f1&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sky-sports-f1</page>
+<page>http://ustreamyx.com/stream.php?id=sky-sports-f1</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -267,11 +267,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=espn', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=espn', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=espn&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=espn</page>
+<page>http://ustreamyx.com/stream.php?id=espn</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -295,11 +295,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sport-tv-1-pt', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sport-tv-1-pt', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sport-tv-1-pt&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sport-tv-1-pt</page>
+<page>http://ustreamyx.com/stream.php?id=sport-tv-1-pt</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -322,11 +322,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sport-tv-3-pt', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sport-tv-3-pt', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sport-tv-3-pt&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sport-tv-3-pt</page>
+<page>http://ustreamyx.com/stream.php?id=sport-tv-3-pt</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -349,11 +349,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=premier-sports', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=premier-sports', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=premier-sports&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=premier-sports</page>
+<page>http://ustreamyx.com/stream.php?id=premier-sports</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -377,11 +377,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tennis-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=tennis-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=tennis-channel&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=tennis-channel</page>
+<page>http://ustreamyx.com/stream.php?id=tennis-channel</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -404,11 +404,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tsn1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=tsn1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=tsn1&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=tsn1</page>
+<page>http://ustreamyx.com/stream.php?id=tsn1</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -431,11 +431,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tsn-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=tsn-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=tsn-2&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=tsn-2</page>
+<page>http://ustreamyx.com/stream.php?id=tsn-2</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -458,11 +458,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tsn3', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=tsn3', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=tsn3&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=tsn3</page>
+<page>http://ustreamyx.com/stream.php?id=tsn3</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -486,11 +486,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tsn4', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=tsn4', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=tsn4&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=tsn4</page>
+<page>http://ustreamyx.com/stream.php?id=tsn4</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -514,11 +514,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tsn5', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=tsn5', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=tsn5&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=tsn5</page>
+<page>http://ustreamyx.com/stream.php?id=tsn5</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -541,11 +541,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=canal-plus-sport-france', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=canal-plus-sport-france', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=canal-plus-sport-france&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=canal-plus-sport-france</page>
+<page>http://ustreamyx.com/stream.php?id=canal-plus-sport-france</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -568,11 +568,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=cbs-sports-network', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=cbs-sports-network', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=cbs-sports-network&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=cbs-sports-network</page>
+<page>http://ustreamyx.com/stream.php?id=cbs-sports-network</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -595,11 +595,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sports-net-world', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sports-net-world', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sports-net-world&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sports-net-world</page>
+<page>http://ustreamyx.com/stream.php?id=sports-net-world</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -622,11 +622,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sportsnet-ontario', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sportsnet-ontario', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sportsnet-ontario&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sportsnet-ontario</page>
+<page>http://ustreamyx.com/stream.php?id=sportsnet-ontario</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -649,11 +649,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sportsnet-360', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sportsnet-360', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sportsnet-360&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sportsnet-360</page>
+<page>http://ustreamyx.com/stream.php?id=sportsnet-360</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -676,11 +676,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=sportsnet-one', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=sportsnet-one', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=sportsnet-one&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=sportsnet-one</page>
+<page>http://ustreamyx.com/stream.php?id=sportsnet-one</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -703,11 +703,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=nba-tv', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=nba-tv', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=nba-tv&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=nba-tv</page>
+<page>http://ustreamyx.com/stream.php?id=nba-tv</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -730,11 +730,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-deportes', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=fox-deportes', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=fox-deportes&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=fox-deportes</page>
+<page>http://ustreamyx.com/stream.php?id=fox-deportes</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -777,11 +777,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-tv-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=fox-tv-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=fox-tv-usa&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=fox-tv-usa</page>
+<page>http://ustreamyx.com/stream.php?id=fox-tv-usa</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -804,11 +804,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=disney-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=disney-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=disney-channel&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=disney-channel</page>
+<page>http://ustreamyx.com/stream.php?id=disney-channel</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -832,11 +832,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fx-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=fx-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=fx-usa&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=fx-usa</page>
+<page>http://ustreamyx.com/stream.php?id=fx-usa</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -859,11 +859,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=spike-tv-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=spike-tv-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=spike-tv-usa&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=spike-tv-usa</page>
+<page>http://ustreamyx.com/stream.php?id=spike-tv-usa</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -886,11 +886,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=bravo-tv', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=bravo-tv', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=bravo-tv&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=bravo-tv</page>
+<page>http://ustreamyx.com/stream.php?id=bravo-tv</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -913,11 +913,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=syfy', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=syfy', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=syfy&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=syfy</page>
+<page>http://ustreamyx.com/stream.php?id=syfy</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -940,11 +940,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=hbo-comedy', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=hbo-comedy', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=hbo-comedy&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=hbo-comedy</page>
+<page>http://ustreamyx.com/stream.php?id=hbo-comedy</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -967,11 +967,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=national-geographic', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=national-geographic', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=national-geographic&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=national-geographic</page>
+<page>http://ustreamyx.com/stream.php?id=national-geographic</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -994,11 +994,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=history-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=history-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=history-channel&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=history-channel</page>
+<page>http://ustreamyx.com/stream.php?id=history-channel</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1021,11 +1021,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=animal-planet', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=animal-planet', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=animal-planet&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=animal-planet</page>
+<page>http://ustreamyx.com/stream.php?id=animal-planet</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1048,11 +1048,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=discovery-channel-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=discovery-channel-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=discovery-channel-usa&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=discovery-channel-usa</page>
+<page>http://ustreamyx.com/stream.php?id=discovery-channel-usa</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1075,11 +1075,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-news-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=fox-news-channel', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=fox-news-channel&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=fox-news-channel</page>
+<page>http://ustreamyx.com/stream.php?id=fox-news-channel</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1102,11 +1102,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=cnn', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=cnn', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=cnn&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=cnn</page>
+<page>http://ustreamyx.com/stream.php?id=cnn</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1129,11 +1129,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=france-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=france-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=france-2&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=france-2</page>
+<page>http://ustreamyx.com/stream.php?id=france-2</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1156,11 +1156,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=france-3', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=france-3', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=france-3&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=france-3</page>
+<page>http://ustreamyx.com/stream.php?id=france-3</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1183,11 +1183,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=france-5', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=france-5', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=france-5&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=france-5</page>
+<page>http://ustreamyx.com/stream.php?id=france-5</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1211,11 +1211,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=cinemax', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=cinemax', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=cinemax&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=cinemax</page>
+<page>http://ustreamyx.com/stream.php?id=cinemax</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1238,11 +1238,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=amc-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=amc-usa', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=amc-usa&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=amc-usa</page>
+<page>http://ustreamyx.com/stream.php?id=amc-usa</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1265,11 +1265,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=movies-thriller', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=movies-thriller', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=movies-thriller&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=movies-thriller</page>
+<page>http://ustreamyx.com/stream.php?id=movies-thriller</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1292,11 +1292,11 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=usa-network', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=usa-network', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=usa-network&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=usa-network</page>
+<page>http://ustreamyx.com/stream.php?id=usa-network</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -1319,15 +1319,14 @@ def GetLSProData(page_data,Cookie_Jar,m,):
   first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
   preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
   url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=telemundo', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  source = requests.get(url, headers = {'Referer': 'http://ustreamyx.com/stream.php?id=telemundo', 'User-Agent': first_ua, 'Accept': '*/*'}).text
   tok = re.findall('var jdtk="(.*?)"', source)[0]
   return preurl + 'tmg.m3u8?stream=telemundo&token=' + tok
 ]]></expres>
-<page>http://v2.ustreamix.com/stream.php?id=telemundo</page>
+<page>http://ustreamyx.com/stream.php?id=telemundo</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
 </item>
 </items>
-
 
