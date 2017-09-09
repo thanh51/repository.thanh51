@@ -120,7 +120,13 @@
 </item>
 
 ///////////////////////
-
+<item>
+<title>[COLOR limegreen][B]ZEM Sports[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<thumbnail>http://icons.iconseeker.com/png/fullsize/movie-folders---iconset/sport-1.png</thumbnail>
+</item>
+///////////////////
 <item>
 <title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
