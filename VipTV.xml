@@ -148,6 +148,14 @@
 </item>
 ///////////////////
 <item>
+<title>[COLOR limegreen][B]Streamhub[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.streamhub-sclarke/?mode=13&amp;name=LiveTV&amp;url=Live</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+///////////////////
+
+<item>
 <title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
