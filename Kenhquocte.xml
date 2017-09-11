@@ -125,65 +125,6 @@
 //////////////////////////
 
 <item>
-<title>[COLOR cyan]DAILY PLAYLIST COUNTRIES[/COLOR]</title>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-
- 
-<link>$doregex[leg2]</link>
-
-<regex>
-<name>leg2</name>
-<listrepeat><![CDATA[
-<title>[leg2.param2]</title>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-
-<link>$doregex[leg]</link>
-]]></listrepeat>
-<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-<page>http://www.dailyiptvlist.com/</page>
-</regex>
-
-
-
-<regex>
-<name>leg</name>
-<listrepeat><![CDATA[
-<title>[leg.param2]</title>
-<link>$doregex[list]</link>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-
-]]></listrepeat>
-<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
-<page>[leg2.param1]</page>
-</regex>
-
-
-
-
-<regex>
-<name>list</name>
-<listrepeat><![CDATA[
-<title>[list.param2]</title>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-
-<link>NA</link>
-<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
-<page>http[leg.param1]</page>
-<thumbnail>http://i.imgur.com/QS3c3hk.png</thumbnail>
-<fanart>http://i.imgur.com/zGAi8bi.png</fanart>
-</regex>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
-</item>
-/////////////////////////
-
-<item>
 <title>[COLOR cyan]M3U LIST[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
@@ -394,7 +335,6 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 ///////////////////////////
 
-
 <item>
 <title>[COLOR cyan]IPTV SHARING[/COLOR]</title>
 <link>$doregex[makelist2]</link>
@@ -429,42 +369,6 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
  /////////////////////////////
-
-<item>
-<title>[COLOR cyan]IPTV FREE[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] [COLOR skyblue] [makelist2.param2][/COLOR]</title>
- <link>$doregex[makelist]</link>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
-<page>http://www.iptv4free.com/search?max-results=40</page>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] [COLOR skyblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]RSIPTV[/COLOR] [makelist.param1]  </link>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
- ]]></listrepeat>
-<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
-</item>
- 
-//////////////////////////////////////
 
 <item>
 <title>[COLOR lime]UK MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
