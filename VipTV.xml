@@ -28,6 +28,16 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
+<item>
+<title>[COLOR turquoise][B] TV Beeb.vn[/B][/COLOR]</title>
+<thumbnail>https://s26.postimg.org/5hg0cvazt/beebtv.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BeebTV.m3u</externallink>
+<fanart>https://s26.postimg.org/5hg0cvazt/beebtv.png</fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+/////////////////////
 
 <item>
 <title>[COLOR turquoise][B] AsiaTV[/B][/COLOR]</title>
@@ -108,16 +118,7 @@
 </regex>
 </item>
 
-///////////////////
-<item> 
-<title>[COLOR pink][B]IPTV WORLD (VN)[/B][/COLOR]</title>
-<thumbnail>https://s26.postimg.org/lumy77z4p/iptvworld.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://client.perfectiptv.tv:8080/get.php?username=oXyg90AXWc&amp;password=Wjyw9nsg2nFIswnp&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail>https://s26.postimg.org/lumy77z4p/iptvworld.jpg</thumbnail>
-<page></page>
-</item> 
-//////////////////////////////////
+//////////////////
 
 <item>
 <title>[COLOR yellow][B]TH Quốc tế [/B][/COLOR]</title>
@@ -145,15 +146,6 @@
 <externallink>http://qapps.newgooder.com/plugintv/ListTVM3UPro.m3u$$TSDOWNLOADER$$</externallink>
 </item>
 ////////////////////////
-<item>
-<title>[B][COLOR blue]List IPTV VIP[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
-<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVts.m3u$$TSDOWNLOADER$$</externallink>
-</item>
-////////////////////////
-
 <item>
 <title>[B][COLOR blue] Lista IPTV (Expiration: 2019)[/COLOR][/B]</title>
 <link>http://ignorame</link>
@@ -226,27 +218,6 @@
 </item>
 /////////////////////
 <item>
-<title>[COLOR olive][B]Bóng Đá Anh xem theo giờ VN[/B][/COLOR]</title>
-<thumbnail>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDAnh.xml</externallink>
-<fanart>https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
-<item>
-<title>[COLOR olive][B]Bóng Đá Quốc Tế xem theo giờ VN[/B][/COLOR]</title>
-<thumbnail>https://s26.postimg.org/bod40q1eh/futbol.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BDTH(050917).xml</externallink>
-<fanart>https://s26.postimg.org/bod40q1eh/futbol.jpg</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
-
-<item>
 <title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s1)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -291,4 +262,3 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
-
