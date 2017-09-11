@@ -119,6 +119,85 @@
 </item> 
 //////////////////////////////////
 <item>
+<title>M3U LISTS Updated Daily</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] LISTS [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>SERVER [I][COLOR skyblue][makelist.param1][/COLOR][/I]   -  USER [I][COLOR deepskyblue][makelist.param2][/I][/COLOR] </title>
+ <link>NA</link>
+ <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+
+ 
+
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
+</item>
+////////////////////////
+
+<item>
+<title>[COLOR lime]UK MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
+<thumbnail>http://i.cubeupload.com/HBhFgG.png</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/UK%20MENU.xml</externallink>
+</item>
+///////////////
+<item>
+<title>[COLOR lime]USA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
+<thumbnail>http://i.cubeupload.com/GegKzO.png</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/USA%20MENU.xml</externallink>
+</item>
+/////////////////////
+<item>
+<title>[COLOR lime]FRANCA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
+<thumbnail>http://i.imgur.com/n34lbNA.png</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/FRANCA%20MENU.xml</externallink>
+</item>
+//////////////////////////
+<item>
+<title>[COLOR lime]ALEMANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
+<thumbnail>http://i.cubeupload.com/DabcBF.png</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/GERMANY%20MENU.xml</externallink>
+</item>
+///////////////////////////
+
+<item>
+<title>[COLOR lime]ESPANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
+<thumbnail>http://i.imgur.com/aKAxX67.png</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/ESPANHA%20MENU.xml</externallink>
+</item>
+/////////////////////////////
+<item>
 <title>[COLOR yellow][B]TH Quốc tế TH [/B][/COLOR]</title>
 <thumbnail>https://s29.postimg.org/6s02eh0kn/tvonline.jpg</thumbnail>
 <link>http://ignoreme</link>
