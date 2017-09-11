@@ -7,48 +7,7 @@
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 //////////////
-<item>
-<title>[COLOR cyan]ALL ACESTREAMS[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] [makelist.param1]</title>
-	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
-	<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-]]></listrepeat>
-<expres>EXTINF.*?,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.all.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-	<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
-</item>
-////////////////////
 
-<item>
-<title>[COLOR cyan]TORRENT TV WORLD[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] [makelist.param2]   </title>
-<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-]]></listrepeat>
-<expres><![CDATA[location>(.*?acelive)<[\w\W\s]{0,30}title>(.*?)<]]></expres>
-<page>https://www.trambroid.com/playlist.xspf</page>
-<referer></referer>
- 
-</regex>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
-</item>
-///////////////////
 <items>
 <item>
 <title>[COLOR cyan]ROJA IPTV M3U[/COLOR]</title>
@@ -335,43 +294,6 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 ///////////////////////////
-
-<item>
-<title>IPTV ULTRA</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] [COLOR lime] [makelist.param2][/COLOR]</title>
-   <link>$doregex[makelist2]</link>
-]]></listrepeat>
-<expres><![CDATA[href="([^"]+)">(.*?)</a]]></expres>
-<page>http://www.iptvultra.com/2017/07/daily-fresh-playlists-107-files-30-07.html</page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] [COLOR lime] [makelist2.param1][/COLOR]</title>
-   <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-   <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=RSIPTV [makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
-]]></listrepeat>
-<expres><![CDATA["\d+.{3}(.*?)\s\[.+?\](http.*?)"]]></expres>
-<page>[makelist.param1]?get=download_m3u8</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist2.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1')</expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
-</item>
-
-////////////////////
-
 
 <item>
 <title>[COLOR cyan]SERVER ORBIT[/COLOR]</title>
