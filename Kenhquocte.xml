@@ -162,58 +162,8 @@
 </regex>
 <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
-///////////////////////
-</item>
-
-
-<item>
-<title>[COLOR cyan]Ustreamix Beta[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://www.tvaddons.ag/forums/images/tvaddons/misc/tvaddons-retinafooter.png</thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue][makelist.param2][/COLOR][COLOR yellow][makelist.param3][/COLOR]</title>
-<link>$doregex[get-url]|User-Agent=iPad</link>
-<info>[makelist.param3]</info>
-<thumbnail>https://www.tvaddons.ag/forums/images/tvaddons/misc/tvaddons-retinafooter.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re
-  channels = re.findall('<a href="(.*?)".*?>(.*?)<.*?live">(.*?)<',page_data)
-  return sorted(channels)
-]]></expres>
-<page>https://v2.ustreamix.com/</page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://v2.ustreamix.com/[makelist.param1]'):
-  import re, requests
-  hdr = {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X)'}
-  html = requests.get(url,headers=hdr).text
-  uip = re.findall("x_first_ip = '(.*?)'",html,re.DOTALL)[0]
-  ohtm = eval(re.findall('Obfuscator.*?var.*?(\[.*?\])',html,re.DOTALL)[0])
-  oval = int(re.findall('replace.*?- (\d*)',html)[0])
-  phtml = ''
-  for oht in ohtm:
-    phtml += chr(int(re.findall('\D*(\d*)',oht.decode('base64'))[0]) - oval)
-  strurl = re.findall("var stream = '(.*?)'",phtml)[0]
-  hdr['Referer'] = url
-  tokpg = requests.get('https://mir.hulkfiles.com/stats.php?p=%s'%uip,headers=hdr).text
-  token = re.findall('jdtk="(.*?)"',tokpg)[0]
-  return strurl+token
-]]></expres>
-<page></page>
-</regex>
-<info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
-<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 </item>
 //////////////////////////
-
-
 
 <item>
 <title>[COLOR cyan]DAILY PLAYLIST COUNTRIES[/COLOR]</title>
@@ -273,9 +223,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://v2.ustreamix.com/[makelist.
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 /////////////////////////
-
-
-
 
 <item>
 <title>[COLOR cyan]M3U LIST[/COLOR]</title>
@@ -364,7 +311,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 
-
+///////////////////
 
 <item>
 <title>[COLOR cyan]WORLD DAILY SERVERS IPTV[/COLOR]</title>title>
@@ -389,14 +336,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </item>
 ///////////////////////////
 
-
-
-
-
-
-
-
-item>
+<item>
 <title>IPTV ULTRA</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -430,7 +370,7 @@ item>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 
-
+////////////////////
 
 
 <item>
@@ -455,7 +395,7 @@ item>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 
-
+//////////////////////
 
 
 <item>
@@ -495,19 +435,7 @@ item>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+/////////////////
 <item>
 <title>[COLOR cyan]ULTIMATE IPTV[/COLOR]</title>
 <link>$doregex[makelist2]</link>
@@ -542,7 +470,7 @@ item>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
 
-
+///////////////////////////
 
 
 <item>
@@ -578,10 +506,7 @@ item>
 <fanart>http://i.imgur.com/GAbvzTU.png</fanart>
 <info>AMERIKANOTUGA - Os Links são adquiridos através de uma busca livre pela Internet</info>
 </item>
- 
-
-
-
+ /////////////////////////////
 
 <item>
 <title>[COLOR cyan]IPTV FREE[/COLOR]</title>
@@ -598,9 +523,6 @@ item>
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
 <page>http://www.iptv4free.com/search?max-results=40</page>
 </regex>
-
-
-
 
 
 <regex>
@@ -622,10 +544,6 @@ item>
  
 //////////////////////////////////////
 
-
-
-
-
 <item>
 <title>[COLOR lime]UK MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/HBhFgG.png</thumbnail>
@@ -633,7 +551,7 @@ item>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/UK%20MENU.xml</externallink>
 </item>
-
+///////////////////
 <item>
 <title>[COLOR lime]USA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/GegKzO.png</thumbnail>
@@ -641,7 +559,7 @@ item>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/USA%20MENU.xml</externallink>
 </item>
-
+//////////////////////
 <item>
 <title>[COLOR lime]FRANCA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/n34lbNA.png</thumbnail>
@@ -649,7 +567,7 @@ item>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/FRANCA%20MENU.xml</externallink>
 </item>
-
+///////////////////
 <item>
 <title>[COLOR lime]ALEMANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/DabcBF.png</thumbnail>
@@ -658,7 +576,7 @@ item>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/GERMANY%20MENU.xml</externallink>
 </item>
 
-
+////////////////////////////
 <item>
 <title>[COLOR lime]ESPANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/aKAxX67.png</thumbnail>
@@ -666,6 +584,7 @@ item>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/ESPANHA%20MENU.xml</externallink>
 </item>
+//////////////////////////
 
 <item><title>Sopcast:AXN</title><link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&amp;mode=2&amp;name=AXN</link><thumbnail></thumbnail></item>
 <item><title>Sopcast:HBO 2</title><link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&amp;mode=2&amp;name=HBO</link><thumbnail></thumbnail></item>
