@@ -40,16 +40,6 @@
 </item>
 /////////////////////
 <item>
-<title>[COLOR turquoise][B] CanadaTV[/B][/COLOR]</title>
-<thumbnail></thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://75.157.233.112:8000/playlist.m3u8</externallink>
-<fanart></fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
-<item>
 <title>[COLOR turquoise][B] TV tổng hợp (by super-pomoyka.us.to) [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
@@ -91,26 +81,6 @@
 ///////////////////
 
 <item>
-<title>[COLOR skyblue][B]client.perfectiptv.tv:8080 (VN)[/B][/COLOR]</title>
-<thumbnail></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/client.perfectiptv.tv:8080\/.*?get.php.*?)<</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-//////////////////
-
-<item>
 <title>[COLOR yellow][B]TH Quốc tế [/B][/COLOR]</title>
 <thumbnail>https://s29.postimg.org/6s02eh0kn/tvonline.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -121,7 +91,7 @@
 </item>
 /////////////////////
 <item>
-<title>[B][COLOR blue] TVts (Connections: 100000)[/COLOR][/B]</title>
+<title>[B][COLOR blue] FREE IPTV2424 (Connections: 100000)[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
 <fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
