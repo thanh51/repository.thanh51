@@ -28,16 +28,6 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
-<item>
-<title>[COLOR turquoise][B] TV Beeb.vn[/B][/COLOR]</title>
-<thumbnail>https://s26.postimg.org/5hg0cvazt/beebtv.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/BeebTV.m3u</externallink>
-<fanart>https://s26.postimg.org/5hg0cvazt/beebtv.png</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
 
 <item>
 <title>[COLOR turquoise][B] AsiaTV[/B][/COLOR]</title>
@@ -135,7 +125,7 @@
 <link>http://ignorame</link>
 <thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
 <fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>http://qapps.newgooder.com/plugintv/ListTVProM3U.m3u$$TSDOWNLOADER$$</externallink>
+<externallink>http://qapps.newgooder.com/plugintv/SportTV68.m3u$$TSDOWNLOADER$$</externallink>
 </item>
 ////////////////////////
 <item>
@@ -143,7 +133,7 @@
 <link>http://ignorame</link>
 <thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
 <fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>http://qapps.newgooder.com/plugintv/ListTVM3UPro.m3u$$TSDOWNLOADER$$</externallink>
+<externallink>http://qapps.newgooder.com/plugintv/ListAppleTVPro.m3u$$TSDOWNLOADER$$</externallink>
 </item>
 ////////////////////////
 <item>
@@ -207,16 +197,7 @@
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item>		
 /////////////////////////////////
-<item>
-<title>[COLOR lime][B]Sports IPTV[/B][/COLOR]</title>
-<thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/SPORT_%20IPTV.xml</externallink>
-<fanart>https://s29.postimg.org/txckqm8ev/sports.jpg</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
+
 <item>
 <title>[COLOR blue][B]THỂ THAO QUỐC TẾ - xem theo giờ VN + 5 Tiếng (s1)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -262,3 +243,16 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
+
+<item>
+<title>[COLOR red][B]Tìm addon[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TimAddon.xml</externallink>
+<fanart></fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+/////////////////////
+
+
