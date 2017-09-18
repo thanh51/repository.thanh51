@@ -61,26 +61,6 @@
 /////////////////////
 
 <item>
-<title>[COLOR skyblue][B]ThePlayersKlub[/B][/COLOR]</title>
-<thumbnail></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/thepk.co:2095\/.*?get.php.*?)<</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-///////////////////
-
-<item>
 <title>[COLOR yellow][B]TH Quốc tế [/B][/COLOR]</title>
 <thumbnail>https://s29.postimg.org/6s02eh0kn/tvonline.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -90,40 +70,6 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
-<item>
-<title>[B][COLOR blue] FREE IPTV2424 (Connections: 100000)[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
-<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVts.m3u$$TSDOWNLOADER$$</externallink>
-</item>
-////////////////////////
-
-<item>
-<title>[B][COLOR blue] Lista IPTVPRO 1[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
-<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>http://qapps.newgooder.com/plugintv/SportTV68.m3u$$TSDOWNLOADER$$</externallink>
-</item>
-////////////////////////
-<item>
-<title>[B][COLOR blue] Lista IPTVPRO 2[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
-<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>http://qapps.newgooder.com/plugintv/ListAppleTVPro.m3u$$TSDOWNLOADER$$</externallink>
-</item>
-////////////////////////
-<item>
-<title>[B][COLOR blue] Thai Sports[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/SPORT_%20IPTV.xml</externallink>
-</item>
-
-///////////////////////
 <item>
 <title>[COLOR silver][B]SPORTS (addon supera box)[/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -237,5 +183,4 @@
 <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
 /////////////////////////////
-
 
