@@ -43,7 +43,7 @@
 <title>[COLOR turquoise][B] TV tổng hợp (by super-pomoyka.us.to) [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://super-pomoyka.us.to/trash/ttv-list/as.direct.m3u</externallink>
+<externallink>http://pomoyka.lib.emergate.net/trash/ttv-list/as.direct.m3u</externallink>
 <fanart></fanart>
 <info></info>
 <genre>Live TV</genre>
@@ -114,7 +114,7 @@
 </item>
 ////////////////////
 <item>
-<title> [COLOR lime][B]Acestream Channels Sports - Cần addon Plexus[/B] [/COLOR]</title>
+<title> [COLOR lime][B]Acestream Channels Sports[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -124,7 +124,7 @@
 	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 ]]></listrepeat>
 <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/as.sport.player.m3u</page>
+<page>http://pomoyka.lib.emergate.net/trash/ttv-list/as.sport.player.m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
@@ -183,4 +183,3 @@
 <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
 /////////////////////////////
-
