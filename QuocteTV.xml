@@ -11,23 +11,6 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]  </title>
-<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
-<page>https://avezy.tk/</page>
-<Agent>Mozilla</Agent>
-</regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
-</item>
-//////////////////////		
-
-<item>
-<title>[COLOR yellow][B]* THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 5 Tiếng)[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
 <title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param7] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
