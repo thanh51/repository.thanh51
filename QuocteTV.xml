@@ -21,33 +21,44 @@
 </regex><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail>
 </item>
 //////////////////////		
+
 <item>
-<title>[COLOR cyan][B]* Arenavision Channels Sports (kênh AV1 đến kênh AV31)[/B][/COLOR]</title>
+<title>[COLOR yellow][B]* THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 5 Tiếng)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param7] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.ru/[makelist.param1]</page>
-			<referer>http://arenavision.ru</referer>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
- <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
-</item>	
+				<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+ 
 ]]></listrepeat>
-<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>href="/acestream1">AV 1-10<
-<page>http://arenavision.ru/</page>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://www.arenavision.ru</referer>
+<referer>http://arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
-</regex>
- <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+ </regex>
+<thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
 </item>
-////////////////////////////
+
+
+/////////////////////////////////
+
 <item><title>[COLOR olive][B]* Channels Sports[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
 
 <item><title> UK - BT Sport 1</title><sportsdevil>http://artv.watch/countries/ukusa/uk-bt-sport-1/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
@@ -93,101 +104,6 @@
 <item><title>SUPER SPORT 4</title><link>http://81.7.13.162/hls/ss4/index.m3u8</link><thumbnail></thumbnail></item>
 <item>
 
-<title>Arabic:beIN Sports 1HD Fr</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports1france</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://i.imgur.com/0vGYvd9.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 2HD Fr</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports2france</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://i.imgur.com/0UtbhZH.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 3HD Fr</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports3france</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://i.imgur.com/QusZf2J.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 1HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports1</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports1.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 2HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports2</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports2.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 3HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports3</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports3.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 4HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports4</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports4.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 5HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports5</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports5.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 6HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports6</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports6.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 7HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports7</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports7.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 8HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports8</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports8.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 9HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports9</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports9.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 10HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports10</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports10.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 11HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports11</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports11.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 12HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports12</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports12.png</thumbnail>   
-</item>
-<item>
-<title>Arabic:beIN Sports 13HD</title>
-<sportsdevil>http://embratoria.com/embed/hls/is.php?s=beinsports13</sportsdevil>
-<referer>0</referer>
-<thumbnail>http://www.liveonlinetv247.info/images/beinsports13.png</thumbnail>   
-</item>
 
 <item><title>[COLOR orange][B]* Channels Television[/B][/COLOR]</title><sportsdevil>http://artv.watch/countries/</sportsdevil><referer>0</referer><thumbnail>https://s29.postimg.org/txckqm8ev/sports.jpg</thumbnail></item>
 
@@ -222,7 +138,7 @@
 <item><title> Cartoon Network</title><sportsdevil>http://artv.watch/countries/france/cartoon-network/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> Chasse & Pêche</title><sportsdevil>http://artv.watch/countries/france/chasse-peche/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> Chérie 25</title><sportsdevil>http://artv.watch/countries/france/cherie-25/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
-<item><title>> Cine+ Classic</title><sportsdevil>http://artv.watch/countries/france/cine-classic/</sportsdevil<referer>0</referer><thumbnail></thumbnail></item>
+<item><title> Cine+ Classic</title><sportsdevil>http://artv.watch/countries/france/cine-classic/</sportsdevil<referer>0</referer><thumbnail></thumbnail></item>
 <item><title> Cine+ Emotion</title><sportsdevil>http://artv.watch/countries/france/cine-emotion/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> Cine+ Famiz</title><sportsdevil>http://artv.watch/countries/france/cine-famiz/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
 <item><title> Cine+ Frisson</title><sportsdevil>http://artv.watch/countries/france/cine-frisson/</sportsdevil><referer>0</referer><thumbnail></thumbnail></item>
@@ -420,4 +336,4 @@
 
 
 </stream>
-	
+
