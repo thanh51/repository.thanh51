@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 26.06.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 15.10.2017[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
@@ -42,7 +42,7 @@ udp://@225.1.1.226:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN HD
 udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png",Quốc Hội HD
-udp://@225.1.1.213:30120
+udp://@225.1.2.148:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN
 udp://@225.1.1.127:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN HD
@@ -207,8 +207,6 @@ udp://@225.1.2.88:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
 udp://@225.1.2.190:30120
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://i.imgur.com/eAqQO4Y.png",SCTV9
-udp://@225.1.1.1:30120
 #EXTINF:-1 group-title="SCTV" tvg-logo=http://i.imgur.com/ZZiL1Gi.png",AZ SHOP SCTV10
 udp://@225.1.2.205:30120
 
@@ -239,7 +237,7 @@ udp://225.1.2.165:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/vinh-phuc.png",VĨNH PHÚC
 udp://225.1.2.99:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thp.png",Hải Phòng HD
-udp://225.1.1.44:30120
+udp://@225.1.1.44:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-1.png",Quảng Ninh 1
 udp://225.1.2.181:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-3.png",Quảng Ninh 3
@@ -393,15 +391,13 @@ udp://@225.1.1.231:30120
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://yt3.ggpht.com/-YBAwzp9qQ1o/AAAAAAAAAAI/AAAAAAAAAAA/CoaoaqDCWeQ/s900-c-k-no/photo.jpg",Australia Plus
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth s1
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth 
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth s2
-udp://@225.1.2.29:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg",BBC LifeStyle
 udp://@225.1.2.52:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png",BBC WORLD NEWS
 udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s11.postimg.org/v7d0rqdb7/cnbc.jpg",CNBC
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1000px-CNBC_logo.svg.png",CNBC
 udp://@225.1.1.227:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://kbsworld.kbs.co.kr/images/main_logo.jpg",KBS WORLD
 udp://@225.1.2.91:30120
@@ -441,39 +437,4 @@ udp://@225.1.1.241:30120
 udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/IeuIsMr.png",FashionTV HD
 udp://@225.1.2.227:30120
-
-#EXTINF:-1 group-title="Giai Tri" tvg-logo="https://s23.postimg.org/98nz9sdjv/canhac.jpg",MUSIC 1
-udp://@225.1.1.8:30120
-#EXTINF:-1 group-title="Giai Tri" tvg-logo="https://s23.postimg.org/98nz9sdjv/canhac.jpg",MUSIC 2
-udp://@225.1.1.9:30120
-#EXTINF:-1 group-title="Giai Tri" tvg-logo="",StudioBoxChoi HD
-udp://@225.1.1.26:30120
-#EXTINF:-1 group-title="Giai Tri" tvg-logo="",StudioBoxXem
-udp://@225.1.1.97:30120
-
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR cyan]Các kênh BONG DA chỉ phát các ngày cuối tuần và nên xem trên VLC cài trên máy tính để dễ thoát khi không chạy được[/COLOR]
-http://textuploader.com
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 1 
-udp://@225.1.1.12:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 2 
-udp://@225.1.2.204:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 3 
-udp://@225.1.1.68:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 4
-udp://@225.1.1.45:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 5
-udp://@225.1.2.83:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 6
-udp://@225.1.1.32:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 7
-udp://@225.1.1.70:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 8
-udp://@225.1.2.71:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 9
-udp://@225.1.2.73:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 10
-udp://@225.1.2.75:30120
-#EXTINF:-1 group-title="BONG DA" tvg-logo="https://s11.postimg.org/x1gg1t0vn/bongda.jpg",BÓNG ĐÁ 11
-udp://@225.1.1.31:30120
-
 
