@@ -1,3 +1,5 @@
+http://txt.do/d4f1k/raw
+
 <item>
 <title>[COLOR red][B] OneTV (cho mạng FPT)[/B][/COLOR]</title>
 <thumbnail>https://s28.postimg.org/ung05osp9/onetv.jpg</thumbnail>
@@ -9,20 +11,20 @@
 </item>
 /////////////////
 <item>
-<title>[COLOR orange][B]FPTplay[/B][/COLOR]</title>
-<thumbnail>https://s29.postimg.org/l35burxnr/fpt.png</thumbnail>
+<title>[COLOR orange][B]VIỆT TV[/B][/COLOR]</title>
+<thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TV(FPT).xml</externallink>
-<fanart>https://s29.postimg.org/l35burxnr/fpt.png</fanart>
+<externallink>http://txt.do/d4mmx/raw</externallink>
+<fanart></fanart>
 <info></info>
 <genre>Live TV</genre>
 </item>
 /////////////////////
 <item>
-<title>[COLOR turquoise][B] mobiTV[/B][/COLOR]</title>
+<title>[COLOR orange][B] mobiTV[/B][/COLOR]</title>
 <thumbnail>https://s28.postimg.org/yu0ul0sb1/mobitv.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/IPTVpro.xml</externallink>
+<externallink>http://txt.do/d4ut3/raw</externallink>
 <fanart>https://s28.postimg.org/yu0ul0sb1/mobitv.jpg</fanart>
 <info></info>
 <genre>Live TV</genre>
@@ -33,14 +35,35 @@
 <title>[COLOR turquoise][B] AsiaTV[/B][/COLOR]</title>
 <thumbnail>https://s26.postimg.org/bjalek7fd/asiatv.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://183.88.212.205:8010/playlist.m3u8</externallink>
+<externallink>http://txt.do/d4uln/raw</externallink>
 <fanart>https://s26.postimg.org/bjalek7fd/asiatv.png</fanart>
 <info></info>
 <genre>Live TV</genre>
 </item>
 /////////////////////
 <item>
-<title>[COLOR turquoise][B] TV tổng hợp (by super-pomoyka.us.to) [/B][/COLOR]</title>
+<title>[COLOR olive][B]Free IPTV[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://txt.do/d4fnr/raw</externallink>
+<fanart></fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+/////////////////////
+
+<item>
+<title>[B][COLOR blue]Pro IPTV[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
+<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
+<externallink>http://qapps.newgooder.com/plugintv/ListTVProApp1.m3u$$TSDOWNLOADER$$</externallink>
+</item>
+
+///////////////////////
+
+<item>
+<title>[COLOR cyan][B] TV tổng hợp (by super-pomoyka.us.to) [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://pomoyka.lib.emergate.net/trash/ttv-list/as.direct.m3u</externallink>
@@ -50,7 +73,7 @@
 </item>
 /////////////////////
 <item>
-<title>[COLOR yellow][B] TVSportsDevil[/B][/COLOR]</title>
+<title>[COLOR grey][B] TVSportsDevil[/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TVSportsDevil.m3u</externallink>
@@ -166,6 +189,44 @@
 </item>
 //////////////////////////
 <item>
+<title>[COLOR aquamarine][B]BÓNG ĐÁ TÂY BAN NHA (LA LIGA) - Xem theo giờ VN + 5 tiếng[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+<fanart></fanart>
+<info>Adryanlist es GRATIS, pero funciona gracias a  tus donaciones, para mantener las listas y el addon funcionando, es por ello que  te pido tu apoyo realizando una pequeña donacion "VOLUNTARIA" mediante PAYPAL  ya sea al correo adrian.bu@gmail.com o  entrando directamente a la pagina http://paypal.me/adryanlist, Gracias a tus donaciones este proyecto seguira adelante</info>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+
+<thumbnail>http://adryanlist.org/adryan/img/laliga.png</thumbnail>
+</item>
+///////////////////
+
+<item>
 <title>[COLOR pink][B]Kênh Giải Trí[/B][/COLOR]</title>
 <thumbnail>https://s29.postimg.org/k14sn3ajr/giaitri.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -177,8 +238,16 @@
 /////////////////////
 
 <item>
+<title>[COLOR olive][B]PHIM NƯỚC NGOÀI[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/luafilmes</externallink>
+</item>
+/////////////////////////////
+
+<item>
 <title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]ADDON ADRYAN[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
 /////////////////////////////
+
