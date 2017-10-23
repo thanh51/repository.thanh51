@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 15.10.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 23.10.2017[/B][/COLOR]
 http://textuploader.com
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
@@ -395,6 +395,10 @@ udp://@225.1.2.21:30120
 udp://@225.1.2.24:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg",BBC LifeStyle
 udp://@225.1.2.52:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s1.postimg.org/91wmxqhsu7/foxlife.png",Fox Life
+udp://@225.1.1.204:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s1.postimg.org/91wmxqhsu7/foxlife.png",Fox Life HD
+udp://@225.1.2.236:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png",BBC WORLD NEWS
 udp://@225.1.2.74:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1000px-CNBC_logo.svg.png",CNBC
