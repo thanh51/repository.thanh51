@@ -2,17 +2,18 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Xem Chung Các Mạng (updated ngày 25/10/2017) *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Updated ngày 26/10/2017 *********[/B][/COLOR]
 http://www.youtube.com
 
-#EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addon Plexus<<<<<<<<<[/B][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần Addons: Plexus, FPTplay & Hplus<<<<<<<<<[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
 
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR red][B]Bóng Đá Anh (PREMIER LEAGUE) xem theo giờ VN[/B][/COLOR]
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR pink]Bóng Đá Anh (PREMIER LEAGUE) xem theo giờ VN[/COLOR]
 http://
+
 #EXTINF:-1 group-title="BDAnh" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/av3.png",(18h30 ngày 28/10/2017): MANCHESTER UNITED Vs TOTTENHAM - AV3+AV4 
 plugin://program.plexus/?url=acestream://0ae84bbee86ef2f775100c24e447c639849b0b8f&mode=1&name= 
 #EXTINF:-1 group-title="BDAnh" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/av27.png",(18h30 ngày 28/10/2017): MANCHESTER UNITED Vs TOTTENHAM - AV27+AV28
@@ -188,7 +189,7 @@ plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edc
 #EXTINF:-1 group-title="BDAnh" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",(18:00 ngày 31/12/2017): Crystal Palace Vs Man City - BT Sport 1
 plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&mode=1&name=  
 
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",[COLOR cyan][B]Bóng Đá TÂY BAN NHA (SPANISH LA LIGA) xem theo giờ VN[/B][/COLOR]
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",[COLOR cyan]Bóng Đá TÂY BAN NHA (SPANISH LA LIGA) xem theo giờ VN[/COLOR]
 http://
 #EXTINF:-1 group-title="BDTBN" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png",(18h00 ngày 28/10/2017): ALAVES Vs VALENCIA - AV1+AV2
 plugin://program.plexus/?url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&mode=1&name=
@@ -229,7 +230,7 @@ plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c
 #EXTINF:-1 group-title="BDTBN" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/skysports_football.png",(18h00 ngày 23/12/2017): Real Madrid Vs Barcelona - Sky Sports Football
 plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c6&mode=1&name= 
 
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",[COLOR pink][B]Bóng Đá ITALYA (ITALY SERIE A) xem theo giờ VN[/B][/COLOR]
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",[COLOR pink]Bóng Đá ITALYA (ITALY SERIE A) xem theo giờ VN[/COLOR]
 http://	
 #EXTINF:-1 group-title="BD ITALYA" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/av13.png",(23h00 ngày 28/10/2017): AC MILAN Vs JUVENTUS - AV13+AV14
 plugin://program.plexus/?url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&mode=1&name=
@@ -258,174 +259,1044 @@ plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edc
 #EXTINF:-1 group-title="BD ITALYA" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/av13.png",(02h45 ngày 31/10/2017): HELLAS VERONA Vs INTER MILAN - AV13+AV14
 plugin://program.plexus/?url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&mode=1&name= 
 
-#EXTINF:-1 tvg-logo="http://103.56.158.185/tv_icon/antv.png" group-title="VietTV",ANTV
-rtmp://123.30.191.207/hls/antv
-#EXTINF:-1 tvg-logo="http://103.56.158.185/tv_icon/nhandan.png" group-title="VietTV",NHÂN DÂN HD
-http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
-#EXTINF:-1 tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png" group-title="VietTV",QPVN
-rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p		   		  
-#EXTINF:-1 tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png" group-title="VietTV",TTXVN
-http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0		    
-#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="VietTV",SCTV5-SCJ
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8    	 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/j7NsBwD.png" group-title="VietTV",An ninh thế giới
-http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png" group-title="VietTV",NCM BTV10
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png" group-title="VietTV",Phimhay HD
-http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png" group-title="VietTV",Miền tây
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png" group-title="VietTV",SAM BTV11 
-http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://s4.postimg.org/kecndom6l/keengtv.jpg" group-title="VietTV",KEENG TV
-http://125.235.29.16/livetv/keeng.m3u8  	  
-#EXTINF:-1 tvg-logo="http://www.vietmobitv.com/vmt/images/nct.png" group-title="VietTV", NCT
-rtmp://123.30.134.108/live/nctlive
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="https://static.btlive.tv/channels/29/cd6d275e25fa1e6f5f9aaa28973f192a.png" group-title="WORLD NEWS",Bloomberg TV Asia
-http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EP482zT.png" group-title="WORLD NEWS",Channel NewsAsia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/CNN.png" group-title="WORLD NEWS",CNN International 
-http://91.121.244.94:8081/61AEEZam0uYzfuOLZxY6ceuYTZxYy8euQVRINbVI2ND6dQr2/live/cnn_id6748/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WLTxAdR.png" group-title="WORLD NEWS",earthTV
-http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
-rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.onlinetvler.com/sites/default/files/styles/logo/public/logo/trt-belgesel-hd.png",TRT BELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
-rtsp://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0,[COLOR cyan][B]******* TV dành cho mạng FPT ******[/B][/COLOR]
+http://www.youtube.com
 
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="Movies",Adult Swim Live
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uxv3s7xTYHU/maxresdefault.jpg" group-title="Movies",Band of Brothers
-http://173.208.216.114:8082/live/bandofbrothers/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="Movies",Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:-1 tvg-logo="https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/02/04/635902157570767435-1810430449_buffy-vampire-slayer.jpg" group-title="Movies",Buffy the Vampire Slayer
-http://173.208.216.114:8082/live/buffy/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheers_intro_logo.jpg" group-title="Movies",Cheers
-http://173.208.216.114:8082/live/cheers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Fireflyopeninglogo.JPG" group-title="Movies",Firefly
-http://173.208.216.114:8082/live/firefly/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://graphic-engine.swarthmore.edu/wp-content/uploads/2008/09/fringe_apple.jpg" group-title="Movies",Fringe
-http://173.208.216.114:8082/live/fringe/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="Movies",House M.D.
-http://173.208.216.114:8082/live/house/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/House_of_Cards.svg/1200px-House_of_Cards.svg.png" group-title="Movies",House of Cards
-http://173.208.216.114:8082/live/houseofcards/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/Looney%20Tunes/show-logo-looneyTunes.png?ver=2015-12-03-184959-977" group-title="Movies",Looney Tunes
-http://173.208.216.114:8082/live/looney/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.indiewire.com/wp-content/uploads/2014/09/lost-season-six.jpg" group-title="Movies",Lost
-http://173.208.216.114:8082/live/lost/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="Movies",Mr. Pickles
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/81/ab/fa/81abfa244f3a2a825968644e069da1d6.jpg" group-title="Movies",New Girl
-http://173.208.216.114:8082/live/newgirl/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="Movies",Off The Air
-http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="Movies",Rick and Morty
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Saved_by_the_Bell_logo.png" group-title="Movies",Saved by the Bell
-http://173.208.216.114:8082/live/sbtb/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Steven_Universe_logo.svg/1200px-Steven_Universe_logo.svg.png" group-title="Movies",Steven Universe
-https://live.ponies.fr/hls/sug-hd/sug.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/scenome.com/wp-content/uploads/2015/05/Suits.jpeg" group-title="Movies",Suits
-http://173.208.216.114:8082/live/suits/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="Movies",The Eric Andre Show
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/The%20Flintstones/character-logo-flintstones.png?ver=2016-01-17-155623-623" group-title="Movies",The Flintstones
-http://173.208.216.114:8082/live/flintstones/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nickelodeon/images/f/f9/The-ren-and-stimpy-show-4f281fc000ecc.png" group-title="Movies",The Ren & Stimpy Show
-http://173.208.216.114:8082/live/ren/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="Movies",The Venture Bros.
-http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-#EXTINF:-1 tvg-logo="http://images.amcnetworks.com/amc.com/wp-content/uploads/2010/12/the-walking-dead-logo-white-C.png" group-title="Movies",The Walking Dead
-http://173.208.216.114:8082/live/twd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://jpjam.files.wordpress.com/2013/09/the-west-wing.jpg" group-title="Movies",The West Wing
-http://173.208.216.114:8082/live/westwing/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/79126/hdtvlogo/the-wire-534909478faad.png" group-title="Movies",The Wire
-http://173.208.216.114:8082/live/thewire/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4874.png" group-title="Movies",Tim and Eric
-http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-#EXTINF:-1 tvg-logo="http://wallpaper.pickywallpapers.com/1600x1200/tom-and-jerry.jpg" group-title="Movies",Tom and Jerry
-http://173.208.216.114:8082/live/tomnjerry/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="Movies",Williams Stream
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
+udp://@225.1.1.250:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
+udp://@225.1.2.249:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2
+udp://@225.1.1.249:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
+udp://@225.1.2.13:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3
+udp://@225.1.2.167:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+udp://@225.1.2.247:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4
+udp://@225.1.1.248:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
+udp://@225.1.2.20:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5
+udp://@225.1.1.247:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
+udp://@225.1.1.131:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
+udp://@225.1.1.246:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
+udp://@225.1.2.245:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
+udp://@225.1.2.97:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8
+udp://@225.1.2.137:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
+udp://@225.1.2.166:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/qCWsfhc.png",VTV9
+udp://@225.1.1.153:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
+udp://@225.1.1.128:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
+udp://@225.1.1.226:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png",Quốc Hội HD
+udp://@225.1.2.148:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN
+udp://@225.1.1.127:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN HD
+udp://@225.1.1.91:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vietnamnet.png",VIETNAMNET
+udp://@225.1.1.194:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN
+udp://@225.1.1.54:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN HD
+udp://@225.1.1.45:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vovtv.png",VOVTV
+udp://225.1.2.171:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",ANTV
+udp://@225.1.1.22:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",ANTV HD
+udp://225.1.2.169:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/nmmH5NG.png",VTVCAB 1 - Giai Tri TV
+udp://@225.1.2.150:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/YNCzLp9.png",VTVCAB 2 - Phim Viet
+udp://@225.1.2.159:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/PTguOdx.png",VTVCab3-The Thao TV HD 
+udp://@225.1.2.240:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zr9dOPm.png",VTVCAB 4 - Van Hoa
+udp://@225.1.2.153:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png",VTVCAB 5 - E CHANNEL
+udp://@225.1.2.156:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/NCIpILU.png",VTVCAB 6 - HAY TV
+udp://@225.1.1.254:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Kyv11bZ.png",VTVCAB 7 - DRAMAS
+udp://@225.1.2.157:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Sjc6xj8.png",VTVCAB 8 - BIBI
+udp://@225.1.2.161:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/I6letfB.png",VTVCAB 9 - INFO TV
+udp://@225.1.2.154:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/aVP5nbS.png",VTVCAB 10 - O2 TV
+udp://@225.1.2.152:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Dh0hG7u.png",VTVCAB 11 - TVShopping
+udp://@225.1.1.252:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/XhCmf93.png",VTVCAB 12 - STYLE TV
+udp://@225.1.2.155:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://103.56.158.185/tv_icon/vtv-hyundai-homeshopping.png",VTVCAB 13 - VTVHuyndai
+udp://@225.1.1.122:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Ew4EaPw.png",VTVCAB 14 - Homeshopping
+udp://@225.1.1.253:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png",VTVCAB 15 - INVEST TV
+udp://@225.1.1.251:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVCab16-Bong Da TV HD 
+udp://@225.1.2.242:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/2nOJwku.png",VTVCAB 17 - YEAH1 TV
+udp://@225.1.2.151:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s28.postimg.org/l4cgsi8t9/vtvcab19.png",VTVcab19 Film 
+udp://@225.1.2.207:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/iyg21My.png",VTVCAB 20 - Family
+udp://@225.1.1.15:30120
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://s30.postimg.org/qyyzegnip/vtvcab21hd.jpg",VTVcab21 HD 
+udp://@225.1.2.103:30120
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png",An Ninh The Gioi
+udp://@225.1.1.208:30120
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",NCM BYV10
+udp://@225.1.1.216:30120
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",PHIM HAY
+udp://@225.1.1.222:30120
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",Mien Tay
+udp://@225.1.1.220:30120
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png",Viet Teen
+udp://@225.1.1.223:30120
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/sam.png",SAM CHANNEL
+udp://@225.1.1.224:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/kFSFBHp.png",Ha Noi 1 HD
+udp://@225.1.2.186:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/JHYNvNs.png",Ha Noi 2 HD
+udp://@225.1.1.125:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/eIbgrWr.png",HiTV hanoicab1
+udp://@225.1.1.209:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/FD1sjQe.png",MOV HanoiCab4
+udp://@225.1.1.206:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/1tlm1zw.png",HanoiCab Shopping
+udp://@225.1.1.210:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/7uqtQEM.png",YOU HanoiCab4
+udp://@225.1.1.207:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/s7x0UhN.png",HTV2
+udp://@225.1.1.179:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/SwNJVBc.png",HTV2 HD
+udp://@225.1.1.193:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/MMQITB4.png",HTV3
+udp://@225.1.1.178:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/gkeMaOh.png",HTV4
+udp://@225.1.1.177:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/P7yWIBI.png",HTV7
+udp://@225.1.1.176:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/m603PX8.png",HTV7 HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/N3nCaWT.png",HTV9
+udp://@225.1.1.175:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/DUhJcZK.png",HTV9 HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s21.postimg.org/sbcyi4ttz/htvcthuanviet.png",HTVC Thuan Viet
+udp://@225.1.1.174:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s22.postimg.org/3uakz73td/thuanviethd.jpg",HTVC Thuần Việt HD
+udp://@225.1.1.186:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s15.postimg.org/tymsndhh7/htvcphim.jpg",HTVC Phim
+udp://@225.1.1.173:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s4.postimg.org/4ualhig7h/htvcphimhd.jpg",HTVC PHIM HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://103.56.158.185/tv_icon/fbnc.png",HTVC FBNC
+udp://@225.1.1.169:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/cP7NV5h.png",HTVC FBNC HD
+udp://@225.1.1.182:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/bULyZwy.png",HTVC The Thao
+udp://@225.1.1.165:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s3.postimg.org/3q9r5xc37/htvcgiadinh.jpg",HTVC Gia Dinh
+udp://@225.1.1.170:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s11.postimg.org/dku4jqnpf/htvcphunu.png",HTVC Phu Nu
+udp://@225.1.1.171:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s11.postimg.org/y50njcob7/dulich.jpg",HTVC Du Lich
+udp://@225.1.1.166:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://s14.postimg.org/nm0o00v41/htvcshop.png",HTVC SHOPPING
+udp://@225.1.1.172:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1
+udp://@225.1.2.203:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3
+udp://@225.1.2.201:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4 HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
+udp://@225.1.2.199:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png",VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
+udp://@225.1.2.195:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png",VTC12
+udp://@225.1.2.192:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13
+udp://@225.1.2.189:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/YnunTc5.png",VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
+udp://@225.1.2.191:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://103.56.158.185/tv_icon/vtc14-hd.png",VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
+udp://@225.1.2.190:30120
+#EXTINF:-1 group-title="SCTV" tvg-logo=http://i.imgur.com/ZZiL1Gi.png",AZ SHOP SCTV10
+udp://@225.1.2.205:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",CAO BẰNG
+udp://225.1.1.102:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s11.postimg.org/y1ijz2a83/hagiang.jpg",HA GIANG
+udp://225.1.1.62:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lao-cai.png",LÀO CAI
+udp://225.1.1.119:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/yen-bai.png",YÊN BÁI
+udp://225.1.1.39:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/j8eqRq8.png",Sơn La
+udp://225.1.1.98:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dien-bien.png",ĐIỆN BIÊN
+udp://225.1.1.74:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn
+udp://225.1.1.160:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tuyen-quang.png",Tuyên Quang
+udp://225.1.2.188:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thái Nguyên 
+udp://225.1.2.179:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hòa Bình 
+udp://225.1.2.168:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-giang.png",BẮC GIANG
+udp://225.1.1.164:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phú Thọ 
+udp://225.1.2.165:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/vinh-phuc.png",VĨNH PHÚC
+udp://225.1.2.99:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thp.png",Hải Phòng HD
+udp://@225.1.1.44:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-1.png",Quảng Ninh 1
+udp://225.1.2.181:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/quang-ninh-3.png",Quảng Ninh 3
+udp://225.1.2.180:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thai-binh.png",THAI BINH
+udp://225.1.1.99:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/B9gdrjs.png",Hải Dương 
+udp://225.1.1.158:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/eGfpF9j.png",Hưng Yên 
+udp://225.1.1.118:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-ninh.png",BẮC NINH
+udp://225.1.1.40:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HÀ NAM
+udp://225.1.1.63:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/bFzFKSL.png",Nam Định 
+udp://225.1.1.120:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ninh-binh.png",Ninh Bình
+udp://225.1.2.185:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thanh-hoa.png",THANH HÓA
+udp://225.1.2.184:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/nghe-an.png",NGHE AN
+udp://225.1.2.183:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/ABygmpS.png",Hà Tĩnh 
+udp://225.1.1.75:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/V7HjOJl.png",Quảng Bình 
+udp://225.1.2.164:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quảng Trị 
+udp://225.1.1.117:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/thua-thien-hue.png",HUẾ
+udp://225.1.1.161:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/da-nang-1.png",Đà Nẵng 1
+udp://225.1.1.147:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/da-nang-2.png",Đà Nẵng 2
+udp://@225.1.1.146:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-dinh.png",Bình Định
+udp://225.1.1.145:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/LVxKGl4.png",Quảng Ngãi
+udp://225.1.2.174:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/khanh-hoa.png",Khánh Hòa
+udp://225.1.1.133:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/VxOQqsX.png",Kon Tum 
+udp://225.1.1.36:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/gia-lai.png",GIA LAI
+udp://225.1.2.176:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/q4TvicY.png",Đắc Lắc
+udp://225.1.1.64:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/1ZCjme6.png",Lâm Đồng 
+udp://225.1.2.177:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-thuan.png",Bình Thuận 
+udp://225.1.1.124:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/IGp4PB7.png",Ninh Thuận 
+udp://225.1.2.178:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s16.postimg.org/puwy2rkzp/tayninh.jpg",TÂY NINH
+udp://225.1.1.130:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/Z5408CY.png",Long An 34 TV
+udp://225.1.1.162:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-phuoc-1.png",BÌNH PHƯỚC 1
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-phuoc-2.png",BÌNH PHƯỚC 2
+udp://@225.1.2.38:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-duong-1.png",BTV1 HD
+udp://225.1.1.150:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-duong-2.png",BTV2 HD
+udp://225.1.1.149:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/imovie-hd.png",BTV4 HD
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-1.png",Đồng Nai 1
+udp://225.1.1.152:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-2.png",Đồng Nai 2
+udp://225.1.1.151:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ba-ria-vung-tau.png",BÀ RỊA VŨNG TÀU
+udp://225.1.2.175:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl1.png",VINH LONG 1 
+udp://225.1.1.155:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl2.png",VINH LONG 2 
+udp://225.1.1.154:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/can-tho.png",CẦN THƠ
+udp://225.1.1.132:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ben-tre.png",BẾN TRE
+udp://225.1.1.156:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tra-vinh.png",TRÀ VINH
+udp://225.1.2.172:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s12.postimg.org/egpkg3ivh/soctrang.jpg",SÓC TRĂNG
+udp://225.1.1.159:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hậu Giang
+udp://225.1.1.157:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/bAslqZs.png",Kiên Giang
+udp://225.1.2.182:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tien-giang.png",Tiền Giang
+udp://225.1.2.170:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/an-giang.png",An Giang
+udp://225.1.2.173:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-lieu.png",BẠC LIÊU
+udp://225.1.1.61:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-thap.png",DONG THAP 
+udp://@225.1.1.163:30120
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/YAGwIeW.png",Cà Mau
+udp://225.1.1.104:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s13.postimg.org/o8yh7baef/hbo.png",HBO
+udp://@225.1.1.235:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO HD
+udp://@225.1.2.232:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/red-by-hbo.png", RED BY HBO
+udp://@225.1.1.65:30120 
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/red-by-hbo.png", RED BY HBO HD
+udp://@225.1.1.89:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s21.postimg.org/s9srpmz6f/starmovies.png",STARMOVIES
+udp://@225.1.1.205:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://vuapp.tranvu.info/upload//star-movie-hd.jpg",STAR MOVIES HD
+udp://@225.1.2.239:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/axn.png",AXN
+udp://@225.1.1.237:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/Pi3AFTe.png",AXN HD
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",MAX BY HBO
+udp://@225.1.1.230:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",MAX BY HBO HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CN
+udp://@225.1.1.240:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s15.postimg.org/vvi0duyyj/image.png",WARNER TV
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s3.postimg.org/4mte49l8j/cinemaworld.png",CINEMAWORLD
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cartoon-network.png",CARTOON NETWORK HD
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/wc4vczpo5/sgem.jpg",S GEM HD
+udp://@225.1.1.60:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_toonami_146580863385.png",TOONAMI HD
+udp://@225.1.2.220:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s13.postimg.org/4hex6o56v/disney.png",DISNEY CHANNEL
+udp://@225.1.1.232:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s17.postimg.org/hwdjjrwkv/disneyjr.png",DISNEY JUNIOR
+udp://@225.1.1.233:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
+udp://@225.1.1.244:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/9RsSxQt.png",National Geographic HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/eNPI6Bd.png",Discovery World HD
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/RRk8iAp.png",Outdoor Channel HD
+udp://@225.1.2.215:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/4NEVrCk.png",DA VINCI HD
+udp://@225.1.2.253:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/9iwcw4rvp/animal.jpg",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://2.bp.blogspot.com/_wWviPa3VFRE/S76Sngu7fVI/AAAAAAAAACI/_yYxpwmH-tk/s200/tlc.jpg",TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://yt3.ggpht.com/-YBAwzp9qQ1o/AAAAAAAAAAI/AAAAAAAAAAA/CoaoaqDCWeQ/s900-c-k-no/photo.jpg",Australia Plus
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth 
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg",BBC LifeStyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s1.postimg.org/91wmxqhsu7/foxlife.png",Fox Life
+udp://@225.1.1.204:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s1.postimg.org/91wmxqhsu7/foxlife.png",Fox Life HD
+udp://@225.1.2.236:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png",BBC WORLD NEWS
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1000px-CNBC_logo.svg.png",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://kbsworld.kbs.co.kr/images/main_logo.jpg",KBS WORLD
+udp://@225.1.2.91:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/cnn.png",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/pdpbe54ud/nhk.png",NHK
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s14.postimg.org/w9bfq5pi9/tv5.jpg",TV5MONDE
+udp://@225.1.1.200:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s29.postimg.org/3t1ahr1fr/24france.jpg",24 FRANCE
+udp://@225.1.2.211:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s4.postimg.org/piq8ywuql/ariang.jpg",ARIANG
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",NEWS ASIA
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/dw.png",DW
+udp://@225.1.1.203:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/dw.png",DW HD
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s21.postimg.org/oscpdmwyf/canalv.png",CHANNEL V
+udp://@225.1.1.243:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/v34Uas1.png",CHANNEL V HD
+udp://@225.1.1.188:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",STARWORLD HD
+udp://@225.1.2.237:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s12.postimg.org/6clmt5esd/asianfood.png",ASIAN FOOD CHANNEL HD
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://firstmedia.com/uploads/DIVA-HD-(new).png",DIVA
+udp://@225.1.1.199:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s17.postimg.org/8tupl9rbz/foxsport.jpg",FOX SPORT
+udp://@225.1.1.239:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/1yIIQcm.png",Fox Sports HD
+udp://@225.1.2.229:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s15.postimg.org/t99faj8bf/foxsport2.jpg",FOX SPORT2
+udp://@225.1.1.241:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/mtv.png",MTV
+udp://@225.1.1.245:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/IeuIsMr.png",FashionTV HD
+udp://@225.1.2.227:30120
 
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",Sopcast:AXN
+
+#EXTINF:0,[COLOR yellow][B]***** TV xem chung các mạng Internet ******[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV1 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv1-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV2 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV3 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv3-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV4 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv4
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV5 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv5-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV6 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv6-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV8 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv8-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTV9 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv9
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]TTXVN Thông Tấn Xã Việt Nam
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthong-tan-xa-viet-nam
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VOVTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvovtv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]QPVNQuốcPhòngVN
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquoc-phong-vn
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Quốc Hội HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquoc-hoi-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]ANTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fantv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]NhânDân
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftruyen-hinh-nhan-dan
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VietNamNet
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvietnamnet
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab1 GiảiTrí
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fgiai-tri-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab2 PhimViệt
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fphim-viet
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab3 ThểThao
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthe-thao-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab3 ThểThao HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthe-thao-tv-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab4 VănHóa
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fkenh-van-hoa
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab5 EChannel
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fe-channel
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab6 HayTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhay-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab7 DDramas
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fddramas
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab8 BiBi
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbibi
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab9 InfoTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Finfo-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab10O2TV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fo2-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab12 StyleTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fstyle-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVcab13 HyundaiHomeshopping
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtv-hyundai-homeshopping
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab14TVShopping
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftv-shopping
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab15 InvestTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Finvest-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab16 BóngĐáTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbong-da-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab16 BóngĐáTV HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbong-da-tv-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab17 Yeah1TV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fyeah1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab19 Phim
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fkenh-phim
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab20 V-Family
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fv-family
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTVCab21 SaoTV
+http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI_PLUS_clear/03.m3u8
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtv1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtv2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV3
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtv3
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV4
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtv4
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV7 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtv7-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV9 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtv9-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC DuLịch
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtvc-du-lich
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC GiaĐình
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtvc-gia-dinh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC Phim Paramount Picture VN
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fparamount-channel-vietnam
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC PhụNữ
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtvc-phu-nu
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVCThểthao
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtvc-the-thao
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC ThuầnViệt
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtvc-thuan-viet-sd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC ThuầnViệt HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhtvc-thuan-viet-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTVC FBNC
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ffbnc
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC3HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc3-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC4
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fyeah1-family-vtc4
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC5
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc5
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC6
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc6
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC7 TodayTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftodaytv-vtc7
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC8
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc8
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC9 Let'sViet
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Flets-viet
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC10 NetViet
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc10
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC11 KidsTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc11-thieu-nhi
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC12
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc12
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC13 HD ITV HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fitv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC14 HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc14-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VTC16
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvtc16
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV10 NCM
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fncm
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PhimHay
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fphim-hay
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]MiềnTây
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fmien-tay
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV6 Vietteen
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvietteen
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV11 SAM
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fsam
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]ATV An Giang
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fan-giang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BGTV Bắc Giang 1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbac-giang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BNTV Bắ cNinh
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbac-ninh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BPTV1 Bình Phước 1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbinh-phuoc-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BRT BàRịaVũngTàu
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fba-ria-vung-tau
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV BạcLiêu
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbac-lieu
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV BìnhĐịnh
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbinh-dinh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV BìnhThuận
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbinh-thuan
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV1BìnhDương1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbinh-duong-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV2 BìnhDương2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbinh-duong-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BTV4 iMovieHD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fimovie-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]CRTV CaoBằng
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fcao-bang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]CTV CàMau
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fca-mau
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DNRT1 ĐồngNai1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdong-nai-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DNRT2 ĐồngNai2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdong-nai-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DRT ĐắcLắc
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdak-lak
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DRT1 ĐàNẵng1s1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fda-nang-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DRT2 ĐàNẵng2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fda-nang-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]ĐTV ĐiệnBiên
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdien-bien
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HanoiTV1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhanoitv-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HanoiTV2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhanoitv-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HBTV HòaBình
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhoa-binh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HGTV HàGiang
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fha-giang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HGTV HậuGiang
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhau-giang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HOMEtv-BPTV2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhometv-bptv2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTTV HàTĩnh
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fha-tinh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HY HưngYên
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhung-yen
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]KG KiênGiang
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fkien-giang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]KonTum
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fkon-tum
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]KTVKhánhHòa
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fkhanh-hoa
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]LA34 LongAn
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Flong-an
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]LSTV LạngSơn
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Flang-son
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]LTV LâmĐồng
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Flam-dong
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]NBTV NinhBình
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fninh-binh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]NTV NamĐịnh
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fnam-dinh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]NTV NghệAn
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fnghe-an
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PTQ QuảngNgãi
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquang-ngai
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PTV PhúThọ
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fphu-tho
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]QBTV QuảngBình
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquang-binh-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]QRT QuảngNam
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquang-nam
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]QRTV QuảngTrị
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquang-tri
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]QTV1 QuảngNinh1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquang-ninh-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]QTV3 QuảngNinh3
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fquang-ninh-3
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]STV SơnLa
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fson-la
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]TBTV TháiBình
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthai-binh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THBT BếnTre
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fben-tre
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THD HảiDương
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhai-duong
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THDT1 ĐồngTháp1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdong-thap
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THGL GiaLai
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fgia-lai
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THLC LàoCai
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Flao-cai
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THP HD HảiPhòngHD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fhai-phong
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THTG TiềnGiang
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftien-giang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THTPCT CầnThơ
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fcan-tho
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]HTV TràVinh
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftra-vinh
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THVL1 VĩnhLong1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthvl1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]THVL2 VĩnhLong2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvinh-long-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]TN1 TháiNguyên
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthai-nguyen
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]TRT ThừaThiênHuế
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthua-thien-hue
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]TTV ThanhHóa
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fthanh-hoa
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]TTV TuyênQuang
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftuyen-quang
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]VP VĩnhPhúc
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fvinh-phuc
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]YTV YênBái
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fyen-bai
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]CinemaWorld
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fcinemaworld
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Redby HBO
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fred-by-hbo
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]WarnerTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fwarner-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]AXN
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Faxn
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BBC Earth
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbbc-earth
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BBC Lifestyle
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbbc-lifestyle
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]BBCWorldNews
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbbc-news
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Bloomberg
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fbloomberg
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]CN CartoonNetwork
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fcartoon-network
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Toonami
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ftoonami
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]CNN
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fcnn
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DaVinci Learning
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fda-vinci-learning
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Australia Plus
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Faustralia-plus
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Asian Food Channel
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fasian-food-channel
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DIVA
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdiva
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]DW
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fdw
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]Outdoor Channel HD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Foutdoor-channel
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]FashionTV
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ffashion-tv
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]FoxSports2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ffox-sports-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]FoxSportsHD
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Ffox-sports-hd
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague1
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-1
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague2
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-2
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague3
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-3
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague4
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-4
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague5
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-5
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague6
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-6
+#EXTINF:0,[COLOR orange]FPTplay[/COLOR]PremierLeague7
+plugin://plugin.video.kodi4vn.fptplay/play/https%3A%2F%2Ffptplay.net%2Flivetv%2Fpremier-league-7
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-2128.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1 HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-full-hd-1080-52524.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Quốc Hội
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Qu%E1%BB%91c%20H%E1%BB%99i%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-quoc-hoi-50069.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]QPVN Quốc Phòng VN
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22QPVN%20Qu%E1%BB%91c%20Ph%C3%B2ng%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-quoc-phong-viet-nam-50068.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]TTXVN Thông Tấn Xã Việt Nam
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TTXVN%20Th%C3%B4ng%20T%E1%BA%A5n%20X%C3%A3%20Vi%E1%BB%87t%20Nam%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thong-tan-xa-viet-nam-50070.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Nhân Dân
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Nh%C3%A2n%20D%C3%A2n%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-nhan-dan-full-hd-1080-50201.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV COOP
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV%20COOP%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-coop-sd-31973.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv1-2631.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV2
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV2%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv2-2630.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV2 HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV2%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv2-hd-2669.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV3
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV3%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv3-2535.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV4
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV4%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv4-2528.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV7
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-sd-10036.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV7 HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-hd-256.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV9
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-sd-10037.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV9 HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-hd-2667.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Ca Nhạc
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Ca%20Nh%E1%BA%A1c%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-ca-nhac-full-hd-1080-2264.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Du Lịch
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Du%20L%E1%BB%8Bch%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-du-lich-va-cuoc-song-full-hd-1080-2328.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Gia Đình
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Gia%20%C4%90%C3%ACnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-gia-dinh-full-hd-1080-2394.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Phim Paramount Picture VN
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Phim%20Paramount%20Picture%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phim-2397.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Phim Paramount Picture VN
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Phim%20Paramount%20Picture%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phim-hd-2399.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Phụ Nữ
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Ph%E1%BB%A5%20N%E1%BB%AF%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phu-nu-full-hd-1080-2393.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Plus
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Plus%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-plus-full-hd-1080-2395.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Shopping
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Shopping%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-shopping-2265.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thể Thao
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Th%E1%BB%83%20Thao%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-the-thao-2400.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thể Thao HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Th%E1%BB%83%20Thao%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-the-thao-hd-4009.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thuần Việt
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-thuan-viet-2396.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thuần Việt HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-thuan-viet-hd-2398.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC FBNC
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22FBNC%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-fbnc-2184.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]AZSHOP
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22AZSHOP%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-azshop-70471.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc1-full-hd-1080-50075.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC3 HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC3%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc3-hd-2058.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC4
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC4%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc4-2057.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC7 TodayTV
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC7%20TodayTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-todaytv-vtc7-2060.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC7 TodayTV HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC7%20TodayTV%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-todaytv-vtc7-hd-70608.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC8
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC8%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc8-2056.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC9 Let's Viet
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC9%20Let%27s%20Viet%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc9-lets-viet-2052.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC10 NetViet
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC10%20NetViet%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc10-2051.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC11 KidsTV
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC11%20KidsTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc11-50071.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC13 HD ITV HD
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC13%20HD%20ITV%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-itv-full-hd-1080-52454.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC14
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC14%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc14-full-hd-1080-50074.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC16
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC16%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc16-50072.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Miền Tây
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Mi%E1%BB%81n%20T%C3%A2y%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-mien-tay-50065.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]ATV An Giang
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22ATV%20An%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-atv-truyen-hinh-an-giang-51818.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BGTV Bắc Giang
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BGTV%20B%E1%BA%AFc%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-bgtv-truyen-hinh-bac-giang-1210.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BPTV1 Bình Phước 1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BPTV1%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-bptv1-truyen-hinh-binh-phuoc-877.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BRT Bà Rịa Vũng Tàu
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BRT%20B%C3%A0%20R%E1%BB%8Ba%20V%C5%A9ng%20T%C3%A0u%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-brt-truyen-hinh-ba-ria-1982.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV Bạc Liêu
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%E1%BA%A1c%20Li%C3%AAu%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-bac-lieu-872.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV Bình Định
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-binh-dinh-1955.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV Bình Thuận
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%C3%ACnh%20Thu%E1%BA%ADn%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-binh-thuan-53530.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV1 Bình Dương 1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV1%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv1-truyen-hinh-binh-duong-1-1907.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV2 Bình Dương 2
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV2%20B%C3%ACnh%20D%C6%B0%C6%A1ng%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv2-truyen-hinh-binh-duong-2-23963.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]CTV Cà Mau
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22CTV%20C%C3%A0%20Mau%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ctv-truyen-hinh-ca-mau-1903.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]DRT Đắc Lắc
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT%20%C4%90%E1%BA%AFc%20L%E1%BA%AFc%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt-truyen-hinh-dac-lac-1785.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]DRT1 Đà Nẵng 1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT1%20%C4%90%C3%A0%20N%E1%BA%B5ng%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt1-truyyen-hinh-da-nang-1-3268.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]DRT2 Đà Nẵng 2
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT2%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt2-truen-hinh-da-nang-2-53529.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HDTV Hải Dương
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HDTV%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-hdtv-truyen-hinh-hai-duong-871.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HGTV Hậu Giang
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HGTV%20H%E1%BA%ADu%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-hgtv-truyen-hinh-hau-giang-762.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTTV Hà Tĩnh
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTTV%20H%C3%A0%20T%C4%A9nh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-httv-truyen-hinh-ha-tinh-7796.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]KG Kiên Giang
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KG%20Ki%C3%AAn%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kg-truyen-hinh-kien-giang-774.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]KG1 Kiên Giang 1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KG1%20Ki%C3%AAn%20Giang%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kg1-truyen-hinh-kien-giang-1-6917.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]KTV Khánh Hòa
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KTV%20Kh%C3%A1nh%20H%C3%B2a%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ktv-truyen-hinh-khanh-hoa-1979.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]LA34 Long An
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LA34%20Long%20An%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-la34-truyen-hinh-long-an-873.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]LSTV Lạng Sơn
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LSTV%20L%E1%BA%A1ng%20S%C6%A1n%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-lstv-truyen-hinh-lang-son-1956.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]LTV Lâm Đồng
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LTV%20L%C3%A2m%20%C4%90%E1%BB%93ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ltv-truyen-hinh-lam-dong-55163.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]NBTV Ninh Bình
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22NBTV%20Ninh%20B%C3%ACnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-nbtv-truyen-hinh-ninh-binh-868.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]NTV Nam Định
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22NTV%20Nam%20%C4%90%E1%BB%8Bnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ntv-truyen-hinh-nam-dinh-1951.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]PTD Đắc Nông
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22PTD%20%C4%90%E1%BA%AFc%20N%C3%B4ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ptd-truyen-hinh-dac-nong-1784.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]QRT Quảng Nam
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22QRT%20Qu%E1%BA%A3ng%20Nam%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-qrt-truyen-hinh-quang-nam-1787.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]STV Sóc Trăng
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22STV%20S%C3%B3c%20Tr%C4%83ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-stv-truyen-hinh-soc-trang-1786.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THBT Bến Tre
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THBT%20B%E1%BA%BFn%20Tre%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thbt-truyen-hinh-ben-tre-61299.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THDT1 Đồng Tháp 1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THDT1%20%C4%90%E1%BB%93ng%20Th%C3%A1p%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thdt1-truyen-hinh-dong-thap-1788.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THLC Lào Cai
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THLC%20L%C3%A0o%20Cai%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thlc-truyen-hinh-lao-cai-1789.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THTPCT Cần Thơ
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THTPCT%20C%E1%BA%A7n%20Th%C6%A1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thtpct-truyen-hinh-can-tho-1980.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THTV Trà Vinh
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THTV%20Tr%C3%A0%20Vinh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thtv-truyen-hinh-tra-vinh-3254.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THVL1 Vĩnh Long 1
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20V%C4%A9nh%20Long%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl1-truyen-hinh-vinh-long-1-899.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THVL2 Vĩnh Long 2
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL2%20V%C4%A9nh%20Long%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl2-truyen-hinh-vinh-long-2-52406.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]TRT Thừa Thiên Huế
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TRT%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-trt-truyen-hinh-hue-1283.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]TTV11 Tây Ninh
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TTV11%20T%C3%A2y%20Ninh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ttv11-truyen-hinh-tay-ninh-1981.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]MTV
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22MTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-mtv-2263.html%22%7D
+#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Bình Dương FM
+plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22B%C3%ACnh%20D%C6%B0%C6%A1ng%20FM%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-binh-duong-fm-23964.html%22%7D
+
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Bt Sport 1 UK
+plugin://program.plexus/?url=acestream://96d19eb9c836e5fdced591eaeca23c1770c2a6da&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Bt Sport 2 UK
+plugin://program.plexus/?url=acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Bt Sport Euro
+plugin://program.plexus/?url=acestream://a05f669c3dd1ff5e58acd8c3282b3fe6e646dd55&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Movistar Futbol HD Es
+plugin://program.plexus/?url=acestream://3f9d427f7f0150491a2008c2dad17180983d8250&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Premier HD
+plugin://program.plexus/?url=acestream://a4b60863a84bc3049a24c3d02a099182200c0f1b&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Premier Sports Uk
+plugin://program.plexus/?url=acestream://4829bc1c27196e51ffdf502a95857354fdeac995&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky 1
+plugin://program.plexus/?url=acestream://d9135fcc98750c7baa7f0911828ca0dfd0d32054&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky 2
+plugin://program.plexus/?url=acestream://ac53af0567e4b3068b0f14cad42f575f28957d0f&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky Sport 1 Uk
+plugin://program.plexus/?url=acestream://2b9cf0c40ce9d6677b3cf4637bc5d4a6c0812aa5&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky Sport 2 Uk
+plugin://program.plexus/?url=acestream://658b4656e18cb393c8a9cc8d66d7100ef2904876&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky Sport 3 Uk
+plugin://program.plexus/?url=acestream://1839157f996b63e9e13d148df692a638a0291532&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky Sport 4 Uk
+plugin://program.plexus/?url=acestream://2d90f57b2c8a5e12b30fed41b6b5ac7a122f68ca&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky Sport 5 Uk
+plugin://program.plexus/?url=acestream://bd90b972fafedec4211b18b6c34a5c2253ae94de&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky Sports F1 Uk
+plugin://program.plexus/?url=acestream://8933c0e34bbe9448da63a806b3098d19ee909b8d&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports Arena HD
+plugin://program.plexus/?url=acestream://1c14883164419285b005a7f96d502489e80b8dc4&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports F1 HD
+plugin://program.plexus/?url=acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports Football HD
+plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c6&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports Premier League
+plugin://program.plexus/?url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports action HD
+plugin://program.plexus/?url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports cricket HD
+plugin://program.plexus/?url=acestream://bd58392b1180b79c50439bd8beb051ea1d56fa38&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports golf HD
+plugin://program.plexus/?url=acestream://7f0f325c3eafce8bfedfc43a9ddb13f063bf0879&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Sky sports main event HD
+plugin://program.plexus/?url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Super Tennis HD It
+plugin://program.plexus/?url=acestream://5c40bb4a163fe01ad299ca564047af35b3f4f280&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]МАТЧ! Футбол 1 HD
+plugin://program.plexus/?url=acestream://0c498acb9fca59cf89f8180f3bcd7aa7171ae4af&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]МАТЧ! Футбол 2 HD
+plugin://program.plexus/?url=acestream://c2eb663d4bc1d0fced00858e4011af4c8a0aae4f&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]МАТЧ! Футбол 3 HD
+plugin://program.plexus/?url=acestream://9de4faeff15442c2a793fb618cf876d3cc47f72b&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Матч Футбол 1
+plugin://program.plexus/?url=acestream://89bff46339e5b76684de8e58e8bf0d42038c015a&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Матч Футбол 2
+plugin://program.plexus/?url=acestream://032adc983a43d7039541abce7e584dd81777ec45&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Матч Футбол 2 HD
+plugin://program.plexus/?url=acestream://e20160a885d7b3ab3d9b9e4ec25c08ac65a20e09&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Матч Футбол 3
+plugin://program.plexus/?url=acestream://22c9ca863aaf868525b56f812a5cad5232d58627&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Матч Футбол 3 HD
+plugin://program.plexus/?url=acestream://f28bcb602f53b082479345073b7b10626e5632a0&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Футбол 1 HD Ua
+plugin://program.plexus/?url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Футбол 2 HD Ua
+plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Футбол-1 Укр
+plugin://program.plexus/?url=acestream://6d54f4c794fd136b9879322bf1d4103383b83f99&mode=1&name=
+#EXTINF:-1,[COLOR pink]Acestream[/COLOR]Футбол-2 Укр
+plugin://program.plexus/?url=acestream://177fb74bfb14aeb95c345a88977f3b6fe16b9146&mode=1&name=
+
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",[COLOR olive]Sopcast[/COLOR]AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",Sopcast:HBO 2
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",[COLOR olive]Sopcast[/COLOR]HBO 2
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149259&mode=2&name=HBO 2
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",Sopcast:HBO 3
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",[COLOR olive]Sopcast[/COLOR]HBO 3
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149255&mode=2&name=HBO 3
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",Sopcast:Film Cafe
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/lhrqy8uyn/filmcafe.jpg",[COLOR olive]Sopcast[/COLOR]Film Cafe
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256238&mode=2&name=Film Cafe
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",Sopcast:TV1000
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/xh54lyfd3/tv1000.png",[COLOR olive]Sopcast[/COLOR]TV1000
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256337&mode=2&name=TV1000
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",Sopcast:Filmbox
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/degirpvvz/filmbox.jpg",[COLOR olive]Sopcast[/COLOR]Filmbox
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148981&mode=2&name=Filmbox
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/llmsvh9ct/frocinema.jpg",Sopcast:Fro Cinema
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/llmsvh9ct/frocinema.jpg",[COLOR olive]Sopcast[/COLOR]Fro Cinema
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148249&mode=2&name=Fro Cinema
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/dfo48lyab/divauni.jpg",Sopcast:DIVA UNIVERSAL
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/dfo48lyab/divauni.jpg",[COLOR olive]Sopcast[/COLOR]DIVA UNIVERSAL
 plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253034&mode=2&name=DIVA UNIVERSAL
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/lyq86n2pp/paramo.jpg",Sopcast:PARAMOUNT
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/lyq86n2pp/paramo.jpg",[COLOR olive]Sopcast[/COLOR]PARAMOUNT
 plugin://program.plexus/?url=sop://broker.plugin://program.plexus/?url=sopcast.com:3912/253033&mode=2&name=PARAMOUNT
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",Sopcast:Boomerang
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/jw706m5b3/boomerang.png",[COLOR olive]Sopcast[/COLOR]Boomerang
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149264&mode=2&name=Boomerang
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Sopcast:Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",[COLOR olive]Sopcast[/COLOR]Cartoon Network
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148254&mode=2&name=Cartoon Network
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/ffzer71xx/disney.jpg",Sopcast:DISNEY
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/ffzer71xx/disney.jpg",[COLOR olive]Sopcast[/COLOR]DISNEY
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253031&mode=2&name=DISNEY
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/of5s1whi5/disneyjr.jpg",Sopcast:DISNEY JR
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/of5s1whi5/disneyjr.jpg",[COLOR olive]Sopcast[/COLOR]DISNEY JR
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256239&mode=2&name=DISNEY JR
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/r4hnzsdtj/megamax.jpg",Sopcast:MEGAMAX
+#EXTINF:-1 tvg-logo="https://s29.postimg.org/r4hnzsdtj/megamax.jpg",[COLOR olive]Sopcast[/COLOR]MEGAMAX
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256328&mode=2&name=MEGAMAX
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/y3vtg49nb/nicke.jpg",Sopcast:NICKELODEON
+#EXTINF:-1 tvg-logo="https://s29.postimg.org/y3vtg49nb/nicke.jpg",[COLOR olive]Sopcast[/COLOR]NICKELODEON
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253472&mode=2&name=NICKELODEON
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",Sopcast:National Geographic
+#EXTINF:-1 tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",[COLOR olive]Sopcast[/COLOR]National Geographic
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National Geographic
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",Sopcast:NatGeo Wild
+#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png",[COLOR olive]Sopcast[/COLOR]NatGeo Wild
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253037&mode=2&name=NatGeo wild
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Sopcast:Discovery Channel
+#EXTINF:-1 tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",[COLOR olive]Sopcast[/COLOR]Discovery Channel
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256241&mode=2&name=Discovery Channel
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",Sopcast:Discovery Science
+#EXTINF:-1 tvg-logo="http://www.discoveryscience.fr/wp-content/themes/dni_wp_theme_discovery_science/img/logo.png",[COLOR olive]Sopcast[/COLOR]Discovery Science
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256243&mode=2&name=Discovery Science
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/65pv3fcqr/discoveryid.png",Sopcast:Discovery ID
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/65pv3fcqr/discoveryid.png",[COLOR olive]Sopcast[/COLOR]Discovery ID
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256244&mode=2&name=Discovery ID
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",Sopcast:BBC Earth
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",[COLOR olive]Sopcast[/COLOR]BBC Earth
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148257&mode=2&name=BBC Earth
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s23.postimg.org/gd53j7e17/history.jpg",Sopcast:HISTORY
+#EXTINF:-1 tvg-logo="https://s23.postimg.org/gd53j7e17/history.jpg",[COLOR olive]Sopcast[/COLOR]HISTORY
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&mode=2&name=HISTORY
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s24.postimg.org/gpytq8sd1/viasathistory.jpg",Sopcast:VIASAT HISTORY
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/gpytq8sd1/viasathistory.jpg",[COLOR olive]Sopcast[/COLOR]VIASAT HISTORY
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&mode=2&name=VIASAT HISTORY
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",Sopcast:TLC
+#EXTINF:-1 tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",[COLOR olive]Sopcast[/COLOR]TLC
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&mode=2&name=TLC
 
