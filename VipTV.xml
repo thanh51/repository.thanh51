@@ -216,30 +216,12 @@
 
 <item>
 <title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.ru/[makelist.param1]</page>
-			<referer>http://arenavision.ru</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
- <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>href="/acestream1">AV 1-10<
-<page>http://arenavision.ru/</page>
-<Agent>Mozilla</Agent>
-<referer>http://www.arenavision.ru</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
- <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Arenavision.xml</externallink>
+<thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+<fanart>https://s1.postimg.org/rj8saq01b/image.jpg</fanart>
 </item>
+
 ////////////////////
 <item>
 <title> [COLOR lime][B]Acestream Channels Sports[/B] [/COLOR]</title>
@@ -304,12 +286,14 @@
 <thumbnail></thumbnail>
 </item>
 /////////////////////
+
 <item>
 <title>[COLOR olive][B]PHIM NƯỚC NGOÀI[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://bit.ly/luafilmes</externallink>
 </item>
 /////////////////////////////
+
 <item>
 <title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]ADDON ADRYAN[/B][/COLOR]</title>
 <link>http://ignorame</link>
