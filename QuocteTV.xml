@@ -4,43 +4,60 @@
 
 <item><title>[COLOR red][B]******* Cần Addon Plexus & Addon Sportsdevil *******[/B][/COLOR]</title><link>http://</link><thumbnail>https://s24.postimg.org/mal8efoxx/plexus.jpg</thumbnail><item>
 
-
 <item>
-<title>[COLOR yellow][B]* THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 6 Tiếng)[/B][/COLOR]</title>
+<title>[COLOR aquamarine][B]THỂ THAO TỔNG HỢP: Bóng đá (soccer), bóng rổ (football), tennis, đua xe...) - Xem theo giờ VN + 6 tiếng[/B][/COLOR] </title>
+<SetViewMode>55</SetViewMode>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR deepskyblue][B][makelist3.param1] [/B] [COLOR skyblue][[makelist3.param2]]  [/COLOR][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>categoria":"(.*?)","items":"(.*?)"</expres>
+<page>https://avezy.xyz/json.php</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR lightslategray][makelist2.param2] [COLOR skyblue][makelist2.param3] [COLOR deepskyblue] [B][makelist2.param5][/B] [/COLOR][/COLOR][/COLOR]</title>
 <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
+<page>https://avezy.xyz/json.php?action=listado_eventos&amp;cat=$doregex[cate]</page>
+</regex>
+
+<regex>
+<name>cate</name>
+<expres>$pyFunction:('[makelist3.param1]').replace(' ','+')</expres>
+<page></page>
+</regex>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param7] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.us/$doregex[canal]</page>
-			<referer>http://arenavision.us</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-				<regex>
-			<name>canal</name> 
-			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
-			<page></page>
-			</regex>
-			
-			<thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
- 
+<SetwatchMode>55</SetwatchMode>
+<title> [COLOR deepskyblue] [B][makelist2.param5][/B] [/COLOR] [I] Canal  [makelist.param1]  idioma:[makelist.param3] [/I]</title>
+<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
+</item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision.us/iguide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision.us</referer>
-<setcookie>beget=begetok</setcookie>
- </regex>
-<thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+<expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
+<page>https://avezy.xyz/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+//////////////////////
+<item>
+<title>[B][COLOR blue]Pro IPTV[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
+<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
+<externallink>http://qapps.newgooder.com/plugintv/ListTVProApp1.m3u$$TSDOWNLOADER$$</externallink>
 </item>
 
-
-/////////////////////////////////
+///////////////////////
 
 <item>
 <title>Sopcast:AXN</title>
