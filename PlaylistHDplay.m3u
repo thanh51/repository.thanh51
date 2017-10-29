@@ -1137,6 +1137,27 @@ plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22MTV%20%28HPlus%2
 #EXTINF:0,[COLOR cyan]HPlus[/COLOR]Bình Dương FM
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22B%C3%ACnh%20D%C6%B0%C6%A1ng%20FM%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-binh-duong-fm-23964.html%22%7D
 
+#EXTINF:-1 group-title="Sports", Sky Sports Main Event
+http://iptv4u.club/site/freeiptv?channel=skysportsmainevent&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", Sky Sports Premier League
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", Match! Futbol 1
+http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", Match! Futbol 2
+http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", Match! Futbol 3
+http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", beIN SPORTS 1
+http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", beIN SPORTS 2
+http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", beIN SPORTS 3
+http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", beIN SPORTS 4
+http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1 group-title="Sports", beIN SPORTS 5
+http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+
 #EXTINF:-1,[COLOR pink]Acestream[/COLOR]Bt Sport 1 UK
 plugin://program.plexus/?url=acestream://96d19eb9c836e5fdced591eaeca23c1770c2a6da&mode=1&name=
 #EXTINF:-1,[COLOR pink]Acestream[/COLOR]Bt Sport 2 UK
