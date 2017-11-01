@@ -1,6 +1,6 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 31.10.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 01.11.2017[/B][/COLOR]
 http:// 
 
 #EXTINF:-1,[COLOR=yellow][B]>> Cần Addon Plexus <<[/B][/COLOR]
@@ -88,6 +88,43 @@ http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1
 #EXTINF:-1 group-title="Sports", beIN SPORTS 5
 http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 
+#EXTINF:-1 group-title="QTTH",Futbol TV
+http://46.105.233.106:9090
+#EXTINF:-1 group-title="QTTH",Futbol TV2
+http://188.165.48.227:9090
+#EXTINF:-1 group-title="QTTH",Arena Sport 1
+rtmp://139.59.120.168:1935/live/arenasport1.stream
+#EXTINF:-1 group-title="QTTH",Arena Sport 2
+rtmp://139.59.120.168:1935/live/arenasport2.stream
+#EXTINF:-1 group-title="QTTH",Arena Sport 3
+rtmp://139.59.120.168:1935/live/arenasport3.stream
+#EXTINF:-1 group-title="QTTH",Arena Sport 4
+rtmp://139.59.120.168:1935/live/arenasport4.stream
+#EXTINF:-1 group-title="QTTH",Arena Sport 5
+rtmp://139.59.120.168:1935/live/arenasport5.stream
+#EXTINF:-1 group-title="QTTH",SKY SPORT2
+rtmp://139.59.120.168:1935/live/teleclub2sw.stream
+#EXTINF:-1 group-title="QTTH",TELECLUB SPORT1
+rtmp://139.59.120.168:1935/live/teleclub1sw.stream
+#EXTINF:-1 group-title="QTTH",SKY BUNDESLIGA
+rtmp://139.59.120.168:1935/live/skybundesliga1.stream
+#EXTINF:-1 group-title="QTTH",SPORT24
+rtmp://139.59.120.168:1935/live/docle1.stream
+#EXTINF:-1 group-title="QTTH",CableOnda Sports
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="QTTH",CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="QTTH",Eurosport 1
+http://185.19.188.36:8090/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="QTTH",Eurosport 2
+http://185.19.188.36:8090/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="QTTH",Bein IZ HD
+http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
+#EXTINF:-1 group-title="QTTH",Eurosport 1
+http://185.19.188.12:8090/Eurosport1/mpegts
+#EXTINF:-1 group-title="QTTH",Eurosport 2
+http://185.19.188.12:8090/Eurosport2/mpegts
+
 #EXTINF:-1 tvg-logo="http://103.56.158.185/tv_icon/antv.png" group-title="VietTV",ANTV
 rtmp://123.30.191.207/hls/antv
 #EXTINF:-1 tvg-logo="http://103.56.158.185/tv_icon/nhandan.png" group-title="VietTV",NHÂN DÂN HD
@@ -133,6 +170,103 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 group-title="QTTH",Halloween 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 group-title="QTTH", Disney Junior
+http://flus0.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Canal Panda
+http://flus0.sanpedrowifi.com/live/panda.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Somos
+http://flus0.sanpedrowifi.com/live/somos.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Telemadrid HD
+http://flus0.sanpedrowifi.com/live/telemadrid.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="QTTH", laOtra
+http://flus0.sanpedrowifi.com/live/laotra.SD.xtra/mono.m3u8
+#EXTINF:-1 group-title="QTTH",CMM TV DH
+http://flus0.sanpedrowifi.com/live/cmt.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Canal Hollywood HD
+http://flus0.sanpedrowifi.com/live/hollywood.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="QTTH", AXN
+http://flus0.sanpedrowifi.com/live/axn.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", AXN White
+http://flus0.sanpedrowifi.com/live/axnwhite.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", TNT
+http://flus0.sanpedrowifi.com/live/tnt.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", XTRM HD
+http://flus0.sanpedrowifi.com/live/xtreme.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="QTTH", AMC
+http://flus0.sanpedrowifi.com/live/amc.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", TCM
+http://flus0.sanpedrowifi.com/live/tcm.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Dark
+http://flus0.sanpedrowifi.com/live/buzzrojo.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Odisea
+http://flus0.sanpedrowifi.com/live/odisea.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", Historia
+http://flus0.sanpedrowifi.com/live/historia.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH", decasa
+http://flus0.sanpedrowifi.com/live/decasa.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="QTTH",SPIKE
+http://185.19.188.12:8090/SPIKE/mpegts
+#EXTINF:-1 group-title="QTTH",SVT 2
+http://185.19.188.12:8090/SVT2/mpegts
+#EXTINF:-1 group-title="QTTH",Trace Urban
+http://185.19.188.12:8090/TraceUrban/mpegts
+#EXTINF:-1 group-title="QTTH",TV10
+http://185.19.188.12:8090/TV10/mpegts
+#EXTINF:-1 group-title="QTTH",TV12
+http://185.19.188.12:8090/TV12/mpegts
+#EXTINF:-1 group-title="QTTH",VH1
+http://185.19.188.12:8090/VH1/mpegts
+#EXTINF:-1 group-title="QTTH",TV4 Fakta
+http://185.19.188.12:8090/TV4FAKTA/mpegts
+#EXTINF:-1 group-title="QTTH",TV4 SE
+http://185.19.188.12:8090/TV4SE/mpegts
+#EXTINF:-1 group-title="QTTH",TV4 Guld
+http://185.19.188.12:8090/TV4GULD/mpegts
+#EXTINF:-1 group-title="QTTH",BBC 1
+http://185.19.188.12:8090/BBC1/mpegts
+#EXTINF:-1 group-title="QTTH",BBC 2
+http://185.19.188.12:8090/BBC2/mpegts
+#EXTINF:-1 group-title="QTTH",Cartoon Network
+http://185.19.188.12:8090/CartoonNetwork/mpegts
+#EXTINF:-1 group-title="QTTH",CBBC
+http://185.19.188.12:8090/CBBC/mpegts
+#EXTINF:-1 group-title="QTTH",CHANNEL 5
+http://185.19.188.12:8090/CHANNEL5/mpegts
+#EXTINF:-1 group-title="QTTH",CHANNEL 4 HD
+http://185.19.188.12:8090/CHANNEL4/mpegts
+#EXTINF:-1 group-title="QTTH",FILM 4
+http://185.19.188.12:8090/FILM4/mpegts
+#EXTINF:-1 group-title="QTTH",INFO HD
+http://185.19.188.12:8090/INFO/mpegts
+#EXTINF:-1 group-title="QTTH",KANAL 11
+http://185.19.188.12:8090/KANAL11/mpegts
+#EXTINF:-1 group-title="QTTH",MORE4
+http://185.19.188.12:8090/MORE4/mpegts
+#EXTINF:-1 group-title="QTTH",PBS AMERICA
+http://185.19.188.12:8090/PBSAMERICA/mpegts
+#EXTINF:-1 group-title="QTTH",CNN
+http://185.19.188.12:8090/CNN/mpegts
+#EXTINF:-1 group-title="QTTH",E4
+http://185.19.188.12:8090/E4/mpegts
+#EXTINF:-1 group-title="QTTH",EURONEWS
+http://185.19.188.12:8090/EURONEWS/mpegts
+#EXTINF:-1 group-title="QTTH",ITV 1
+http://185.19.188.12:8090/ITV1/mpegts
+#EXTINF:-1 group-title="QTTH",ITV 2
+http://185.19.188.12:8090/ITV2/mpegts
+#EXTINF:-1 group-title="QTTH",ITV 3
+http://185.19.188.12:8090/ITV3/mpegts
+#EXTINF:-1 group-title="QTTH",ITV 4
+http://185.19.188.12:8090/ITV4/mpegts
+#EXTINF:-1 group-title="QTTH",MTV
+http://185.19.188.12:8090/MTV/mpegts
+#EXTINF:-1 group-title="QTTH",NAT GEO HD
+http://185.19.188.12:8090/NATGEO/mpegts
+#EXTINF:-1 group-title="QTTH",SKYNEWS
+http://185.19.188.12:8090/SKYNEWS/mpegts
 
 #EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
 rtmp://54.251.134.121/live/15273.sdp
