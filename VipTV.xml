@@ -1,3 +1,4 @@
+http://txt.do/d4f1k/raw
 
 <item>
 <title>[COLOR red][B] OneTV(cho mạng FPT)[/B][/COLOR]</title>
@@ -9,16 +10,7 @@
 <genre>Live TV</genre>
 </item>
 /////////////////
-<item>
-<title>[COLOR red][B] OneTV (chung các mạng)[/B][/COLOR]</title>
-<thumbnail>https://s28.postimg.org/ung05osp9/onetv.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://gg.gg/6gt19</externallink>
-<fanart>https://s28.postimg.org/ung05osp9/onetv.jpg</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////
+
 <item>
 <title>[COLOR orange][B]VIỆT TV[/B][/COLOR]</title>
 <thumbnail></thumbnail>
@@ -29,16 +21,7 @@
 <genre>Live TV</genre>
 </item>
 /////////////////////
-<item>
-<title>[COLOR orange][B] MyTV s1[/B][/COLOR]</title>
-<thumbnail>https://s1.postimg.org/9ceuwm06bj/mytv.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://txt.do/d4ut3/raw</externallink>
-<fanart>https://s1.postimg.org/9ceuwm06bj/mytv.png</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
+
 <item>
 <title>[COLOR orange][B] MyTV s2[/B][/COLOR]</title>
 <thumbnail>https://s1.postimg.org/9ceuwm06bj/mytv.png</thumbnail>
@@ -225,7 +208,37 @@
 
 ////////////////////
 <item>
-<title> [COLOR lime][B]Acestream Channels Sports[/B] [/COLOR]</title>
+<title>[COLOR pink][B]LISTS CANALS ARENAVISION[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR white] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/[makelist.param1]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
+ <fanart></fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision2017.tk</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+//////////////////
+<item>
+<title> [COLOR lime][B]Acestream Channels Sports - Server 1[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -240,9 +253,48 @@
 </regex>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 </item>		
-/////////////////////////////////
+////////////////////
+
 <item>
-<title>[COLOR yellow][B]* THI ĐẤU THỂ THAO QUỐC TẾ (xem theo giờ VN + 5 Tiếng)[/B][/COLOR]</title>
+<title> [COLOR lime][B]Acestream Channels Sports - Server 2[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>		
+/////////////////////////
+
+<item>
+<title> [COLOR lime][B]Acestream Channels Sports - Server 3[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=</link>
+	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://pomoyka.lib.emergate.net/trash/ttv-list/ace.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>		
+
+
+/////////////////////
+
+<item>
+<title>[COLOR yellow][B]* THỂ THAO QUỐC TẾ (xem giờ VN + 6 Tiếng)[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -275,19 +327,9 @@
 <thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
 </item>
 //////////////////////////
-<item>
-<title>[COLOR pink][B]Kênh Giải Trí[/B][/COLOR]</title>
-<thumbnail>https://s29.postimg.org/k14sn3ajr/giaitri.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Giaitri.xml</externallink>
-<fanart>https://s29.postimg.org/k14sn3ajr/giaitri.jpg</fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
 
 <item>
-<title>[COLOR aquamarine][B]Xem: Bóng đá (soccer), bóng rổ (football), tennis, đua xe...theo giờ VN + 6 tiếng[/B][/COLOR] </title>
+<title>[COLOR aquamarine][B]Bóng đá (soccer),bóng rổ(football), tennis...xem giờ VN + 6 tiếng[/B][/COLOR] </title>
 <SetViewMode>55</SetViewMode>
 <link>$doregex[makelist3]</link>
 <regex>
@@ -331,6 +373,16 @@
 <thumbnail></thumbnail>
 </item>
 /////////////////////
+<item>
+<title>[COLOR pink][B]Kênh Giải Trí[/B][/COLOR]</title>
+<thumbnail>https://s29.postimg.org/k14sn3ajr/giaitri.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Giaitri.xml</externallink>
+<fanart>https://s29.postimg.org/k14sn3ajr/giaitri.jpg</fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+/////////////////////
 
 <item>
 <title>[COLOR olive][B]PHIM NƯỚC NGOÀI[/B][/COLOR]</title>
@@ -345,4 +397,38 @@
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
 </item>
 /////////////////////////////
-
+<item> 
+  <title>Addon Suprabox</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.suprabox/</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+////////////////////////
+<item> 
+  <title>Addon UIPTV</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.uiptv/</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+///////////////////////////////
+<item> 
+  <title>Addon Rising.Tides</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.Rising.Tides/</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+////////////////////////////////
+<item> 
+  <title>Addon SpainTV</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.kodispaintv/</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
