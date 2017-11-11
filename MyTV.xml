@@ -1,10 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <layouttype>thumbnail</layouttype>
 
-
-#EXTM3U
-
+#EXTM3U 
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV1
 http://113.176.130.126:4022/rtp/232.84.1.27:8136
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
@@ -418,3 +416,4 @@ http://113.176.130.126:4022/rtp/232.84.1.33:8172
 http://113.176.130.126:4022/rtp/232.84.1.37:8196
 #EXTINF:-1 group-title="Radio", VOV3
 http://113.176.130.126:4022/rtp/232.84.1.34:8178
+
