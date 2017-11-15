@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV1
 http://14.175.23.93:4022/rtp/232.84.1.27:8136
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
@@ -75,6 +76,15 @@ http://14.175.23.93:4022/rtp/232.84.1.245:10344
 http://14.175.23.93:4022/rtp/232.84.1.82:8466
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/YpPmZK9.png",VTVCab-MTV HD
 http://14.175.23.93:4022/rtp/232.84.1.75:8424
+
+#EXTINF:-1 group-title="Hanoicab", Hà Nội 1
+http://14.175.23.93:4022/rtp/232.84.1.29:8148
+#EXTINF:-1 group-title="Hanoicab", Hà Nội 2
+http://14.175.23.93:4022/rtp/232.84.1.23:8112
+#EXTINF:-1 group-title="Hanoicab", HCaTV-HITV
+http://14.175.23.93:4022/rtp/232.84.1.55:8310
+#EXTINF:-1 group-title="Hanoicab",Hanoicab 5 - VNK Shopping
+http://14.175.23.93:4022/rtp/232.84.2.241:10464
  
 #EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
 http://14.175.23.93:4022/rtp/232.84.1.35:8184
@@ -199,6 +209,8 @@ http://14.175.23.93:4022/rtp/232.84.2.76:8880
 http://14.175.23.93:4022/rtp/232.84.1.152:8886
 #EXTINF:-1 group-title="DIA PHUONG", Đồng Nai 2
 http://14.175.23.93:4022/rtp/232.84.1.153:8892
+#EXTINF:-1 group-title="DIA PHUONG",DN9-AZShop
+http://14.175.23.93:4022/rtp/232.84.2.243:10476
 #EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp
 http://14.175.23.93:4022/rtp/232.84.1.154:8898
 #EXTINF:-1 group-title="DIA PHUONG", Gia Lai
@@ -207,14 +219,6 @@ http://14.175.23.93:4022/rtp/232.84.2.68:8904
 http://14.175.23.93:4022/rtp/232.84.2.85:8910
 #EXTINF:-1 group-title="DIA PHUONG", Hà Nam
 http://14.175.23.93:4022/rtp/232.84.2.82:8916
-#EXTINF:-1 group-title="DIA PHUONG", Hà Nội 1
-http://14.175.23.93:4022/rtp/232.84.1.29:8148
-#EXTINF:-1 group-title="DIA PHUONG", Hà Nội 2
-http://14.175.23.93:4022/rtp/232.84.1.23:8112
-#EXTINF:-1 group-title="DIA PHUONG", HCaTV-HITV
-http://14.175.23.93:4022/rtp/232.84.1.55:8310
-#EXTINF:-1 group-title="DIA PHUONG",Hanoicab 5 - VNK Shopping
-http://14.175.23.93:4022/rtp/232.84.2.241:10464
 #EXTINF:-1 group-title="DIA PHUONG", Hà Tĩnh
 http://14.175.23.93:4022/rtp/232.84.2.96:8922
 #EXTINF:-1 group-title="DIA PHUONG", Hải Dương
@@ -402,6 +406,11 @@ http://14.175.23.93:4022/rtp/232.84.1.91:10404
 http://14.175.23.93:4022/rtp/232.84.1.45:8250
 #EXTINF:-1 group-title="QUOC TE", Travel & Living
 http://14.175.23.93:4022/rtp/232.84.1.49:8274
+#EXTINF:-1 group-title="QUOC TE",CCTV2
+http://14.175.23.93:4022/rtp/232.84.2.240:10458
+#EXTINF:-1 group-title="QUOC TE",A+ Australia Plus
+http://14.175.23.93:4022/rtp/232.84.2.244:10482
+
 
 #EXTINF:-1 group-title="Radio", VOV Giao thông
 http://14.175.23.93:4022/rtp/232.84.1.38:8202
@@ -411,150 +420,3 @@ http://14.175.23.93:4022/rtp/232.84.1.33:8172
 http://14.175.23.93:4022/rtp/232.84.1.37:8196
 #EXTINF:-1 group-title="Radio", VOV3
 http://14.175.23.93:4022/rtp/232.84.1.34:8178
-
-#EXTINF:-1 group-title="IPTV",AMC
-http://w03.duoplay.xyz:80/071/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",ANIMAL PLANET
-http://w04.duoplay.xyz:80/100/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",AXN
-http://w01.duoplay.xyz:80/016/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",BAND SPORTS
-http://w01.duoplay.xyz:80/010/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",BIS
-http://w02.duoplay.xyz:80/059/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",BOOMERANG
-http://w03.duoplay.xyz:80/091/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",CANAL SONY
-http://w01.duoplay.xyz:80/031/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",CANAL VIVA
-http://w03.duoplay.xyz:80/079/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",CARTOON NETWORK
-http://w01.duoplay.xyz:80/027/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",CINEMAX
-http://w01.duoplay.xyz:80/018/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",COMBATE
-http://w03.duoplay.xyz:80/074/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISCOVERY CHANNEL
-http://w03.duoplay.xyz:80/066/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISCOVERY HOME & HEALTH
-http://w03.duoplay.xyz:80/078/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISCOVERY KIDS
-http://w02.duoplay.xyz:80/061/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISCOVERY WORLD
-http://w02.duoplay.xyz:80/063/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISNEY CHANNEL
-http://w03.duoplay.xyz:80/076/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISNEY JUNIOR
-http://w03.duoplay.xyz:80/087/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",DISNEY XD
-http://w03.duoplay.xyz:80/086/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",ESPN BRASIL
-http://w02.duoplay.xyz:80/035/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",ESPORTE INTERATIVO
-http://w02.duoplay.xyz:80/046/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",ESPORTE INTERATIVO 2
-http://w01.duoplay.xyz:80/025/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",ESPORTE INTERATIVO BR
-http://w02.duoplay.xyz:80/048/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",FOX PREMIUM 1
-http://w04.duoplay.xyz:80/097/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",FOX PREMIUM 2
-http://w04.duoplay.xyz:80/098/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",FOX SPORTS
-http://w02.duoplay.xyz:80/036/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",FOX SPORTS 2
-http://w01.duoplay.xyz:80/028/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",FX
-http://w01.duoplay.xyz:80/026/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",GLOBO NEWS
-http://w03.duoplay.xyz:80/075/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",GLOBO RJ
-http://w01.duoplay.xyz:80/021/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",GLOBO SP
-http://w02.duoplay.xyz:80/060/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",GLOOB
-http://w03.duoplay.xyz:80/089/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",GNT
-http://w03.duoplay.xyz:80/084/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",H2
-http://w02.duoplay.xyz:80/054/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",HBO
-http://w02.duoplay.xyz:80/053/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",HBO 2
-http://w02.duoplay.xyz:80/047/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",HBO FAMILY
-http://w03.duoplay.xyz:80/088/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",HBO PLUS
-http://w02.duoplay.xyz:80/037/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",HBO SIGNATURE
-http://w03.duoplay.xyz:80/065/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",HISTORY
-http://w03.duoplay.xyz:80/069/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",ID
-http://w02.duoplay.xyz:80/056/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",LIFE TIME
-http://w03.duoplay.xyz:80/090/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",MAX
-http://w03.duoplay.xyz:80/095/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",MAX PRIME
-http://w03.duoplay.xyz:80/092/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",MAX UP
-http://w02.duoplay.xyz:80/045/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",MEGAPIX
-http://w02.duoplay.xyz:80/033/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",MTV HD
-http://w01.duoplay.xyz:80/008/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",MULTISHOW
-http://w01.duoplay.xyz:80/009/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",NAT GEO WILD
-http://w03.duoplay.xyz:80/082/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",NATIONAL GEOGRAPHIC
-http://w04.duoplay.xyz:80/110/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",PARAMOUNT CHANNEL
-http://w03.duoplay.xyz:80/068/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",PLAYBOY TV
-http://w02.duoplay.xyz:80/052/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",SBT HD
-http://w04.duoplay.xyz:80/112/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",SPORTV 2 HD
-http://w01.duoplay.xyz:80/007/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",SPORTV HD
-http://w02.duoplay.xyz:80/057/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",STUDIO UNIVERSAL
-http://w02.duoplay.xyz:80/064/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",SUNDANCE TV
-http://w03.duoplay.xyz:80/073/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",SYFY
-http://w03.duoplay.xyz:80/093/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TBS
-http://w02.duoplay.xyz:80/038/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TCM
-http://w02.duoplay.xyz:80/039/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TELECINE ACTION HD
-http://w01.duoplay.xyz:80/004/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TELECINE CULT
-http://w02.duoplay.xyz:80/055/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TELECINE FUN
-http://w02.duoplay.xyz:80/051/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TELECINE PIPOCA HD
-http://w01.duoplay.xyz:80/001/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TELECINE PREMIUM HD
-http://w01.duoplay.xyz:80/005/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TELECINE TOUCH HD
-http://w04.duoplay.xyz:80/109/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TLC
-http://w02.duoplay.xyz:80/034/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TNT
-http://w01.duoplay.xyz:80/023/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TNT SÉRIES
-http://w01.duoplay.xyz:80/019/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TOONCAST
-http://w01.duoplay.xyz:80/011/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TRU TV
-http://w04.duoplay.xyz:80/111/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",TV CLIMA
-http://45.43.208.98:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:-1 group-title="IPTV",UNIVERSAL CHANNEL HD
-http://w01.duoplay.xyz:80/003/myStream/live.m3u8
-#EXTINF:-1 group-title="IPTV",WARNER CHANNEL
-http://w03.duoplay.xyz:80/080/myStream/live.m3u8
