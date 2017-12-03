@@ -4,47 +4,29 @@
 
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 06.11.2017[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 02.12.2017[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
-udp://@225.1.1.250:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
-udp://@225.1.2.249:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2
-udp://@225.1.1.249:30120
+udp://@225.1.2.248:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
 udp://@225.1.2.13:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3
-udp://@225.1.2.167:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
-udp://@225.1.2.247:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4
-udp://@225.1.1.248:30120
+udp://@225.1.2.246:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
 udp://@225.1.2.20:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5
-udp://@225.1.1.247:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
-udp://@225.1.1.246:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
 udp://@225.1.2.245:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
 udp://@225.1.2.97:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8
-udp://@225.1.2.137:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
 udp://@225.1.2.166:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/qCWsfhc.png",VTV9
-udp://@225.1.1.153:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
 udp://@225.1.1.128:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
-udp://@225.1.1.226:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN HD
-udp://@225.1.2.217:30120
+udp://@225.1.2.216:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png",Quốc Hội HD
 udp://@225.1.2.148:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN
@@ -108,7 +90,7 @@ udp://@225.1.2.103:30120
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png",An Ninh The Gioi
 udp://@225.1.1.208:30120
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",NCM BYV10
-udp://@225.1.1.216:30120
+udp://@225.1.1.225:30120
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",PHIM HAY
 udp://@225.1.1.222:30120
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",Mien Tay
@@ -141,12 +123,8 @@ udp://@225.1.1.193:30120
 udp://@225.1.1.178:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/gkeMaOh.png",HTV4
 udp://@225.1.1.177:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/P7yWIBI.png",HTV7
-udp://@225.1.1.176:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/m603PX8.png",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/N3nCaWT.png",HTV9
-udp://@225.1.1.175:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/DUhJcZK.png",HTV9 HD
 udp://@225.1.1.190:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="https://s21.postimg.org/sbcyi4ttz/htvcthuanviet.png",HTVC Thuan Viet
@@ -230,7 +208,7 @@ udp://225.1.1.74:30120
 udp://225.1.1.160:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/tuyen-quang.png",Tuyên Quang
 udp://225.1.2.188:30120
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thái Nguyên 
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thái Nguyên HD
 udp://225.1.2.179:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hòa Bình 
 udp://225.1.2.168:30120
@@ -252,7 +230,7 @@ udp://225.1.1.99:30120
 udp://225.1.1.158:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/eGfpF9j.png",Hưng Yên 
 udp://225.1.1.118:30120
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-ninh.png",BẮC NINH
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/bac-ninh.png",BẮC NINH HD
 udp://225.1.1.40:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HÀ NAM
 udp://225.1.1.63:30120
@@ -312,7 +290,7 @@ udp://@225.1.1.30:30120
 udp://225.1.1.152:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-2.png",Đồng Nai 2
 udp://225.1.1.151:30120
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ba-ria-vung-tau.png",BÀ RỊA VŨNG TÀU
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ba-ria-vung-tau.png",BÀ RỊA VŨNG TÀU HD
 udp://225.1.2.175:30120
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl1.png",VINH LONG 1 
 udp://225.1.1.155:30120
@@ -361,12 +339,12 @@ udp://@225.1.2.225:30120
 udp://@225.1.1.230:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cinemax.png",MAX BY HBO HD
 udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CN
+udp://@225.1.1.240:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s15.postimg.org/vvi0duyyj/image.png",WARNER TV
 udp://@225.1.1.139:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s3.postimg.org/4mte49l8j/cinemaworld.png",CINEMAWORLD
 udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CN
-udp://@225.1.1.240:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cartoon-network.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="https://s16.postimg.org/wc4vczpo5/sgem.jpg",S GEM HD
@@ -445,6 +423,5 @@ udp://@225.1.1.241:30120
 udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/IeuIsMr.png",FashionTV HD
 udp://@225.1.2.227:30120
-
 
 
