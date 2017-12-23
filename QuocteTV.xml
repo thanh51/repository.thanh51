@@ -2,10 +2,10 @@
 
 <stream>
 
-<item><title>[COLOR red][B]******* Cần Addon Plexus & Addon F4mTester *******[/B][/COLOR]</title><link>http://</link><thumbnail>https://s24.postimg.org/mal8efoxx/plexus.jpg</thumbnail><item>
+<item><title>[COLOR red][B]******* Cần Addon Plexus *******[/B][/COLOR]</title><link>http://</link><thumbnail>https://s24.postimg.org/mal8efoxx/plexus.jpg</thumbnail><item>
 
 <item>
-<title>[COLOR aquamarine][B]+ THỂ THAO: Bóng đá(soccer),bóng rổ(football),tennis,đua xe...) - Xem theo giờ VN + 6 tiếng[/B][/COLOR] </title>
+<title>[COLOR aquamarine][B]+ THỂ THAO: Bóng đá(soccer),bóng rổ(football),tennis,đua xe...- Xem theo giờ VN: + 6 tiếng(từ tháng 11 - tháng 3 năm sau), +5 tiếng(từ tháng 4 - tháng 10)[/B][/COLOR] </title>
 <SetViewMode>55</SetViewMode>
 <link>$doregex[makelist3]</link>
 <regex>
@@ -49,15 +49,6 @@
 <thumbnail></thumbnail>
 </item>
 //////////////////////
-<item>
-<title>[B][COLOR blue]+ Pro IPTV (khoảng 1240 kênh)[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</thumbnail>
-<fanart>http://www.pugliaetmores.it/public/fckeditor/image/Canosa_di_Puglia/Canosa_panorama.jpg</fanart>
-<externallink>http://qapps.newgooder.com/plugintv/ListTVProApp1.m3u$$TSDOWNLOADER$$</externallink>
-</item>
-
-///////////////////////
 
 <item>
 <title>Sopcast:AXN</title>
