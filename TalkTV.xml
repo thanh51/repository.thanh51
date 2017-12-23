@@ -30,42 +30,44 @@
 </items>
 ////////////////////////////////
  <item>
-<title>XEM PHIM (by hdtvv)</title>
+<title>XEM PHIM (by movietvdhtvh)</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/movietvdhtv</page>
+<page>http://talktv.vn/movietvdhtvh</page>
 <cookieJar></cookieJar>
 </regex>
 </item> 
 //////////////////
+
+ <item>
+<title>XEM PHIM (by inkerman)</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/inkerman</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+//////////////////
+
 <item>
 <title>BongDa TV</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/diemietthoithoi</page>
+<page>http://talktv.vn/tructipbongda</page>
 <cookieJar></cookieJar>
 </regex>
 </item> 
 //////////////////
-<item>
-<title>THVL1</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>iosUrl.+?"(.*?m3u8)"</expres>
-<page>http://talktv.vn/channelvinhlong</page>
-<cookieJar></cookieJar>
-</regex>
-</item> 
-//////////////////
+
 
 
 </items>    
 </channel>
-
 
 
