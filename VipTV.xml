@@ -8,27 +8,23 @@
 <genre>Live TV</genre>
 </item>
 /////////////////
-
 <item>
+
 <title>[COLOR cyan][B]HPlus TV[/B][/COLOR]</title>
-<thumbnail></thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://gg.gg/5pacu</externallink>
-<fanart></fanart>
-<info></info>
-<genre>Live TV</genre>
-</item>
-/////////////////////
 
-<item>
-<title>[COLOR pink][B] UK TV[/B][/COLOR]</title>
-<thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-UK-Channels-list-Vlc-Kodi.jpg</thumbnail>
+<thumbnail></thumbnail>
+
 <link>http://ignoreme</link>
-<externallink>http://163.44.207.172:9981/playlist</externallink>
-<fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-UK-Channels-list-Vlc-Kodi.jpg</fanart>
+
+<externallink>http://gg.gg/5pacu</externallink>
+
+<fanart></fanart>
+
 <info></info>
 <genre>Live TV</genre>
+
 </item>
+
 /////////////////////
 <item>
 <title>[COLOR yellow][B]TH Quốc tế [/B][/COLOR]</title>
@@ -42,21 +38,13 @@
 /////////////////////
 
 <item>
-<title>[COLOR olive][B]LiveTV - SPORTS (addon ZemTV)[/B][/COLOR]</title>
+<title>[COLOR red][B]LIVE SPORTS (cần addon SportsDevil)[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://txt.do/dlset/raw</externallink>
+<externallink>http://bit.ly/2CdDE9w</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 ///////////////////////
-
-<item>
-<title>[COLOR limegreen][B]ZEM Sports[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
-<thumbnail>http://icons.iconseeker.com/png/fullsize/movie-folders---iconset/sport-1.png</thumbnail>
-</item>
-///////////////////
 
 <item>
 <title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
@@ -154,7 +142,7 @@
 /////////////////////
 
 <item>
-<title>[COLOR aquamarine][B]Bóng đá(soccer),bóng rổ(football),tennis...xem giờ VN+6 tiếng(tháng 11 - tháng 3 năm sau)+5 tiếng(tháng 4 - tháng 10)[/B][/COLOR] </title>
+<title>[COLOR aquamarine][B]Bóng đá(soccer),bóng rổ(football),tennis...Xem giờ VN+6 tiếng (từ tháng 11 - tháng 3 năm sau), +5 tiếng((từ tháng 4 - tháng 10)[/B][/COLOR] </title>
 <SetViewMode>55</SetViewMode>
 <link>$doregex[makelist3]</link>
 <regex>
@@ -219,18 +207,9 @@
 </item>
 /////////////////////
 
-
-<item>
-<title>[COLOR olive][B]PHIM NƯỚC NGOÀI[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://bit.ly/luafilmes</externallink>
-</item>
-/////////////////////////////
-
 <item>
 <title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]ADDON ADRYAN[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
 </item>
 /////////////////////////////
-
