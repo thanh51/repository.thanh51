@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 
 <item>
 	<title>[COLOR blue]Paris by night 119 [/COLOR][COLOR red]Nhạc Vàng Muôn Thuở [/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
@@ -644,7 +644,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51squa</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -661,7 +661,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51t1tn</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -678,7 +678,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51tvtb</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -687,39 +687,7 @@
 </item>
 
 <item>
-   <title>LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1</title>
-	<link>$doregex[url]</link>
-	<regex>
-		<name>url</name>
-		<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
-		<page></page>
-	</regex>
-	<regex>                                                  
-		<name>jsonurl</name>                                                      
-		<expres>stream_hls_url":"(.*?)"</expres>
-		<page>http://www.dailymotion.com/embed/video/x2i1l8y_hopxemphim-asia-lienkhucxuan-d1_people</page>
-	</regex>
-		<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
-</item>
-<item>
-		<title>LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D2</title>
-			<link>$doregex[url]</link>
-					<regex>
-						<name>url</name>
-						<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
-						<page></page>
-					</regex>
-					<regex>                                                  
-						<name>jsonurl</name>                                                      
-						<expres>stream_hls_url":"(.*?)"</expres>
-						<page>http://www.dailymotion.com/embed/video/x2i19zj_hopxemphim-asia-lienkhucxuan-d2_animals</page>
-					</regex>
-		<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
-</item>
-
-
-<item>
-	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue]  Part 1[/COLOR]</title>
+	<title>[COLOR cyan]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
 		<regex>
 			<name>mp4</name>
@@ -728,7 +696,43 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2i1l8y</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2i19zj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x6bakl9</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -737,7 +741,7 @@
 </item>
 
 <item>
-	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue]  Part 2[/COLOR]</title>
+	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 2[/COLOR]</title>
 	<link>$doregex[mp4]</link>
 		<regex>
 			<name>mp4</name>
@@ -746,7 +750,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x6cafoz</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
