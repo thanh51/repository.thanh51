@@ -101,7 +101,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x5602s2</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -119,7 +119,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x5ay4t1</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -137,7 +137,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x560b1v</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -155,7 +155,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x563zxi</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -173,7 +173,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x5640g9</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -191,7 +191,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x566lod</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -644,7 +644,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"360":.*"video\\\/mp4","url":"(.*?360.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51squa</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -661,7 +661,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"360":.*"video\\\/mp4","url":"(.*?360.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51t1tn</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -678,7 +678,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<expres>"360":.*"video\\\/mp4","url":"(.*?360.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51tvtb</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
