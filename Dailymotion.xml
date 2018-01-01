@@ -687,7 +687,7 @@
 </item>
 
 <item>
-	<title>[COLOR cyan]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
+	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
 		<regex>
 			<name>mp4</name>
@@ -696,7 +696,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x2i1l8y</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -714,7 +714,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x2i19zj</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
