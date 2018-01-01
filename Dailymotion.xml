@@ -282,7 +282,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video//x5b77r6</page>
+			<page>http://www.dailymotion.com/video/x5b77r6</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s1-ssl.dmcdn.net/hAbfT/526x297-f37.jpg</thumbnail>
