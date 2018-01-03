@@ -1,64 +1,50 @@
 <item>
 <title>PHIM 1 (phụ đề tiếng Việt)</title>
-<sportsdevil>http://talktv.vn/streaming/play/embed/meowdoraemon</sportsdevil>
-<referer>0</referer>
-<thumbnail></thumbnail>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/thegioionline</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
+/////////////////////////////
 <item>
 <title>PHIM 2 (phụ đề tiếng Việt)</title>
-<sportsdevil>http://talktv.vn/streaming/play/embed/thegioionline</sportsdevil>
-<referer>0</referer>
-<thumbnail></thumbnail>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/meowdoraemon</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
+/////////////////////////////
 <item>
 <title>PHIM 3 (phụ đề tiếng Việt)</title>
-<sportsdevil>http://talktv.vn/streaming/play/embed/hdtvv</sportsdevil>
-<referer>0</referer>
-<thumbnail></thumbnail>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>iosUrl.+?"(.*?m3u8)"</expres>
+<page>http://talktv.vn/hdtvv</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+//////////////////////////////
 <item>
-<title>Kênh Thử nghiệm 1</title>
-<link>http://vps105431.vps.ovh.ca/hls/canhdep4k.m3u8</link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Kênh Thử nghiệm 2</title>
-<link>http://vps105431.vps.ovh.ca/hls/epic.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Kênh Thử nghiệm 3</title> 
-<link>http://vps105431.vps.ovh.ca/hls/haitvshow.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Kênh Thử nghiệm 4</title>
-<link>http://vps105431.vps.ovh.ca/hls/top200yt.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Kênh Thử nghiệm 5</title>
-<link>http://vps105431.vps.ovh.ca/hls/top300vn.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Kênh Thử nghiệm 6</title>
-<link>http://vps105431.vps.ovh.ca/hls/tubi.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Kênh Thử nghiệm 7</title>
-<link>http://vps105431.vps.ovh.ca/hls/vntube.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>7 Giờ Trữ Tình</title>
+<title>TRUNG TÂM THÚY NGA</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UC-TZQspRaYcMdvCI9tXi1sw/?page=0</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/-_EB82UWJLmY/AAAAAAAAAAI/AAAAAAAAAAA/9tOkPyxkaKM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://yt3.ggpht.com/-_EB82UWJLmY/AAAAAAAAAAI/AAAAAAAAAAA/9tOkPyxkaKM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC7nMrW3baKp0dA5Tz9ulVYQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-30oeXj-Rzyg/AAAAAAAAAAI/AAAAAAAAAAA/0QaxnaPtWyM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-30oeXj-Rzyg/AAAAAAAAAAI/AAAAAAAAAAA/0QaxnaPtWyM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+
+<item>
+<title>TRUNG TÂM ASIA</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/TrungTamAsiaChannel/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-Kyi1-RpibLM/AAAAAAAAAAI/AAAAAAAAAAA/xfBnfdeHdQA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-Kyi1-RpibLM/AAAAAAAAAAI/AAAAAAAAAAA/xfBnfdeHdQA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
 <item>
 <title>Giọng Ca Để Đời</title>
@@ -67,6 +53,14 @@
 <thumbnail>https://yt3.ggpht.com/-ZalDHZrw6Fs/AAAAAAAAAAI/AAAAAAAAAAA/1_UbeimvGqg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://yt3.ggpht.com/-ZalDHZrw6Fs/AAAAAAAAAAI/AAAAAAAAAAA/1_UbeimvGqg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 </item>
+<item>
+<title>7 Giờ Trữ Tình</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC-TZQspRaYcMdvCI9tXi1sw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-_EB82UWJLmY/AAAAAAAAAAI/AAAAAAAAAAA/9tOkPyxkaKM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-_EB82UWJLmY/AAAAAAAAAAI/AAAAAAAAAAA/9tOkPyxkaKM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+
 <item>
 <title>NHẠC VÀNG TRỮ TÌNH</title>
 <link>ignorme</link>
@@ -83,27 +77,7 @@
 </item>
 
 <item>
-<title>Cherry Radio: Tin tức & Giải trí</title>
-<link>http://192.240.102.195:9055/stream.mp3</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Cherry Radio: Nhạc trữ tình</title>
-<link>http://68.168.101.146:8454/stream.mp3</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Documentary TuBe</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/TheDocumenteriesTube/?page=0</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/-S-vFfo9ZEQw/AAAAAAAAAAI/AAAAAAAAAAA/p11UQUOJPiY/s200-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://yt3.ggpht.com/-S-vFfo9ZEQw/AAAAAAAAAAI/AAAAAAAAAAA/p11UQUOJPiY/s200-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
-</item>
-
-<item>
-<title>MyTube</title>
+<title>MyTube (Nhập từ khóa để xem video trên YouTube)</title>
 <premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/input/</jsonrpc>
