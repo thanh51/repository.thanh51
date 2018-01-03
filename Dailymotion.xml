@@ -644,7 +644,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"360":.*"video\\\/mp4","url":"(.*?360.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51squa</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -661,7 +661,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"360":.*"video\\\/mp4","url":"(.*?360.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51t1tn</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -678,7 +678,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"360":.*"video\\\/mp4","url":"(.*?360.*?)"</expres>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x51tvtb</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
