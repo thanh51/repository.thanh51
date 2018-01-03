@@ -127,7 +127,6 @@
 	<fanart>https://s1-ssl.dmcdn.net/ocCfl/526x297-UJc.jpg</fanart>
 </item>
 
-
 <item>
 	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
@@ -139,7 +138,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x5rw6ze</page>
+			<page>http://www.dailymotion.com/video/x5rxob5</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s2-ssl.dmcdn.net/km9nT/526x297-G0-.jpg</thumbnail>
@@ -157,7 +156,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x5ryi66</page>
+			<page>http://www.dailymotion.com/video/x5rzevo</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s1-ssl.dmcdn.net/kn8Oo/526x297-CBb.jpg</thumbnail>
@@ -175,7 +174,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x5rt7l5</page>
+			<page>http://www.dailymotion.com/video/x5s0g0a</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s1-ssl.dmcdn.net/kliiN/526x297-4dP.jpg</thumbnail>
@@ -193,7 +192,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x5ru4im</page>
+			<page>http://www.dailymotion.com/video/x5s1s8c</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s2-ssl.dmcdn.net/kl9OX/526x297-LaN.jpg</thumbnail>
@@ -211,7 +210,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x5rwdhu</page>
+			<page>http://www.dailymotion.com/video/x5s2yyd</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s2-ssl.dmcdn.net/knCq8/526x297-DhQ.jpg</thumbnail>
@@ -229,7 +228,7 @@
 		<regex>
 			<name>file</name>
 			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x5rwdhv</page>
+			<page>http://www.dailymotion.com/video/x5s3fn8</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://s2-ssl.dmcdn.net/knDln/526x297-RPS.jpg</thumbnail>
@@ -589,7 +588,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x5f8qsk</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -623,7 +622,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
 			<page>http://www.dailymotion.com/video/x5f8yc6</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -681,42 +680,6 @@
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
 	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/asia78front_1024x1024.jpg</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
-	<link>$doregex[mp4]</link>
-		<regex>
-			<name>mp4</name>
-			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
-			<page></page>
-		</regex>
-		<regex>
-			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x2i1l8y</page>
-			<referer>http://www.dailymotion.com/</referer>
-		</regex>
-	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D2[/COLOR]</title>
-	<link>$doregex[mp4]</link>
-		<regex>
-			<name>mp4</name>
-			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
-			<page></page>
-		</regex>
-		<regex>
-			<name>file</name>
-			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x2i19zj</page>
-			<referer>http://www.dailymotion.com/</referer>
-		</regex>
-	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
 	<fanart></fanart>
 </item>
 
@@ -878,5 +841,42 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
+
+<item>
+	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2i1l8y</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2i19zj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
 
 </items>
