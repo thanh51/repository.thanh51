@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
 
 
-
 <item>
 <title>[COLOR red][B]*********** PARIS BY NIGHT &amp; ASIA************[/B][/COLOR]</title>
 <link>http://</link>
@@ -845,6 +844,91 @@
 <thumbnail>http://www.phim.media/temp/upload/images/phim/phim/lien-khuc-mua-xuan-asia-2015.jpg</thumbnail>
 </item>
 
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x22vtt2</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x22y4l7</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x22vuah</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2319l4_as</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2319pl_a75</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR cyan]Asia Mừng Xuân 2016[/COLOR]</title>
