@@ -1139,11 +1139,401 @@
 </item>
 
 
+
+
+
 <item>
-<title>[COLOR yellow][B]*********** NHẠC VÀNG ************[/B][/COLOR]</title>
+<title>[COLOR yellow][B]*********** NHẠC TRỮ TÌNH ************[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 </item>
+
+<item> <title>Ảo Giác - Thanh Hà [Paris By Night 108 Time]</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3y0o6b</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Bước Cùng Thời Gian - Ánh Minh (Paris By Night 108 Time)</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3xx2h3</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Tìm Lại Giấc Mơ-Hồ Ngọc Hà</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3xx460</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>LK Một Thoáng Tây Hồ & Chiều Phủ Tây Hồ Thu Phương, Ngọc Anh</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w7v1r</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Liên Khúc Dù Tình Yêu Đã Mất -Hồ Hoàng Yến & Có Nhớ Đêm Nào -Diễm Liên</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w7ndd</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Liên Khúc Buồn Ơi Ta Xin Chào Mi -Lê Anh Quân & Biển Nhớ -Thiên Kim</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w7fq5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title>Hãy bước đi - Tóc Tiên</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3tpb1v</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Chieu mot minh qua pho </title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w6vjg_linksvip-net-chieu-mot-minh-qua-pho-1080i_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Vì Sao Không Thể - Mai Tiến Dũng & Hương Giang-PBN 117</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w71aq</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Khoc Me Dem Mua - Dan Nguyen Asia 77 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3tovqz</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Em Di Roi - Y Phuong Asia 77 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3tovqy</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title> Tình khúc buồn - 720</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3t6qve</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Người tình trăm năm - 720</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3t6pjk</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Khóc Một Giòng Sông - Nguyễn Hồng Nhung  - 1080</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sknp5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Tuyết Rơi Mùa Hè- Quang Dũng- Paris By Night 112 - 1080</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sk5x9</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Chờ - Nguyễn Hưng & Ai Đi Ngoài Sương Gió - Ngọc Anh</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3saa5m</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Anh Muon Em Song Sao - Minh Tuyet PBN 111</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sa8ri</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Anh Con No Em - The Son Asia 77  - 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sa4c3_linksvip-net-anh-con-no-em-the-son-asia-77-720p_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Anh Con Yeu Em - Diem Lien Asia 77 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sa4ry_linksvip-net-anh-con-yeu-em-diem-lien-asia-77-720p_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Cỏ Và Mưa – Lam Anh</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3rzm0b_linksvip-net-co-va-mua_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Làng Tôi - Thiên Kim Asia 70 - 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3s3j0k</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Nó - Đan Nguyên-Huỳnh Phi Tiễn - 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3s3kh5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+
 <item>
 <title>DUNG GOI NHAU LA CO NHAN - QUANG LE</title>
 <link>http://f.vp9.tv/music/nhac_vang/Xin_goi_nhau_la_co_nhan-Quang_Le/mv.mp4</link>
@@ -1394,11 +1784,7 @@
 <link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Chieu.Cuoi.Tuan.2014.720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR green][B]*********** NHẠC TRỮ TÌNH ************[/B][/COLOR]</title>
-<link>http://</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>AI CHO TOI TINH YEU</title>
 <link>http://f.vp9.tv/music/tru_tinh/Ai_cho_toi_tinh_yeu-Quang_Le/mvhd.HV.mp4</link>
