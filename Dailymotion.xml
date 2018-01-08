@@ -937,42 +937,6 @@
 </item>
 
 <item>
-	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
-	<link>$doregex[mp4]</link>
-		<regex>
-			<name>mp4</name>
-			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
-			<page></page>
-		</regex>
-		<regex>
-			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x6bakl9</page>
-			<referer>http://www.dailymotion.com/</referer>
-		</regex>
-	<thumbnail>https://s1-ssl.dmcdn.net/og5xj/526x297-flW.jpg</thumbnail>
-	<fanart>https://s1-ssl.dmcdn.net/og5xj/526x297-flW.jpg</fanart>
-</item>
-
-<item>
-	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 2[/COLOR]</title>
-	<link>$doregex[mp4]</link>
-		<regex>
-			<name>mp4</name>
-			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
-			<page></page>
-		</regex>
-		<regex>
-			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
-			<page>http://www.dailymotion.com/video/x6cafoz</page>
-			<referer>http://www.dailymotion.com/</referer>
-		</regex>
-	<thumbnail>https://s2-ssl.dmcdn.net/ouaVZ/526x297-r7Y.jpg</thumbnail>
-	<fanart>https://s2-ssl.dmcdn.net/ouaVZ/526x297-r7Y.jpg</fanart>
-</item>
-
-<item>
 	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Mai Thiên Vân Nhật Ký Đời Tôi 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
 		<regex>
@@ -1096,6 +1060,62 @@
 </item>
 
 <item>
+		<title>[COLOR blue]Nho nguoi tinh xa[/COLOR][COLOR lime]Nguyen Hong Loan[/COLOR][COLOR=yellow] Part 1[/COLOR]</title>
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x4mkyzi</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	
+</item>
+<item>
+		<title>[COLOR blue]Nho nguoi tinh xa[/COLOR][COLOR lime]Nguyen Hong Loan[/COLOR][COLOR=yellow] Part 2[/COLOR]</title>
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x4mkz84</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	
+</item>
+<item>
+		<title>[COLOR blue]Nho nguoi tinh xa[/COLOR][COLOR lime]Nguyen Hong Loan[/COLOR][COLOR=yellow] Part 3[/COLOR]</title>
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x4mkzhl</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	
+</item>
+
+
+<item>
 	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
 		<regex>
@@ -1131,13 +1151,47 @@
 	<fanart></fanart>
 </item>
 
+<item>
+	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6bakl9</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/og5xj/526x297-flW.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/og5xj/526x297-flW.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6cafoz</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/ouaVZ/526x297-r7Y.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/ouaVZ/526x297-r7Y.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR blue]SBN Thưở học trò [/COLOR]</title>
 <link>http://www.mediafire.com/download/b4uo1r6ycke2arb/SBTN_Mot.Thuo.Hoc.Tro.mkv</link>
 <thumbnail>https://i.imgur.com/jU5KMCK.jpg</thumbnail>
 </item>
-
 
 
 
