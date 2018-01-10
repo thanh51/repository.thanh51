@@ -1,0 +1,2816 @@
+﻿<?xml version="1.0" ?>
+
+
+<item>
+<title>[COLOR blue]Paris by night Số 123 [/COLOR][COLOR red]Ảo Ảnh (bản full)[/COLOR]</title>
+<link>http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn111.jpg</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6atsew</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/oanKo/526x297-lWb.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/oanKo/526x297-lWb.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6avr23</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/obW4o/526x297-qAj.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/obW4o/526x297-qAj.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6atts8</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/oanwG/526x297-fdv.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/oanwG/526x297-fdv.jpg</fanart>
+</item>
+
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6atuq6</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/oaoDB/526x297-sIu.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/oaoDB/526x297-sIu.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6atvtj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/oaoWG/526x297-Uvp.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/oaoWG/526x297-Uvp.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 6[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6aviau</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/obQhI/526x297-MQX.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/obQhI/526x297-MQX.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 123 [/COLOR][COLOR red]Ảo Ảnh[/COLOR][COLOR=cyan]  Part 7 (end)[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6axho7</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/ocCfl/526x297-UJc.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/ocCfl/526x297-UJc.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5rxob5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/km9nT/526x297-G0-.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/km9nT/526x297-G0-.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5rzevo</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/kn8Oo/526x297-CBb.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/kn8Oo/526x297-CBb.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5s0g0a</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/kliiN/526x297-4dP.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/kliiN/526x297-4dP.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5s1s8c</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/kl9OX/526x297-LaN.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/kl9OX/526x297-LaN.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5s2yyd</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/knCq8/526x297-DhQ.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/knCq8/526x297-DhQ.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 6(end)[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5s3fn8</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/knDln/526x297-RPS.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/knDln/526x297-RPS.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 121 [/COLOR][COLOR red]Song ca nhạc vàng[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5ciabv</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/hUpLS/526x297-xDc.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/hUpLS/526x297-xDc.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 121 [/COLOR][COLOR red]Song ca nhạc vàng[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5atfhe</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/hEVrA/526x297-crx.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/hEVrA/526x297-crx.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 121 [/COLOR][COLOR red]Song ca nhạc vàng [/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5aqmwi</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/g49m1/526x297-TuM.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/g49m1/526x297-TuM.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 121 [/COLOR][COLOR red]Song ca nhạc vàng[/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5b75n5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/hAYlc/526x297-wOd.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/hAYlc/526x297-wOd.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 121 [/COLOR][COLOR red]Song ca nhạc vàng[/COLOR][COLOR=cyan]  Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5b77r6</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/hAbfT/526x297-f37.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/hAbfT/526x297-f37.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5602s2</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/fjvIU/526x297-sL6.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/fjvIU/526x297-sL6.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5ay4t1</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/g48Yp/526x297-Wxc.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/g48Yp/526x297-Wxc.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x560b1v</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/fj2L-/526x297-Hrr.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/fj2L-/526x297-Hrr.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x563zxi</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/flr2K/526x297-f01.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/flr2K/526x297-f01.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5640g9</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/flsf9/526x297--RR.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/flsf9/526x297--RR.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 6 (end)[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x566lod</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/fnEL2/526x297-z2k.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/fnEL2/526x297-z2k.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 119 [/COLOR][COLOR red]Nhạc Vàng Muôn Thuở [/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5etef0</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/h01Z6/526x297-vG-.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/h01Z6/526x297-vG-.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 119 [/COLOR][COLOR red]Nhạc Vàng Muôn Thuở [/COLOR][COLOR=cyan] Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5etf2z</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/h02EU/526x297-aAP.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/h02EU/526x297-aAP.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 119 [/COLOR][COLOR red]Nhạc Vàng Muôn Thuở [/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5etftj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/h026S/526x297-iNd.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/h026S/526x297-iNd.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 119 [/COLOR][COLOR red]Nhạc Vàng Muôn Thuở [/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5f0aiu</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/h3CKo/526x297-j-g.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/h3CKo/526x297-j-g.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Paris by night 119 [/COLOR][COLOR red]Nhạc Vàng Muôn Thuở [/COLOR][COLOR=cyan]  Part 5(end)[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5g887i</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/iHhhs/526x297-FH2.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/iHhhs/526x297-FH2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Paris by night Số 118: Đức Huy - 50 Năm Âm Nhạc s1[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSNkZ5cmRicXlXbDg/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn118.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 118: Đức Huy - 50 Năm Âm Nhạc s2[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwQkhfclZ4ZW5WMVE/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn118.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 117: Vườn Hoa Âm Nhạc s1[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B2avcyKUnJKpWVYzSnVQb2Jidmc/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn117.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 117: Vườn Hoa Âm Nhạc s2[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0Yigwd05GbHBWMmNFN0U/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn117.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 116: Nụ Cười Đầu Năm s1[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B2avcyKUnJKpaUJROWJSS05FTUk/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn116.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 116: Nụ Cười Đầu Năm s2[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwUkVZRVFueXppWWs/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn116.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 111 - S - P1[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hzY2NXeUlqUjh0Y3M/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn111.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 111 - S - P2[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hzbzJ2bEpLM2xvWUE/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn111.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 111 - S - P3[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hzaDc2VC1iajRVZUU/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn111.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night Số 110[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwOUdkVVQ0S0lUT2s/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn110.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 99[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/nSKHNpsV0mKYkvrrY9qfmAt9LPPRZYHZdBPjVtXk3LpV-E3gE2LiL7HlQnKrgxh8aVaFo_rRPws=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/Screenshot20100327at121733AM11_lage.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 98-P1[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/bxyWqHIx4MYWHo4qNViz_UyNDwIJab5xLRI4QCEkcb-UC20EshIqnWuABtFUDkwRc2tj6bW7BDY=m18</link>
+<thumbnail>http://thuyngashop.com/images/watermarked/1/thumbnails/280/388/detailed/1/posterpbn98_1259955732.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 98-P2[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/Ue35BjhU82VgSBm4irl0dd3N8xGz30u0-qX5sQ7LLYuLw_9F7LHCstkJcxOgMuy4jwhpex4YjRw=m18</link>
+<thumbnail>http://thuyngashop.com/images/watermarked/1/thumbnails/280/388/detailed/1/posterpbn98_1259955732.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 97[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/CytfbLSCdKW1zJcaqQR9OY9F5V0ZVWiENyec9it85prscw7klg5MP3rqYIJLBKgCrwnHUjA6QWw=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/parisbynight97fdancing2_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 96-P1[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/DVoDYrQ467GjZfEBEmD98dzQtdNc7C1f_-UaEd_dDrpljqahT42EHXXWRGGcYozgfbfO5_cnxi8=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/1_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 96-P2[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/QpU0I8Pc31-T7t393aNqWkl_joTb7vyxVWYHLW8RBOrqSUevygQXKEbQI1AjZ0j8kVkPR-8nwNI=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/1_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 95-P1[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/Aggy71EkmD-2-jwd3dCKyXI9ODry5LB5dLtjwgcWHOrEH2NnxVbDrIpXtz6X-31sIReWsX8l-ic=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_l2584_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 95-P2[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/TQS9nap_5984wCFfplgMQzheJqn5XDaftU-E97nayN-gthysMdzswgcCvD_-S4rlbfk2fTfo2hc=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_l2584_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 94[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/OHYkT3FB_9a0REc5zBgqqYOuMGRvrZ6_9-4BUQua17dVjIlII61lXpAnc52xT6NHDVzuzKjNfsU=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/30_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 93[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/F1NB9rD_2l_jiqQAJSKekjfFE4PxEq-gqFwX_JINIR3bcw571oad4kOcw03RrLi1iWSAd1FdsKg=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/enbac.gif_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 92[/COLOR]</title>
+<link>plugin://plugin.video.itvplus/?url=https://drive.google.com/file/d/0B6vsb0c_ZiFSOUdCM3lMMHpBYzg&amp;mode=100&amp;name=</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_s869_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 91-P1[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/OnQbl9jp1uleYo_rrf55l-GuZoQTbal-W_DGWpWdHcP8jhpf8v438KIB2Zma1o3twveoRlmbB8E=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_s868_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 91-P2[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/u16oK5b1H1JCGSHp9l40ZhiM2S_RwtixUcjVReUQJjci1UFzY-689FDtMoz16Bz5hCeEk-iGjCo=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_s868_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 90[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/zXPGu6AwKRGbP61vuHH_WS7-32iMIN0Hvslob6Tg9cvziRDMs-LBQN6AyBmLi29i4HtXpsyyujA=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/kj_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 89-P1[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/d8UQ27x7gAn7Fw87QVUfFBiqTBd-j6EvCM-QhYLzGEhdG3SqdpSacBHeXGhrqg0wsYc=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/33_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 89-P2[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/NonF__RyoAlEx9akV8d_9gUV1wX0VC1mj-z8Q7Vh1GAsX9iCsGEPdPVekZdynNUxcoY=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/33_lage.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue]Paris by night 88-P2[/COLOR]</title>
+<link>https://lh3.googleusercontent.com/mxjGzFGg7QYIU5qK3PMXZT1wd9Oy2masq2SlvJxw-FfRS9MF9lxz99o2qta4bTv1Mqs=m18</link>
+<thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/adf_lage.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]ASIA 80 [/COLOR][COLOR red]Làn Gió Mới (bản full)[/COLOR][COLOR=cyan]- 1080p [/COLOR]</title>
+<link>http://www.mediafire.com/download/3vaq73mkigl32dz/A80_1080p.mkv</link>
+<thumbnail>http://i65.tinypic.com/ddhljk.png</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR blue]Asia 80 [/COLOR][COLOR red]Làn Gió Mới[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x69zi79</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/oC7mH/526x297-Hy3.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/oC7mH/526x297-Hy3.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Asia 80 [/COLOR][COLOR red]Làn Gió Mới[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6aecar</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/oVBDe/526x297-oaw.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/oVBDe/526x297-oaw.jpg</fanart>
+</item>
+
+
+<item>
+	<title>[COLOR blue]Asia 80 [/COLOR][COLOR red]Làn Gió Mới[/COLOR][COLOR=cyan]  Part 3 (end)[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6agx2v</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/oV7lt/526x297-YuB.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/oV7lt/526x297-YuB.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]Asia 79 [/COLOR][COLOR red]Còn Mãi Trong Tim 2017 [/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5f8qsk</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/79cover_1024x1024.png?v=1488921926</thumbnail>
+	<fanart>https://cdn.shopify.com/s/files/1/1136/6860/products/79cover_1024x1024.png?v=1488921926</fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 79 [/COLOR][COLOR red]Còn Mãi Trong Tim 2017 [/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5f8vyf</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/79cover_1024x1024.png?v=1488921926</thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 79 [/COLOR][COLOR red]Còn Mãi Trong Tim 2017 [/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5f8yc6</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/79cover_1024x1024.png?v=1488921926</thumbnail>
+	<fanart></fanart>
+</item>
+
+
+<item>
+	<title>[COLOR cyan]Asia 78 [/COLOR][COLOR blue]Tình Yêu &amp; Thân Phận[/COLOR][COLOR=blue]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x51squa</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/asia78front_1024x1024.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR cyan]Asia 78 [/COLOR][COLOR blue]Tình Yêu &amp; Thân Phận[/COLOR][COLOR=blue]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x51t1tn</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/asia78front_1024x1024.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR cyan]Asia 78 [/COLOR][COLOR blue]Tình Yêu &amp; Thân Phận[/COLOR][COLOR=blue]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x51tvtb</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://cdn.shopify.com/s/files/1/1136/6860/products/asia78front_1024x1024.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Asia 77 Liên khúc mùa xuân[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hza3R2Y01ycjdXWms/view&amp;mode=play_link</link>
+<thumbnail>http://www.phim.media/temp/upload/images/phim/phim/lien-khuc-mua-xuan-asia-2015.jpg</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x22vtt2</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x22y4l7</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x22vuah</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2319l4_as</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2319pl_a75</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Asia Mừng Xuân 2016[/COLOR]</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0ByRx6tIsFB8CczVOb3kwX2dvdlE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Mai Thiên Vân Nhật Ký Đời Tôi 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5odmai</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://2.pik.vn/2017f3abfece-f496-4959-a942-7b8807228d4c.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Mai Thiên Vân Nhật Ký Đời Tôi 2017[/COLOR][COLOR=blue] Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5odt7k</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://2.pik.vn/2017f3abfece-f496-4959-a942-7b8807228d4c.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Mai Thiên Vân Nhật Ký Đời Tôi 2017[/COLOR][COLOR=blue] Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5oe306</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://2.pik.vn/2017f3abfece-f496-4959-a942-7b8807228d4c.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Mai Thiên Vân Nhật Ký Đời Tôi 2017[/COLOR][COLOR=blue] Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x5o8bpf</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://2.pik.vn/2017f3abfece-f496-4959-a942-7b8807228d4c.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Nguyễn Hồng Nhung Khi Giấc Mơ Về 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6btyvj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Nguyễn Hồng Nhung Khi Giấc Mơ Về 2017[/COLOR][COLOR=blue] Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6btz2c</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]Liveshow [/COLOR][COLOR blue]Nguyễn Hồng Nhung Khi Giấc Mơ Về 2017[/COLOR][COLOR=blue] Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6btz7w</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR aqua]LiveShow Quang Lê - Hát Trên Quê Hương 2-Về Quê Ngoại[/COLOR][COLOR yellow][B]DISC 1[/B][/COLOR] </title>
+																		
+	<link>http://www.mediafire.com/download/33z3yuzxpa3765p/QuangLe-LiveShow2_1.mp4</link>   
+	
+	<thumbnail>http://www.hdvietnam.com/diendan/attachment.php?attachmentid=219654&d=1464848390</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR aqua]LiveShow Quang Lê - Hát Trên Quê Hương 2-Về Quê Ngoại[/COLOR][COLOR yellow][B]DISC 2[/B][/COLOR] </title>
+																		
+	<link>http://www.mediafire.com/download/igq2cs6nwv7d60p/QuangLe-LiveShow2_2.mp4</link>
+	
+	<thumbnail>http://www.hdvietnam.com/diendan/attachment.php?attachmentid=219654&d=1464848390</thumbnail>
+</item>
+
+<item>
+	<title>LiveShow [COLOR aqua] Thương qúa việt nam 4 - Disc 1- 2015 [/COLOR]</title>
+	<link>http://www.mediafire.com/download/kyi1c1z4r7nq8bb/Thuong.Qua.Viet.Nam.4.Dem.Tao.Ngo.DVD.Disc1.iso</link>
+	<thumbnail>http://www.vnnmall.com/userfiles/121015-d.gif</thumbnail>
+</item>
+<item>
+	<title>LiveShow [COLOR aqua] Thương qúa việt nam 4 - Disc 2- 2015 [/COLOR]</title>
+	<link>http://www.mediafire.com/download/jk3qdkb9i1kv4az/%5BLinksVIP.Net%5D_Thuong.Qua.Viet.Nam.4.Dem.Tao.Ngo.DVD.Disc2.iso</link>
+	<thumbnail>http://www.vnnmall.com/userfiles/121015-d.gif</thumbnail>
+</item>
+
+
+<item>
+		<title>[COLOR blue]Nho nguoi tinh xa[/COLOR][COLOR lime]Nguyen Hong Loan[/COLOR][COLOR=yellow] Part 1[/COLOR]</title>
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x4mkyzi</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	
+</item>
+<item>
+		<title>[COLOR blue]Nho nguoi tinh xa[/COLOR][COLOR lime]Nguyen Hong Loan[/COLOR][COLOR=yellow] Part 2[/COLOR]</title>
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x4mkz84</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	
+</item>
+<item>
+		<title>[COLOR blue]Nho nguoi tinh xa[/COLOR][COLOR lime]Nguyen Hong Loan[/COLOR][COLOR=yellow] Part 3[/COLOR]</title>
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x4mkzhl</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	
+</item>
+
+
+<item>
+	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2i1l8y</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR blue]LIÊN KHÚC ĐÓN XUÂN NÀY NHỚ XUÂN XƯA D2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"480":.*"video\\\/mp4","url":"(.*?480.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x2i19zj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>http://shop.trungtamasia.com/Images/upload/Product/CD/asia365-donxuannaynhoxuanxua-cd-736-170x168.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6bakl9</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s1-ssl.dmcdn.net/og5xj/526x297-flW.jpg</thumbnail>
+	<fanart>https://s1-ssl.dmcdn.net/og5xj/526x297-flW.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]SBTN [/COLOR][COLOR blue]ấm áp mùa giáng sinh 2017[/COLOR][COLOR=blue] Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6cafoz</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://s2-ssl.dmcdn.net/ouaVZ/526x297-r7Y.jpg</thumbnail>
+	<fanart>https://s2-ssl.dmcdn.net/ouaVZ/526x297-r7Y.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]SBN Thưở học trò [/COLOR]</title>
+<link>http://www.mediafire.com/download/b4uo1r6ycke2arb/SBTN_Mot.Thuo.Hoc.Tro.mkv</link>
+<thumbnail>https://i.imgur.com/jU5KMCK.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B]*********** NHẠC TRỮ TÌNH ************[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item> <title>Ảo Giác - Thanh Hà [Paris By Night 108 Time]</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3y0o6b</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Bước Cùng Thời Gian - Ánh Minh (Paris By Night 108 Time)</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3xx2h3</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Tìm Lại Giấc Mơ-Hồ Ngọc Hà</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3xx460</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>LK Một Thoáng Tây Hồ & Chiều Phủ Tây Hồ Thu Phương, Ngọc Anh</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w7v1r</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Liên Khúc Dù Tình Yêu Đã Mất -Hồ Hoàng Yến & Có Nhớ Đêm Nào -Diễm Liên</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w7ndd</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Liên Khúc Buồn Ơi Ta Xin Chào Mi -Lê Anh Quân & Biển Nhớ -Thiên Kim</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w7fq5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title>Hãy bước đi - Tóc Tiên</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3tpb1v</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Chieu mot minh qua pho </title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w6vjg_linksvip-net-chieu-mot-minh-qua-pho-1080i_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Vì Sao Không Thể - Mai Tiến Dũng & Hương Giang-PBN 117</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3w71aq</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Khoc Me Dem Mua - Dan Nguyen Asia 77 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3tovqz</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title>Em Di Roi - Y Phuong Asia 77 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3tovqy</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+<item> <title> Tình khúc buồn - 720</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3t6qve</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Người tình trăm năm - 720</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3t6pjk</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Khóc Một Giòng Sông - Nguyễn Hồng Nhung  - 1080</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sknp5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Tuyết Rơi Mùa Hè- Quang Dũng- Paris By Night 112 - 1080</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sk5x9</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Chờ - Nguyễn Hưng & Ai Đi Ngoài Sương Gió - Ngọc Anh</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3saa5m</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Anh Muon Em Song Sao - Minh Tuyet PBN 111</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sa8ri</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Anh Con No Em - The Son Asia 77  - 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sa4c3_linksvip-net-anh-con-no-em-the-son-asia-77-720p_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Anh Con Yeu Em - Diem Lien Asia 77 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3sa4ry_linksvip-net-anh-con-yeu-em-diem-lien-asia-77-720p_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Cỏ Và Mưa – Lam Anh</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?1080.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3rzm0b_linksvip-net-co-va-mua_music</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Làng Tôi - Thiên Kim Asia 70 - 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3s3j0k</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+<item> <title> Nó - Đan Nguyên-Huỳnh Phi Tiễn - 720p</title> 
+
+		<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x3s3kh5</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+
+<item>
+<title>DUNG GOI NHAU LA CO NHAN - QUANG LE</title>
+<link>http://f.vp9.tv/music/nhac_vang/Xin_goi_nhau_la_co_nhan-Quang_Le/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHUNG DOI HOA SIM</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nhung_doi_hoa_sim-Hoang_Oanh_ft_Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SAU TIM THIEP HONG</title>
+<link>http://f.vp9.tv/music/nhac_vang/Sau_tim_thiep_hong-Tuan_Vu_ft_Giao_Linh/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DOI MAT NGUOI XUA</title>
+<link>http://f.vp9.tv/music/nhac_vang/Doi_mat_nguoi_xua-Quang_Le/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PHUT DAU TIEN</title>
+<link>http://f.vp9.tv/music/nhac_vang/Phut_dau_tien-Nguyen_Le_ft_Quynh_Dung/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VE DAU MAI TOC NGUOI THUONG</title>
+<link>http://f.vp9.tv/music/nhac_vang/Ve_dau_mai_toc_nguoi_thuong-Quang_Le/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHIEC AO BA BA</title>
+<link>http://f.vp9.tv/music/nhac_vang/Chiec_ao_ba_ba-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NEU ANH DUNG HEN</title>
+<link>http://f.vp9.tv/music/nhac_vang/Neu_anh_dung_hen-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGHI CHUYEN NGAY XUAN</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHAT KY DOI TOI</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nhat_ky_doi_toi-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGUOI TINH</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nguoi_tinh-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAI VI SAO LAC</title>
+<link>http://f.vp9.tv/music/nhac_vang/Hai_vi_sao_lac-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAI DUA GIAN NHAU</title>
+<link>http://f.vp9.tv/music/nhac_vang/Hai_dua_gian_nhau-Mai_Thien_Van_ft_Truong_Vu/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOT NGUOI DI</title>
+<link>http://f.vp9.tv/music/nhac_vang/Mot_nguoi_di-Hoang_Oanh/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NUOC NON NGAN DAM RA DI</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nuoc_non_ngan_dam-Quang_Le_ft_Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HUE THUONG</title>
+<link>http://f.vp9.tv/music/nhac_vang/Hue_thuong-Nhu_Quynh_ft_Thanh_An/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HUE BUON</title>
+<link>http://f.vp9.tv/music/nhac_vang/Hue_buon-Nhu_Quynh/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGUOI DI NGOAI PHO</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nguoi_di_ngoai_pho-Nhu_Quynh/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VUNG LA ME BAY</title>
+<link>http://f.vp9.tv/music/nhac_vang/Vung_la_me_bay-Nhu_Quynh/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XIN TRA LAI THOI GIAN</title>
+<link>http://f.vp9.tv/music/nhac_vang/Xin_tra_lai_thoi_gian-Nhu_Quynh/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CON MAI LOI RU</title>
+<link>http://f.vp9.tv/music/nhac_vang/Con_mai_loi_ru-Phi_Nhung/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AO MOI CA MAU</title>
+<link>http://f.vp9.tv/music/nhac_vang/Ao_moi_ca_mau-Phi_Nhung/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DA CO HOAI LANG</title>
+<link>http://f.vp9.tv/music/nhac_vang/Da_co_hoai_lang-Huong_Lan/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nghi Chuyen ngay Xuan-MTV</title>
+<link>http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thoi Doi-TV</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Thoi.Doi.2014.720p/chunklist_w2087283826.m3u8?worldtokenstarttime=1458509527&amp;worldtokenendtime=1458594127&amp;worldtokenhash=ZP4mTWLXopTjfmN1wfEXJl7Bc0VeawdzOgRVgb0FQ9s%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Dem Tam Su</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Dem.Tam.Su.2014.720p/chunklist_w1013551372.m3u8?worldtokenstarttime=1458509670&amp;worldtokenendtime=1458594270&amp;worldtokenhash=A-Gd0vwZ-g7DizaKnV0NphXZiXHk0M_1wAEclcRdl9w%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tinh Ca Que Huong</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.73.Mua.He.Ruc.Ro.2013.720p/Tinh.Ca.Que.Huong.2013.720p/chunklist_w1665577196.m3u8?worldtokenstarttime=1458512755&amp;worldtokenendtime=1458597355&amp;worldtokenhash=9lF_Rq0L0NmWbwve_oHohrxVQurVxds7Q6lc_O38e0E%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Thuy da di roi - Dan Nguyen</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.72.Dong.Nhac.Y.Van.2013.720p/Thuy.Da.Di.Roi.720p/index.m3u8?worldtokenstarttime=1458512891&amp;worldtokenendtime=1458597491&amp;worldtokenhash=_im-4735DcDNJshDbRN7LBWIWFUaYkb2x94ajkr7aUo=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tinh tham duyen Que</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Tinh.Tham.Duyen.Que.2014.720p/index.m3u8?worldtokenstarttime=1458513090&amp;worldtokenendtime=1458597690&amp;worldtokenhash=lqUqY2M4lhpGdawd5AAlb5iajaQq1zBH1_bCljhtLE8=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tan Co - Chieu Thuong Do Thi</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.68.Sai.Gon.Ky.Niem.2011.720p/Tan.Co_Chieu.Thuong.Do.Thi.720p/chunklist_w1817326047.m3u8?worldtokenstarttime=1458512616&amp;worldtokenendtime=1458597216&amp;worldtokenhash=BZoSpNxQRsgRlmChmJnuo9_u_1EdePqGqBfepmuYEls%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hay Den Ben Anh Nguoi Yeu</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Hay.Den.Ben.Anh.Nguoi.Yeu_Si.Dan_Philip.Huy.2015.1080p/index.m3u8?worldtokenstarttime=1456040609&amp;worldtokenendtime=1456125209&amp;worldtokenhash=eSL1jC4g82_uyUuY-2q6FhdatvOd3XrWx3wUE8dSwo0=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Lanh Tron Dem Mua - Gia Tu Dem Mua - Mua Dem Doc Hanh</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Lanh.Tron.Dem.Mua_Gia.Tu.Dem.Mua_Mua.Dem.Doc.Hanh_Dan.Nguyen_Cat.Linh_Thuy.Huong_Le.Quoc.Tuan.2015.1080p/index.m3u8?worldtokenstarttime=1456040065&amp;worldtokenendtime=1456124665&amp;worldtokenhash=1V4MiBJogV30b_CYxIeZ4Py-m0N5NrT-1wJCFTuMWtY=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Chua Voi Sau Dau</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Chua.Voi.Sau.Dau_Thanh.Truc_Vu.Tuan.Duc.2015.1080p/chunklist_w81366495.m3u8?worldtokenstarttime=1456040462&amp;worldtokenendtime=1456125062&amp;worldtokenhash=Yp3bmDNTiEBGSnBekSO3Yei7wCN4uwS1KaYKO08YqhY%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Neu chung Minh cach tro</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Neu.Chung.Minh.Cach.Tro_Nhat.Lam_Nga.My.2015.1080p/index.m3u8?worldtokenstarttime=1456004086&amp;worldtokenendtime=1456088686&amp;worldtokenhash=YWcLnBdfewglzhwSngz4WiJ9FuWG9omgcLdvLJigmz0=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Rung chua thay la</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Rung.Chua.Thay.La_My.Huyen_Dang.Vu.2015.1080p/chunklist_w160399395.m3u8?worldtokenstarttime=1456004439&amp;worldtokenendtime=1456089039&amp;worldtokenhash=4t8lzNl7GOjDKU4RFrAOxec-UKKw-Z5m169hZK3yqLs%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tinh dep nhu mo</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Tinh.Dep.Nhu.Mo_Doan.Phi_Ngoc.Anh.Vi.2015.1080p/chunklist_w688859677.m3u8?worldtokenstarttime=1456004510&amp;worldtokenendtime=1456089110&amp;worldtokenhash=NI21N7aOEBpTmsnhXSMzzIHyeDPEtvxjrL5_vNCmTIU%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Doan cuoi tinh yeu</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Doan.Cuoi.Tinh.Yeu_Bang.Tam_Huynh.Phi.Tien.2015.1080p/chunklist_w1221917263.m3u8?worldtokenstarttime=1456004646&amp;worldtokenendtime=1456089246&amp;worldtokenhash=gwIjej9MGO_5XkMlwly3DHDKzZXebheV9V5vS7z9YhI%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cat bui tinh xa</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Cat.Bui.Tinh.Xa_Le.Thu_Thien.Kim.2015.1080p/index.m3u8?worldtokenstarttime=1456004699&amp;worldtokenendtime=1456089299&amp;worldtokenhash=VdypV1LwTwNvG-a7a_D41n2RysVpQ0U7QVEcwEeDF1w=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Ve dau mai toc Nguoi thuong</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Ve.Dau.Mai.Toc.Nguoi.Thuong_Dang.Le.Tuan_Truc.Mi.2015.1080p/chunklist_w995558727.m3u8?worldtokenstarttime=1456004752&amp;worldtokenendtime=1456089352&amp;worldtokenhash=-C5mqUsabGhPBtNBjgJtYCqx6c8VSE3uEvdSZ2YnAAI%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Biet noi gi day</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Biet.Noi.Gi.Day_Tuan.Vu_Thanh.Tuyen.2015.1080p/chunklist_w24373621.m3u8?worldtokenstarttime=1456004800&amp;worldtokenendtime=1456089400&amp;worldtokenhash=C2IjJe1X_hwcrod4MlWN5vyivHBzvjVX6woWhOaVkFU%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nuoi tiec</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Nuoi.Tiec_Trinh.Nam.Son_Thuy.Tien.2015.1080p/chunklist_w1502646333.m3u8?worldtokenstarttime=1456004847&amp;worldtokenendtime=1456089447&amp;worldtokenhash=7GJecW0cK1H_Xv46BFXRlYVGIN8Jc5jAU3Zae4kWJPw%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cho den cuoi cuoc doi</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Cho.Den.Cuoi.Cuoc.Doi_Ho.Hoang.Yen_Quoc.Khanh.2015.1080p/chunklist_w169367700.m3u8?worldtokenstarttime=1456004897&amp;worldtokenendtime=1456089497&amp;worldtokenhash=lUG-aFxKZzgeRKkWSlFld5IHcXoua118Y1G24hoD5lE%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Va Anh hay noi yeu Em</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Va.Anh.Hay.Noi.Yeu.Em_Lam.Nhat.Tien_Nguyen.Hong.Nhung.2015.1080p/chunklist_w2096448206.m3u8?worldtokenstarttime=1456004953&amp;worldtokenendtime=1456089553&amp;worldtokenhash=YZRE8q7iu69UhfdZcyleds1aJvIQThaSx9CqzqSkBK4%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Chua voi sau dau</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Chua.Voi.Sau.Dau_Thanh.Truc_Vu.Tuan.Duc.2015.1080p/chunklist_w410297971.m3u8?worldtokenstarttime=1456005005&amp;worldtokenendtime=1456089605&amp;worldtokenhash=eY6oJVOehGmIJrQc6_NfrE2kolhzqK89ptgQQIN6KJs%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Neu ta dung quen nhau-Hoa trang thoi cai tren ao tim</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Neu.Ta.Dung.Quen.Nhau_Hoa.Trang.Thoi.Cai.Tren.Ao.Tim_Huy.Sinh_Ngoc.Dan.Thanh_Thien.Trang.2015.1080p/chunklist_w286064829.m3u8?worldtokenstarttime=1456005370&amp;worldtokenendtime=1456089970&amp;worldtokenhash=-OoCxWd1sxQWJ7z8FrBBWaFraNd4OTEjA9l0AD_BfEc%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Co nhung chuyen tinh khong la tram nam</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Co.Nhung.Chuyen.Tinh.Khong.La.Tram.Nam_Lam.Thuy.Van_Lam.Nhat.Tien.2015.1080p/chunklist_w1297892832.m3u8?worldtokenstarttime=1456005566&amp;worldtokenendtime=1456090166&amp;worldtokenhash=byltTVyIvK7Gy5jlNK4bRkKlUc14a50hpfE_v9WLCKM%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tinh Bo Vo - Dung Noi Xa Nhau</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Tinh.Bo.Vo_Dung.Noi.Xa.Nhau_Ha.Thanh.Xuan_Dan.Nguyen_Hoang.Thuc.Linh.2015.1080p/index.m3u8?worldtokenstarttime=1456006603&amp;worldtokenendtime=1456091203&amp;worldtokenhash=IDUm9SIw88O86gj3OM-rarJxl0YQiVGc1Ua9e4ZUhMc=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kiep Cam Ca - Mua Rung</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Kiep.Cam.Ca_Mua.Rung_Thanh.Thuy_Minh.Hieu.2015.1080p/chunklist_w983097846.m3u8?worldtokenstarttime=1456006825&amp;worldtokenendtime=1456091425&amp;worldtokenhash=hHyzzdA-hw02p-Z51whb-rtR-V2KP_aM4ZYuF_xiFts%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Mot Minh</title>
+<link>http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Mot.Minh_Mai.Thanh.Son_Hoang.Anh.Thu.2015.1080p/chunklist_w981183005.m3u8?worldtokenstarttime=1456003966&amp;worldtokenendtime=1456088566&amp;worldtokenhash=dpsfYtW6OPNvdQkkwwM06pTDhEnBXuNGGNVqwaG3pgQ%3D</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Chieu Cuoi Tuan</title>
+<link>http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Chieu.Cuoi.Tuan.2014.720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AI CHO TOI TINH YEU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ai_cho_toi_tinh_yeu-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEN MOT VONG TAY</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ben_mot_vong_tay-Minh_Luan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CA DAO EM VA TOI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ca_dao_em_va_toi-Quang_Linh/mvhd.SD5.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CAN NHA NGOAI O</title>
+<link>http://f.vp9.tv/music/tru_tinh/Can_nha_ngoai_o-Dan_Nguyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CAU CHUYEN DAU NAM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Cau_chuyen_dau_nam-Hien_Thuc/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BUON TRONG KY NIEM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Buon_trong_ky_niem-Trung_Hau/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHIEU HA VANG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Chieu_ha_vang-Huynh_Nguyen_Cong_Bang/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHIEU MUA BIEN GIOI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Chieu_mua_bien_gioi-Mai_Thien_Van/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHUYEN TAU HOANG HON</title>
+<link>http://f.vp9.tv/music/tru_tinh/Chuyen_tau_hoang_hon-Bao_Yen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CO LAI DO BEN HA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Co_lai_do_ben_ha-Thuy_Hang/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CON DUONG MANG TEN EM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Con_duong_mang_ten_em-Dao_Phi_Duong_ft_Anh_Van/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DON XUAN NAY NHO XUAN XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Don_xuan_nay_nho_xuan_kia-Tam_Doan_ft_Dang_The_Luan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DUNG NOI XA NHAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Dung_noi_xa_nhau-Phi_Nhung_ft_Quang_Hieu/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GO CUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Go_cua-Thanh_Tuyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HA BUON</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ha_buon-Phuong_Diem_Hanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HOA TIM NGAY XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hoa_tim_nguoi_xua-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KHONG BAO GIO QUEN ANH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Khong_bao_gio_quen_anh-Trung_Hau/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KHUC HAT AN TINH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Khuc_hat_an_tinh-Ha_Thanh_Xuan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NEU CHUNG MINH CACH TRO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Neu_chung_minh_cach_tro-Giang_Tien_ft_Mai_Quoc_Huy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGAY MAI SE RA SAO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ngay_mai_se_ra_sao-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHAN CO CHO EM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nhan_co_cho_em-Tuong_Nguyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NOI BUON HOA PHUONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Noi_buon_hoa_phuong-Bang_Tam/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SUONG LANH CHIEU DONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Suong_lanh_chieu_dong-Dan_Nguyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THANH PHO SUONG MU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Thanh_pho_suong_mu-Nhu_Quynh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XIN THOI GIAN QUA MAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Xin_thoi_gian_qua_mau-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AI DUA EM VE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ai_dua_em_ve-Ngoc_Lien_ft_Luong_Tung_Quang/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AI LEN XU HOA DAO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ai_len_xu_hoa_dao-Tam_Doan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AI RA XU HUE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ai_ra_xu_hue-Quang_Le_ft_Ngoc_Ha/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BUC HOA DONG QUE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Buc_hoa_dong_que-Vy_Oanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DIEP KHUC MUA XUAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Diep_khuc_mua_xuan-Bao_Anh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HON QUE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hon_que-Hien_Thuc/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HUONG TOC MA NON</title>
+<link>http://f.vp9.tv/music/tru_tinh/Huong_toc_ma_non-Quang_Le_ft_Ha_Phuong/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KHUC RU CHIEU THIEN AN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Khuc_ru_chieu_thien_an-Ho_Quynh_Huong/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGUU LANG CHUC NU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nguu_lang_chuc_nu-Dam_Vinh_Hung_ft_Cam_Ly/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CA DAO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ca_dao-Huong_Thuy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHO DAN XE NUOC</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nho_dan_xe_nuoc-Ho_Quynh_Huong/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RA GIENG ANH CUOI EM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ra_gieng_anh_cuoi_em-Nguyen_Vu_ft_Van_Trang/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HANH TRINH TREN DAT PHU SA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hanh_trinh_tren_dat_phu_sa-Huong_Thuy_ft_Tam_Doan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XUAN NAY CON KHONG VE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Xuan_nay_con_khong_ve-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XUAN NAY CON VE ME O DAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Xuan_nay_con_ve_me_o_dau-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AI NOI VOI EM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ai_noi_voi_em-Tam_Doan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VE THAM CHON XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ve_tham_chon_xua-Tam_Doan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LOI DANG CHO CUOC TINH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Loi_dang_cho_cuoc_tinh-Dan_Nguyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SAU TIM THIEP HONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Sau_tim_thiep_hong-Quang_Le_ft_Le_Quyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AI KHO VI AI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ai_kho_vi_ai-Le_Quyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DUOC TIN EM LAY CHONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Duoc_tin_em_lay_chong-Mai_Quoc_Huy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NEU TA DUNG QUEN NHAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Neu_ta_dung_quen_nhau-Phuong_Diem_Hanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THUONG HOAI NGAN NAM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Thuong_hoai_ngan_nam-Phuong_Diem_Hanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRANG TAN NGOAI PHO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Trang_tan_tren_pho_vang-Phuong_Diem_Hanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HA BUON</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ha_buon-Phuong_Diem_Hanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>YEU NHAU TREN BIEN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Yeu_nhau_tren_bien-Doan_Phi/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIEN NHO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Bien_nho-Thien_Kim/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOT MAI EM DI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Mot_mai_em_di-Ho_Hoang_Yen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHUYEN TINH KHONG SUY TU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Chuyen_tinh_khong_suy_tu-Ho_Hoang_Yen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NUA HON THUONG DAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nua_hon_thuong_dau-Ho_Hoang_Yen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BAI KHONG TEN SO 7</title>
+<link>http://f.vp9.tv/music/tru_tinh/Bai_khong_ten_so_7-Ho_Hoang_Yen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HINH BONG EM KHONG DOI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hinh_bong_nguoi_em_khong_doi-Ha_Thanh_Xuan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIET DEN BAO GIO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Biet_den_bao_gio-Thien_Kim_ft_Tuan_Vu/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TA TU TRONG DEM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ta_tu_trong_dem-Dan_Nguyen_ft_Ha_Thanh_Xuan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VIET NAM TOI DAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Viet_nam_toi_dau-Dan_Nguyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NOI LAI TINH XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Noi_lai_tinh_xua-Dan_Nguyen_ft_Bang_Tam/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BIET NOI GI DAY</title>
+<link>http://f.vp9.tv/music/tru_tinh/Biet_noi_gi_day-Tam_Doan_ft_The_Son/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TAM SU NGAY XUAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Tam_su_ngay_xuan-Tam_Doan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MEDLAY HOAI THU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Medley_hoai_thu-Ha_Vy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DOAN XUAN CA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Doan_xuan_ca-Huong_Thuy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EM DI TREN CO NON</title>
+<link>http://f.vp9.tv/music/tru_tinh/Em_di_tren_co_non-Huong_Thuy_ft_Ha_Phuong/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MIEN TAY QUE TOI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Mien_tay_que_toi-Huong_Thuy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NAO BIET NAO HAY</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nao_biet_nao_hay-Huong_Thuy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGUOI OI HAY VE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nguoi_oi_hay_ve-Tan_Nhan/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LOI CUOI CHO TINH YEU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Loi_cuoi_cho_tinh_yeu-Huong_Thuy_ft_The_Son/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KHUC CA NGAY MUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Khuc_ca_ngay_mua-Huong_Thuy_ft_Ha_Phuong/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGOI CA QUE HUONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ngoi_ca_que_huong-Giang_Tien/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANH CHO EM MUA XUAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Anh_cho_em_mua_xuan-Ho_Hoang_Yen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VO THANG DAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Vo_thang_dau-Phi_Nhung_ft_The_Son/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CON DUONG XUA ANH DI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Con_duong_xua_anh_di-My_Huyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SAU TIM THIEP HONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Sau_tim_thiep_hong-Tuan_Vu_ft_Giao_Linh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DOI MAT NGUOI XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Doi_mat_nguoi_xua-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XIN GOI NHAU LA CO NHAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Xin_goi_nhau_la_co_nhan-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TOI VAN NHO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Toi_van_nho-Quang_Le_ft_Quynh_Dung/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PHUT DAU TIEN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Phut_dau_tien-Nguyen_Le_ft_Quynh_Dung/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VE DAU MAI TOC NGUOI THUONG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Ve_dau_mai_toc_nguoi_thuong-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BONG O MOI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Bong_o_moi-Quang_Le_ft_Ha_Phuong/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGHI CHUYEN NGAY XUAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHAT KY DOI TOI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nhat_ky_doi_toi-Mai_Thien_Van/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>YEU SAO CAI THUO BAN DAU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Yeu_sao_cai_thuo_ban_dau-Giang_Tien_ft_Truong_Son/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHUYEN DO KHONG EM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Chuyen_do_khong_em-Giang_Tien_ft_Truong_Son/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAI QUE</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hai_que-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RUNG XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Rung_xua-Huong_Thuy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOT NGUOI DI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Mot_nguoi_di-Hoang_Oanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NUOC NON NGAN DAM RA DI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nuoc_non_ngan_dam_di-Quang_Le_ft_Mai_Thien_Van/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EM VE MIET THU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Em_ve_miet_thu-Cam_Ly/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EM DI XEM HOI TRANG RAM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Em_di_xem_hoi_trang_ram-Nhu_Quynh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XIN TRA LAI THOI GIAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Xin_tra_lai_thoi_gian-Nhu_Quynh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GIO BAC</title>
+<link>http://f.vp9.tv/music/tru_tinh/Gio_bac-Phi_Nhung/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CON MAI LOI RU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Con_mai_loi_ru-Phi_Nhung/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRA LAI THOI GIAN</title>
+<link>http://f.vp9.tv/music/tru_tinh/Tra_lai_thoi_gian-Le_Quyen/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HUONG XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Huong_xua-Thien_Ton/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAN MAC TU</title>
+<link>http://f.vp9.tv/music/tru_tinh/Han_mac_tu-Cam_Ly/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ROI MAI TOI DUA EM DI</title>
+<link>http://f.vp9.tv/music/tru_tinh/Roi_mai_toi_dua_em_di-Hop_Ca/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KHONG PHAI TAI CHUNG MINH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Khong_phai_tai_chung_minh-Quang_Le_ft_Ha_Vy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HOA TIM NGAY XUA</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hoa_tim_nguoi_xua-Quang_Le/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MUA XUAN LA KHO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Mua_xuan_la_kho-Tuan_Vu/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GOI DO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Goi_do-Duong_Ngoc_Thai/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EO LE CUOC TINH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Eo_le_cuoc_tinh-Duong_Ngoc_Thai/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRACH AI VO TINH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Trach_ai_vo_tinh-Giang_Tien/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VONG KIM LANG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Vong_kim_lang-Giang_Tien/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HOA MUOI GIO</title>
+<link>http://f.vp9.tv/music/tru_tinh/Hoa_muoi_gio-Trung_Hau/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRA LAI EM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Tra_lai_em-Giang_Tien_ft_Che_Thanh/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VI TRONG NGHICH CANH</title>
+<link>http://f.vp9.tv/music/tru_tinh/Vi_trong_nghich_canh-Duong_Ngoc_Thai_ft_Giang_Tien/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BAI CA KY NIEM</title>
+<link>http://f.vp9.tv/music/tru_tinh/Bai_ca_ky_niem-Giang_Tien_ft_Vu_Duy/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHAT NANG</title>
+<link>http://f.vp9.tv/music/tru_tinh/Nhat_nang-Giang_Tien/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]*********** NHẠC TRẺ ************[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CON BUOM XUAN -HO QUANG HIEU</title>
+<link>http://f.vp9.tv/music/nhac_tre/Con_buom_xuan-Ho_Quang_Hieu/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DUNG QUEN EM</title>
+<link>http://f.vp9.tv/music/nhac_tre/Dung_quen_em-Mi_Tran/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ALL RISE</title>
+<link>http://f.vp9.tv/music/nhac_au_my/All_rise-Blue/mvhd.HV.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DONG XANH</title>
+<link>http://f.vp9.tv/music/nhac_tre/Dong_xanh-Vy_Oanh/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EM CUA NGAY HOM QUA</title>
+<link>http://f.vp9.tv/music/music_channel/vpop/Em_cua_ngay_hom_qua-M_TP/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AO GIAC</title>
+<link>http://f.vp9.tv/music/nhac_tre/Ao_giac-Tuan_Hung/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CAFE DANG VA MUA</title>
+<link>http://f.vp9.tv/music/nhac_tre/Ca_phe_dang_va_mua-Thanh_Ngoc/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CAN LAM</title>
+<link>http://f.vp9.tv/music/nhac_tre/Can_lam-Tra_My/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CAU VONG SAU MUA</title>
+<link>http://f.vp9.tv/music/nhac_tre/Cau_vong_sau_mua-Cao_Thai_Son/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHANG THE THIEU EM</title>
+<link>http://f.vp9.tv/music/nhac_tre/Chang_the_thieu_em-The_Men/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHO MOT TINH YEU</title>
+<link>http://f.vp9.tv/music/nhac_tre/Cho_mot_tinh_yeu-My_Tam/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHUYEN NHU CHUA BAT DAU</title>
+<link>http://f.vp9.tv/music/nhac_tre/Chuyen_nhu_chua_bat_dau-My_Tam/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHUYEN TINH NHA THO</title>
+<link>http://f.vp9.tv/music/nhac_tre/Chuyen_tinh_nha_tho-Van_Mai_Huong/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DIEU NGOT NGAO NHAT</title>
+<link>http://f.vp9.tv/music/nhac_tre/Dieu_ngot_ngao_nhat-Cao_Thai_Son/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DON TET</title>
+<link>http://f.vp9.tv/music/nhac_tre/Don_tet-Nhom_TVM/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DON XUAN</title>
+<link>http://f.vp9.tv/music/nhac_tre/Don_xuan-Minh_Hang/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EM CHO ANH</title>
+<link>http://f.vp9.tv/music/nhac_tre/Em_cho_anh-My_Tam/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EM NHO ANH</title>
+<link>http://f.vp9.tv/music/nhac_tre/Em_nho_anh-Miu_Le/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GIO XUAN</title>
+<link>http://f.vp9.tv/music/nhac_tre/Gio_xuan-Hoang_Nghi_Lam/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HANH PHUC BAT TAN</title>
+<link>http://f.vp9.tv/music/nhac_tre/Hanh_phuc_bat_tan-Ho_Ngoc_Ha/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAY NOI VOI EM</title>
+<link>http://f.vp9.tv/music/nhac_tre/Hay_noi_voi_em-Ho_Ngoc_Ha/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HEN LAI NGAY SAU</title>
+<link>http://f.vp9.tv/music/nhac_tre/Hen_lai_ngay_sau-Hien_Thuc/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HOI HAN TRONG ANH</title>
+<link>http://f.vp9.tv/music/nhac_tre/Hoi_han_trong_anh-Tuan_Hung/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KHUC XUAN YEU DOI</title>
+<link>http://f.vp9.tv/music/nhac_tre/Khuc_xuan_yeu_doi-Ai_Phuong_ft_Khuong_Ngoc/mvhd.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR magenta][B]*********** NHẠC QUỐC TẾ BẤT HỦ ************[/B][/COLOR]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Woman In Love - Barbra Streisand</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSeGlDcjJfbnZsQ0k/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>When a Man Loves a Woman - Michael Bolton</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSWTBRN3lPdzFJM1k/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>We Are The World - Various Artists</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSUkpfN0pHcjl5MHM/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Un-Break My Heart - Toni Braxton</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSWUtvOVhLOENoREE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Too Much Heaven - Bee Gees</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSZFpnNHNrNkhPTmM/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sealed With A Kiss - Jason Donovan</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSSmFTM2JVRFVGT0E/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Say You Say Me - Lionel Richie</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSYzFrS0JuTEV3VTg/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Said I Loved You But I Lied - Michael Bolton</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSSGhTOHNXQnZmZUk/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sacrifice - Elton John</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSMGwwZUZseGxUenc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Right Here Waiting - Richard Marx</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSZ3Q5RWtjYzZmS3c/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Rhythm Of The Rain - Jason Donovan</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSTHpzQmV2Z3JUN1k/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Please Forgive Me - Bryan Adams</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSWnBidnRacnkxaTg/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Now &amp; Forever - Richard Marx</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSeWhQLTZPaGxJQlU/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nothing Gonna Change My Love For You - Glenn Medeiros</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSYkRUekJ6Z1FYY1E/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>More Than I Can Say - Leo Sayer</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSY3BuYVNvX0t2TTA/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Last Christmas -Wham!</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSUXJRVU9xNzZBT1E/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>It Must Have Been Love - Roxette</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSeVFkZHF6c3FkYUk/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Imagine - John Lennon</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSUWtmc2wtZTIyZFE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>I Will Always Love You - Whitney Houston</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSR3Z6Q2swRDBJVWc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>I Just Called To Say I Love You - Stevie Wonder</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSUlRXNllJYmV2X00/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>How Deep Is Your Love - Bee Gees</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSMzU1UUJqUnNuR2M/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hotel California - The Eagles</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSYUFMT19QekNGNzQ/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hello - Lionel Richie</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSb09UamZkY3hIbnc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Happy New Year - Abba</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSdlFRWXNpU05uOWc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Everytime You Go Away - Paul Young</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSYkpwb3hzVlV0SEk/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Everything I Do Do It For You - Bryan Adams</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSZVcxelVFNHVQTzA/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Careless Whisper - George Michael</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSMjRxOE1FMVV1Rlk/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Can You Feel The Love Tonight - Elton John</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSX1dVeUlRSlVnX1E/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Because I Love You - Shakin' Stevens</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSTmMtZXFhdDBKYTg/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>And I Love Her - The Beatles</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0BzFQ3I70b9pSMGJDZkU5SGw0UDQ/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Wind Of Change - Scorpions</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rcEtVTHYzZVRZbEE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>When The Children Cry - White Lion</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rQ3pPeUhiOWE0M2M/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Unforgiven II - Metallica</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rTGN3TzNSMmhhUzQ/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Unforgiven - Metallica</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rSEhTLXlubl9SelE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Final Countdown - Europe</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rWGI3dG9XcXlaX1k/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Still Loving You - Scorpions</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rMExMZ045dC1MQkE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Stairway to Heaven - Led Zeppelin</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rYjVXbk0zbDVoMHc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>She's Gone - Steelheart</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rRklueWVrRThvQ3M/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Send Me An Angel - Scorpions</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rMFFJaHNTNWR4ekk/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>November Rain - Guns N' Roses</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rOHRTRFhVUzNXdkE/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nothing Else Matters - Metallica</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rQnRyZmdfd0pSUXc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>It's My Life - Bon Jovi</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4raElxTWRvSXhhNzg/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>I'll Be There For You - Bon Jovi</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rTGgzSVRnZnZ6MWM/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>I Remember You - Skid Row</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4reVBManBjeEZ0SDQ/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>I Don't Want to Miss a Thing - Aerosmith</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rR2dGMV96dm16bE0/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Forever - Stratovarius</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rb2JuUHc4S1B1cWc/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Don't Cry - Guns N' Roses</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rRVdyenRlblFxLUU/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Carrie - Europe</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rMk9URnJtUWtrbzA/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Amazing - Aerosmith</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rOEZDTkxuX2xOdWs/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Always - Bon Jovi</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rN2g0bjBUeTR2S00/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>18 And Life - Skid Row</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0Bw7ixOcK9J4rVlZkdDBqLUZwQTA/view&amp;mode=play_link</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+</items>
+
+
+
