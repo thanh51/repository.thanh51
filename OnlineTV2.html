@@ -21,7 +21,7 @@ padding: 0px;
   //-->
   </script>
   <center><div id="jukebox">
-Date&Time (GMT+7: Bangkok, Hanoi, Jakarta): <iframe src="http://free.timeanddate.com/clock/i3fg4w7w/n95/tlth/fn17/tt0/tw0/tm2/td1/th1/ta1/tb4" frameborder="0" width="97" height="36"></iframe>
+Date&Time (GMT+7: Bangkok, Hanoi, Jakarta): <iframe src="http://free.timeanddate.com/clock/i3fg4w7w/n95/tlth/fn17/tt0/tw0/tm2/td1/th1/ta1/tb4" frameborder="0" width="96" height="36"></iframe>
 	<span id="music1"><embed type="application/x-mplayer2" id="music1"
 		pluginspage="http://www.microsoft.com/Windows/MediaPlayer/"
 		src="http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8"></iframe> 
@@ -30,26 +30,120 @@ Date&Time (GMT+7: Bangkok, Hanoi, Jakarta): <iframe src="http://free.timeanddate
 
   </div>
        <center><select id="estacao" onchange="song()" size="1">
-<option value="http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8">Chúc bạn thưởng thức vui vẻ ! 
+<option value="http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8">Chọn kênh Xem TV & Bóng Đá Quốc Tế theo giờ Việt Nam - Chúc bạn thưởng thức vui vẻ ! 
 
+
+<option value="http://">========= Xem Bóng Anh (EPL) theo giờ Việt Nam ==========
+<option value="http://127.0.0.1:6878/ace/getstream?id=6d478fdbfc8d4f8fc165953443ba25f8c64e2de6">13/01/2018 22h00: CHELSEA Vs LEICESTER CITY - AV3+AV4
+<option value="http://127.0.0.1:6878/ace/getstream?id=6d478fdbfc8d4f8fc165953443ba25f8c64e2de6">14/01/2018 00h30: TOTTENHAM Vs EVERTON - AV3+AV4
+<option value="http://127.0.0.1:6878/ace/getstream?id=81f57a038948e20b78cf5d9241eaeb7adcac952b">14/01/2018 00h30: TOTTENHAM Vs EVERTON - AV30 
+<option value="http://127.0.0.1:6878/ace/getstream?id=6d478fdbfc8d4f8fc165953443ba25f8c64e2de6">14/01/2018 20h30: BOURNEMOUThVs ARSENAL - AV3+AV4
+<option value="http://127.0.0.1:6878/ace/getstream?id=99d4389c15ddafcc257080f054ab3e81cf8457d8">14/01/2018 20h30: BOURNEMOUThVs ARSENAL - AV27+AV28 
+<option value="http://127.0.0.1:6878/ace/getstream?id=6d478fdbfc8d4f8fc165953443ba25f8c64e2de6">14/01/2018 23h00: LIVERPOOL Vs MANCHESTER CITY - AV3+AV4
+<option value="http://127.0.0.1:6878/ace/getstream?id=99d4389c15ddafcc257080f054ab3e81cf8457d8">14/01/2018 23h00: LIVERPOOL Vs MANCHESTER CITY - AV27+AV28
+<option value="http://127.0.0.1:6878/ace/getstream?id=6d478fdbfc8d4f8fc165953443ba25f8c64e2de6">16/01/2018 03h00: MANCHESTER UNITED Vs STOKE CITY - AV3+AV4 
+
+<option value="http://">========= Xem Bóng Đá Tây Ban Nha (La Liga) theo giờ Việt Nam ==========
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">13/01/2018 03h00: GETAFE Vs MALAGA - AV1+AV2 
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">13/01/2018 19h00: GIRONA Vs LAS PALMAS - AV1+AV2 
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">13/01/2018 22h15: REAL MADRID Vs VILLARREAL - AV1+AV2 
+<option value="http://127.0.0.1:6878/ace/getstream?id=99d4389c15ddafcc257080f054ab3e81cf8457d8">13/01/2018 22h15: REAL MADRID Vs VILLARREAL - AV27+AV28 
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">14/01/2018 00h30: EIBAR Vs ATLETICO MADRID - AV1+AV2
+<option value="http://127.0.0.1:6878/ace/getstream?id=99d4389c15ddafcc257080f054ab3e81cf8457d8">14/01/2018 00h30: EIBAR Vs ATLETICO MADRID - AV27+AV28 
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">14/01/2018 02h45: DEPORTIVO Vs VALENCIA - AV1+AV2
+<option value="http://127.0.0.1:6878/ace/getstream?id=99d4389c15ddafcc257080f054ab3e81cf8457d8">14/01/2018 02h45: DEPORTIVO Vs VALENCIA - AV27+AV28  
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">14/01/2018 18h00: LEVANTE Vs CELTA - AV1+AV2 
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">14/01/2018 22h15: ALAVES Vs SEVILLA FC - AV1+AV2
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">15/01/2018 00h30: ESPANYOL Vs ATHLETIC CLUB BILBAO - AV1+AV2
+<option value="http://127.0.0.1:6878/ace/getstream?id=541257197770d34d4e89a05dac57b259e9e63127">14/01/2018 02h45: REAL SOCIEDAD Vs FC BARCELONA - AV1+AV2
+<option value="http://127.0.0.1:6878/ace/getstream?id=aa634a4a55bb780a0ae52a53ed0f6bbd120ef59c">14/01/2018 02h45: REAL SOCIEDAD Vs FC BARCELONA - AV10+AV11
+<option value="http://127.0.0.1:6878/ace/getstream?id=99d4389c15ddafcc257080f054ab3e81cf8457d8">14/01/2018 02h45: REAL SOCIEDAD Vs FC BARCELONA - AV27+AV28 
+<option value="http://127.0.0.1:6878/ace/getstream?id=74b5253870d0c79c6c91b8b5a22585a836501bea">16/01/2018 03h00: REAL BETIS Vs LEGANES - AV19+AV20
+
+
+<option value="http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8">========= Truyền hình K+ ==========
+<option value="http://127.0.0.1:6878/ace/getstream?id=ae6e58665fbb6ac2ebe4b530b5ed211893df30a3">K+1 TranNam
+<option value="http://127.0.0.1:6878/ace/getstream?id=300bb197fb83e8cebd9ff4649c1a141a44a6650c">K+PM TranNam
+<option value="http://127.0.0.1:6878/ace/getstream?id=630db1c6010ba9ffab1679f3ed2993f0ffbc3780">K+PC TranNam
+<option value="http://127.0.0.1:6878/ace/getstream?id=0a1955ffebd2646e85986626463d77b4ea39d021">VTV6 HD TranNam
+
+
+<option value="http://58.186.10.182:4022/udp/225.1.2.249:30120">========= ONETV HD (chung các mạng,không xem được thường xuyên) ==========
+<option value="http://58.186.10.182:4022/udp/225.1.2.249:30120">VTV1 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.13:30120">VTV2 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.247:30120">VTV3 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.20:30120">VTV4 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.131:30120">VTV5 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.245:30120">VTV6 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.97:30120">VTV7 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.166:30120">VTV8 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.128:30120">VTV9 HD 
+<option value="http://58.186.10.182:4022/udp/225.1.2.217:30120">QPVN HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.213:30120">QUỐC HỘI HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.91:30120">NHÂN DÂN HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.43:30120">TTXVN HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.169:30120">ANTV HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.240:30120">THETHAOTV HD 
+<option value="http://58.186.10.182:4022/udp/225.1.2.242:30120">BONGDATV HD 
+<option value="http://58.186.10.182:4022/udp/225.1.2.103:30120">VTVcab21 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.186:30120">Ha Noi 1 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.125:30120">Ha Noi 2 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.193:30120">HTV2 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.192:30120">HTV7 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.190:30120">HTV9 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.186:30120">HTVC THUANVIET HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.184:30120">HTVC PHIM HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.182:30120">HTVC FBNC HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.254:30120">VTC1 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.251:30120">VTC3 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.200:30120">VTC4 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.250:30120">VTC13 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.88:30120">VTC14 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.179:30120">THÁI NGUYÊN 1 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.165:30120">PHÚ THỌ HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.44:30120">HAI PHONG HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.40:30120">BẮC NINH HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.150:30120">BTV1 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.149:30120">BTV2 HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.30:30120">BTV4 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.175:30120">BÀ RỊA VŨNG TÀU HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.187:30120">SCTV4 HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.189:30120">mobiTV ANVIEN  HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.233:30120">HBO HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.89:30120">RED BY HBO HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.239:30120">FOX MOVIES HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.225:30120">AXN HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.86:30120">MAX BY HBO HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.51:30120">FOX HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.236:30120">FOX LIFE  HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.231:30120">CARTOON NETWORK HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.60:30120">SGEM HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.220:30120">TOONAMI HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.235:30120">NATGEO HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.223:30120">DISCOVERY ASIA HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.215:30120">OUTDOOR CHANNEL HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.253:30120">DA VINCI HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.188:30120">CHANNEL V HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.46:30120">DW HD
+<option value="http://58.186.10.182:4022/udp/225.1.1.198:30120">ASIAN FOOD CHANNEL HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.229:30120">FOX SPORT HD
+<option value="http://58.186.10.182:4022/udp/225.1.2.227:30120">FASHIONTV HD
+
+<option value="http://58.186.10.182:4022/udp/225.1.2.249:30120">========= TV Việt tổng hợp (xem chung các mạng) ==========
+<option value="http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8">VTV1 
+<option value="http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8">TTXVN 
+<option value="http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8">TH Nhân Dân HD
+<option value="rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p">QPVN
 <option value="http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8">VTC Ca nhac HD
 <option value="http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8">ANTG 
 <option value="http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8">NCM BTV10  
 <option value="http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8">PHIMHAY TV 
 <option value="http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8">Mien Tay
 <option value="http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8"> SAM BTV11 TV 
-<option value="http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8">Hà Giang
-<option value="http://118.107.76.15:1983/live/BK_live.smil/playlist.m3u8">Bắc Cạn
-<option value="http://118.107.76.15:1983/live/CB_live.smil/playlist.m3u8">Cao Bằng
-<option value="http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/playlist.m3u8">Bắc Ninh
-<option value="http://117.103.224.75:1935/live/_definst_/haiphong_640x480_800kbps/playlist.m3u8">Hải Phòng
-<option value="http://118.107.76.15:1983/live/smil:LD_live.smil/playlist.m3u8">Lâm Đồng
-<option value="http://118.107.76.15:1983/live/smil:PT_live.smil/playlist.m3u8">Phú Thọ
-<option value="http://118.107.76.15:1983/live/smil:QT_live.smil/playlist.m3u8">Quảng Trị
-<option value="http://118.107.76.15:1983/live/smil:SL_live.smil/playlist.m3u8">Sơn La
-<option value="http://118.107.76.15:1983/live/DB_640x480_800kbps.stream/playlist.m3u8">Điện Biên
+<option value="http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/playlist.m3u8">Bắc Ninh HD
+<option value="http://117.103.224.75:1935/live/_definst_/haiphong_640x480_800kbps/playlist.m3u8">Hải Phòng HD
 
-<option value="udp://@225.1.2.249:30120">========= ONETV HD (Mạng FPT) ==========
+<option value="udp://@225.1.2.249:30120">========= ONETV HD(Cho mạng FPT) ==========
 <option value="udp://@225.1.2.249:30120">VTV1 HD
 <option value="udp://@225.1.2.13:30120">VTV2 HD
 <option value="udp://@225.1.2.247:30120">VTV3 HD
@@ -80,424 +174,39 @@ Date&Time (GMT+7: Bangkok, Hanoi, Jakarta): <iframe src="http://free.timeanddate
 <option value="udp://@225.1.2.200:30120">VTC4 HD
 <option value="udp://@225.1.2.250:30120">VTC13 HD
 <option value="udp://@225.1.2.88:30120">VTC14 HD
+<option value="udp://@225.1.2.179:30120">THÁI NGUYÊN 1 HD
+<option value="udp://@225.1.2.165:30120">PHÚ THỌ HD
 <option value="udp://@225.1.1.44:30120">HAI PHONG HD
+<option value="udp://@225.1.1.40:30120">BẮC NINH HD
 <option value="udp://@225.1.1.150:30120">BTV1 HD
 <option value="udp://@225.1.1.149:30120">BTV2 HD
 <option value="udp://@225.1.1.30:30120">BTV4 HD
+<option value="udp://@225.1.2.175:30120">BÀ RỊA VŨNG TÀU HD
+<option value="udp://@225.1.2.187:30120">SCTV4 HD
+<option value="udp://@225.1.2.189:30120">mobiTV ANVIEN  HD
 <option value="udp://@225.1.2.233:30120">HBO HD
 <option value="udp://@225.1.1.89:30120">RED BY HBO HD
 <option value="udp://@225.1.2.239:30120">FOX MOVIES HD
 <option value="udp://@225.1.2.225:30120">AXN HD
 <option value="udp://@225.1.2.86:30120">MAX BY HBO HD
+<option value="udp://@225.1.1.51:30120">FOX HD
 <option value="udp://@225.1.2.236:30120">FOX LIFE  HD
 <option value="udp://@225.1.2.231:30120">CARTOON NETWORK HD
 <option value="udp://@225.1.1.60:30120">SGEM HD
 <option value="udp://@225.1.2.220:30120">TOONAMI HD
 <option value="udp://@225.1.2.235:30120">NATGEO HD
-<option value="udp://@225.1.2.223:30120">DISCOVERY HD
+<option value="udp://@225.1.2.223:30120">DISCOVERY ASIA HD
 <option value="udp://@225.1.2.215:30120">OUTDOOR CHANNEL HD
 <option value="udp://@225.1.2.253:30120">DA VINCI HD
 <option value="udp://@225.1.1.188:30120">CHANNEL V HD
-<option value="udp://@225.1.2.237:30120">STARWORLD HD
+<option value="udp://@225.1.1.46:30120">DW HD
 <option value="udp://@225.1.1.198:30120">ASIAN FOOD CHANNEL HD
 <option value="udp://@225.1.2.229:30120">FOX SPORT HD
 <option value="udp://@225.1.2.227:30120">FASHIONTV HD
-
-<option value="https://www.youtube.com/watch?v=tANJiz4cDWE">=== NHẠC TRỮ TÌNH (Lossless)====
-<option value="https://www.youtube.com/watch?v=efXPJYL4JJk">Tuyệt đỉnh song ca Bolero hay nhất 2017
-<option value="https://www.youtube.com/watch?v=eUKubb07iAc">Ca nhạc theo yêu cầu
-<option value="https://www.youtube.com/watch?v=tANJiz4cDWE">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/watch?v=CJV7M61_8Ck">Nhạc TRữ Tình ChỌn Lọc Hay Nhất
-<option value="https://www.youtube.com/watch?v=MqCaUOABeg4">Nhac Vang Chon Loc
-<option value="https://www.youtube.com/watch?v=PANY0e-6hfU">Liên Khúc Chiều Mưa 4
-<option value="https://www.youtube.com/watch?v=Xb8GDL6hM3s">Bolero LossLess
-<option value="https://www.youtube.com/watch?v=XgY1_OFAwg4">NHẠC ÂU MỸ BẤT HỦ
-<option value="https://www.youtube.com/watch?v=g77tMnZrbYk">Tuyển tập Lệ Quyên 2016
-<option value="https://www.youtube.com/watch?v=Ni99S4O-s4I">Album Trường Vũ
-<option value="https://www.youtube.com/watch?v=7BO0IJsiAmE">Nhạc vàng hải ngoại chọn lọc 2017
-<option value="https://www.youtube.com/watch?v=sRf8sgPnAQs">Ngọc Lan, Kiều Nga, Tuyết Nhung
-<option value="https://www.youtube.com/watch?v=ZbCyyZeMe-A">Liên khúc Đan Nguyên 1
-<option value="https://www.youtube.com/watch?v=tANJiz4cDWE">Nhạc Vang Chất Lượng Cao
-<option value="https://www.youtube.com/watch?v=Dun_rnVOLns">Tuyển Chọn 30 Bài Nhạc Lính Chiến HAY NHẤT
-<option value="https://www.youtube.com/watch?v=22RqeRGsWZ0">Những tình khúc nhạc vàng bất hủ chọn lọc
-<option value="https://www.youtube.com/watch?v=Ipd6ukMXZng">Album Trường Vũ  Nó Và Tôi
-<option value="https://www.youtube.com/watch?v=yynJP3pTKlM">Nhạc vàng trữ tình Bolero hải ngoại
-<option value="https://www.youtube.com/watch?v=qKeKdk3VZSg">Liên Khúc Tình Yêu Tuyệt Vời
-<option value="https://www.youtube.com/watch?v=uvL_-j25S-4">Tuấn Vũ Tuyệt Phẩm
-<option value="https://www.youtube.com/watch?v=VOh7vErZTiw">Tuyển tập nhạc không lời hay
-<option value="https://www.youtube.com/watch?v=bmaibO5eKT4">Tuấn Vũ & Hương Lan
-<option value="https://www.youtube.com/watch?v=L35gySNQXe0">Tổng hợp nhạc trẻ hay nhất 2015
-<option value="https://www.youtube.com/watch?v=__rb8Tk_Txw">Thiên Kim
-<option value="https://www.youtube.com/watch?v=l1U02IZPJIk">Nhạc xuân 2016 hay nhất
-<option value="https://www.youtube.com/watch?v=SEwEBdlLBug">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/watch?v=FJpXaNjk8jQ">Nhạc Vàng Hải Ngoại Trường Vũ
-<option value="https://www.youtube.com/watch?v=wJX_-Znj1Ys">Top 10 Bài Hát Nhạc Trẻ Hay
-<option value="https://www.youtube.com/watch?v=BYLwgqdknWk">Lệ Quyên 2017
-<option value="https://www.youtube.com/watch?v=6_YrxuPKzG4">Tuấn Vũ Hương Lan , Giao Linh, Sơn Tuyền
-<option value="https://www.youtube.com/watch?v=EVVXkCC4HVo">Ngọc Lan, Lâm Thúy Vân, Kiều Nga
-<option value="https://www.youtube.com/watch?v=SEwEBdlLBug">Nhạc Bolero Hay Nhất Của ĐAN NGUYÊN
-<option value="https://www.youtube.com/watch?v=_OlfydeRdOQ">Liên Khúc Chiều Mưa 3
-<option value="https://www.youtube.com/watch?v=lMRkqW7sMUA">Hương Lan - Biết Nói Gì Đây
-<option value="https://www.youtube.com/watch?v=kRJButYEBsY">Liên Khúc Tuấn Vũ Trọn Bộ
-<option value="https://www.youtube.com/watch?v=SEwEBdlLBug">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/watch?v=QkIIGOzHavk">Tuấn Vũ, Hương Lan, Ngọc lan, Sơn Tuyền
-<option value="https://www.youtube.com/watch?v=3LffW65BXcI">Nhạc Vàng Hải Ngoại Trường Vũ
-<option value="https://www.youtube.com/watch?v=6OhJiTjD9g4">Minh Tuyết
-<option value="https://www.youtube.com/watch?v=taD6lwTFqsY">LK NHAC Vàng Không Lời Hay nhất
-<option value="https://www.youtube.com/watch?v=H2T6Z6msyNE">Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/watch?v=X76RqT6COKw">Liên Khúc Chọn Lọc
-<option value="https://www.youtube.com/watch?v=dxWVeTE-yoc">Thiên Kim, Diễm Liên, Thanh Trúc, Quang Minh, Thanh Hà
-<option value="https://www.youtube.com/watch?v=O1zENZEPYmY">Bolero Hải Ngoại
-<option value="https://www.youtube.com/watch?v=A-dl87R9RF8">Liên Khúc Tình Yêu 2
-<option value="https://www.youtube.com/watch?v=iiaxJwaY94A">LK Nhạc Bolero Trữ Tình Hay Nhất 2017
-<option value="https://www.youtube.com/watch?v=kyyFsbi8QhI">Nhạc Vàng Bolero Chọn Lọc Hay Nhất
-<option value="https://www.youtube.com/watch?v=L-OpiBmXHzU">Liên Khúc Chiều Mưa 3
-<option value="https://www.youtube.com/watch?v=nZ6rZ-eqzi4">Tuyển tập những bài hát guitar hay nhất
-<option value="https://www.youtube.com/watch?v=zcN6oArjg5g">Tuấn Vũ, Giao Linh, Thanh Tuyền, Trúc Mai, Huy Sinh
-<option value="https://www.youtube.com/watch?v=H2T6Z6msyNE">Dan Nguyen - Nhạc Vàng Trữ Tình
-<option value="https://www.youtube.com/watch?v=tOIr7UaHtlw">Liên khúc ĐÓN XUÂN NÀY NHỚ XUÂN XƯA
-<option value="https://www.youtube.com/watch?v=W4GltzeQ1aY">Liên Khúc Chiều Mưa 3
-<option value="https://www.youtube.com/watch?v=xZcT_BEJaTY">Nhạc Vàng Chọn Lọc Hay nhất 2017
-<option value="https://www.youtube.com/watch?v=7YdZGjGrotk">Như Quỳnh 2017
-<option value="https://www.youtube.com/watch?v=iCL4fYm6Ojs">Đàm Vĩnh Hưng 2011
-<option value="https://www.youtube.com/watch?v=CgYOUa6aDk4">Trường Vũ  - Album Cơn Mê Tình Ái
-<option value="https://www.youtube.com/watch?v=IJKkzPHQNUQ">Ngọc Lan, Như Mai, Kim Anh
-<option value="https://www.youtube.com/watch?v=ABtzFR8LZB8">Nhạc vàng Bolero hải ngoại
-<option value="https://www.youtube.com/watch?v=4cInu7BJzHE">Ngọc Lan, Kiều Nga, Nhật Hạ, Thúy Vi
-<option value="https://www.youtube.com/watch?v=NQAIiYIDYJQ">Nhạc Vang Chất Lượng Cao
-<option value="https://www.youtube.com/watch?v=zIqcwIsHLKo">Tình Khúc Trịnh Công Sơn
-<option value="https://www.youtube.com/watch?v=hTBWHRlhQmk">Giang Tử - Tuyệt phẩm Nhạc vàng Bolero Hải ngoại
-<option value="https://www.youtube.com/watch?v=ZgUJ7OqH0eo">Liên Khúc Nhac lossless
-<option value="https://www.youtube.com/watch?v=0FQpYeXMltA">Anh Thơ tuyển tập nhạc Lossless
-<option value="https://www.youtube.com/watch?v=mT2bPvIrwdM">Nhạc vàng trữ tình Bolero Như Quỳnh
-<option value="https://www.youtube.com/watch?v=eJgwMRoKrzY">Nhạc vàng Bolero
-<option value="https://www.youtube.com/watch?v=g4t0SKQ3UXE">NHẠC VÀNG TRỮ TÌNH BOLERO GIỌNG CA TRẺ
-<option value="https://www.youtube.com/watch?v=6KKVD2VQs5A">Nhạc không lời 
-<option value="https://www.youtube.com/watch?v=LNmnmw7gY4A">Thien Trang- Chế Linh- Tuấn Vũ
-<option value="https://www.youtube.com/watch?v=LIlwpJPWL5c">Những Bản Độc Tấu Guitar
-<option value="https://www.youtube.com/watch?v=VrCjIETR6qU">Liên khúc Nonstop Cha cha cha
-<option value="https://www.youtube.com/watch?v=4sPaKw6CHoQ">Liên Khúc Hải Ngoại sôi động
-<option value="https://www.youtube.com/watch?v=60Zdy3jfzb4">Album Cho người tình nhỏ
-<option value="https://www.youtube.com/watch?v=KP-MzFJS7sc">Nhạc không lời hay- Two Guitars
-<option value="https://www.youtube.com/watch?v=lySf_wpbXC8">Liên khúc Hit hải ngoại
-<option value="https://www.youtube.com/watch?v=_V1HlcCDJhg">liên  khúc nhạc trữ tình hay nhất
-<option value="https://www.youtube.com/watch?v=ZnS0WG7-ZCI">Đan Nguyên - Album Có Thế Thôi
-<option value="https://www.youtube.com/watch?v=Nz-_cbp8icg">Lệ Quyên colection
-<option value="https://www.youtube.com/watch?v=72Imeuf6ufY">Nhạc Trữ Tình - Liên Khúc Mưa
-<option value="https://www.youtube.com/watch?v=KdJo3sr-4fs">Lien Khúc Tình yêu 4
-<option value="https://www.youtube.com/watch?v=jMIC3QjSd3E">nhạc không lời buồn
-<option value="https://www.youtube.com/watch?v=pNSFMsEiCkY">Liên Khúc Hải Ngoại
-<option value="https://www.youtube.com/watch?v=ZJc218-49mY">Nhac tru tinh lossless
-<option value="https://www.youtube.com/watch?v=qUzPkZSLEds">Nhạc Bolero Hay Nhất
-<option value="https://www.youtube.com/watch?v=tqe9trZ3LYk">Nhạc vàng trữ tình Bolero Hoàng Oanh
-<option value="https://www.youtube.com/watch?v=Y2SF55I-KmU">Lien khúc chiều mưa 3
-<option value="https://www.youtube.com/watch?v=KaC4uoKLJa0">Album Ngọc Lan
-<option value="https://www.youtube.com/watch?v=bqW7ttN-Sxg">Hòa Tấu Guitar Vô Thường
-<option value="https://www.youtube.com/watch?v=2LVokR-E3ig">Đan Trường - Nhạc tuyển Vol 1
-<option value="https://www.youtube.com/watch?v=wRPHpIwIf40">Nhạc vàng trữ tình - Như Quỳnh 4
-<option value="https://www.youtube.com/watch?v=4V04Hp60_zg">Sương Lạnh Chiều Đồng - Thanh Tuyền
-<option value="https://www.youtube.com/watch?v=lnrUe7PCbc0">Liên khúc tình đầu - Elvis Phương, Hương Lan
-<option value="https://www.youtube.com/watch?v=VOh7vErZTiw">Nhạc không lời - Aranjuez Mon Amour
-<option value="https://www.youtube.com/watch?v=ckRJvaqZlQ4">Phương Dung - Ngày đó xa rồi
-<option value="https://www.youtube.com/watch?v=4Qk2_PSAoAo">Nhac tru tinh am thanh lossless
-<option value="https://www.youtube.com/watch?v=EHu6goQNfyo">Liên Khúc Tình Yêu
-<option value="https://www.youtube.com/watch?v=mA3V4YVfdIQ">Liên Khúc Chiều Mưa 2
-<option value="https://www.youtube.com/watch?v=H2T6Z6msyNE">NHẠC ÂU MỸ BẤT HỦ
-<option value="https://www.youtube.com/watch?v=-12Y8Dqikic">Album Ngọc Lan
-<option value="https://www.youtube.com/watch?v=6ksyO7WkP0M">Nhạc vàng trữ tình Bolero Mạnh Đình
-<option value="https://www.youtube.com/watch?v=Yec1oZPTsI4">Nhạc Vang Chất Lượng Cao
-<option value="https://www.youtube.com/watch?v=PMxgWY-ZHlQ">LK Thành Phố Buồn
-<option value="https://www.youtube.com/watch?v=IngVVpfGECQ">Liên Khúc Nhạc Mừng Xuân 2017
-<option value="https://www.youtube.com/watch?v=rFSBxyj7PiA">Tâm Đoan - Sầu Lẻ Bóng
-<option value="https://www.youtube.com/watch?v=ioXLpcbgSzE">Nhạc vàng trữ tình Bolero hải ngoại
-<option value="https://www.youtube.com/watch?v=5xz0N6iaFoA">Album Song Ca Đặc Biệt
-<option value="https://www.youtube.com/watch?v=e2tKtqZKJXs">Khánh Ly Lossless - Album Chưa Phai
-<option value="https://www.youtube.com/watch?v=S81aM0j2OWU">Nhạc vàng Bolero hải ngoại Tâm Đoan - Huế Xưa
-<option value="https://www.youtube.com/watch?v=mHDl579NB7c">Tuyển Tập Những Bài Hát Hay Nhất của Như Quỳnh
-
-
-
        </select>       
 
        
 
 </body>
 </html>
-
-♥ ACESTREAM SPORTS CHANNELS: Nhấp chuột vào biểu tượng kênh để xem TV bằng Media Ace stream cài trong máy tính và thiết bị android ♥ <br>
-
-
-✔ ======= Bóng đá Anh (EPL) xem theo giờ Việt Nam =========✔ <br>
-- 13/01/2018 22h00 CHELSEA Vs LEICESTER CITY  > Kênh: 		AV3+AV4 <br>
-- 14/01/2018 00h30 TOTTENHAM Vs EVERTON  > Kênh: 		AV3+AV4;AV30  <br>
-- 14/01/2018 20h30 BOURNEMOUThVs ARSENAL  > Kênh: 		AV3+AV4; AV27+AV28  <br>
-- 14/01/2018 23h00 LIVERPOOL Vs MANCHESTER CITY  > Kênh: 	AV3+AV4; AV27+AV28 <br>
-- 16/01/2018 03h00 MANCHESTER UNITED Vs STOKE CITY  > Kênh: 	AV3+AV4 <br> <br>
-
-
-✔ ========== Bóng đá Tây Ban Nha (Spain La Liga) xem theo giờ Việt Nam ======✔ <br>
-
-- 13/01/2018 03h00 GETAFE Vs MALAGA  > Kênh: 			AV1+AV2 <br>
-- 13/01/2018 19h00 GIRONA Vs LAS PALMAS 1  > Kênh: 		AV1+AV2 <br>
-- 13/01/2018 22h15 REAL MADRID Vs VILLARREAL  > Kênh: 		AV1+AV2; AV27+AV28 <br>
-- 14/01/2018 00h30 EIBAR Vs ATLETICO MADRID  > Kênh: 		AV1+AV2; AV27+AV28 <br>
-- 14/01/2018 02h45 DEPORTIVO Vs VALENCIA   > Kênh: 		AV1+AV2; AV27+AV28 <br>
-- 14/01/2018 18h00 LEVANTE Vs CELTA 1  > Kênh: 			AV1+AV2 <br>
-- 14/01/2018 22h15 ALAVES Vs SEVILLA FC  > Kênh: 		AV1+AV2 <br>
-- 15/01/2018 00h30 ESPANYOL Vs ATHLETIC CLUB BILBAO  > Kênh: 	AV1+AV2 <br>
-- 14/01/2018 02h45 REAL SOCIEDAD Vs FC BARCELONA   > Kênh: 	AV1+AV2; AV10+AV11; AV27+AV28 <br>
-- 16/01/2018 03h00 REAL BETIS Vs LEGANES  > Kênh: 		AV19+AV20 <br> <br>
-
- 
-<a href="acestream://541257197770d34d4e89a05dac57b259e9e63127"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png"/></a>
-<a href="acestream://6d478fdbfc8d4f8fc165953443ba25f8c64e2de6"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av3.png"/></a>
-<a href="acestream://f53be5c12b02147c0b6db8eccb2382dadfc80695"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av5.png"/></a>
-<a href="acestream://803d4a1c84d693e29accc37e6294b04cb1fd6302"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av7.png"/></a>
-<a href="acestream://60b663f1299be92327aee5279cb3832c60526f65"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av8.png"/></a>
-<a href="acestream://aa634a4a55bb780a0ae52a53ed0f6bbd120ef59c"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av10.png"/></a> 
-<a href="acestream://b32d0c731081e0f6a36f4078851f3ad8cfdfefba"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av12.png"/></a>
-<a href="acestream://741dc504eef1b01edcfdbc0b00cce929e4cc17d8"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av13.png"/></a>
-<a href="acestream://9fad5191557d9802b63357127f6fe75bfd01df0a"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av15.png"/></a>
-<a href="acestream://11816c3fdf09a722abb938704c03a94f1b08c8f3"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av17.png"/></a>
-<a href="acestream://74b5253870d0c79c6c91b8b5a22585a836501bea"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av19.png"/></a>
-<a href="acestream://bc34a5ac693795a8951b13412e11681f0a72e5cc"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av21.png"/></a> 
-<a href="acestream://ac66f5e77fb3da368db4a94e96b2881af98d59b3"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av23.png"/></a> 
-<a href="acestream://a59f0cd6741e064abe691edffd800fa69ba221f8"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av25.png"/></a>
-<a href="acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av27.png"/></a>
-<a href="acestream://81f57a038948e20b78cf5d9241eaeb7adcac952b"><img src="http://www.sboeasy.com/assets/images/channel_mini_logo/av30.png""/></a><style type="text/css">html    
-            #st1500369420 *
-                box-sizing:content-box !important;
-            }
-
-            #st1500369420 a
-            {
-                display: inline-block !important;
-                vertical-align: top;
-                padding: 0; margin: 0;
-            }
-
-            #st1500369420 a img
-            {
-                display: inline-block !important;
-            }
-
-            #st1500369420 ._xt_ad_close, #st1500369420 ._xt_ad_close_internal
-            {
-                display: inline-block !important;
-                position: absolute !important;
-                right: 6px !important;
-                width: 20px !important;
-                height: 20px !important;
-                cursor: pointer;
-            }
-
-            #st1500369420 ._xt_ad_close
-            {
-                top: -10px !important;
-            }
-
-            #st1500369420 ._xt_ad_close_internal
-            {
-                border: 6px solid transparent;
-                top: -12px !important;
-                right: 3px !important;
-            }
-
-            #a1500369420
-            {
-                display: inline-block !important;
-                position: relative !important;
-                text-align: left !important;
-                visibility: visible !important;
-                max-width: 100% !important;
-                max-height: none !important;
-                z-index:999999 !important;
-                z-index:999999999 !important;
-            }
-
-            #a1500369420 img
-            {
-                max-width: none !important;
-                max-height: none !important;
-                width: auto !important;
-                height: auto !important;
-                min-width: 0 !important;
-                min-height: 0 !important;
-            }
-
-            .fba1500369420
-            {
-                color: #1D1EEB !important;
-                background-color: #fff !important;
-                padding: 10px 50px 10px 10px !important;
-                border: 1px solid #2C2C2C !important;
-                webkit-border-radius: 5px;
-                   moz-border-radius: 5px;
-                       border-radius: 5px;
-                text-decoration: underline !important;
-                font-weight: bold !important;
-                display: block !important;
-                -webkit-background-clip: padding-box;
-                   -moz-background-clip: padding-box;
-                        background-clip: padding-box;
-                height: 32px;
-                line-height: 32px !important;
-                background-image: url(http://xtgem.com/images/arrow.gif) !important;
-                background-repeat: no-repeat !important;
-                background-position: 95% center !important;
-            }
-
-            .fbp1500369420
-            {
-                position: relative !important;
-                display: block !important;
-                width:320px !important;
-                height:50px !important;
-                text-align:left !important;
-                background-color: #fff !important;
-                -moz-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
-                -webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
-                box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
-                padding: 3px !important;
-                border-radius: 3px !important;
-                border: 1px solid #6bc135 !important;
-                text-decoration: underline !important;
-            }
-
-            .fbp_txt1500369420
-            {
-                position:relative !important;
-                display: inline-block !important;
-                min-width: 200px;
-                max-width: 200px;
-                height:50px !important;
-                vertical-align: top !important;
-                line-height:50px !important;
-                margin-left: 6px !important;
-                text-align: left !important;
-                color: #0274d4 !important;
-                font-family: Helvetica, Arial, sans-serif !important;
-                font-size: 13px !important;
-                font-weight: bold !important;
-                text-decoration: underline !important;
-            }
-
-            .fbp_ico1500369420
-            {
-                position: absolute !important;
-                right: 10px !important;
-                height: 50px !important;
-                line-height: 46px !important;
-                vertical-align: top !important;
-                color: #6bc135 !important;
-            }
-
-            #st1500369420 .rolling_ad { display: none !important; }
-            #st1500369420 .rolling_ad.roll_on { display: inline-block !important; }
-        </style></div><div style="display:none"><script type="text/javascript">
-var _qevents = _qevents || [];
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-_qevents.push({
-qacct:"p-0cfM8Oh7M9bVQ"
-});
-</script>
-<noscript>
-<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
-</noscript></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
-
-                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
-
-                    function xt_cache () {
-                        d = document;
-                        b = d.getElementsByTagName('body')[0];
-                        html = d.documentElement;
-                        el = d.getElementById( 'st1500369420' );
-                        el_inner = d.getElementById( 'a1500369420' );
-                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
-                    }
-
-                    xt_cache();
-
-                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
-
-                            for ( i = 1; i < el.children.length; i++ ) {
-                                el_new += el.children[i].outerHTML;
-                            }
-
-                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
-
-                            xt_cache();
-                        }
-                        else if ( el.offsetParent === null ) {
-                            b.insertBefore( el, b.firstChild );
-
-                            xt_cache();
-                            ad_pos = true;
-                        }
-
-                        if (d.getElementById('kosmos-banner')) {
-                            ad_pos = true;
-                        }
-
-                        el.style.display="block";
-                        el.style.textAlign="center";
-                        el.style.position="fixed";
-                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
-                        el.style.left="0";
-                        el.style.right="0";
-                        el.style.height="1px";
-
-                        var el_imgs = el.getElementsByTagName( 'IMG' );
-                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
-
-                        function fix_height () {
-                            el.style.marginBottom = el_inner.offsetHeight+"px";
-                            if ( ad_pos ) {
-                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
-                            } else {
-                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
-                            }
-                        }
-
-                        setTimeout(function(){fix_height();},200);
-
-                        var closebutton = d.createElement('IMG');
-                            closebutton.src = 'http://xtgem.com/images/close2.png?v=0.01';
-                            closebutton.alt = '[x]';
-                            closebutton.setAttribute( 'class', '_xt_ad_close' );
-                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1500369420') ) { d.getElementById('wr1500369420').style.bottom = '0'; } };
-                            el_inner.appendChild(closebutton);
-
-                        // lets roll ads if needed
-                        if ( el_rolling_ads )
-                        {
-                            function roll_ads () {
-                                var i = 0,
-                                    len = el_rolling_ads.length,
-                                    curr_ad,
-                                    next_ad,
-                                    first_ad = el_rolling_ads[ 0 ];
-
-                                for ( ; i < len; i++) {
-                                    curr_ad = el_rolling_ads[ i ];
-                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
-
-                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
-                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
-                                        next_ad.className = next_ad.className + ' roll_on';
-                                        break;
-                                    }
-                                }
-                                setTimeout(roll_ads, 3500);
-                            }
-                            roll_ads();
-                        }
-                }());</script>
 
