@@ -82,13 +82,9 @@ http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8|User-
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
-rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vovtv.png",VOV NEWS
-rtmp://210.245.60.242/vovtv/vovtv 		  
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p 
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
-rtmp://210.245.60.242/vtc1hd/vtc1hd  
 #EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="VietTV",SCTV5-SCJ
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8    	 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j7NsBwD.png" group-title="VietTV",An ninh thế giới
@@ -106,31 +102,31 @@ http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:-1 tvg-logo="http://www.vietmobitv.com/vmt/images/nct.png" group-title="VietTV", NCT
 rtmp://123.30.134.108/live/nctlive
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
 rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+#EXTINF:-1  group-title="QTTH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.onlinetvler.com/sites/default/files/styles/logo/public/logo/trt-belgesel-hd.png",TRT BELGESEL HD
+#EXTINF:-1  group-title="QTTH" tvg-logo="http://www.onlinetvler.com/sites/default/files/styles/logo/public/logo/trt-belgesel-hd.png",TRT BELGESEL HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
+#EXTINF:-1  group-title="QTTH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
 rtsp://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+#EXTINF:-1  group-title="QTTH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 group-title="QTTH" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png",Premiere Clubes HD
