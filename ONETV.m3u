@@ -1,18 +1,20 @@
 #EXTM3U thanh51
 
-#EXTINF:-1,[COLORred][B]Updated ngày 17.01.2018[/B][/COLOR]
+#EXTINF:-1,[COLORred][B]Updated ngày 18.01.2018[/B][/COLOR]
 http://textuploader.com
 
-#EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s17.postimg.org/6iqhvqj5r/K_1.png",K+1 HD (link Ace by TranNam)
-http://127.0.0.1:6878/ace/getstream?id=ae6e58665fbb6ac2ebe4b530b5ed211893df30a3&.mp4
-#EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png",K+PC HD (link Ace by TranNam)
-http://127.0.0.1:6878/ace/getstream?id=630db1c6010ba9ffab1679f3ed2993f0ffbc3780&.mp4
-#EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s17.postimg.org/dzzpaft3z/K_PM.png",K+PM HD (link Ace by TranNam)
-http://127.0.0.1:6878/ace/getstream?id=300bb197fb83e8cebd9ff4649c1a141a44a6650c&.mp4
-#EXTINF:-1 tvg-id="K+NS HD" group-title="Ace" tvg-logo="https://s17.postimg.org/gyfju2l67/K_NS.png",K+NS HD (link Ace by TranNam)
-http://127.0.0.1:6878/ace/getstream?id=c48607c8ad97cceb54c589daeb937011398a56c9&.mp4
+#EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s17.postimg.org/6iqhvqj5r/K_1.png","name":"K+1 HD (by TranNam)
+http://127.0.0.1:6878/ace/getstream?id=e398458464765721823ee72ece6bd653f8efef6b&.mp4
+#EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png","name":"K+PC HD (by TranNam)
+http://127.0.0.1:6878/ace/getstream?id=a02c7dad05603b75ed0105b18ccb9d58167569d6&.mp4
+#EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s17.postimg.org/dzzpaft3z/K_PM.png","name":"K+PM HD (by TranNam)
+http://127.0.0.1:6878/ace/getstream?id=e181c4fc9e55b5e93b6e8e10696b9b1879fd9971&.mp4
+#EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s17.postimg.org/gyfju2l67/K_NS.png","name":"K+NS HD (by TranNam)
+http://127.0.0.1:6878/ace/getstream?id=33fc8f93cdc853dff477ee1b7e69827df03d41a6&.mp4
 #EXTINF:-1 tvg-id="VTV6 HD" group-title="Ace" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD 
 http://127.0.0.1:6878/ace/getstream?id=abadb61ba42c396b2c175f4da8d4bb00d1ab5c9b&.mp4
+#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",VTVcab3/Fox sport 
+http://127.0.0.1:6878/ace/getstream?id=bc3f750286b252381392ab86e7a6ce0758a2d74a&.mp4
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
 udp://@225.1.2.248:30120
