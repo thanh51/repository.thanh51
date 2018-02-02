@@ -77,110 +77,106 @@ http://127.0.0.1:6878/ace/getstream?id=4de88b3009186ab409fb4d0464efda71f82ae29c&
 http://127.0.0.1:6878/ace/getstream?id=d9d2043bfeb832b3f9c2c14d943ae8099870a783&.mp4
 
 
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",AD SPORT 2
-http://127.0.0.1:6878/ace/getstream?id=d332926c3f3b986049706b77d46eecd9eea34c73&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",AD Sport 1 HD
-http://127.0.0.1:6878/ace/getstream?id=d474648f2389b890b4225ae046110388c8c98675&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",AD Sport 2 HD
-http://127.0.0.1:6878/ace/getstream?id=73c00bebc531e75055d52c69a75c8fb85547c5f1&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",AFN Sports HD
-http://127.0.0.1:6878/ace/getstream?id=1202c004338963090e2da1e960392f3a12b24177&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Bein Sport Espana HD
-http://127.0.0.1:6878/ace/getstream?id=0f786a71770a9971a848ed2f6067c5a1b503bf7c&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Bein Sport La Liga HD
-http://127.0.0.1:6878/ace/getstream?id=d47620552aae0b25189c023c95c46e7268050875&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",FOX SPORTS 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=4ffead2d6f483aa3b7feb783bc8e63f7676cf3be&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",FOX SPORTS 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=263807e97c5ba627116b1fa9e54d9b4951fc3d24&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Pac-12 Bay Area English USA
-http://127.0.0.1:6878/ace/getstream?id=8dbf015c120611dde7dd3db7ac54ce696ac84fee&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Sky Sports Action
-http://127.0.0.1:6878/ace/getstream?id=42120bea5fa060b1c0fc54412bc9bf970db4a62d&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Sky Sports Main Event HD
-http://127.0.0.1:6878/ace/getstream?id=8d6efc891f7deccea10059015582e685458326b0&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Super Tennis HD
-http://127.0.0.1:6878/ace/getstream?id=36ff634b3298b0042986693afb13b92a80d9b290&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",МАТЧ! Футбол 2 HD
-http://127.0.0.1:6878/ace/getstream?id=c2eb663d4bc1d0fced00858e4011af4c8a0aae4f&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч
-http://127.0.0.1:6878/ace/getstream?id=93836b9dec85053eaa904530048814b4aeaf31c4&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Арена
-http://127.0.0.1:6878/ace/getstream?id=99f8343369105c4cbd1b10ca1a4e3a05efe47dbd&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Боец
-http://127.0.0.1:6878/ace/getstream?id=d31bf01e3ebbc38df0f6e21f56eabfcacc7e12fa&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Игра
-http://127.0.0.1:6878/ace/getstream?id=8759b2d6887828069a4c6eddef54bb3cfc3cbef9&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Игра HD
-http://127.0.0.1:6878/ace/getstream?id=6dcd3ac793fa1b92acfdb11bf246b29b130b2d95&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Наш Спорт
-http://127.0.0.1:6878/ace/getstream?id=6c165a83554193b8035f8858412ed390ece6381c&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Планета
-http://127.0.0.1:6878/ace/getstream?id=2d9c641fa9818131368fdb70dbfb2c8535e2971a&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч ТВ
-http://127.0.0.1:6878/ace/getstream?id=633b79edb3351d58cb0bf732cd15a6aa685eb994&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч ТВ HD
-http://127.0.0.1:6878/ace/getstream?id=70edf551d1687542b96a497053295421bce88e63&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Тв HD
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",1 Матч Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=4751514e3515e1b76d1a9ec0fc88dadfba6825a9&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",2 Матч Футбол 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=ff057b99f3972bf4e1f7880ea7412fc8f37f9d77&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",3 Матч Футбол 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=dd671f85d00505ed263c5d5768396d3ca544cb98&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",4 Футбол 1 FHD Ua
+http://127.0.0.1:6878/ace/getstream?id=9b767302860c2b607e593a364e6d671338abc32a&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",5 Футбол 2 FHD Ua
+http://127.0.0.1:6878/ace/getstream?id=8086a59387119bb5c00cf3116266c33eb477dafb&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",6 Матч ТВ FHD
 http://127.0.0.1:6878/ace/getstream?id=cde49c9f927399b5cf7f71ef8e322e9451f03376&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Футбол 1
-http://127.0.0.1:6878/ace/getstream?id=89bff46339e5b76684de8e58e8bf0d42038c015a&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Футбол 2
-http://127.0.0.1:6878/ace/getstream?id=032adc983a43d7039541abce7e584dd81777ec45&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Футбол 2 HD
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",7 Setanta Eurasia FHD
+http://127.0.0.1:6878/ace/getstream?id=6df4b9fa5c5a67816bed437433b82edbcc4fb8b3&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",8 Setanta Eurasia FHD
+http://127.0.0.1:6878/ace/getstream?id=00df92eb9e2594f9c778adabbc2f26a85277c4d4&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",9 Матч Футбол 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=e20160a885d7b3ab3d9b9e4ec25c08ac65a20e09&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Футбол 3
-http://127.0.0.1:6878/ace/getstream?id=22c9ca863aaf868525b56f812a5cad5232d58627&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч Футбол 3 HD
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",10 Матч Футбол 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=f28bcb602f53b082479345073b7b10626e5632a0&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Арена
-http://127.0.0.1:6878/ace/getstream?id=ee6e92e3363909b4e8498d92e973bd793015a54f&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Арена HD
-http://127.0.0.1:6878/ace/getstream?id=f57f9f4db411ddf6e94d0009f2aa945bd4cd96df&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Боец
-http://127.0.0.1:6878/ace/getstream?id=04fd5c24abe7507f949c07605fd7ac7090705a47&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Игра
-http://127.0.0.1:6878/ace/getstream?id=4d5701c3f3bd88f8fb9d27f53f8aff5c9323fa63&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Игра HD
-http://127.0.0.1:6878/ace/getstream?id=58c4a2e08e369a2a7bc4627c20eb2f07073e1dc2&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Наш Спорт
-http://127.0.0.1:6878/ace/getstream?id=815f16d53163243d6ccbb96b0eeec0c963a4db7c&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Планета
-http://127.0.0.1:6878/ace/getstream?id=50ee98831df0e5b79a29c85fcbeeeedb52cf98e4&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Футбол 1
-http://127.0.0.1:6878/ace/getstream?id=641704cd379ae1c7d4f06c7066f5e513a8af43f1&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Футбол 2
-http://127.0.0.1:6878/ace/getstream?id=8d559cba41dc11254743b5914f736ca33b06b23f&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Матч! Футбол 3 HD
-http://127.0.0.1:6878/ace/getstream?id=74a1c4c6605fc75a55481fe49be6729e4ab42d88&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Мега
-http://127.0.0.1:6878/ace/getstream?id=5ad2470d819c5b7d3a9aa851d81c830d2a8a4389&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",НТВ+ Наш футбол
-http://127.0.0.1:6878/ace/getstream?id=d30c8b3b790b413ca0c91f8281c30d85a187b747&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Наш Футбол
-http://127.0.0.1:6878/ace/getstream?id=4d8985338f1e60687665c7f0552ff4bf63833ad9&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Наш Футбол HD
-http://127.0.0.1:6878/ace/getstream?id=c490f462b4beeff1437efab0bc4cf576eeb52769&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Правильный футбол
-http://127.0.0.1:6878/ace/getstream?id=1522da63bc1ace59a1364028860cbe9c79451072&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Правильный футбол
-http://127.0.0.1:6878/ace/getstream?id=3acadd9ae778c5522f0f6b563993b13273ff1134&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Правильный футбол
-http://127.0.0.1:6878/ace/getstream?id=aa100a6c5044b782b8e6c192c34f90069c4844c6&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол
-http://127.0.0.1:6878/ace/getstream?id=10ffd96fb1a0709685ade658fedf787b1dbd57ee&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол 1 (Украина)
-http://127.0.0.1:6878/ace/getstream?id=5740311e66813398a6cd75d100b1a3cafa6f6ceb&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол 1 HD Ua
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",11 Матч Футбол 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=104a8f77f73f0cdaa299257f0de8a9b805dcd615&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",12 Футбол 1 FHD Ua
 http://127.0.0.1:6878/ace/getstream?id=fe40ad1ded331a323c99ad3cec08db6c67073324&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол 2 (Украина)
-http://127.0.0.1:6878/ace/getstream?id=878eb1733f53171e3a5f53ba80fc703fc0cc2374&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол 2 HD Ua
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",13 Футбол 2 FHD Ua
 http://127.0.0.1:6878/ace/getstream?id=8a64c93ad38f5027628601e0e32182e0b0cd7570&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол-1 Укр
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",14 Live Football 1 50fps
+http://127.0.0.1:6878/ace/getstream?id=b7a25312cd8bd517e2a5c3a97eee6b4d0ebef451&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",15 Live Football 2 50fps
+http://127.0.0.1:6878/ace/getstream?id=ee8af7eb00a58a0695304ccb12ccdfc917e1c04e&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",16 Viasat Fotboll
+http://127.0.0.1:6878/ace/getstream?id=571188be9950bfe0456bcc07241861f12254c713&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",17 Viasat Sport Baltic
+http://127.0.0.1:6878/ace/getstream?id=3d4b8d4d8f2309411e5e6bcda61571241dcc64c7&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",18 Movista Futbol HD
+http://127.0.0.1:6878/ace/getstream?id=d5c0e562c7f172e957498ca06a1a7a6016b8e469&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",19 Bein Liga HD
+http://127.0.0.1:6878/ace/getstream?id=d47620552aae0b25189c023c95c46e7268050875&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",20 Bein Liga HD
+http://127.0.0.1:6878/ace/getstream?id=968171bf9efc2451ef108c561a58df59a8edbaeb&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",21 Bein Sports
+http://127.0.0.1:6878/ace/getstream?id=72858f44a81fea86d8926de72441ed4cc9c9e30c&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",22 Наш Футбол FHD
+http://127.0.0.1:6878/ace/getstream?id=c490f462b4beeff1437efab0bc4cf576eeb52769&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",23 Матч Арена FHD
+http://127.0.0.1:6878/ace/getstream?id=80218e619bd5f15fe8418e5bc0876fff9602fd35&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",24 Матч Игра FHD
+http://127.0.0.1:6878/ace/getstream?id=6dcd3ac793fa1b92acfdb11bf246b29b130b2d95&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",25 Матч Наш Спорт SD
+http://127.0.0.1:6878/ace/getstream?id=39882c7f9a5f0685eca1690559b449b43a131e63&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",26 Матч Наш Спорт SD
+http://127.0.0.1:6878/ace/getstream?id=dc3a734dd034e3dd4bc2c62b2a5df45bf9cb4217&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",27 Матч! Боец SD
+http://127.0.0.1:6878/ace/getstream?id=28f0e21078d0a26d6c7f4997d24b66034e98476b&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",28 Матч! Боец SD
+http://127.0.0.1:6878/ace/getstream?id=fdce6ed26ed4d758857a0146310c02a82a2259c5&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",29 Матч Футбол 1 FHD > 8000 kbps
+http://127.0.0.1:6878/ace/getstream?id=e1f810b7019ad0f9025c7d3a52ca18e59a2e1557&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",30 Матч Футбол 1 FHD > 8000 kbps
+http://127.0.0.1:6878/ace/getstream?id=5ed01bd4b7b4182d6e65418dc690b9192abe93a8&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",31 Матч Футбол 3 FHD > 8000 kbps
+http://127.0.0.1:6878/ace/getstream?id=9fa94e6404ff1802cb373f771b849698aa29c788&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",32 Матч Футбол 2 FHD > 8000 kbps
+http://127.0.0.1:6878/ace/getstream?id=f73e62f07ef3b7243f1c6cf3b917fd346cb80ee9&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",33 Матч Футбол 1 FHD > 8000 kbps
+http://127.0.0.1:6878/ace/getstream?id=2eca8b6f9c31fde91202f61c096c75db9b443d68&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Live 13 HD
+http://127.0.0.1:6878/ace/getstream?id=d9d2043bfeb832b3f9c2c14d943ae8099870a783&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Live 19 HD
+http://127.0.0.1:6878/ace/getstream?id=a250a03f8a59c000efb32a4fa9e5efddf99fd20b&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Live 27 HD
+http://127.0.0.1:6878/ace/getstream?id=7742140efd2c0bc85b7d803441725d25e4d4e0f1&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",TEST Матч Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=ffb460a771a71b6b4478ef1e776f6fd41feabb61&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",TEST Матч Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=75f46242c24696fc3d1d21973cd778857ca7559f&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",TEST Bein Sports
+http://127.0.0.1:6878/ace/getstream?id=d9d2043bfeb832b3f9c2c14d943ae8099870a783&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 1 SD
+http://127.0.0.1:6878/ace/getstream?id=89bff46339e5b76684de8e58e8bf0d42038c015a&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 2 SD
+http://127.0.0.1:6878/ace/getstream?id=032adc983a43d7039541abce7e584dd81777ec45&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 3 SD
+http://127.0.0.1:6878/ace/getstream?id=22c9ca863aaf868525b56f812a5cad5232d58627&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Футбол 1 SD
 http://127.0.0.1:6878/ace/getstream?id=6d54f4c794fd136b9879322bf1d4103383b83f99&.mp4
-#EXTINF:-1 tvg-id="" group-title="Ace" tvg-logo="",Футбол-2 Укр
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Футбол 2 SD
 http://127.0.0.1:6878/ace/getstream?id=177fb74bfb14aeb95c345a88977f3b6fe16b9146&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 1 SD
+http://127.0.0.1:6878/ace/getstream?id=2ee53acdea7a5ffad2c6bb2ef5bed73a506621b8&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 2 SD
+http://127.0.0.1:6878/ace/getstream?id=8cfed08776e45359f943af4cb5abd8fbfd943651&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 3 SD
+http://127.0.0.1:6878/ace/getstream?id=f05710cbd7991feb04301e57d9cbeb53d72f33c0&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч Футбол 1 SD
+http://127.0.0.1:6878/ace/getstream?id=e0a6cb70e10cfa0ff1d87dff03384c97f2f295da&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч ТВ SD
+http://127.0.0.1:6878/ace/getstream?id=93836b9dec85053eaa904530048814b4aeaf31c4&.mp4
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",Матч ТВ SD
+http://127.0.0.1:6878/ace/getstream?id=e6c666ea6e6811f62b60c4b254786e8b115ae731&.mp4
 
 #EXTINF:-1 group-title="AV" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png",AV1+AV2 
 http://127.0.0.1:6878/ace/getstream?id=63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&.mp4
