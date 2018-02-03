@@ -4,7 +4,18 @@
 
 #EXTM3U thanh51
 
-#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",[COLOR yellow][B]**Bóng Đá Quốc Tế - PC hoặc Android Box tv đã cài Ace stream Media**[/B][/COLOR]
+#EXTINF:-1 group-title="Ace sports" tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",[COLOR yellow][B]K+(link Ace iproxy) - PC hoặc Android Box tv đã cài Ace stream Media[/B][/COLOR]
+http://
+#EXTINF:-1 tvg-id="K+1" group-title="Ace sports" tvg-logo="https://s17.postimg.org/6iqhvqj5r/K_1.png", K+1 HD
+http://127.0.0.1:6878/ace/getstream?id=3bf1d9fab3657c9f083da07d27bdee31864e2bee&.mp4
+#EXTINF:-1 tvg-id="K+PC" group-title="Ace sports" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png",K+PC HD
+http://127.0.0.1:6878/ace/getstream?id=b5d668f2005735edd4924d80b6851f3a13909531&.mp4
+#EXTINF:-1 tvg-id="K+PM" group-title="Ace sports" tvg-logo="https://s17.postimg.org/dzzpaft3z/K_PM.png",K+PM HD
+http://127.0.0.1:6878/ace/getstream?id=04b5c278fb2634a11789008c327f1cfe79eff437&.mp4
+#EXTINF:-1 tvg-id="K+NS" group-title="Ace sports" tvg-logo="https://s17.postimg.org/gyfju2l67/K_NS.png",K+NS HD
+http://127.0.0.1:6878/ace/getstream?id=915200422786a0ec35d65f7a6b96e57d4a045084&.mp4
+
+#EXTINF:-1 tvg-logo="https://s22.postimg.org/9vk2rbqep/ace.png",[COLOR yellow][B]**Bóng Đá Quốc Tế - PC hoặc Android Box tv đã cài Ace stream Media**[/B][/COLOR]
 http://
 
 #EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR pink]Bóng Đá Anh (PREMIER LEAGUE) xem theo giờ VN[/COLOR]
