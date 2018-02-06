@@ -2,7 +2,7 @@
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
-#EXTINF:-1,[COLOR red][B]********** Updated ngày 01/02/2018 *********[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]********** Updated ngày 06/02/2018 *********[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1,[COLOR=yellow][B]>>>>>>>>>>Cần addon Plexus & addon Hplus<<<<<<<<<[/B][/COLOR]
@@ -11,83 +11,109 @@ http://www.youtube.com
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
 
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",[COLOR pink]Bóng Đá Anh PREMIER LEAGUE) xem theo giờ VN[/COLOR]
+#EXTINF:-1,[COLOR cyan][B]****************** KÊNH TRUYỀN HÌNH ********************[/B][/COLOR] 
 http://
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",03/02/2018 19h30: BURNLEY Vs MANCHESTER CITY - AV3+AV4
-plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",03/02/2018 19h30: BURNLEY Vs MANCHESTER CITY - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name= 
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",03/02/2018 22h00: MANCHESTER UNITED Vs HUDDERSFIELD - AV3+AV4
-plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",03/02/2018 22h00: MANCHESTER UNITED Vs HUDDERSFIELD - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",04/02/2018 00h30: ARSENAL Vs EVERTON - AV3+AV4
-plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",04/02/2018 00h30: ARSENAL Vs EVERTON - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",04/02/2018 21h15: CRYSTAL PALACE Vs NEWCASTLE - AV3+AV4
-plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",04/02/2018 23h30: LIVERPOOL Vs TOTTENHAM - AV3+AV4
-plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",06/02/2018 03h00: WATFORD Vs CHELSEA - AV3+AV4
-plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&mode=1&name=
-#EXTINF:-1 group-title="BDAnh", tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",06/02/2018 03h00: WATFORD Vs CHELSEA - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name=
+
+#EXTINF:-1 group-title="VietTV" tvg-id="VTV1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png",VTV1
+http://vnlivetv.tk/ducnt/v1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTV2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2
+http://vnlivetv.tk/ducnt/v2
+#EXTINF:-1 group-title="VietTV" tvg-id="VTV3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",VTV3
+http://vnlivetv.tk/ducnt/v3
+#EXTINF:-1 group-title="VietTV" tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
+http://vnlivetv.tk/ducnt/v5
+#EXTINF:-1 group-title="VietTV" tvg-id="VTV6" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
+http://vnlivetv.tk/ducnt/v6
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png",TH QUỐC HỘI
+http://vnlivetv.tk/ducnt/qhtv
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
+http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN HD
+http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png",HA NOI 1 HD
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png",HA NOI 2 HD
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8  
+
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV1" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV2" tvg-logo="http://i.imgur.com/s7x0UhN.png",HTV2
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV3" tvg-logo="http://i.imgur.com/MMQITB4.png",HTV3
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV4" tvg-logo="http://i.imgur.com/gkeMaOh.png",HTV4
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV7
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV9
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Thuan Viet " tvg-logo="https://s21.postimg.org/sbcyi4ttz/htvcthuanviet.png",HTVC THUAN VIET
+http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Gia Dinh" tvg-logo="https://s3.postimg.org/3q9r5xc37/htvcgiadinh.jpg",GIA DINH
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Phim " tvg-logo="https://s15.postimg.org/tymsndhh7/htvcphim.jpg",HTVC PHIM
+http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Du Lich " tvg-logo="https://s11.postimg.org/y50njcob7/dulich.jpg",HTVC Dulich
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Phu Nu " tvg-logo="https://s11.postimg.org/dku4jqnpf/htvcphunu.png",HTVC Phunu
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Ca Nhac " tvg-logo="",HTVC canhac
+http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - The Thao " tvg-logo="http://i.imgur.com/bULyZwy.png",HTVC Thethao
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC1" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+http://vnlivetv.tk/ducnt/vtc1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC7" tvg-logo="http://image.cdn.i-com.vn/thumb/0x0/crop//Uploads/images/kenh/TODAY.JPG",VTC7 - TODAY TV
+http://vnlivetv.tk/ducnt/vtc7
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC9" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_Let'sViet_422x278.png",VTC9
+http://vnlivetv.tk/ducnt/vtc9
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC14" tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png",VTC14
+http://vnlivetv.tk/ducnt/vtc14
+
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",mobiTV:PHIM HAY
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",mobiTV:NCM
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://i.imgur.com/j7NsBwD.png",mobiTV:AN NINH THE GIOI
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",mobiTV:MIEN TAY 
+http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png",mobiTV:VIETTEEN
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/sam.png",mobiTV:SAM
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://s4.postimg.org/kecndom6l/keengtv.jpg",KEENG TV
+http://125.235.29.16/livetv/keeng.m3u8       
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://www.vietmobitv.com/vmt/images/nct.png", NCT
+rtmp://123.30.134.108/live/nctlive
+#EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-thvl1_w150_h150.png",THVL1
+http://vnlivetv.tk/ducnt/vl1
+#EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-thvl1_w150_h150.png",THVL1 HD
+http://vnlivetv.tk/ducnt/vl1hd
+#EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 2" tvg-logo="http://tv.101vn.com/images/thvl2.png",THVL2 HD
+http://vnlivetv.tk/ducnt/vl2hd
+
+#EXTINF:-1 group-title="VietTV" tvg-id="StarMovie HD" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",FOX MOVIES 
+http://vnlivetv.tk/ducnt/fm 
+#EXTINF:-1 group-title="VietTV" tvg-id="HBO" tvg-logo="https://s13.postimg.org/o8yh7baef/hbo.png",HBO
+http://vnlivetv.tk/ducnt/hbo 
+#EXTINF:-1 group-title="VietTV" tvg-id="MAX By HBO" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX
+http://vnlivetv.tk/ducnt/max 
+#EXTINF:-1 group-title="VietTV" tvg-id="AXN" tvg-logo="http://103.56.158.185/tv_icon/axn.png",AXN
+http://vnlivetv.tk/ducnt/axn 
+#EXTINF:-1 group-title="VietTV" tvg-id="MTV" tvg-logo="http://103.56.158.185/tv_icon/mtv.png",MTV
+http://vnlivetv.tk/ducnt/mtv 
+#EXTINF:-1 group-title="VietTV" tvg-id="Cartoon Network" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CARTOON NETWORK
+http://vnlivetv.tk/ducnt/cartoon|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV" tvg-id="Fox Sports" tvg-logo="https://s17.postimg.org/8tupl9rbz/foxsport.jpg",FOX SPORTS
+http://vnlivetv.tk/ducnt/fs 
 
 
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",[COLOR cyan]Bóng Đá TÂY BAN NHA (LA LIGA) xem theo giờ VN[/COLOR]
-http://
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",03/02/2018 03h00: REAL SOCIEDAD Vs DEPORTIVO - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",03/02/2018 19h00: EIBAR Vs SEVILLA FC - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",03/02/2018 22h15: REAL BETIS Vs VILLAREAL - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",04/02/2018 00h30: ALAVES Vs CELTA - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",04/02/2018 02h45: LEVANTE Vs REAL MADRID - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",04/02/2018 02h45: LEVANTE Vs REAL MADRID - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",04/02/2018 18h00: GETAFE Vs LEGANES - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",04/02/2018 22h15: ESPANYOL Vs FC BARCELONA - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",04/02/2018 22h15: ESPANYOL Vs FC BARCELONA - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",05/02/2018 00h30: GIRONA Vs ATHLETIC CLUB BILBAO - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",05/02/2018 02h45: ATLETICO MADRID Vs VALENCIA - AV1+AV2
-plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",05/02/2018 02h45: ATLETICO MADRID Vs VALENCIA - AV10+AV11
-plugin://program.plexus/?url=acestream://6d81607ebb0216e3642fe39e871394171a45918d&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",05/02/2018 02h45: ATLETICO MADRID Vs VALENCIA - AV27+AV28
-plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&mode=1&name=
-#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s1.postimg.org/j0sndgeyn/laliga.jpg",06/02/2018 03h00: LAS PALMAS Vs MALAGA - AV19+AV20
-plugin://program.plexus/?url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&mode=1&name=
-
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",[COLOR pink]Bóng Đá ITALYA (SERIE A) xem theo giờ VN[/COLOR]
-http://
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",04/02/2018 00h00: SAMPDORIA Vs TORINO - AV21+AV22
-plugin://program.plexus/?url=acestream://4de88b3009186ab409fb4d0464efda71f82ae29c&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",04/02/2018 02h45: INTER MILAN Vs CROTONE - AV13+AV14
-plugin://program.plexus/?url=acestream://d9d2043bfeb832b3f9c2c14d943ae8099870a783&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",04/02/2018 02h45: INTER MILAN Vs CROTONE - AV21+AV22
-plugin://program.plexus/?url=acestream://4de88b3009186ab409fb4d0464efda71f82ae29c&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",04/02/2018 18h30: HELLAS VERONA Vs ROMA	- AV13+AV14
-plugin://program.plexus/?url=acestream://d9d2043bfeb832b3f9c2c14d943ae8099870a783&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",04/02/2018 21h00: UDINESE Vs AC MILAN - AV21+AV22
-plugin://program.plexus/?url=acestream://4de88b3009186ab409fb4d0464efda71f82ae29c&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",04/02/2018 21h00: JUVENTUS Vs SASSUOLO - AV13+AV14
-plugin://program.plexus/?url=acestream://d9d2043bfeb832b3f9c2c14d943ae8099870a783&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",05/02/2018 02h45: BENEVENTO Vs NAPOLI - AV21+AV22
-plugin://program.plexus/?url=acestream://4de88b3009186ab409fb4d0464efda71f82ae29c&mode=1&name=
-#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",06/02/2018 02h45: LAZIO Vs GENOA - AV13+AV14
-plugin://program.plexus/?url=acestream://d9d2043bfeb832b3f9c2c14d943ae8099870a783&mode=1&name=
-
-
-#EXTINF:-1,[COLOR red][B]****************** KÊNH TRUYỀN HÌNH ********************[/B][/COLOR] 
-http://
 #EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-2128.html%22%7D
 #EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1 HD
@@ -251,6 +277,98 @@ plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22MTV%20%28HPlus%2
 #EXTINF:0,[COLOR cyan]HPlus[/COLOR]Bình Dương FM
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22B%C3%ACnh%20D%C6%B0%C6%A1ng%20FM%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-binh-duong-fm-23964.html%22%7D
 
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Eurosport 1 HD
+http://213.59.140.192:9993/play/Eurosport_1_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Eurosport 2 HD
+http://213.59.140.192:9993/play/Eurosport_2_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Viasat Sport HD
+http://213.59.140.192:9993/play/Viasat_Sport_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Матч Игра HD
+http://213.59.140.192:9993/play/Match_Igra_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Матч ТВ HD
+http://213.59.140.192:9993/play/Match_TV_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Матч Футбол 1 HD 
+http://213.59.140.192:9993/play/Match_Footbal_1_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Матч Футбол 2 HD
+http://213.59.140.192:9993/play/Match_Footbal_2_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Матч Футбол 3 HD
+http://213.59.140.192:9993/play/Match_Footbal_3_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Viasat Sport HD
+http://213.59.140.192:9993/play/Viasat_Sport_HD/index.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Первый канал HD
+http://213.59.140.192:9993/play/Pervij_kanal_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Россия HD
+http://213.59.140.192:9993/play/Rossiya_1_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Russia Today HD
+http://213.59.140.192:9993/play/Russia_Today_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Amedia Premium HD
+http://213.59.140.192:9993/play/Amedia_Premium_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Animal Family HD
+http://213.59.140.192:9993/play/Animal_Family_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Discovery HD 
+http://213.59.140.192:9993/play/Discovery_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Discovery Science HD
+http://213.59.140.192:9993/play/Discovery_Science_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",National Geographic HD
+http://213.59.140.192:9993/play/National_Geographic_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",National Geographic Wild HD
+http://213.59.140.192:9993/play/National_Geographic_Wild_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Viasat Explorer
+http://213.59.140.192:9993/play/Viasat_Explorer/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Viasat History
+http://213.59.140.192:9993/play/Viasat_History/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Viasat Nature
+http://213.59.140.192:9993/play/Viasat_Nature/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Viasat Nature-History HD
+http://213.59.140.192:9993/play/Viasat_Nature-History_HD/index.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Fox HD
+http://213.59.140.192:9993/play/Fox_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",Fox Life HD
+http://213.59.140.192:9993/play/Fox_Life_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",TV1000
+http://213.59.140.192:9993/play/TV1000/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",TV1000 Action
+http://213.59.140.192:9993/play/TV1000_Action/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",TV1000 Comedy HD
+http://213.59.140.192:9993/play/TV1000_Comedy_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",TV1000 Megahit HD
+http://213.59.140.192:9993/play/TV1000_Megahit_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",TV1000 Premium HD
+http://213.59.140.192:9993/play/TV1000_Premium_HD/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QTTH" tvg-id="" tvg-logo="",TV1000 Русское кино
+http://213.59.140.192:9993/play/TV1000_Russkoe_kino/index.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="QTTH" tvg-logo="http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg",24/7 Animated Movies
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg",24/7 Blockbuster Movies
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg",24/7 Superhero Movies
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8 
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/BH4tuYc.png",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/wY0bIox.png",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/YEs2cGe.png",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://i.imgur.com/9gHjXmn.png",NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 group-title="QTTH"tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="QTTH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
 
 #EXTINF:-1 group-title="QTTH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",[COLOR olive]Sopcast[/COLOR]AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
@@ -300,4 +418,451 @@ plugin://program.plexus/?url=sop://broker.sopcast.com:3912/253032&mode=2&name=HI
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/151300&mode=2&name=VIASAT HISTORY
 #EXTINF:-1 group-title="QTTH" tvg-logo="https://s29.postimg.org/vul7d9707/tlc.jpg",[COLOR olive]Sopcast[/COLOR]TLC
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/148256&mode=2&name=TLC
+
+#EXTINF:-1,[COLOR pink][B]****************** NHẠC TỔNG HỢP ********************[/B][/COLOR] 
+http://
+
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://xbmc.itvplus.net/LOGO/THUYNGA/tn123.jpg",Paris by Night 123  Ảo ảnh HD 2017 (bản full)
+http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/TN100_-_Paris_By_Night_100_lage.jpg", Số 100-P1
+https://lh3.googleusercontent.com/q_R3qeo-Hr9fE7VIaVR7qh-WM-LFR5VmXBPITLI2CFjT9kl0p4aUQTp5LOVpDAPSA1U=m18
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/TN100_-_Paris_By_Night_100_lage.jpg", Số 100-P2
+https://lh3.googleusercontent.com/VR7VjkVyelqEIciaYFf0OSSuHU5i40PwochA57SokTI8JODs4AmdyA9VW_el5l160VM=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/Screenshot20100327at121733AM11_lage.png", Số 99
+https://lh3.googleusercontent.com/nSKHNpsV0mKYkvrrY9qfmAt9LPPRZYHZdBPjVtXk3LpV-E3gE2LiL7HlQnKrgxh8aVaFo_rRPws=m18
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://thuyngashop.com/images/watermarked/1/thumbnails/280/388/detailed/1/posterpbn98_1259955732.jpg", Số 98-P1
+https://lh3.googleusercontent.com/bxyWqHIx4MYWHo4qNViz_UyNDwIJab5xLRI4QCEkcb-UC20EshIqnWuABtFUDkwRc2tj6bW7BDY=m18
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://thuyngashop.com/images/watermarked/1/thumbnails/280/388/detailed/1/posterpbn98_1259955732.jpg", Số 98-P2
+https://lh3.googleusercontent.com/Ue35BjhU82VgSBm4irl0dd3N8xGz30u0-qX5sQ7LLYuLw_9F7LHCstkJcxOgMuy4jwhpex4YjRw=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/parisbynight97fdancing2_lage.jpg", Số 97
+https://lh3.googleusercontent.com/CytfbLSCdKW1zJcaqQR9OY9F5V0ZVWiENyec9it85prscw7klg5MP3rqYIJLBKgCrwnHUjA6QWw=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/1_lage.jpg", Số 96-P1
+https://lh3.googleusercontent.com/DVoDYrQ467GjZfEBEmD98dzQtdNc7C1f_-UaEd_dDrpljqahT42EHXXWRGGcYozgfbfO5_cnxi8=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/1_lage.jpg", Số 96-P2
+https://lh3.googleusercontent.com/QpU0I8Pc31-T7t393aNqWkl_joTb7vyxVWYHLW8RBOrqSUevygQXKEbQI1AjZ0j8kVkPR-8nwNI=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_l2584_lage.jpg", Số 95-P1
+https://lh3.googleusercontent.com/Aggy71EkmD-2-jwd3dCKyXI9ODry5LB5dLtjwgcWHOrEH2NnxVbDrIpXtz6X-31sIReWsX8l-ic=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_l2584_lage.jpg", Số 95-P2
+https://lh3.googleusercontent.com/TQS9nap_5984wCFfplgMQzheJqn5XDaftU-E97nayN-gthysMdzswgcCvD_-S4rlbfk2fTfo2hc=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/30_lage.jpg", Số 94
+https://lh3.googleusercontent.com/OHYkT3FB_9a0REc5zBgqqYOuMGRvrZ6_9-4BUQua17dVjIlII61lXpAnc52xT6NHDVzuzKjNfsU=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/enbac.gif_lage.jpg", Số 93
+https://lh3.googleusercontent.com/F1NB9rD_2l_jiqQAJSKekjfFE4PxEq-gqFwX_JINIR3bcw571oad4kOcw03RrLi1iWSAd1FdsKg=m18
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_s868_lage.jpg", Số 91-P1
+https://lh3.googleusercontent.com/OnQbl9jp1uleYo_rrf55l-GuZoQTbal-W_DGWpWdHcP8jhpf8v438KIB2Zma1o3twveoRlmbB8E=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/product_s868_lage.jpg", Số 91-P2
+https://lh3.googleusercontent.com/u16oK5b1H1JCGSHp9l40ZhiM2S_RwtixUcjVReUQJjci1UFzY-689FDtMoz16Bz5hCeEk-iGjCo=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/kj_lage.jpg", Số 90
+https://lh3.googleusercontent.com/zXPGu6AwKRGbP61vuHH_WS7-32iMIN0Hvslob6Tg9cvziRDMs-LBQN6AyBmLi29i4HtXpsyyujA=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/33_lage.jpg", Số 89-P1
+https://lh3.googleusercontent.com/d8UQ27x7gAn7Fw87QVUfFBiqTBd-j6EvCM-QhYLzGEhdG3SqdpSacBHeXGhrqg0wsYc=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/33_lage.jpg", Số 89-P2
+https://lh3.googleusercontent.com/NonF__RyoAlEx9akV8d_9gUV1wX0VC1mj-z8Q7Vh1GAsX9iCsGEPdPVekZdynNUxcoY=m18 
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/adf_lage.jpg", Số 88-P2
+https://lh3.googleusercontent.com/mxjGzFGg7QYIU5qK3PMXZT1wd9Oy2masq2SlvJxw-FfRS9MF9lxz99o2qta4bTv1Mqs=m18 
+
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://i65.tinypic.com/ddhljk.png",ASIA 80 Làn Gió Mới HD 2017 (bản full) - 1080p 
+http://www.mediafire.com/download/3vaq73mkigl32dz/A80_1080p.mkv
+
+
+#EXTINF:-1 group-title="NhacTH",DUNG GOI NHAU LA CO NHAN - QUANG LE
+http://f.vp9.tv/music/nhac_vang/Xin_goi_nhau_la_co_nhan-Quang_Le/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NHUNG DOI HOA SIM
+http://f.vp9.tv/music/nhac_vang/Nhung_doi_hoa_sim-Hoang_Oanh_ft_Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",SAU TIM THIEP HONG
+http://f.vp9.tv/music/nhac_vang/Sau_tim_thiep_hong-Tuan_Vu_ft_Giao_Linh/mv.mp4
+#EXTINF:-1 group-title="NhacTH",DOI MAT NGUOI XUA
+http://f.vp9.tv/music/nhac_vang/Doi_mat_nguoi_xua-Quang_Le/mv.mp4
+#EXTINF:-1 group-title="NhacTH",PHUT DAU TIEN
+http://f.vp9.tv/music/nhac_vang/Phut_dau_tien-Nguyen_Le_ft_Quynh_Dung/mv.mp4
+#EXTINF:-1 group-title="NhacTH",VE DAU MAI TOC NGUOI THUONG
+http://f.vp9.tv/music/nhac_vang/Ve_dau_mai_toc_nguoi_thuong-Quang_Le/mv.mp4
+#EXTINF:-1 group-title="NhacTH",CHIEC AO BA BA
+http://f.vp9.tv/music/nhac_vang/Chiec_ao_ba_ba-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NEU ANH DUNG HEN
+http://f.vp9.tv/music/nhac_vang/Neu_anh_dung_hen-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NGHI CHUYEN NGAY XUAN
+http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NHAT KY DOI TOI
+http://f.vp9.tv/music/nhac_vang/Nhat_ky_doi_toi-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NGUOI TINH
+http://f.vp9.tv/music/nhac_vang/Nguoi_tinh-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",HAI VI SAO LAC
+http://f.vp9.tv/music/nhac_vang/Hai_vi_sao_lac-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",HAI DUA GIAN NHAU
+http://f.vp9.tv/music/nhac_vang/Hai_dua_gian_nhau-Mai_Thien_Van_ft_Truong_Vu/mv.mp4
+#EXTINF:-1 group-title="NhacTH",MOT NGUOI DI
+http://f.vp9.tv/music/nhac_vang/Mot_nguoi_di-Hoang_Oanh/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NUOC NON NGAN DAM RA DI
+http://f.vp9.tv/music/nhac_vang/Nuoc_non_ngan_dam-Quang_Le_ft_Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",HUE THUONG
+http://f.vp9.tv/music/nhac_vang/Hue_thuong-Nhu_Quynh_ft_Thanh_An/mv.mp4
+#EXTINF:-1 group-title="NhacTH",HUE BUON
+http://f.vp9.tv/music/nhac_vang/Hue_buon-Nhu_Quynh/mv.mp4
+#EXTINF:-1 group-title="NhacTH",NGUOI DI NGOAI PHO
+http://f.vp9.tv/music/nhac_vang/Nguoi_di_ngoai_pho-Nhu_Quynh/mv.mp4
+#EXTINF:-1 group-title="NhacTH",VUNG LA ME BAY
+http://f.vp9.tv/music/nhac_vang/Vung_la_me_bay-Nhu_Quynh/mv.mp4
+#EXTINF:-1 group-title="NhacTH",XIN TRA LAI THOI GIAN
+http://f.vp9.tv/music/nhac_vang/Xin_tra_lai_thoi_gian-Nhu_Quynh/mv.mp4
+#EXTINF:-1 group-title="NhacTH",CON MAI LOI RU
+http://f.vp9.tv/music/nhac_vang/Con_mai_loi_ru-Phi_Nhung/mv.mp4
+#EXTINF:-1 group-title="NhacTH",AO MOI CA MAU
+http://f.vp9.tv/music/nhac_vang/Ao_moi_ca_mau-Phi_Nhung/mv.mp4
+#EXTINF:-1 group-title="NhacTH",DA CO HOAI LANG
+http://f.vp9.tv/music/nhac_vang/Da_co_hoai_lang-Huong_Lan/mv.mp4
+#EXTINF:-1 group-title="NhacTH",Nghi Chuyen ngay Xuan-MTV
+http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4
+#EXTINF:-1 group-title="NhacTH",Thoi Doi-TV
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Thoi.Doi.2014.720p/chunklist_w2087283826.m3u8?worldtokenstarttime=1458509527&worldtokenendtime=1458594127&worldtokenhash=ZP4mTWLXopTjfmN1wfEXJl7Bc0VeawdzOgRVgb0FQ9s%3D
+#EXTINF:-1 group-title="NhacTH",Dem Tam Su 
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Dem.Tam.Su.2014.720p/chunklist_w1013551372.m3u8?worldtokenstarttime=1458509670&worldtokenendtime=1458594270&worldtokenhash=A-Gd0vwZ-g7DizaKnV0NphXZiXHk0M_1wAEclcRdl9w%3D
+#EXTINF:-1 group-title="NhacTH",Tinh Ca Que Huong  
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.73.Mua.He.Ruc.Ro.2013.720p/Tinh.Ca.Que.Huong.2013.720p/chunklist_w1665577196.m3u8?worldtokenstarttime=1458512755&worldtokenendtime=1458597355&worldtokenhash=9lF_Rq0L0NmWbwve_oHohrxVQurVxds7Q6lc_O38e0E%3D
+#EXTINF:-1 group-title="NhacTH",Thuy da di roi - Dan Nguyen  
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.72.Dong.Nhac.Y.Van.2013.720p/Thuy.Da.Di.Roi.720p/index.m3u8?worldtokenstarttime=1458512891&worldtokenendtime=1458597491&worldtokenhash=_im-4735DcDNJshDbRN7LBWIWFUaYkb2x94ajkr7aUo=
+#EXTINF:-1 group-title="NhacTH",Tinh tham duyen Que  
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Tinh.Tham.Duyen.Que.2014.720p/index.m3u8?worldtokenstarttime=1458513090&worldtokenendtime=1458597690&worldtokenhash=lqUqY2M4lhpGdawd5AAlb5iajaQq1zBH1_bCljhtLE8=
+#EXTINF:-1 group-title="NhacTH",Tan Co - Chieu Thuong Do Thi 
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.68.Sai.Gon.Ky.Niem.2011.720p/Tan.Co_Chieu.Thuong.Do.Thi.720p/chunklist_w1817326047.m3u8?worldtokenstarttime=1458512616&worldtokenendtime=1458597216&worldtokenhash=BZoSpNxQRsgRlmChmJnuo9_u_1EdePqGqBfepmuYEls%3D
+#EXTINF:-1 group-title="NhacTH",Hay Den Ben Anh Nguoi Yeu
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Hay.Den.Ben.Anh.Nguoi.Yeu_Si.Dan_Philip.Huy.2015.1080p/index.m3u8?worldtokenstarttime=1456040609&worldtokenendtime=1456125209&worldtokenhash=eSL1jC4g82_uyUuY-2q6FhdatvOd3XrWx3wUE8dSwo0=
+#EXTINF:-1 group-title="NhacTH",Lanh Tron Dem Mua - Gia Tu Dem Mua - Mua Dem Doc Hanh
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Lanh.Tron.Dem.Mua_Gia.Tu.Dem.Mua_Mua.Dem.Doc.Hanh_Dan.Nguyen_Cat.Linh_Thuy.Huong_Le.Quoc.Tuan.2015.1080p/index.m3u8?worldtokenstarttime=1456040065&worldtokenendtime=1456124665&worldtokenhash=1V4MiBJogV30b_CYxIeZ4Py-m0N5NrT-1wJCFTuMWtY=
+#EXTINF:-1 group-title="NhacTH",Chua Voi Sau Dau
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Chua.Voi.Sau.Dau_Thanh.Truc_Vu.Tuan.Duc.2015.1080p/chunklist_w81366495.m3u8?worldtokenstarttime=1456040462&worldtokenendtime=1456125062&worldtokenhash=Yp3bmDNTiEBGSnBekSO3Yei7wCN4uwS1KaYKO08YqhY%3D
+#EXTINF:-1 group-title="NhacTH",Neu chung Minh cach tro 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Neu.Chung.Minh.Cach.Tro_Nhat.Lam_Nga.My.2015.1080p/index.m3u8?worldtokenstarttime=1456004086&worldtokenendtime=1456088686&worldtokenhash=YWcLnBdfewglzhwSngz4WiJ9FuWG9omgcLdvLJigmz0=
+#EXTINF:-1 group-title="NhacTH",Rung chua thay la 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Rung.Chua.Thay.La_My.Huyen_Dang.Vu.2015.1080p/chunklist_w160399395.m3u8?worldtokenstarttime=1456004439&worldtokenendtime=1456089039&worldtokenhash=4t8lzNl7GOjDKU4RFrAOxec-UKKw-Z5m169hZK3yqLs%3D
+#EXTINF:-1 group-title="NhacTH",Tinh dep nhu mo 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Tinh.Dep.Nhu.Mo_Doan.Phi_Ngoc.Anh.Vi.2015.1080p/chunklist_w688859677.m3u8?worldtokenstarttime=1456004510&worldtokenendtime=1456089110&worldtokenhash=NI21N7aOEBpTmsnhXSMzzIHyeDPEtvxjrL5_vNCmTIU%3D
+#EXTINF:-1 group-title="NhacTH",Doan cuoi tinh yeu 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Doan.Cuoi.Tinh.Yeu_Bang.Tam_Huynh.Phi.Tien.2015.1080p/chunklist_w1221917263.m3u8?worldtokenstarttime=1456004646&worldtokenendtime=1456089246&worldtokenhash=gwIjej9MGO_5XkMlwly3DHDKzZXebheV9V5vS7z9YhI%3D
+#EXTINF:-1 group-title="NhacTH",Cat bui tinh xa 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Cat.Bui.Tinh.Xa_Le.Thu_Thien.Kim.2015.1080p/index.m3u8?worldtokenstarttime=1456004699&worldtokenendtime=1456089299&worldtokenhash=VdypV1LwTwNvG-a7a_D41n2RysVpQ0U7QVEcwEeDF1w=
+#EXTINF:-1 group-title="NhacTH",Ve dau mai toc Nguoi thuong 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Ve.Dau.Mai.Toc.Nguoi.Thuong_Dang.Le.Tuan_Truc.Mi.2015.1080p/chunklist_w995558727.m3u8?worldtokenstarttime=1456004752&worldtokenendtime=1456089352&worldtokenhash=-C5mqUsabGhPBtNBjgJtYCqx6c8VSE3uEvdSZ2YnAAI%3D
+#EXTINF:-1 group-title="NhacTH",Biet noi gi day 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Biet.Noi.Gi.Day_Tuan.Vu_Thanh.Tuyen.2015.1080p/chunklist_w24373621.m3u8?worldtokenstarttime=1456004800&worldtokenendtime=1456089400&worldtokenhash=C2IjJe1X_hwcrod4MlWN5vyivHBzvjVX6woWhOaVkFU%3D
+#EXTINF:-1 group-title="NhacTH",Nuoi tiec 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Nuoi.Tiec_Trinh.Nam.Son_Thuy.Tien.2015.1080p/chunklist_w1502646333.m3u8?worldtokenstarttime=1456004847&worldtokenendtime=1456089447&worldtokenhash=7GJecW0cK1H_Xv46BFXRlYVGIN8Jc5jAU3Zae4kWJPw%3D
+#EXTINF:-1 group-title="NhacTH",Cho den cuoi cuoc doi 
+
+
+#EXTINF:-1,[COLOR yellow][B]****************** PHIM TỔNG HỢP ********************[/B][/COLOR] 
+http://
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 1
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-1.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 2
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-2.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 3
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-3.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 4
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-4.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 5
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-5.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 6
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-6.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 7
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-7.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 8
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-8.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 9
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-9.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 10
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-10.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 11
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-11.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 12
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-12.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 13
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-13.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 14
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-14.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 15
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-15.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 16
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-16.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 17
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-17.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 18
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-18.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 19
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-19.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 20
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-20.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 21
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-21.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 22
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-22.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 23
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-23.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 24
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-24.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 25
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-25.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 26
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-26.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 27
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-27.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 28
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-28.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 29
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-29.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 30
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-30.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 31
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-31.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 32
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-32.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 33
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-33.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 34
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-34.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 35
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-35.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 36
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-36.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 37
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-37.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 38
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-38.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 39
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-39.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 40
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-40.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 41
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-41.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 42
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-42.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 43
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-43.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 44
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-44.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 45
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-45.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 46
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-46.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 47
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-47.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 48
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-48.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 49
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-49.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 50
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-50.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 51
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-51.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 52
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-52.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 53
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-53.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 54
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-54.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 55
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-55.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 56
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-56.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 57
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-57.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 58
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-58.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 59
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-59.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s9.postimg.org/fb0qfk427/tayduky.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 60 (End)
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-60.mp4
+
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 1
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-1.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 2
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-2.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 3
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-3.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 4
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-4.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 5
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-5.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 6
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-6.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 7
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-7.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 8
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-8.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 9
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-9.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 10
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-10.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 11
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-11.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 12
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-12.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 13
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-13.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 14
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-14.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 15
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-15.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 16
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-16.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 17
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-17.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 18
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-18.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 19
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-19.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 20
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-20.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 21
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-21.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 22
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-22.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 23
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-23.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 24
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-24.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 25
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-25.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 26
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-26.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 27
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-27.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 28
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-28.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 29
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-29.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 30
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-30.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 31
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-31.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 32
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-32.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 33
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-33.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 34
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-34.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 35
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-35.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 36
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-36.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 37
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-37.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 38
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-38.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 39
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-39.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 40
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-40.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 41
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-41.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 42
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-42.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 43
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-43.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 44
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-44.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 45
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-45.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 46
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-46.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 47
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-47.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 48
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-48.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 49
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-49.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 50
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-50.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 51
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-51.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 52
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-52.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 53
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-53.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 54
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-54.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 55
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-55.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 56
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-56.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 57
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-57.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 58
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-58.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 59
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-59.mp4
+#EXTINF:-1 group-title="Phim bộ" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Tân Tế Công (Tế Điên Hòa Thượng) 2011 Thuyết Minh - Tập 60 (End)
+http://phapam.tuvientuongvan.com.vn/phapam/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-60.mp4
+
+
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Gia Đình Mèo Quý Tộc (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Mèo Đi Hia (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-MeoDiHia.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chim Cánh Cụt Lướt Ván (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-ChimCanhCutLuotVan.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Đào Tẩu (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-DaoTau.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Mèo Rừng (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-MeoRung.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Người Đẹp Và Quái Vật (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-NguoiDepVaQuaiVat.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Vẹt Đuôi Dài Rio (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-VetDuoiDaiRio.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Ong Vàng Phiêu Lưu Ký (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-OngVangPhieuLuuKy.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Những Cuộc Phiêu Lưu Của TinTin (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-NhungCuocPhieuLuuCuaTintin.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Gà Mái Thích Phiêu Lưu (Việt Sub) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CoGaMaiThichPhieuLuu.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Tiểu Thư Và Gã Lang Thang (Thuyết Minh) – Phim Hoạt Hình (phần 1)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-TieuThuVaGaLangThang-Phan1.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Tiểu Thư Và Gã Lang Thang (Thuyết Minh) – Phim Hoạt Hình (phần 2)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-TieuThuVaGaLangThang-Phan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cáo Và Chó Săn – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 1)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CaoVaChoSan1.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cáo Và Chó Săn – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 2)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CaoVaChoSan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Gấu Yogi (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-ChuGauYoGi.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Bạch Tuyết Và Bảy Chú Lùn (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-BachTuyetVaBayChuLun.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Công Chúa Và Chàng Ếch (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CongChuaVaChangEch.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Gà Siêu Quậy (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-ChuGaSieuQuay.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Chuột Đầu Bếp (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-ChuChuotDauBep.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cuộc Hành Trình Của Chú Báo Đốm (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CuocHanhTrinhCuaChuBaoDom.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",ock – Chú Chó Dũng Cảm (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-JockChuChoDungCam.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",101 Con Chó Đốm (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-101ConChoDom.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 1)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-Madagascar-Phan1-ChuyenPhieuLuuDenMadagascar.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 2)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-Madagascar-Phan2-TauThoatDenChauPhi.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 3)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-Madagascar-Phan3-ThanTuongChauAu.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Ralph Đập Phá (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-RalphDapPha.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Sinbab – Huyền Thoại Biển Cả (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-SinbadHuyenThoaiBienCa.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Voi Và Những Người Bạn (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-VoiVaNhungNguoiBan.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Siêu Nhí Astro (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-SieuNhiAstro.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 1)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan1.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 2)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (Thuyết Minh) – Phim Hoạt Hình (phần 3)
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Người Đẹp Ngủ Trong Rừng (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-NguoiDepNguTrongRung.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Vút Bay (Thuyết Minh) – Phim Hoạt Hình
+http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-VutBay.mp4
+
+
 
