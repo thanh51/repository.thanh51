@@ -2,39 +2,31 @@
 
 		
                 <item>
-		<title>[COLOR cyan][B]XEM PHIM (By talktv.vn)[/B][/COLOR]</title></title>
+		<title>[COLOR blue][B]**** Cần addon link_tester (Link download http://gg.gg/8ryaf) *****[/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TalkTV.xml</externallink>
+		<externallink>https://</externallink>
+		<thumbnail>https://www.androidaba.com/wp-content/uploads/2017/09/link-tester-by-aba.jpg</thumbnail>
 		</item> 
                  //////////////////////////////////                                      	
                 <item>
-		<title>[COLOR cyan][B]TOM AND JERRY[/B][/COLOR]</title></title>
+		<title>[COLOR cyan][B]PHIM LẺ [/B][/COLOR]</title></title>
 		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TomAndJerry.xml</externallink>
-                <thumbnail>https://s11.postimg.org/7grnify7n/tomjerry.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Phimle.xml</externallink>
+		<thumbnail>https://s18.postimg.org/w41sms9a1/MOVIES.png</thumbnail>
 		</item>
-               //////////////////////////////////
-              	<item>
-		<title>[COLOR cyan][B]Phim Hoạt Hình Tom And Jerry Tales (lồng tiếng Việt)[/B][/COLOR]</title>
-		<link>$doregex[makelist3]</link>
+                ///////////////////////////////////////////
+               <item>
+		<title>[COLOR pink][B]PHIM BỘ [/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Phimbo.xml</externallink>
+		<thumbnail>https://s18.postimg.org/w41sms9a1/MOVIES.png</thumbnail>
+		</item> 
+               ///////////////////////////////////////////////
 
-		<regex>
-		<name>makelist3</name>   
-		<listrepeat><![CDATA[
-		<title>[makelist3.param2]</title>
-		<link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
-		<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
-		]]></listrepeat>
-		<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-		<page>http://www.youtube.com/playlist?list=PLdhrcCVXurgLcmismpI9u-FZwFHCt-smt</page>     
-		</regex>
-		<thumbnail>https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg</thumbnail>
-		</item>
-		//////////////////////
-
-                
-
-                </items>
-	        </channel>
-
-
+		<item>
+		<title>[COLOR yellow][B]PHIM THIẾU NHI[/B][/COLOR]</title></title>
+		<link>http://ignorame</link>
+		<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Phimthieunhi.xml</externallink>
+		<thumbnail>https://s18.postimg.org/w41sms9a1/MOVIES.png</thumbnail>
+		</item> 
+               ///////////////////////////////////////////////
