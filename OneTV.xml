@@ -2,7 +2,7 @@
 
 <layouttype>thumbnail</layouttype>
 
-#EXTM3U thanh51
+#EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
 udp://@225.1.2.248:30120
@@ -275,7 +275,7 @@ udp://@225.1.1.124:30120
 udp://@225.1.2.178:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="https://s16.postimg.org/puwy2rkzp/tayninh.jpg",TÂY NINH
 udp://@225.1.1.130:30120
-#EXTINF:-1 tvg-id="Long An" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/Z5408CY.png",Long An 
+#EXTINF:-1 tvg-id="Long An" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/Z5408CY.png",Long An
 udp://@225.1.1.162:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/binh-phuoc-1.png",BÌNH PHƯỚC 1
 udp://@225.1.2.23:30120
@@ -328,9 +328,9 @@ udp://@225.1.2.232:30120
 udp://@225.1.1.65:30120 
 #EXTINF:-1 tvg-id="RED By HBO HD" group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/red-by-hbo.png", RED BY HBO HD
 udp://@225.1.1.89:30120
-#EXTINF:-1 tvg-id="FOX Movies" group-title="QUOC TE" tvg-logo="https://s21.postimg.org/s9srpmz6f/starmovies.png",FOX Movies
+#EXTINF:-1 tvg-id="FOX Movies" group-title="QUOC TE" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",FOX Movies
 udp://@225.1.1.205:30120
-#EXTINF:-1 tvg-id="FOX Movies HD" group-title="QUOC TE" tvg-logo="http://vuapp.tranvu.info/upload//star-movie-hd.jpg",FOX Movies HD
+#EXTINF:-1 tvg-id="FOX Movies HD" group-title="QUOC TE" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",FOX Movies HD
 udp://@225.1.2.239:30120
 #EXTINF:-1 tvg-id="AXN" group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/axn.png",AXN
 udp://@225.1.1.237:30120
@@ -346,6 +346,8 @@ udp://@225.1.1.139:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="http://1ttv.org/uploads/Pl8S60EJ52htHxi1gAw1SS1y8i1p3z.png",FOX HD
 udp://@225.1.1.51:30120
+#EXTINF:-1 tvg-id="Kix HD" group-title="QUOC TE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
+udp://@225.1.2.145:30120
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CN
 udp://@225.1.1.240:30120
 #EXTINF:-1 tvg-id="Cartoon Network HD" group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/cartoon-network.png",CARTOON NETWORK HD
@@ -424,10 +426,7 @@ udp://@225.1.2.229:30120
 udp://@225.1.1.241:30120
 #EXTINF:-1 tvg-id="Fox Sports 2" group-title="QUOC TE" tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
 udp://@225.1.1.108:30120
-#EXTINF:-1 tvg-id="Kix HD" group-title="QUOC TE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
-udp://@225.1.2.145:30120
 #EXTINF:-1 tvg-id="MTV" group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/mtv.png",MTV
 udp://@225.1.1.245:30120
 #EXTINF:-1 tvg-id="Fashion TV" group-title="QUOC TE" tvg-logo="http://i.imgur.com/IeuIsMr.png",FashionTV HD
 udp://@225.1.2.227:30120
-
