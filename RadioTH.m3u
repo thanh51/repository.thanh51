@@ -1,21 +1,17 @@
 #EXTM3U thanh51
 
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1 
-rtmp://210.245.60.242:1935/nghehevov1/vov1    
+http://118.69.211.87:1935/vov1/vov1.stream_aac/chunklist_w501361478.m3u8   
 #EXTINF:-1,Đài Tiếng nói VN 2 - VOV2 
-rtmp://210.245.60.242:1935/nghehevov2/vov2    
+http://118.69.211.87:1935/vov2/vov2.stream_aac/chunklist_w1435776619.m3u8    
 #EXTINF:-1,Đài Tiếng nói VN 3 - VOV3 
-rtmp://210.245.60.242:1935/nghehevov3/vov3    
+http://118.69.211.87:1935/vov3/vov3.stream_aac/chunklist_w68260986.m3u8    
 #EXTINF:-1,XONE Radio 
 http://118.69.80.81:8000/http://118.69.80.81:8000    
-#EXTINF:-1,Đài Tiếng nói VN 5 
-rtmp://210.245.60.242/vov5/vov5   
-#EXTINF:-1,VOV 247 
-rtmp://210.245.60.242:1935/vov247/vov247   
 #EXTINF:-1,VOV Giao thông Hà Nội 
-http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8   
+rtmp://117.6.129.102/live/vovgthn.sdp   
 #EXTINF:-1,VOV Giao thông HCM 
-rtmp://117.6.129.102:1901/live/vovgthcm.sdp    
+rtmp://117.6.129.102/live/vovgthcm.sdp    
 #EXTINF:-1,Joy FM - Radio sức khỏe 
 rtmp://radio.joyfm.vn:1935/live/RadioOnline 
 #EXTINF:-1,Tp.HCM FM 95.6MHz 
