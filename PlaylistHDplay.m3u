@@ -84,30 +84,62 @@ plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http:
 #EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//77077_M3.png",beIN Movies 3
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.glo-star.com/live/ch.php?id=beinmovies3&name=beIN%20Movies%203
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//72281_1-HD.png",Bein Sport 1
-http://95.154.237.88:8080/MatH33Raaabinooohdd-1/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//54027_2-HD.png",Bein Sport 2
-http://95.154.237.88:8080/MatH33Raaabinooohdd-2/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//92085_3-HD.png",Bein Sport 3
-http://95.154.237.88:8080/MatH33Raaabinooohdd-3/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//31493_4-HD.png",Bein Sport 4
-http://95.154.237.88:8080/MatH33Raaabinooohdd-4/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//32800_5-HD.png",Bein Sport 5
-http://95.154.237.88:8080/MatH33Raaabinooohdd-5/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//75361_6-HD.png",Bein Sport 6
-http://95.154.237.88:8080/MatH33Raaabinooohdd-6/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//43688_7-HD.png",Bein Sport 7
-http://95.154.237.88:8080/MatH33Raaabinooohdd-7/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//96588_8-HD.png",Bein Sport 8
-http://95.154.237.88:8080/MatH33Raaabinooohdd-8/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//46157_9-HD.png",Bein Sport 9
-http://95.154.237.88:8080/MatH33Raaabinooohdd-9/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//19545_10-HD.png",Bein Sport 10
-http://95.154.237.88:8080/MatH33Raaabinooohdd-10/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//99596_11-HD.png",Bein Sport 11
-http://95.154.237.88:8080/MatH33Raaabinooohdd-11/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//9478_12-HD.png",Bein Sport 12
-http://95.154.237.88:8080/MatH33Raaabinooohdd-12/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1 tvg-logo="" group-title="Sports",bein france 1 
+http://163.172.105.25:80/live?channelId=175&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",bein france 2 
+http://163.172.105.25:80/live?channelId=176&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",bein france 3 
+http://163.172.105.25:80/live?channelId=177&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 1 HD 
+http://163.172.105.25:80/live?channelId=178&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 2 HD 
+http://163.172.105.25:80/live?channelId=179&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 3 HD 
+http://163.172.105.25:80/live?channelId=180&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 4 HD 
+http://163.172.105.25:80/live?channelId=181&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 5 HD 
+http://163.172.105.25:80/live?channelId=182&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo=""  group-title="Sports",beIN Sport 6 HD 
+http://163.172.105.25:80/live?channelId=183&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 7 HD 
+http://163.172.105.25:80/live?channelId=184&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 8 HD 
+http://163.172.105.25:80/live?channelId=185&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 9 HD 
+http://163.172.105.25:80/live?channelId=186&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 10 HD 
+http://163.172.105.25:80/live?channelId=187&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 11 HD 
+http://163.172.105.25:80/live?channelId=188&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sport 12 HD 
+http://163.172.105.25:80/live?channelId=189&uid=4322&deviceMac=00:1A:79:3C:C8:BB
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//72281_1-HD.png",Bein sport 1
+http://62.210.93.115:80/live?channelId=175&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//72281_1-HD.png",Bein sport 1
+http://62.210.93.115:80/live?channelId=178&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//54027_2-HD.png",Bein sport 2
+http://62.210.93.115:80/live?channelId=176&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//54027_2-HD.png",Bein sport 2
+http://62.210.93.115:80/live?channelId=179&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//92085_3-HD.png",Bein sport 3
+http://62.210.93.115:80/live?channelId=177&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//92085_3-HD.png",Bein sport 3
+http://62.210.93.115:80/live?channelId=180&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//31493_4-HD.png",Bein sport 4
+http://62.210.93.115:80/live?channelId=181&uid=4226&deviceMac=00:1a:79:46:33:fc
+#EXTINF:-1 group-title="Sports" tvg-logo="http://glo-star.com/Global/images//32800_5-HD.png",Bein sport 5
+http://62.210.93.115:80/live?channelId=182&uid=4226&deviceMac=00:1a:79:46:33:fc
+
+#EXTINF:-1 group-title="Sports",Bein Sports ES
+http://www.iptvmexico.xyz/pony2/2769.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 11
+http://www.iptvmexico.xyz/pony2/2784.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 12
+http://www.iptvmexico.xyz/pony2/2785.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 13
+http://www.iptvmexico.xyz/pony2/2786.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",ThaiLand:True Sports HD 2 
 http://111.223.50.12:8081/liveNimble/ch02h/playlist.m3u8
@@ -122,85 +154,54 @@ http://111.223.50.12:8081/liveNimble/ch06h/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4
 http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",Olympic Channel HD
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1 group-title="Sports",Olympic Channel HD
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8
-#EXTINF:-1 group-title="Sports",Olympic Channel
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_4_1464000.m3u8
-#EXTINF:-1 group-title="Sports",Olympic Channel
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_3_964000.m3u8
-#EXTINF:-1 group-title="Sports",Olympic Channel
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_2_664000.m3u8
-#EXTINF:-1 group-title="Sports",Olympic Channel
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_1_464000.m3u8
-#EXTINF:-1 group-title="Sports",Olympic Channel
-http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_0_256000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="2a8c37bc1dc0d6cce2921e7994352371",Матч HD
+http://217.107.192.37:9981/stream/channelid/1010273322?ticket=6F085FA321FEF4E6733BA1180D1F89493D7A943E&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/38.png" tvg-id="d52fc938cedac719b4caa9951283eb5b",Матч! Арена HD
+http://217.107.192.37:9981/stream/channelid/952709077?ticket=140BAD60308CF3595270EA93F2798EF87E78756C&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/90.png" tvg-id="e66cf6e59787901dbaa69b2143bb1e34",Матч! Боец
+http://217.107.192.37:9981/stream/channelid/1710648550?ticket=0B455F8F4BA62311D4CFFE4D4DD6764F2853CC58&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/40.png" tvg-id="536bcfb170b0ce42ef1b65483c6e8626",Матч! Игра
+http://217.107.192.37:9981/stream/channelid/835677011?ticket=9B354E1C658E30E08787549B4D95F40EE58D180C&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/101.png" tvg-id="a9b0556cfcbf6c8046fed784ae11218e",Матч! Игра HD
+http://217.107.192.37:9981/stream/channelid/1817555113?ticket=77F034AF0A4131DB280A2ED787A75C0F4234126D&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/129.png" tvg-id="0cba936c8a57dd47024f1c9cc86ff58f",Матч! Наш Спорт
+http://217.107.192.37:9981/stream/channelid/1821620748?ticket=53AB77B5E0545A5EABE6F6A7FB969E7008C82662&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/30.png" tvg-id="5c97a3f58ce242f5c59f188b6ea1529c",Матч! Футбол 1 HD
+http://217.107.192.37:9981/stream/channelid/1973655388?ticket=D69EDB7A79375DF6670E58E259CA95A6B311A1B8&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/28.png" tvg-id="4bb4dc198460364ba563ba20a38e9021",Матч! Футбол 2 HD
+http://217.107.192.37:9981/stream/channelid/433894475?ticket=9B29D8758D9D175AA3E7ABF93C0FDBF53F211ADB&profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/26.png" tvg-id="9caaeb194a121bfe410b8db2bce9a29b",Матч! Футбол 3 HD
+http://217.107.192.37:9981/stream/channelid/434875036?ticket=A3D7D4CE39C903F61304E4B97661B39163BA99DA&profile=pass
 
-#EXTINF:-1 group-title="Sports",Star Sports HD 1
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports HD 2
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports Select HD 1
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_800.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports Select HD 2
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 1
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_1/Ten_1_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_HD/Ten_HD_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 2
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_2/Ten_2_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten2_HD/Ten2_HD_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 3
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_3/Ten_3_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 3 HD
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten3_HD/Ten3_HD_800.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten Golf HD
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
-#EXTINF:-1 group-title="Sports",Winter Olympics Ch 1
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch1/Winter_Olympic_Ch1_800.m3u8
-#EXTINF:-1 group-title="Sports",Winter Olympics Ch 2
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch2/Winter_Olympic_Ch2_800.m3u8
-#EXTINF:-1 group-title="Sports",Winter Olympics Ch 3
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch3/Winter_Olympic_Ch3_800.m3u8
-#EXTINF:-1 group-title="Sports",Winter Olympics Ch 4
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch4/Winter_Olympic_Ch4_800.m3u8
-
-#EXTINF:-1 group-title="Sports",Матч!Футбол 1
-http://213.59.140.192:9993/play/Match_Footbal_1_HD/index.m3u8
-#EXTINF:-1 group-title="Sports",Матч_Футбол_2_HD
-http://213.59.140.192:9993/play/Match_Footbal_2_HD/index.m3u8
-#EXTINF:-1 group-title="Sports",Матч_Футбол_3_HD
-http://213.59.140.192:9993/play/Match_Footbal_3_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",Матч!Футбол 1
 http://112.160.40.55:8090/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="Sports",Матч!Футбол 2
 http://112.160.40.55:8090/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="Sports",Матч!Футбол 3
 http://112.160.40.55:8090/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="Sports",МАТЧ! ФУТБОЛ 1
-http://212.34.244.60:9000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Sports",МАТЧ! ФУТБОЛ 2
-http://212.34.244.60:9000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Sports",МАТЧ! ФУТБОЛ 3
-http://212.34.244.60:9000/play/a00a/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 
 http://persik.by/stream/6431/299492/10266.m3u8 
 #EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD 
 http://persik.by/stream/6431/299492/10267.m3u8 
 #EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 
 http://persik.by/stream/6431/299492/10268.m3u8
-#EXTINF:-1 group-title="Sports",МАТЧ! 1 ФУТБОЛ 1
-http://109.75.44.99:9000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Sports",МАТЧ! Футбол 2
-http://109.75.44.99:9000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Sports",МАТЧ! Футбол 1
-http://109.75.44.99:9000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Sports",Матч! Планета
-http://tele.usite.pro/iptv/HD-PlayList/match_planeta.m3u8
+#EXTINF:-1 group-title="Sports",Матч! Арена HD s2
+http://tele.usite.pro/iptv/HD-PlayList/match_arena_hd.m3u8
 
+#EXTINF:-1 group-title="Sports",Матч!Футбол 2 HD
+http://95.154.129.24/hls/hd2/hd2.m3u8
+#EXTINF:-1 group-title="Sports",Матч!Футбол 1 HD
+http://95.154.129.24/hls/hd1/hd1.m3u8
+#EXTINF:-1 group-title="Sports",Матч!Футбол 1
+http://95.154.129.24/hls/hd1/hd1.m3u8
+#EXTINF:-1 group-title="Sports",Матч!Футбол 2
+http://95.154.129.24/hls/hd2/hd2.m3u8
+
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1
+http://217.145.218.27:8343/ch343
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2
+http://217.145.218.27:8345/ch345
 
 #EXTINF:-1,[COLOR cyan][B]****************** KÊNH TRUYỀN HÌNH ********************[/B][/COLOR] 
 http://
