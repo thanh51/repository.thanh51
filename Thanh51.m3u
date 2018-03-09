@@ -1,69 +1,164 @@
 #EXTM3U thanh51
 
-#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",** Lịch thi đấu UEFA Champions League (giờ VN)**
+#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",** Xem BĐ UEFA Champions League (giờ VN)**
 http://
 #EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",14/03/2018 02h45am: Manchester United vs Sevilla| Kênh: FS1 USA
-http://
-#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",15/03/2018 00h00am: Beşiktaş vs Bayern München| Kênh: FS2 USA _ BT Sport 2
-http://
-#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",15/03/2018 02h45am: Barcelona vs Chelsea| Kênh: FS1 USA _ BT Sport 2
-http://
+http://185.93.1.99:8080/Channel_5/mpegts
+#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",15/03/2018 00h00am: Beşiktaş vs Bayern München| Kênh: FS2 USA
+http://185.93.1.99:8080/Channel_6/mpegts
+#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",15/03/2018 00h00am: Beşiktaş vs Bayern München| Kênh: BT Sport 2
+http://185.93.1.99:8080/Channel_109/mpegts
+#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",15/03/2018 02h45am: Barcelona vs Chelsea| Kênh: FS1 USA
+http://185.93.1.99:8080/Channel_5/mpegts
+#EXTINF:-1 group-title="UEFA Champions League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-champions-league.gif",15/03/2018 02h45am: Barcelona vs Chelsea| Kênh: BT Sport 2
+http://185.93.1.99:8080/Channel_109/mpegts
 
-#EXTINF:-1 group-title="UEFA Europa League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-europa-league.gif",** Lịch thi đấu UEFA Europa League (giờ VN) **
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",Xem Bóng Đá Anh (Premier League) theo giờ VN
 http://
-#EXTINF:-1 group-title="UEFA Europa League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-europa-league.gif",09/03/2018 01h00am: Atlético Madrid vs Lokomotiv Moskva| Kênh: beIN Sports Spain _ beIN Sports 2 Thailand _ BT Sport 3
-http://
-#EXTINF:-1 group-title="UEFA Europa League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-europa-league.gif",09/03/2018 01h00am: Borussia Dortmund vs Salzburg| Kênh: Korea SPOTV _ Match TV Football 3 _ Futbol 2
-http://
-#EXTINF:-1 group-title="UEFA Europa League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-europa-league.gif",09/03/2018 01h00am: CSKA Moskva vs Olympique Lyonnais| Kênh: Match TV Football 1 _  beIN Sports 3 Thailand
-http://
-#EXTINF:-1 group-title="UEFA Europa League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-europa-league.gif",09/03/2018 01h00am: Milan vs Arsenal| Kênh: FS2 USA _ Match TV Football 2 _ beIN Sports 1 Thailand _  Futbol 1
-http://
-#EXTINF:-1 group-title="UEFA Europa League" tvg-logo="http://cdn.livesoccertv.com/images/competitions/medium/uefa-europa-league.gif",09/03/2018 03h05am: Lazio vs Dynamo Kyiv| Kênh: Match TV Football 2 _ beIN Sports 2 Thailand _  Futbol 2
-http:// 
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 19h30: MANCHESTER UNITED Vs LIVERPOOL| AV3+AV4
+acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 19h30: MANCHESTER UNITED Vs LIVERPOOL| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 19h30: Man Utd Vs Liverpool| NBCSN
+http://185.93.1.99:8080/Channel_11/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 19h30: Man Utd Vs Liverpool| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 19h30: Man Utd Vs Liverpool| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 22h00: NEWCASTLE Vs SOUTHAMPTON| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 00h30: CHELSEA Vs CRYSTAL PALACE| AV3+AV4
+acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 00h30: CHELSEA Vs CRYSTAL PALACE| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 00h30: Chelsea Vs Crystal Palace| BT Sport 1
+http://185.93.1.99:8080/Channel_108/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 20h30: ARSENAL Vs WATFORD| AV3+AV4
+acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 20h30: ARSENAL Vs WATFORD| AV25+AV26
+acestream://a971d9443b8e871a3627e2b551ee97dc150d13e0
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 20h30: Arsenal Vs Watford| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 20h30: Arsenal Vs Watford| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 23h00: BOURNEMOUTH Vs TOTTENHAM HOTSPUR| AV3+AV4
+acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 23h00: BOURNEMOUTH Vs TOTTENHAM HOTSPUR| AV25+AV26
+acestream://a971d9443b8e871a3627e2b551ee97dc150d13e0
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 23h00: AFC Bournemouth Vs Tottenham Hotspur| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 23h00: AFC Bournemouth Vs Tottenham Hotspur| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",13/03/2018 03h00: STOKE CITY Vs MANCHESTER CITY| AV3+AV4
+acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",13/03/2018 03h00: Stoke City Vs Man City| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",13/03/2018 03h00: Stoke City Vs Man City| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",18/03/2018 00h30: Liverpool Vs Watford| BT Sport 1
+http://185.93.1.99:8080/Channel_108/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 19h30: Crystal Palace Vs Liverpool| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 19h30: Crystal Palace Vs Liverpool| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 00h30: Everton Vs Man City| BT Sport 1
+http://185.93.1.99:8080/Channel_108/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 20h30: Arsenal Vs Stoke City| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 20h30: Arsenal Vs Stoke City| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 23h00: Chelsea Vs Tottenham Hotspur| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 23h00: Chelsea Vs Tottenham Hotspur| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 00h30: Man City Vs Man Utd| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 00h30: Man City Vs Man Utd| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 21h15: Everton Vs Liverpool| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 21h15: Everton Vs Liverpool| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 23h30: Chelsea Vs West Ham| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 23h30: Chelsea Vs West Ham| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/04/2018 03h00: Arsenal Vs Southampton| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/04/2018 03h00: Arsenal Vs Southampton| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",14/04/2018 19h30: Southampton Vs Chelsea| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",14/04/2018 19h30: Southampton Vs Chelsea| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 00h30: Liverpool Vs AFC Bournemouth| BT Sport 1
+http://185.93.1.99:8080/Channel_108/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 02h45: Tottenham Hotspur Vs Man City| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 02h45: Tottenham Hotspur Vs Man City| Sky Sports Main Event
+url":"http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 20h30: Newcastle United Vs Arsenal| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 20h30: Newcastle United Vs Arsenal| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 23h00: Man Utd Vs West Brom| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 23h00: Man Utd Vs West Brom| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",17/04/2018 03h00: West Ham Vs Stoke City| Sky Sports Premier League
+http://185.93.1.99:8080/Channel_117/mpegts
+#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",17/04/2018 03h00: West Ham Vs Stoke City| Sky Sports Main Event
+http://185.93.1.99:8080/Channel_113/mpegts
 
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",** Lịch thi đấu Bóng Đá Anh (giờ VN) **
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",Xem Bóng Đá TÂY BAN NHA (LA LIGA) theo giờ VN
 http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/03/2018 19h30: Man Utd Vs Liverpool| Kênh: NBCSN _ Sky Sports Premier League _ Sky Sports Main Event _  Futbol 2
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 00h30: Chelsea Vs Crystal Palace| Kênh: BT Sport 1
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 20h30: Arsenal Vs Watford| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",11/03/2018 23h00: AFC Bournemouth Vs Tottenham Hotspur| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",13/03/2018 03h00: Stoke City Vs Man City| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",18/03/2018 00h30: Liverpool Vs Watford| Kênh: BT Sport 1
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 19h30: Crystal Palace Vs Liverpool| Kênh: Sky Sports Premier League _ Sky Sports Main Event 
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 00h30: Everton Vs Man City| Kênh: BT Sport 1
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 20h30: Arsenal Vs Stoke City| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",01/04/2018 23h00: Chelsea Vs Tottenham Hotspur| Kênh:Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 00h30: Man City Vs Man Utd| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 21h15: Everton Vs Liverpool| Kênh:Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",08/04/2018 23h30: Chelsea Vs West Ham| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",10/04/2018 03h00: Arsenal Vs Southampton| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",14/04/2018 19h30: Southampton Vs Chelsea| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 00h30: Liverpool Vs AFC Bournemouth| Kênh: BT Sport 1
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 02h45: Tottenham Hotspur Vs Man City| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 20h30: Newcastle United Vs Arsenal| Kênh:Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",15/04/2018 23h00: Man Utd Vs West Brom| Kênh: Sky Sports Premier League _ Sky Sports Main Event
-http://
-#EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",17/04/2018 03h00: West Ham Vs Stoke City| Kênh: Sky Sports Premier League _ Sky Sports Main Event
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",10/03/2018 03h00: GIRONA Vs DEPORTIVO| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",10/03/2018 19h00: EIBAR Vs REAL MADRID| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",10/03/2018 19h00: EIBAR Vs REAL MADRID| AV21+AV22
+acestream://6589156109f5cb2b1e99d242c0e76771bcf30947
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",10/03/2018 22h15: SEVILLA FC Vs VALENCIA| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",11/03/2018 00h30: GETAFE Vs LEVANTE| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",11/03/2018 02h45: MALAGA Vs FC BARCELONA| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",11/03/2018 02h45: MALAGA Vs FC BARCELONA| AV10+AV11
+acestream://981d3acc93f196bcee168fca7f7557cc956e39c5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",11/03/2018 02h45: MALAGA Vs FC BARCELONA| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",11/03/2018 18h00: ESPANYOL Vs REAL SOCIEDAD| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",11/03/2018 22h15: ATLETICO MADRID Vs CELTA| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",12/03/2018 00h30: LAS PALMAS Vs VILLARREAL| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",12/03/2018 02h45: ATHLETIC CLUB BILBAO Vs LEGANES| AV1+AV2
+acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5
+#EXTINF:-1 group-title="BDTBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",13/03/2018 03h00: ALAVES Vs REAL BETIS| AV19+AV20
+acestream://946213b6a153f674d2025e5b8af7f4e1c461b083
 
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",Xem Bóng Đá ITALYA (SERIE A) theo giờ VN 
+http://
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",10/03/2018 02h45: ROMA Vs TORINO| AV13+AV14
+acestream://4f5b2ed802bd53db989677592f8dd68b590f3c63
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",11/03/2018 02h45: HELLAS VERONA Vs CHIEVO VERONA| AV7
+acestream://68a96d51ba0d50a19e47cac41c9a8e5669702939
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",11/03/2018 18h30: FIORENTINA Vs BENEVENTO| AV13+AV14
+acestream://4f5b2ed802bd53db989677592f8dd68b590f3c63
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",11/03/2018 21h00: JUVENTUS Vs UDINESE| AV13+AV14
+acestream://4f5b2ed802bd53db989677592f8dd68b590f3c63
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",11/03/2018 21h00: JUVENTUS Vs UDINESE| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",12/03/2018 00h00: GENOA Vs AC MILAN| AV7
+acestream://68a96d51ba0d50a19e47cac41c9a8e5669702939
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",12/03/2018 00h00: GENOA Vs AC MILAN| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",12/03/2018 02h45: INTER MILAN Vs NAPOLI| AV13+AV14
+acestream://4f5b2ed802bd53db989677592f8dd68b590f3c63
+#EXTINF:-1 group-title="BD ITALYA" tvg-logo="https://s26.postimg.org/q1qpzyy6x/italyaseria.jpg",12/03/2018 02h45: INTER MILAN Vs NAPOLI| AV27+AV28
+acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966
 #EXTINF:-1 group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",FS1 USA
 http://185.93.1.99:8080/Channel_5/mpegts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",FS2 USA
