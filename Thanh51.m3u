@@ -1547,6 +1547,15 @@ http://217.107.192.37:9981/stream/channelid/385066603?ticket=BFBDCC08E99A74A9F6B
 #EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/108.png" tvg-id="c78692bba2daf167bf2279db054b3f3a",МУЗ ТВ
 http://217.107.192.37:9981/stream/channelid/999458503?ticket=A63926609E8BCCA92B7FB5E579E67CB855D1C2BA&profile=passa
 
+#EXTINF:-1 group-title="Russiatv",Life 78 (Full HD 1080p)
+http://78.gcdn.co/streams/877_13/1080p/index.m3u8
+#EXTINF:-1 group-title="Russiatv",Life 78 (HD 720p)
+http://78.gcdn.co/streams/877_13/720p/index.m3u8
+#EXTINF:-1 group-title="Russiatv",Life 78 (480p)
+http://78.gcdn.co/streams/877_13/480p/index.m3u8
+#EXTINF:-1 group-title="Russiatv",Life 78 (360p)
+http://78.gcdn.co/streams/877_13/360p/index.m3u8
+
 #EXTINF:-1 group-title="Russiatv",Первый канал
 http://iksolutions3.ddns.net/iptv/rusia2.php?id=62
 #EXTINF:-1 group-title="Russiatv",НТВ
