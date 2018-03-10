@@ -623,14 +623,22 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/566/inde
 #EXTINF:-1 tvg-logo="" group-title="BEin Sports", beIN LaLiga HD
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/574/index.m3u8
 
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s1
 http://111.223.50.12:8081/liveNimble/ch04h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s2
+http://103.253.73.251/liveNimble/ch04s/playlist.m3u8
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s1
 http://111.223.50.12:8081/liveNimble/ch05h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s2
+http://103.253.73.251/liveNimble/ch05s/playlist.m3u8
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3 s1
 http://111.223.50.12:8081/liveNimble/ch06h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3 s2
+http://103.253.73.251/liveNimble/ch06s/playlist.m3u8
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4 s1
 http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4 s2
+http://103.253.73.251/liveNimble/ch07s/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1 HD
@@ -1083,122 +1091,6 @@ http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="",KOIN 6 FoxPortland OR
 http://api.new.livestream.com/accounts/1864610/events/1649849/live.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/band.png" tvg-id="e45fd7e6484bf12af9c1782ffb912f43",BAND
-http://187.120.11.229:9981/stream/channelid/1725390820?ticket=7455B1FD2634404438819FD09FD9EACE632A6B3A&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/150px-BandNews_TV_logo_2010.svg.png" tvg-id="c401ecdf324d9902a9241dcd110ed9bf",BAND NEWS
-http://187.120.11.229:9981/stream/channelid/1609302468?ticket=A7AF3B6752F82BD6111C24AF8CCDAB4919EB1C6A&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandsports_12_logo.png" tvg-id="8738c348dd56148811b36826a9297c8d",BAND SPORTS
-http://187.120.11.229:9981/stream/channelid/1220753543?ticket=AB00367D2A2C00C2ACC5EFF12F483E2815E82D4B&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-id="201825e249d6976d9a5fd37fc4181ace",CNN INTERNACIONAL
-http://187.120.11.229:9981/stream/channelid/1646598176?ticket=1D9D4FD631FC2E047AD251A5E2F0DE4F77841D5C&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="http://vuapp.tranvu.info/upload//discovery.png",DISCOVERY CHANNEL
-http://187.120.11.229:9981/stream/channelid/763492415?ticket=64C67E0987CC4679EE42030CDDD35CB16D4F2B5F&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/220px-2015_Disney_Channel_logo.svg.png" tvg-id="1d80d5061441bb4fee369ecd777d11c4",DISNEY CHANNEL
-http://187.120.11.229:9981/stream/channelid/114655261?ticket=04F1D75719D95417BB9E96181AC77E7AF7F6C9D0&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" tvg-id="41efa28d081697911164d2d1ec933f9b",ESPN
-http://187.120.11.229:9981/stream/channelid/228781889?ticket=07EB219F5279B0E8646496A74E755F312F8B0EB4&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="http://img.miptv.ws/FOX.png" tvg-id="a03d5f9681267f5e4ac599248df75e9a",FOX
-http://187.120.11.229:9981/stream/channelid/375340448?ticket=81495A7A4DB94B8D0ECF4059BA434B668967EA17&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globosp.png" tvg-id="d895c10420eda82d279f4542592afe1c",GLOBO
-http://187.120.11.229:9981/stream/channelid/79795672?ticket=6A3B857477BC7A5F56913BCADDCEE47151D5D6D5&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/180px-Natgeologo.svg.png" tvg-id="59ebf535606a532ba26e2d226eb5b903",NATGEO
-http://187.120.11.229:9981/stream/channelid/905309017?ticket=7B120B205F80BEB929BB57BE694B4610CB26BE50&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" tvg-id="067a9235d73fa3c3564d79ba621e9f0b",NICK JR
-http://187.120.11.229:9981/stream/channelid/898791942?ticket=7440A05E6034B13A9A65ED8CB3E8D6E14A706D98&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Paramount_Channel.png/200px-Paramount_Channel.png" tvg-id="d00d278840e33177d5a92334639ae331",PARAMOUNT CHANNEL
-http://187.120.11.229:9981/stream/channelid/136777168?ticket=18DDEC8679A9910E13309605C654C5E52D50939E&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/145px-TNT_Logo_2016.svg.png" tvg-id="1b8737437b1151b6e17b7ccdc656d6f1",TNT
-http://187.120.11.229:9981/stream/channelid/1127712539?ticket=CE89B742800B4EDFDF20E1BEE910C7A62976239F&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/220px-Tooncast_logo.svg.png" tvg-id="3b620ea53aa72c0e6fc9d2537854e4e5",TOONCAST
-http://187.120.11.229:9981/stream/channelid/621699643?ticket=C818D7D29CCAC24197E049039311021E4A985723&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/E2YR6Oa.png" tvg-id="b40afe9c4184ea41925fcc1492239428",ALJAZEERA
-http://187.120.11.229:9981/stream/channelid/486410932?ticket=02683D729DB6357B837984DBE2A88358326CA6C5&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/wY0bIox.png" tvg-id="8b62c6db45e83059e2452d33048058d6",Bloomberg (USA)
-http://187.120.11.229:9981/stream/channelid/1539728011?ticket=1E8AF99216018B481EE783726D8433D2051BD9D3&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-id="67b7292341e4803c566f50d1f3391c79",REDBULL TV
-http://187.120.11.229:9981/stream/channelid/589936487?ticket=F92F271A50375C99812477B60729D50CB2ABF744&profile=pass
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_rede_aparecida_comunicacao.png" tvg-id="180878cb0986a686c07b9115ce105863",TV Aparecida
-http://187.120.11.229:9981/stream/channelid/1266157592?ticket=0C7D845CEDD63E8BA9720C89D12EE0606338E11D&profile=pass
-
-#EXTINF:-1 group-title="ESP",CARTOON NETWORK
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=CARTOON_NETWORK_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", DISNEY JUNIOR
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISNEY_JR&type=m3u8
-#EXTINF:-1 group-title="ESP", DISNEY CHANNEL
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISNEY_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", DISCOVERY KIDS
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISCOVERY_KIDS_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", DISNEY XD
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISNEY_XD&type=m3u8
-#EXTINF:-1 group-title="ESP", TOONCAST
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=TOONCAST&type=m3u8
-#EXTINF:-1 group-title="ESP", BOOMERANG
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=BOOMERANG&type=m3u8
-#EXTINF:-1 group-title="ESP",DISCOVERY CHANNEL
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISCOVERY_CHANNEL_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", NAT GEO
-http://asdfcvb.000webhostapp.com//canal.php?canal=NATGEO_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", ANIMAL PLANET
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=ANIMAL_PLANET_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", A&E
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=AE_MUNDO_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", FOX OPCIÓN 2
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=FOX_HD&type=m3u8
-#EXTINF:-1 group-title="ESP",ATRESERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 group-title="ESP", SPACE OPCION2
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=SPACE_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", WARNER CHANNEL
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=WARNER_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", CINECANAL 2
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=CINECANAL_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", FOX ACTION2
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=FOXACTION_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", HBO
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=HBO_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", HBO FAMILY
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-HBO_FAMILY_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", HBO FAMILY
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=HBO_FAMILY_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", HBO SIGNATURE
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-HBO_SIGNATURE_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", TNT
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-TNT_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", TNT SERIES
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-TNT_SERIES_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", FX
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FX_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", TRUTV
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-TRU_TV_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", FOX ACTION
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOXACTION_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", FOX ACTION2
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=FOXACTION_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", FOX MOVIES
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOXMOVIES_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", FOX CINEMA
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOX_CIMEMA_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", SONY
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-SONY_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", HBO
-http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-HBO_HD-2.m3u8
-#EXTINF:-1 group-title="ESP", ESPN 2
-http://asdfcvb.000webhostapp.com/canal.php?canal=ESPN_2_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", FOX SPORTS
-http://asdfcvb.000webhostapp.com/canal.php?canal=FOX_SPORTS_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", FOX 2
-http://link.theplatform.com/s/flac/XRQo5c9_wOeG?mbr=true&manifest=m3u&auth=DpV3hL6kKU6KXhww6gp0ocCkQPDKcDAs&type=m3u8
-#EXTINF:-1 group-title="ESP", FOX SPORTS 3
-http://hxh11075.000webhostapp.com/canal2.php?canal=FOX_SPORTS3_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", ESPN
-http://asdfcvb.000webhostapp.com/canal.php?canal=ESPN_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", DIRECTV SPORTS
-http://antenatv.tk/wbccuytrpcstrfviucqtenc37cnj32-DirectTVSports.m3u8?pk=daa8ef61dc82cd62e2c1beeb116d4cf53ca4a298a73054dc5a9acccc760bc75f
-#EXTINF:-1 group-title="ESP", ESPN 3
-http://hxh11075.000webhostapp.com/canal2.php?canal=ESPN_3_HD&type=m3u8
-#EXTINF:-1 group-title="ESP", BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
 #EXTINF:-1 group-title="ESP", RT Español HD
 http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/482/index.m3u8
@@ -2228,6 +2120,56 @@ http://211.225.68.27:9981/stream/channelid/1527989315?ticket=A0E2C3A9E627640ECF2
 #EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gefY5Bw.png" tvg-id="28c6b78130292f9a5ee7347499db768c",생활체육TV
 http://211.225.68.27:9981/stream/channelid/28821032?ticket=7A1E409797EF3553E44327E1D39A0C100246233B&profile=pass
 
+#EXTINF:-1 group-title="ThaiTV",CH5
+http://111.223.50.12:8081/digital/ch01/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",NBT
+http://111.223.50.12:8081/digital/ch02/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",TPBS
+http://111.223.50.12:8081/digital/ch03/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",3 family
+http://111.223.50.12:8081/digital/ch13/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",MCOT family
+http://111.223.50.12:8081/digital/ch14/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",TNN24
+http://111.223.50.12:8081/digital/ch16/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",newTV
+http://111.223.50.12:8081/digital/ch18/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",SPRING NEWS
+http://111.223.50.12:8081/digital/ch19/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",BRIGHT TV
+http://111.223.50.12:8081/digital/ch20/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",VOICE TV
+http://111.223.50.12:8081/digital/ch21/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",NATION
+http://111.223.50.12:8081/digital/ch22/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",WORKPOINT
+http://111.223.50.12:8081/digital/ch23/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",TRUE4U
+http://111.223.50.12:8081/digital/ch24/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",GMM25
+http://111.223.50.12:8081/digital/ch25/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",NOW
+http://111.223.50.12:8081/digital/ch26/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",8
+http://111.223.50.12:8081/desktop/ch8_720p/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",3SD
+http://111.223.50.12:8081/digital/ch28/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",MONO29
+http://111.223.50.12:8081/digital/ch29/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",MCOTHD
+http://111.223.50.12:8081/digital/ch30/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",ONE31
+http://111.223.50.12:8081/digital/ch31/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",THAIRAT
+http://111.223.50.12:8081/digital/ch32/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",3HD
+http://111.223.50.12:8081/digital/ch33/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",AMARIN
+http://111.223.50.12:8081/digital/ch34/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",7HD
+http://111.223.50.12:8081/digital/ch35/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",PPTV
+http://111.223.50.12:8081/digital/ch36/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg",24/7 Animated Movies
 http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
