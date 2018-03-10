@@ -643,6 +643,8 @@ http://103.253.73.251/liveNimble/ch04s/playlist.m3u8
 http://111.223.50.12:8081/liveNimble/ch05h/playlist.m3u8
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s2
 http://103.253.73.251/liveNimble/ch05s/playlist.m3u8
+#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s3
+http://43.229.76.54/boboapp1/bein2a.stream/playlist.m3u8
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3 s1
 http://111.223.50.12:8081/liveNimble/ch06h/playlist.m3u8
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3 s2
@@ -2132,6 +2134,10 @@ http://211.225.68.27:9981/stream/channelid/1527989315?ticket=A0E2C3A9E627640ECF2
 #EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gefY5Bw.png" tvg-id="28c6b78130292f9a5ee7347499db768c",생활체육TV
 http://211.225.68.27:9981/stream/channelid/28821032?ticket=7A1E409797EF3553E44327E1D39A0C100246233B&profile=pass
 
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai
+http://43.229.76.54/boboapp3/FOX/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="http://www.sine.tv/images/icon/truemoviehits.png",True movie hits
+http://43.229.76.54/boboapp3/MOVH/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",CH5
 http://111.223.50.12:8081/digital/ch01/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",NBT
