@@ -355,10 +355,22 @@ http://cdnv.cli.tn/iptv/ch1222?code=610116485444847
 #EXTINF:-1 group-title="Sports",Canal+ Futbol SP
 http://cdnv.cli.tn/iptv/ch1224?code=610116485444847
 
-#EXTINF:-1 group-title="Sports",True Sports 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport1.png",Thai:True Sports 1
+http://43.229.76.54/boboapp1/a_truesp1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/cc364e49809b49321d6d278ea777dbf2.png",Thai:True Sport HD 
+http://43.229.76.54/boboapp1/thd1.stream/playlist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",Thai:True Sport 2 HD s1 
+http://103.253.73.251/liveNimble/ch02s/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",Thai:True Sports 2 HD s2
 http://111.223.50.12:8081/liveNimble/ch02h/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sports 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport3.png",Thai:True Sports 3
+http://43.229.76.54/boboapp1/a_truesp3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",Thai:True Sport 3 HD s1
 http://111.223.50.12:8081/liveNimble/ch03h/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",Thai:True Sport 3 HD s2
+http://103.253.73.251/liveNimble/ch03s/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport7.png",Thai:True Sports 7
+http://43.229.76.54/boboapp1/a_truesp7.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",CCTV-5体育
 http://183.251.61.217/PLTV/88888888/224/3221226558/index.m3u8
