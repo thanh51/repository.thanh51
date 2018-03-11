@@ -915,19 +915,23 @@ http://xemtivi24.000webhostapp.com/iptv-mytvnet.php?id=cartoonnetwork
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
 
 
-#EXTINF:-1 tvg-id="VTV1 HD" tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s1
+http://183.80.92.4:9981/stream/channelid/9?ticket=BBF77BC0C4D910020160305925A7623721AD6062
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s2
 http://avg05.mobion.vn/live/t/1i_mRxI1492wSuU8C13JQw/s/8qpkkyf9wu/e/1514896025547/origin64_9000/71/45034366/live/vtv1hd.m3u8
 #EXTINF:-1 tvg-id="VTV2" tvg-id="VTV2" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV3 HD" tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD s1
+http://183.80.92.4:9981/stream/channelid/7?ticket=0930D625B50DECFDA11DEFCD6A9EE197200F3172
+#EXTINF:-1 tvg-id="VTV3 HD" tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD s2
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTV4" tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD s1
+http://183.80.92.4:9981/stream/channelid/8?ticket=9A9A13834EC2C10C6A4FFE0B683173AEE39B5167
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD s2
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
@@ -1037,9 +1041,31 @@ http://avg05.mobion.vn/live/t/48Wc0fwqseJYdQQ1Lcfdpg/s/t34ve7rcds/e/151489677650
 http://avg05.mobion.vn/live/t/bauvL4DQ9rqw8qLqYcEDZA/s/e9wlkqbpcf/e/1515603927253/origin64_9000/71/45036344/live/nhactrutinh.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_docsach.png",mobiTV:DOC SACH
 http://avg05.mobion.vn/live/t/25iEudDI_Z-1FqPxZPeSGQ/s/rtxc3bdlz4/e/1515603797036/origin64_9000/71/45036352/live/docsach.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",CHANNEL NEWS ASIA
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",mobiTV:CHANNEL NEWS ASIA
 http://avg05.mobion.vn/live/t/SOy0bcn4L_TF_qJAXZv8Lg/s/baw31tkucq/e/1514896323697/origin64_9000/71/45036341/live/channelnewsasia.m3u8
 
+#EXTINF:-1 tvg-id="FOX Movies HD" group-title="VietTV" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",FOX Movies HD
+http://183.80.92.4:9981/stream/channelid/2?ticket=9CC4B44302DB10A13E3D1BAA78F1EA5249EFA0C8
+#EXTINF:-1 tvg-id="HBO HD" group-title="VietTV" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO HD
+http://183.80.92.4:9981/stream/channelid/1?ticket=49406A58D17AB572DB91F6764EF217A1E8BA1119
+#EXTINF:-1 tvg-id="MAX By HBO HD" group-title="VietTV" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX By HBO HD
+http://183.80.92.4:9981/stream/channelid/3?ticket=44B0295916C11FC1B634ED0D65A6EA0F0CF6EB5B
+#EXTINF:-1 tvg-id="RED By HBO HD" group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/red-by-hbo.png",RED By HBO HD
+http://183.80.92.4:9981/stream/channelid/4?ticket=8D61BAB6266E039A5F45222DB805B09FA921921A
+#EXTINF:-1 tvg-id="" group-title="VietTV" tvg-logo="https://s15.postimg.org/vvi0duyyj/image.png",WARNER TV
+http://183.80.92.4:9981/stream/channelid/5?ticket=22C85B6C7D84C144EE5EF3AF08B2281ECEBA8141
+#EXTINF:-1 tvg-id="" group-title="VietTV" tvg-logo="https://s3.postimg.org/4mte49l8j/cinemaworld.png",CinemaWorld
+http://183.80.92.4:9981/stream/channelid/6?ticket=91AF38822A83E9F3333B612EFD9D4AD00487D31D
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="VietTV" tvg-logo="http://i.imgur.com/9RsSxQt.png",National Geographic HD
+http://183.80.92.4:9981/stream/channelid/13?ticket=5BBC97FC66A1EF008EE01126589B516F7A7BDF1B
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="VietTV" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
+http://183.80.92.4:9981/stream/channelid/11?ticket=9D000BC002AC7586F9C77541DA6DAB75D862B540
+#EXTINF:-1 tvg-id="" group-title="VietTV" https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
+http://183.80.92.4:9981/stream/channelid/10?ticket=DED38745858714F7341D76EEFF05FA2885D52C14
+#EXTINF:-1 tvg-id="Animal Planet" group-title="VietTV" tvg-logo="https://s16.postimg.org/9iwcw4rvp/animal.jpg",Animal Planet
+http://183.80.92.4:9981/stream/channelid/14?ticket=FE48ACFAF54F0007D1D7CDD183CAAF0813D9EFB9
+#EXTINF:-1 tvg-id="BBC Earth" group-title="VietTV" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC EARTH
+http://183.80.92.4:9981/stream/channelid/12?ticket=700F80CDA6EC479FDB7517E42CE61DD021C609A1
 
 #EXTINF:-1 group-title="VietHN" tvg-logo="",Sai Gon TV
 https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
