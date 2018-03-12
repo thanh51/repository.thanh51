@@ -172,12 +172,21 @@ http://cdnv.cli.tn/iptv/ch254?code=610116485444847
 #EXTINF:-1 group-title="Sports",SFR Sport 5 HD
 http://cdnv.cli.tn/iptv/ch243?code=610116485444847
 
-#EXTINF:-1 group-title="Sports",Canal+ Liga SP
-http://cdnv.cli.tn/iptv/ch1221?code=610116485444847
-#EXTINF:-1 group-title="Sports",Canal+ Deporte 2 SP
-http://cdnv.cli.tn/iptv/ch1222?code=610116485444847
-#EXTINF:-1 group-title="Sports",Canal+ Futbol SP
-http://cdnv.cli.tn/iptv/ch1224?code=610116485444847
+#EXTINF:-1 group-title="Sports", LaLiga TV Bar HD España
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
+#EXTINF:-1 group-title="Sports", M.Futbol HD España
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/575/index.m3u8
+
+#EXTINF:-1 group-title="Sports",M. FUTBOL España
+http://iksolutions3.ddns.net/iptv/rusia2.php?id=389
+#EXTINF:-1 group-title="Sports",DIEMA SPORT
+http://iksolutions3.ddns.net/iptv/rusia2.php?id=353
+#EXTINF:-1 group-title="Sports",DIEMA SPORT 2
+http://iksolutions3.ddns.net/iptv/rusia2.php?id=355
+#EXTINF:-1 group-title="Sports",DIEMA SPORT 2 HD
+http://iksolutions3.ddns.net/iptv/rusia2.php?id=356
+#EXTINF:-1 group-title="Sports",NOVA SPORT 1
+http://iksolutions3.ddns.net/iptv/rusia2.php?id=324
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://1ttv.org/uploads/mjQW91VJdjIEhADvOO2s6OiKNeUdUK.png",Super Tennis HD
 http://93.123.65.3:9130/130?vk.com/iptv_iptv
@@ -458,9 +467,13 @@ http://cdnv.cli.tn/iptv/ch2355?code=610116485444847
 #EXTINF:-1 group-title="BEin Sports",Bein Sport 3 TR
 http://cdnv.cli.tn/iptv/ch2356?code=610116485444847
 
-#EXTINF:-1 tvg-logo="" group-title="BEin Sports", beIN Sports Esp HD
+#EXTINF:-1 group-title="BEin Sports", beIN Sports HD España s1
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1 group-title="BEin Sports", beIN Sports HD Españas2
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/566/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEin Sports", beIN LaLiga HD
+#EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD España s1
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD España s2
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/574/index.m3u8
 
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s1
