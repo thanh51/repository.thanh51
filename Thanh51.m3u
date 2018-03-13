@@ -1619,6 +1619,35 @@ http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/618/inde
 #EXTINF:-1 group-title="ESP", Telesur HD
 http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/803/index.m3u8
 
+#EXTINF:-1 group-title="ESP",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="ESP",101 TV Malaga
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1 group-title="ESP",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="ESP",25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1 group-title="ESP",8 Cadiz TV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8
+#EXTINF:-1 group-title="ESP",8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:-1 group-title="ESP",8 TV*
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+#EXTINF:-1 group-title="ESP",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="ESP",Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ESP",Andalucia Turismo
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:-1 group-title="ESP",Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1 group-title="ESP",Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title="ESP",Antena 3*
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1 group-title="ESP",Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
 #EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/23.png" tvg-id="2517e3c39c828d88397e2dd7e259f80d",24 ДОК
 http://217.107.192.37:9981/stream/channelid/1138956069?ticket=069134EB6B1F9EE1D04D0E7313EFE49636EC0FEA&profile=pass
 #EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/76.png" tvg-id="e9c23cc92975ff61c1dcab4aa3aa10a5",24 Техно
