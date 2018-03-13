@@ -1,227 +1,304 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/ewjU0qgQQPtyIadk6ZmDM7kgBplyzh.png" group-title="Спорт",AD Sport 1 HD
-
+#EXTINF:-1 group-title="Sports",AD Sport 1 HD
 http://127.0.0.1:6689/stream?cid=5641
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/WnnTDAKno85TTnkmyIjCuCh2JWAAeg.png" group-title="Спорт",AD Sport 2 HD
-
+#EXTINF:-1 group-title="Sports",AD Sport 2 HD
 http://127.0.0.1:6689/stream?cid=5818
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/yp6LYxckUxFn7Yuru4UJQKPRUI4WZ2.png" group-title="Спорт",CBC Sport HD
-
+#EXTINF:-1 group-title="Sports",CBC Sport HD
 http://127.0.0.1:6689/stream?cid=4824
-#EXTINF:5 tvg-id="206" tvg-logo="http://1ttv.org/uploads/QA9jgUaQRrE4vMno04eM3aUrklXOce.png" group-title="Спорт",Eurosport 1
-
+#EXTINF:-1 group-title="Sports",Dubai Sports 3 
+http://127.0.0.1:6689/stream?cid=6052
+#EXTINF:-1 group-title="Sports",Eurosport 1
 http://127.0.0.1:6689/stream?cid=3651
-#EXTINF:172 tvg-id="100048" tvg-logo="http://1ttv.org/uploads/DpFTzUEA3y67Z6ObTPF4xH0XLNRAZm.png" group-title="Спорт",Eurosport 1 HD
-
+#EXTINF:-1 group-title="Sports",Eurosport 1 Deutschland
+http://127.0.0.1:6689/stream?cid=5767
+#EXTINF:-1 group-title="Sports",Eurosport 1 HD
 http://127.0.0.1:6689/stream?cid=3674
-#EXTINF:6 tvg-id="100008" tvg-logo="http://1ttv.org/uploads/qYbdkVFDkhGqTAjXlRtIj2Fg45bmrm.png" group-title="Спорт",Eurosport 2
-
+#EXTINF:-1 group-title="Sports",Eurosport 2
 http://127.0.0.1:6689/stream?cid=3680
-#EXTINF:626 tvg-id="100008" tvg-logo="http://1ttv.org/uploads/0mo5WOW3xn7FmcIRM9PMZxb2Zgad86.png" group-title="Спорт",Eurosport 2 HD
-
+#EXTINF:-1 group-title="Sports",Eurosport 2 HD
 http://127.0.0.1:6689/stream?cid=3685
-#EXTINF:8 tvg-id="259" tvg-logo="http://1ttv.org/uploads/21FhIqWK82JDPNuLTEIC9hSO2EHfks.png" group-title="Спорт",Extreme Sports
-
+#EXTINF:-1 group-title="Sports",Eurosport News
+http://127.0.0.1:6689/stream?cid=5353
+#EXTINF:-1 group-title="Sports",Extreme Sports
 http://127.0.0.1:6689/stream?cid=3675
-#EXTINF:8 tvg-id="259" tvg-logo="http://1ttv.org/uploads/F4fGoW5QeUXRJnNnfOnhY3ZejkVyPn.png" group-title="Спорт",Extreme Sports /резерв/
-
+#EXTINF:-1 group-title="Sports",Extreme Sports (резерв)
 http://127.0.0.1:6689/stream?cid=5077
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/mjQW91VJdjIEhADvOO2s6OiKNeUdUK.png" group-title="Спорт",Super Tennis HD
-
+#EXTINF:-1 group-title="Sports",FightBox
+http://127.0.0.1:6689/stream?cid=5503
+#EXTINF:-1 group-title="Sports",FightBox HD
+http://127.0.0.1:6689/stream?cid=5369
+#EXTINF:-1 group-title="Sports",PAC-12 Network HD
+http://127.0.0.1:6689/stream?cid=5879
+#EXTINF:-1 group-title="Sports",Setanta Sports Eurasia HD
+http://127.0.0.1:6689/stream?cid=5884
+#EXTINF:-1 group-title="Sports",Setanta Sports+ Eurasia HD
+http://127.0.0.1:6689/stream?cid=5880
+#EXTINF:-1 group-title="Sports",Super Tennis HD
 http://127.0.0.1:6689/stream?cid=4227
-#EXTINF:538 tvg-id="1590" tvg-logo="http://1ttv.org/uploads/kRN7BwVtcdaXrU4Mdg24qhFAxjx9oZ.png" group-title="Спорт",КХЛ HD
-
-http://127.0.0.1:6689/stream?cid=3678
-#EXTINF:216 tvg-logo="http://1ttv.org/uploads/216.png" group-title="Спорт",КХЛ ТВ
-
-http://127.0.0.1:6689/stream?cid=3668
-#EXTINF:4 tvg-logo="http://1ttv.org/uploads/hQDOuQjUVczvUU2ocLE0tkC1siCqpo.png" group-title="Спорт",Матч ТВ
-
-http://127.0.0.1:6689/stream?cid=3568
-#EXTINF:4 tvg-logo="http://1ttv.org/uploads/MXyy9Uud7oDuH8JqVisjsD0csgAHnQ.png" group-title="Спорт",Матч ТВ HD
-
+#EXTINF:-1 group-title="Sports",Viasat Sport
+http://127.0.0.1:6689/stream?cid=3677
+#EXTINF:-1 group-title="Sports",Viasat Sport Baltic
+http://127.0.0.1:6689/stream?cid=3683
+#EXTINF:-1 group-title="Sports",Viasat Sport HD
+http://127.0.0.1:6689/stream?cid=3682
+#EXTINF:-1 group-title="Sports",Viasat Fotboll
+http://127.0.0.1:6689/stream?cid=3684
+#EXTINF:-1 group-title="Sports",Viasat Golf
+http://127.0.0.1:6689/stream?cid=3945
+#EXTINF:-1 group-title="Sports",Матч ТВ HD
 http://127.0.0.1:6689/stream?cid=91
-#EXTINF:365 tvg-id="940" tvg-logo="http://1ttv.org/uploads/DDjh1dM2D09Wcl3L6YmEd1si3P17n0.png" group-title="Спорт",Матч! Арена
-
+#EXTINF:-1 group-title="Sports",Матч! Арена
 http://127.0.0.1:6689/stream?cid=3652
-#EXTINF:526 tvg-id="940" tvg-logo="http://1ttv.org/uploads/DDjh1dM2D09Wcl3L6YmEd1si3P17n0.png" group-title="Спорт",Матч! Арена HD
-
+#EXTINF:-1 group-title="Sports",Матч! Арена HD
 http://127.0.0.1:6689/stream?cid=3577
-#EXTINF:473 tvg-id="1354" tvg-logo="http://1ttv.org/uploads/urIB7TbFWo36EmXW9eG3w4qre7MdX9.png" group-title="Спорт",Матч! Игра
-
+#EXTINF:-1 group-title="Sports",Матч! Боец
+http://127.0.0.1:6689/stream?cid=82
+#EXTINF:-1 group-title="Sports",Матч! Игра
 http://127.0.0.1:6689/stream?cid=3672
-#EXTINF:112 tvg-id="1354" tvg-logo="http://1ttv.org/uploads/urIB7TbFWo36EmXW9eG3w4qre7MdX9.png" group-title="Спорт",Матч! Игра HD
-
+#EXTINF:-1 group-title="Sports",Матч! Игра HD
 http://127.0.0.1:6689/stream?cid=3572
-#EXTINF:222 tvg-id="100052" tvg-logo="http://1ttv.org/uploads/l0x8GopxrHL6jLiDGVHi8tIEc7RBt2.png" group-title="Спорт",Матч! Наш Спорт
-
+#EXTINF:-1 group-title="Sports",Матч! Наш Спорт
 http://127.0.0.1:6689/stream?cid=3669
-#EXTINF:38 tvg-id="1018" tvg-logo="http://1ttv.org/uploads/mWQ92sSmszzmjme9GTueLPCxagJGtl.png" group-title="Спорт",Матч! Планета
-
+#EXTINF:-1 group-title="Sports",Матч! Планета
 http://127.0.0.1:6689/stream?cid=3676
-#EXTINF:39 tvg-id="205" tvg-logo="http://1ttv.org/uploads/9PM8M6cN21wQ3M5isVZgjNepzUI4Ry.png" group-title="Спорт",Матч! Футбол 1
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1
 http://127.0.0.1:6689/stream?cid=3679
-#EXTINF:625 tvg-id="300106" tvg-logo="http://1ttv.org/uploads/9PM8M6cN21wQ3M5isVZgjNepzUI4Ry.png" group-title="Спорт",Матч! Футбол 1 HD
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD
 http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:625 tvg-logo="http://1ttv.org/uploads/HWZYoNrs7kQimfhyzT8V2d0WvBRbEr.png" group-title="Спорт",Матч! Футбол 1 HD Резерв 1
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 1
 http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:625 tvg-logo="http://1ttv.org/uploads/jJsAF2rxef4RpccQrmfPkIbJc9kS7Q.png" group-title="Спорт",Матч! Футбол 1 HD Резерв 2
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 2
 http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:625 tvg-logo="http://1ttv.org/uploads/Tpv0BbEi315Omo6MKh3ZiX5zTzc8OT.png" group-title="Спорт",Матч! Футбол 1 HD Резерв 3
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 3
 http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:552 tvg-id="100001" tvg-logo="http://1ttv.org/uploads/8MA3WloO6RsWX8N7Ck5ugek2Kirf4B.png" group-title="Спорт",Матч! Футбол 2
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2
 http://127.0.0.1:6689/stream?cid=3671
-#EXTINF:611 tvg-id="100069" tvg-logo="http://1ttv.org/uploads/8MA3WloO6RsWX8N7Ck5ugek2Kirf4B.png" group-title="Спорт",Матч! Футбол 2 HD
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD
 http://127.0.0.1:6689/stream?cid=3570
-#EXTINF:701 tvg-id="300128" tvg-logo="http://1ttv.org/uploads/OLHdmyfUev4mMX0OGniJrlUwHnMKOg.png" group-title="Спорт",Матч! Футбол 3
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3
 http://127.0.0.1:6689/stream?cid=3681
-#EXTINF:646 tvg-id="300129" tvg-logo="http://1ttv.org/uploads/OLHdmyfUev4mMX0OGniJrlUwHnMKOg.png" group-title="Спорт",Матч! Футбол 3 HD
-
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD
 http://127.0.0.1:6689/stream?cid=3571
-#EXTINF:472 tvg-id="686" tvg-logo="http://1ttv.org/uploads/472.png" group-title="Спорт",Футбол
-
+#EXTINF:-1 group-title="Sports",Футбол
 http://127.0.0.1:6689/stream?cid=4837
-#EXTINF:533 tvg-logo="http://1ttv.org/uploads/AMKtYwcgSAX5mTcPdhQDe4he18Jz7S.png" group-title="Спорт",Футбол 1 /Украина/
-
+#EXTINF:-1 group-title="Sports",Футбол 1 (Украина)
 http://127.0.0.1:6689/stream?cid=3895
-#EXTINF:532 tvg-logo="http://1ttv.org/uploads/PUXTI9mKcs49JnEENkh95KoKqt9VNg.png" group-title="Спорт",Футбол 2 /Украина/
-
+#EXTINF:-1 group-title="Sports",Футбол 2 (Украина)
 http://127.0.0.1:6689/stream?cid=3779
 
-
-#EXTINF:65 tvg-id="556" tvg-logo="http://1ttv.org/uploads/0IZrVwoxtmjtgnWu5Dj4Hb8FRc8NIX.png" group-title="Познавательные",365 Дней
-
+#EXTINF:-1 group-title="Doc",365 Дней
 http://127.0.0.1:6689/stream?cid=3850
-#EXTINF:45 tvg-id="214" tvg-logo="http://1ttv.org/uploads/45.png" group-title="Познавательные",Animal Planet
-
+#EXTINF:-1 group-title="Doc",Animal Planet
 http://127.0.0.1:6689/stream?cid=3656
-#EXTINF:612 tvg-id="300107" tvg-logo="http://1ttv.org/uploads/9HZGan5rQItVQOfnB91FGqyJXjoqYV.png" group-title="Познавательные",Animal Planet HD
-
+#EXTINF:-1 group-title="Doc",Animal Planet HD
 http://127.0.0.1:6689/stream?cid=3902
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/cBtECu4MsPAYmq1EJnW4QhGEArTYML.png" group-title="Познавательные",BBC Earth HD /Polska/
-
+#EXTINF:-1 group-title="Doc",BBC Brit HD (Polska)
+http://127.0.0.1:6689/stream?cid=5938
+#EXTINF:-1 group-title="Doc",BBC Earth HD (Polska)
 http://127.0.0.1:6689/stream?cid=5927
-#EXTINF:483 tvg-logo="http://1ttv.org/uploads/Yl6p1IDDkZxxiUa3p2JxI66mIlOPns.png" group-title="Познавательные",Da Vinci Learning
-
+#EXTINF:-1 group-title="Doc",BBC Lifestyle HD (Polska)
+http://127.0.0.1:6689/stream?cid=5942
+#EXTINF:-1 group-title="Doc",CGTN
+http://127.0.0.1:6689/stream?cid=4018
+#EXTINF:-1 group-title="Doc",CGTN Documentary
+http://127.0.0.1:6689/stream?cid=3992
+#EXTINF:-1 group-title="Doc",CGTN Русский
+http://127.0.0.1:6689/stream?cid=3959
+#EXTINF:-1 group-title="Doc",Da Vinci Learning
 http://127.0.0.1:6689/stream?cid=3934
-#EXTINF:359 tvg-id="226" tvg-logo="http://1ttv.org/uploads/oKx1ImWVRT3AK3DHYWUVc71JZUkwu5.png" group-title="Познавательные",Discovery Channel
-
+#EXTINF:-1 group-title="Doc",Discover Georgia HD 
+http://127.0.0.1:6689/stream?cid=6050
+#EXTINF:-1 group-title="Doc",Discovery Channel
 http://127.0.0.1:6689/stream?cid=3768
-#EXTINF:613 tvg-id="226" tvg-logo="http://1ttv.org/uploads/SmWnYlOvkJn8GzttT2UY0vmo8PYfMg.png" group-title="Познавательные",Discovery Channel HD
-
+#EXTINF:-1 group-title="Doc",Discovery Channel HD
 http://127.0.0.1:6689/stream?cid=3775
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/DQvOBosiJ3hV7ThJ6LvLCpj54QJES1.png" group-title="Познавательные",Discovery Historia Polska
-
+#EXTINF:-1 group-title="Doc",Discovery Historia Polska
 http://127.0.0.1:6689/stream?cid=5793
-#EXTINF:99 tvg-id="224" tvg-logo="http://1ttv.org/uploads/GAaO3EfDwMuHAIelG4gYW6TDEYbLnS.png" group-title="Познавательные",Discovery Science
-
+#EXTINF:-1 group-title="Doc",Discovery Science
 http://127.0.0.1:6689/stream?cid=3650
-#EXTINF:1110 tvg-id="224" tvg-logo="http://1ttv.org/uploads/r6bJv3dYsyx52LKvrREcXQxPjde99p.png" group-title="Познавательные",Discovery Science HD /на модерации/
-
+#EXTINF:-1 group-title="Doc",Discovery Science HD 
 http://127.0.0.1:6689/stream?cid=5953
-#EXTINF:1240 tvg-logo="http://1ttv.org/uploads/SjkR8V88mcLlQNmJloJveP9nrLM1G1.png" group-title="Познавательные",Discovery Showcasе HD /на модерации/
-
+#EXTINF:-1 group-title="Doc",Discovery Showcasе HD 
 http://127.0.0.1:6689/stream?cid=5957
-#EXTINF:52 tvg-logo="http://1ttv.org/uploads/arqY17KbyOXp7ZqGKD5167wM2laGJq.png" group-title="Познавательные",Discovery Turbo Xtrа HD /на модерации/
-
+#EXTINF:-1 group-title="Doc",Discovery Turbo Xtrа HD 
 http://127.0.0.1:6689/stream?cid=5955
-#EXTINF:1540 tvg-logo="http://1ttv.org/uploads/4ZjuKuTHFCuXqKkEmKYGcBFe6UK5z4.png" group-title="Познавательные",DocuBox
-
+#EXTINF:-1 group-title="Doc",DMAX Austria
+http://127.0.0.1:6689/stream?cid=5746
+#EXTINF:-1 group-title="Doc",DocuBox
 http://127.0.0.1:6689/stream?cid=5114
-#EXTINF:616 tvg-id="568" tvg-logo="http://1ttv.org/uploads/jUteUS0xRGdvLyBVqNjowEUDkOjT0t.png" group-title="Познавательные",HD Life
-
-http://127.0.0.1:6689/stream?cid=3826
-#EXTINF:637 tvg-logo="http://1ttv.org/uploads/9cVifexiWW0qWDhhpnLNVydoZkeRqZ.png" group-title="Познавательные",History Channel
-
+#EXTINF:-1 group-title="Doc",History Channel
 http://127.0.0.1:6689/stream?cid=3806
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/mXy2qeIvaTSKUc6j4ygG6y69PxGHmN.png" group-title="Познавательные",History Channel Europe
-
+#EXTINF:-1 group-title="Doc",History Channel Europe
 http://127.0.0.1:6689/stream?cid=5800
-#EXTINF:699 tvg-logo="http://1ttv.org/uploads/VFgU260pmiIyPxCzD3f8R7Yc6DXClH.png" group-title="Познавательные",History Channel HD
-
+#EXTINF:-1 group-title="Doc",History Channel HD
 http://127.0.0.1:6689/stream?cid=3808
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/eq9YvFYrrALYxVCZJfAkVGowMr0BWS.png" group-title="Познавательные",N24 Doku
-
-http://127.0.0.1:6689/stream?cid=5760
-#EXTINF:179 tvg-id="100051" tvg-logo="http://1ttv.org/uploads/ciHIDUuHEnkEuPghbcqkDQx4vadle3.png" group-title="Познавательные",Nat Geo Wild
-
+#EXTINF:-1 group-title="Doc",Discovery ID Europe HD 
+http://127.0.0.1:6689/stream?cid=5954
+#EXTINF:-1 group-title="Doc",Nat Geo Wild
 http://127.0.0.1:6689/stream?cid=3769
-#EXTINF:547 tvg-id="300104" tvg-logo="http://1ttv.org/uploads/YYa1wyNA9prFK1APZ2ZSHGirPpm8kY.png" group-title="Познавательные",Nat Geo Wild HD
-
+#EXTINF:-1 group-title="Doc",Nat Geo Wild HD
 http://127.0.0.1:6689/stream?cid=3785
-#EXTINF:66 tvg-id="284" tvg-logo="http://1ttv.org/uploads/i6STSw6Hg1wWP18yBAOyKoKpSMeKLu.png" group-title="Познавательные",National Geographic
-
+#EXTINF:-1 group-title="Doc",National Geographic
 http://127.0.0.1:6689/stream?cid=3658
-#EXTINF:169 tvg-id="300050" tvg-logo="http://1ttv.org/uploads/hK1waimMq9eAp0ugM19moSoQvUeve5.png" group-title="Познавательные",National Geographic HD
-
+#EXTINF:-1 group-title="Doc",National Geographic HD
 http://127.0.0.1:6689/stream?cid=3817
-#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/PtoKR0FVbCGRB6wTO24AOlKaW3UxEP.png" group-title="Познавательные",National Geographic Polska
-
+#EXTINF:-1 group-title="Doc",National Geographic Polska
 http://127.0.0.1:6689/stream?cid=5778
-#EXTINF:183 tvg-id="636" tvg-logo="http://1ttv.org/uploads/cvBAngU16nJU1bEzxAEcMPiPvf7fVT.png" group-title="Познавательные",Ocean-TV
-
+#EXTINF:-1 group-title="Doc",Ocean-TV
 http://127.0.0.1:6689/stream?cid=3891
-#EXTINF:647 tvg-logo="http://1ttv.org/uploads/b8QePfFi6zsCDS7hfTeFWES5UN4SAk.png" group-title="Познавательные",Russia Today Doc HD
-
+#EXTINF:-1 group-title="Doc",Outdoor Channel
+http://127.0.0.1:6689/stream?cid=3965
+#EXTINF:-1 group-title="Doc",Outdoor Channel HD
+http://127.0.0.1:6689/stream?cid=4499
+#EXTINF:-1 group-title="Doc",Russia Today Doc HD
 http://127.0.0.1:6689/stream?cid=3964
-#EXTINF:639 tvg-logo="http://1ttv.org/uploads/VOYx5PIhDPrWiZIcCYpm1xrDSQZnsN.png" group-title="Познавательные",Russia Today Doc.
-
+#EXTINF:-1 group-title="Doc",Russia Today Doc.
 http://127.0.0.1:6689/stream?cid=3966
-#EXTINF:491 tvg-id="100022" tvg-logo="http://1ttv.org/uploads/gT4olUY9nFJbGRCdwd7hHJp1NJ5eJr.png" group-title="Познавательные",TLC
-
+#EXTINF:-1 group-title="Doc",TLC
 http://127.0.0.1:6689/stream?cid=3649
-#EXTINF:700 tvg-id="300131" tvg-logo="http://1ttv.org/uploads/gT4olUY9nFJbGRCdwd7hHJp1NJ5eJr.png" group-title="Познавательные",TLC HD
-
+#EXTINF:-1 group-title="Doc",TLC Deutschland
+http://127.0.0.1:6689/stream?cid=5759
+#EXTINF:-1 group-title="Doc",TLC HD
 http://127.0.0.1:6689/stream?cid=3870
-#EXTINF:72 tvg-logo="http://1ttv.org/uploads/b1HifWKMyefmDDvaDAJTwNNTaD8LF4.png" group-title="Познавательные",Travel + adventure
-
+#EXTINF:-1 group-title="Doc",TLC HD (Polska)
+http://127.0.0.1:6689/stream?cid=5930
+#EXTINF:-1 group-title="Doc",Travel + adventure
 http://127.0.0.1:6689/stream?cid=3800
-#EXTINF:649 tvg-logo="http://1ttv.org/uploads/b1HifWKMyefmDDvaDAJTwNNTaD8LF4.png" group-title="Познавательные",Travel + adventure HD
-
+#EXTINF:-1 group-title="Doc",Travel + adventure HD
 http://127.0.0.1:6689/stream?cid=3836
-#EXTINF:630 tvg-logo="http://1ttv.org/uploads/fhmrYjlpC0YMxFd2RqOolbjlXMr0tI.png" group-title="Познавательные",Travel Channel
-
+#EXTINF:-1 group-title="Doc",Travel Channel
 http://127.0.0.1:6689/stream?cid=3824
-#EXTINF:632 tvg-id="100081" tvg-logo="http://1ttv.org/uploads/zfnAGLCvIu1fx9hfrITAZMoo9HYww4.png" group-title="Познавательные",Travel Channel HD
-
+#EXTINF:-1 group-title="Doc",Travel Channel HD
 http://127.0.0.1:6689/stream?cid=3825
-#EXTINF:74 tvg-id="324" tvg-logo="http://1ttv.org/uploads/uCqpsdKP0ialUUYxUk2fXshYdYfxzW.png" group-title="Познавательные",Viasat Explore
-
+#EXTINF:-1 group-title="Doc",Viasat Explore
 http://127.0.0.1:6689/stream?cid=3832
-#EXTINF:74 tvg-logo="http://1ttv.org/uploads/EoAEqgLuNmMc5IpoWLbzZgy8UsSkpA.png" group-title="Познавательные",Viasat Explorе HD /на модерации/
-
-http://127.0.0.1:6689/stream?cid=5963
-#EXTINF:75 tvg-id="325" tvg-logo="http://1ttv.org/uploads/MWGbB8wJp5Gm4vbPHl0ktohDDjMKdr.png" group-title="Познавательные",Viasat History
-
+#EXTINF:-1 group-title="Doc",Viasat History
 http://127.0.0.1:6689/stream?cid=3776
-#EXTINF:75 tvg-logo="http://1ttv.org/uploads/kBIST5CjcbGVB60BHahW3YG2V4Je3N.png" group-title="Познавательные",Viasat Histоry HD /на модерации/
-
-http://127.0.0.1:6689/stream?cid=5959
-#EXTINF:481 tvg-logo="http://1ttv.org/uploads/yimDcPvajJcUKQm9bY15cDdp3rJFcp.png" group-title="Познавательные",Viasat Nature East
-
+#EXTINF:-1 group-title="Doc",Viasat Nature East
 http://127.0.0.1:6689/stream?cid=3930
-#EXTINF:633 tvg-logo="http://1ttv.org/uploads/pSP6zxmuO4PU6xa6KRlZ9L8vvVM2Dy.png" group-title="Познавательные",Viasat Nature-History HD
-
+#EXTINF:-1 group-title="Doc",Viasat Nature-History HD
 http://127.0.0.1:6689/stream?cid=3932
-#EXTINF:235 tvg-id="400001" tvg-logo="http://1ttv.org/uploads/Qa41eifERrD77xQsmpRGbeTq95Ldlv.png" group-title="Познавательные",Моя планета
-
+#EXTINF:-1 group-title="Doc",Моя планета
 http://127.0.0.1:6689/stream?cid=3799
-#EXTINF:521 tvg-logo="http://1ttv.org/uploads/QuURIfJUmXegxsHMYqMivVwxizbfKd.png" group-title="Познавательные",Нано ТВ
-
+#EXTINF:-1 group-title="Doc",Нано ТВ
 http://127.0.0.1:6689/stream?cid=3977
-#EXTINF:1218 tvg-logo="http://1ttv.org/uploads/OddcmNqjIGsNDv3hm5RkZNrrPwd8cX.png" group-title="Познавательные",Наука
-
+#EXTINF:-1 group-title="Doc",Наука
 http://127.0.0.1:6689/stream?cid=4816
-#EXTINF:466 tvg-id="300105" tvg-logo="http://1ttv.org/uploads/ypWbqYqKApM8cnDK1FibvQgpmgEay9.png" group-title="Познавательные",Наука 2.0
-
+#EXTINF:-1 group-title="Doc",Наука 2.0
 http://127.0.0.1:6689/stream?cid=3766
 
+#EXTINF:-1 group-title="News",Al Jazeera English
+http://127.0.0.1:6689/stream?cid=5213
+#EXTINF:-1 group-title="News",Arirang TV
+http://127.0.0.1:6689/stream?cid=4488
+#EXTINF:-1 group-title="News",BBC HD (Nordic)
+http://127.0.0.1:6689/stream?cid=5929
+#EXTINF:-1 group-title="News",BBC World News
+http://127.0.0.1:6689/stream?cid=3894
+#EXTINF:-1 group-title="News",Bloomberg
+http://127.0.0.1:6689/stream?cid=4022
+#EXTINF:-1 group-title="News",Canal Japanet DX
+http://127.0.0.1:6689/stream?cid=5812
+#EXTINF:-1 group-title="News",CCTV 4
+http://127.0.0.1:6689/stream?cid=5224
+#EXTINF:-1 group-title="News",CNC World
+http://127.0.0.1:6689/stream?cid=5976
+#EXTINF:-1 group-title="News",CNN International
+http://127.0.0.1:6689/stream?cid=3865
+#EXTINF:-1 group-title="News",Deutsche Welle
+http://127.0.0.1:6689/stream?cid=75
+#EXTINF:-1 group-title="News",EuroNews
+http://127.0.0.1:6689/stream?cid=74
+#EXTINF:-1 group-title="News",EuroNews France
+http://127.0.0.1:6689/stream?cid=5771
+#EXTINF:-1 group-title="News",EuroNews German
+http://127.0.0.1:6689/stream?cid=5790
+#EXTINF:-1 group-title="News",EuroNews Greek
+http://127.0.0.1:6689/stream?cid=5975
+#EXTINF:-1 group-title="News",EuroNews Italian
+http://127.0.0.1:6689/stream?cid=5985
+#EXTINF:-1 group-title="News",France 24
+http://127.0.0.1:6689/stream?cid=4011
+#EXTINF:-1 group-title="News",KBS World HD
+http://127.0.0.1:6689/stream?cid=4739
+#EXTINF:-1 group-title="News",NHK World TV
+http://127.0.0.1:6689/stream?cid=3937
+#EXTINF:-1 group-title="News",Rai 1
+http://127.0.0.1:6689/stream?cid=4759
+#EXTINF:-1 group-title="News",Rai 2
+http://127.0.0.1:6689/stream?cid=4758
+#EXTINF:-1 group-title="News",Rai 3
+http://127.0.0.1:6689/stream?cid=4743
+#EXTINF:-1 group-title="News",Rai 5
+http://127.0.0.1:6689/stream?cid=5338
+#EXTINF:-1 group-title="News",Rai News 24
+http://127.0.0.1:6689/stream?cid=4813
+#EXTINF:-1 group-title="News",RaiNews 24
+http://127.0.0.1:6689/stream?cid=5229
+#EXTINF:-1 group-title="News",Sky News International 
+http://127.0.0.1:6689/stream?cid=6043
+#EXTINF:-1 group-title="News",TV5 Monde
+http://127.0.0.1:6689/stream?cid=3940
+
+#EXTINF:-1 group-title="Movies",AMC
+http://127.0.0.1:6689/stream?cid=3833
+#EXTINF:-1 group-title="Movies",ARM Film HD
+http://127.0.0.1:6689/stream?cid=5968
+#EXTINF:-1 group-title="Movies",BEST Films HD
+http://127.0.0.1:6689/stream?cid=5807
+#EXTINF:-1 group-title="Movies",Cinema
+http://127.0.0.1:6689/stream?cid=3979
+#EXTINF:-1 group-title="Movies",FilmBox
+http://127.0.0.1:6689/stream?cid=5478
+#EXTINF:-1 group-title="Movies",FilmBox Action
+http://127.0.0.1:6689/stream?cid=5779
+#EXTINF:-1 group-title="Movies",FilmBox Arthouse
+http://127.0.0.1:6689/stream?cid=5490
+#EXTINF:-1 group-title="Movies",FilmBox Arthouse Rus
+http://127.0.0.1:6689/stream?cid=5473
+#EXTINF:-1 group-title="Movies",FilmBox Family
+http://127.0.0.1:6689/stream?cid=5788
+#EXTINF:-1 group-title="Movies",Filmbox Premium Polska
+http://127.0.0.1:6689/stream?cid=5783
+#EXTINF:-1 group-title="Movies",FILMUADRAMA
+http://127.0.0.1:6689/stream?cid=4820
+#EXTINF:-1 group-title="Movies",FilmUADrama HD
+http://127.0.0.1:6689/stream?cid=5304
+#EXTINF:-1 group-title="Movies",Fox
+http://127.0.0.1:6689/stream?cid=3789
+#EXTINF:-1 group-title="Movies",Fox HD
+http://127.0.0.1:6689/stream?cid=3823
+#EXTINF:-1 group-title="Movies",Fox Life
+http://127.0.0.1:6689/stream?cid=3845
+#EXTINF:-1 group-title="Movies",Fox Life HD
+http://127.0.0.1:6689/stream?cid=3917
+#EXTINF:-1 group-title="Movies",HBO 2 HD (Polska)
+http://127.0.0.1:6689/stream?cid=5933
+#EXTINF:-1 group-title="Movies",HBO 3 HD (Polska)
+http://127.0.0.1:6689/stream?cid=5935
+#EXTINF:-1 group-title="Movies",MGM HD
+http://127.0.0.1:6689/stream?cid=3803
+#EXTINF:-1 group-title="Movies",TV1000
+http://127.0.0.1:6689/stream?cid=3749
+#EXTINF:-1 group-title="Movies",TV1000 Action East
+http://127.0.0.1:6689/stream?cid=3722
+#EXTINF:-1 group-title="Movies",TV1000 World Kino
+http://127.0.0.1:6689/stream?cid=5050
+#EXTINF:-1 group-title="Movies",TV4 Film
+http://127.0.0.1:6689/stream?cid=6003
+
+#EXTINF:-1 group-title="Kid",Boomerang ТV 
+http://127.0.0.1:6689/stream?cid=5961
+#EXTINF:-1 group-title="Kid",Cartoon Network
+http://127.0.0.1:6689/stream?cid=3795
+#EXTINF:-1 group-title="Kid",Disney Channel
+http://127.0.0.1:6689/stream?cid=3772
+#EXTINF:-1 group-title="Kid",Disney Channel Deutschland
+http://127.0.0.1:6689/stream?cid=5755
+#EXTINF:-1 group-title="Kid",Nickelodeon
+http://127.0.0.1:6689/stream?cid=3765
+#EXTINF:-1 group-title="Kid",Nickelodeon HD
+http://127.0.0.1:6689/stream?cid=3801
+#EXTINF:-1 group-title="Kid",NickToons
+http://127.0.0.1:6689/stream?cid=5992
