@@ -51,20 +51,14 @@ http://cdnv.cli.tn/iptv/ch916?code=610116485444847
 #EXTINF:-1 group-title="BDAnh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",17/04/2018 03h00: West Ham Vs Stoke City| Sky Sports Main Event
 http://cdnv.cli.tn/iptv/ch922?code=610116485444847
 
-#EXTINF:-1 tvg-id="K+NS HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/gzqlckm21/K_NS.png",K+NS HD Xoilac 
-acestream://6ad9098d64491e1964cc10d6f3247990142cc3c2
 #EXTINF:-1 tvg-id="K+NS HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/gzqlckm21/K_NS.png",K+NS HD Trannam
-acestream://86a304fccee6276f4f2bf42661f59157d06aab24
-#EXTINF:-1 tvg-id="K+PC HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/3vl0zvekp/K_PC.png",K+PC HD Xoilac 
-acestream://f7d2038093486023bc3b16e3e67857264d54fca5
+acestream://512c9221e3dc33ceae94a4badfae3ee74a1fcc41
 #EXTINF:-1 tvg-id="K+PC HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/3vl0zvekp/K_PC.png",K+PC HD Trannam
-acestream://1ef7379406667db7137c08740481a6cc989462a1
-#EXTINF:-1 tvg-id="K+PM HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/cduh48fyh/K_PM.png",K+PM HD Xoilac 
-acestream://63c176923423346eda1426010e868c50d06de8f8
+acestream://664aa58e41fd045bdb53ae07db4d72a043b09922
 #EXTINF:-1 tvg-id="K+PM HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/cduh48fyh/K_PM.png",K+PM HD Trannam
-acestream://70422b596ff217525f5a2f5f569d6d7750984e14
+acestream://bd17ac93cc9de0e570f5302e5ecac3dc615ad0b8
 #EXTINF:-1 tvg-id="K+1 HD" group-title="Acestream Sports server 1" tvg-logo="https://s18.postimg.org/4t58e3zex/K_1.png",K+1 HD Trannam
-acestream://9834b54e9aba45403243a28c54f8830b81f4cc5b
+acestream://2635cd38b08f2bf2fcb7d732e3b65a6521cb4289
 #EXTINF:-1 group-title="Acestream Sports server 1",SPAINTV BEIN LIGA
 acestream://a5a150b4fa8b884ebf3d48d2687bad5e50908043
 #EXTINF:-1 group-title="Acestream Sports server 1",SPAINTV BEIN SPORTS
@@ -138,20 +132,14 @@ acestream://2477ae4c4992e23fd2fd93cdded1cd564a3ddf32
 #EXTINF:-1 group-title="Acestream Sports server 1",Футбол 2 (Украина)
 acestream://764d37b4b2b2393cddb505a281559e60ba2ffbc9
 
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/gzqlckm21/K_NS.png",K+NS HD Xoilac 
-http://127.0.0.1:6878/ace/getstream?id=6ad9098d64491e1964cc10d6f3247990142cc3c2
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/gzqlckm21/K_NS.png",K+NS HD Trannam
-http://127.0.0.1:6878/ace/getstream?id=86a304fccee6276f4f2bf42661f59157d06aab24
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/3vl0zvekp/K_PC.png",K+PC HD Xoilac 
-http://127.0.0.1:6878/ace/getstream?id=f7d2038093486023bc3b16e3e67857264d54fca5
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/3vl0zvekp/K_PC.png",K+PC HD Trannam
-http://127.0.0.1:6878/ace/getstream?id=1ef7379406667db7137c08740481a6cc989462a1
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/cduh48fyh/K_PM.png",K+PM HD Xoilac 
-http://127.0.0.1:6878/ace/getstream?id=63c176923423346eda1426010e868c50d06de8f8
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/cduh48fyh/K_PM.png",K+PM HD Trannam
-http://127.0.0.1:6878/ace/getstream?id=70422b596ff217525f5a2f5f569d6d7750984e14
-#EXTINF:-1 group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/4t58e3zex/K_1.png",K+1 HD Trannam
-http://127.0.0.1:6878/ace/getstream?id=9834b54e9aba45403243a28c54f8830b81f4cc5b
+#EXTINF:-1 tvg-id="K+NS HD" group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/gzqlckm21/K_NS.png",K+NS HD Trannam
+http://127.0.0.1:6878/ace/getstream?id=512c9221e3dc33ceae94a4badfae3ee74a1fcc41
+#EXTINF:-1 tvg-id="K+PC HD" group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/3vl0zvekp/K_PC.png",K+PC HD Trannam
+http://127.0.0.1:6878/ace/getstream?id=664aa58e41fd045bdb53ae07db4d72a043b09922
+#EXTINF:-1 tvg-id="K+PM HD" group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/cduh48fyh/K_PM.png",K+PM HD Trannam
+http://127.0.0.1:6878/ace/getstream?id=bd17ac93cc9de0e570f5302e5ecac3dc615ad0b8
+#EXTINF:-1 tvg-id="K+1 HD" group-title="Acestream Sports server 2" tvg-logo="https://s18.postimg.org/4t58e3zex/K_1.png",K+1 HD Trannam
+http://127.0.0.1:6878/ace/getstream?id=2635cd38b08f2bf2fcb7d732e3b65a6521cb4289
 #EXTINF:-1 group-title="Acestream Sports server 2",SPAINTV BEIN LIGA
 http://127.0.0.1:6878/ace/getstream?id=a5a150b4fa8b884ebf3d48d2687bad5e50908043
 #EXTINF:-1 group-title="Acestream Sports server 2",SPAINTV BEIN SPORTS
