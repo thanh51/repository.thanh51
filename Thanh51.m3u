@@ -846,21 +846,21 @@ udp://@225.1.2.227:30120
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv1
-#EXTINF:-1 tvg-id="VTV2"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2 HD
+#EXTINF:-1 tvg-id="VTV2"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv2
-#EXTINF:-1 tvg-id="VTV3 HD"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3 HD
+#EXTINF:-1 tvg-id="VTV3 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv3
-#EXTINF:-1 tvg-id="VTV4"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4 HD
+#EXTINF:-1 tvg-id="VTV4"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv4
-#EXTINF:-1 tvg-id="VTV5"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5 HD
+#EXTINF:-1 tvg-id="VTV5"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv5
-#EXTINF:-1 tvg-id="VTV6 HD"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
+#EXTINF:-1 tvg-id="VTV6 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv6
-#EXTINF:-1 tvg-id="VTV7 HD"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7 HD
+#EXTINF:-1 tvg-id="VTV7 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv7
-#EXTINF:-1 tvg-id="VTV8 HD"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8 HD
+#EXTINF:-1 tvg-id="VTV8 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv8
-#EXTINF:-1 tvg-id="VTV9"  group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
+#EXTINF:-1 tvg-id="VTV9"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv9
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_145673317781.jpg",ANTV
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=antv
@@ -1110,7 +1110,7 @@ http://avg05.mobion.vn/live/t/EexCM8KJ1QQSx21yfwmxOg/s/92uheyzbgu/e/151489617559
 #EXTINF:-1 tvg-id="Ha Noi 1" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png",HA NOI 1 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 tvg-id="Ha Noi 2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png",HA NOI 2 HD
-http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8  
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
 
 #EXTINF:-1 tvg-id="HTV1" group-title="VietTV" tvg-id="HTV1" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8
@@ -1647,376 +1647,376 @@ http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
 #EXTINF:-1 group-title="ESP",Antena 3 Int'l
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/23.png" tvg-id="2517e3c39c828d88397e2dd7e259f80d",24 ДОК
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/23.png" tvg-id="2517e3c39c828d88397e2dd7e259f80d",24 ДОК
 http://217.107.192.37:9981/stream/channelid/1138956069?ticket=069134EB6B1F9EE1D04D0E7313EFE49636EC0FEA&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/76.png" tvg-id="e9c23cc92975ff61c1dcab4aa3aa10a5",24 Техно
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/76.png" tvg-id="e9c23cc92975ff61c1dcab4aa3aa10a5",24 Техно
 http://217.107.192.37:9981/stream/channelid/1228718825?ticket=BCA0C93393D9CF60562F2A0A04F8924E81477231&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/27.png" tvg-id="037507c79d246508cd85a500939457f6",Animal planet HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/27.png" tvg-id="037507c79d246508cd85a500939457f6",Animal planet HD
 http://217.107.192.37:9981/stream/channelid/1191671043?ticket=734A11B7D08EF474C46485C069FBDB9A230169A1&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="",Da Vinci Learning
+#EXTINF:-1 group-title="Russiatv"tvg-logo="",Da Vinci Learning
 http://217.107.192.37:9981/stream/channelid/1542067620?ticket=0573E7906970FE5B19B972D020EE64E9B32EFD97&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/59.png" tvg-id="3073d3c2b305e511a77c8fd1d372aba2",Discovery HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/59.png" tvg-id="3073d3c2b305e511a77c8fd1d372aba2",Discovery HD
 http://217.107.192.37:9981/stream/channelid/1121153840?ticket=6DBFC733A35ABC2C58A28121AC3862EE5F9A73FB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/61.png" tvg-id="f9c326ff4235072d18a2149d07638ceb",Discovery Science HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/61.png" tvg-id="f9c326ff4235072d18a2149d07638ceb",Discovery Science HD
 http://217.107.192.37:9981/stream/channelid/2133246969?ticket=73554B873C37DC9E86A2B528D11626473E463971&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="",Domashnie Jivotniye
+#EXTINF:-1 group-title="Russiatv"tvg-logo="",Domashnie Jivotniye
 http://217.107.192.37:9981/stream/channelid/936228415?ticket=702798F9EA1B05D6B1CE5ABE0C673ABFAF367BCA&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/62.png" tvg-id="1d5a51b08b2d82149a6c3be296c2e8d7",DTX
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/62.png" tvg-id="1d5a51b08b2d82149a6c3be296c2e8d7",DTX
 http://217.107.192.37:9981/stream/channelid/810637853?ticket=3A872EB364EF54782A5D49FD0850A922FB983E77&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/36.png" tvg-id="ab156b6edf34478cb4d15f91897ca99f",HD Life
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/36.png" tvg-id="ab156b6edf34478cb4d15f91897ca99f",HD Life
 http://217.107.192.37:9981/stream/channelid/1852511659?ticket=A59DC618EDB262B2E6CEB857F677CCF6283224B2&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/93.png" tvg-id="ac7ea88456d7142d05e4566c53e10d97",ID Xtra
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/93.png" tvg-id="ac7ea88456d7142d05e4566c53e10d97",ID Xtra
 http://217.107.192.37:9981/stream/channelid/78151340?ticket=D79B0D8FCD9F4B4113AEFDAD379E41D839229CED&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="",Nat Geo Wild HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="",Nat Geo Wild HD
 http://217.107.192.37:9981/stream/channelid/1947402252?ticket=9392BB0ABAB0E39940E162A135DA1AEB27E28A5D&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="bdfd069c00bafbad21e4b909afbc8840",National Geographic HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="bdfd069c00bafbad21e4b909afbc8840",National Geographic HD
 http://217.107.192.37:9981/stream/channelid/470220221?ticket=B8DD9F98FD41D8B17E03AD80CB7036471F167890&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/32.png" tvg-id="49dfeb2f95e83bc2ff6f0aebbfbae6ed",Ocean TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/32.png" tvg-id="49dfeb2f95e83bc2ff6f0aebbfbae6ed",Ocean TV
 http://217.107.192.37:9981/stream/channelid/803987273?ticket=73CDE3C6A7CEC515D882E3021050210EBCED580F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="96d3e95fe58f565e39ca92198c2b6f11",Ohota i ribalka
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="96d3e95fe58f565e39ca92198c2b6f11",Ohota i ribalka
 http://217.107.192.37:9981/stream/channelid/1609159574?ticket=346F8F3CCF5F0F83E8E0E2758EA8257276F92A77&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/123.png" tvg-id="0b96a60959f92194de9ca66f869793f6",Russian Travel Guide
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/123.png" tvg-id="0b96a60959f92194de9ca66f869793f6",Russian Travel Guide
 http://217.107.192.37:9981/stream/channelid/161912331?ticket=220B2D8A4A08A1D8DDC4C7876A10BF6C52B9E603&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/109.png" tvg-id="8024cc876a49ca2095efcea851465418",Sony Sci-Fi
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/109.png" tvg-id="8024cc876a49ca2095efcea851465418",Sony Sci-Fi
 http://217.107.192.37:9981/stream/channelid/130819200?ticket=800B7BD1CB17A89715882F3471B083A1B40B18F8&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="c4771236cbddceaad1c73432c0245f6f",Sony Turbo
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="c4771236cbddceaad1c73432c0245f6f",Sony Turbo
 http://217.107.192.37:9981/stream/channelid/907179972?ticket=76F8719667738B964222C1EE9BDBD26A9B4CEA78&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/12.png" tvg-id="1641ef5b39ee3481f33d664f2a2a97df",Travel+Adventure HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/12.png" tvg-id="1641ef5b39ee3481f33d664f2a2a97df",Travel+Adventure HD
 http://217.107.192.37:9981/stream/channelid/1542406422?ticket=802C513D05F4EF020013C88EAEF1A6A31F3295EB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="cf84ceb641c75fbe9605706910443f6c",Viasat Explorer
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="cf84ceb641c75fbe9605706910443f6c",Viasat Explorer
 http://217.107.192.37:9981/stream/channelid/919504079?ticket=D97251618E7BDCA2B7BF05A0369A38DEB95BC200&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="68cf8dbf18b66490c818953953165144",Viasat History
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="68cf8dbf18b66490c818953953165144",Viasat History
 http://217.107.192.37:9981/stream/channelid/1066258280?ticket=1004DD2870D0487D113CBBAFE25A6E88EEDEF2FF&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="bc6f56f4a9768bc877c349650fc0b247",Viasat Nature
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="bc6f56f4a9768bc877c349650fc0b247",Viasat Nature
 http://217.107.192.37:9981/stream/channelid/1951821756?ticket=DAD10DEBC347230B906A5FD2FDE371AFAD2DA1C0&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/95.png" tvg-id="9d660c0033b2a1d68fc306cd1c9bb192",Zee TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/95.png" tvg-id="9d660c0033b2a1d68fc306cd1c9bb192",Zee TV
 http://217.107.192.37:9981/stream/channelid/812701?ticket=F6F5E50B0921BB26B9F5549342A38C8772015DC6&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="040684d56b313c6351e961d606d3410f",Zhivaja Planeta
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="040684d56b313c6351e961d606d3410f",Zhivaja Planeta
 http://217.107.192.37:9981/stream/channelid/1434715652?ticket=8E1E014308DBBF00BD28ACAB72AEA75E954F8241&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/121.png" tvg-id="aaf36756f45c5f741901db9187d68653",Авто 24
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/121.png" tvg-id="aaf36756f45c5f741901db9187d68653",Авто 24
 http://217.107.192.37:9981/stream/channelid/1449653162?ticket=16E59DBCFC8757682D22E27DB0FEFE51A5BDE0AE&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/94.png" tvg-id="abc5f75c7429f8044d24f1e6674b77c0",Авто Плюс
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/94.png" tvg-id="abc5f75c7429f8044d24f1e6674b77c0",Авто Плюс
 http://217.107.192.37:9981/stream/channelid/1559741867?ticket=0A3B4E0B008FD09B2188B046C3BC25845BA434F9&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/43.png" tvg-id="13ffd5097698d2eb08773f7a57be9d2a",Еда HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/43.png" tvg-id="13ffd5097698d2eb08773f7a57be9d2a",Еда HD
 http://217.107.192.37:9981/stream/channelid/165019411?ticket=B97E1728A16CF527D4C75B055FC3120EE97C556B&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/86.png" tvg-id="23c4677b25c0e6b7de206900f1003379",История
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/86.png" tvg-id="23c4677b25c0e6b7de206900f1003379",История
 http://217.107.192.37:9981/stream/channelid/2070397987?ticket=2A47F474BC747D9E506A91E5C63562C89EC7B799&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/79.png" tvg-id="33e258d945a9ae25f64a20349c4cd628",Кухня ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/79.png" tvg-id="33e258d945a9ae25f64a20349c4cd628",Кухня ТВ
 http://217.107.192.37:9981/stream/channelid/1498997299?ticket=8232CEE943D8DE82E30BC5DC7EEF1DA5E8E0FA37&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/75.png" tvg-id="42832f6f49345e9d48def61a2831ff29",Моя Планета
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/75.png" tvg-id="42832f6f49345e9d48def61a2831ff29",Моя Планета
 http://217.107.192.37:9981/stream/channelid/1865384770?ticket=89B1A2E09370B986F2DB1D612BC4AE3D23584814&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/68.png" tvg-id="bc62c553e9fbb868961d3614486302e1",НАНО ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/68.png" tvg-id="bc62c553e9fbb868961d3614486302e1",НАНО ТВ
 http://217.107.192.37:9981/stream/channelid/1405444796?ticket=B58653D6AEDF0E6FBB5996D1CE3ABC56B9901BFC&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/71.png" tvg-id="cb0596d7988c092fd4440ad775170620",Наука 2.0
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/71.png" tvg-id="cb0596d7988c092fd4440ad775170620",Наука 2.0
 http://217.107.192.37:9981/stream/channelid/1469449675?ticket=D7A6C8C07C552ABDAD257A9E1CD1F088EEC4E8A7&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/64.png" tvg-id="0ac9665f184aced62a02464ff567ee86",Охотник и Рыболов
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/64.png" tvg-id="0ac9665f184aced62a02464ff567ee86",Охотник и Рыболов
 http://217.107.192.37:9981/stream/channelid/1600571658?ticket=751DA7E75ED97D6EEF911D8F49A1EE4200A7C3AB&profile=pass
 
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/41.png" tvg-id="ecb4ed004e0450b57f7339afcba8a9a1",Amedia 1
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/41.png" tvg-id="ecb4ed004e0450b57f7339afcba8a9a1",Amedia 1
 http://217.107.192.37:9981/stream/channelid/15578348?ticket=6CD994286AA450068DE5E62876B58D438F2016AA&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/39.png" tvg-id="4e1d878389c2a4c84bdcc546ac892eaa",Amedia Premium HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/39.png" tvg-id="4e1d878389c2a4c84bdcc546ac892eaa",Amedia Premium HD
 http://217.107.192.37:9981/stream/channelid/59186510?ticket=46893EE904539B897A646389AD4A37E0238A96A7&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="9a987e3c4a62a78e010bc7cf1b4f9867",Cinema
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="9a987e3c4a62a78e010bc7cf1b4f9867",Cinema
 http://217.107.192.37:9981/stream/channelid/1014929562?ticket=1A6A0041B9881E99A76F8BEBE38B732F17EFB934&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="300c7b20131c8e5d82445efc9530ae46",Fox HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="300c7b20131c8e5d82445efc9530ae46",Fox HD
 http://217.107.192.37:9981/stream/channelid/544934960?ticket=26AF2BDD6731354D7923A64C4911D329B364627B&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="74bb5958c25d320683f7e0a7b6164257",Fox Life HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="74bb5958c25d320683f7e0a7b6164257",Fox Life HD
 http://217.107.192.37:9981/stream/channelid/1482275700?ticket=40ECFDE46BC9516F93081DF38A2D4F480DB335B1&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="adc4ae871ce67ebdd30b1869f7f698d1",IndiaTV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="adc4ae871ce67ebdd30b1869f7f698d1",IndiaTV
 http://217.107.192.37:9981/stream/channelid/128894125?ticket=BE0B27624D7EA9E285D7D0F4AF208DB179586337&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="d3bf5b3573a4c7c8d5242ed3de3757f5",Komedia
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="d3bf5b3573a4c7c8d5242ed3de3757f5",Komedia
 http://217.107.192.37:9981/stream/channelid/895205331?ticket=4DA5D35C07D1DA1320373007F6F00807C837CD67&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="54caf26cd176da4d8190737c409a6e63",O!
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="54caf26cd176da4d8190737c409a6e63",O!
 http://217.107.192.37:9981/stream/channelid/1827850836?ticket=059855B3D75416E0749C682B35F858B5E1ED20AB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="bf922859e09d0ea3750837268d005133",Russkiy detectiv
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="bf922859e09d0ea3750837268d005133",Russkiy detectiv
 http://217.107.192.37:9981/stream/channelid/1495831231?ticket=87ADF2BAB1B94929ED5A9AE71A944A00099C1B9F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="2d1f78423eb9b778e10a10d3f4c1127a",RusskiyIlluzionTV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="2d1f78423eb9b778e10a10d3f4c1127a",RusskiyIlluzionTV
 http://217.107.192.37:9981/stream/channelid/1115168557?ticket=A14C2882ED4C1D11C9BD1D3896043A6C126DA916&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="52674b13a3ceae48c41bdffae3d6ddfc",Slow
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="52674b13a3ceae48c41bdffae3d6ddfc",Slow
 http://217.107.192.37:9981/stream/channelid/323708754?ticket=6EDFFC3F224406B11632FA7A8B99F34987F51C65&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/113.png" tvg-id="fcd620eba6064e800fd6f6adf63c76e7",Sony Channel
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/113.png" tvg-id="fcd620eba6064e800fd6f6adf63c76e7",Sony Channel
 http://217.107.192.37:9981/stream/channelid/1797314300?ticket=A5AB7089F45F793D6884CC3E6931951F19B12204&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="333e2f2df166e3f430c09e0d21328825",TV1000
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="333e2f2df166e3f430c09e0d21328825",TV1000
 http://217.107.192.37:9981/stream/channelid/758070835?ticket=28BEF4F6543B22472E23AE7C0ECDA8FE1158EE09&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="cf2c848ccef1fd38243dbaf797e23699",TV1000 Action
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="cf2c848ccef1fd38243dbaf797e23699",TV1000 Action
 http://217.107.192.37:9981/stream/channelid/209988815?ticket=341BEE5692A3139FFEF7D7286C52FFADD2800828&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="d157bf6f88e581b048a7902f14505cea",TV1000 Comedy HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="d157bf6f88e581b048a7902f14505cea",TV1000 Comedy HD
 http://217.107.192.37:9981/stream/channelid/1874810833?ticket=19E3923DB4DEE1607519C8AFA45E78B6E374A54D&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="5fb1e5185b48e02e7bae75d8fe3c8340",TV1000 Megahit HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="5fb1e5185b48e02e7bae75d8fe3c8340",TV1000 Megahit HD
 http://217.107.192.37:9981/stream/channelid/417706335?ticket=C20E761B6B06C26CD85B82F247AE3DE2F843EB2D&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="86e577b4f5c1901b029d5c367f8de1c8",TV1000 Premium HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="86e577b4f5c1901b029d5c367f8de1c8",TV1000 Premium HD
 http://217.107.192.37:9981/stream/channelid/880272774?ticket=8DDCEFE57F336EFC47EB21264409055E84FA892A&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="f57b4e4dc7839990eaf4b4c0ba898deb",TV1000 Русское кино
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="f57b4e4dc7839990eaf4b4c0ba898deb",TV1000 Русское кино
 http://217.107.192.37:9981/stream/channelid/1296989173?ticket=A385B1177438CDC32F2CA8ECD931F937A13E4421&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="96bb87abb7f4f51bd11dd9f84af80bbe",Дом Кино
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="96bb87abb7f4f51bd11dd9f84af80bbe",Дом Кино
 http://217.107.192.37:9981/stream/channelid/730315670?ticket=9BAB807CC19686BBF787CD10A15F9911E1BBC7D3&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/137.png" tvg-id="0c2b25f4dab76cdb7e4ed1959c68539a",ЕвроКино
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/137.png" tvg-id="0c2b25f4dab76cdb7e4ed1959c68539a",ЕвроКино
 http://217.107.192.37:9981/stream/channelid/1948592908?ticket=80DDE59A568CD4C98E608E50854AFDB7972A884B&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/136.png" tvg-id="cbbb7b6bdf5c8846dee5cbf5df57463b",Иллюзион+
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/136.png" tvg-id="cbbb7b6bdf5c8846dee5cbf5df57463b",Иллюзион+
 http://217.107.192.37:9981/stream/channelid/1803271115?ticket=A370A4D9B327FE1FDB3ADF863CDFCE4F86AE21D7&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="859f94fdaab39adf6a356aed29ee8654",Кино ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="859f94fdaab39adf6a356aed29ee8654",Кино ТВ
 http://217.107.192.37:9981/stream/channelid/2106892165?ticket=FC61E04EBCE941B15974F955282E8D9EE6CECD40&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/80.png" tvg-id="58559640d1f80d010af8572fcf3c2058",Кинокомедия
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/80.png" tvg-id="58559640d1f80d010af8572fcf3c2058",Кинокомедия
 http://217.107.192.37:9981/stream/channelid/1083594072?ticket=5AC817C6516478834FDDBAF3D9F0AFE1B0A85B2F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/85.png" tvg-id="0bb383eb9ee9cf9eb59c238f0e1ddd20",Киномикс
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/85.png" tvg-id="0bb383eb9ee9cf9eb59c238f0e1ddd20",Киномикс
 http://217.107.192.37:9981/stream/channelid/1803793163?ticket=C2DB8BF8319CC96031B740086645C2B7B80F9A88&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/88.png" tvg-id="b22681b273a274f53d9dc371022edff7",Кинопремьера HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/88.png" tvg-id="b22681b273a274f53d9dc371022edff7",Кинопремьера HD
 http://217.107.192.37:9981/stream/channelid/847324850?ticket=682E5EB96252305DD522FDF8D241BD44FE741A74&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/83.png" tvg-id="8cacd1da2d3ac54a039ee05b8f05e29b",Киносвидание
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/83.png" tvg-id="8cacd1da2d3ac54a039ee05b8f05e29b",Киносвидание
 http://217.107.192.37:9981/stream/channelid/1523690636?ticket=B5C37B7BC069EAA461D64EEDAFC2C9773DC14E12&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/54.png" tvg-id="ccd90d9a31a5300e92dab597aa3c825b",Киносемья
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/54.png" tvg-id="ccd90d9a31a5300e92dab597aa3c825b",Киносемья
 http://217.107.192.37:9981/stream/channelid/437115340?ticket=F984DD5A3D37ABDD4302820B310345FA529DB40E&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/359.png" tvg-id="23b8a56c881703c01856975dbe818c72",Кинохит
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/359.png" tvg-id="23b8a56c881703c01856975dbe818c72",Кинохит
 http://217.107.192.37:9981/stream/channelid/1822799907?ticket=F6A398A4F71BCF239A95D7BAB5440E9D98AF4835&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="beee537a47ce98cd4f20047bf582aac1",Мужское кино
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="beee537a47ce98cd4f20047bf582aac1",Мужское кино
 http://217.107.192.37:9981/stream/channelid/2052320958?ticket=F72CE457F0E1D9957E88A5695F253930614E3225&profile=pass
 
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/1.png" tvg-id="e6a9a3232bc3292e6c058d939a366e6f",Первый канал Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/1.png" tvg-id="e6a9a3232bc3292e6c058d939a366e6f",Первый канал Белгород
 http://217.107.192.37:9981/stream/channelid/597928422?ticket=3DE146B06A341AC8BAD4A0A82CAD5DBED096CC69&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/2.png" tvg-id="cc99ead9a5aeb58ee3890e0146312e70",Россия 1 Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/2.png" tvg-id="cc99ead9a5aeb58ee3890e0146312e70",Россия 1 Белгород
 http://217.107.192.37:9981/stream/channelid/1508547020?ticket=0DF667224405B8A3C3AE1B9FEF5935251BA0347F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/3.png" tvg-id="a476bf265fac1d4de1302d4e29877a4a",МАТЧ! Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/3.png" tvg-id="a476bf265fac1d4de1302d4e29877a4a",МАТЧ! Белгород
 http://217.107.192.37:9981/stream/channelid/650081956?ticket=24C545E433A9C15EB5B61DD34F32E20FE2D9C75B&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/4.png" tvg-id="246f117cd7a36f93cb7eb734119227b1",НТВ Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/4.png" tvg-id="246f117cd7a36f93cb7eb734119227b1",НТВ Белгород
 http://217.107.192.37:9981/stream/channelid/2081517348?ticket=C767794D891B43D74B2EC3AE7C3F6EB55814D8A2&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/81.png" tvg-id="cb92649d30482151926d4ff224a7d506",5 канал Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/81.png" tvg-id="cb92649d30482151926d4ff224a7d506",5 канал Белгород
 http://217.107.192.37:9981/stream/channelid/493130443?ticket=A1EAA3CBF4F2587EE56E143040C41DCD5BB0852E&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/5.png" tvg-id="2a9ab7893e69be455d17ab841742a82e",Россия К Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/5.png" tvg-id="2a9ab7893e69be455d17ab841742a82e",Россия К Белгород
 http://217.107.192.37:9981/stream/channelid/163027498?ticket=31848F5B59274ACD7256C5D8E0CAF4522F3AA426&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/7.png" tvg-id="c340fff148d5e367844919d178a5f1ff",Россия 24 Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/7.png" tvg-id="c340fff148d5e367844919d178a5f1ff",Россия 24 Белгород
 http://217.107.192.37:9981/stream/channelid/1912553667?ticket=CBD604794322BC0639EF415311E2A1E59290138D&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/8.png" tvg-id="cdce91647b9a7483e359ae4c57938617",Карусель Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/8.png" tvg-id="cdce91647b9a7483e359ae4c57938617",Карусель Белгород
 http://217.107.192.37:9981/stream/channelid/1687277261?ticket=68E662C861358E3344E3A9BE832028B937BF60F4&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/9.png" tvg-id="b4b76befb16709fe2a768846dba9c432",ОТР Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/9.png" tvg-id="b4b76befb16709fe2a768846dba9c432",ОТР Белгород
 http://217.107.192.37:9981/stream/channelid/1869330356?ticket=65159219265354077BD102F11E062465415C0A77&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/10.png" tvg-id="980c675b6c88949ae9c7acb959897c9f",ТВ Центр Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/10.png" tvg-id="980c675b6c88949ae9c7acb959897c9f",ТВ Центр Белгород
 http://217.107.192.37:9981/stream/channelid/1533480088?ticket=304BB4306D59AEC00D3EC27D3F484233A8B27E75&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/11.png" tvg-id="026a4c4698b6df9bf864eea69f408e4f",РЕН ТВ Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/11.png" tvg-id="026a4c4698b6df9bf864eea69f408e4f",РЕН ТВ Белгород
 http://217.107.192.37:9981/stream/channelid/1179412994?ticket=BC591B1C4C7ABACDFE2B9FC55F56313409F001AD&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/351.png" tvg-id="5ea7314562f99f85086ece57bde78027",СПАС Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/351.png" tvg-id="5ea7314562f99f85086ece57bde78027",СПАС Белгород
 http://217.107.192.37:9981/stream/channelid/1160882014?ticket=4D5B724BB03F85A377317631CEBD207023EE51DE&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/13.png" tvg-id="3745bac74e1a117368fd195dc67e003d",СТС Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/13.png" tvg-id="3745bac74e1a117368fd195dc67e003d",СТС Белгород
 http://217.107.192.37:9981/stream/channelid/1203389751?ticket=4560751C22D62B3063B359ED90812B7ED06BC738&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/14.png" tvg-id="66787947a03412d70a3fe49ecc20516a",Домашний Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/14.png" tvg-id="66787947a03412d70a3fe49ecc20516a",Домашний Белгород
 http://217.107.192.37:9981/stream/channelid/1199143014?ticket=28EB5F0980A47AFEFBC786203548B9CE62EA9110&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/15.png" tvg-id="02013a2afb7be1a580af47e7f36af24c", ТВ3 Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/15.png" tvg-id="02013a2afb7be1a580af47e7f36af24c", ТВ3 Белгород
 http://217.107.192.37:9981/stream/channelid/708444418?ticket=E8CEEA3A7E5F2D6A68CEA6732B794F0285F8EFFC&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/52.png" tvg-id="c5377430980112540ea09ee968dffc8e",Пятница Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/52.png" tvg-id="c5377430980112540ea09ee968dffc8e",Пятница Белгород
 http://217.107.192.37:9981/stream/channelid/812922821?ticket=0AA38B509C30466D439EDD3A6D12D046703FA065&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/17.png" tvg-id="9034ba5875fde1777a5112f717807632",Звезда Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/17.png" tvg-id="9034ba5875fde1777a5112f717807632",Звезда Белгород
 http://217.107.192.37:9981/stream/channelid/1488598160?ticket=D0AB6CCE4EC34C59CFB1697CCB4F746AA5A2B9F6&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/18.png" tvg-id="14d5c7cef628a0c1275c9d970817cc1d",Мир Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/18.png" tvg-id="14d5c7cef628a0c1275c9d970817cc1d",Мир Белгород
 http://217.107.192.37:9981/stream/channelid/1321719060?ticket=D0CC0357F392F749158AC8904E86314354F97E28&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/19.png" tvg-id="a021ecad8bcef9ce30849c95d7010b31",ТНТ Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/19.png" tvg-id="a021ecad8bcef9ce30849c95d7010b31",ТНТ Белгород
 http://217.107.192.37:9981/stream/channelid/770449824?ticket=67C635096A58D664AD539D4B73DC93B05B880E53&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/108.png" tvg-id="057c1330a495afb60abcc22be4f67c9c",МУЗ ТВ Белгород
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/108.png" tvg-id="057c1330a495afb60abcc22be4f67c9c",МУЗ ТВ Белгород
 http://217.107.192.37:9981/stream/channelid/806583301?ticket=B953E01B85C37DDB0EE4B9086EA6DD4302786C05&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="",Мир Белогорья
+#EXTINF:-1 group-title="Russiatv"tvg-logo="",Мир Белогорья
 http://217.107.192.37:9981/stream/channelid/1357971302?ticket=3ED8C56BF8285419A7A221EF10E9FA82E5B33056&profile=pass
 
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/356.png" tvg-id="5d48813cf3b004654b45ea660e775272",Ретро
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/356.png" tvg-id="5d48813cf3b004654b45ea660e775272",Ретро
 http://217.107.192.37:9981/stream/channelid/1015105629?ticket=887D5E57489C3A7384A918C9152D24C8C27F4968&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/352.png" tvg-id="38e707ca94aebe55ee6d78243a26698b",Русский Роман HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/352.png" tvg-id="38e707ca94aebe55ee6d78243a26698b",Русский Роман HD
 http://217.107.192.37:9981/stream/channelid/1242031928?ticket=158E3086E56765F98C7288AC5C3925D52FDD3121&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/46.png" tvg-id="e1f541e8b4ea6a3e0091356fd5cd0b0c",Русский бестселлер
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/46.png" tvg-id="e1f541e8b4ea6a3e0091356fd5cd0b0c",Русский бестселлер
 http://217.107.192.37:9981/stream/channelid/1749153249?ticket=9F9EE01F598CDEE79658F6AE04726C8243075762&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/96.png" tvg-id="8eb5ec72811f87cd42b75e6738d0e6f7",Феникс+Кино
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/96.png" tvg-id="8eb5ec72811f87cd42b75e6738d0e6f7",Феникс+Кино
 http://217.107.192.37:9981/stream/channelid/1928115598?ticket=FD822560E23C0CCA75F7EA509FAA997657201399&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/358.png" tvg-id="0df3c7e5725c82f5bf8f71b13c3aa759",1HD Music
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/358.png" tvg-id="0df3c7e5725c82f5bf8f71b13c3aa759",1HD Music
 http://217.107.192.37:9981/stream/channelid/1707602701?ticket=D9330B8D68B4A19B4EF85FDB2B5649699B21F33C&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="411d8626cad5d7d82c1001e0840b18bd",BRIDGE HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="411d8626cad5d7d82c1001e0840b18bd",BRIDGE HD
 http://217.107.192.37:9981/stream/channelid/646323521?ticket=D36E0AD09DC42A222977A45F808589227299CE5F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/56.png" tvg-id="adbc3a48d8838456b221db432285c054",Bridge TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/56.png" tvg-id="adbc3a48d8838456b221db432285c054",Bridge TV
 http://217.107.192.37:9981/stream/channelid/1211808941?ticket=78B64DF55073E5BE9088E00CE4FBCD356EF137FA&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/57.png" tvg-id="8d1369f6b03edaf86401bb426f633304",Dange TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/57.png" tvg-id="8d1369f6b03edaf86401bb426f633304",Dange TV
 http://217.107.192.37:9981/stream/channelid/1986597773?ticket=07A01630E8E41FE777518D806CD1C0BDB9FC76FB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/100.png" tvg-id="cb7adea4b960ffd492f85563d0890a31",Europa plus TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/100.png" tvg-id="cb7adea4b960ffd492f85563d0890a31",Europa plus TV
 http://217.107.192.37:9981/stream/channelid/618560203?ticket=664210D28736D97E642DE46E6F00FD5C8F46F8B3&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/124.png" tvg-id="53fe0cd1a64534d04bd5af57502dbeeb",Mezzo Live HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/124.png" tvg-id="53fe0cd1a64534d04bd5af57502dbeeb",Mezzo Live HD
 http://217.107.192.37:9981/stream/channelid/1359806035?ticket=D174B12D1A48275C5ED13B862BD9EBDFBB3E52B4&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="a677f3b0c87839a679184b0e8cb22330",MusicBox RU
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="a677f3b0c87839a679184b0e8cb22330",MusicBox RU
 http://217.107.192.37:9981/stream/channelid/821262246?ticket=66DE9A432F3AD8547A66DBB822D97EE3294618C0&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="cd6f123b27f8a7752d0d61a44f1f4b86",MusicBox TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="cd6f123b27f8a7752d0d61a44f1f4b86",MusicBox TV
 http://217.107.192.37:9981/stream/channelid/991064013?ticket=891AD16928386015D798DF0B09633B378B48C916&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/103.png" tvg-id="6bf6cde153c1ddb39645924c345786e8",RU.TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/103.png" tvg-id="6bf6cde153c1ddb39645924c345786e8",RU.TV
 http://217.107.192.37:9981/stream/channelid/1640887915?ticket=801DE6D2C802AD545CFA966F95F5CE59E5F354FF&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/98.png" tvg-id="7f7bbd63d0352ae9ec825cccfe92e2ed",RUSONG TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/98.png" tvg-id="7f7bbd63d0352ae9ec825cccfe92e2ed",RUSONG TV
 http://217.107.192.37:9981/stream/channelid/1673362303?ticket=F1EA810F25D0F7DDC050BBF15CBF96E8D1947D01&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="380fa9057f287497825d5eafefd1098a",Trace Urban HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="380fa9057f287497825d5eafefd1098a",Trace Urban HD
 http://217.107.192.37:9981/stream/channelid/94965560?ticket=F0DB552DD962F43A03A22593415E58896242BDA1&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/133.png" tvg-id="cb4bcf33cfaa8e908af3cf286aaf99dd",Киносерия
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/133.png" tvg-id="cb4bcf33cfaa8e908af3cf286aaf99dd",Киносерия
 http://217.107.192.37:9981/stream/channelid/869223371?ticket=C258919C7B6F23485393E9CB32B854C14CE9ACD3&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="93c03e6254a3c02f5b3085ab3707212a",Музыка Первого
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="93c03e6254a3c02f5b3085ab3707212a",Музыка Первого
 http://217.107.192.37:9981/stream/channelid/1648279699?ticket=76965BD34996F9CE0DA2A6B01E7AB46EE264CD4A&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/53.jpg" tvg-id="b3a30e38854dce9f4673bf2775cf29b2",ТНТ Music
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/53.jpg" tvg-id="b3a30e38854dce9f4673bf2775cf29b2",ТНТ Music
 http://217.107.192.37:9981/stream/channelid/940483507?ticket=B13695DFE289D79EA1758CC2A5F51BB19E8BDBF5&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/112.png" tvg-id="29e85407a3341df0704c6eda5bac3967",2х2
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/112.png" tvg-id="29e85407a3341df0704c6eda5bac3967",2х2
 http://217.107.192.37:9981/stream/channelid/123004969?ticket=DC4A86AF874F83255220FF6824920265596DC4D5&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/119.png" tvg-id="f704dcd03bcad7bf3c112aacdc1d7f0f",9 Волна
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/119.png" tvg-id="f704dcd03bcad7bf3c112aacdc1d7f0f",9 Волна
 http://217.107.192.37:9981/stream/channelid/1356596471?ticket=CFEF8026DCBE59ABF6772E79ECA747A772E8B29F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="601edcc11638a168a9e4092b2b0fb5ff",Gamanoid TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="601edcc11638a168a9e4092b2b0fb5ff",Gamanoid TV
 http://217.107.192.37:9981/stream/channelid/1104944736?ticket=9BE8D3FA3F2EB9915D129F557CF5D6E5806DED45&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="50cc2db320ddb4b4813af42cad08a6f6",HUMOR TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="50cc2db320ddb4b4813af42cad08a6f6",HUMOR TV
 http://217.107.192.37:9981/stream/channelid/858639440?ticket=2EADF65BFB672B71EC2A737B47C463415F47D809&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/107.png" tvg-id="cf516e0bc98a203ab0a9c497902c54e2",Paramount Comedy
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/107.png" tvg-id="cf516e0bc98a203ab0a9c497902c54e2",Paramount Comedy
 http://217.107.192.37:9981/stream/channelid/191779279?ticket=9E78936B344C5424718B67CCE2557BA8D3FE0290&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="d6dcee3dad35e44983fd997436276231",Poehali!
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="d6dcee3dad35e44983fd997436276231",Poehali!
 http://217.107.192.37:9981/stream/channelid/1039064278?ticket=A140747A2A4C7412700875305B2CCF118D0CBA6C&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="87b3d55db32544fc4c3d934161de662c",Rline.tv
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="87b3d55db32544fc4c3d934161de662c",Rline.tv
 http://217.107.192.37:9981/stream/channelid/1574286215?ticket=BD0C8804121C09479507307D09A438DB385B2203&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/99.png" tvg-id="d9e9c22b2ef78f29afa626e31925bf68",TLC HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/99.png" tvg-id="d9e9c22b2ef78f29afa626e31925bf68",TLC HD
 http://217.107.192.37:9981/stream/channelid/734194137?ticket=46FA3C0BFBA5380355552FAF9FE23DABF781B571&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="63e73332370566380377cad5ea28244b",Vremya
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="63e73332370566380377cad5ea28244b",Vremya
 http://217.107.192.37:9981/stream/channelid/842262371?ticket=9C1E114AFF87231E253B5F0192263541F2460BBF&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/130.png" tvg-id="068d31c9a0ba6004e93c7e8bce3a0e1f",World Fashion Channel
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/130.png" tvg-id="068d31c9a0ba6004e93c7e8bce3a0e1f",World Fashion Channel
 http://217.107.192.37:9981/stream/channelid/1227984134?ticket=1EB65DF274B1F78026E9910459DE5F24C12A0598&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="cfdcac6aee30ddf9e2f7462c5bda74aa",ZdorovoeTV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="cfdcac6aee30ddf9e2f7462c5bda74aa",ZdorovoeTV
 http://217.107.192.37:9981/stream/channelid/1789713615?ticket=9CCE60013E458CB983C704579BAC23DF0072EE30&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/139.png" tvg-id="4331f5b2ed97eec1a54a166efcbd787c",Живи ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/139.png" tvg-id="4331f5b2ed97eec1a54a166efcbd787c",Живи ТВ
 http://217.107.192.37:9981/stream/channelid/854929731?ticket=3ED481A9F21EC1278EA9D51D30E894B80CD46FB6&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="4214d1520ff7c02e9c17502c8289e7d4",КВН
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="4214d1520ff7c02e9c17502c8289e7d4",КВН
 http://217.107.192.37:9981/stream/channelid/1389433922?ticket=C0858D519A87E0280175B36AE9EFDF72F0964DE5&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="23baec4d4da4f35f09fe0831781f6159",Калейдоскоп ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="23baec4d4da4f35f09fe0831781f6159",Калейдоскоп ТВ
 http://217.107.192.37:9981/stream/channelid/1307359779?ticket=AE0BF5CED8D9FA416DAC8493261A5935053B34DC&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/66.png" tvg-id="5074447dd72330d7d81801f4253b0b96",НСТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/66.png" tvg-id="5074447dd72330d7d81801f4253b0b96",НСТВ
 http://217.107.192.37:9981/stream/channelid/2101638224?ticket=DD820AAC03326753DECAF2DCB15309085423CE42&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/140.png" tvg-id="ecc0d4664cbf979a83bd57dccc02a325",СТС Love
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/140.png" tvg-id="ecc0d4664cbf979a83bd57dccc02a325",СТС Love
 http://217.107.192.37:9981/stream/channelid/1725219052?ticket=7A05DBB589BE8FE560B7009A475BB6FB229B1126&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/44.png" tvg-id="3d06b700506302ea070d27f85142bf47",Сарафан ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/44.png" tvg-id="3d06b700506302ea070d27f85142bf47",Сарафан ТВ
 http://217.107.192.37:9981/stream/channelid/11994685?ticket=DDDA672F723A7DAD28D4318A0ADDAC14B151CBBE&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/132.jpg" tvg-id="105afd321378665126e11a68ff38406e",ТНТ4
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/132.jpg" tvg-id="105afd321378665126e11a68ff38406e",ТНТ4
 http://217.107.192.37:9981/stream/channelid/855464464?ticket=6C61D438D10408C3369B6DEA6325644CCA8934D6&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="7255648b3a1d9d1e64039307e754ff26",Твой Дом
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="7255648b3a1d9d1e64039307e754ff26",Твой Дом
 http://217.107.192.37:9981/stream/channelid/191124850?ticket=D96A198F74AFDAE0A2C00CBB8F4D67DF24F08321&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/21.jpg" tvg-id="68f4f47bfc8f7f74dc58677beb222992",Че
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/21.jpg" tvg-id="68f4f47bfc8f7f74dc58677beb222992",Че
 http://217.107.192.37:9981/stream/channelid/2079650920?ticket=10137811BC44B1D14E66B71731F0B007EBE00523&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/117.png" tvg-id="41c83eae0e20d6c9124d3f4927df8549",Ю ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/117.png" tvg-id="41c83eae0e20d6c9124d3f4927df8549",Ю ТВ
 http://217.107.192.37:9981/stream/channelid/775866433?ticket=FE6552AB2CF5B9163AA5C87077CB0A4BACEE5066&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/87.png" tvg-id="0be034231c6d9af1387df2037cff08bc",8 Канал
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/87.png" tvg-id="0be034231c6d9af1387df2037cff08bc",8 Канал
 http://217.107.192.37:9981/stream/channelid/590667787?ticket=F66CA68A27377BC65B0068EEA7AA9CCA73573042&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="f166bfd041e971057507c85b2c781c20",Armenia TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="f166bfd041e971057507c85b2c781c20",Armenia TV
 http://217.107.192.37:9981/stream/channelid/1354721009?ticket=8C8269628D75D55FBA67FCEEF2FB7E45157F0D02&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="27f2236efb107556b8bbb97cdbc539a0",Armenia TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="27f2236efb107556b8bbb97cdbc539a0",Armenia TV
 http://217.107.192.37:9981/stream/channelid/1847849511?ticket=0C3ADA2CE8108551A1D2A9E12720C189CA00062D&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/118.png" tvg-id="327b0fb924d7e0f4e590b64f0c761d8b",DWTV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/118.png" tvg-id="327b0fb924d7e0f4e590b64f0c761d8b",DWTV
 http://217.107.192.37:9981/stream/channelid/957315890?ticket=2F29A499E30D0D5477959FF4253349044EEC0D05&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/114.png" tvg-id="d7778c7b087227a880c9974a39ec1fc4",France 24
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/114.png" tvg-id="d7778c7b087227a880c9974a39ec1fc4",France 24
 http://217.107.192.37:9981/stream/channelid/2072803287?ticket=C6D1EAA1007B4DEC6F95DF7BF83E71E12FB70B87&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/127.png" tvg-id="ac9513312b86caf88e5e797485cd8919",Life News
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/127.png" tvg-id="ac9513312b86caf88e5e797485cd8919",Life News
 http://217.107.192.37:9981/stream/channelid/823367084?ticket=3D7263A21EFF7F5AF0D2F84C97AFA6DD4B46DA0A&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/110.png" tvg-id="f6bf5dbb47618ca8f1793ffb0ac186ec",Life News HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/110.png" tvg-id="f6bf5dbb47618ca8f1793ffb0ac186ec",Life News HD
 http://217.107.192.37:9981/stream/channelid/995999734?ticket=C5955A65322A26FA2BE16F976F22FC78EB92517C&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="eb1f3e0a474d55d2b9eecab3eab5120d",RT
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="eb1f3e0a474d55d2b9eecab3eab5120d",RT
 http://217.107.192.37:9981/stream/channelid/171843563?ticket=5BEFDBFBCCB41B68F59377AED836FE5DD4D8645C&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/106.png" tvg-id="0646902a48f41892c69286ba0a0246a8",RT HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/106.png" tvg-id="0646902a48f41892c69286ba0a0246a8",RT HD
 http://217.107.192.37:9981/stream/channelid/714098182?ticket=50D77D7816A7B32E72C26FFB546295F1D6170A9C&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/104.png" tvg-id="ffba7578517728e463159d38aa22fccc",RTД HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/104.png" tvg-id="ffba7578517728e463159d38aa22fccc",RTД HD
 http://217.107.192.37:9981/stream/channelid/2020981503?ticket=DA5D5EBE3C2F91B2D6FC26E5F6CCA62C9FE31409&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/126.png" tvg-id="9a2cbdb36cbd19ec8ebb6961218c19db",TV Sale
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/126.png" tvg-id="9a2cbdb36cbd19ec8ebb6961218c19db",TV Sale
 http://217.107.192.37:9981/stream/channelid/868035738?ticket=5AACAF48E4A5ADEAA4CBA78F3CABA575C9C2D54F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/92.png" tvg-id="3c1cbe292d5ad3e1580792b73b53c970",Беларусь 24
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/92.png" tvg-id="3c1cbe292d5ad3e1580792b73b53c970",Беларусь 24
 http://217.107.192.37:9981/stream/channelid/700324924?ticket=CCA2CDFE4736A0AFA4EF7085111C8884C089D3DB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="1b9767fbfc6633b949d226a85e9c4730",Дождь
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="1b9767fbfc6633b949d226a85e9c4730",Дождь
 http://217.107.192.37:9981/stream/channelid/2070386459?ticket=206DD2B813ACFF2A6C97875DCB3E2474A532C2AA&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/134.png" tvg-id="d0c2250418f15310b90fed0f4e2171fd",Загородный
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/134.png" tvg-id="d0c2250418f15310b90fed0f4e2171fd",Загородный
 http://217.107.192.37:9981/stream/channelid/69583568?ticket=5C530EE45065F348B2FC0FE235185E028AC0E1EC&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/111.png" tvg-id="1bf91bea55b042ecdd55778c97dff77c",Мир 24
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/111.png" tvg-id="1bf91bea55b042ecdd55778c97dff77c",Мир 24
 http://217.107.192.37:9981/stream/channelid/1780218139?ticket=33B0439CC2121BC3A2493702AC8E86F53A0CCCE1&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/22.png" tvg-id="8e0363ec12909e08cab220681ef016b8",Первый канал HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/22.png" tvg-id="8e0363ec12909e08cab220681ef016b8",Первый канал HD
 http://217.107.192.37:9981/stream/channelid/1818428302?ticket=7443C544C652EBD4583A868A68CDDCCEE5070771&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/102.png" tvg-id="b3473a6d164d5e351f9f1bdd0360847e",Первый образовательный
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/102.png" tvg-id="b3473a6d164d5e351f9f1bdd0360847e",Первый образовательный
 http://217.107.192.37:9981/stream/channelid/1832535987?ticket=280345991060EA67ABE21209EC0848471B0A3414&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/51.png" tvg-id="248db30a3932ee2051606075d9448dc6",РБК
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/51.png" tvg-id="248db30a3932ee2051606075d9448dc6",РБК
 http://217.107.192.37:9981/stream/channelid/179539236?ticket=EDE517F13A077A192555D94140E212812FD8AD43&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/24.png" tvg-id="d3faba8f1b1bafe60bd79c250cd1e6af",Россия HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/24.png" tvg-id="d3faba8f1b1bafe60bd79c250cd1e6af",Россия HD
 http://217.107.192.37:9981/stream/channelid/263912147?ticket=2D065D495347427676D1558117FBE06A0FF23938&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/128.png" tvg-id="4796901003720562ce7068edc9e13299",Союз
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/128.png" tvg-id="4796901003720562ce7068edc9e13299",Союз
 http://217.107.192.37:9981/stream/channelid/277911111?ticket=728B4306DB4F32D3C824932C8D6CB0BE3BD37EEB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/131.png" tvg-id="441b2962f620c0ede9294668f06b5465",Cartoon Network / TCM
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/131.png" tvg-id="441b2962f620c0ede9294668f06b5465",Cartoon Network / TCM
 http://217.107.192.37:9981/stream/channelid/1646861124?ticket=D0553BC7580937E8B2072A91704F51B7856A777D&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="7c55a30bda3569c55fc55d67f958fcfa",Detsky Mir
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="7c55a30bda3569c55fc55d67f958fcfa",Detsky Mir
 http://217.107.192.37:9981/stream/channelid/195253628?ticket=BECD743C1128720E2DF518C6A8551939E084D745&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/63.png" tvg-id="17c9824b2a3d707527d8d1a91ccb6f6c",Disney Channel
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/63.png" tvg-id="17c9824b2a3d707527d8d1a91ccb6f6c",Disney Channel
 http://217.107.192.37:9981/stream/channelid/1266862359?ticket=772FE384094C7F7D69293729D34839F6E7BBEB51&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="515317f983aba915e95c048d1080f5f3",Gulli
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="515317f983aba915e95c048d1080f5f3",Gulli
 http://217.107.192.37:9981/stream/channelid/2031571793?ticket=BC4FB9A341CC9E4EC3ABC6A2A4AEE445AEAD76FC&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="bd85ae7340400fd1768e405e2d4b514d",Nick Jr
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="bd85ae7340400fd1768e405e2d4b514d",Nick Jr
 http://217.107.192.37:9981/stream/channelid/1940817341?ticket=BE8EB4144BBDAA9245659294EB5ED377E658D708&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/115.png" tvg-id="e32e2132c8a3c4d39e0a69daec2886d0",Nickelodeon
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/115.png" tvg-id="e32e2132c8a3c4d39e0a69daec2886d0",Nickelodeon
 http://217.107.192.37:9981/stream/channelid/841035491?ticket=B08414277EFEF9B0F17BA9AFBDC9B1BC560CCC80&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="5e805d515ee71120c99a374d8284bea0",TiJi
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="5e805d515ee71120c99a374d8284bea0",TiJi
 http://217.107.192.37:9981/stream/channelid/1365082206?ticket=D36A287B30AFB2EBDA68D41B1D16D746CFFB922F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="248480679d73708a53294e7f7006e3f5",В гостях у сказки
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="248480679d73708a53294e7f7006e3f5",В гостях у сказки
 http://217.107.192.37:9981/stream/channelid/1736475684?ticket=61ADC3A86F6F6C751CF16D534FAD3EBCADBBABE2&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/135.png" tvg-id="922ad067acee50b6c5389cb39c3740dc",Детский
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/135.png" tvg-id="922ad067acee50b6c5389cb39c3740dc",Детский
 http://217.107.192.37:9981/stream/channelid/1741695634?ticket=8446435549DD610F3FDCF501359485BF33DC83A6&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="0132126fdecae331477c1b73d1dda507",Малыш
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="0132126fdecae331477c1b73d1dda507",Малыш
 http://217.107.192.37:9981/stream/channelid/1863463425?ticket=106BEBA5D02C0F2F7E73CF26AEA89F261B3CE221&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/120.png" tvg-id="f515616233bdb554586c5566efea6937",Мама
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/120.png" tvg-id="f515616233bdb554586c5566efea6937",Мама
 http://217.107.192.37:9981/stream/channelid/1650529781?ticket=6C97114AE2750E1AAB2BDEF8ECEB1DCDE83F5CF8&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/74.png" tvg-id="545570f30b91e06895167d136fb95ca4",Мульт
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/74.png" tvg-id="545570f30b91e06895167d136fb95ca4",Мульт
 http://217.107.192.37:9981/stream/channelid/1936741716?ticket=7645430F3F3DCEC748E08F3B152300AB98287FD8&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/138.png" tvg-id="18beaa269b6a9ce7db1c72dfe6b21d2a",Мультимания
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/138.png" tvg-id="18beaa269b6a9ce7db1c72dfe6b21d2a",Мультимания
 http://217.107.192.37:9981/stream/channelid/648723992?ticket=2D3C6ECBDC8314246CF3D474CD624E560F67F1A9&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="d333dbbb6348c675b556728d6f8d1471",Hustler HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="d333dbbb6348c675b556728d6f8d1471",Hustler HD
 http://217.107.192.37:9981/stream/channelid/1004221395?ticket=79169571189F7EDA41D59B4FF5F52163E4B01E0F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="e0b37f93d589a9a29ddb83803a9c38ec",O-la-la
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="e0b37f93d589a9a29ddb83803a9c38ec",O-la-la
 http://217.107.192.37:9981/stream/channelid/327136224?ticket=ED9DCE9BDB0259D970BDB8DF09088E2658080265&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="d8794a1ef6682ef7d44b6d97550141d9",Pink O TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="d8794a1ef6682ef7d44b6d97550141d9",Pink O TV
 http://217.107.192.37:9981/stream/channelid/508197336?ticket=73FB7EE0EB4E8FC95F77AF2DBCDF8EE71705BA18&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/141.png" tvg-id="75e2a71e44d3d5d64c8c9956badab3a5",Playboy TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/141.png" tvg-id="75e2a71e44d3d5d64c8c9956badab3a5",Playboy TV
 http://217.107.192.37:9981/stream/channelid/514318965?ticket=0D04DF39B64014269F5F40F8AEB8AADD79913DD7&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/357.png" tvg-id="1ce54928041c22adb82cb2535651d693",Brazzers TV Europe
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/357.png" tvg-id="1ce54928041c22adb82cb2535651d693",Brazzers TV Europe
 http://217.107.192.37:9981/stream/channelid/675931420?ticket=2F5698CBC42105181E40F656B1901B39A6FAAA8E&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/48.png" tvg-id="8bdf4caa50345a7d4829c7e098d79964",Русская ночь
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/48.png" tvg-id="8bdf4caa50345a7d4829c7e098d79964",Русская ночь
 http://217.107.192.37:9981/stream/channelid/709681035?ticket=1CD25998ACEBD42243C703DC73F44776EDA2F259&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="97568dc7a48309e0b7f38e4b4bfb2a6a",Redlight HD
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="97568dc7a48309e0b7f38e4b4bfb2a6a",Redlight HD
 http://217.107.192.37:9981/stream/channelid/1200445079?ticket=CF3BEED40627F23EC5DD0E19E92346615ADBBAB5&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="9b85324b833cc5b8a7cf11776b6fbc9d",Candyman TV
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="9b85324b833cc5b8a7cf11776b6fbc9d",Candyman TV
 http://217.107.192.37:9981/stream/channelid/1261602203?ticket=9733D6A2FF17933AC0AA350648C9F87F92E837D5&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="eb265f71b277de177252a0c6bf06ddb2",Private
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="eb265f71b277de177252a0c6bf06ddb2",Private
 http://217.107.192.37:9981/stream/channelid/1902061291?ticket=36A32107152F15C581B05243AF875066E0B35288&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="" tvg-id="d05775fc248cc3779d9e6d2a3100b1bd",Ночной клуб
+#EXTINF:-1 group-title="Russiatv"tvg-logo="" tvg-id="d05775fc248cc3779d9e6d2a3100b1bd",Ночной клуб
 http://217.107.192.37:9981/stream/channelid/2088064976?ticket=FE7EEA3225E86CAE4142E11D481FC486850A35E5&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/1.png" tvg-id="caaae941a4e7bcf4b6c8968d89a73f01",Первый канал
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/1.png" tvg-id="caaae941a4e7bcf4b6c8968d89a73f01",Первый канал
 http://217.107.192.37:9981/stream/channelid/1105832650?ticket=D6AEF12050E820BB130ACB56373566E7548A8574&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/2.png" tvg-id="be70459e448cb127c12748c3a59ad2e5",Россия 1
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/2.png" tvg-id="be70459e448cb127c12748c3a59ad2e5",Россия 1
 http://217.107.192.37:9981/stream/channelid/507867326?ticket=11132D19A844E37F1BA13B14B22E4CC64E0661D9&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/3.png" tvg-id="3f997304b90a0bb641253f26bd2a5985",МАТЧ!
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/3.png" tvg-id="3f997304b90a0bb641253f26bd2a5985",МАТЧ!
 http://217.107.192.37:9981/stream/channelid/74684735?ticket=A50D0B1608CC1587CED9E1E2EE17A211407F025B&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/4.png" tvg-id="e57c31fe0a53bb796cf2cbd30796f3ab",НТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/4.png" tvg-id="e57c31fe0a53bb796cf2cbd30796f3ab",НТВ
 http://217.107.192.37:9981/stream/channelid/2117172453?ticket=A052A20B20FF9A7D41BDB0D7B81CAE29C4281701&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/81.png" tvg-id="8820f95b5bdc30085bcb16870b73fd00",5 канал
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/81.png" tvg-id="8820f95b5bdc30085bcb16870b73fd00",5 канал
 http://217.107.192.37:9981/stream/channelid/1543053448?ticket=8FDD8430AB4447172E244BEE2C6FB190AA75100F&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/5.png" tvg-id="ca45c81f20ac3e53d8b33ca7abd45078",Россия К
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/5.png" tvg-id="ca45c81f20ac3e53d8b33ca7abd45078",Россия К
 http://217.107.192.37:9981/stream/channelid/533218762?ticket=F043ED3E8DEEE29658AFA3CE87C849AFA641AB37&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/7.png" tvg-id="945a56901584ec181592cf1a7ddc310d",Россия 24
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/7.png" tvg-id="945a56901584ec181592cf1a7ddc310d",Россия 24
 http://217.107.192.37:9981/stream/channelid/274094740?ticket=7871E702B4878D55AE37F5B9B2E59D6C668E81AC&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/8.png" tvg-id="d79e2a7a7f3122cecfa8fb482a865f88",Карусель
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/8.png" tvg-id="d79e2a7a7f3122cecfa8fb482a865f88",Карусель
 http://217.107.192.37:9981/stream/channelid/2049613527?ticket=B61E06D0555614B66D89040D47CCF20AE9D718CB&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/9.png" tvg-id="5f1754f6e54c8539c76946ce530c243c",ОТР
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/9.png" tvg-id="5f1754f6e54c8539c76946ce530c243c",ОТР
 http://217.107.192.37:9981/stream/channelid/1985222495?ticket=D92C9F2609EA5C392F1E1EA11E2A6C6D142D7B94&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/10.png" tvg-id="c0de69b4babcf3988f31514f40bd2f5b",ТВ Центр
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/10.png" tvg-id="c0de69b4babcf3988f31514f40bd2f5b",ТВ Центр
 http://217.107.192.37:9981/stream/channelid/879353536?ticket=47EA3AD2EB332F52FA13818805054FEC43BDE251&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/11.png" tvg-id="46cb602b826c02bc0ae32850fcd18fab",РЕН ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/11.png" tvg-id="46cb602b826c02bc0ae32850fcd18fab",РЕН ТВ
 http://217.107.192.37:9981/stream/channelid/727763782?ticket=4A700810F754D6D2CFD42A0583C1CB6432A48A3B&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/351.png" tvg-id="375d875ed4637b0c696e8467991e8ffe",СПАС
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/351.png" tvg-id="375d875ed4637b0c696e8467991e8ffe",СПАС
 http://217.107.192.37:9981/stream/channelid/1585929527?ticket=BA816966C282278CF6F78A2160A8AE0239D6D0D1&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/13.png" tvg-id="88063749b883a2d3bdadd4f1d8d03453",СТС
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/13.png" tvg-id="88063749b883a2d3bdadd4f1d8d03453",СТС
 http://217.107.192.37:9981/stream/channelid/1228342920?ticket=5DA0C2444421CC22D5E7E395B24916FFD8676C93&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/14.png" tvg-id="2f5631e1603a3e3d91a3ca36f96e201b",Домашний
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/14.png" tvg-id="2f5631e1603a3e3d91a3ca36f96e201b",Домашний
 http://217.107.192.37:9981/stream/channelid/1630623279?ticket=61D66F32E0D5AB60F0D173EF98F78BC9C15C9C0E&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/15.png" tvg-id="a57b017d984c475557eac563e13421de",ТВ3
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/15.png" tvg-id="a57b017d984c475557eac563e13421de",ТВ3
 http://217.107.192.37:9981/stream/channelid/2097249189?ticket=615C90E822496DD479DE4BA348D83ECC6DDF4497&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/52.png" tvg-id="1ee2aaefd9c09ad79c407130c73a20f6",Пятница
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/52.png" tvg-id="1ee2aaefd9c09ad79c407130c73a20f6",Пятница
 http://217.107.192.37:9981/stream/channelid/1873469982?ticket=E07DAB80D842DCE5F445EA86286AE6842550DA89&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/17.png" tvg-id="c0ca0b8333df20e7e5eaa4fd05cdc1eb",Звезда
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/17.png" tvg-id="c0ca0b8333df20e7e5eaa4fd05cdc1eb",Звезда
 http://217.107.192.37:9981/stream/channelid/51104448?ticket=30AB88007E58A2957AEADD49C0BD1A6A7B88FCC4&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/18.png" tvg-id="2f42f3710dedc3c088f08f3c9449a70a",Мир
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/18.png" tvg-id="2f42f3710dedc3c088f08f3c9449a70a",Мир
 http://217.107.192.37:9981/stream/channelid/1911767599?ticket=227A1B02765F0374C89BB3BADEDAE0B2610EDA31&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/19.png" tvg-id="6ba6f3966728e9fa2203ec6deef33a7e",ТНТ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/19.png" tvg-id="6ba6f3966728e9fa2203ec6deef33a7e",ТНТ
 http://217.107.192.37:9981/stream/channelid/385066603?ticket=BFBDCC08E99A74A9F6B607E51F9B7F75F6367194&profile=pass
-#EXTINF:-1 group-title="Russiatv"  tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/108.png" tvg-id="c78692bba2daf167bf2279db054b3f3a",МУЗ ТВ
+#EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/108.png" tvg-id="c78692bba2daf167bf2279db054b3f3a",МУЗ ТВ
 http://217.107.192.37:9981/stream/channelid/999458503?ticket=A63926609E8BCCA92B7FB5E579E67CB855D1C2BA&profile=passa
 
 #EXTINF:-1 group-title="Russiatv",Life 78 (Full HD 1080p)
@@ -2603,7 +2603,7 @@ http://144.217.76.52:8080/LDC/mpegts
 
 #EXTINF:-1 group-title="NhacTH" tvg-logo="https://i.imgur.com/qiDlmkG.jpg",Paris By Night 124 - Anh Cho Em Mùa Xuân HD
 http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN124.mkv
-#EXTINF:-1 group-title="NhacTH" tvg-logo="http://xbmc.itvplus.net/LOGO/THUYNGA/tn123.jpg",Paris by Night 123  Ảo ảnh HD 2017 (bản full)
+#EXTINF:-1 group-title="NhacTH" tvg-logo="http://xbmc.itvplus.net/LOGO/THUYNGA/tn123.jpg",Paris by Night 123Ảo ảnh HD 2017 (bản full)
 http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv
 #EXTINF:-1 group-title="NhacTH" tvg-logo="http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/TN100_-_Paris_By_Night_100_lage.jpg", Số 100-P1
 https://lh3.googleusercontent.com/q_R3qeo-Hr9fE7VIaVR7qh-WM-LFR5VmXBPITLI2CFjT9kl0p4aUQTp5LOVpDAPSA1U=m18
@@ -2648,11 +2648,11 @@ http://www.mediafire.com/download/3vaq73mkigl32dz/A80_1080p.mkv
 http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Thoi.Doi.2014.720p/chunklist_w2087283826.m3u8?worldtokenstarttime=1458509527&worldtokenendtime=1458594127&worldtokenhash=ZP4mTWLXopTjfmN1wfEXJl7Bc0VeawdzOgRVgb0FQ9s%3D
 #EXTINF:-1 group-title="NhacTH",Dem Tam Su 
 http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Dem.Tam.Su.2014.720p/chunklist_w1013551372.m3u8?worldtokenstarttime=1458509670&worldtokenendtime=1458594270&worldtokenhash=A-Gd0vwZ-g7DizaKnV0NphXZiXHk0M_1wAEclcRdl9w%3D
-#EXTINF:-1 group-title="NhacTH",Tinh Ca Que Huong  
+#EXTINF:-1 group-title="NhacTH",Tinh Ca Que Huong
 http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.73.Mua.He.Ruc.Ro.2013.720p/Tinh.Ca.Que.Huong.2013.720p/chunklist_w1665577196.m3u8?worldtokenstarttime=1458512755&worldtokenendtime=1458597355&worldtokenhash=9lF_Rq0L0NmWbwve_oHohrxVQurVxds7Q6lc_O38e0E%3D
-#EXTINF:-1 group-title="NhacTH",Thuy da di roi - Dan Nguyen  
+#EXTINF:-1 group-title="NhacTH",Thuy da di roi - Dan Nguyen
 http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.72.Dong.Nhac.Y.Van.2013.720p/Thuy.Da.Di.Roi.720p/index.m3u8?worldtokenstarttime=1458512891&worldtokenendtime=1458597491&worldtokenhash=_im-4735DcDNJshDbRN7LBWIWFUaYkb2x94ajkr7aUo=
-#EXTINF:-1 group-title="NhacTH",Tinh tham duyen Que  
+#EXTINF:-1 group-title="NhacTH",Tinh tham duyen Que
 http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Tinh.Tham.Duyen.Que.2014.720p/index.m3u8?worldtokenstarttime=1458513090&worldtokenendtime=1458597690&worldtokenhash=lqUqY2M4lhpGdawd5AAlb5iajaQq1zBH1_bCljhtLE8=
 #EXTINF:-1 group-title="NhacTH",Tan Co - Chieu Thuong Do Thi 
 http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.68.Sai.Gon.Ky.Niem.2011.720p/Tan.Co_Chieu.Thuong.Do.Thi.720p/chunklist_w1817326047.m3u8?worldtokenstarttime=1458512616&worldtokenendtime=1458597216&worldtokenhash=BZoSpNxQRsgRlmChmJnuo9_u_1EdePqGqBfepmuYEls%3D
@@ -2685,7 +2685,7 @@ http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.H
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/alvotriplo-dub-720p.mp4
 #EXTINF:-1 group-title="Phim Le",ALVO TRIPLO - DUB - SD (2018)
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/alvotriplo-dub-480p.mp4
-#EXTINF:-1 group-title="Phim Le",A Forma da �gua
+#EXTINF:-1 group-title="Phim Le",A Forma da gua
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FORMADAAGUALEG-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",American Satan
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-BAIXO.mp4
@@ -2699,11 +2699,11 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHDUB-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHLEG-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Eu Tonya
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Espi�o por Acaso
+#EXTINF:-1 group-title="Phim Le",Espio por Acaso
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Extraordin�rio
+#EXTINF:-1 group-title="Phim Le",Extraordinrio
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Extraordin�rio
+#EXTINF:-1 group-title="Phim Le",Extraordinrio
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
 #EXTINF:-1 group-title="Phim Le",Fullmetal Alchemist - DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALDUB-BAIXO.mp4
@@ -2711,7 +2711,7 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALDUB-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Gosto Se Discute
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Hacker � Todo Crime Tem Um In�cio
+#EXTINF:-1 group-title="Phim Le",Hacker Todo Crime Tem Um Incio
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HACKERDUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Jogos Mortais 8 - LEG
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-BAIXO.mp4
@@ -2721,7 +2721,7 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JIGSAW2017DUB-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Looking Glass
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Loucuras em Fam�lia
+#EXTINF:-1 group-title="Phim Le",Loucuras em Famlia
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Mudo - DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-BAIXO.mp4
@@ -2729,19 +2729,19 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-BAIXO.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTELEG-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Me Chame pelo Seu Nome
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MECHAMEPELOSEUNOMEDUB-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",O Destino de uma Na��o
+#EXTINF:-1 group-title="Phim Le",O Destino de uma Nao
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
 #EXTINF:-1 group-title="Phim Le",O PARADOXO CLOVERFIELD - DUB - HD - 2018
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",O Rei do Show
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",ONDE EST� SEGUNDA? - DUB - HD (2018)
+#EXTINF:-1 group-title="Phim Le",ONDE EST SEGUNDA? - DUB - HD (2018)
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/segundafeira-dub-720p.mp4
 #EXTINF:-1 group-title="Phim Le",Pai em Dose Dupla 2
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Pequena Grande Vida
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PEQUENAGRANDEVIDA2018LEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",PICA-PAU � O FILME - DUB
+#EXTINF:-1 group-title="Phim Le",PICA-PAUO FILME - DUB
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",SCOOBY-DOO & BATMAN: OS BRAVOS E DESTEMIDOS - DUB - HD (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4?STANIPTV
@@ -2759,9 +2759,9 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-BAIXO.mp4?
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",Ver�nica - LEG (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018LEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Viva � A Vida � uma Festa
+#EXTINF:-1 group-title="Phim Le",VivaA Vidauma Festa
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO20177LEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",Viva � A Vida � uma Festa
+#EXTINF:-1 group-title="Phim Le",VivaA Vidauma Festa
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO2017DUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",VOLDEMORT: ORIGINS OF THE HEIR - LEG - HD (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4?STANIPTV
@@ -2815,7 +2815,7 @@ http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/bladerunner-dub-720p.mp4?STANIP
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTDUB-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",BRIGHT - LEG - SD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTLEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",BUNYAN E BABE � OS AMIGOS DA FLORESTA - DUB - HD (2017)
+#EXTINF:-1 group-title="Phim Le",BUNYAN E BABEOS AMIGOS DA FLORESTA - DUB - HD (2017)
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/bunyanbabe-leg-720p.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",CA�ADA BRUTAL - DUB - HD (2017)
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/cacadabrutal-dub-720p.mp4?STANIPTV
@@ -2937,11 +2937,11 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OKJA2017DUB-BAIXO.mp4?STANI
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OKJA2017LEG-BAIXO.mp4
 #EXTINF:-1 group-title="Phim Le",OS PAR�AS - HDTS - 2017
 https://ia601506.us.archive.org/4/items/osparcas-TS/osparcas-TS.MP4?STANIPTV
-#EXTINF:-1 group-title="Phim Le",PICA-PAU � O FILME - DUB - HD (2017)
+#EXTINF:-1 group-title="Phim Le",PICA-PAUO FILME - DUB - HD (2017)
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/picapau-dub-720p.mp4
-#EXTINF:-1 group-title="Phim Le",POK�MON � O FILME: EU ESCOLHO VOC�! - LEG - HD
+#EXTINF:-1 group-title="Phim Le",POK�MONO FILME: EU ESCOLHO VOC�! - LEG - HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POLEMONKIMETALEG-BAIXO.mp4?STANIPTV
-#EXTINF:-1 group-title="Phim Le",POL�CIA FEDERAL: A LEI � PARA TODOS - DUB - HD
+#EXTINF:-1 group-title="Phim Le",POL�CIA FEDERAL: A LEIPARA TODOS - DUB - HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POFE20117-BAIXO.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",POWER RANGERS - DUB - SD (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POWER2017DUB2-BAIXO.mp4?STANIPTV
@@ -2949,9 +2949,9 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POWER2017DUB2-BAIXO.mp4?STA
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-BAIXO.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",POWER RANGERS - LEG - HD (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-BAIXO.mp4
-#EXTINF:-1 group-title="Phim Le",PIRATAS DO CARIBE � A VINGAN�A DE SALAZAR - DUB - SD
+#EXTINF:-1 group-title="Phim Le",PIRATAS DO CARIBEA VINGAN�A DE SALAZAR - DUB - SD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4?STANIPTV
-#EXTINF:-1 group-title="Phim Le",PIRATAS DO CARIBE � A VINGAN�A DE SALAZAR - LEG - SD
+#EXTINF:-1 group-title="Phim Le",PIRATAS DO CARIBEA VINGAN�A DE SALAZAR - LEG - SD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5LEG-BAIXO.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",PLANETA DOS MACACOS: A GUERRA - DUB - HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PDMAG-BAIXO.mp4?STANIPTV
@@ -2959,9 +2959,9 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PDMAG-BAIXO.mp4?STANIPTV
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PLANETADOSMACACOS-BAIXO.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",QUATRO VIDAS DE UM CACHORRO - DUB
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
-#EXTINF:-1 group-title="Phim Le",REI ARTHUR � A LENDA DA ESPADA - DUB - SD
+#EXTINF:-1 group-title="Phim Le",REI ARTHURA LENDA DA ESPADA - DUB - SD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ARTHUR2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:-1 group-title="Phim Le",REI ARTHUR � A LENDA DA ESPADA - LEG - SD
+#EXTINF:-1 group-title="Phim Le",REI ARTHURA LENDA DA ESPADA - LEG - SD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ARTHUR2017LEG-BAIXO.mp4?STANIPTV
 #EXTINF:-1 group-title="Phim Le",Resident Evil Vendetta - DUB - HD
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/EVILDUB2017-BAIXO.mp4
