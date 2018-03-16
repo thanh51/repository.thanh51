@@ -226,8 +226,6 @@ http://127.0.0.1:6878/ace/getstream?id=764d37b4b2b2393cddb505a281559e60ba2ffbc9
 http://127.0.0.1:6689/stream?cid=3568
 #EXTINF:-1 tvg-id="940" tvg-logo="http://1ttv.org/uploads/DDjh1dM2D09Wcl3L6YmEd1si3P17n0.png" group-title="Noxbit",Матч! Арена
 http://127.0.0.1:6689/stream?cid=3652
-#EXTINF:-1 tvg-id="1354" tvg-logo="http://1ttv.org/uploads/urIB7TbFWo36EmXW9eG3w4qre7MdX9.png" group-title="Noxbit",Матч! Игра HD
-http://127.0.0.1:6689/stream?cid=3572
 #EXTINF:-1 tvg-id="100052" tvg-logo="http://1ttv.org/uploads/l0x8GopxrHL6jLiDGVHi8tIEc7RBt2.png" group-title="Noxbit",Матч! Наш Спорт
 http://127.0.0.1:6689/stream?cid=3669
 #EXTINF:-1 tvg-id="1018" tvg-logo="http://1ttv.org/uploads/mWQ92sSmszzmjme9GTueLPCxagJGtl.png" group-title="Noxbit",Матч! Планета
@@ -985,21 +983,21 @@ udp://@225.1.2.227:30120
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv1
-#EXTINF:-1 tvg-id="VTV2"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2 HD
+#EXTINF:-1 tvg-id="VTV2" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv2
-#EXTINF:-1 tvg-id="VTV3 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3 HD
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv3
-#EXTINF:-1 tvg-id="VTV4"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4 HD
+#EXTINF:-1 tvg-id="VTV4" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv4
-#EXTINF:-1 tvg-id="VTV5"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5 HD
+#EXTINF:-1 tvg-id="VTV5" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv5
-#EXTINF:-1 tvg-id="VTV6 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv6
-#EXTINF:-1 tvg-id="VTV7 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7 HD
+#EXTINF:-1 tvg-id="VTV7 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv7
-#EXTINF:-1 tvg-id="VTV8 HD"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8 HD
+#EXTINF:-1 tvg-id="VTV8 HD" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv8
-#EXTINF:-1 tvg-id="VTV9"group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
+#EXTINF:-1 tvg-id="VTV9" group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=vtv9
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_145673317781.jpg",ANTV
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?lol=antv
@@ -1247,7 +1245,8 @@ http://vnlivetv.tk/ducnt/v8hd
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD s2
 http://vnlivetv.tk/ducnt/v9hd
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN s1
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN s1
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN s2
 http://avg05.mobion.vn/live/t/LQAPGywOrxbQcz6CCrWB8g/s/0y7qcamlqa/e/1514895942779/origin64_9000/71/45036332/live/vnewsthttxvn.m3u8
@@ -1401,7 +1400,8 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065 
 
-
+#EXTINF:-1 group-title="USA",ADULT SWIM
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="USA",360 North
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
