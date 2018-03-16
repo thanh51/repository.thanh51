@@ -1213,22 +1213,40 @@ http://xemtivi24.000webhostapp.com/iptv-mytvnet.php?id=cartoonnetwork
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
 
 
-#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s1
 http://avg05.mobion.vn/live/t/1i_mRxI1492wSuU8C13JQw/s/8qpkkyf9wu/e/1514896025547/origin64_9000/71/45034366/live/vtv1hd.m3u8
-#EXTINF:-1 tvg-id="VTV3 HD" tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VTV4" tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s2
+http://vnlivetv.tk/ducnt/v1hd
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s3
+http://118.107.68.10:1935/live/_definst_//VTV1_H_5374560ab1atyu33dfee617ce3516ca502d/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD
+http://vnlivetv.tk/ducnt/v2hd
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+http://vnlivetv.tk/ducnt/v3hd
+#EXTINF:-1 tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
+#EXTINF:-1 tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD s2
+http://vnlivetv.tk/ducnt/v4hd
+#EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
+#EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD s2
+http://vnlivetv.tk/ducnt/v5hd
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD s2
+http://vnlivetv.tk/ducnt/v6hd
+#EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV8 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
+#EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD s2
+http://vnlivetv.tk/ducnt/v7hd
+#EXTINF:-1 tvg-id="VTV8 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
+#EXTINF:-1 tvg-id="VTV8 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD s2
+http://vnlivetv.tk/ducnt/v8hd
+#EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD s2
+http://vnlivetv.tk/ducnt/v9hd
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN s1
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN s2
