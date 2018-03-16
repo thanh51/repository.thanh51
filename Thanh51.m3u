@@ -535,7 +535,6 @@ http://95.154.129.24/hls/hd1/hd1.m3u8
 #EXTINF:-1 group-title="Матч Sports",Матч!Футбол 2
 http://95.154.129.24/hls/hd2/hd2.m3u8
 
-
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://mytv-online.com/wp-content/uploads/2016/12/Bein-sport-france-11-160x90.jpg",bein france 1 
 http://163.172.105.25:80/live?channelId=175&uid=4322&deviceMac=00:1A:79:3C:C8:BB
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://mytv-online.com/wp-content/uploads/2016/12/Bein-sport-france-2-160x90.jpg",bein france 2 
@@ -567,21 +566,10 @@ http://163.172.105.25:80/live?channelId=188&uid=4322&deviceMac=00:1A:79:3C:C8:BB
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://glo-star.com/Global/images//9478_12-HD.png",beIN Sport 12 HD 
 http://163.172.105.25:80/live?channelId=189&uid=4322&deviceMac=00:1A:79:3C:C8:BB
 
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://glo-star.com/Global/images//72281_1-HD.png", Bein Sports 1
-http://iksolutions3.ddns.net/iptv/rusia2.php?id=274
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://glo-star.com/Global/images//54027_2-HD.png", Bein Sports 2
-http://iksolutions3.ddns.net/iptv/rusia2.php?id=275
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://glo-star.com/Global/images//92085_3-HD.png", Bein Sports 3
-http://iksolutions3.ddns.net/iptv/rusia2.php?id=276
-
-#EXTINF:-1 group-title="BEin Sports", beIN Sports HD España s1
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
-#EXTINF:-1 group-title="BEin Sports", beIN Sports HD Españas2
-http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/566/index.m3u8
-#EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD España s1
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
-#EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD España s2
-http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/574/index.m3u8
+#EXTINF:-1 group-title="BEin Sports", beIN Sports HD España
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
+#EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD España
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
 
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s1
 http://111.223.50.12:8081/liveNimble/ch04h/playlist.m3u8
@@ -601,6 +589,8 @@ http://103.253.73.251/liveNimble/ch06s/playlist.m3u8
 http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4 s2
 http://103.253.73.251/liveNimble/ch07s/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="TV of FPT" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
