@@ -1182,10 +1182,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
 #EXTINF:-1 group-title="USA",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="USA",ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1 group-title="USA",ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
 #EXTINF:-1 group-title="USA",Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="USA",Beach TV - Panama City
@@ -1224,16 +1220,12 @@ http://video.oct.dc.gov/out/u/DCN.m3u8
 http://video.oct.dc.gov/out/u/96_4.m3u8
 #EXTINF:-1 group-title="USA",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="USA",Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 group-title="USA",Evine Live
 http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
 #EXTINF:-1 group-title="USA",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:-1 group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 group-title="USA",Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 #EXTINF:-1 group-title="USA",Greenbelt TV
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:-1 group-title="USA",House of Representatives
@@ -1264,8 +1256,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="USA",NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 group-title="USA",Olympic Channel
-https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 #EXTINF:-1 group-title="USA",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1 group-title="USA",Pac-12 Arizona
@@ -1294,10 +1284,6 @@ https://secure-streams.akamaized.net/rt-usa/index.m3u8
 http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 group-title="USA",RyeTV
 http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 group-title="USA",SCCtv
-http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1 group-title="USA",Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
 #EXTINF:-1 group-title="USA",Seminole TV
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 #EXTINF:-1 group-title="USA",Southeastern Channel
@@ -1328,14 +1314,8 @@ http://stream.memesyndicate.com/live/thx/index.m3u8
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 group-title="USA",WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1 group-title="USA",YourAlaskaLink
-http://live.field59.com/kyur/ngrp:kyur2_all/master.m3u8
 #EXTINF:-1 group-title="USA",NBC News 13 (Albany)
 http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 #EXTINF:-1 group-title="USA",KXAN News (Austin)
@@ -1368,8 +1348,6 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1 group-title="USA",NewsChannel 21 (Oregon)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
-#EXTINF:-1 group-title="USA",ABC News 9 (Orlando)
-http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
 #EXTINF:-1 group-title="USA",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 #EXTINF:-1 group-title="USA",CBS 2 (Salt Lake City)
@@ -1378,8 +1356,6 @@ http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 #EXTINF:-1 group-title="USA",Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1 group-title="USA",NBC 4 News (Washington DC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 
 #EXTINF:-1 group-title="USA",KSWB Fox 5 SD Loop
 http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
@@ -1389,8 +1365,6 @@ http://api.new.livestream.com/accounts/7970204/events/2926299/live.m3u8
 http://api.new.livestream.com/accounts/19285506/events/5338978/live.m3u8
 #EXTINF:-1 group-title="USA",KCOY SLO
 http://api.new.livestream.com/accounts/19128628/events/5285665/live.m3u8
-#EXTINF:-1 group-title="USA",KTXL Sacr Fox 40
-http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
 #EXTINF:-1 group-title="USA",KESQ Palm Springs
 http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8
 #EXTINF:-1 group-title="USA",CA
@@ -1401,24 +1375,14 @@ http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 http://api.new.livestream.com/accounts/6372875/events/2592470/live.m3u8
 #EXTINF:-1 group-title="USA",WGHP FOX 8 GreensboroNC
 http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
-#EXTINF:-1 group-title="USA",WVUEl 8 Fox New Orleans LA
-http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
-#EXTINF:-1 group-title="USA",Fox 32 Chicago
-http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
-#EXTINF:-1 group-title="USA",WXMI Grand Rapids MI Fox
-http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8
 #EXTINF:-1 group-title="USA",WDAF Fox 4 Kansas City MO
 http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
-#EXTINF:-1 group-title="USA",KMSP 9 Fox Minneapolis MN
-http://api.new.livestream.com/accounts/6396280/events/2598452/live.m3u8
 #EXTINF:-1 group-title="USA",WPMT FOX 43 York PA
 http://api.new.livestream.com/accounts/9361953/events/3216874/live.m3u8
 #EXTINF:-1 group-title="USA",WJBK Fox2 Detroit MI
 http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8
 #EXTINF:-1 group-title="USA",Fox 8 Cleveland OH
 http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
-#EXTINF:-1 group-title="USA",Fox 13 Salt Lake City
-http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
 #EXTINF:-1 group-title="USA",Fox 31 Denver CO
 http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
 #EXTINF:-1 group-title="USA",Fox 10 Phoenix AZ
@@ -1432,71 +1396,69 @@ http://api.new.livestream.com/accounts/1864610/events/1649849/live.m3u8
 
 
 #EXTINF:-1 group-title="ESP", RT Español HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/482/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/482/index.m3u8
 #EXTINF:-1 group-title="ESP", beIN Sports España HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
 #EXTINF:-1 group-title="ESP", Fox Life HD España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/567/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/567/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Serie Xtra HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/568/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/568/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Golf HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/569/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/569/index.m3u8
 #EXTINF:-1 group-title="ESP", Cosmopolitan TV Europa HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/570/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/570/index.m3u8
 #EXTINF:-1 group-title="ESP", Comedy Central España HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/572/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/572/index.m3u8
 #EXTINF:-1 group-title="ESP", beIN LaLiga HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Futbol HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/575/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Acción HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/576/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/576/index.m3u8
 #EXTINF:-1 group-title="ESP", Hollywood HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/577/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/577/index.m3u8
 #EXTINF:-1 group-title="ESP", AXN España HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/579/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/579/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Comedia HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/580/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/580/index.m3u8
 #EXTINF:-1 group-title="ESP", LaLiga TV Bar HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="ESP", Bethel TV
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/597/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/597/index.m3u8
 #EXTINF:-1 group-title="ESP", Fox Life España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/601/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/601/index.m3u8
 #EXTINF:-1 group-title="ESP", Nova
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/602/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/602/index.m3u8
 #EXTINF:-1 group-title="ESP", Canal Iberalia
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/603/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/603/index.m3u8
 #EXTINF:-1 group-title="ESP", Disney Junior España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/604/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/604/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Acción
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/605/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/605/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Comedia
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/606/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/606/index.m3u8
 #EXTINF:-1 group-title="ESP", M. DCine
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/607/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/607/index.m3u8
 #EXTINF:-1 group-title="ESP", Fox España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/608/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/608/index.m3u8
 #EXTINF:-1 group-title="ESP", AXN White España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/609/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/609/index.m3u8
 #EXTINF:-1 group-title="ESP", AXN España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/610/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/610/index.m3u8
 #EXTINF:-1 group-title="ESP",0 España
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/611/index.m3u8
-#EXTINF:-1 group-title="ESP", Movistar MotoGP HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/613/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/611/index.m3u8
 #EXTINF:-1 group-title="ESP", AMC España HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/614/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/614/index.m3u8
 #EXTINF:-1 group-title="ESP", Antena 3 HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/615/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/615/index.m3u8
 #EXTINF:-1 group-title="ESP", Cuatro HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/616/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/616/index.m3u8
 #EXTINF:-1 group-title="ESP", Telecinco HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/617/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/617/index.m3u8
 #EXTINF:-1 group-title="ESP", La Sexta HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/618/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/618/index.m3u8
 #EXTINF:-1 group-title="ESP", Telesur HD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/803/index.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/803/index.m3u8
 
 #EXTINF:-1 group-title="ESP",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
