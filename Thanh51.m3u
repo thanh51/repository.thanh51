@@ -220,6 +220,23 @@ http://183.252.176.24//PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:-1 group-title="Sports",CCTV-5+ 
 http://112.50.233.148/PLTV/88888888/224/3221225821/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 1-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 2-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 3-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 4-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 5-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 7-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 9-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 10-HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
+
 #EXTINF:-1 group-title="Sports",ARENASPORT 1
 http://66.70.129.43:8080/Arena1-SRB/index.m3u8
 #EXTINF:-1 group-title="Sports",ARENASPORT 2
@@ -1895,6 +1912,27 @@ http://203.162.235.41:17814
 #EXTINF:-1 group-title="Japantv",JAPAN 6
 http://203.162.235.41:17806
 
+#EXTINF:-1 group-title="ChinaTV",CCTV-1HD
+rtmp://58.200.131.2:1935/livetv/cctv1hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-2HD
+rtmp://58.200.131.2:1935/livetv/cctv2hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-3HD
+rtmp://58.200.131.2:1935/livetv/cctv3hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-4HD
+rtmp://58.200.131.2:1935/livetv/cctv4hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-5HD
+rtmp://58.200.131.2:1935/livetv/cctv5hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-6HD
+rtmp://58.200.131.2:1935/livetv/cctv6hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-7HD
+rtmp://58.200.131.2:1935/livetv/cctv7hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-8HD
+rtmp://58.200.131.2:1935/livetv/cctv8hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-9HD
+rtmp://58.200.131.2:1935/livetv/cctv9hd
+#EXTINF:-1 group-title="ChinaTV",CCTV-10HD
+rtmp://58.200.131.2:1935/livetv/cctv10hd
+
 #EXTINF:-1 group-title="ChinaTV",CCTV-1 
 http://112.50.233.148/PLTV/88888888/224/3221226489/index.m3u8
 #EXTINF:-1 group-title="ChinaTV",CCTV-1 
@@ -2019,6 +2057,13 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 #EXTINF:-1 group-title="ChinaTV",GOODTV2 
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
+#EXTINF:-1 group-title="ChinaTV", Phim 1
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
+#EXTINF:-1 group-title="ChinaTV", Phim 2
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225772/index.m3u8
+#EXTINF:-1 group-title="ChinaTV", Phim 3
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
 
 #EXTINF:-1 group-title="KoreaTV",MBC Every1
 http://211.225.68.27:9981/stream/channelid/139151650?ticket=AA69945ECD2B67556EE0907A08B53C760C21D64D&profile=pass
@@ -2234,6 +2279,7 @@ http://211.225.68.27:9981/stream/channelid/1517798250?ticket=EF1BBEF0ED71D164E5F
 http://211.225.68.27:9981/stream/channelid/1527989315?ticket=A0E2C3A9E627640ECF26E71286708D876809E517&profile=pass
 #EXTINF:-1 group-title="KoreaTV",생활체육TV
 http://211.225.68.27:9981/stream/channelid/28821032?ticket=7A1E409797EF3553E44327E1D39A0C100246233B&profile=pass
+
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai
 http://43.229.76.54/boboapp3/FOX/playlist.m3u8
@@ -3210,6 +3256,91 @@ http://yun.zxziyuan-yun.com/20180313/sBzLWvBu/index.m3u8
 http://yun.zxziyuan-yun.com/20180313/jNAvPu4W/index.m3u8
 #EXTINF:-1 group-title="Phim bộ",Phim TQ: Chiến tranh Sangshan 2 - Tập 34
 http://yun.zxziyuan-yun.com/20180313/e0BVC7v1/index.m3u8
+
+#EXTINF:-1,group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 01
+http://yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 02
+http://yun.zxziyuan-yun.com/20180202/3bD3TUoD/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 03
+http://yun.zxziyuan-yun.com/20180202/5kflE03o/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 04
+http://yun.zxziyuan-yun.com/20180202/CWOtgwMr/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 05
+http://yun.zxziyuan-yun.com/20180202/ShTiSRcz/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 06
+http://yun.zxziyuan-yun.com/20180202/3LnnqZ24/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 07
+http://yun.zxziyuan-yun.com/20180202/Fe3hxaQ8/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 08
+http://yun.zxziyuan-yun.com/20180202/orWcfxLR/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 09
+http://yun.zxziyuan-yun.com/20180202/2DJQoQ4g/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 10
+http://yun.zxziyuan-yun.com/20180202/Jgc3ghdr/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 11
+http://yun.zxziyuan-yun.com/20180202/FKvzk3lK/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 12
+http://yun.zxziyuan-yun.com/20180202/Dw8lTxl5/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 13
+http://yun.zxziyuan-yun.com/20180202/3ouJHSXc/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 14
+http://yun.zxziyuan-yun.com/20180202/v8hyeVJG/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 15
+http://yun.zxziyuan-yun.com/20180202/zfoz1qkW/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 16
+http://yun.zxziyuan-yun.com/20180202/OHcnwXv0/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 17
+http://yun.zxziyuan-yun.com/20180202/oHwL93vF/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 18
+http://yun.zxziyuan-yun.com/20180202/DTuiadnl/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 19
+http://yun.zxziyuan-yun.com/20180202/maNWs6iK/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 20
+http://yun.zxziyuan-yun.com/20180202/YZkfxWFi/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 21
+http://yun.zxziyuan-yun.com/20180202/BptIj6jN/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 22
+http://yun.zxziyuan-yun.com/20180202/lgG68iMs/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 23
+http://yun.zxziyuan-yun.com/20180202/Jn5BfoXc/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 24
+http://yun.zxziyuan-yun.com/20180202/5YehqPBS/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 25
+http://yun.zxziyuan-yun.com/20180202/bQAJNC70/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 26
+http://yun.zxziyuan-yun.com/20180202/T9TS7o71/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 27
+http://yun.zxziyuan-yun.com/20180202/HnPPT3TA/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:纯熟意外国语 - Tập 28
+http://yun.zxziyuan-yun.com/20180202/fKrYVZOn/index.m3u8
+
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 01
+http://kakazy-yun.com/20170918/Y2pnsags/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 02
+http://kakazy-yun.com/20170918/7BaZj5gy/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 03
+http://kakazy-yun.com/20170918/7OS49PJ4/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 04
+http://kakazy-yun.com/20170918/kguoFJnO/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 05
+http://kakazy-yun.com/20170918/baxtaS7L/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 06
+http://kakazy-yun.com/20170918/hEixwBZb/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 07
+http://kakazy-yun.com/20170918/RsqbkSkg/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 08
+http://kakazy-yun.com/20170918/g73vfl1a/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 09
+http://kakazy-yun.com/20170918/q6NxkovV/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 10
+http://kakazy-yun.com/20170918/eF9O8Z1t/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 11
+http://kakazy-yun.com/20170918/S7PM3BOQ/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 12
+http://kakazy-yun.com/20170918/vKlDrSPz/index.m3u8
+#EXTINF:-1 group-title="Phim bộ",Phim TQ:灵魂摆渡3 - Tập 13
+http://kakazy-yun.com/20170918/F4gAsxj7/index.m3u8
+
 
 #EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Gia Đình Mèo Quý Tộc (Thuyết Minh) – Phim Hoạt Hình
 http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4
