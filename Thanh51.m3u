@@ -257,6 +257,15 @@ http://204.8.220.86:8000/play/nsport_gop600/index.m3u8
 #EXTINF:-1 group-title="Sports",nSport+ HD
 http://204.8.220.86:8000/play/stream4/index.m3u8
 
+#EXTINF:-1 group-title="Sports",SPORT TV1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SPORT TV2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SPORT TV 2
+http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SPORT TV
+http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",Наш Футбол HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/25/index.m3u8
 #EXTINF:-1 group-title="Sports",Матч!Наш спорт
@@ -346,6 +355,19 @@ http://95.154.129.24/hls/hd1/hd1.m3u8
 http://95.154.129.24/hls/hd1/hd1.m3u8
 #EXTINF:-1 group-title="Матч Sports",Матч!Футбол 2
 http://95.154.129.24/hls/hd2/hd2.m3u8
+
+#EXTINF:-1 group-title="BEin Sports",Bein Sports 1
+http://tv.beeb.vn/site/freeiptv?channel=beinsports1&e=1522051615&t=.m3u8
+#EXTINF:-1 group-title="BEin Sports",Bein Sports 2
+http://tv.beeb.vn/site/freeiptv?channel=beinsports2&e=1522051615&t=.m3u8
+#EXTINF:-1 group-title="BEin Sports",Bein Sports 3
+http://tv.beeb.vn/site/freeiptv?channel=beinsports3&e=1522051615&t=.m3u8
+#EXTINF:-1 group-title="BEin Sports",Bein Sports 4 
+http://tv.beeb.vn/site/freeiptv?channel=beinsports4&e=1522051615&t=.m3u8
+#EXTINF:-1 group-title="BEin Sports",Bein Sports 5
+http://tv.beeb.vn/site/freeiptv?channel=beinsports5&e=1522051615&t=.m3u8
+#EXTINF:-1 group-title="BEin Sports",Bein Sports 6
+http://tv.beeb.vn/site/freeiptv?channel=beinsports6&e=1522051615&t=.m3u8
 
 #EXTINF:-1 group-title="BEin Sports", beIN Sports HD España
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
@@ -3029,3 +3051,4 @@ http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-CoBeLoLem-
 http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-NguoiDepNguTrongRung.mp4
 #EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Vút Bay (Thuyết Minh) – Phim Hoạt Hình
 http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-VutBay.mp4
+
