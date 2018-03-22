@@ -1553,27 +1553,6 @@ http://203.162.235.41:17814
 #EXTINF:-1 group-title="Japantv",JAPAN 6
 http://203.162.235.41:17806
 
-#EXTINF:-1 group-title="ChinaTV",CCTV-1HD
-rtmp://58.200.131.2:1935/livetv/cctv1hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-2HD
-rtmp://58.200.131.2:1935/livetv/cctv2hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-3HD
-rtmp://58.200.131.2:1935/livetv/cctv3hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-4HD
-rtmp://58.200.131.2:1935/livetv/cctv4hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-5HD
-rtmp://58.200.131.2:1935/livetv/cctv5hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-6HD
-rtmp://58.200.131.2:1935/livetv/cctv6hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-7HD
-rtmp://58.200.131.2:1935/livetv/cctv7hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-8HD
-rtmp://58.200.131.2:1935/livetv/cctv8hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-9HD
-rtmp://58.200.131.2:1935/livetv/cctv9hd
-#EXTINF:-1 group-title="ChinaTV",CCTV-10HD
-rtmp://58.200.131.2:1935/livetv/cctv10hd
-
 #EXTINF:-1 group-title="ChinaTV",CCTV-1 
 http://112.50.233.148/PLTV/88888888/224/3221226489/index.m3u8
 #EXTINF:-1 group-title="ChinaTV",CCTV-1 
@@ -1699,12 +1678,120 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u
 #EXTINF:-1 group-title="ChinaTV",GOODTV2 
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
+#EXTINF:-1 group-title="ChinaTV",民視台灣台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",民視第一台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",民視綜藝
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",猪哥亮歌厅秀
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv006/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",大愛電視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv007/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",人间卫视
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv008/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",中天新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",非凡新闻
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",影迷數位電影台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",空中英語教室
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CNEX 視納華仁紀實台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",时尚运动
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv014/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",FashionOne
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv015/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",韩国娱乐台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",aMC
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",Da Vinci Kid
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",东森财经新闻
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",東森亞洲衛視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",東森亞洲幼幼
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",東森亞洲新聞
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv022/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",ComedyCentral爆笑
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",MTV LIVE HD
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",HISTORY 歷史頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CI罪案偵查頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",HISTORY 2
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",LIFE TIME
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv029/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CNBC Asia 財經
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv030/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",fyi 生活頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",nick jr
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv032/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",中天综合
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",E! Entertainment
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",凤梨直击台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",itv CHOICE
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv036/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",iconceits
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv037/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",香蕉直击台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",八大综合
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv039/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",中視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",华视
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",公視戲劇
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv042/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",LTE英语学习台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv103/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",VTV4
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",天映经典CCM电影台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",MOMO親子台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",OurSports 智林體育台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",PTS 公視二台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯足球台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯高球二台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯高球台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯無限台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯運動網
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯網球台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯魅力台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",SportCase 博斯電玩台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8
+
 #EXTINF:-1 group-title="ChinaTV", Phim 1
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
 #EXTINF:-1 group-title="ChinaTV", Phim 2
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225772/index.m3u8
 #EXTINF:-1 group-title="ChinaTV", Phim 3
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
+
 
 #EXTINF:-1 group-title="KoreaTV",MBC Every1
 http://211.225.68.27:9981/stream/channelid/139151650?ticket=AA69945ECD2B67556EE0907A08B53C760C21D64D&profile=pass
