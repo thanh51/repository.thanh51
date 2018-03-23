@@ -2206,6 +2206,35 @@ http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",YOU CHANNEL
 http://stream.rs.co.th/you-hi/index.m3u8
 
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/Z26iAM", CINEMAX HD
+http://stream.bplaymove.com:45127/fcinemaxhd/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/RzPvbv", HBO HD
+http://stream.bplaymove.com:45127/fhbohd/video.m3u8
+#EXTINF:-1 group-title="IPTV",DISNEY CHANNEL
+http://stream.bplaymove.com:59812/idisney/video.m3u8
+#EXTINF:-1 group-title="IPTV",DISNEY JUNIOR
+http://stream.bplaymove.com:59812/idisneyjr/video.m3u8
+#EXTINF:-1 group-title="IPTV",NICKELODEON
+http://stream.bplaymove.com:59812/inickelodeon/video.m3u8
+#EXTINF:-1 group-title="IPTV",BOOMERANG
+http://stream.bplaymove.com:59812/iboomerang/video.m3u8
+#EXTINF:-1 group-title="IPTV",TOONCAST
+http://stream.bplaymove.com:59812/itooncast/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/NikZKK", NICK JR HD
+http://stream.bplaymove.com:45127/inickjrhd/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/wSJLHv", MEGAPIX HD
+http://stream.bplaymove.com:45127/fmegapixhd/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/yuUvs5", BAND HD
+http://stream.bplaymove.com:45127/abandhd/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/2FgwHa", REDE TV HD
+http://stream.bplaymove.com:45127/aredetvhd/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/U8ohoz", COMEDY CENTRAL
+http://stream.bplaymove.com:45127/fcomedycentral/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/f2WvTu", MULTISHOW HD
+http://stream.bplaymove.com:45127/vmultishowhd/video.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/9V9bRS", GLOOB HD
+http://stream.bplaymove.com:45127/igloobhd/video.m3u8
+
 #EXTINF:-1 group-title="IPTV" tvg-name="Al Jazeera English" tvg-logo="http://kinkodi.com/tv/logos/aljazeera-2.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="IPTV" tvg-name="ARISE News" tvg-logo="http://kinkodi.com/tv/logos/arisenews-2.png",Arise News UK
