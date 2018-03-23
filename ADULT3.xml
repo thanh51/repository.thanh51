@@ -1,12 +1,12 @@
 <item>
-<title>[COLOR red][B]Kênh TV Can Addon Plexus[/B][/COLOR]</title>
+<title>[COLOR red][B]Cáº§n Addon Plexus[/B][/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://s18.postimg.org/g1nyy1ugp/plexus.jpg</thumbnail>
 </item>
 
 /////////////////
 <item>
-<title> [COLOR lime]•[/COLOR]  [COLOR deepskyblue][B]Acestreams - ADUTL[/B][/COLOR]</title>
+<title> [COLOR deepskyblue][B]Acestreams - ADUTL[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -16,7 +16,7 @@
 	<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
 ]]></listrepeat>
 <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.porn.player.m3u</page>
+<page>http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.porn.player.m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
