@@ -1,5 +1,14 @@
 #EXTM3U thanh51
 
+#EXTINF:-1 group-title="K+" tvg-id="K+1 HD" tvg-logo="https://s18.postimg.org/4t58e3zex/K_1.png",K+1 HD (phát không thường xuyên)
+http://wolvn.ddns.net:5555/udp/226.10.10.1:5000
+#EXTINF:-1 group-title="K+" tvg-id="K+NS HD" tvg-logo="https://s18.postimg.org/gzqlckm21/K_NS.png",K+NS HD (phát không thường xuyên)
+http://wolvn.ddns.net:5555/udp/226.10.10.2:5000
+#EXTINF:-1 group-title="K+" tvg-id="K+PM HD" tvg-logo="https://s18.postimg.org/cduh48fyh/K_PM.png",K+PM HD (phát không thường xuyên)
+http://wolvn.ddns.net:5555/udp/226.10.10.3:5000
+#EXTINF:-1 group-title="K+" tvg-id="K+PC HD" tvg-logo="https://s18.postimg.org/3vl0zvekp/K_PC.png",K+PC HD (phát không thường xuyên)
+http://wolvn.ddns.net:5555/udp/226.10.10.4:5000
+
 #EXTINF:-1 tvg-logo="http://1ttv.org/uploads/hQDOuQjUVczvUU2ocLE0tkC1siCqpo.png" group-title="Noxbit",Матч ТВ
 http://127.0.0.1:6689/stream?cid=3568
 #EXTINF:-1 tvg-id="940" tvg-logo="http://1ttv.org/uploads/DDjh1dM2D09Wcl3L6YmEd1si3P17n0.png" group-title="Noxbit",Матч! Арена
