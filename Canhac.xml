@@ -8,6 +8,115 @@
 </item>
 
 <item>
+	<title>[COLOR pink]Paris by night 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân HD[/COLOR][COLOR=cyan]Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6ej6dk</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR pink]Paris by night 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân HD[/COLOR][COLOR=cyan]Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6eh2aa</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR pink]Paris by night 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân HD[/COLOR][COLOR=cyan]Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6eh564</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR pink]Paris by night 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân HD[/COLOR][COLOR=cyan]Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6eixsw</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR pink]Paris by night 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân HD[/COLOR][COLOR=cyan]Part 5[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6ej27l</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>[COLOR pink]Paris by night 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân HD[/COLOR][COLOR=cyan]End[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6ekkkz</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLOR blue]Paris by night Số 123 [/COLOR][COLOR red]Ảo Ảnh (bản full)[/COLOR]</title>
 <link>http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv</link>
 <thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn123.jpg</thumbnail>
@@ -2973,4 +3082,5 @@
 
 
 </items>
+
 
