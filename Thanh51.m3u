@@ -729,8 +729,6 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="USA",District Knowledge Network
 http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1 group-title="USA",Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="USA",Evine Live
 http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
 #EXTINF:-1 group-title="USA",Fox News Radio
@@ -801,8 +799,6 @@ http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 group-title="USA",Spydar TV
 http://nyc01.netcasterstream.com:8081/dashtv/spydartv/playlist.m3u8
-#EXTINF:-1 group-title="USA",SupTV
-http://91.134.238.137/live/goat/index.m3u8
 #EXTINF:-1 group-title="USA",Temple TV
 http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 #EXTINF:-1 group-title="USA",The Country Network
@@ -825,8 +821,6 @@ http://stream.memesyndicate.com/live/thx/index.m3u8
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA",Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 #EXTINF:-1 group-title="USA",NBC News 13 (Albany)
 http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 #EXTINF:-1 group-title="USA",KXAN News (Austin)
@@ -1918,6 +1912,7 @@ http://211.225.68.27:9981/stream/channelid/1517798250?ticket=EF1BBEF0ED71D164E5F
 http://211.225.68.27:9981/stream/channelid/1527989315?ticket=A0E2C3A9E627640ECF26E71286708D876809E517&profile=pass
 #EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gefY5Bw.png" tvg-id="28c6b78130292f9a5ee7347499db768c",생활체육TV
 http://211.225.68.27:9981/stream/channelid/28821032?ticket=7A1E409797EF3553E44327E1D39A0C100246233B&profile=pass
+
 #EXTINF:-1 group-title="KoreaTV",SBS 플러스
 http://175.115.38.192:9981/stream/channelid/767146867?ticket=FD1A43C3E7F840732B4360D6B8D34AEA5414939A&profile=pass
 #EXTINF:-1 group-title="KoreaTV",홈&쇼핑
@@ -2147,7 +2142,6 @@ http://175.115.38.192:9981/stream/channelid/1399442934?ticket=E36AD7E203B775571F
 #EXTINF:-1 group-title="KoreaTV",C채널
 http://175.115.38.192:9981/stream/channelid/161533876?ticket=1D77A5866575E8706FDA2FC39AFF772AF265C77B&profile=pass
 
-
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai
 http://43.229.76.54/boboapp3/FOX/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="http://www.sine.tv/images/icon/truemoviehits.png",True movie hits
@@ -2235,42 +2229,6 @@ http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3
 http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",YOU CHANNEL
 http://stream.rs.co.th/you-hi/index.m3u8
-
-#EXTINF:-1 group-title="IPTV",Vip Channel Cinema HD
-http://149.202.90.48:9090/
-#EXTINF:-1 group-title="IPTV",Vip Channel Kid HD
-http://149.202.90.48:7002/
-#EXTINF:-1 group-title="IPTV",Channel Kid
-http://176.9.126.181:1022/
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/Z26iAM", CINEMAX HD
-http://stream.bplaymove.com:59812/fcinemaxhd/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/RzPvbv", HBO HD
-http://stream.bplaymove.com:59812/fhbohd/video.m3u8
-#EXTINF:-1 group-title="IPTV",DISNEY CHANNEL
-http://stream.bplaymove.com:59812/idisney/video.m3u8
-#EXTINF:-1 group-title="IPTV",DISNEY JUNIOR
-http://stream.bplaymove.com:59812/idisneyjr/video.m3u8
-#EXTINF:-1 group-title="IPTV",NICKELODEON
-http://stream.bplaymove.com:59812/inickelodeon/video.m3u8
-#EXTINF:-1 group-title="IPTV",BOOMERANG
-http://stream.bplaymove.com:59812/iboomerang/video.m3u8
-#EXTINF:-1 group-title="IPTV",TOONCAST
-http://stream.bplaymove.com:59812/itooncast/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/NikZKK", NICK JR HD
-http://stream.bplaymove.com:59812/inickjrhd/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/wSJLHv", MEGAPIX HD
-http://stream.bplaymove.com:59812/fmegapixhd/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/yuUvs5", BAND HD
-http://stream.bplaymove.com:59812/abandhd/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/2FgwHa", REDE TV HD
-http://stream.bplaymove.com:59812/aredetvhd/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/U8ohoz", COMEDY CENTRAL
-http://stream.bplaymove.com:59812/fcomedycentral/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/f2WvTu", MULTISHOW HD
-http://stream.bplaymove.com:59812/vmultishowhd/video.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://goo.gl/9V9bRS", GLOOB HD
-http://stream.bplaymove.com:59812/igloobhd/video.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-name="Al Jazeera English" tvg-logo="http://kinkodi.com/tv/logos/aljazeera-2.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
@@ -2464,6 +2422,13 @@ https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settim
 https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7383644_,800,1800,.mp4.csmil/index_1_av.m3u8
 #EXTINF:-1 group-title="Phim Le",RAI MOVIE
 https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8074786_,800,1800,.mp4.csmil/index_1_av.m3u8
+
+#EXTINF:-1 group-title="Phim Le",Vip Channel Cinema HD
+http://149.202.90.48:9090/
+#EXTINF:-1 group-title="Phim Le",Vip Channel Kid HD
+http://149.202.90.48:7002/
+#EXTINF:-1 group-title="Phim Le",Channel Kid
+http://176.9.126.181:1022/
 
 #EXTINF:-1 group-title="Phim Le",ALVO TRIPLO - DUB - HD (2018)
 http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/alvotriplo-dub-720p.mp4
@@ -3335,6 +3300,7 @@ http://yun.zxziyuan-yun.com/20180218/PUqVEtxJ/index.m3u8
 http://yun.zxziyuan-yun.com/20180218/pAAsqo5o/index.m3u8
 #EXTINF:-1 group-title="Phim bộ",Phim TQ:Xinxu Qinqin - Tập 40
 http://yun.zxziyuan-yun.com/20180218/9VyJSP5Q/index.m3u8
+
 
 #EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Gia Đình Mèo Quý Tộc (Thuyết Minh) – Phim Hoạt Hình
 http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4
