@@ -70,6 +70,22 @@
 </item>
 
 <item>
+<title>Doremon</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)&lt;.*?> -.*?:(.*?)&lt;\/span>&lt;\/h3></expres>
+<page>https://www.youtube.com/channel/UCcbGRC4ZKVX2TWWyE3ROBYw/videos</page>
+<thumbnail>https://yt3.ggpht.com/-9USRgerhB_0/AAAAAAAAAAI/AAAAAAAAAAA/J6ETfOwa0mM/s200-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+</regex>
+</item>
+
+
+<item>
 <title>Gia Đình Mèo Quý Tộc (Thuyết Minh) – Phim Hoạt Hình</title>
 <link>http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4</link>
 <thumbnail></thumbnail>
@@ -243,6 +259,9 @@
 
 
 </items>
+
+
+
 
 
 
