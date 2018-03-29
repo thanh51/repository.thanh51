@@ -40,8 +40,6 @@ http://cdnv.cli.tn/iptv/ch914?code=610116485444847
 http://cdnv.cli.tn/iptv/ch915?code=610116485444847
 #EXTINF:-1 group-title="Sports",SKY Sport 5 UK
 http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="Sports",Sport Mix UK
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
 #EXTINF:-1 group-title="Sports",BT Sport 1
 http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
 #EXTINF:-1 group-title="Sports",BT Sport 2
@@ -53,6 +51,7 @@ http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="Sports", M.Futbol HD España
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://1ttv.org/uploads/mjQW91VJdjIEhADvOO2s6OiKNeUdUK.png",Super Tennis HD
 http://93.123.65.3:9130/130?vk.com/iptv_iptv
@@ -115,17 +114,6 @@ http://66.70.129.43:8080/Arena2-SRB/index.m3u8
 http://66.70.129.43:8080/Arena3-SRB/index.m3u8
 #EXTINF:-1 group-title="Sports",ARENASPORT 4
 http://66.70.129.43:8080/Arena4-SRB/index.m3u8
-#EXTINF:-1 group-title="Sports",ARENASPORT 5
-http://66.70.129.43:8080/Arena5-SRB/index.m3u8 
-
-#EXTINF:-1 group-title="Sports",Canal+ Sport2 HD
-http://204.8.220.86:8000/play/cplussport2_gop600/index.m3u8
-#EXTINF:-1 group-title="Sports",Canal+ Sport2 HD
-http://204.8.220.86:8000/play/stream12/index.m3u8
-#EXTINF:-1 group-title="Sports",nSport+ HD
-http://204.8.220.86:8000/play/nsport_gop600/index.m3u8
-#EXTINF:-1 group-title="Sports",nSport+ HD
-http://204.8.220.86:8000/play/stream4/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORT TV1
 http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
@@ -171,29 +159,6 @@ http://tele.usite.pro/iptv/HD-PlayList/match_nash_sport.m3u8
 http://tele.usite.pro/iptv/HD-PlayList/match_boec.m3u8
 #EXTINF:-1 group-title="Матч Sports",Матч! Планета
 http://tele.usite.pro/iptv/HD-PlayList/match_planeta.m3u8
-
-#EXTINF:-1 group-title="Матч Sports",Матч! ТВ
-http://persik.by/stream/3903/293564/276.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Арена
-http://persik.by/stream/3903/293564/261.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Планета
-http://persik.by/stream/3903/293564/10269.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Игра
-http://persik.by/stream/3903/293564/10270.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Наш спорт
-http://persik.by/stream/3903/293564/10271.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 1
-http://persik.by/stream/3903/293564/346.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 2
-http://persik.by/stream/3903/293564/10217.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 3
-http://persik.by/stream/3903/293564/10218.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 1 HD
-http://persik.by/stream/3903/293564/10266.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 2 HD
-http://persik.by/stream/3903/293564/10267.m3u8 
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 3 HD
-http://persik.by/stream/3903/293564/10268.m3u8 
 
 #EXTINF:-1 group-title="Матч Sports",Матч!
 http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/200/index.m3u8
@@ -281,19 +246,6 @@ http://95.154.129.24/hls/hd1/hd1.m3u8
 http://95.154.129.24/hls/hd1/hd1.m3u8
 #EXTINF:-1 group-title="Матч Sports",Матч!Футбол 2
 http://95.154.129.24/hls/hd2/hd2.m3u8
-
-#EXTINF:-1 group-title="BEin Sports",Bein Sports 1
-http://tv.beeb.vn/site/freeiptv?channel=beinsports1&e=1522051615&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="BEin Sports",Bein Sports 2
-http://tv.beeb.vn/site/freeiptv?channel=beinsports2&e=1522051615&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="BEin Sports",Bein Sports 3
-http://tv.beeb.vn/site/freeiptv?channel=beinsports3&e=1522051615&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="BEin Sports",Bein Sports 4 
-http://tv.beeb.vn/site/freeiptv?channel=beinsports4&e=1522051615&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="BEin Sports",Bein Sports 5
-http://tv.beeb.vn/site/freeiptv?channel=beinsports5&e=1522051615&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="BEin Sports",Bein Sports 6
-http://tv.beeb.vn/site/freeiptv?channel=beinsports6&e=1522051615&t=.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="BEin Sports", beIN Sports HD España
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
