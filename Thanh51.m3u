@@ -63,7 +63,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/733/inde
 #EXTINF:-1 group-title="Sports",Rai Sport SD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/528/index.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="http://1ttv.org/uploads/mjQW91VJdjIEhADvOO2s6OiKNeUdUK.png",Super Tennis HD
 http://93.123.65.3:9130/130?vk.com/iptv_iptv
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport1.png",Thai:True Sports 1
@@ -151,25 +150,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/75/index
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/670/index.m3u8
 #EXTINF:-1 group-title="Sports",Extreme Sports Channel
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/46/index.m3u8
-
-#EXTINF:-1 group-title="Матч Sports",Матч! ТВ HD
-http://tele.usite.pro/iptv/HD-PlayList/match_tv_hd.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Арена HD
-http://tele.usite.pro/iptv/HD-PlayList/match_arena_hd.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Игра HD
-http://tele.usite.pro/iptv/HD-PlayList/match_igra_hd.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 1 HD
-http://tele.usite.pro/iptv/HD-PlayList/match_futbol_1_hd.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 2 HD
-http://tele.usite.pro/iptv/HD-PlayList/match_futbol_2_hd.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 3 HD
-http://tele.usite.pro/iptv/HD-PlayList/match_futbol_3_hd.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Наш спорт
-http://tele.usite.pro/iptv/HD-PlayList/match_nash_sport.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Боец
-http://tele.usite.pro/iptv/HD-PlayList/match_boec.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч! Планета
-http://tele.usite.pro/iptv/HD-PlayList/match_planeta.m3u8
 
 #EXTINF:-1 group-title="Матч Sports",Матч!
 http://playlist.onlybest.tv/ru/channel/4f51f2b4ca6664c92c89ccb9bd2d70db/200/index.m3u8
@@ -2195,6 +2175,54 @@ http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 #EXTINF:-1 group-title="ChinaTV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 group-title="ChinaTV",TVBS News HD
+https://bcsecurelivehls-i.akamaihd.net/hls/live/510713/4862438529001/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",Universal News 2
+http://ms002.happytv.com.tw/live/rAWCGKD2BZFWOQIG/index.m3u8 
+#EXTINF:-1 group-title="ChinaTV",Universal News
+http://61.218.59.114/live/RuoYr1uzmwhfDfq4/index.m3u8 
+#EXTINF:-1 group-title="ChinaTV",Universal News
+http://fs115.happytv.com.tw/live/RuoYr1uzmwhfDfq4/index.m3u8 
+#EXTINF:-1 group-title="ChinaTV",Hello, TV
+http://live-ws-hls.huomaotv.cn/live/jade/playlist.m3u8 
+#EXTINF:-1 group-title="ChinaTV",LTV
+http://ms002.happytv.com.tw/live/wT3GLkJuWWLmDUiQ/playlist.m3u8 
+#EXTINF:-1 group-title="ChinaTV",Longhua Idol
+http://ms002.happytv.com.tw/live/DG1qXDSpEntMqATv/playlist.m3u8 
+#EXTINF:-1 group-title="ChinaTV",GTV
+http://ms005.happytv.com.tw/live/oPDadzXReRqUALup/index.m3u8 
+#EXTINF:-1 group-title="ChinaTV",GTV HD
+http://ms005.happytv.com.tw/live/i4gHKkPGWETswIgQ/index.m3u8 
+#EXTINF:-1 group-title="ChinaTV",Asia Travel
+http://ms001.happytv.com.tw/live/gRiiECgkvPnyDN9w/playlist.m3u8 
+#EXTINF:-1 group-title="ChinaTV",Wei Lai Movie
+http://ms007.happytv.com.tw/live/RpRiAwttnzeFegH1/index.m3u8
+
+#EXTINF:-1 group-title="ChinaTV",China Central Television Channel 1 (CCTV-1)
+http://183.179.82.209:9981/stream/channelid/10
+#EXTINF:-1 group-title="ChinaTV",Fantastic TV Chinese Channel
+http://183.179.82.209:9981/stream/channelid/8
+#EXTINF:-1 group-title="ChinaTV",Fantastic TV English Channel
+http://183.179.82.209:9981/stream/channelid/9
+#EXTINF:-1 group-title="ChinaTV",J2
+http://183.179.82.209:9981/stream/channelid/6
+#EXTINF:-1 group-title="ChinaTV",Jade
+http://183.179.82.209:9981/stream/channelid/3
+#EXTINF:-1 group-title="ChinaTV",Pearl
+http://183.179.82.209:9981/stream/channelid/7
+#EXTINF:-1 group-title="ChinaTV",RTHK TV 31
+http://183.179.82.209:9981/stream/channelid/12
+#EXTINF:-1 group-title="ChinaTV",RTHK TV 32
+http://183.179.82.209:9981/stream/channelid/11
+#EXTINF:-1 group-title="ChinaTV",TVB Finance & Information Channel
+http://183.179.82.209:9981/stream/channelid/4
+#EXTINF:-1 group-title="ChinaTV",TVB News Channel
+http://183.179.82.209:9981/stream/channelid/5
+#EXTINF:-1 group-title="ChinaTV",ViuTV
+http://183.179.82.209:9981/stream/channelid/1
+#EXTINF:-1 group-title="ChinaTV",ViuTVsix
+http://183.179.82.209:9981/stream/channelid/2
 
 #EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/oOnpFes.png" tvg-id="22494b88bd9effc76e5ce8df768e490d",MBC Every1
 http://211.225.68.27:9981/stream/channelid/139151650?ticket=AA69945ECD2B67556EE0907A08B53C760C21D64D&profile=pass
