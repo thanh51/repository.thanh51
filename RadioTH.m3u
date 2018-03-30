@@ -1,11 +1,13 @@
 #EXTM3U thanh51
 
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1 
-http://118.69.211.87:1935/vov1/vov1.stream_aac/chunklist_w501361478.m3u8   
+http://stream2.mobiradio.vn/vovradio/vov1backup.stream/playlist.m3u8   
 #EXTINF:-1,Đài Tiếng nói VN 2 - VOV2 
-http://118.69.211.87:1935/vov2/vov2.stream_aac/chunklist_w1435776619.m3u8    
+http://stream2.mobiradio.vn/vovradio/vov2backup.stream/playlist.m3u8    
 #EXTINF:-1,Đài Tiếng nói VN 3 - VOV3 
-http://118.69.211.87:1935/vov3/vov3.stream_aac/chunklist_w68260986.m3u8    
+http://stream2.mobiradio.vn/vovradio/vov3backup.stream/playlist.m3u8  
+#EXTINF:-1,Đài Tiếng nói VN 4 - VOV4 
+http://stream2.mobiradio.vn/vovradio/vov4backup.stream/playlist.m3u8   
 #EXTINF:-1,XONE Radio 
 http://118.69.80.81:8000/http://118.69.80.81:8000    
 #EXTINF:-1,VOV Giao thông Hà Nội 
@@ -21,7 +23,23 @@ rtmp://221.132.38.110:1935/live/channel2
 #EXTINF:-1,Tp.HCM FM 99.9MHz 
 rtmp://221.132.38.110:1935/live/channel3   
 #EXTINF:-1,Đài Hà Nội (FM 90) 
-rtmp://123.30.185.123/live/hn1audio    
+rtmp://123.30.185.123/live/hn1audio  
+#EXTINF:-1,BAC KAN FM
+http://stream2.mobiradio.vn/radiotv/backan/playlist.m3u8
+#EXTINF:-1,BINH THUAN FM
+http://stream2.mobiradio.vn/radiotv/binhthuan/playlist.m3u8
+#EXTINF:-1,HA GIANG FM
+http://stream2.mobiradio.vn/radiotv/hagiang/playlist.m3u8
+#EXTINF:-1,LAM DONG FM
+http://stream2.mobiradio.vn/radiotv/lamdong/playlist.m3u8
+#EXTINF:-1,PHU THO FM
+http://stream2.mobiradio.vn/radiotv/phutho/playlist.m3u8
+#EXTINF:-1,QUANG NGAI FM
+http://stream2.mobiradio.vn/radiotv/quangngai/playlist.m3u8
+#EXTINF:-1,SON LA FM
+http://stream2.mobiradio.vn/radiotv/sonla/playlist.m3u8
+#EXTINF:-1,THANH HOA FM
+http://stream2.mobiradio.vn/radiotv/thanhhoa/playlist.m3u8  
 #EXTINF:-1,Cherry radio-Tin tức.giải trí
 http://50.7.96.210:8618/;stream.mp3
 #EXTINF:-1,Cherry radio-Nhạc trữ tình
