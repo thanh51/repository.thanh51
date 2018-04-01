@@ -1,24 +1,5 @@
 #EXTM3U thanh51
 
-#EXTINF:-1 group-title="BD Anh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 18h30: Crystal Palace vs Liverpool| Movistar TV Fútbol
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
-#EXTINF:-1 group-title="BD Anh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 18h30: Crystal Palace vs Liverpool| Futbol 1
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/867/index.m3u8
-#EXTINF:-1 group-title="BD Anh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 18h30: Crystal Palace vs Liverpool| Sky Sports Premier League
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="BD Anh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 18h30: Crystal Palace vs Liverpool| Sky Sports Main Event
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="BD Anh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 21h00: Manchester United vs Swansea City| Movistar TV Fútbol
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
-#EXTINF:-1 group-title="BD Anh" tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png",31/03/2018 21h00: Manchester United vs Swansea City| Futbol 1
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/867/index.m3u8
-#EXTINF:-1 group-title="BD TBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",31/03/2018 23h30: Las Palmas vs Real Madrid| beIN SPORTS en Esp 
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
-#EXTINF:-1 group-title="BD TBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",31/03/2018 23h30: Las Palmas vs Real Madrid| beIN LaLiga
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
-#EXTINF:-1 group-title="BD TBN" tvg-logo="https://s9.postimg.org/k2hip6ocv/laliga.png",31/03/2018 23h30: Las Palmas vs Real Madrid| Futbol 1
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/867/index.m3u8
-
 #EXTINF:-1 group-title="Sports",SKY Sport 1 UK
 http://cdnv.cli.tn/iptv/ch922?code=610116485444847
 #EXTINF:-1 group-title="Sports",Sky Sport 2 UK
@@ -221,13 +202,6 @@ http://217.107.192.37:9981/stream/channelid/1973655388?ticket=D69EDB7A79375DF667
 http://217.107.192.37:9981/stream/channelid/433894475?ticket=9B29D8758D9D175AA3E7ABF93C0FDBF53F211ADB&profile=pass
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/26.png" tvg-id="9caaeb194a121bfe410b8db2bce9a29b",Матч! Футбол 3 HD
 http://217.107.192.37:9981/stream/channelid/434875036?ticket=A3D7D4CE39C903F61304E4B97661B39163BA99DA&profile=pass
-
-#EXTINF:-1 group-title="Матч Sports",Матч!Футбол 1
-http://112.160.40.55:8090/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч!Футбол 2
-http://112.160.40.55:8090/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="Матч Sports",Матч!Футбол 3
-http://112.160.40.55:8090/play/a0ac/index.m3u8
 
 #EXTINF:-1 group-title="Матч Sports",Матч!Футбол 2 HD
 http://95.154.129.24/hls/hd2/hd2.m3u8
@@ -491,6 +465,7 @@ http://xemtivi24.000webhostapp.com/iptv-mytvnet.php?id=cartoonnetwork
 #EXTINF:-1 tvg-id="Channel News Asia" group-title="TV by DoBaoChinh" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
 
+
 #EXTINF:-1 tvg-id="VTV1" group-title="TV by NguyenVanNgoc",VTV1
 http://tvmienphi.000webhostapp.com/mytv.php?id=vtv1&t=.m3u8
 #EXTINF:-1 tvg-id="VTV2" group-title="TV by NguyenVanNgoc",VTV2
@@ -537,6 +512,7 @@ http://tvmienphi.000webhostapp.com/mytv.php?id=cnn&t=.m3u8
 http://tvmienphi.000webhostapp.com/mytv.php?id=warner&t=.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" group-title="TV by NguyenVanNgoc",Fashion TV
 http://tvmienphi.000webhostapp.com/mytv.php?id=fashion&t=.m3u8 
+
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s1
 http://avg05.mobion.vn/live/t/1i_mRxI1492wSuU8C13JQw/s/8qpkkyf9wu/e/1514896025547/origin64_9000/71/45034366/live/vtv1hd.m3u8
@@ -910,103 +886,24 @@ https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 #EXTINF:-1 group-title="USA",Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
-#EXTINF:-1 group-title="USA",Movies4men
-http://streams.iptv.zone:80/p/365670/c/39/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Gold
-http://streams.iptv.zone:80/p/365670/c/40/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Dave
-http://streams.iptv.zone:80/p/365670/c/41/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Alibi
-http://streams.iptv.zone:80/p/365670/c/42/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Tru TV
-http://streams.iptv.zone:80/p/365670/c/43/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",ICTV
-http://streams.iptv.zone:80/p/365670/c/44/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",UTV
-http://streams.iptv.zone:80/p/365670/c/47/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",STV East
-http://streams.iptv.zone:80/p/365670/c/48/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",PBS America
-http://streams.iptv.zone:80/p/365670/c/49/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",ITV Be
-http://streams.iptv.zone:80/p/365670/c/50/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",ITV4
-http://streams.iptv.zone:80/p/365670/c/51/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",ITV3
-http://streams.iptv.zone:80/p/365670/c/52/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",ITV
-http://streams.iptv.zone:80/p/365670/c/53/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",ITV2
-http://streams.iptv.zone:80/p/365670/c/54/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Food network
-http://streams.iptv.zone:80/p/365670/c/55/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",CBS Drama
-http://streams.iptv.zone:80/p/365670/c/56/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",5USA
-http://streams.iptv.zone:80/p/365670/c/57/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",N/A
-http://streams.iptv.zone:80/p/365670/c/58/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",5 Star
-http://streams.iptv.zone:80/p/365670/c/59/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",BBC One
-http://streams.iptv.zone:80/p/365670/c/60/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",5 Channel
-http://streams.iptv.zone:80/p/365670/c/61/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",5 Spike
-http://streams.iptv.zone:80/p/365670/c/62/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",SONY 2
-http://streams.iptv.zone:80/p/365670/c/63/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",True Entertaiment
-http://streams.iptv.zone:80/p/365670/c/64/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Pick
-http://streams.iptv.zone:80/p/365670/c/65/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Better Together
-http://streams.iptv.zone:80/p/365670/c/66/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",4 Channel
-http://streams.iptv.zone:80/p/365670/c/67/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",4 More
-http://streams.iptv.zone:80/p/365670/c/68/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",N/A
-http://streams.iptv.zone:80/p/365670/c/69/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",CBS Action
-http://streams.iptv.zone:80/p/365670/c/70/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",4 Channel
-http://streams.iptv.zone:80/p/365670/c/71/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",CBS Reality
-http://streams.iptv.zone:80/p/365670/c/72/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Eurosport
-http://streams.iptv.zone:80/p/365670/c/73/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",5 Select
-http://streams.iptv.zone:80/p/365670/c/74/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",True Movies
-http://streams.iptv.zone:80/p/365670/c/75/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Really
-http://streams.iptv.zone:80/p/365670/c/76/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Drama
-http://streams.iptv.zone:80/p/365670/c/77/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",C
-http://streams.iptv.zone:80/p/365670/c/78/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-#EXTINF:-1 group-title="USA",Forces TV
-http://streams.iptv.zone:80/p/365670/c/79/u/74768/eDQYhDXp5AEg63qd8ZvprNySxx82Fv.m3u8
-
-#EXTINF:-1 group-title="ESP", RT Español HD
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/482/index.m3u8
 #EXTINF:-1 group-title="ESP", beIN Sports España HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
-#EXTINF:-1 group-title="ESP", Fox Life HD España
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/567/index.m3u8
-#EXTINF:-1 group-title="ESP", M. Serie Xtra HD
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/568/index.m3u8
+#EXTINF:-1 group-title="ESP", beIN LaLiga HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
+#EXTINF:-1 group-title="ESP", LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
+#EXTINF:-1 group-title="ESP", M. Futbol HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Golf HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/569/index.m3u8
 #EXTINF:-1 group-title="ESP", Cosmopolitan TV Europa HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/570/index.m3u8
 #EXTINF:-1 group-title="ESP", Comedy Central España HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/572/index.m3u8
-#EXTINF:-1 group-title="ESP", beIN LaLiga HD
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
-#EXTINF:-1 group-title="ESP", M. Futbol HD
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
+#EXTINF:-1 group-title="ESP", Fox Life HD España
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/567/index.m3u8
+#EXTINF:-1 group-title="ESP", M. Serie Xtra HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/568/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Acción HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/576/index.m3u8
 #EXTINF:-1 group-title="ESP", Hollywood HD
@@ -1015,8 +912,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/577/inde
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/579/index.m3u8
 #EXTINF:-1 group-title="ESP", M. Comedia HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/580/index.m3u8
-#EXTINF:-1 group-title="ESP", LaLiga TV Bar HD
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="ESP", Bethel TV
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/597/index.m3u8
 #EXTINF:-1 group-title="ESP", Fox Life España
@@ -1053,6 +948,8 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/617/inde
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/618/index.m3u8
 #EXTINF:-1 group-title="ESP", Telesur HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/803/index.m3u8
+#EXTINF:-1 group-title="ESP", RT Español HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/482/index.m3u8
 
 #EXTINF:-1 group-title="ESP",LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
@@ -2811,6 +2708,7 @@ http://5.101.141.2:8002/play/Boomerangplus1
 
 #EXTINF:-1 group-title="IPTV",Insight HD
 http://5.101.141.2:8003/play/a007
+
 
 #EXTINF:-1 group-title="NhacTH" tvg-logo="https://i.imgur.com/qiDlmkG.jpg",Paris By Night 124 - Anh Cho Em Mùa Xuân HD
 http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN124.mkv
