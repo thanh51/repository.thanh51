@@ -106,6 +106,16 @@ http://66.70.129.43:8080/Arena3-SRB/index.m3u8
 #EXTINF:-1 group-title="Sports",ARENASPORT 4
 http://66.70.129.43:8080/Arena4-SRB/index.m3u8
 
+#EXTINF:-1 group-title="Sports", Arena Sport 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1 group-title="Sports", Arena Sport 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1 group-title="Sports", Arena Sport 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 group-title="Sports", Arena Sport 4
+http://46.40.5.99:8000/arena_4_high
+
+
 #EXTINF:-1 group-title="Sports",Наш Футбол HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/25/index.m3u8
 #EXTINF:-1 group-title="Sports",Football 1 HD
@@ -2231,623 +2241,234 @@ http://ms001.happytv.com.tw/live/gRiiECgkvPnyDN9w/playlist.m3u8
 #EXTINF:-1 group-title="ChinaTV",Wei Lai Movie
 http://ms007.happytv.com.tw/live/RpRiAwttnzeFegH1/index.m3u8
 
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/oOnpFes.png" tvg-id="79daf3c3a52163449ef3f3870f0f8dc4",MBC Every1
-http://59.5.191.131:9981/stream/channelid/1140054649?ticket=D510939E00E922C0E93224BA12F96F5CBB3AF31F&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvg-id="a96fe98db60edebd040ea244a8c4571e",신세계쇼핑
-http://59.5.191.131:9981/stream/channelid/233402281?ticket=B7024659CB0E9E9F75844D54D3B39330A46C9DCB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvg-id="808e15c03844a0a36fa1f5ac1bee87da",신세계쇼핑
-http://59.5.191.131:9981/stream/channelid/1075154560?ticket=5227939ED784D138A316C2ACCB69642770CAED20&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-id="9ff2fe5204149458198adf07c96f78de",CJ오쇼핑
-http://59.5.191.131:9981/stream/channelid/1392439967?ticket=BC70B6D5BD451507F9E4E734E2DE35A013E52AB3&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="94919c2dbb24a5621879d40e26d83a74",SBS
-http://59.5.191.131:9981/stream/channelid/765235604?ticket=21CEAB24D1F7127C26170D42A6921A48F9026837&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="207e8944c2197a7133eab5abea8e8140",SBS
-http://59.5.191.131:9981/stream/channelid/1149861408?ticket=B2481E7C3A84A583DA049C439B6130FFBB9A2887&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="166ae1c9a62af450df1d99013d65f2d4",SBS
-http://59.5.191.131:9981/stream/channelid/1239509526?ticket=BB830157E81582F94E52857CBD44F55F9389B5F7&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="35e0ba52f6d3d32a1d93f6251ab0a50d",SBS
-http://59.5.191.131:9981/stream/channelid/1387978805?ticket=757F15525BD3554D834A8589F55CD69FBC3DC6BB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="31aef9fbb95335df8c4e153b82c34650",SBS
-http://59.5.191.131:9981/stream/channelid/2079960625?ticket=B36F092CB621477CB5AD0B1EE126166AD224ED4D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2bCfj0y.png" tvg-id="87754daa32a136e5d6565f55e5e6225f",롯데홈쇼핑
-http://59.5.191.131:9981/stream/channelid/709719431?ticket=43280D0EA244142FA0B110FEC5D7F0992A9AD5F3&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2bCfj0y.png" tvg-id="808bb8b38145374110ca324578e7cbde",롯데홈쇼핑
-http://59.5.191.131:9981/stream/channelid/867732352?ticket=E9A8511017A7427CDF803CFFCE80E316F0A2CEBA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="78235b8c0fa1222117be7ce52ca929b5",KBS2
-http://59.5.191.131:9981/stream/channelid/207299448?ticket=D4EA107D0A59F3729726A5989535056F8E157EF0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="2a3a5cab13ec80317974b6c0caeeb93c",KBS2
-http://59.5.191.131:9981/stream/channelid/727464490?ticket=1D3A244F831A82B58384C5436BA3B022B7788526&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="208e0c5d575fb75ee84ad615d0de5106",KBS2
-http://59.5.191.131:9981/stream/channelid/1561103904?ticket=C6CA46CA0F7FA5220400F507B2D4E385CD90A671&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="a61d5360b3f7750a7b3e353b0ce0a4e1",KBS2
-http://59.5.191.131:9981/stream/channelid/1616059814?ticket=0A887E4096E22265059C27DE9BACE6329DE52EE3&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="04a1cc73793d90f8b43dbbd78f56f184",KBS2
-http://59.5.191.131:9981/stream/channelid/1942790404?ticket=44F6688596C0EDDCD5B6D63B83B4D70218AF124D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-id="86ce19c599e3f2cd15577d6f2277cd55",GS SHOP
-http://59.5.191.131:9981/stream/channelid/1159319174?ticket=99AAE05C4C64BD44CBF1A0E70A829E8D3B15B7FB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-id="24e2ef5973154d2a9599f0584cf4f5ba",GS SHOP
-http://59.5.191.131:9981/stream/channelid/1508893220?ticket=0B20DB82D1A107E41203C0703924A639C7E5FE96&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="56c0041fc1438bfb44fe18f74888b998",KBS1
-http://59.5.191.131:9981/stream/channelid/520405078?ticket=5DFF85EF58C63672763FDCFEE15E5CE4F5295DC0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="fc6cabce654ac3e71dce45e74839ffd3",KBS1
-http://59.5.191.131:9981/stream/channelid/1319857404?ticket=F2A80CFEE94D192FFA3CB5B67B2651CC7F5F19EB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="00665e7d02881cb7ee7fc6723c001298",KBS1
-http://59.5.191.131:9981/stream/channelid/2103338496?ticket=7FE0AAA8A118B9CD60ECAFD5ADCF0BD9F7C4993B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/87fdrA5.png" tvg-id="24567723ab13aebf90de359dbd3ecd0b",현대홈쇼핑
-http://59.5.191.131:9981/stream/channelid/595023396?ticket=E396B1EEA9F8409435ABF6F66A40E2CA0469FB2C&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/87fdrA5.png" tvg-id="1d7a783f4765c2f50407a2559c9cd012",현대홈쇼핑
-http://59.5.191.131:9981/stream/channelid/1064860189?ticket=2F313D32FB16C437CB287B5BD4950A26D71DB3EA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/87fdrA5.png" tvg-id="97141a7174bd808910b13bd9a72007b1",현대홈쇼핑
-http://59.5.191.131:9981/stream/channelid/1897534615?ticket=28B334AFF10BA337722D83C6EC990A20B2674EC8&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="0fe8bc03d39e7cd6ca43da1f711342f0",MBC
-http://59.5.191.131:9981/stream/channelid/62711823?ticket=780C07D5356CB1590EDE630661D4859880680630&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="27d7819a13f4ffec8e83c4867312910a",MBC
-http://59.5.191.131:9981/stream/channelid/444716839?ticket=6926948035CBDE6437D529033056954A61EE7634&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="479bbd2b3d62acedbcdd86712cc44aad",MBC
-http://59.5.191.131:9981/stream/channelid/733846343?ticket=332D0F2163D238CDA5E78A01F512667A1A87DDEC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="944c22bb461b2283faff57f8a57af31f",MBC
-http://59.5.191.131:9981/stream/channelid/992103572?ticket=90F9D23D67082B317A7830095B96F67B91FF4757&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="2bc462eae9964c3429c27daaa11e3fb0",MBC
-http://59.5.191.131:9981/stream/channelid/1784857643?ticket=2C28F52C7A98010C895124987E2A8105D5D15111&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/UD1yoj1.png" tvg-id="e8d57185844743e5d6c6d9a0ac7ccce5",NS홈쇼핑
-http://59.5.191.131:9981/stream/channelid/91346408?ticket=74D506AC3F667276E664A14DABF5CC9AD32BBC31&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/UD1yoj1.png" tvg-id="1bc702163aeecff951ef6842ad32b955",NS홈쇼핑
-http://59.5.191.131:9981/stream/channelid/369280795?ticket=CF255236910025D7A9307B11213B8535AE20A2D6&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WViFruZ.png" tvg-id="c75803b55effba8181265d6b6f247fe5",EBS
-http://59.5.191.131:9981/stream/channelid/889411783?ticket=5F4B74A150698623BF09F73980AA4CC395B20F48&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WViFruZ.png" tvg-id="7ac50d48f16c95489969e7353436f6e8",EBS
-http://59.5.191.131:9981/stream/channelid/1208862074?ticket=10D40D6917334179AA907C15CC58822365D535EE&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WViFruZ.png" tvg-id="04da13fd24b02ba8242a69d2f1472ed5",EBS
-http://59.5.191.131:9981/stream/channelid/2098452996?ticket=EDD34B3B3EE83BED89E5F4FAC3683AD2671BE573&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-id="71b2ae166485f500eaa3d00c4046cc43",홈&쇼핑
-http://59.5.191.131:9981/stream/channelid/380547697?ticket=631E1B2DDE541B10F07846AAA2CA20D7F2B74DF6&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-id="ff3934400f5c3220257329d93920d8fd",JTBC
-http://59.5.191.131:9981/stream/channelid/1077164543?ticket=0A190007742A2065E2D7C08E89942E2CFEC9135B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-id="5d72bde15faf7c3b0d820bb75714dcdd",MBN
-http://59.5.191.131:9981/stream/channelid/1639805533?ticket=721BC020DED11DC8241F628E078DD7D8CD74F11D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="d0966eb4d9793b85d3117590e4c4b7d4",tvN
-http://59.5.191.131:9981/stream/channelid/879662800?ticket=23F9A52A60D161CF9D961E26F1510172B942B6F1&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-id="4c9203d29e5e480e9ef6002864dbdda6",채널A
-http://59.5.191.131:9981/stream/channelid/1375965772?ticket=2940BC960C8B582F4132C4D2A11537EED6EE27AB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-id="949e798592003d2bc4ee1abd577e13bb",TV조선
-http://59.5.191.131:9981/stream/channelid/91856532?ticket=3AFA5904E8FCD4505FB4FA96A0C984BC32534474&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="8f458a983d9e56b035e9b790a5be1a19",K쇼핑
-http://59.5.191.131:9981/stream/channelid/411714959?ticket=6D115011C984273A92CF62B4AB886C7A110E3FA5&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="be1fa56b28f0a6b61bef11fd99e779ad",K쇼핑
-http://59.5.191.131:9981/stream/channelid/1805983678?ticket=A64ED22C328F79FDC4FA93659C7700482D7C7C24&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="bbc15cf4fae019de09997015ccd3772e",K쇼핑
-http://59.5.191.131:9981/stream/channelid/1952235963?ticket=12FD8000B3173DFA6FA9B318E57141070C3FC7A5&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="185c2efd3b45d26d6bb25d46625b8bcb",K쇼핑
-http://59.5.191.131:9981/stream/channelid/2100190232?ticket=C8629BE378B777E575DFF48C765DCFE2F6D55655&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="c171ca7f0e15858ee3d43db4e31930f4",K쇼핑
-http://59.5.191.131:9981/stream/channelid/2143973825?ticket=50D9F0BC411D55C07535114F86211A7246DD6963&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/IXh6dwo.png" tvg-id="a6d758c06a68a3c080fc5fca575084e1",OCN
-http://59.5.191.131:9981/stream/channelid/1079564198?ticket=74B8D6651081131E7F4216BD319A8CDC50D136A0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/E3pJ5Jz.png" tvg-id="5665db04e27d5ce1ce3df527565babba",공영홈쇼핑
-http://59.5.191.131:9981/stream/channelid/81487190?ticket=343000CFF0DC03DB961212EA61916A5A8CA581AF&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/KlTCP8V.png" tvg-id="e931d62bdf66f46b2a007f19f7abe9fb",연합뉴스TV
-http://59.5.191.131:9981/stream/channelid/735457769?ticket=0320BF248C9345A8D24F1A858E373345A88061E4&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-id="aaf8aa2d15797baa41476e7648aada4d",YTN
-http://59.5.191.131:9981/stream/channelid/766179498?ticket=9445BBA8BD0470EA60C95718E616CD957967B6F4&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-id="668225e4f291668657cc04037eef19c2",YTN
-http://59.5.191.131:9981/stream/channelid/1680179814?ticket=8006B1C2AF96B541131F4A95913EEFE0C752C2CF&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/DJHN8M6.png" tvg-id="a655172128ddaea7504f514713a7aee8",OBS
-http://59.5.191.131:9981/stream/channelid/555177382?ticket=B41069F4C6D8128D2F1DE1D3B367514A9EE25E1B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/DJHN8M6.png" tvg-id="65f299fe79a184bd87eb7ba73eaa48cb",OBS
-http://59.5.191.131:9981/stream/channelid/2124018277?ticket=B6F25C9FA0A57B0C843681B765F191FBC63EBC42&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/putHm2b.png" tvg-id="6d9bf121e2234c149a4912bd13a6fd54",Mnet
-http://59.5.191.131:9981/stream/channelid/569482093?ticket=DCA3028BBD3B34A1B7D00C5EDBBE268919E066B8&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WlK2YDk.png" tvg-id="026c57441b29979c30e9bc1c3e0c6858",CJ오쇼핑플러스
-http://59.5.191.131:9981/stream/channelid/1146579970?ticket=4A314AB21C62FFD965FC6ED05A7DAA505D475187&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="https://i.imgur.com/8pwPc5R.png" tvg-id="a4e1114fd480570ecdf3af18e4760bfa",SK stoa
-http://59.5.191.131:9981/stream/channelid/1326571940?ticket=A068847773A65E2C2C2F6ECC5C5C2F448D153B4E&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvg-id="27f53d2fa896cda30d948579ceeb1580",SkyDrama
-http://59.5.191.131:9981/stream/channelid/792589607?ticket=F85138761588F0B941850F683C8DB203300F3046&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvg-id="7cc919d0e8016054ca236a805547d5d5",SkyDrama
-http://59.5.191.131:9981/stream/channelid/1343867260?ticket=5B67AC1C044CD9EBC020D7243E50F1F2FFC302AB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvg-id="fdead9ec38cc4203079e10f9180fda43",SkyDrama
-http://59.5.191.131:9981/stream/channelid/1826220797?ticket=14AE74F5739EC6D7A592D4B305F7CF454A388170&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Q7FHxYB.png" tvg-id="a525160e4d4322ebad3bccb5bf2e7e41",쇼핑엔티
-http://59.5.191.131:9981/stream/channelid/236332453?ticket=24C2D203B2BC8AEC3EC879629B27FD7DBE270EDA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvg-id="e5d9b7c4271dad32d757a3dde0e5b09e",현대홈쇼핑+샵
-http://59.5.191.131:9981/stream/channelid/1152899557?ticket=33C42B6B234528E1E9074B43CB344DE11CA7CDDB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvg-id="474408e362db04d36869579e7ca57cac",현대홈쇼핑+샵
-http://59.5.191.131:9981/stream/channelid/1661486151?ticket=0CC63CA2985E68FCE800EBC8B9BC5F2CA1EEB8FD&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvg-id="5afda867b37838195c3a4fda2309adae",현대홈쇼핑+샵
-http://59.5.191.131:9981/stream/channelid/1739128154?ticket=3E6B95C88B9C52F195E8C07D366B4A60F63AA183&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0Y0pRW4.png" tvg-id="aa7b400336cd74d630e6d3f301e2ef62",GS MY SHOP
-http://59.5.191.131:9981/stream/channelid/54557610?ticket=0F558D271420363C43A861101F9A0263AAE503D8&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Cged9ve.png" tvg-id="5e0435de148363d34cda7a55632e3a28",W 쇼핑
-http://59.5.191.131:9981/stream/channelid/1580532830?ticket=E28288D484C70E35491B591773C30100AF9CA70A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/vri0qlq.png" tvg-id="0307d52c231c17c615a58580c21b8f9a",롯데원티비
-http://59.5.191.131:9981/stream/channelid/752158467?ticket=484CAF1204EF8C2DCB12F1EEC7575F1521AB08AB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/vri0qlq.png" tvg-id="33eb6262c14646f2131c9b605b4f425f",롯데원티비
-http://59.5.191.131:9981/stream/channelid/1650649907?ticket=5488223CDD263D50A5B228290DB0EE4FEF54ECAD&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0SMl3O5.png" tvg-id="53ff07b6ac964c96a95a5a7f5b97beb7",O tvn
-http://59.5.191.131:9981/stream/channelid/906493779?ticket=AC268023DB4C646D2F2CBAF904669041F27DC8FA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/4ESaIH6.png" tvg-id="fb69a5910c9abe058d956a6c79730ed0",드라마큐브
-http://59.5.191.131:9981/stream/channelid/296053243?ticket=80B45DDCDA70BE3A001FB2E12C668441E06BA66C&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/4ESaIH6.png" tvg-id="55b34d21ffa45f85ad7d9d7a0ddad047",드라마큐브
-http://59.5.191.131:9981/stream/channelid/558740309?ticket=F13908E73DF10ACE392C070AE883285201B04F83&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ALqDHH6.png" tvg-id="6ac6458e9ea8574a7f6f64d784e4b309",SkyENT
-http://59.5.191.131:9981/stream/channelid/239453802?ticket=66AAA5F96DCE3E2D8ADBC91236CE51CDBA89393A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ALqDHH6.png" tvg-id="479a523005cd275e5ae009caf4272f94",SkyENT
-http://59.5.191.131:9981/stream/channelid/810719815?ticket=0A82CED0F7F6A2A89A98375487B019B89FA7A585&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cIpIf6b.png" tvg-id="da192d8c76e559a09202c90aa4c94a4a",SPOTV
-http://59.5.191.131:9981/stream/channelid/204282330?ticket=4327A754AB10CD54D9573E058284B8D4CE26C952&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cIpIf6b.png" tvg-id="8c6f7ae108b2d4e819161c044d8fea34",SPOTV
-http://59.5.191.131:9981/stream/channelid/1635413900?ticket=1D845792748599EEEDA87CEFED3C8E65E49703FC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/GNicmGY.png" tvg-id="f6ae20f794941a5de741eade307d13d0",SPOTV2
-http://59.5.191.131:9981/stream/channelid/1998630646?ticket=721903131458189DF7118D9E6D775DF582EFAB66&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/wOOQEC1.png" tvg-id="26cdf94987046c5257b1f866cd123197",IB SPORTS
-http://59.5.191.131:9981/stream/channelid/1241107750?ticket=61173CA799F306345FC75AC89BA5FA68A75C9FF5&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QHV9bdA.png" tvg-id="a741868df13860cda65ccdd28e8b4e01",SkySports
-http://59.5.191.131:9981/stream/channelid/226902439?ticket=6E32BC524EF3A936333A40E2057E3C0031F5D68A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QHV9bdA.png" tvg-id="6d3da8112ff97738db930a7c2ca1526a",SkySports
-http://59.5.191.131:9981/stream/channelid/296238445?ticket=B05A1A9A314D267EB9833F12EEA3CC940010C25E&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QHV9bdA.png" tvg-id="5621f7b25cf606ee846639cdc9fc8a2e",SkySports
-http://59.5.191.131:9981/stream/channelid/855056726?ticket=5C1D17E91F913994275768CA2D2356DB808D9788&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/3VlCrJ7.png" tvg-id="cb49e7fcb864849a74a743c817d83231",Golf Channel Korea
-http://59.5.191.131:9981/stream/channelid/2095532491?ticket=D6C6EF8C50A990733882A2D648DF9E956A92A6C2&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Bnw7O5U.png" tvg-id="b2daa07719c8701339c94585009dc3c6",JTBC Golf
-http://59.5.191.131:9981/stream/channelid/2007030450?ticket=3C72E69C9A1202F78409E0475686DB713CECED62&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Bnw7O5U.png" tvg-id="67b6107ccdebebc3011d76ce68523b79",JTBC Golf
-http://59.5.191.131:9981/stream/channelid/2081470055?ticket=603B2E7227DF3F5729CBFFC559F1E5DD8F98FD46&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/j1vHAu6.png" tvg-id="a70cb4411fed54a4d69bd0c5adaded59",SBS Sports
-http://59.5.191.131:9981/stream/channelid/1102318759?ticket=250D265FDB7FE4FC70FC545CE941559886B6B625&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xspD7UE.png" tvg-id="54bc620785a326f254b8817bb70ad50a",KBS N Sports
-http://59.5.191.131:9981/stream/channelid/123911252?ticket=08B8CADF04357B6396DA88060B4DF1A241AE3158&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xspD7UE.png" tvg-id="314bf72893cb4980fee89da6e76c6802",KBS N Sports
-http://59.5.191.131:9981/stream/channelid/687295281?ticket=49D6A297FD72AFEF4D3A89C54E4279FAB995A375&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Su21uj3.png" tvg-id="2bd02995a880b99284051dec61a8c5d1",MBC SPORT+
-http://59.5.191.131:9981/stream/channelid/355061803?ticket=8A9BB4A5BC4A66BF1967B66C490DD5A7BA0573A5&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Su21uj3.png" tvg-id="ae3f986484ed5f9c2f67be363f166ff9",MBC SPORT+
-http://59.5.191.131:9981/stream/channelid/1687699374?ticket=DB5781A74DB5DD988A8556132AAC4DC62B3E8529&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/l1OEn7O.png" tvg-id="cf2a6b3a89540b8e41867b9092af26ca",국회방송
-http://59.5.191.131:9981/stream/channelid/980101839?ticket=8A242DF97B79352AA49AC8FCFAFFD33AAA69B2F2&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/l1OEn7O.png" tvg-id="a8419adf446195d291bf177901147481",국회방송
-http://59.5.191.131:9981/stream/channelid/1603944872?ticket=88BA8C7B255E036BB2A42E74E9D89584AFA03E48&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/qK9KkRd.png" tvg-id="29d520b9f0cc6a6be8a1043afed72255",캐치온1
-http://59.5.191.131:9981/stream/channelid/958453033?ticket=B4E4686B6C20B2C2A564204D411222C5415A59CE&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/lCGq3v1.png" tvg-id="9be2e4816af92eb41ea6a6722ff5df1a",CNTV
-http://59.5.191.131:9981/stream/channelid/31777435?ticket=7FAE23F78CBFD8147DCF2FC541E8B4ED644A0378&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/lCGq3v1.png" tvg-id="58102a08de5637193d5a9a356daed199",CNTV
-http://59.5.191.131:9981/stream/channelid/136974424?ticket=E40B0AA74AA90BE07D36D8ACA1A6B0905E501B84&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2FwWidb.png" tvg-id="88a8fd0167c37ec45c22821c2ea025de",C TIME
-http://59.5.191.131:9981/stream/channelid/33400968?ticket=454875A0F065FD998E1C35375D78E21B3BF0A393&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2FwWidb.png" tvg-id="90e5adf469593f625b9dd936fefd73dc",C TIME
-http://59.5.191.131:9981/stream/channelid/1957553552?ticket=D78DA9619F0188687E249780F5666CC7F3079100&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xT7pVuI.png" tvg-id="2daa1ecafa458bce1e42f8d1233bcc1f",드라마H
-http://59.5.191.131:9981/stream/channelid/1243523629?ticket=96195FFDEAB9E5C64708C929F1CCA67B8AA61D61&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xT7pVuI.png" tvg-id="653c2e5c164a7f17cb1d7a1d64d408ba",드라마H
-http://59.5.191.131:9981/stream/channelid/1546533989?ticket=2E65FD11D7F261DF19AA105B3E4F4A30C035B30D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/1qXSXRa.png" tvg-id="300ab0e52b84dad85ab551dcf2968c1b",GTV
-http://59.5.191.131:9981/stream/channelid/1706035760?ticket=5497C55F005E989C6C19A43078F67283ADF117C2&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/V9CQ4A6.png" tvg-id="ce31662c785e3fbef1798687c12b8599",하이라이트TV
-http://59.5.191.131:9981/stream/channelid/744894926?ticket=B1C20D909517A819A22159DD69C778AFC7AE00CD&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/V9CQ4A6.png" tvg-id="6bba6869373439d8b4e6d2ba520210e0",하이라이트TV
-http://59.5.191.131:9981/stream/channelid/1768471147?ticket=9DBE7F1FF927FE8B7B8E6216B8A5BBFC34810438&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="https://i.imgur.com/gGqDBjb.png" tvg-id="36ea8c49a9e8aeadd4c30fd39d449bc1",XtvN
-http://59.5.191.131:9981/stream/channelid/1233971766?ticket=6BF17DFF09F43EC9F9CBC59CE2900E8975743CDA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9brMDfR.png" tvg-id="6b859a49cfc20b6e87c4e3fc0dd36850",온스타일
-http://59.5.191.131:9981/stream/channelid/1234863467?ticket=8E23B4703BB5FA2C4D2BB3F40F69F9EA8E9CCB35&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gsnjG4A.png" tvg-id="e2936b9004484dd5e8ad9b815ce2218b",Edge TV
-http://59.5.191.131:9981/stream/channelid/275485666?ticket=3E28290FA8285A4AA39E3797E45B4F1347081628&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gsnjG4A.png" tvg-id="2420ba4336cdffb0f5b04ce92593daa8",Edge TV
-http://59.5.191.131:9981/stream/channelid/1136271396?ticket=6A9A3C531690083AB95E63C844C2577D9F0ECA48&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uZkbU7b.png" tvg-id="bea9d29d2c198550259b922f0346eead",OBS W
-http://59.5.191.131:9981/stream/channelid/500345278?ticket=5D78EB68B4F554EA5D228052D57887D52192D404&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uZkbU7b.png" tvg-id="12aa0376a86c57551d9ea234e9875915",OBS W
-http://59.5.191.131:9981/stream/channelid/1979951634?ticket=3E70DE14178D11CFC87B4E02B426133E6C00DCEB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/AlmV8jS.png" tvg-id="e07d6ec223411ab82b77dd39cc93605f",동아TV
-http://59.5.191.131:9981/stream/channelid/1114537440?ticket=CD99DFBAACCC55E32B3ADCF4A854B95FEAFDC6AB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/AlmV8jS.png" tvg-id="e8c0024d0f2c914d08ca859e207f4f48",동아TV
-http://59.5.191.131:9981/stream/channelid/1292026088?ticket=F91E975CD87D27D0613370C8DDAC65649A9FBEE8&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="fcd9b280d9904ff2089f0f5c478822da",포커스 무비
-http://59.5.191.131:9981/stream/channelid/11721212?ticket=B47032C84DFCA9861A8DF1757402DCCE0DF21E4F&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="5cb40e0e5dbb5e879517f064fc2f7a26",포커스 무비
-http://59.5.191.131:9981/stream/channelid/235844700?ticket=33BD20C9FEFCACC44DB75F2DF25B70E9769588FD&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="a87cdb1a65888a567ec4820cc87df949",포커스 무비
-http://59.5.191.131:9981/stream/channelid/450591912?ticket=92E2DC679F236F1EA41AC8FFFE7182820F17C27B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="ea4f5eeff3a1ff0655ef07d980c610a8",포커스 무비
-http://59.5.191.131:9981/stream/channelid/1868451818?ticket=0BCC0AF953F03C1F1E78B2CC34104E12270C441D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/JYQpemw.png" tvg-id="5abec624b4028e3d358b117f97313322",아이넷TV
-http://59.5.191.131:9981/stream/channelid/617004634?ticket=0B3EF95815517A306978C0AA46F01985089CF65C&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/JYQpemw.png" tvg-id="6b8c532560707d56acffe5a2549297fc",아이넷TV
-http://59.5.191.131:9981/stream/channelid/626232427?ticket=F5A33C0C09565F11C1B58BC34DC9251F4D336820&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/RIrBF4D.png" tvg-id="8f6484d697d0108cf90809c37c5943df",EBS2
-http://59.5.191.131:9981/stream/channelid/1451517071?ticket=A14B104CC2F04A55EE15C91B54288EA2BFD41005&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6g56RDx.png" tvg-id="d708db31c596988fdce5f7df7c7bdc35",MBC MUSIC
-http://59.5.191.131:9981/stream/channelid/836438231?ticket=11539D8A86EE8D82450DD86F76EA86BB608D49C0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/rRisTh8.png" tvg-id="363bdff54eb8a32534d2a40511f510a8",채널A 플러스
-http://59.5.191.131:9981/stream/channelid/1977563958?ticket=C4E4592C22C8DD34872257046EFFD2CD5B84FD12&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dOOBYJm.png" tvg-id="8505ca312d003045490e4e918ffc40be",mplex
-http://59.5.191.131:9981/stream/channelid/835323269?ticket=8CB79789B37B94EB0D25D90CA8FD9291424C4261&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dOOBYJm.png" tvg-id="52088757f08aee4d7fd187d0d38e1154",mplex
-http://59.5.191.131:9981/stream/channelid/1468467282?ticket=28B87DEAA40F3F1744D465A33CBBF62523284552&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Nal18s5.png" tvg-id="6eb9d6bec25287c82c92926196254925",중화TV
-http://59.5.191.131:9981/stream/channelid/1054259566?ticket=B1F64D063A274B016F579D6B5031831A387D33DC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Nal18s5.png" tvg-id="34225a4a5fbb8c48c31e9bb136d20131",중화TV
-http://59.5.191.131:9981/stream/channelid/1247420980?ticket=B09237F994E1AAFA9B851E1FA30B574BC9C6D063&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gleMSFq.png" tvg-id="18bc850d7327c77c1f4e1875cdc2a464",AsiaN
-http://59.5.191.131:9981/stream/channelid/226868248?ticket=9618E2FE1A645D0388B4F6ED5080873B600F6651&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yBChQVh.png" tvg-id="d0d691f96b9fcb1cf1184d54b6e00737",히어로액션
-http://59.5.191.131:9981/stream/channelid/2039600848?ticket=26DCF79FD26AF54FC4DDFFABD75710DC7665DACC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/8nE7mmk.png" tvg-id="fae57c2623c92242b4317af865bf7462",디원
-http://59.5.191.131:9981/stream/channelid/645719546?ticket=4439054B885C6DE6BF94A852A94A2A1B5BB35B07&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/8nE7mmk.png" tvg-id="6dc65b3650cb9403f6ca6bcb79c7f611",디원
-http://59.5.191.131:9981/stream/channelid/911984237?ticket=20BE76912F354F38E08B251C75D6E3DF803299BF&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/f0OW8wX.png" tvg-id="6271b54b19dc613740b4a5cfe1b8f71a",빌리어즈티비
-http://59.5.191.131:9981/stream/channelid/1270182242?ticket=CF60867309587E04079ED0C31618853724B42E83&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/f0OW8wX.png" tvg-id="6d6427cf9e632700389adfb512437899",빌리어즈티비
-http://59.5.191.131:9981/stream/channelid/1327981677?ticket=51A43C0254EC548336AF42DBBDA318F748BA6DBD&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/4nLYnVC.png" tvg-id="8ee371a0c1a76f493a3f3d35b7b246cf",마운틴TV
-http://59.5.191.131:9981/stream/channelid/544334734?ticket=A37803C1F71A090AB0C132127F5A691EB8F51F9B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/4nLYnVC.png" tvg-id="1486f8379ed85ab846df9c7bc73ca8a3",마운틴TV
-http://59.5.191.131:9981/stream/channelid/939034132?ticket=4442DF995FA91AE035750BFA61256E0FF0630DFA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/eI9wGgS.png" tvg-id="f879fa82c6c857867d5a1d50c5f48070",FTV
-http://59.5.191.131:9981/stream/channelid/49969656?ticket=924CF943C938534B3F3B64A1EEA15DC56A64DFB9&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Go4FdK1.png" tvg-id="3891b7b01763f75224cf3d42058f232d",FISHING TV
-http://59.5.191.131:9981/stream/channelid/817336632?ticket=57C0FAFB35601D7FA0E6337802E304FF7240F0FA&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Go4FdK1.png" tvg-id="42eb6f51f6fd7f0bc1b4a57cdfeae166",FISHING TV
-http://59.5.191.131:9981/stream/channelid/1366289218?ticket=249C314969F3142E004FEF2F4EE65624EC0F7705&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/jbRu8T2.png" tvg-id="4f7a33f0f7a4a76490486d7a4e2ade4e",바둑TV
-http://59.5.191.131:9981/stream/channelid/1882421839?ticket=28AFE11B82214AA6E8867F08F1B0E330853A89FC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EAk5ySy.png" tvg-id="578cdd87ee2e1e95a4af4cb755a32b32",K-바둑
-http://59.5.191.131:9981/stream/channelid/131959895?ticket=B2A542CD432A5155A4AA42DE842FE71A5B2FB206&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EAk5ySy.png" tvg-id="f0e3371ef589083728a4bd9dfeb60849",K-바둑
-http://59.5.191.131:9981/stream/channelid/506979312?ticket=5021F7C11F4ACE0E7462044585E768F6414B4B0F&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/1422kP1.png" tvg-id="c1ade6de331fa3cb738f3536ffa1ffa7",브레인TV
-http://59.5.191.131:9981/stream/channelid/1592176065?ticket=4FC6BA40513770AE43929FF6FEBD32491514EB95&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tLtSTaq.png" tvg-id="e6cd24d1fc8cd38fba8f88c15d801d6a",OGN
-http://59.5.191.131:9981/stream/channelid/1361366502?ticket=1103BC954B7D5A0CC86020DF8D057C5E8F4A040B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/5IMfa6N.png" tvg-id="14d8d030a8d90002764fa43e70d35757",SPOTV Games
-http://59.5.191.131:9981/stream/channelid/818993172?ticket=BE3B5C8AF3BF4D687E0AB4FDE8B25240EA7B34A4&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fNuqGzR.png" tvg-id="cb674674419c496d2c18c8d8001858f0",CMC가족오락TV
-http://59.5.191.131:9981/stream/channelid/1950771147?ticket=B3F7F4D835F619E808209ED7C721EC943C7A8316&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/PYnXtlb.png" tvg-id="62c98c9a2974c93cf8124508f4f93dca",리얼TV
-http://59.5.191.131:9981/stream/channelid/445434210?ticket=06A1A15E95FB61012E997B9BA4CB5F3F44445426&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/IK9h4rw.png" tvg-id="f220d4c03a9ce9d5cbabc2bf0ec483dc",놀티비
-http://59.5.191.131:9981/stream/channelid/1087643890?ticket=9CEB1D8DBEF6D6B3E0AFA22DF09798D7662C7A7F&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/aghufJ7.png" tvg-id="c08ed150c27cec3e4410525edb61b2d6",폴라리스TV
-http://59.5.191.131:9981/stream/channelid/1355910848?ticket=455210F6F451CE16B4BEFD71AEF99874FF2DB47A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/qZdqeZo.png" tvg-id="c586c4e74d503131fba8619275b4ffb3",Disney Channel
-http://59.5.191.131:9981/stream/channelid/1740932805?ticket=1F9E7C52C4BD689FD29CEA04D75C70026E02F75D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/sIp2MZ3.png" tvg-id="9fbc0a4c5317c6783a46ddc73aeb00aa",애니원
-http://59.5.191.131:9981/stream/channelid/1275772063?ticket=78E1E10DB269CE1D548FF5DD9CF0C8FABE8DADBE&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cJZHPjr.png" tvg-id="92100b6b590978ca9327c8e2b35140ef",카툰네트워크
-http://59.5.191.131:9981/stream/channelid/1795887250?ticket=D80CC867A6EC5CC6AFC09EF16FAE3E2000AB256B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/7RKoOZq.png" tvg-id="15545cd37345c07690ed7fc4fe44f06b",애니플러스
-http://59.5.191.131:9981/stream/channelid/1398559765?ticket=3D94AB3E4926E0FABB75F49391AE37E349D7AA52&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/CETWIE6.png" tvg-id="3000e2a0fa3487164fc8d41c65511425",대교 어린이TV
-http://59.5.191.131:9981/stream/channelid/551682096?ticket=5D9B77030641D9AE92740C65FAE5B3FB07CECD26&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/CETWIE6.png" tvg-id="26d0acdbe7b48a611dd4b18d4a285273",대교 어린이TV
-http://59.5.191.131:9981/stream/channelid/1538052134?ticket=EE648AE08EE5DF524E8C79BCA08E252EE1570AB1&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/NoNRdSt.png" tvg-id="7593a0a3d2e9e296c76de1348e686152",JEI 재능TV
-http://59.5.191.131:9981/stream/channelid/597726069?ticket=E4B055B44872DB8CC72E27537E42EFF4A85C86BE&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/NoNRdSt.png" tvg-id="28ba2bd91865dddc2b666cae8b613d77",JEI 재능TV
-http://59.5.191.131:9981/stream/channelid/1496037928?ticket=1E577CC2AF08A9A473FECBD2490DF4D3D8BA845E&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/f8T1Sw4.png" tvg-id="55dec69fa0cfe1de1f117e7d1d1db783",키즈원
-http://59.5.191.131:9981/stream/channelid/533126741?ticket=FB9186AF25517E327C05711414F05C1577AECF64&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="7be358ace8d78966125bff9acc36cb98",포커스 키즈
-http://59.5.191.131:9981/stream/channelid/744022907?ticket=0DD646EAB5289DBDFC14CC04F741EB5AFB8A52EC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="3df3f7323fc6a22352d875707459bc4b",포커스 키즈
-http://59.5.191.131:9981/stream/channelid/855110461?ticket=418198E76D3F3B8454FA6A9830B70B01875EC9F1&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="ed6e82d2352867a5faa9ef50719649f6",포커스 키즈
-http://59.5.191.131:9981/stream/channelid/1384279789?ticket=980B3801168FE97D2316B29FB7438500282B0D75&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-tvg-id="06a5a45cc8bcca496dcfba8c0a2e6a1b",포커스 키즈
-http://59.5.191.131:9981/stream/channelid/1554294022?ticket=EEF727385C72D5424F84F397012A8182D4F643F0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EGiEKhj.png" tvg-id="168908b9078745ebf1ca633978086a46",디즈니주니어
-http://59.5.191.131:9981/stream/channelid/956860694?ticket=A078641F01E69D048DD84662E51D8B95FD0B22D1&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EGiEKhj.png" tvg-id="ed91ecda6b36f50862bbf0c0a6a92a51",디즈니주니어
-http://59.5.191.131:9981/stream/channelid/1525453293?ticket=A4DDE9A3849B4BEB71304615087E1A1A5EB55B43&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Rx4mgpm.png" tvg-id="0973cecb4ff708df18cf9cb50928f360",EBS English
-http://59.5.191.131:9981/stream/channelid/1271821065?ticket=792524CB06A45C1DF9C4D4FDDC67D5A9DB2A5991&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/luZjU1e.png" tvg-id="da2b0ed64d29f20843e05da976f82ba7",SkyICT
-http://59.5.191.131:9981/stream/channelid/1443769306?ticket=8DE9FFDDA744D95C1AEECACC55EC2EA4C2F245A8&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/M4nh0Rk.png" tvg-id="758471330a33f8d683a8e7f027467697",NatGeo Wild
-http://59.5.191.131:9981/stream/channelid/863077493?ticket=7A243EF42BA1C3B2B9CBE98DA384B2263E2A429D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/M4nh0Rk.png" tvg-id="818698ecb06fdbee781d2f2286fc03ae",NatGeo Wild
-http://59.5.191.131:9981/stream/channelid/1821935233?ticket=62F283484FC8615D5900D0CA30862C53E7732E19&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SJZjuqO.png" tvg-id="3c98296e16c9c53fd1aefc747db17063",BBC Earth
-http://59.5.191.131:9981/stream/channelid/1848219708?ticket=9E2E79A2C379E60C483489831F5A34C0F7B95BC0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/BNxE2zT.png" tvg-id="8e56b6a92f126a892b308b06a2b297e5",Sky UHD
-http://59.5.191.131:9981/stream/channelid/699815566?ticket=986EBBAA829492FA85A49A0EB0B6DDE5B8789B47&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/BNxE2zT.png" tvg-id="36d3b4ad3f35717163d1a146fd11f3e2",Sky UHD
-http://59.5.191.131:9981/stream/channelid/766825270?ticket=5DE72128BE5279238F689D2CACF771537997BFA7&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gwDHYGf.png" tvg-id="f80cac162cb315fb575004e1efe51060",YTN 사이언스
-http://59.5.191.131:9981/stream/channelid/380374264?ticket=86F8D1806AE0AA59D4FA0EC072B3135963F88B85&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gwDHYGf.png" tvg-id="493a23cb4d8837ae5cf6faf8ae771070",YTN 사이언스
-http://59.5.191.131:9981/stream/channelid/1260599881?ticket=39536466B95ED80C7CF083F2FCEDD56086CCFC22&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ChnD0FT.png" tvg-id="49e554dd796ff19d9b6d647ef84cc625",한국경제TV
-http://59.5.191.131:9981/stream/channelid/1565844809?ticket=529465156895945F7A7A29A6E8F5C18D3F0052A8&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ChnD0FT.png" tvg-id="bee5597b82730ab791bd120bbe2cf412",한국경제TV
-http://59.5.191.131:9981/stream/channelid/2069489086?ticket=28AFA4B9E9AF5255EB1B4EBE3A00116848887AAB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/joWd14j.png" tvg-id="d430312f6cea1021cab65015aec4a404",머니투데이방송
-http://59.5.191.131:9981/stream/channelid/791752916?ticket=0CB58B250F5677FEAE1737CC14923FE300CA4AAE&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/a4PwnPm.png" tvg-id="d244400c4a8cdec9a3a1370e26a03b07",매일경제TV
-http://59.5.191.131:9981/stream/channelid/205538514?ticket=5152EF1F0C7486C2B26EC6E836EF771A7CBE5CE0&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/a4PwnPm.png" tvg-id="d6d5bd93e0072b22be636a5354838be5",매일경제TV
-http://59.5.191.131:9981/stream/channelid/331208150?ticket=EC46F84EAE2BFEFE4AEAE340B08A59CA50B98D02&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/W90Hw2p.png" tvg-id="2c7bb257c0ff8e0c2ee439fddb00ce60",이데일리TV
-http://59.5.191.131:9981/stream/channelid/1471314732?ticket=C59F9C5C2206ABD151A45302D241BCCFE2A11F7E&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ePLp200.png" tvg-id="02aacc9286438f2af4778be7822e04b4",부동산토마토
-http://59.5.191.131:9981/stream/channelid/315402754?ticket=4A6A6A065F3D5C9DF5E4CD0FBCD2C4FBA391A175&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/RxsYny9.png" tvg-id="8d5ac29f4889db234e48177f42118a5a",CNN International
-http://59.5.191.131:9981/stream/channelid/532830861?ticket=C6272582AAFD334C55C9F251CF5B518474B8B8E2&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cTV0rnb.png" tvg-id="19e5c851e7a80e899d2b64c870f55af0",복지TV
-http://59.5.191.131:9981/stream/channelid/1372120345?ticket=998546E3F4CEFD0310986579EE4E60E28079DA58&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/PR4w3i2.png" tvg-id="3492a9bdbf04ee8643b5da49f1e5eb97",HGTV
-http://59.5.191.131:9981/stream/channelid/1034523188?ticket=F34B97BAB6CE3B253D6BFCC80E8FA43212784C41&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/G5fTCL3.png" tvg-id="c680a29ba72fc6b39878b7c83971c812",가톨릭평화방송
-http://59.5.191.131:9981/stream/channelid/463634630?ticket=E7EE24C15F02DCB545C038FEE00F172198A7C123&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/G5fTCL3.png" tvg-id="252dd354f63d24e96785c065a7d45045",가톨릭평화방송
-http://59.5.191.131:9981/stream/channelid/1423125797?ticket=992D5F57EE2742419E4C4F50A664B624072D901A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/B34jpmo.png" tvg-id="12bb5b06acc2d69ed0a9ea7f4728b4ab",BBS불교방송
-http://59.5.191.131:9981/stream/channelid/106674962?ticket=0DB74ACEEB4EAE1E69996511CD302BCE71D647F4&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XU4pwpC.png" tvg-id="bd5341afa092f3555e3a3a849b726f65",BTN불교TV
-http://59.5.191.131:9981/stream/channelid/792810429?ticket=66B13940D581C0EB503009049CC65A28FC70DA40&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XU4pwpC.png" tvg-id="75dc1f669052c9b50b2083f2156ebaf5",BTN불교TV
-http://59.5.191.131:9981/stream/channelid/1713364085?ticket=4572BA43817561F56681C9E01EDBCD68F21FABEC&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fFN1YJb.png" tvg-id="16617cec05930ba92a9a3ace42a71ad3",Good TV
-http://59.5.191.131:9981/stream/channelid/1820090646?ticket=FFE897CDBD7EF1A1EE864C9E956DC712871DC52D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SFouN1c.png" tvg-id="e4e8984136d883f786a653c55bd7481d",C Channel
-http://59.5.191.131:9981/stream/channelid/1100540132?ticket=3011364634D23CC77016FD5CF3A243126906BBDF&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/lW9nvaB.png" tvg-id="66b359d22e81d0d387cb08684c0295fd",CTS기독교TV
-http://59.5.191.131:9981/stream/channelid/1381610342?ticket=F0146EF68142453FB257806C29FD233D11C6AE33&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9fNvKEX.png" tvg-id="5514e58ee37c569abf85f3cf9803250d",CGNTV
-http://59.5.191.131:9981/stream/channelid/249893973?ticket=D6B3BA2464BD59B0C9393F2EFC664AD49A1532D9&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9fNvKEX.png" tvg-id="9b99205b5e381eca88e874e8be9d0426",CGNTV
-http://59.5.191.131:9981/stream/channelid/1528863131?ticket=3D8F70936600C37A76CAB41A6FA137827C20272B&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yBNo2mS.png" tvg-id="40c8334ad42196dccc47bbcb9a356372",CBS
-http://59.5.191.131:9981/stream/channelid/1244907584?ticket=15A3FE122D5A4663284102288F824EBBDC88180D&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/NP2KTGN.png" tvg-id="56e942f59c32b1d412263de0f66e6a4c",TRENDY
-http://59.5.191.131:9981/stream/channelid/1967319382?ticket=11CBF4665B5B324812C2E42E70DB9A07EFB8031A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/3k1D4LA.png" tvg-id="500486e21b05b4c1605747b12b869acf",소상공인방송
-http://59.5.191.131:9981/stream/channelid/1652950096?ticket=9B64A2427D41A20D0E2A76BBF2EA0D486C32E05E&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/3k1D4LA.png" tvg-id="db7c036706c0854ee196b19e381cad6b",소상공인방송
-http://59.5.191.131:9981/stream/channelid/1728281819?ticket=D8AAFE370C359AFDB461D5BBB4EBBDAA1761CA04&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yyXkYzJ.png" tvg-id="85b4e23282ad992ff47f5432b33ffdd1",국방TV
-http://59.5.191.131:9981/stream/channelid/853718149?ticket=803C1BEBB508AFD81D27FD31CB6D13EC55514639&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yyXkYzJ.png" tvg-id="7b5a017b80b85d91e4147f56817f1caf",국방TV
-http://59.5.191.131:9981/stream/channelid/2063686267?ticket=92470C8D980BA386C60333126E3727B5C64BC8AB&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/1Eeyijd.png" tvg-id="ce91c3c2efb115a48e3fd25f86fcc392",이벤트TV
-http://59.5.191.131:9981/stream/channelid/1120113102?ticket=F5E725510838DC2EE6C7FCF86951B1FEA523367A&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ACwvhcc.png" tvg-id="9f0a26ed9bd0bc0480aa80e7bbeac891",CCTV4
-http://59.5.191.131:9981/stream/channelid/1831209631?ticket=0D30A4322B3E649632FBD0625C61FAC3A736ED41&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/5Ni1YIT.png" tvg-id="c80f683eadd48dd94d819709ae2098fb",KBSN Life
-http://59.5.191.131:9981/stream/channelid/1047007176?ticket=80311B047F106A157A093067FB6441BCF36C9D89&profile=pass
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gefY5Bw.png" tvg-id="8acbcbc6f968437fac765fda71b8f3f6",생활체육TV
-http://59.5.191.131:9981/stream/channelid/1187761034?ticket=30AC68E8EB1BD3382C189E1DE4D9F52342A36995&profile=pass
-
-#EXTINF:-1 group-title="KoreaTV",SBS 플러스
-http://175.115.38.192:9981/stream/channelid/767146867?ticket=FD1A43C3E7F840732B4360D6B8D34AEA5414939A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",홈&쇼핑
-http://175.115.38.192:9981/stream/channelid/1055695522?ticket=6558C2F5F199657A90D2EB9A7DB8F26A945E4C0A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",홈&쇼핑
-http://175.115.38.192:9981/stream/channelid/1284949984?ticket=8884B0E37658F0C6C1D13E96F59B9751F0875AAA&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS
-http://175.115.38.192:9981/stream/channelid/1184333100?ticket=52AA795B47AD80C76A3E35BC61C5529C802367FD&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS
-http://175.115.38.192:9981/stream/channelid/1212117977?ticket=043970C95AE6BA687FD1E4D7E1161AFCB50509B8&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS
-http://175.115.38.192:9981/stream/channelid/1836274084?ticket=9817F5008CC2C2D20C727514582BC42801D38F62&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS_knn
-http://175.115.38.192:9981/stream/channelid/1322001504?ticket=81CF7F170A04BF47432BB74BD0F5A3A7AFF3D49D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",TJB 대전방송
-http://175.115.38.192:9981/stream/channelid/1748748447?ticket=4F438561ED12E403700577071134E6DAB62A785B&profile=pass
-#EXTINF:-1 group-title="KoreaTV",CJ오쇼핑
-http://175.115.38.192:9981/stream/channelid/405485980?ticket=06ED6EF241FE029996D57EF98010D3A5B7F37A97&profile=pass
-#EXTINF:-1 group-title="KoreaTV",CJ오쇼핑
-http://175.115.38.192:9981/stream/channelid/1127079862?ticket=1C49937FEFE6F59690CA0B452169015E0A2F2F68&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS2
-http://175.115.38.192:9981/stream/channelid/1971774588?ticket=E12AF7B9C82C7D327307260C3F86E1A2501F1760&profile=pass
-#EXTINF:-1 group-title="KoreaTV",현대홈쇼핑
-http://175.115.38.192:9981/stream/channelid/1968230880?ticket=93B33FBEEDF2705B56EBEFD190B030C410A13972&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS1
-http://175.115.38.192:9981/stream/channelid/1049778829?ticket=17C18D95A651EF411E3360C2B4B30E6A0849F41E&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS1
-http://175.115.38.192:9981/stream/channelid/1194454464?ticket=57D86E01843421776FED737A94E093C2735EACA4&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS1
-http://175.115.38.192:9981/stream/channelid/1293286393?ticket=CE26126129289AF5106252F01A5FD966A5124CDD&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS1
-http://175.115.38.192:9981/stream/channelid/1563030633?ticket=AFD66E3D41DF00161DB4D5FD1B986A7606B7659C&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS1
-http://175.115.38.192:9981/stream/channelid/2116698399?ticket=E557F10041433E5884A80A094058DED7862F3DCF&profile=pass
-#EXTINF:-1 group-title="KoreaTV",롯데홈쇼핑
-http://175.115.38.192:9981/stream/channelid/1798174879?ticket=84E9929C12F56E3F356D39DF4899883E0382E2CA&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC
-http://175.115.38.192:9981/stream/channelid/310362081?ticket=7AFCD8EC7BD620ADB32F894F6EB657B0B4222E04&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC
-http://175.115.38.192:9981/stream/channelid/760483773?ticket=8E8253848016CEE7C33EDF226E951672A0FAF39C&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC
-http://175.115.38.192:9981/stream/channelid/2136092191?ticket=2954348DBC75103EB6F81EA964D068D1B039DB7D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",광주 MBC
-http://175.115.38.192:9981/stream/channelid/2091843334?ticket=E41565E1646BE35CE3B68973456F73BEFDAFE424&profile=pass
-#EXTINF:-1 group-title="KoreaTV",부산 MBC
-http://175.115.38.192:9981/stream/channelid/1153133091?ticket=FB58B95D65332C24F22C300DDDF55C43FB44851C&profile=pass
-#EXTINF:-1 group-title="KoreaTV",GS SHOP
-http://175.115.38.192:9981/stream/channelid/1988754960?ticket=AD7EBF16BC032D682BFD21E4E8309F65B1EAFD77&profile=pass
-#EXTINF:-1 group-title="KoreaTV",NS홈쇼핑
-http://175.115.38.192:9981/stream/channelid/591343556?ticket=62068F8981EF9BD97709746A7564896F35370ABB&profile=pass
-#EXTINF:-1 group-title="KoreaTV",JTBC
-http://175.115.38.192:9981/stream/channelid/981108811?ticket=1D526A0AFA5B8208AA1C586BB345A91D0454A6E6&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBN
-http://175.115.38.192:9981/stream/channelid/482609722?ticket=5B1B9BD944F7A842BDD99C6493E7ABD2B97CDAEE&profile=pass
-#EXTINF:-1 group-title="KoreaTV",tvN
-http://175.115.38.192:9981/stream/channelid/595290194?ticket=9F851D18441042A977EFC75136504168BF6A03FB&profile=pass
-#EXTINF:-1 group-title="KoreaTV",채널A
-http://175.115.38.192:9981/stream/channelid/633172395?ticket=EDE7D4CE5FD887F3278C7A92B9ADB665312E4CD1&profile=pass
-#EXTINF:-1 group-title="KoreaTV",TV조선
-http://175.115.38.192:9981/stream/channelid/1919477969?ticket=2276885CBF4AA6D60EE986981CB084D0F7DC6B3C&profile=pass
-#EXTINF:-1 group-title="KoreaTV",OBS
-http://175.115.38.192:9981/stream/channelid/314205928?ticket=1B58EDA1BE8E463C21A1FA85719D0D13E9A7A32A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",신세계쇼핑
-http://175.115.38.192:9981/stream/channelid/291089268?ticket=88B32643B3445DA75E2115B3E7D3CBC0902E9F89&profile=pass
-#EXTINF:-1 group-title="KoreaTV",연합뉴스TV
-http://175.115.38.192:9981/stream/channelid/349686503?ticket=1E0F0826981783DF0ADA1AA78272F15744A0F500&profile=pass
-#EXTINF:-1 group-title="KoreaTV",YTN
-http://175.115.38.192:9981/stream/channelid/710442445?ticket=5ED90B899704CEECA534BAF04E96024A79801E93&profile=pass
-#EXTINF:-1 group-title="KoreaTV",K쇼핑
-http://175.115.38.192:9981/stream/channelid/600263644?ticket=569CC5C548873B786614F23CB1D70B7FEE76B42E&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS CNBC
-http://175.115.38.192:9981/stream/channelid/982671558?ticket=4A84E9E57A4431E3BA1E0027E4AD44BCB56CC385&profile=pass
-#EXTINF:-1 group-title="KoreaTV",M.net
-http://175.115.38.192:9981/stream/channelid/460304153?ticket=9A9F82E213D7738264905961F0C4A50452AD5132&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC Every1
-http://175.115.38.192:9981/stream/channelid/590472665?ticket=256B325930F68C5570683063E1ED18487E9A371A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",GS MY SHOP
-http://175.115.38.192:9981/stream/channelid/1102597201?ticket=2A6E317169298D060FFF3C6626DD7E45FC762FF4&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS 드라마
-http://175.115.38.192:9981/stream/channelid/1137402923?ticket=DF71AD85682D909BDEEEBE9D946FF7F702596403&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC 드라마
-http://175.115.38.192:9981/stream/channelid/1414690913?ticket=4D8B34873C7560BD5433E5BF60AE6E8DA17C732C&profile=pass
-#EXTINF:-1 group-title="KoreaTV",O tvN
-http://175.115.38.192:9981/stream/channelid/1407840548?ticket=B2002E64FB4C4C9B1023550441FAA83BBC97F0BA&profile=pass
-#EXTINF:-1 group-title="KoreaTV",W쇼핑
-http://175.115.38.192:9981/stream/channelid/2112660080?ticket=D7A2E22B1D84269F7A203C0B04B5CA78B98AC60F&profile=pass
-#EXTINF:-1 group-title="KoreaTV",sky Drama
-http://175.115.38.192:9981/stream/channelid/972385110?ticket=110C524EB7B1DB7C72B45F6D211C5C6B75009878&profile=pass
-#EXTINF:-1 group-title="KoreaTV",NS Shop+
-http://175.115.38.192:9981/stream/channelid/632038948?ticket=69CD9A0FE3A8981383756CDB019797C09368738E&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Highlight TV
-http://175.115.38.192:9981/stream/channelid/1385851028?ticket=57DCA987F8CE6BE1A1AF5B153D0D8206AB55C84D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",CNTV
-http://175.115.38.192:9981/stream/channelid/901414206?ticket=3948B19C0B3D1C960C9E1E38CF51BE43A846236B&profile=pass
-#EXTINF:-1 group-title="KoreaTV",EDGE TV
-http://175.115.38.192:9981/stream/channelid/1772307374?ticket=7F48722E233D3863B243A6E569036DE2D49237C9&profile=pass
-#EXTINF:-1 group-title="KoreaTV",드라마H
-http://175.115.38.192:9981/stream/channelid/1621075583?ticket=2F74921FBFBD5947A1C3BC3C1175178487F19FE3&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Ch CGV
-http://175.115.38.192:9981/stream/channelid/192145733?ticket=C6FFAAF12D8661920CE2D8E976AC6C77C8C28530&profile=pass
-#EXTINF:-1 group-title="KoreaTV",OCN
-http://175.115.38.192:9981/stream/channelid/2023758705?ticket=C0E2C7CCAE1876A2275E3F94286EA804441F6B4A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SUPER ACTION
-http://175.115.38.192:9981/stream/channelid/1311438156?ticket=5BC26480611C0CE12590C7DE5EE4BFA3EEC39EC0&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Mplex
-http://175.115.38.192:9981/stream/channelid/821693459?ticket=A5083A481977337ED7E99674D5AAFE7F92CCDD76&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS joy
-http://175.115.38.192:9981/stream/channelid/232349596?ticket=D65AF51D4F011DF4414849B750E5C664DA673155&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS fun E
-http://175.115.38.192:9981/stream/channelid/1527678879?ticket=BE56AC416B7A6501787E869F2428400445591AC9&profile=pass
-#EXTINF:-1 group-title="KoreaTV",jtbc2
-http://175.115.38.192:9981/stream/channelid/1088712766?ticket=60C4740C04DFD50CCCC4E512858B9A4AF8B8F55D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",E채널
-http://175.115.38.192:9981/stream/channelid/1929700752?ticket=2042DAA0F287833CEBE130B3A274C423BFB47517&profile=pass
-#EXTINF:-1 group-title="KoreaTV",XTM
-http://175.115.38.192:9981/stream/channelid/935976712?ticket=13920036992200BD4B2BA929FF9F794D37F22EE5&profile=pass
-#EXTINF:-1 group-title="KoreaTV",C TIME
-http://175.115.38.192:9981/stream/channelid/1235293067?ticket=E59E0515009A9E11314C07FDE9BBF4F9F8B19099&profile=pass
-#EXTINF:-1 group-title="KoreaTV",K star
-http://175.115.38.192:9981/stream/channelid/469487269?ticket=32B7377D6030EF89905C187638BDEA6E90D7DE4B&profile=pass
-#EXTINF:-1 group-title="KoreaTV",CMC 가족오락TV
-http://175.115.38.192:9981/stream/channelid/874459872?ticket=F3437024A6807DE75162812ED22E3FF541518B9A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",DIA TV
-http://175.115.38.192:9981/stream/channelid/1303129982?ticket=A92355C73A83BB18503AE4B9FF4C4A111F5BC70D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",AMC
-http://175.115.38.192:9981/stream/channelid/486648417?ticket=DE1930532CD790DC8ABB1C1EF7CB679CC0FCC299&profile=pass
-#EXTINF:-1 group-title="KoreaTV",FOX
-http://175.115.38.192:9981/stream/channelid/1930083391?ticket=56141EBC3770BEEB7CBF79AB5D8863A55032541D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Asia N
-http://175.115.38.192:9981/stream/channelid/1441662149?ticket=95A7DAEE8F792827D15E9979472E0EF5D948FBA0&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SPOTV
-http://175.115.38.192:9981/stream/channelid/751474358?ticket=6CF03B9D2B76EB7FC27D53F037E78FF43F3CCEA0&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBSN 스포츠
-http://175.115.38.192:9981/stream/channelid/899908685?ticket=42E017884B6FCF6C42C5D31921B920B0826D7653&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS Sports
-http://175.115.38.192:9981/stream/channelid/1257374110?ticket=9704B09A89E07A5F31E72D8C976C28F79199D1D4&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC Sports+
-http://175.115.38.192:9981/stream/channelid/631506534?ticket=AC6EAC6121390E95118B4D976CC464BDD3B72167&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC SPORTS+2
-http://175.115.38.192:9981/stream/channelid/170725203?ticket=DA8A21BDECE05776BCD6B01735E8796CC22596DA&profile=pass
-#EXTINF:-1 group-title="KoreaTV",sky Sports
-http://175.115.38.192:9981/stream/channelid/964906154?ticket=F3A1C6E8E3AA384498CFFF7A4AD9044489F06F41&profile=pass
-#EXTINF:-1 group-title="KoreaTV",JTBC3 FOXSPORTS
-http://175.115.38.192:9981/stream/channelid/1833936046?ticket=06C12007B5F45FC703E8BC746C20C4E99D5B9FFF&profile=pass
-#EXTINF:-1 group-title="KoreaTV",IB Sports
-http://175.115.38.192:9981/stream/channelid/1288227632?ticket=17F8B1E40D8CEBD5E55821D6505E07FBFEA19D5D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS GOLF
-http://175.115.38.192:9981/stream/channelid/316388772?ticket=B4C44E882BDDD70CBA65723122C3B368DBD6DD54&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Golf Channel Korea
-http://175.115.38.192:9981/stream/channelid/2054658051?ticket=030465FEAF48502140E7DAE10267DB7FD75408B1&profile=pass
-#EXTINF:-1 group-title="KoreaTV",OGN
-http://175.115.38.192:9981/stream/channelid/2056560687?ticket=2FDE156919418C153317FBD96FD391170ACD4BF6&profile=pass
-#EXTINF:-1 group-title="KoreaTV",토마토TV
-http://175.115.38.192:9981/stream/channelid/1782603167?ticket=2B3F1F57A1500FAAD6F40557200F422A017C8314&profile=pass
-#EXTINF:-1 group-title="KoreaTV",한국경제TV
-http://175.115.38.192:9981/stream/channelid/1375624789?ticket=5E8A85A9E94A33ECAC61EBAB935AB9083B76E8AC&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MTN
-http://175.115.38.192:9981/stream/channelid/1561859196?ticket=D2B582FB3A2151148D75242733D7F10C46CAF288&profile=pass
-#EXTINF:-1 group-title="KoreaTV",매일경제TV
-http://175.115.38.192:9981/stream/channelid/1189238407?ticket=AFA155F33FFDCA2C31B782C2B2AFFE1E1DD993FC&profile=pass
-#EXTINF:-1 group-title="KoreaTV",아시아경제TV
-http://175.115.38.192:9981/stream/channelid/1832754040?ticket=E6D5AE74AD469407D27A7AC99550C67B7725139B&profile=pass
-#EXTINF:-1 group-title="KoreaTV",이데일리TV
-http://175.115.38.192:9981/stream/channelid/806153734?ticket=81A7AE8F6347C65FF3099A1EAF52F8AA6F4F3C49&profile=pass
-#EXTINF:-1 group-title="KoreaTV",CNN US
-http://175.115.38.192:9981/stream/channelid/184320814?ticket=B88229AE8FDA13A95A209A56822DF4D5A3BF8A91&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Tooniverse
-http://175.115.38.192:9981/stream/channelid/1924640190?ticket=274944588826D665C17777F5AA1A62C67CF03114&profile=pass
-#EXTINF:-1 group-title="KoreaTV",디즈니채널
-http://175.115.38.192:9981/stream/channelid/752686590?ticket=AEAD93CF109CCC3E58D3394A3CBF572A0E5EA1D9&profile=pass
-#EXTINF:-1 group-title="KoreaTV",디즈니주니어
-http://175.115.38.192:9981/stream/channelid/1239689437?ticket=FE74B300C2DD595C4C0D9B54540C0E6A1F428D3A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Nickelodeon
-http://175.115.38.192:9981/stream/channelid/281849188?ticket=AE164B67ADDAA696019C7A95CC1EB0DD5B057EEF&profile=pass
-#EXTINF:-1 group-title="KoreaTV",애니플러스
-http://175.115.38.192:9981/stream/channelid/1445915029?ticket=94ECFEEC564100F1DE1B224B66EEC2065B60F692&profile=pass
-#EXTINF:-1 group-title="KoreaTV",애니박스
-http://175.115.38.192:9981/stream/channelid/1404438975?ticket=D9272C44B244082F0DDC2CC174F23A1261AECBAE&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS KIDS
-http://175.115.38.192:9981/stream/channelid/619714483?ticket=9FA153CB58BA2C9ED8D4D5BBDFACFFA2CE36127A&profile=pass
-#EXTINF:-1 group-title="KoreaTV",어린이TV
-http://175.115.38.192:9981/stream/channelid/822296515?ticket=027426805D7C7F35FE37D67370E14E67A62B76EA&profile=pass
-#EXTINF:-1 group-title="KoreaTV",EBSu
-http://175.115.38.192:9981/stream/channelid/339127437?ticket=649363E49D138F870964C4C4E6E0A9811E834570&profile=pass
-#EXTINF:-1 group-title="KoreaTV",EBS +1
-http://175.115.38.192:9981/stream/channelid/948399534?ticket=A3FC19C33096C2474D7F4D97E5946DAB52DB59FB&profile=pass
-#EXTINF:-1 group-title="KoreaTV",EBS +2
-http://175.115.38.192:9981/stream/channelid/904144319?ticket=5D1F35A7B4ED70570D8F3B0E30CB768935BA2D70&profile=pass
-#EXTINF:-1 group-title="KoreaTV",On style
-http://175.115.38.192:9981/stream/channelid/1599913784?ticket=25EA9F9DD8F3E71C0140117F07565F852C8E9F89&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Food TV
-http://175.115.38.192:9981/stream/channelid/1323213812?ticket=C115CFB7C86B83348F8D43B4DF6000A0ABA06828&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KBS W
-http://175.115.38.192:9981/stream/channelid/1679645717?ticket=9515995089895EE6620DA4992A8F8B052B9D5E2E&profile=pass
-#EXTINF:-1 group-title="KoreaTV",동아TV
-http://175.115.38.192:9981/stream/channelid/186714389?ticket=69899B90F08CE50BD1E4DAAA8921B389EF1F7246&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SBS MTV
-http://175.115.38.192:9981/stream/channelid/322695694?ticket=52277E01CA50752DB606138B7986A322E672E7AD&profile=pass
-#EXTINF:-1 group-title="KoreaTV",MBC Music
-http://175.115.38.192:9981/stream/channelid/369095493?ticket=807775F3AA3BF6649C5271177FDB79E295537C50&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Arte TV
-http://175.115.38.192:9981/stream/channelid/1674803157?ticket=58FC700B8CDDF99E5FB106EDB55B6BD6B9350C62&profile=pass
-#EXTINF:-1 group-title="KoreaTV",바둑TV
-http://175.115.38.192:9981/stream/channelid/460739930?ticket=55AD432B4E8EC90D2CB83A2463BB2269D57CAF48&profile=pass
-#EXTINF:-1 group-title="KoreaTV",K-바둑
-http://175.115.38.192:9981/stream/channelid/1192655354?ticket=4ACB84238E0EC4F922198F81F001154C5FC7A9DC&profile=pass
-#EXTINF:-1 group-title="KoreaTV",FTV
-http://175.115.38.192:9981/stream/channelid/416056554?ticket=FC2FD947236F316AC06173CAA3AC835F473D6FFA&profile=pass
-#EXTINF:-1 group-title="KoreaTV",FISHING TV
-http://175.115.38.192:9981/stream/channelid/1735580157?ticket=5014800757D5108B2343845FC7BBD214E60248DB&profile=pass
-#EXTINF:-1 group-title="KoreaTV",SkyTravel
-http://175.115.38.192:9981/stream/channelid/148911022?ticket=B466B72A5605AD494A9A06B9CCFD151E56ABBE12&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Mountain TV
-http://175.115.38.192:9981/stream/channelid/993787568?ticket=3C318A645AD0AF1952744285AD5E86ED4E8B9A91&profile=pass
-#EXTINF:-1 group-title="KoreaTV",폴라리스TV
-http://175.115.38.192:9981/stream/channelid/1495614158?ticket=4FD787249B7146B08C8A7EF6F7DA4872A4D7E2F8&profile=pass
-#EXTINF:-1 group-title="KoreaTV",YTN 사이언스
-http://175.115.38.192:9981/stream/channelid/1018995733?ticket=BBDB2C7F587BA3C6BC5A28B3BAD2AE5DE587CC52&profile=pass
-#EXTINF:-1 group-title="KoreaTV",Natgeo Wild HD
-http://175.115.38.192:9981/stream/channelid/633302598?ticket=6C2809227C101E55F0EFC34195848D4C44078EAF&profile=pass
-#EXTINF:-1 group-title="KoreaTV",헬스메디TV
-http://175.115.38.192:9981/stream/channelid/1757724215?ticket=BCFC794604C598A5F0C88ABC960304A94DD077CF&profile=pass
-#EXTINF:-1 group-title="KoreaTV",아리랑TV
-http://175.115.38.192:9981/stream/channelid/410944560?ticket=08087128E768030E8A1BD990D428C03959DBECAD&profile=pass
-#EXTINF:-1 group-title="KoreaTV",KTV
-http://175.115.38.192:9981/stream/channelid/1399442934?ticket=E36AD7E203B775571FA249FC69D0CC81C4D0619D&profile=pass
-#EXTINF:-1 group-title="KoreaTV",C채널
-http://175.115.38.192:9981/stream/channelid/161533876?ticket=1D77A5866575E8706FDA2FC39AFF772AF265C77B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/asfyrTm.png" tvg-id="73bbb9ad1b3d0f01b1fd53bf161c0fab",SBS 플러스
+http://175.115.38.192:9981/stream/channelid/767146867?ticket=0762FA9795BCD9B3F4760FD15C3666222FF207D7&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-id="a2a2ecbe769a2a947a1d61f8f823aa05",홈&쇼핑
+http://175.115.38.192:9981/stream/channelid/1055695522?ticket=ABE947595A5AE3FBD627EA6080C4B140CAEDB0E9&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-id="e0c796ccc7f9aa656c56c1318e41e0ab",홈&쇼핑
+http://175.115.38.192:9981/stream/channelid/1284949984?ticket=131B86B06EC7B0A782997991AAD0FA6E18A2C05C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="2c7d97c6b08f519260e9c5309db903fc",SBS
+http://175.115.38.192:9981/stream/channelid/1184333100?ticket=8DD8951A914503BEF8C5BFFF76E685495B81925B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="d9733fc855b7b89505e0bb62f1365748",SBS
+http://175.115.38.192:9981/stream/channelid/1212117977?ticket=82371C46E189702B151F35666A3D222533262C44&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="a451736dc59887d1b0bb45196fc78843",SBS
+http://175.115.38.192:9981/stream/channelid/1836274084?ticket=B9DCD54C7CFB8E72353016FA3B64118683E382BC&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="6024cc4e3aabfb6337bcdd1bf2957243",SBS_knn
+http://175.115.38.192:9981/stream/channelid/1322001504?ticket=E6ACDD0B920C4C8DBEE0C791472A9A0B29024DB8&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9JAy4Bu.png" tvg-id="9fc83b68dbbf34bff47ea4b826965bb1",TJB 대전방송
+http://175.115.38.192:9981/stream/channelid/1748748447?ticket=22FE087B8CC19C786C7B98D4B1CA837CFE0EAB1B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-id="9c392b18d9e41e84c5aeed4ddf447232",CJ오쇼핑
+http://175.115.38.192:9981/stream/channelid/405485980?ticket=9FB84343F04FE7A2D299672A343C75ACA516BA49&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-id="b6df2d43bac974902f85039e8147dcf3",CJ오쇼핑
+http://175.115.38.192:9981/stream/channelid/1127079862?ticket=950B00D214339CC23A867D36658116D23D4BE007&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="7ce486f5dd134d39a1cfb2b4d71650cc",KBS2
+http://175.115.38.192:9981/stream/channelid/1971774588?ticket=88762372FBC1809961659687E8B3D83CA2C6C86C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/87fdrA5.png" tvg-id="e0d150751747383937849bf3eefc578d",현대홈쇼핑
+http://175.115.38.192:9981/stream/channelid/1968230880?ticket=A785139BD1DDB5D2093D20133F2771BA34838E32&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="8d5a92be64ba15d8eec88b3a84a167a7",KBS1
+http://175.115.38.192:9981/stream/channelid/1049778829?ticket=E7FFAB69E12EFEE737B35EA988AF0788AAEB4FA6&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="c0ed31c731a29d3467b6644365e1c974",KBS1
+http://175.115.38.192:9981/stream/channelid/1194454464?ticket=A82960FDBA42F41A476BB94F1390BC5B0496E31F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="f9fb15cdc5c7db29fd139433f68caa94",KBS1
+http://175.115.38.192:9981/stream/channelid/1293286393?ticket=EA2E233B3705A871120865E6FAED7203DA958012&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="69f4295debd32a568289de1fe5fcdbd8",KBS1
+http://175.115.38.192:9981/stream/channelid/1563030633?ticket=C720DDEFBC26749413C2CBEA72E6AED2CDB5F693&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="1f412afedc368c2fe8a56c9791c08b5f",KBS1
+http://175.115.38.192:9981/stream/channelid/2116698399?ticket=BFB0DC15C6A86451B126D27166576CB3B69163EB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2bCfj0y.png" tvg-id="9ff82deba95d3c70d61f576157c4a493",롯데홈쇼핑
+http://175.115.38.192:9981/stream/channelid/1798174879?ticket=0D0D8D150C2F63C2649220A1AE400C9CB5817C24&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="e1bf7f12c08faa1fd5fbf3e052ae7073",MBC
+http://175.115.38.192:9981/stream/channelid/310362081?ticket=8DEA1BE841EE39374CF180D3F9FE321AEB37B530&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="bd0f54adde11ba9d2cb51fc6cd2b9113",MBC
+http://175.115.38.192:9981/stream/channelid/760483773?ticket=77F8F85BA49E6E3DA9D8F29D689B9B88AEB63D07&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="1f2e527fa6a8e10e824f7e110208d741",MBC
+http://175.115.38.192:9981/stream/channelid/2136092191?ticket=3A8F2EF5A099A9293F4C6D8561A1D84594085FDD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="06ffae7c68dd439cb14eeb87744bfe2f",광주 MBC
+http://175.115.38.192:9981/stream/channelid/2091843334?ticket=B1467BFED3644E15D9B9DAC1CFC4D1F6B1A51DE6&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="236abbc43d3bacb42539f4420a106c2a",부산 MBC
+http://175.115.38.192:9981/stream/channelid/1153133091?ticket=A0E780318D5C3E22391BDCEA45D37E65723C024E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-id="10fe8976f8712531c019dba7eeddce88",GS SHOP
+http://175.115.38.192:9981/stream/channelid/1988754960?ticket=23D4EBA7A76909AD2D02BB021272DB29BF86BE09&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/UD1yoj1.png" tvg-id="c42f3fa369ab3e0a3053bae9d76f8a9c",NS홈쇼핑
+http://175.115.38.192:9981/stream/channelid/591343556?ticket=D8B11A2C8046AE15AADF75E5E316B1B7F77704F8&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-id="4b887aba3bf6d39dac3b177cacad7d59",JTBC
+http://175.115.38.192:9981/stream/channelid/981108811?ticket=8A08C974CAD6D762461189FBA222DC0A2DA638DF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-id="3a0ac41c30a3939687ea9e8cce096d45",MBN
+http://175.115.38.192:9981/stream/channelid/482609722?ticket=F7FB3F4B70BD2D0760E2E59E91C8B355889C7E96&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="52687ba3e49df7921f34dda5a1b79f65",tvN
+http://175.115.38.192:9981/stream/channelid/595290194?ticket=3E0BB29B24F751E635AC489CD9925F01F308B90A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-id="ab71bd25854e128a28b2cf3f2e799495",채널A
+http://175.115.38.192:9981/stream/channelid/633172395?ticket=8D3E09FF77997B84A42DFB99B4945B858B2CF348&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-id="d1e868f2034d0ec3b9921927761f963c",TV조선
+http://175.115.38.192:9981/stream/channelid/1919477969?ticket=9219410E4CD1C29ACAC544D2B07EDB41E32C53EF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/DJHN8M6.png" tvg-id="e866ba12699309d2d785d520fc2ea29c",OBS
+http://175.115.38.192:9981/stream/channelid/314205928?ticket=7A3015A3FF6FEA0F06DAC325146064278AA791E0&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvg-id="74ab59118a6753623ee0ad145eaf5c50",신세계쇼핑
+http://175.115.38.192:9981/stream/channelid/291089268?ticket=66EC3D31FEF02E365E1EA925D4066D27659F713C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/KlTCP8V.png" tvg-id="e7cad7946e261a19223a2a0505c1b76b",연합뉴스TV
+http://175.115.38.192:9981/stream/channelid/349686503?ticket=7ABB355BA24E9752A21C866C3EB8634AA3C43906&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-id="cd7d58aa1a87b5a5fa4d886637a8f9a3",YTN
+http://175.115.38.192:9981/stream/channelid/710442445?ticket=0C390C7DC2B808B5847E5DDABE356ACC5A2E079C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="dc4bc723446b33a368fa8def3d0cac78",K쇼핑
+http://175.115.38.192:9981/stream/channelid/600263644?ticket=54E2BB765E43240ADDCF7949EDE3B8C5752D2552&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SfDs4qN.png" tvg-id="c66092ba87b9b9e87212c6907611c8dd",SBS CNBC
+http://175.115.38.192:9981/stream/channelid/982671558?ticket=3F3650E716D268DA0B826262997685B33A5D200B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/putHm2b.png" tvg-id="19af6f9bb2d0965cc16df8c72d533bbe",M.net
+http://175.115.38.192:9981/stream/channelid/460304153?ticket=B0312606978C9294B8249838357560FD10F21255&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/oOnpFes.png" tvg-id="d9e531234a58e57fc8ce078207c051ee",MBC Every1
+http://175.115.38.192:9981/stream/channelid/590472665?ticket=98B9946DF401B274E6D09E7A690E1C099A07D8BA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0Y0pRW4.png" tvg-id="514cb8c111c4b3d145b90013ed7fcc46",GS MY SHOP
+http://175.115.38.192:9981/stream/channelid/1102597201?ticket=4440BB0B251F0A9F25220A8E39A2B5042DB3FC1D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/CrLMIEQ.png" tvg-id="2b64cb43e9f9f615921faccaae9c1b7b",KBS 드라마
+http://175.115.38.192:9981/stream/channelid/1137402923?ticket=CDD6011476D058B6033FF33762BC3D2F41D2E586&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/VBMFcZ3.png" tvg-id="617852d439c2a936e98130faa7817d99",MBC 드라마
+http://175.115.38.192:9981/stream/channelid/1414690913?ticket=2597A348FF795D4FD2E7B531AD79409AF76EE6B4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0SMl3O5.png" tvg-id="24f1e9536e20a9ddad65cd7ce280dee0",O tvN
+http://175.115.38.192:9981/stream/channelid/1407840548?ticket=DE631FF1612254C37FC39485E2FC02A7C9A7A025&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Cged9ve.png" tvg-id="70a2ecfd25988f4a1a96a165fe6b9f35",W쇼핑
+http://175.115.38.192:9981/stream/channelid/2112660080?ticket=E73A012A69878272B06B0C9CA739DF8FAEC854DA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvg-id="566bf539120e9932b0378b1cad24334d",sky Drama
+http://175.115.38.192:9981/stream/channelid/972385110?ticket=3920327F9700B43CF8C16E7AD2FDD4AB81A669E5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ipGXgEK.png" tvg-id="2426aca5b25db7d55543458c1ac2ed43",NS Shop+
+http://175.115.38.192:9981/stream/channelid/632038948?ticket=6CF36D9D4D2BF9997831EF4556884FD18B528082&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/V9CQ4A6.png" tvg-id="94689ad2e6892e49993aa7d8efb523d9",Highlight TV
+http://175.115.38.192:9981/stream/channelid/1385851028?ticket=DB5E8625E90986063FAFDE832E36DA0ED09E248C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/lCGq3v1.png" tvg-id="3e7dbab5d64357320c9e95ca26282999",CNTV
+http://175.115.38.192:9981/stream/channelid/901414206?ticket=1F23A8C104E6BD53A4B43277E660A905DDEA5A6E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gsnjG4A.png" tvg-id="ae43a3e9364617ae02668f9c20a891f6",EDGE TV
+http://175.115.38.192:9981/stream/channelid/1772307374?ticket=8430FB047A092CAA1ED0B5FF2C7E0EDC6F1EE8CD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xT7pVuI.png" tvg-id="7fa69fe068ee9fc2a9117926af1f7c03",드라마H
+http://175.115.38.192:9981/stream/channelid/1621075583?ticket=B0EEDA21B80AC68F63059250DBA099A3EEE87B27&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fwjRwkx.png" tvg-id="45e9738b7d109e2ddcea04f53df40ac1",Ch CGV
+http://175.115.38.192:9981/stream/channelid/192145733?ticket=F22416352004A4297D4B37C8081E5416A1BFB075&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/IXh6dwo.png" tvg-id="711ba0f80eed3f4a468f3040690feac5",OCN
+http://175.115.38.192:9981/stream/channelid/2023758705?ticket=2AABD288A1BB6858D37684DAE6312BF9D0C6637A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/D9PzDBr.png" tvg-id="4cf52ace452b9673bde7413a3b03fce1",SUPER ACTION
+http://175.115.38.192:9981/stream/channelid/1311438156?ticket=6869A0ADDCFF41C0D9F0CAAA637F417B849B61F0&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dOOBYJm.png" tvg-id="130cfa30e91b3fe4a0f5a5083653e6a4",Mplex
+http://175.115.38.192:9981/stream/channelid/821693459?ticket=8ADEBA11C43FD58ED20208405C98AC5BA0EB265A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/D1o9by9.png" tvg-id="9c5fd90d0f04c5f2575b10dfc7d58386",KBS joy
+http://175.115.38.192:9981/stream/channelid/232349596?ticket=CA30D58B5705A029DD11C9C0ECF44BE8664FBD53&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/D1EYJmr.png" tvg-id="9f870e5b91e999fe8653d03472fa14c3",SBS fun E
+http://175.115.38.192:9981/stream/channelid/1527678879?ticket=8B46C96821F98743E893C38547853DE630C973B2&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WtXDuFU.png" tvg-id="3e70e440acc39a27ca07253329cb823c",jtbc2
+http://175.115.38.192:9981/stream/channelid/1088712766?ticket=138E3290227A08C27AA1EF460083A5147ECDC3AD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0WmEGB4.png" tvg-id="90e504f35f511b361050ebc608286d0e",E채널
+http://175.115.38.192:9981/stream/channelid/1929700752?ticket=3A5D68F0A48A45C5C15F3B1318168895CFE633AC&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/hGwA39y.png" tvg-id="08dfc93763f2881f3f1c00a0ed78afb7",XTM
+http://175.115.38.192:9981/stream/channelid/935976712?ticket=F223FB6EE6CA37BFB18BE144631F07B8DA08F680&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2FwWidb.png" tvg-id="8b13a1c93fff70765baf6ff8cadc5d32",C TIME
+http://175.115.38.192:9981/stream/channelid/1235293067?ticket=A07469E06456BB2F0F6ABA754AB3F1C1CC423328&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/5VMBbSq.png" tvg-id="a5cefb9b17f768a5dfb9a08b6db4bcab",K star
+http://175.115.38.192:9981/stream/channelid/469487269?ticket=039A6246087A1A0CD09FD33A476A349E0F00D19A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fNuqGzR.png" tvg-id="e0321f34e884f9c36405ed9cda7bf8d9",CMC 가족오락TV
+http://175.115.38.192:9981/stream/channelid/874459872?ticket=D2D056BF1595C0431055F11EE1F3FA3460555A3B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/BH3DnrW.png" tvg-id="7e2faccd2cee87fb19b69a58910cecb4",DIA TV
+http://175.115.38.192:9981/stream/channelid/1303129982?ticket=441CEA87AAB948F0200BA3AC5A61B3E6F025EEFF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cJ1B77S.png" tvg-id="61aa019d7a70edcd5b36886e38640b8c",AMC
+http://175.115.38.192:9981/stream/channelid/486648417?ticket=BECB86FF281DED837B5AD8A5055F8AA0B7644233&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/8usDWOC.png" tvg-id="3fbc0a73dd2f6b002aef12b076079939",FOX
+http://175.115.38.192:9981/stream/channelid/1930083391?ticket=E8F288D0FB990201103DFD447A4B5FFD7ECCB543&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gleMSFq.png" tvg-id="c504eed5a776e59478d0d78ea4a05408",Asia N
+http://175.115.38.192:9981/stream/channelid/1441662149?ticket=9E65277EDF2621F7B608B367437CBC009B937DAF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cIpIf6b.png" tvg-id="b696caacdf397538d1b89b96a02dc8a1",SPOTV
+http://175.115.38.192:9981/stream/channelid/751474358?ticket=4690C467723E2AC76D1905028C9648E427F0D30E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xspD7UE.png" tvg-id="4d84a3b55d6a02a1501b35096a80ea51",KBSN 스포츠
+http://175.115.38.192:9981/stream/channelid/899908685?ticket=4F3407D555ED25E570C3725642EC852F56CB3C64&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/j1vHAu6.png" tvg-id="9e01f2ca989740892c835d907f476ccb",SBS Sports
+http://175.115.38.192:9981/stream/channelid/1257374110?ticket=DA8C6432518F55EE4126095021DD6634069CADAB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Su21uj3.png" tvg-id="6606a4257ed8fb90e0e6bae8fbcc7007",MBC Sports+
+http://175.115.38.192:9981/stream/channelid/631506534?ticket=96AFFF56172D5505F7A8D33DCC3055BAED1D8830&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/frAuUS3.png" tvg-id="530f2d0aa1d188f7ed003b72259d0fca",MBC SPORTS+2
+http://175.115.38.192:9981/stream/channelid/170725203?ticket=B49FCD7C9469360A1AE72461D3BE33FE2D8E71FB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QHV9bdA.png" tvg-id="aa4c83b909fec41d60648d04d143106e",sky Sports
+http://175.115.38.192:9981/stream/channelid/964906154?ticket=7FF714D48449A8C9B226DFAB56E1932932DF193C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/KvGwEc1.png" tvg-id="aea44f6d95bf23edca4b9578171896b1",JTBC3 FOXSPORTS
+http://175.115.38.192:9981/stream/channelid/1833936046?ticket=64308060CAB889BE7217922B6E407AF334617024&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/wOOQEC1.png" tvg-id="30cbc8cc2e4cfc1b732428d651665234",IB Sports
+http://175.115.38.192:9981/stream/channelid/1288227632?ticket=ECACCE9F09952EB63672C0AA0B8C0F31F8C1F27F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/HdS0GNV.png" tvg-id="a4b5db129499263d7c800c6697804a29",SBS GOLF
+http://175.115.38.192:9981/stream/channelid/316388772?ticket=6F150C2ACF5857AD605863FD9950C52427E2B85F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/3VlCrJ7.png" tvg-id="0398777aa07aab26af2a2442365a197a",Golf Channel Korea
+http://175.115.38.192:9981/stream/channelid/2054658051?ticket=743DE9919D7A2478E4B271DFFDC348662B8DD2FC&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tLtSTaq.png" tvg-id="2fa094fa7502f3a86931914323881a42",OGN
+http://175.115.38.192:9981/stream/channelid/2056560687?ticket=847941865003613C7FEC5B934D42E81D3F3EAFA9&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dVWy3Ex.png" tvg-id="9f5d406a85f18c24d9f8e35801c72d83",토마토TV
+http://175.115.38.192:9981/stream/channelid/1782603167?ticket=4B3E8DDCB7CA4C8063507B32CB60C97CD289FBF2&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ChnD0FT.png" tvg-id="555efed11ad7fe1e9c6de38ffca3e396",한국경제TV
+http://175.115.38.192:9981/stream/channelid/1375624789?ticket=1E2DE3E612E980ECF1E1BD762ACCD56609718FBF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/joWd14j.png" tvg-id="7c1418dd0e2e8f158fe65cce0d19a04b",MTN
+http://175.115.38.192:9981/stream/channelid/1561859196?ticket=06F59141A486548146973CA0301A33D8ECCFA8B9&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/a4PwnPm.png" tvg-id="8756e246e2a35cf1b903c88c46de9a5e",매일경제TV
+http://175.115.38.192:9981/stream/channelid/1189238407?ticket=534DEEB2520A364373BCD22633481A0BEB9E188F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2D6WoS8.png" tvg-id="789b3ded43f3bf18437064e0af2a84bb",아시아경제TV
+http://175.115.38.192:9981/stream/channelid/1832754040?ticket=F49B3F2C0CA42A891C8C10DB51CB3AE541B4CF30&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/W90Hw2p.png" tvg-id="06ee0cb047b3ce65ea4998f08a68b35b",이데일리TV
+http://175.115.38.192:9981/stream/channelid/806153734?ticket=26B985369282E3B50F334472191B28A19DFFA17E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EL6i9mA.png" tvg-id="2e83fc8af8c25bf27becef0c507a290b",CNN US
+http://175.115.38.192:9981/stream/channelid/184320814?ticket=CC2186141BD5AB3CD0E44529BDD49083BE1F35D4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/VUqSOjx.png" tvg-id="beadb7f270c4d133ca7a39bd4810811a",Tooniverse
+http://175.115.38.192:9981/stream/channelid/1924640190?ticket=94BBFD9BD97381EFCB27B4F0C589AFCD1B4D75FB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/qZdqeZo.png" tvg-id="fe15dd2caad4b1b5fa283fca91ebedc1",디즈니채널
+http://175.115.38.192:9981/stream/channelid/752686590?ticket=8262A1474ED4F28D127DD8D4FA30DEC706F7788D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EGiEKhj.png" tvg-id="dd28e449c7490cae61818f8850650e1b",디즈니주니어
+http://175.115.38.192:9981/stream/channelid/1239689437?ticket=654B0FA6B862B8F258E872DA4A158C7490F20C29&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6pWpFCX.png" tvg-id="64adcc90c3c1558d8cc36f0377d19bda",Nickelodeon
+http://175.115.38.192:9981/stream/channelid/281849188?ticket=147F3C402BB80B4BF160187058EE96DDE8EC0D21&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/7RKoOZq.png" tvg-id="95e92ed6323a4942ab32ad26476af66b",애니플러스
+http://175.115.38.192:9981/stream/channelid/1445915029?ticket=CF7A2FDE5C91AA4339F53943506AEEFC29375A47&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ipM9AXe.png" tvg-id="bf09b6d34c40ee93f9a9d290ab054995",애니박스
+http://175.115.38.192:9981/stream/channelid/1404438975?ticket=33C2049F8CD70A18D61D37AEB70EAB5D035646F5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Jcfjs9E.png" tvg-id="b317f0241d227f7bb5c98d7ce194e572",KBS KIDS
+http://175.115.38.192:9981/stream/channelid/619714483?ticket=8B1412C84E5D82B18E72560C911229B25BE0BF80&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/CETWIE6.png" tvg-id="c33f033119561a72aa6ebbb1e59cbecd",어린이TV
+http://175.115.38.192:9981/stream/channelid/822296515?ticket=D664C4D86CA1752BBEF2C6E14215C2FF6AD159CB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/RIgVjvP.png" tvg-id="8dac36140ae7e507feaa2d1852237282",EBSu
+http://175.115.38.192:9981/stream/channelid/339127437?ticket=C8A050A3F1C403D7944134E4E7AB5761259C7D75&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WGlWiWy.png" tvg-id="ae6d87b8b21642af45a48856887ba3bb",EBS +1
+http://175.115.38.192:9981/stream/channelid/948399534?ticket=FAEABD22392E1BF92342B9FF8A6C2E2C5B01148F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QPq2wcg.png" tvg-id="bf25e43581a449b2e3ec15c0762ab241",EBS +2
+http://175.115.38.192:9981/stream/channelid/904144319?ticket=770E11A2F841FAA321714C9F15C1E766764BB031&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9brMDfR.png" tvg-id="38bf5cdfadf750f53be3165a70e3fc06",On style
+http://175.115.38.192:9981/stream/channelid/1599913784?ticket=1427E0C477EA20A17BFC878B525B26FBC3F9BD0E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/F9Rb9SA.png" tvg-id="f4a3de4ec030cc9477e270534fa2023e",Food TV
+http://175.115.38.192:9981/stream/channelid/1323213812?ticket=65D3A272754C5C542354F04D0A8BFE3ED1729B76&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/sVqBczs.png" tvg-id="155c1d6425f5d04abfee64c9dcd37c11",KBS W
+http://175.115.38.192:9981/stream/channelid/1679645717?ticket=CDD2EE34802499CF1F6EF3B45CEA2613D9538443&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/AlmV8jS.png" tvg-id="1509210b681da80449be99879258e634",동아TV
+http://175.115.38.192:9981/stream/channelid/186714389?ticket=42A0FCD63FC71C501DA3D653F1855709E06CBB94&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/OeSJ9Ik.png" tvg-id="0ef23b933dfd3f2316a0e619f463980a",SBS MTV
+http://175.115.38.192:9981/stream/channelid/322695694?ticket=D81A2F8DB3BF31D23E200E14BC8016B33E2A47F5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6g56RDx.png" tvg-id="45f3ff9561e278414086d548c9d43ab0",MBC Music
+http://175.115.38.192:9981/stream/channelid/369095493?ticket=2A4521F0E7992FD585FAE002E19048216E4A2A8F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/zReu7df.png" tvg-id="d577d3e3af78e63b19ddec5a26fd7924",Arte TV
+http://175.115.38.192:9981/stream/channelid/1674803157?ticket=CDA51FBDC7712F647F4A736261C57FE4E366A676&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/jbRu8T2.png" tvg-id="5a55769bdaf60d5075c160dd3a6f0927",바둑TV
+http://175.115.38.192:9981/stream/channelid/460739930?ticket=6CE16F0D831E517FC0A8B9A29A00EA7E3771424B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EAk5ySy.png" tvg-id="fa7916471c711395ea13b87130eb40d8",K-바둑
+http://175.115.38.192:9981/stream/channelid/1192655354?ticket=EBC8A0C472A987249E45698ADADA4CB744A3D85D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/eI9wGgS.png" tvg-id="ea84cc98c1c43ebcce0cbd492cecee8e",FTV
+http://175.115.38.192:9981/stream/channelid/416056554?ticket=01AF67E187369B9ACAEA35C11462B363565F267D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Go4FdK1.png" tvg-id="fdd972675c61b06ee7a108260402106d",FISHING TV
+http://175.115.38.192:9981/stream/channelid/1735580157?ticket=9D692FDFB7D18E961456F514D4E58B81BA45F5A5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fAJgmna.png" tvg-id="ae33e0083b9a3de9dbcf487a8a0de4c0",SkyTravel
+http://175.115.38.192:9981/stream/channelid/148911022?ticket=7FC4D7C6A394F7EFCED7AF57A13E3DD4E7FDA651&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/4nLYnVC.png" tvg-id="b0fe3bbb83ab16fce1b92acd87d20bf1",Mountain TV
+http://175.115.38.192:9981/stream/channelid/993787568?ticket=99ADCDDCE171D68DEB01594C73D2DAB96EDF0EB5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/aghufJ7.png" tvg-id="ce422559d62a050a48080b414526d31c",폴라리스TV
+http://175.115.38.192:9981/stream/channelid/1495614158?ticket=30A88E42669E7F208F541E2B6E3F80E9E58C466D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gwDHYGf.png" tvg-id="15a4bc3ce50be98e9e3422708a2004f0",YTN 사이언스
+http://175.115.38.192:9981/stream/channelid/1018995733?ticket=2FED43A7FA599FCE409F637322F09A0360FB4F58&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/M4nh0Rk.png" tvg-id="466ebfa51e446b417624718d63b16eae",Natgeo Wild HD
+http://175.115.38.192:9981/stream/channelid/633302598?ticket=B5D7C36D57BA4AC00DCA7E27E774AAC6384E147B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/vsxRuFh.png" tvg-id="37bec4e863ba31d5f2e6c8e9eea2a0a2",헬스메디TV
+http://175.115.38.192:9981/stream/channelid/1757724215?ticket=106FE2E0F6EE468EE428F64E15218C1EDD803335&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nFWWIFP.png" tvg-id="30847e98036b2c967e72418aef6c54ea",아리랑TV
+http://175.115.38.192:9981/stream/channelid/410944560?ticket=2E87C311DF25B27E25CBC501F20D9B6DB996E8C3&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yUk2RhO.png" tvg-id="f6cd69539c9906367f478cb0cdda547b",KTV
+http://175.115.38.192:9981/stream/channelid/1399442934?ticket=3CBF65D7B8E3F73DCF55A497AD17F7AFA7F3EA36&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SFouN1c.png" tvg-id="b4cfa0091cd204675944e323fd2e0d06",C채널
+http://175.115.38.192:9981/stream/channelid/161533876?ticket=48DF1D7F607B27618934FFEF8B67F7ABA95D310F&profile=pass
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai
 http://43.229.76.54/boboapp3/FOX/playlist.m3u8
