@@ -10,10 +10,10 @@ http://stream2.mobiradio.vn/vovradio/vov3backup.stream/playlist.m3u8
 http://stream2.mobiradio.vn/vovradio/vov4backup.stream/playlist.m3u8  
 #EXTINF:-1,XONE Radio
 http://118.69.80.81:8000    
-#EXTINF:-1,VOV Giao thông Hà Nội
-rtmp://117.6.129.102/live/vovgthn.sdp   
-#EXTINF:-1,VOV Giao thông HCM
-rtmp://117.6.129.102/live/vovgthcm.sdp    
+#EXTINF:-1,VOV GIAO THONG HN
+http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
+#EXTINF:-1,VOV GIAO THONG HCM
+http://stream2.mobiradio.vn/vovradio/vovgthcm.stream/playlist.m3u8  
 #EXTINF:-1,Joy FM - Radio sức khỏe
 rtmp://radio.joyfm.vn:1935/live/RadioOnline 
 #EXTINF:-1,Tp.HCM FM 95.6MHz
@@ -89,7 +89,7 @@ http://stream2.mobiradio.vn/radiotv/sonla/playlist.m3u8
 #EXTINF:-1,Thanh Hóa
 http://stream2.mobiradio.vn/radiotv/thanhhoa/playlist.m3u8
 #EXTINF:-1,Tiền Giang
-rtmp://123.30.141.4:1935/live/radio 
+http://stream2.mobiradio.vn/radiotv/tiengiang/playlist.m3u8
 #EXTINF:-1,Tuyên Quang
 rtmp://210.245.89.40:1935/live/liveaudiostream 
 #EXTINF:-1,Vũng Tàu
