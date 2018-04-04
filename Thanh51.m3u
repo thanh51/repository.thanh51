@@ -2680,65 +2680,152 @@ http://144.217.76.52:8080/CBC/mpegts
 #EXTINF:-1 group-title="IPTV",LDC
 http://144.217.76.52:8080/LDC/mpegts
 
-#EXTINF:-1 group-title="IPTV",TLC+1
-http://5.101.141.2:8000/play/TLCplus1
-#EXTINF:-1 group-title="IPTV",Disc. History+1
-http://5.101.141.2:8000/play/DiscoveryHistoryplus1
-#EXTINF:-1 group-title="IPTV",Animal Plnt+1
-http://5.101.141.2:8000/play/Animal-Planetplus1
-#EXTINF:-1 group-title="IPTV",ID+1
-http://5.101.141.2:8000/play/InvestigationDiscoveryplus1
-#EXTINF:-1 group-title="IPTV",Disc.Sci+1
-http://5.101.141.2:8000/play/DiscoveryScienceplus1
-#EXTINF:-1 group-title="IPTV",ID
-http://5.101.141.2:8000/play/InvestigationDiscovery
-#EXTINF:-1 group-title="IPTV",DMAX+1
-http://5.101.141.2:8000/play/Dmaxplus1
-#EXTINF:-1 group-title="IPTV",HomeHealth+1
-http://5.101.141.2:8000/play/Homeandhealthplus1
-#EXTINF:-1 group-title="IPTV",Discovery Shed
-http://5.101.141.2:8000/play/Discoveryshed
-#EXTINF:-1 group-title="IPTV",DMAX
-http://5.101.141.2:8000/play/a007
-#EXTINF:-1 group-title="IPTV",TLC+2
-http://5.101.141.2:8000/play/a00a
-
-#EXTINF:-1 group-title="IPTV",ComedyXtra+1
-http://5.101.141.2:8001/play/ComedyXtraplus1
-#EXTINF:-1 group-title="IPTV",ComedyCentral
-http://5.101.141.2:8001/play/ComedyCent
-#EXTINF:-1 group-title="IPTV",Nicktoons
-http://5.101.141.2:8001/play/NickToons
-#EXTINF:-1 group-title="IPTV",Nick Jr Too
-http://5.101.141.2:8001/play/NickJRtoo
-#EXTINF:-1 group-title="IPTV",NickJRplus1
-http://5.101.141.2:8001/play/a00b
-#EXTINF:-1 group-title="IPTV",Nick Jr.
-http://5.101.141.2:8001/play/NickJR
-#EXTINF:-1 group-title="IPTV",ComedyCent+1
-http://5.101.141.2:8001/play/ComedyCentplus1
-#EXTINF:-1 group-title="IPTV",BET:BlackEntTv
-http://5.101.141.2:8001/play/BET
-#EXTINF:-1 group-title="IPTV",ComedyXtra
-http://5.101.141.2:8001/play/ComedyXtra
-#EXTINF:-1 group-title="IPTV",Nickelodeon
-http://5.101.141.2:8001/play/a00c
-
-#EXTINF:-1 group-title="IPTV",Boomerang
-http://5.101.141.2:8002/play/Boomerang
-#EXTINF:-1 group-title="IPTV",CNN
-http://5.101.141.2:8002/play/CNN
-#EXTINF:-1 group-title="IPTV",Cartoon Netwrk
-http://5.101.141.2:8002/play/Cartoonneetwork
-#EXTINF:-1 group-title="IPTV",CNN HD
-http://5.101.141.2:8002/play/CNNHD
-#EXTINF:-1 group-title="IPTV",CartoonNetwork+1
-http://5.101.141.2:8002/play/CartoonNetworwplus1
-#EXTINF:-1 group-title="IPTV",Boomerang+1
-http://5.101.141.2:8002/play/Boomerangplus1
-
-#EXTINF:-1 group-title="IPTV",Insight HD
-http://5.101.141.2:8003/play/a007
+#EXTINF:-1 group-title="IPTV",amc-cz
+http://185.214.192.26:8000/play/2414
+#EXTINF:-1 group-title="IPTV",amc-hu
+http://185.214.192.26:8000/play/1923
+#EXTINF:-1 group-title="IPTV",animal-planet
+http://185.214.192.26:8000/play/2170
+#EXTINF:-1 group-title="IPTV",arena-sport
+http://185.214.192.26:8000/play/2473
+#EXTINF:-1 group-title="IPTV",atv
+http://185.214.192.26:8000/play/1930
+#EXTINF:-1 group-title="IPTV",barrandov-plus
+http://185.214.192.26:8000/play/2232
+#EXTINF:-1 group-title="IPTV",ceskoslovensko
+http://185.214.192.26:8000/play/2474
+#EXTINF:-1 group-title="IPTV",cs-film-cs-mini
+http://185.214.192.26:8000/play/2136
+#EXTINF:-1 group-title="IPTV",ct-d-ct-art
+http://185.214.192.26:8000/play/2048
+#EXTINF:-1 group-title="IPTV",ct-sport
+http://185.214.192.26:8000/play/2215
+#EXTINF:-1 group-title="IPTV",ct1
+http://185.214.192.26:8000/play/1769
+#EXTINF:-1 group-title="IPTV",ct2
+http://185.214.192.26:8000/play/1770
+#EXTINF:-1 group-title="IPTV",ct24
+http://185.214.192.26:8000/play/2235
+#EXTINF:-1 group-title="IPTV",dajto
+http://185.214.192.26:8000/play/1655
+#EXTINF:-1 group-title="IPTV",discovery-cz
+http://185.214.192.26:8000/play/2285
+#EXTINF:-1 group-title="IPTV",discovery-showcase-cz
+http://185.214.192.26:8000/play/1880
+#EXTINF:-1 group-title="IPTV",doma
+http://185.214.192.26:8000/play/2055
+#EXTINF:-1 group-title="IPTV",duck-tv
+http://185.214.192.26:8000/play/2153
+#EXTINF:-1 group-title="IPTV",duna
+http://185.214.192.26:8000/play/2236
+#EXTINF:-1 group-title="IPTV",duna-world
+http://185.214.192.26:8000/play/1622
+#EXTINF:-1 group-title="IPTV",dvojka
+http://185.214.192.26:8000/play/2149
+#EXTINF:-1 group-title="IPTV",eurosport-1
+http://185.214.192.26:8000/play/1634
+#EXTINF:-1 group-title="IPTV",eurosport-2
+http://185.214.192.26:8000/play/1638
+#EXTINF:-1 group-title="IPTV",film
+http://185.214.192.26:8000/play/1752
+#EXTINF:-1 group-title="IPTV",filmbox
+http://185.214.192.26:8000/play/2462
+#EXTINF:-1 group-title="IPTV",filmbox-extra
+http://185.214.192.26:8000/play/2139
+#EXTINF:-1 group-title="IPTV",hirtv
+http://185.214.192.26:8000/play/1925
+#EXTINF:-1 group-title="IPTV",jednotka
+http://185.214.192.26:8000/play/2214
+#EXTINF:-1 group-title="IPTV",jim-jam
+http://185.214.192.26:8000/play/2476
+#EXTINF:-1 group-title="IPTV",joj
+http://185.214.192.26:8000/play/1608
+#EXTINF:-1 group-title="IPTV",joj-1
+http://185.214.192.26:8000/play/2454
+#EXTINF:-1 group-title="IPTV",joj-cinema
+http://185.214.192.26:8000/play/2142
+#EXTINF:-1 group-title="IPTV",joj-cinema-1
+http://185.214.192.26:8000/play/2478
+#EXTINF:-1 group-title="IPTV",joj-family
+http://185.214.192.26:8000/play/2468
+#EXTINF:-1 group-title="IPTV",joj-plus
+http://185.214.192.26:8000/play/1609
+#EXTINF:-1 group-title="IPTV",kino-barrandov
+http://185.214.192.26:8000/play/2144
+#EXTINF:-1 group-title="IPTV",kino-svet
+http://185.214.192.26:8000/play/2145
+#EXTINF:-1 group-title="IPTV",m1
+http://185.214.192.26:8000/play/2060
+#EXTINF:-1 group-title="IPTV",m2
+http://185.214.192.26:8000/play/1927
+#EXTINF:-1 group-title="IPTV",m4-hu
+http://185.214.192.26:8000/play/2238
+#EXTINF:-1 group-title="IPTV",markiza
+http://185.214.192.26:8000/play/1294
+#EXTINF:-1 group-title="IPTV",markiza-1
+http://185.214.192.26:8000/play/2472
+#EXTINF:-1 group-title="IPTV",minimax
+http://185.214.192.26:8000/play/1753
+#EXTINF:-1 group-title="IPTV",mnam-tv
+http://185.214.192.26:8000/play/2146
+#EXTINF:-1 group-title="IPTV",ngc
+http://185.214.192.26:8000/play/1727
+#EXTINF:-1 group-title="IPTV",nick-jr
+http://185.214.192.26:8000/play/2237
+#EXTINF:-1 group-title="IPTV",nickelodeon
+http://185.214.192.26:8000/play/1729
+#EXTINF:-1 group-title="IPTV",nova-international
+http://185.214.192.26:8000/play/1614
+#EXTINF:-1 group-title="IPTV",ocko-star
+http://185.214.192.26:8000/play/2479
+#EXTINF:-1 group-title="IPTV",prima-comedy-central
+http://185.214.192.26:8000/play/2147
+#EXTINF:-1 group-title="IPTV",prima-max
+http://185.214.192.26:8000/play/2148
+#EXTINF:-1 group-title="IPTV",prima-plus
+http://185.214.192.26:8000/play/1300
+#EXTINF:-1 group-title="IPTV",prima-zoom
+http://185.214.192.26:8000/play/1297
+#EXTINF:-1 group-title="IPTV",rik
+http://185.214.192.26:8000/play/1758
+#EXTINF:-1 group-title="IPTV",rtl-klub
+http://185.214.192.26:8000/play/1623
+#EXTINF:-1 group-title="IPTV",senzi
+http://185.214.192.26:8000/play/2467
+#EXTINF:-1 group-title="IPTV",slagr-tv
+http://185.214.192.26:8000/play/2409
+#EXTINF:-1 group-title="IPTV",sport-1
+http://185.214.192.26:8000/play/1760
+#EXTINF:-1 group-title="IPTV",sport-2
+http://185.214.192.26:8000/play/1633
+#EXTINF:-1 group-title="IPTV",sport-5
+http://185.214.192.26:8000/play/2415
+#EXTINF:-1 group-title="IPTV",story5-hu
+http://185.214.192.26:8000/play/1928
+#EXTINF:-1 group-title="IPTV",ta3
+http://185.214.192.26:8000/play/1768
+#EXTINF:-1 group-title="IPTV",travelxp
+http://185.214.192.26:8000/play/2475
+#EXTINF:-1 group-title="IPTV",tuty
+http://185.214.192.26:8000/play/2417
+#EXTINF:-1 group-title="IPTV",tv-barrandov
+http://185.214.192.26:8000/play/2135
+#EXTINF:-1 group-title="IPTV",tv-paprika
+http://185.214.192.26:8000/play/2151
+#EXTINF:-1 group-title="IPTV",tv-war
+http://185.214.192.26:8000/play/2453
+#EXTINF:-1 group-title="IPTV",tv2
+http://185.214.192.26:8000/play/1624
+#EXTINF:-1 group-title="IPTV",viasat-explore
+http://185.214.192.26:8000/play/1873
+#EXTINF:-1 group-title="IPTV",viasat-hd
+http://185.214.192.26:8000/play/2455
+#EXTINF:-1 group-title="IPTV",viasat-history
+http://185.214.192.26:8000/play/2152
+#EXTINF:-1 group-title="IPTV",viasat-nature
+http://185.214.192.26:8000/play/1874
+#EXTINF:-1 group-title="IPTV",wau
+http://185.214.192.26:8000/play/1773
 
 
 #EXTINF:-1 group-title="NhacTH" tvg-logo="https://i.imgur.com/qiDlmkG.jpg",Paris By Night 124 - Anh Cho Em Mùa Xuân HD
