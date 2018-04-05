@@ -1,20 +1,5 @@
 #EXTM3U thanh51
 
-#EXTINF:-1 group-title="Sports",FS1
-http://66.70.179.231/US_FS1/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="Sports",FS2
-http://66.70.179.231/US_FS2/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="Sports",MLB
-http://66.70.179.231/US_MLB_NETWORK/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="Sports",NBA TV
-http://66.70.179.231/US_NBA_TV/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="Sports",NFL Network
-http://66.70.179.231/US_NFL_Network/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="Sports",ESPN
-http://66.70.179.231/US_ESPN./mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="Sports",ESPN2
-http://66.70.179.231/US_ESPN2/mpegts?token=ZUOys3wwk2
-
 #EXTINF:-1 group-title="Sports",La Liga TV FHD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="Sports",Movistar Futbol FHD
@@ -193,13 +178,6 @@ http://95.154.129.24/hls/hd1/hd1.m3u8
 http://95.154.129.24/hls/hd1/hd1.m3u8
 #EXTINF:-1 group-title="Матч Sports",Матч!Футбол 2
 http://95.154.129.24/hls/hd2/hd2.m3u8
-
-#EXTINF:-1 group-title="BEin Sports",BEIN SPORTS US
-http://66.70.179.231/US_BEIN_SPORTS_USA/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="BEin Sports",BEIN SPORTS ESP
-http://66.70.179.231/US_BEIN_SPORTS_SPANISH/mpegts?token=ZUOys3wwk2
-#EXTINF:-1 group-title="BEin Sports",BEIN SPORTS FR
-http://66.70.179.231/US_BEIN_SPORT_FRENCH/mpegts?token=ZUOys3wwk2
 
 #EXTINF:-1 group-title="BEin Sports", beIN Sports HD España
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
