@@ -374,6 +374,7 @@ http://xemtivi24.000webhostapp.com/iptv-mytvnet.php?id=cartoonnetwork
 #EXTINF:-1 tvg-id="Channel News Asia" group-title="TV by DoBaoChinh" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
 
+
 #EXTINF:-1 group-title="HPlus" tvg-logo="",VTV1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
 #EXTINF:-1 group-title="HPlus" tvg-logo="",HTV1
@@ -1386,6 +1387,7 @@ http://217.107.192.37:9981/stream/channelid/385066603?ticket=BFBDCC08E99A74A9F6B
 #EXTINF:-1 group-title="Russiatv"tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/108.png" tvg-id="c78692bba2daf167bf2279db054b3f3a",МУЗ ТВ
 http://217.107.192.37:9981/stream/channelid/999458503?ticket=A63926609E8BCCA92B7FB5E579E67CB855D1C2BA&profile=passa
 
+
 #EXTINF:-1 group-title="Japantv",Discovey sc
 http://203.162.235.41:17803
 #EXTINF:-1 group-title="Japantv",NHK
@@ -1424,43 +1426,6 @@ http://203.162.235.41:17808
 http://203.162.235.41:17814
 #EXTINF:-1 group-title="Japantv",JAPAN 6
 http://203.162.235.41:17806
-
-#EXTINF:-1 group-title="Japantv",Animax
-http://218.60.94.32:1935/live/cs25.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Discovery Channel
-http://218.60.94.32:1935/live/cs13.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Disney Channel
-http://218.60.94.32:1935/live/cs20.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Eisei Gekijo
-http://218.60.94.32:1935/live/cs18.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",EX Sports
-http://218.60.94.32:1935/live/cs04.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Family Gekijo
-http://218.60.94.32:1935/live/cs11.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Golf Network
-http://218.60.94.32:1935/live/cs03.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Green Channel
-http://218.60.94.32:1935/live/cs02.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",History
-http://218.60.94.32:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",J-Sports 1
-http://218.60.94.32:1935/live/cs05.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",J-Sports 2
-http://218.60.94.32:1935/live/cs06.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",J-Sports 3
-http://218.60.94.32:1935/live/cs07.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",J-Sports 4
-http://218.60.94.32:1935/live/cs09.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",KBS World
-http://218.60.94.32:1935/live/cs16.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Kids Station
-http://218.60.94.32:1935/live/cs12.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Movie Plus
-http://218.60.94.32:1935/live/cs10.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Nihon Eiga TV
-http://218.60.94.32:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1 group-title="Japantv",Samurai Fighting TV
-http://218.60.94.32:1935/live/cs08.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ChinaTV",CCTV-1 
 http://www.szmgiptv.com:14437/hls/1.m3u8
@@ -2120,55 +2085,6 @@ http://144.217.76.52:8080/KTV2/mpegts
 http://144.217.76.52:8080/CBC/mpegts
 #EXTINF:-1 group-title="IPTV",LDC
 http://144.217.76.52:8080/LDC/mpegts
-
-#EXTINF:-1 group-title="IPTV",SALON 2 HD
-http://51.15.132.221:8000/play/a00b
-#EXTINF:-1 group-title="IPTV",ID Xtra HD
-http://51.15.132.221:8000/play/a00v
-#EXTINF:-1 group-title="IPTV",HBO 2 HD
-http://51.15.132.221:8000/play/a008
-#EXTINF:-1 group-title="IPTV",GOtv
-http://51.15.132.221:8000/play/a00t
-#EXTINF:-1 group-title="IPTV",History Channel HD
-http://51.15.132.221:8000/play/a00g
-#EXTINF:-1 group-title="IPTV",Animal Planet HD
-http://51.15.132.221:8000/play/a00f
-#EXTINF:-1 group-title="IPTV",SALON 3 HD
-http://51.15.132.221:8000/play/a00c
-#EXTINF:-1 group-title="IPTV",Cinemax HD
-http://51.15.132.221:8000/play/a005
-#EXTINF:-1 group-title="IPTV",HBO 3 HD
-http://51.15.132.221:8000/play/a009
-#EXTINF:-1 group-title="IPTV",Nova Sport HD
-http://51.15.132.221:8000/play/a00k
-#EXTINF:-1 group-title="IPTV",Diema Sport HD
-http://51.15.132.221:8000/play/a00i
-#EXTINF:-1 group-title="IPTV",BEiN MOViE ACTION HD
-http://51.15.132.221:8000/play/a00d
-#EXTINF:-1 group-title="IPTV",SPORT Plus HD
-http://51.15.132.221:8000/play/a001
-#EXTINF:-1 group-title="IPTV",Fen TV HD
-http://51.15.132.221:8000/play/a00m
-#EXTINF:-1 group-title="IPTV",Cinemax 2 HD
-http://51.15.132.221:8000/play/a006
-#EXTINF:-1 group-title="IPTV",Balkanika HD
-http://51.15.132.221:8000/play/a00l
-#EXTINF:-1 group-title="IPTV",Diema Sport 2 HD
-http://51.15.132.221:8000/play/a00j
-#EXTINF:-1 group-title="IPTV",M Sport 2 HD
-http://51.15.132.221:8000/play/a003
-#EXTINF:-1 group-title="IPTV",M Sport 1 HD
-http://51.15.132.221:8000/play/a002
-#EXTINF:-1 group-title="IPTV",Action Plus HD
-http://51.15.132.221:8000/play/a00e
-#EXTINF:-1 group-title="IPTV",RING BG HD
-http://51.15.132.221:8000/play/a004
-#EXTINF:-1 group-title="IPTV",SALON 1 HD
-http://51.15.132.221:8000/play/a00a
-#EXTINF:-1 group-title="IPTV",HBO HD
-http://51.15.132.221:8000/play/a007
-#EXTINF:-1 group-title="IPTV",Travel Channel HD
-http://51.15.132.221:8000/play/a00h
 
 
 #EXTINF:-1 group-title="NhacTH" tvg-logo="https://i.imgur.com/qiDlmkG.jpg",Paris By Night 124 - Anh Cho Em Mùa Xuân HD
