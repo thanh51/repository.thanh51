@@ -618,7 +618,8 @@ http://vtclive-a.akamaihd.net/live/disk1/VTC13_0/HLS/VTC13_0.m3u8
 http://vtclive-a.akamaihd.net/live/disk2/VTC14_5/HLS/VTC14_5.m3u8
 #EXTINF:-1 tvg-id="VTC16" group-title="VietTV" tvg-logo="https://i.imgur.com/xlH2Riq.jpg",3NTV-VTC16
 http://vtclive-a.akamaihd.net/live/disk2/VTC16_6/HLS/VTC16_6.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="VietTV" tvg-logo="https://static-stage.sctv.vn/channel/11/s5.png"SCTV5
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/playlist.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="https://s9.postimg.org/j0biik44v/anvien.jpg",mobiTV:AN VIEN HD-BTV9
 http://avg05.mobion.vn/live/t/-yHEcHtzbpmKgavsSvi_KA/s/3nhzbeax08/e/1514896358403/origin64_9000/71/45034375/live/anvienhd.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",mobiTV:PHIM HAY s1
