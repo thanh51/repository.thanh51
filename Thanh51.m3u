@@ -1,5 +1,16 @@
 #EXTM3U thanh51
 
+#EXTINF:-1 group-title="BD",BĐ HD 1 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 2 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live2/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 3 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live3/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 4 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live4/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 5 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live5/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports",La Liga TV FHD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="Sports",Movistar Futbol FHD
