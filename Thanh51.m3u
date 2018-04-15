@@ -518,12 +518,18 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s1
 http://avg05.mobion.vn/live/t/1i_mRxI1492wSuU8C13JQw/s/8qpkkyf9wu/e/1514896025547/origin64_9000/71/45034366/live/vtv1hd.m3u8
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s2
-http://vnlivetv.tk/ducnt/v1hd
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s3
+http://vnlivetv.tk/ducnt/v1hd
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s4
 http://118.107.68.10:1935/live/_definst_//VTV1_H_5374560ab1atyu33dfee617ce3516ca502d/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD
+#EXTINF:-1 tvg-id="VTV2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD s1
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="VTV2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD s2
 http://vnlivetv.tk/ducnt/v2hd
-#EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD s1
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD s2
 http://vnlivetv.tk/ducnt/v3hd
 #EXTINF:-1 tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD s1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
@@ -534,7 +540,7 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD s2
 http://vnlivetv.tk/ducnt/v5hd
 #EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD s1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b5000000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD s2
 http://vnlivetv.tk/ducnt/v6hd
 #EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD s1
