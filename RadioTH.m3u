@@ -10,10 +10,14 @@ http://stream2.mobiradio.vn/vovradio/vov3backup.stream/playlist.m3u8
 http://stream2.mobiradio.vn/vovradio/vov4backup.stream/playlist.m3u8  
 #EXTINF:-1,XONE FM
 http://118.69.80.81:8000/http://118.69.80.81:8000   
-#EXTINF:-1,VOV GIAO THONG HN
+#EXTINF:-1,VOV GIAO THONG HN s1
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
-#EXTINF:-1,VOV GIAO THONG HCM
+#EXTINF:-1,VOV GIAO THONG HN s2
+https://5a6872aace0ce.streamlock.net/vovgt+hn/vovgt+hn.stream_aac/chunklist_w1508237251.m3u8
+#EXTINF:-1,VOV GIAO THONG HCM s1
 http://stream2.mobiradio.vn/vovradio/vovgthcm.stream/playlist.m3u8  
+#EXTINF:-1,VOV GIAO THONG HCM s2
+https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1977423641.m3u8
 #EXTINF:-1,Joy FM - Radio sức khỏe s1
 rtmp://radio.joyfm.vn:1935/live/RadioOnline 
 #EXTINF:-1,Joy FM - Radio sức khỏe s2
