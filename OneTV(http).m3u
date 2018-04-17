@@ -1,5 +1,7 @@
 #EXTM3U thanh51
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
 http://42.119.195.63:4022/udp/225.1.2.248:30120
 #EXTINF:-1 tvg-id="VTV2" group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
@@ -33,11 +35,11 @@ http://42.119.195.63:4022/udp/225.1.1.167:30120
 #EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN HD
 http://42.119.195.63:4022/udp/225.1.1.43:30120
 #EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/vovtv.png",VOVTV
-http://42.119.195.63:4022/udp/225.1.2.171:30120
+udp://225.1.2.171:30120
 #EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",ANTV
 http://42.119.195.63:4022/udp/225.1.1.22:30120
 #EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",ANTV HD
-http://42.119.195.63:4022/udp/225.1.2.169:30120
+udp://225.1.2.169:30120
 
 #EXTINF:-1 tvg-id="" group-title="MobiTV" tvg-logo="https://s9.postimg.org/j0biik44v/anvien.jpg",ANVIEN HD 
 http://42.119.195.63:4022/udp/225.1.2.189:30120
@@ -213,6 +215,8 @@ http://42.119.195.63:4022/udp/225.1.1.146:30120
 http://42.119.195.63:4022/udp/225.1.1.145:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/LVxKGl4.png",Quảng Ngãi
 http://42.119.195.63:4022/udp/225.1.2.174:30120
+#EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/LVxKGl4.png",Quảng Ngãi HD
+http://42.119.195.63:4022/udp/225.1.1.13:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/khanh-hoa.png",Khánh Hòa
 http://42.119.195.63:4022/udp/225.1.1.133:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/VxOQqsX.png",Kon Tum 
@@ -247,9 +251,9 @@ http://42.119.195.63:4022/udp/225.1.1.152:30120
 http://42.119.195.63:4022/udp/225.1.1.151:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/ba-ria-vung-tau.png",BÀ RỊA VŨNG TÀU HD
 http://42.119.195.63:4022/udp/225.1.2.175:30120
-#EXTINF:-1 tvg-id="Vinh Long 1" group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl1.png",VINH LONG 1 
+#EXTINF:-1 tvg-id="Vinh Long 1" group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl1.png",VINH LONG 1 HD
 http://42.119.195.63:4022/udp/225.1.1.155:30120
-#EXTINF:-1 tvg-id="Vinh Long 2" group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl2.png",VINH LONG 2 
+#EXTINF:-1 tvg-id="Vinh Long 2" group-title="DIA PHUONG" tvg-logo="http://vuapp.tranvu.info/upload//thvl2.png",VINH LONG 2 HD
 http://42.119.195.63:4022/udp/225.1.1.154:30120
 #EXTINF:-1 tvg-id="Can Tho" group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/can-tho.png",CẦN THƠ
 http://42.119.195.63:4022/udp/225.1.1.132:30120
@@ -259,7 +263,7 @@ http://42.119.195.63:4022/udp/225.1.1.156:30120
 http://42.119.195.63:4022/udp/225.1.2.172:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="https://s12.postimg.org/egpkg3ivh/soctrang.jpg",SÓC TRĂNG
 http://42.119.195.63:4022/udp/225.1.1.159:30120
-#EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hậu Giang
+#EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hậu Giang HD
 http://42.119.195.63:4022/udp/225.1.1.157:30120
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/bAslqZs.png",Kiên Giang
 http://42.119.195.63:4022/udp/225.1.2.182:30120
@@ -296,11 +300,11 @@ http://42.119.195.63:4022/udp/225.1.1.230:30120
 http://42.119.195.63:4022/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="https://s15.postimg.org/vvi0duyyj/image.png",WARNER TV
 http://42.119.195.63:4022/udp/225.1.1.139:30120
-#EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="https://s3.postimg.org/4mte49l8j/cinemaworld.png",CINEMAWORLD
+#EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="https://s3.postimg.org/4mte49l8j/cinemaworld.png",CINEMAWORLD HD
 http://42.119.195.63:4022/udp/225.1.1.142:30120
 #EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="http://1ttv.org/uploads/Pl8S60EJ52htHxi1gAw1SS1y8i1p3z.png",FOX HD
 http://42.119.195.63:4022/udp/225.1.1.51:30120
-#EXTINF:-1tvg-id="" group-title="QUOC TE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
+#EXTINF:-1 tvg-id="Kix HD" group-title="QUOC TE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 http://42.119.195.63:4022/udp/225.1.2.145:30120
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="QUOC TE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",CN
 http://42.119.195.63:4022/udp/225.1.1.240:30120
@@ -334,7 +338,7 @@ http://42.119.195.63:4022/udp/225.1.1.231:30120
 http://42.119.195.63:4022/udp/225.1.1.236:30120
 #EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="https://yt3.ggpht.com/-YBAwzp9qQ1o/AAAAAAAAAAI/AAAAAAAAAAA/CoaoaqDCWeQ/s900-c-k-no/photo.jpg",Australia Plus
 http://42.119.195.63:4022/udp/225.1.2.21:30120
-#EXTINF:-1 tvg-id="BBC Earth" group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth 
+#EXTINF:-1 tvg-id="BBC Earth" group-title="QUOC TE" tvg-logo="https://s14.postimg.org/5pu5iqxgh/bbcearth.png",BBC Earth HD
 http://42.119.195.63:4022/udp/225.1.2.24:30120
 #EXTINF:-1 tvg-id="" group-title="QUOC TE" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg",BBC LifeStyle
 http://42.119.195.63:4022/udp/225.1.2.52:30120
@@ -382,8 +386,6 @@ http://42.119.195.63:4022/udp/225.1.1.241:30120
 http://42.119.195.63:4022/udp/225.1.1.108:30120
 #EXTINF:-1 tvg-id="Fox Sports 3" group-title="QUOC TE" tvg-logo="https://s9.postimg.cc/ytmtdf1wf/foxsports3.png",Fox Sports 3 HD
 http://42.119.195.63:4022/udp/225.1.2.242:30120 
-#EXTINF:-1 tvg-id="Kix HD" group-title="QUOC TE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
-http://42.119.195.63:4022/udp/225.1.2.145:30120
 #EXTINF:-1 tvg-id="MTV" group-title="QUOC TE" tvg-logo="http://103.56.158.185/tv_icon/mtv.png",MTV
 http://42.119.195.63:4022/udp/225.1.1.245:30120
 #EXTINF:-1 tvg-id="Fashion TV" group-title="QUOC TE" tvg-logo="http://i.imgur.com/IeuIsMr.png",FashionTV HD
