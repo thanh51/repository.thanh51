@@ -8,6 +8,17 @@
 <genre>Live TV</genre>
 </item>
 /////////////////
+
+<title>[COLOR olive][B] MyTV (chung các mạng)[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/MyTV.xml</externallink>
+<fanart></fanart>
+<info></info>
+<genre>Live TV</genre>
+</item>
+/////////////////
+
 <item>
 
 <title>[COLOR cyan][B]HPlus TV[/B][/COLOR]</title>
@@ -38,62 +49,24 @@
 /////////////////////
 
 <item>
-<title>[COLOR red][B]LIVE SPORTS (cần addon SportsDevil)[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://bit.ly/2CdDE9w</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-///////////////////////
-
-<item>
-<title>[B][COLOR red]IPTV cập nhật thường xuyên [/COLOR][/B]</title>
+<title>[B][COLOR pink] VadersTV [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</thumbnail>
 <fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/TS.m3u$$TSDOWNLOADER$$</externallink>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/vaderstv.m3u$$TSDOWNLOADER$$</externallink>
 </item>
 ///////////////////////
 
 <item>
-<title>[COLOR green][B]Arenavision channels Sports[/B][/COLOR]</title>
+<title>[COLOR green][B]NoxBit TV[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/Arenavision.xml</externallink>
-<thumbnail>https://s1.postimg.org/rj8saq01b/image.jpg</thumbnail>
+<externallink>http://ruffroot.tk/tv</externallink>
+<thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/rj8saq01b/image.jpg</fanart>
 </item>
 
 ////////////////////
-<item>
-<title>[COLOR pink][B]LISTS CANALS ARENAVISION[/B] [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [COLOR white] [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/[makelist.param1]</page>
-			<referer>http://arenavision2017.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
- <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
- <fanart></fanart>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
-<page>http://arenavision2017.tk</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
- <thumbnail>http://i.imgur.com/nMRDVIU.png</thumbnail>
- <fanart></fanart>
-</item>
 
-//////////////////
 <item>
 <title> [COLOR lime][B]Acestream Channels Sports - Server 1[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -151,51 +124,6 @@
 /////////////////////
 
 <item>
-<title>[COLOR aquamarine][B]Bóng đá(soccer),bóng rổ(football),tennis...Xem giờ VN+6 tiếng (từ tháng 11 - tháng 3 năm sau), +5 tiếng((từ tháng 4 - tháng 10)[/B][/COLOR] </title>
-<SetViewMode>55</SetViewMode>
-<link>$doregex[makelist3]</link>
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR deepskyblue][B][makelist3.param1] [/B] [COLOR skyblue][[makelist3.param2]]  [/COLOR][/COLOR]</title>
-<link>$doregex[makelist2]</link>
-]]></listrepeat>
-<expres>categoria":"(.*?)","items":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php</page>
-</regex>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<SetwatchMode>55</SetwatchMode>
-<title>[COLOR lightslategray][makelist2.param2] [COLOR skyblue][makelist2.param3] [COLOR deepskyblue] [B][makelist2.param5][/B] [/COLOR][/COLOR][/COLOR]</title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php?action=listado_eventos&amp;cat=$doregex[cate]</page>
-</regex>
-
-<regex>
-<name>cate</name>
-<expres>$pyFunction:('[makelist3.param1]').replace(' ','+')</expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<SetwatchMode>55</SetwatchMode>
-<title> [COLOR deepskyblue] [B][makelist2.param5][/B] [/COLOR] [I] Canal  [makelist.param1]  idioma:[makelist.param3] [/I]</title>
-<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
-</item>	
-]]></listrepeat>
-<expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-/////////////////////
-<item>
 <title>[COLOR pink][B]Kênh Giải Trí[/B][/COLOR]</title>
 <thumbnail>https://s29.postimg.org/k14sn3ajr/giaitri.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -216,9 +144,4 @@
 </item>
 /////////////////////
 
-<item>
-<title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]ADDON ADRYAN[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
-</item>
-/////////////////////////////
+
