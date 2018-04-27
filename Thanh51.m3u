@@ -1850,12 +1850,6 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
 #EXTINF:-1 group-title="India",Discovery WORLD HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1 group-title="India",KBS SPORS
-http://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream/chunklist_w2135307931.m3u8
-#EXTINF:-1 group-title="India",KBSN LIVE
-http://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream/chunklist_w1947532088.m3u8
-#EXTINF:-1 group-title="India",Al Jazeera Documentary Channel
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 group-title="India",LF FOOD HD
 http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/03.m3u8
 #EXTINF:-1 group-title="India",Discovery WORLD HD
@@ -2168,6 +2162,12 @@ http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/playlist.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_5_av-p.m3u8
 #EXTINF:-1 group-title="IPTV" tvg-name="T5Monde" tvg-logo="http://kinkodi.com/tv/logos/tv5monde-2.png",FR: TV5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 group-title="IPTV",KBS SPORS
+http://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream/chunklist_w2135307931.m3u8
+#EXTINF:-1 group-title="IPTV",KBSN LIVE
+http://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream/chunklist_w1947532088.m3u8
+#EXTINF:-1 group-title="IPTV",Al Jazeera Documentary Channel
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 group-title="IPTV",W9
 http://144.217.253.140/W9/mpegts
