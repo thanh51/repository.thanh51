@@ -11,6 +11,34 @@ http://www.youtube.com
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
 
+#EXTINF:-1 group-title="BD",BĐ HD 1 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 2 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live2/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 3 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live3/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 4 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live4/chunklist.m3u8
+#EXTINF:-1 group-title="BD",BĐ HD 5 (chỉ phát khi có bóng đá)
+http://cdn2.xoilac.tv/template_mitomtv/live5/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 1-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 2-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 3-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 4-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 5-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 6-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 7-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
+#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 8-HD (theo giờ VN - 1h)
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
+
 #EXTINF:-1 group-title="Sports",La Liga TV FHD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="Sports",Movistar Futbol FHD
@@ -38,42 +66,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/733/inde
 #EXTINF:-1 group-title="Sports",Rai Sport SD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/528/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://1ttv.org/uploads/mjQW91VJdjIEhADvOO2s6OiKNeUdUK.png",Super Tennis HD
-http://93.123.65.3:9130/130?vk.com/iptv_iptv
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport1.png",Thai:True Sports 1
-http://43.229.76.54/boboapp1/a_truesp1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/cc364e49809b49321d6d278ea777dbf2.png",Thai:True Sport HD 
-http://43.229.76.54/boboapp1/thd1.stream/playlist.m3u8 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",Thai:True Sport 2 HD s1 
-http://103.253.73.251/liveNimble/ch02s/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",Thai:True Sports 2 HD s2
-http://111.223.50.12:8081/liveNimble/ch02h/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport3.png",Thai:True Sports 3
-http://43.229.76.54/boboapp1/a_truesp3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",Thai:True Sport 3 HD s1
-http://111.223.50.12:8081/liveNimble/ch03h/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",Thai:True Sport 3 HD s2
-http://103.253.73.251/liveNimble/ch03s/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.sine.tv/images/icon/TrueSport7.png",Thai:True Sports 7
-http://43.229.76.54/boboapp1/a_truesp7.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 1-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 2-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 3-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 4-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 5-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 7-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 9-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
-#EXTINF:-1 group-title="Sports",Thể thao đặc sắc 10-HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
-
 #EXTINF:-1 group-title="Sports", Arena Sport 1
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1 group-title="Sports", Arena Sport 2
@@ -83,36 +75,21 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 group-title="Sports", Arena Sport 4
 http://46.40.5.99:8000/arena_4_high
 
-#EXTINF:-1 group-title="Sports",PFC 2
-http://54.39.52.133/SPORTV3-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 3
-http://54.39.52.133/PREMIERE3-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 4
-http://54.39.52.133/PREMIERE4-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 5
-http://54.39.52.133/PREMIERE5-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 6
-http://54.39.52.133/PREMIERE6-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 7
-http://54.39.52.133/PREMIERE7-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 8
-http://54.39.52.133/PREMIERE8-SD/index.m3u8
-#EXTINF:-1 group-title="Sports",PFC 9
-http://54.39.52.133/PREIMIERE9-SD/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",Football 1 HD
+#EXTINF:-1 group-title="Sports",Наш Футбол HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/25/index.m3u8
+#EXTINF:-1 group-title="Sports",Football 1 HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/867/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Football 2 HD
+#EXTINF:-1 group-title="Sports",Football 2 HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/868/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 2 HD
+#EXTINF:-1 group-title="Sports",Eurosport 2 HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/77/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 1 HD
+#EXTINF:-1 group-title="Sports",Eurosport 1 HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/159/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Viasat Sport HD
+#EXTINF:-1 group-title="Sports",Viasat Sport HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/75/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Super Tennis HD
+#EXTINF:-1 group-title="Sports",Super Tennis HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/670/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Extreme Sports Channel
+#EXTINF:-1 group-title="Sports",Extreme Sports Channel
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/46/index.m3u8
 
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="",Матч!Футбол 1
@@ -155,6 +132,19 @@ http://217.107.192.37:9981/stream/channelid/433894475?ticket=9B29D8758D9D175AA3E
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/26.png",Матч! Футбол 3 HD
 http://217.107.192.37:9981/stream/channelid/434875036?ticket=A3D7D4CE39C903F61304E4B97661B39163BA99DA&profile=pass
 
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 1
+http://persik.by/stream/3903/293564/346.m3u8 
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 2
+http://persik.by/stream/3903/293564/10217.m3u8 
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 3
+http://persik.by/stream/3903/293564/10218.m3u8 
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 1 HD
+http://persik.by/stream/3903/293564/10266.m3u8 
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 2 HD
+http://persik.by/stream/3903/293564/10267.m3u8 
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 3 HD
+http://persik.by/stream/3903/293564/10268.m3u8 
+
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="",Матч!Футбол 1
 http://95.154.129.24/hls/hd1/hd1.m3u8
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="",Матч!Футбол 1 HD
@@ -168,25 +158,6 @@ http://95.154.129.24/hls/hd2/hd2.m3u8
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
 #EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD Esp 
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
-
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s1
-http://111.223.50.12:8081/liveNimble/ch04h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s2
-http://103.253.73.251/liveNimble/ch04s/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s1
-http://111.223.50.12:8081/liveNimble/ch05h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s2
-http://103.253.73.251/liveNimble/ch05s/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN2Thai.png ",ThaiLand:beIN Sports 2 s3
-http://43.229.76.54/boboapp1/bein2a.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3 s1
-http://111.223.50.12:8081/liveNimble/ch06h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN3Thai.png ",ThaiLand:beIN Sports 3 s2
-http://103.253.73.251/liveNimble/ch06s/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4 s1
-http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8
-#EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4 s2
-http://103.253.73.251/liveNimble/ch07s/playlist.m3u8
 
 
 
