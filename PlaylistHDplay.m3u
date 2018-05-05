@@ -61,6 +61,77 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
 #EXTINF:-1 group-title="Sports",Thể thao đặc sắc 8-HD (theo giờ VN - 1h)
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
 
+#EXTINF:-1 group-title="Sports",FS 1
+http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
+#EXTINF:-1 group-title="Sports",FS 2
+http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport 1
+http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport 2
+http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport 3
+http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BT SPORT 1
+http://31.220.0.196:8081/live/ctvb1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BT SPORT 2
+http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BT SPORT 3
+http://31.220.0.196:8081/live/ctvb3/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BT ESPN
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY Sport 1
+http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY Sport 2
+http://31.220.0.134:8081/live/jtvs2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY Sport 3
+http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY Sport 4
+http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY Sport 5
+http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY Sport F1  
+http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT 1
+http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT 2
+http://31.220.0.196:8081/live/ctvs2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT 3
+http://31.220.0.196:8081/live/ctvs3/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT 5
+http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BBC 2
+http://31.220.0.134:8081/live/bbc2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",NBA
+http://31.220.0.134:8081/live/nba/playlist.m3u8
+#EXTINF:-1 group-title="Sports",ARENA SPORT 1 LOW
+http://46.40.5.99:8000/arena_1_low
+#EXTINF:-1 group-title="Sports",ARENA SPORT 2 LOW
+http://46.40.5.99:8000/arena_2_low
+#EXTINF:-1 group-title="Sports",ARENA SPORT 3 LOW
+http://46.40.5.99:8000/arena_3_low
+#EXTINF:-1 group-title="Sports",ARENA SPORT 4 LOW
+http://46.40.5.99:8000/arena_4_low
+#EXTINF:-1 group-title="Sports",ARENA SPORT 1 HIGH
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1 group-title="Sports",ARENA SPORT 2 HIGH
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1 group-title="Sports",ARENA SPORT 3 HIGH
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 group-title="Sports",ARENA SPORT 4 HIGH
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1 group-title="Sports",AD SPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Sports",AD SPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="Sports",TELECKOM SPORT 1
+http://31.220.0.196:8081/live/spstreamdolce1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TELECKOM SPORT 2
+http://31.220.0.196:8081/live/spstreamdolce2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TELECKOM SPORT 3
+http://31.220.0.196:8081/live/spstreamdolce3/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TELECKOM SPORT 4
+http://31.220.0.196:8081/live/spstreamdolce4/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",La Liga TV FHD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
 #EXTINF:-1 group-title="Sports",Movistar Futbol FHD
@@ -87,15 +158,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/737/inde
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/733/index.m3u8
 #EXTINF:-1 group-title="Sports",Rai Sport SD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/528/index.m3u8
-
-#EXTINF:-1 group-title="Sports", Arena Sport 1
-http://46.40.5.99:8000/arena_1_high
-#EXTINF:-1 group-title="Sports", Arena Sport 2
-http://46.40.5.99:8000/arena_2_high
-#EXTINF:-1 group-title="Sports", Arena Sport 3
-http://46.40.5.99:8000/arena_3_high
-#EXTINF:-1 group-title="Sports", Arena Sport 4
-http://46.40.5.99:8000/arena_4_high
 
 #EXTINF:-1 group-title="Sports",Наш Футбол HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/25/index.m3u8
@@ -202,19 +264,6 @@ http://163.172.220.115:8080/bein/beinspfr1/index.m3u8
 http://163.172.220.115:8080/bein/beinspfr2/index.m3u8
 #EXTINF:-1 group-title="BEin Sports",Bein Sports fr 3
 http://163.172.220.115:8080/bein/beinspfr3/index.m3u8
-
-#EXTINF:-1 group-title="BEin Sports",beINSport 1 HD
-http://163.172.105.25/live?channelId=178&uid=171&deviceUser=seanmccarr&devicePass=120817
-#EXTINF:-1 group-title="BEin Sports",beINSport 3 HD
-http://163.172.105.25/live?channelId=180&uid=171&deviceUser=seanmccarr&devicePass=120817
-#EXTINF:-1 group-title="BEin Sports",beINSport 4 HD
-http://163.172.105.25/live?channelId=181&uid=171&deviceUser=seanmccarr&devicePass=120817
-#EXTINF:-1 group-title="BEin Sports",beINSport 5 HD
-http://163.172.105.25/live?channelId=182&uid=171&deviceUser=seanmccarr&devicePass=120817
-#EXTINF:-1 group-title="BEin Sports",beINSport 7 HD
-http://163.172.105.25/live?channelId=184&uid=171&deviceUser=seanmccarr&devicePass=120817
-#EXTINF:-1 group-title="BEin Sports",beINSport 9 HD
-http://163.172.105.25/live?channelId=186&uid=171&deviceUser=seanmccarr&devicePass=120817
 
 #EXTINF:-1 group-title="BEin Sports", beIN Sports HD Esp 
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
