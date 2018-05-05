@@ -10,6 +10,7 @@ http://www.youtube.com
 
 #EXTINF:-1,=====================================================================
 http://www.youtube.com
+
 #EXTINF:-1 group-title="BD",05/05/18 18h00 Girona Vs Eibar
 http://163.172.220.115:8080/bein/beinsp3/index.m3u8
 #EXTINF:-1 group-title="BD",05/05/18 18h30 Stoke City Vs Crystal Palace
@@ -33,7 +34,7 @@ http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
 #EXTINF:-1 group-title="BD",06/05/18 01h45 Villarreal Vs Valencia
 http://163.172.220.115:8080/bein/beinsp3/index.m3u8 
 
-##EXTINF:-1 group-title="BD",BĐ HD 1 (chỉ phát khi có bóng đá)
+#EXTINF:-1 group-title="BD",BĐ HD 1 (chỉ phát khi có bóng đá)
 http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8
 #EXTINF:-1 group-title="BD",BĐ HD 2 (chỉ phát khi có bóng đá)
 http://cdn2.xoilac.tv/template_mitomtv/live2/chunklist.m3u8
@@ -271,7 +272,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/inde
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
 
 
-
 #EXTINF:-1,[COLOR cyan][B]****************** KÊNH TRUYỀN HÌNH ********************[/B][/COLOR] 
 http://
 
@@ -370,10 +370,8 @@ http://vtclive-a.akamaihd.net/live/disk2/VTC9_7/HLS/VTC9_7.m3u8
 http://vtclive-a.akamaihd.net/live/disk1/VTC10_4/HLS/VTC10_4.m3u8
 #EXTINF:-1 tvg-id="VTC11" group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",Kids and Family-VTC11
 http://vtclive-a.akamaihd.net/live/disk1/VTC11_0/HLS/VTC11_0.m3u8
-#EXTINF:-1 tvg-id="VTC12" group-title="VietTV" tvg-logo="http://i.imgur.com/aKmAf9Z.png",VTC12
-http://vtclive-a.akamaihd.net/live/disk1/VTC12_12/HLS/VTC12_12.m3u8
 #EXTINF:-1 tvg-id="VTC13" group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",VTC13 HD
-http://vtclive-a.akamaihd.net/live/disk1/VTC13_3/HLS/VTC13_3.m3u8
+http://vtclive-a.akamaihd.net/live/disk1/VTC13_0/HLS/VTC13_0.m3u8
 #EXTINF:-1 tvg-id="VTC14" group-title="VietTV" tvg-logo="http://image2.cdn.i-com.vn/thumb/600x400/crop//Uploads/images/kenh/vtc14.jpg",VTC14 HD
 http://vtclive-a.akamaihd.net/live/disk2/VTC14_5/HLS/VTC14_5.m3u8
 #EXTINF:-1 tvg-id="VTC16" group-title="VietTV" tvg-logo="https://i.imgur.com/xlH2Riq.jpg",3NTV-VTC16
@@ -428,6 +426,96 @@ http://avg05.mobion.vn/live/t/25iEudDI_Z-1FqPxZPeSGQ/s/rtxc3bdlz4/e/151560379703
 #EXTINF:-1 group-title="VietTV" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",mobiTV:CHANNEL NEWS ASIA
 http://avg05.mobion.vn/live/t/SOy0bcn4L_TF_qJAXZv8Lg/s/baw31tkucq/e/1514896323697/origin64_9000/71/45036341/live/channelnewsasia.m3u8
 
+#EXTINF:-1 group-title="VietTV",Hanoicab2 - YouTV
+http://tv.beeb.vn/site/iptv?channel=youtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Hanoicab4 - MOV 
+http://tv.beeb.vn/site/iptv?channel=mov&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",BTV4 - iMovie
+http://tv.beeb.vn/site/iptv?channel=imovie&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",SCTV20 - iTV 
+http://tv.beeb.vn/site/iptv?channel=itv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",MTV Vietnam 
+http://tv.beeb.vn/site/iptv?channel=mtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",MTV Live HD 
+http://tv.beeb.vn/site/iptv?channel=mtvlivehd&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",MTV Asia 
+http://tv.beeb.vn/site/iptv?channel=mtvasia&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",VH1 
+http://tv.beeb.vn/site/iptv?channel=vh1&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Celestial Classic Movies 
+http://tv.beeb.vn/site/iptv?channel=ccm&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",DIVA 
+http://tv.beeb.vn/site/iptv?channel=diva&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",History Channel 
+http://tv.beeb.vn/site/iptv?channel=history&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Discovery Science 
+http://tv.beeb.vn/site/iptv?channel=discoveryscience&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Outdoor Channel 
+http://tv.beeb.vn/site/iptv?channel=outdoor&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Davinci Learning 
+http://tv.beeb.vn/site/iptv?channel=davincilearning&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",E! Entertainment 
+http://tv.beeb.vn/site/iptv?channel=eentertainment&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Discovery Kids 
+http://tv.beeb.vn/site/iptv?channel=discoverykids&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",Nickelodeon 
+http://tv.beeb.vn/site/iptv?channel=nickelodeon&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",SBS 
+http://tv.beeb.vn/site/iptv?channel=sbs&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",SBS MTV 
+http://tv.beeb.vn/site/iptv?channel=sbsmtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="VietTV",TV5 Monde 
+http://tv.beeb.vn/site/iptv?channel=tv5monde&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",Fox Movies HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxmovies-hd
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxlife-hd
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO
+http://baochinh.ml/iptv-hplus1.php?kenh=maxbyhbo
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO
+http://baochinh.ml/iptv-hplus1.php?kenh=redbyhbo
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",Fox HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxhd
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/463862-Fox-Family-Movies.png",Fox Family Movies
+http://baochinh.ml/iptv-hplus1.php?kenh=foxfamilymovies
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/503539-cinemaworld.png",Cinema World
+http://baochinh.ml/iptv-hplus1.php?kenh=cinema-world
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/09/203777-zeetv-logo.png",Zee TV
+http://baochinh.ml/iptv-hplus1.php?kenh=zeetv
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/120786-Cartoon-Netword-HD.png",Cartoon Network
+http://baochinh.ml/iptv-hplus1.php?kenh=cartoon
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/602255-tonami.png",Boomerang
+http://baochinh.ml/iptv-hplus1.php?kenh=boomerang
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",Warner TV
+http://baochinh.ml/iptv-hplus1.php?kenh=warner-tv
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/405224-FOX-Sports-1-HD.png",Fox Sports HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxsport-1hd
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/379565-MTV.png",MTV
+http://baochinh.ml/iptv-hplus1.php?kenh=mtv
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/11/191147-Channel_V_Logo.png",Channel V HD
+http://baochinh.ml/iptv-hplus1.php?kenh=channelv-hd
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/06/106233-NationalGeographicChannelHD.png",National Geographic HD
+http://baochinh.ml/iptv-hplus1.php?kenh=ngc-hd
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC World News
+http://baochinh.ml/iptv-hplus1.php?kenh=bbc-wn
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
+http://baochinh.ml/iptv-hplus1.php?kenh=bbc-ls
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+http://baochinh.ml/iptv-hplus1.php?kenh=bbc-e
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/748952-australia-Plus.png",Australia Plus
+http://baochinh.ml/iptv-hplus1.php?kenh=australia-plus
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/863201-CNN.png",CNN
+http://baochinh.ml/iptv-hplus1.php?kenh=cnn
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2015/11/06/716117-KBS-World.png",KBS World
+http://baochinh.ml/iptv-hplus1.php?kenh=kbs-world
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/370895-NHK-logo-web.png",NHK World
+http://baochinh.ml/iptv-hplus1.php?kenh=nhk
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/530198-DW-logo.png",DW
+http://baochinh.ml/iptv-hplus1.php?kenh=dw
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/323296-Bloomberg.png",Bloomberg
+http://baochinh.ml/iptv-hplus1.php?kenh=bloomberg
+
 #EXTINF:-1 group-title="VietTV" tvg-logo="",Việt News
 http://144.217.84.181/hls/News.m3u8																					
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://www.viettv24.com/main/images/Beautiful-Scenary.jpg",Cảnh đẹp 4K(1080p)
@@ -447,167 +535,217 @@ http://144.217.84.181/hls/TuBi.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1a/Vietnam_Timeless_Charm.PNG",Việt Nam - Vẻ Đẹp Bất Tận
 http://144.217.84.181/hls/VanHoa.m3u8	
 
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTV1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-2128.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1 HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTV1 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-full-hd-1080-52524.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Quốc Hội
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]Quốc Hội
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Qu%E1%BB%91c%20H%E1%BB%99i%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-quoc-hoi-50069.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]QPVN Quốc Phòng VN
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]QPVN Quốc Phòng VN
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22QPVN%20Qu%E1%BB%91c%20Ph%C3%B2ng%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-quoc-phong-viet-nam-50068.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]TTXVN Thông Tấn Xã Việt Nam
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]TTXVN Thông Tấn Xã Việt Nam
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TTXVN%20Th%C3%B4ng%20T%E1%BA%A5n%20X%C3%A3%20Vi%E1%BB%87t%20Nam%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thong-tan-xa-viet-nam-50070.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Nhân Dân
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]Nhân Dân
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Nh%C3%A2n%20D%C3%A2n%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-nhan-dan-full-hd-1080-50201.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV COOP
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV COOP
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV%20COOP%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-coop-sd-31973.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv1-2631.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV2
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV2
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV2%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv2-2630.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV2 HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV2 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV2%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv2-hd-2669.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV3
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV3
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV3%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv3-2535.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV4
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV4
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV4%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv4-2528.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV7
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV7
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-sd-10036.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV7 HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV7 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-hd-256.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV9
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV9
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-sd-10037.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV9 HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTV9 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-hd-2667.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Ca Nhạc
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Ca Nhạc
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Ca%20Nh%E1%BA%A1c%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-ca-nhac-full-hd-1080-2264.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Du Lịch
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Du Lịch
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Du%20L%E1%BB%8Bch%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-du-lich-va-cuoc-song-full-hd-1080-2328.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Gia Đình
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Gia Đình
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Gia%20%C4%90%C3%ACnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-gia-dinh-full-hd-1080-2394.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Phim Paramount Picture VN
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Phim Paramount Picture VN
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Phim%20Paramount%20Picture%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phim-2397.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Phim Paramount Picture VN HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Phim Paramount Picture VN HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Phim%20Paramount%20Picture%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phim-hd-2399.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Phụ Nữ
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Phụ Nữ
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Ph%E1%BB%A5%20N%E1%BB%AF%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phu-nu-full-hd-1080-2393.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Plus
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Plus
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Plus%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-plus-full-hd-1080-2395.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Shopping
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Shopping
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Shopping%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-shopping-2265.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thể Thao
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Thể Thao
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Th%E1%BB%83%20Thao%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-the-thao-2400.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thể Thao HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Thể Thao HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Th%E1%BB%83%20Thao%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-the-thao-hd-4009.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thuần Việt
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Thuần Việt
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-thuan-viet-2396.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC Thuần Việt HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC Thuần Việt HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-thuan-viet-hd-2398.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTVC FBNC
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTVC FBNC
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22FBNC%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-fbnc-2184.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]AZSHOP
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]AZSHOP
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22AZSHOP%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-azshop-70471.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc1-full-hd-1080-50075.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC3 HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC3 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC3%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc3-hd-2058.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC4
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC4
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC4%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc4-2057.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC7 TodayTV
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC7 TodayTV
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC7%20TodayTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-todaytv-vtc7-2060.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC7 TodayTV HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC7 TodayTV HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC7%20TodayTV%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-todaytv-vtc7-hd-70608.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC8
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC8
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC8%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc8-2056.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC9 Let's Viet
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC9 Let's Viet
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC9%20Let%27s%20Viet%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc9-lets-viet-2052.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC10 NetViet
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC10 NetViet
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC10%20NetViet%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc10-2051.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC11 KidsTV
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC11 KidsTV
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC11%20KidsTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc11-50071.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC13 HD ITV HD
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC13 HD ITV HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC13%20HD%20ITV%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-itv-full-hd-1080-52454.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC14
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC14
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC14%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc14-full-hd-1080-50074.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTC16
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]VTC16
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC16%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc16-50072.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Miền Tây
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",[COLOR cyan]HPlus[/COLOR]Fox Movies HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxmovies-hd
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",[COLOR cyan]HPlus[/COLOR]Fox Life HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxlife-hd
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",[COLOR cyan]HPlus[/COLOR]Max By HBO
+http://baochinh.ml/iptv-hplus1.php?kenh=maxbyhbo
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",[COLOR cyan]HPlus[/COLOR]Red By HBO
+http://baochinh.ml/iptv-hplus1.php?kenh=redbyhbo
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",[COLOR cyan]HPlus[/COLOR]Fox HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxhd
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/463862-Fox-Family-Movies.png",[COLOR cyan]HPlus[/COLOR]Fox Family Movies
+http://baochinh.ml/iptv-hplus1.php?kenh=foxfamilymovies
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/503539-cinemaworld.png",[COLOR cyan]HPlus[/COLOR]Cinema World
+http://baochinh.ml/iptv-hplus1.php?kenh=cinema-world
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/09/203777-zeetv-logo.png",[COLOR cyan]HPlus[/COLOR]Zee TV
+http://baochinh.ml/iptv-hplus1.php?kenh=zeetv
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/120786-Cartoon-Netword-HD.png",[COLOR cyan]HPlus[/COLOR]Cartoon Network
+http://baochinh.ml/iptv-hplus1.php?kenh=cartoon
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/602255-tonami.png",[COLOR cyan]HPlus[/COLOR]Boomerang
+http://baochinh.ml/iptv-hplus1.php?kenh=boomerang
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",[COLOR cyan]HPlus[/COLOR]Warner TV
+http://baochinh.ml/iptv-hplus1.php?kenh=warner-tv
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/405224-FOX-Sports-1-HD.png",[COLOR cyan]HPlus[/COLOR]Fox Sports HD
+http://baochinh.ml/iptv-hplus1.php?kenh=foxsport-1hd
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/379565-MTV.png",[COLOR cyan]HPlus[/COLOR]MTV
+http://baochinh.ml/iptv-hplus1.php?kenh=mtv
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/11/191147-Channel_V_Logo.png",[COLOR cyan]HPlus[/COLOR]Channel V HD
+http://baochinh.ml/iptv-hplus1.php?kenh=channelv-hd
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/06/106233-NationalGeographicChannelHD.png",[COLOR cyan]HPlus[/COLOR]National Geographic HD
+http://baochinh.ml/iptv-hplus1.php?kenh=ngc-hd
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",[COLOR cyan]HPlus[/COLOR]BBC World News
+http://baochinh.ml/iptv-hplus1.php?kenh=bbc-wn
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",[COLOR cyan]HPlus[/COLOR]BBC Lifestyle
+http://baochinh.ml/iptv-hplus1.php?kenh=bbc-ls
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",[COLOR cyan]HPlus[/COLOR]BBC Earth
+http://baochinh.ml/iptv-hplus1.php?kenh=bbc-e
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/748952-australia-Plus.png",[COLOR cyan]HPlus[/COLOR]Australia Plus
+http://baochinh.ml/iptv-hplus1.php?kenh=australia-plus
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/863201-CNN.png",[COLOR cyan]HPlus[/COLOR]CNN
+http://baochinh.ml/iptv-hplus1.php?kenh=cnn
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2015/11/06/716117-KBS-World.png",[COLOR cyan]HPlus[/COLOR]KBS World
+http://baochinh.ml/iptv-hplus1.php?kenh=kbs-world
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/370895-NHK-logo-web.png",[COLOR cyan]HPlus[/COLOR]NHK World
+http://baochinh.ml/iptv-hplus1.php?kenh=nhk
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/530198-DW-logo.png",[COLOR cyan]HPlus[/COLOR]DW
+http://baochinh.ml/iptv-hplus1.php?kenh=dw
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/323296-Bloomberg.png",[COLOR cyan]HPlus[/COLOR]Bloomberg
+http://baochinh.ml/iptv-hplus1.php?kenh=bloomberg
+
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]Miền Tây
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Mi%E1%BB%81n%20T%C3%A2y%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-mien-tay-50065.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]ATV An Giang
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]ATV An Giang
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22ATV%20An%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-atv-truyen-hinh-an-giang-51818.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BGTV Bắc Giang
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BGTV Bắc Giang
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BGTV%20B%E1%BA%AFc%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-bgtv-truyen-hinh-bac-giang-1210.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BPTV1 Bình Phước 1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BPTV1 Bình Phước 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BPTV1%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-bptv1-truyen-hinh-binh-phuoc-877.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BRT Bà Rịa Vũng Tàu
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BRT Bà Rịa Vũng Tàu
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BRT%20B%C3%A0%20R%E1%BB%8Ba%20V%C5%A9ng%20T%C3%A0u%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-brt-truyen-hinh-ba-ria-1982.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV Bạc Liêu
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BTV Bạc Liêu
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%E1%BA%A1c%20Li%C3%AAu%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-bac-lieu-872.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV Bình Định
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BTV Bình Định
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-binh-dinh-1955.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV Bình Thuận
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BTV Bình Thuận
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%C3%ACnh%20Thu%E1%BA%ADn%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-binh-thuan-53530.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV1 Bình Dương 1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BTV1 Bình Dương 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV1%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv1-truyen-hinh-binh-duong-1-1907.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]BTV2 Bình Dương 2
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]BTV2 Bình Dương 2
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV2%20B%C3%ACnh%20D%C6%B0%C6%A1ng%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv2-truyen-hinh-binh-duong-2-23963.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]CTV Cà Mau
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]CTV Cà Mau
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22CTV%20C%C3%A0%20Mau%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ctv-truyen-hinh-ca-mau-1903.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]DRT Đắc Lắc
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]DRT Đắc Lắc
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT%20%C4%90%E1%BA%AFc%20L%E1%BA%AFc%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt-truyen-hinh-dac-lac-1785.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]DRT1 Đà Nẵng 1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]DRT1 Đà Nẵng 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT1%20%C4%90%C3%A0%20N%E1%BA%B5ng%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt1-truyyen-hinh-da-nang-1-3268.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]DRT2 Đà Nẵng 2
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]DRT2 Đà Nẵng 2
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT2%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt2-truen-hinh-da-nang-2-53529.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HDTV Hải Dương
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HDTV Hải Dương
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HDTV%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-hdtv-truyen-hinh-hai-duong-871.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HGTV Hậu Giang
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HGTV Hậu Giang
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HGTV%20H%E1%BA%ADu%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-hgtv-truyen-hinh-hau-giang-762.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTTV Hà Tĩnh
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]HTTV Hà Tĩnh
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTTV%20H%C3%A0%20T%C4%A9nh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-httv-truyen-hinh-ha-tinh-7796.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]KG Kiên Giang
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]KG Kiên Giang
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KG%20Ki%C3%AAn%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kg-truyen-hinh-kien-giang-774.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]KG1 Kiên Giang 1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]KG1 Kiên Giang 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KG1%20Ki%C3%AAn%20Giang%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kg1-truyen-hinh-kien-giang-1-6917.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]KTV Khánh Hòa
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]KTV Khánh Hòa
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KTV%20Kh%C3%A1nh%20H%C3%B2a%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ktv-truyen-hinh-khanh-hoa-1979.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]LA34 Long An
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]LA34 Long An
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LA34%20Long%20An%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-la34-truyen-hinh-long-an-873.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]LSTV Lạng Sơn
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]LSTV Lạng Sơn
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LSTV%20L%E1%BA%A1ng%20S%C6%A1n%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-lstv-truyen-hinh-lang-son-1956.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]LTV Lâm Đồng
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]LTV Lâm Đồng
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LTV%20L%C3%A2m%20%C4%90%E1%BB%93ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ltv-truyen-hinh-lam-dong-55163.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]NBTV Ninh Bình
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]NBTV Ninh Bình
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22NBTV%20Ninh%20B%C3%ACnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-nbtv-truyen-hinh-ninh-binh-868.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]NTV Nam Định
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]NTV Nam Định
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22NTV%20Nam%20%C4%90%E1%BB%8Bnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ntv-truyen-hinh-nam-dinh-1951.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]PTD Đắc Nông
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]PTD Đắc Nông
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22PTD%20%C4%90%E1%BA%AFc%20N%C3%B4ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ptd-truyen-hinh-dac-nong-1784.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]QRT Quảng Nam
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]QRT Quảng Nam
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22QRT%20Qu%E1%BA%A3ng%20Nam%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-qrt-truyen-hinh-quang-nam-1787.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]STV Sóc Trăng
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]STV Sóc Trăng
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22STV%20S%C3%B3c%20Tr%C4%83ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-stv-truyen-hinh-soc-trang-1786.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THBT Bến Tre
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THBT Bến Tre
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THBT%20B%E1%BA%BFn%20Tre%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thbt-truyen-hinh-ben-tre-61299.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THDT1 Đồng Tháp 1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THDT1 Đồng Tháp 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THDT1%20%C4%90%E1%BB%93ng%20Th%C3%A1p%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thdt1-truyen-hinh-dong-thap-1788.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THLC Lào Cai
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THLC Lào Cai
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THLC%20L%C3%A0o%20Cai%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thlc-truyen-hinh-lao-cai-1789.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THTPCT Cần Thơ
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THTPCT Cần Thơ
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THTPCT%20C%E1%BA%A7n%20Th%C6%A1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thtpct-truyen-hinh-can-tho-1980.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THTV Trà Vinh
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THTV Trà Vinh
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THTV%20Tr%C3%A0%20Vinh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thtv-truyen-hinh-tra-vinh-3254.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THVL1 Vĩnh Long 1
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THVL1 Vĩnh Long 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20V%C4%A9nh%20Long%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl1-truyen-hinh-vinh-long-1-899.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THVL2 Vĩnh Long 2
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]THVL2 Vĩnh Long 2
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL2%20V%C4%A9nh%20Long%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl2-truyen-hinh-vinh-long-2-52406.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]TRT Thừa Thiên Huế
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]TRT Thừa Thiên Huế
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TRT%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-trt-truyen-hinh-hue-1283.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]TTV11 Tây Ninh
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]TTV11 Tây Ninh
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TTV11%20T%C3%A2y%20Ninh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ttv11-truyen-hinh-tay-ninh-1981.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]MTV
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]MTV
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22MTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-mtv-2263.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]Bình Dương FM
+#EXTINF:-1,[COLOR cyan]HPlus[/COLOR]Bình Dương FM
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22B%C3%ACnh%20D%C6%B0%C6%A1ng%20FM%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-binh-duong-fm-23964.html%22%7D
 
 
