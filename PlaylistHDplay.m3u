@@ -567,7 +567,7 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN s1
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN s1
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN s2
 http://avg05.mobion.vn/live/t/LQAPGywOrxbQcz6CCrWB8g/s/0y7qcamlqa/e/1514895942779/origin64_9000/71/45036332/live/vnewsthttxvn.m3u8
@@ -583,12 +583,10 @@ http://avg05.mobion.vn/live/t/fZXEyeAGgZmr_FyduPWrzg/s/vv3qg113ht/e/151489613363
 http://avg05.mobion.vn/live/t/E52XDm01fhtXKxoPAd6jQA/s/ng9i96km4f/e/1514896221836/origin64_9000/71/45034203/live/quochoi720p.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",AN NINH TV HD
 http://avg05.mobion.vn/live/t/EexCM8KJ1QQSx21yfwmxOg/s/92uheyzbgu/e/1514896175591/origin64_9000/71/45036354/live/antvthcand.m3u8
-
 #EXTINF:-1 tvg-id="Ha Noi 1" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png",HA NOI 1 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 tvg-id="Ha Noi 2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png",HA NOI 2 HD
-http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8  
-
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 tvg-id="HTV1" group-title="VietTV" tvg-id="HTV1" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="HTV2 HD" group-title="VietTV" tvg-id="HTV2" tvg-logo="http://i.imgur.com/s7x0UhN.png",HTV2
@@ -615,62 +613,38 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8|User-Agent
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-id="HTVC - The Thao " tvg-logo="http://i.imgur.com/bULyZwy.png",HTVC Thethao
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="VTC1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s1
+#EXTINF:-1 tvg-id="VTC1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD 
 http://avg05.mobion.vn/live/t/BHIb4vaOyckNTwRmn04Yaw/s/w2m2naczex/e/1514896259676/origin64_9000/71/45036363/live/vtc1hd.m3u8
-#EXTINF:-1 tvg-id="VTC1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s2
-http://vtclive-a.akamaihd.net/live/disk1/VTC1_1/HLS/VTC1_1.m3u8
-#EXTINF:-1 tvg-id="VTC2" group-title="VietTV" tvg-logo="https://i.imgur.com/T3geo1o.jpg",VTC2
-http://vtclive-a.akamaihd.net/live/disk2/VTC2_2/HLS/VTC2_2.m3u8
-#EXTINF:-1 tvg-id="VTC3 HD" group-title="VietTV" tvg-logo="https://i.imgur.com/olGqfAv.jpg",VTC3 HD
-http://vtclive-a.akamaihd.net/live/disk2/VTC3_3/HLS/VTC3_3.m3u8
-#EXTINF:-1 tvg-id="VTC4" group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",Yeah1! Family-VTC4
-http://vtclive-a.akamaihd.net/live/disk1/VTC4_0/HLS/VTC4_0.m3u8
-#EXTINF:-1 tvg-id="VTC5" group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg",tvBlue-VTC5
-http://vtclive-a.akamaihd.net/live/disk1/VTC5_0/HLS/VTC5_0.m3u8
 #EXTINF:-1 tvg-id="VTC7" group-title="VietTV" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
 http://avg05.mobion.vn/live/t/ZzHnBNyeaL-HeQjQfxl-dg/s/gpmot8xglr/e/1514896529298/origin64_9000/71/45033289/live/todaytvvtc.m3u8
-#EXTINF:-1 tvg-id="VTC7" group-title="VietTV" tvg-logo="http://i.imgur.com/ZfjtPa2.png",Today TV-VTC7 HD
-http://vtclive-a.akamaihd.net/live/disk2/VTC7_8/HLS/VTC7_8.m3u8
 #EXTINF:-1 tvg-id="VTC9" group-title="VietTV" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
 http://avg05.mobion.vn/live/t/Al6SffYhe_xnwIll1WwELA/s/24bd3ks85q/e/1514896530947/origin64_9000/71/45037552/live/letviet.m3u8
-#EXTINF:-1 tvg-id="VTC9" group-title="VietTV" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
-http://vtclive-a.akamaihd.net/live/disk2/VTC9_7/HLS/VTC9_7.m3u8
-#EXTINF:-1 tvg-id="VTC10" group-title="VietTV" tvg-logo="https://i.imgur.com/k6fjc5d.png",NetViet-VTC10
-http://vtclive-a.akamaihd.net/live/disk1/VTC10_4/HLS/VTC10_4.m3u8
-#EXTINF:-1 tvg-id="VTC11" group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",Kids and Family-VTC11
-http://vtclive-a.akamaihd.net/live/disk1/VTC11_0/HLS/VTC11_0.m3u8
-#EXTINF:-1 tvg-id="VTC13" group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",VTC13 HD
-http://vtclive-a.akamaihd.net/live/disk1/VTC13_0/HLS/VTC13_0.m3u8
-#EXTINF:-1 tvg-id="VTC14" group-title="VietTV" tvg-logo="http://image2.cdn.i-com.vn/thumb/600x400/crop//Uploads/images/kenh/vtc14.jpg",VTC14 HD
-http://vtclive-a.akamaihd.net/live/disk2/VTC14_5/HLS/VTC14_5.m3u8
-#EXTINF:-1 tvg-id="VTC16" group-title="VietTV" tvg-logo="https://i.imgur.com/xlH2Riq.jpg",3NTV-VTC16
-http://vtclive-a.akamaihd.net/live/disk2/VTC16_6/HLS/VTC16_6.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="VietTV" tvg-logo="https://static-stage.sctv.vn/channel/11/s5.png"SCTV5
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/playlist.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="https://s9.postimg.org/j0biik44v/anvien.jpg",mobiTV:AN VIEN HD-BTV9
 http://avg05.mobion.vn/live/t/-yHEcHtzbpmKgavsSvi_KA/s/3nhzbeax08/e/1514896358403/origin64_9000/71/45034375/live/anvienhd.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",mobiTV:PHIM HAY s1
-http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",mobiTV:PHIM HAY s2
 http://avg05.mobion.vn/live/t/ewX710JXRxK5G4-f7CCYiw/s/595ylducds/e/1514896452125/origin64_9000/71/45036333/live/phimhay.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",mobiTV:NCM s1
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",mobiTV:NCM s2
 http://avg05.mobion.vn/live/t/RrJjiNFIcukRAM_KSYsesA/s/cb647pvfhs/e/1514896527303/origin64_9000/71/45036362/live/ncmthethao.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://i.imgur.com/j7NsBwD.png",mobiTV:AN NINH THE GIOI s1
-http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/j7NsBwD.png",mobiTV:AN NINH THE GIOI s2
 http://avg05.mobion.vn/live/t/Z-epNPotgHUCji3nI0PPoQ/s/aggv7hje0x/e/1514895770975/origin64_9000/71/45033873/live/anninhthegioi.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",mobiTV:MIEN TAY s1
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",mobiTV:MIEN TAY s2
 http://avg05.mobion.vn/live/t/nllr6UPD4ukIKVvknGtVuQ/s/8g83ks1i2e/e/1514896518485/origin64_9000/71/45036335/live/thdt2mientay.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png",mobiTV:VIETTEEN s1
-http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png",mobiTV:VIETTEEN s2
 http://avg05.mobion.vn/live/t/BymJI2pVuxEEU0hlpMhBSg/s/mkde9vs8h9/e/1514896526159/origin64_9000/71/45036340/live/vietteennhactre.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/sam.png",mobiTV:SAM s1
-http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/playlist.m3u8
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/sam.png",mobiTV:SAM s2
 http://avg05.mobion.vn/live/t/mCXkltRMdaHLAH_Tte7hjg/s/o2i1e3dnc0/e/1514896524988/origin64_9000/71/45036337/live/samthieunhi.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="",mobiTV:ANT-BPTV3
@@ -696,46 +670,141 @@ http://avg05.mobion.vn/live/t/25iEudDI_Z-1FqPxZPeSGQ/s/rtxc3bdlz4/e/151560379703
 #EXTINF:-1 group-title="VietTV" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",mobiTV:CHANNEL NEWS ASIA
 http://avg05.mobion.vn/live/t/SOy0bcn4L_TF_qJAXZv8Lg/s/baw31tkucq/e/1514896323697/origin64_9000/71/45036341/live/channelnewsasia.m3u8
 
+#EXTINF:-1 group-title="VietTV",HaNoiTV1
+http://vietcago.net/vstv/hanoi1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HaNoiTV2
+http://vietcago.net/vstv/hanoi2.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Hanoicab2 - YouTV
-http://tv.beeb.vn/site/iptv?channel=youtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=youtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Hanoicab4 - MOV 
-http://tv.beeb.vn/site/iptv?channel=mov&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=mov&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",BTV4 - iMovie
-http://tv.beeb.vn/site/iptv?channel=imovie&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=imovie&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",SCTV20 - iTV 
-http://tv.beeb.vn/site/iptv?channel=itv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=itv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",AnGiangTV
+http://vietcago.net/vstv/angiangtv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BacNinhTV
+http://vietcago.net/vstv/bacninhtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BacGiangTV
+http://vietcago.net/vstv/bacgiangtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BacKanTV
+http://vietcago.net/vstv/backantv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BacLieuTV
+http://vietcago.net/vstv/baclieutv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BenTreTV
+http://vietcago.net/vstv/bentretv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BinhPhuocTV1
+http://vietcago.net/vstv/binhphuoctv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BinhPhuocTV2
+http://vietcago.net/vstv/binhphuoctv2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",BinhThuanTV
+http://vietcago.net/vstv/binhthuantv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",CaMauTV
+http://vietcago.net/vstv/camautv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",CanThoTV
+http://vietcago.net/vstv/canthotv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",CaoBangTV
+http://vietcago.net/vstv/caobangtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",DakLakTV
+http://vietcago.net/vstv/daklaktv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",DaNangTV1
+http://vietcago.net/vstv/danangtv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",DaNangTV2
+http://vietcago.net/vstv/danangtv2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",DongNaiTV1
+http://vietcago.net/vstv/dongnaitv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",DongNaiTV2
+http://vietcago.net/vstv/dongnaitv2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",GiaLaiTV
+http://vietcago.net/vstv/gialaitv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HaGiangTV
+http://vietcago.net/vstv/hagiangtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HaiPhongTV
+http://vietcago.net/vstv/haiphongtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HaiPhongTV+
+http://vietcago.net/vstv/haiphongtvplus.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HaNamTV
+http://vietcago.net/vstv/hanamtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HaTinhTV
+http://vietcago.net/vstv/hatinhtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",HauGiangTV
+http://vietcago.net/vstv/haugiangtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",KhanhHoaTV
+http://vietcago.net/vstv/khanhhoatv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",KienGiangTV
+http://vietcago.net/vstv/kiengiangtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",KienGiangTV1
+http://vietcago.net/vstv/kiengiangtv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",KonTumTV
+http://www.vietcago.net/vstv/kontumtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",LamDongTV
+http://vietcago.net/vstv/lamdongtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",LongAnTV
+http://vietcago.net/vstv/longantv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",PhuThoTV
+http://vietcago.net/vstv/phuthotv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",PhuYenTV
+http://vietcago.net/vstv/phuyentv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",NgheAnTV
+http://vietcago.net/vstv/ngheantv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",QuangNgaiTV
+http://vietcago.net/vstv/quangngaitv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",QuangNamTV
+http://vietcago.net/vstv/quangnamtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",QuangTriTV
+http://vietcago.net/vstv/quangtritv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",SocTrangTV1
+http://vietcago.net/vstv/soctrangtv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",SocTrangTV2
+http://vietcago.net/vstv/soctrangtv2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",SonLaTV
+http://vietcago.net/vstv/sonlatv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",ThaiNguyenTV1
+http://vietcago.net/vstv/thainguyentv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",ThaiBinhTV
+rtmp://118.70.118.191/live/thaibinhtv
+#EXTINF:-1 group-title="VietTV",TuyenQuangTV
+rtmpt://210.245.89.40:1935/live/livestream
+#EXTINF:-1 group-title="VietTV",TienGiangTV
+rtmp://123.30.141.4:1935/live/thtg
+#EXTINF:-1 group-title="VietTV",ThanhHoaTV
+http://vietcago.net/vstv/thanhhoatv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",TraVinhTV
+http://vietcago.net/vstv/travinhtv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VietTV",YenBaiTV
+http://www.vietcago.net/vstv/yenbaitv.m3u8|User-Agent=Mozilla/5.0
+
 #EXTINF:-1 group-title="VietTV",MTV Vietnam 
-http://tv.beeb.vn/site/iptv?channel=mtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=mtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",MTV Live HD 
-http://tv.beeb.vn/site/iptv?channel=mtvlivehd&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=mtvlivehd&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",MTV Asia 
-http://tv.beeb.vn/site/iptv?channel=mtvasia&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=mtvasia&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",VH1 
-http://tv.beeb.vn/site/iptv?channel=vh1&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="VietTV",Celestial Classic Movies 
-http://tv.beeb.vn/site/iptv?channel=ccm&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=vh1&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",DIVA 
-http://tv.beeb.vn/site/iptv?channel=diva&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=diva&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",History Channel 
-http://tv.beeb.vn/site/iptv?channel=history&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=history&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Discovery Science 
-http://tv.beeb.vn/site/iptv?channel=discoveryscience&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=discoveryscience&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Outdoor Channel 
-http://tv.beeb.vn/site/iptv?channel=outdoor&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=outdoor&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Davinci Learning 
-http://tv.beeb.vn/site/iptv?channel=davincilearning&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=davincilearning&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",E! Entertainment 
-http://tv.beeb.vn/site/iptv?channel=eentertainment&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=eentertainment&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Discovery Kids 
-http://tv.beeb.vn/site/iptv?channel=discoverykids&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=discoverykids&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",Nickelodeon 
-http://tv.beeb.vn/site/iptv?channel=nickelodeon&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=nickelodeon&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",SBS 
-http://tv.beeb.vn/site/iptv?channel=sbs&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=sbs&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",SBS MTV 
-http://tv.beeb.vn/site/iptv?channel=sbsmtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=sbsmtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",TV5 Monde 
-http://tv.beeb.vn/site/iptv?channel=tv5monde&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+http://tv.beeb.vn/site/iptv?channel=tv5monde&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="VietTV" tvg-logo="",Việt News
 http://144.217.84.181/hls/News.m3u8																					
