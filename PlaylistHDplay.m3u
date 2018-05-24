@@ -61,20 +61,24 @@ http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/322122
 #EXTINF:-1 group-title="Sports", DSports L2
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
 
-#EXTINF:-1 group-title="Sports",Movistar+ Futbol 
-http://tv.beeb.vn/site/iptv?channel=movistarfutbol&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="Sports",Movistar+ MotoGP 
-http://tv.beeb.vn/site/iptv?channel=movistarmotogp&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="Sports",Golf Channel 
-http://tv.beeb.vn/site/iptv?channel=golfchannel&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="Sports",Sky Sports F1 
-http://tv.beeb.vn/site/iptv?channel=skysportsf1&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="Sports",PPTV 36 HD 
-http://tv.beeb.vn/site/iptv?channel=pptv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="Sports",EuroSport 1 
-http://tv.beeb.vn/site/iptv?channel=eurosport1&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
-#EXTINF:-1 group-title="Sports",EuroSport 2 
-http://tv.beeb.vn/site/iptv?channel=eurosport2&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport 1 HD
+http://163.172.220.115:8080/bt/btsp1/index.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport 2 HD
+http://163.172.220.115:8080/bt/btsp2/index.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport 3 HD
+http://163.172.220.115:8080/bt/btsp3/index.m3u8
+#EXTINF:-1 group-title="Sports",BT Sport ESPN HD
+http://163.172.220.115:8080/bt/btspespn/index.m3u8
+#EXTINF:1 group-title="Sports",Arena Sport 1
+http://163.172.220.115:8080/arena/arenasp1/index.m3u8
+#EXTINF:1 group-title="Sports",Arena Sport 2
+http://163.172.220.115:8080/arena/arenasp2/index.m3u8
+#EXTINF:1 group-title="Sports",Arena Sport 3
+http://163.172.220.115:8080/arena/arenasp3/index.m3u8
+#EXTINF:1 group-title="Sports",Arena Sport 4
+http://163.172.220.115:8080/arena/arenasp4/index.m3u8
+#EXTINF:1 group-title="Sports",Arena Sport 5
+http://163.172.220.115:8080/arena/arenasp5/index.m3u8
 
 #EXTINF:-1 group-title="Sports",La Liga TV FHD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
@@ -103,6 +107,8 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/733/inde
 #EXTINF:-1 group-title="Sports",Rai Sport SD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/528/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Наш Футбол
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/13/index.m3u8
 #EXTINF:-1 group-title="Sports",Наш Футбол HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/25/index.m3u8
 #EXTINF:-1 group-title="Sports",Football 1 HD
@@ -132,10 +138,6 @@ http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/23/index
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/7/index.m3u8
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="",Матч!Футбол 3 HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/24/index.m3u8
-#EXTINF:-1 group-title="Матч Sports" tvg-logo="",Наш Футбол
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/13/index.m3u8
-#EXTINF:-1 group-title="Матч Sports" tvg-logo="",Наш Футбол HD
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/25/index.m3u8
 #EXTINF:-1 group-title="Матч Sports" tvg-logo="",Матч! HD
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/113/index.m3u8
 #EXTINF:-1 group-title="Матч Sports",Матч! Игра
@@ -208,6 +210,28 @@ http://163.172.220.115:8080/bein/beinspfr1/index.m3u8
 http://163.172.220.115:8080/bein/beinspfr2/index.m3u8
 #EXTINF:-1 group-title="BEin Sports",Bein Sports fr 3
 http://163.172.220.115:8080/bein/beinspfr3/index.m3u8
+
+#EXTINF:-1 group-title="BEin Sports"beINSport 1 HD
+http://163.172.105.25/live?channelId=178&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 2 HD
+http://163.172.105.25/live?channelId=179&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 3 HD
+http://163.172.105.25/live?channelId=180&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 4 HD
+http://163.172.105.25/live?channelId=181&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 5 HD
+http://163.172.105.25/live?channelId=182&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 6 HD
+http://163.172.105.25/live?channelId=183&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 7 HD
+http://163.172.105.25/live?channelId=184&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 8 HD
+http://163.172.105.25/live?channelId=185&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 9 HD
+http://163.172.105.25/live?channelId=186&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports"beINSport 10 HD
+http://163.172.105.25/live?channelId=187&uid=171&deviceUser=seanmccarr&devicePass=120817
+
 
 #EXTINF:-1 group-title="BEin Sports", beIN Sports HD Esp 
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
@@ -636,14 +660,6 @@ http://avg05.mobion.vn/live/t/SOy0bcn4L_TF_qJAXZv8Lg/s/baw31tkucq/e/151489632369
 http://vietcago.net/vstv/hanoi1.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",HaNoiTV2
 http://vietcago.net/vstv/hanoi2.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Hanoicab2 - YouTV
-http://tv.beeb.vn/site/iptv?channel=youtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Hanoicab4 - MOV 
-http://tv.beeb.vn/site/iptv?channel=mov&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",BTV4 - iMovie
-http://tv.beeb.vn/site/iptv?channel=imovie&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",SCTV20 - iTV 
-http://tv.beeb.vn/site/iptv?channel=itv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",AnGiangTV
 http://vietcago.net/vstv/angiangtv1.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",BacNinhTV
@@ -736,37 +752,6 @@ http://vietcago.net/vstv/thanhhoatv.m3u8|User-Agent=Mozilla/5.0
 http://vietcago.net/vstv/travinhtv.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 group-title="VietTV",YenBaiTV
 http://www.vietcago.net/vstv/yenbaitv.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="VietTV",MTV Vietnam 
-http://tv.beeb.vn/site/iptv?channel=mtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",MTV Live HD 
-http://tv.beeb.vn/site/iptv?channel=mtvlivehd&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",MTV Asia 
-http://tv.beeb.vn/site/iptv?channel=mtvasia&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",VH1 
-http://tv.beeb.vn/site/iptv?channel=vh1&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",DIVA 
-http://tv.beeb.vn/site/iptv?channel=diva&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",History Channel 
-http://tv.beeb.vn/site/iptv?channel=history&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Discovery Science 
-http://tv.beeb.vn/site/iptv?channel=discoveryscience&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Outdoor Channel 
-http://tv.beeb.vn/site/iptv?channel=outdoor&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Davinci Learning 
-http://tv.beeb.vn/site/iptv?channel=davincilearning&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",E! Entertainment 
-http://tv.beeb.vn/site/iptv?channel=eentertainment&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Discovery Kids 
-http://tv.beeb.vn/site/iptv?channel=discoverykids&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",Nickelodeon 
-http://tv.beeb.vn/site/iptv?channel=nickelodeon&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",SBS 
-http://tv.beeb.vn/site/iptv?channel=sbs&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",SBS MTV 
-http://tv.beeb.vn/site/iptv?channel=sbsmtv&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="VietTV",TV5 Monde 
-http://tv.beeb.vn/site/iptv?channel=tv5monde&account=-1000&key=cungxemcungvui_11_04_2018_secret_key&t=.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="VietTV" tvg-logo="",Việt News
 http://144.217.84.181/hls/News.m3u8|User-Agent=Mozilla/5.0
