@@ -41,7 +41,9 @@ https://cdn-center.livestream-cdn.com/sportinter/skynet_sport_hd_360p.stream/chu
 https://cdn-center.livestream-cdn.com/sportinter/skynet_sport_hd_480p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",SkyNet Sports HD s3
 https://cdn-center.livestream-cdn.com/sportinter/skynet_sport_hd_720p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BT SPORT 2 HD S1
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BT SPORT 2
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/BTSport2.m3u8
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BT SPORT 2 HD 
 http://163.172.220.115:8080/bt/btsp2/index.m3u8
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BeIn Sports 3
 http://163.172.220.115:8080/bein/beinsp3/index.m3u8
@@ -53,6 +55,10 @@ http://163.172.105.25/live?channelId=180&uid=171&deviceUser=seanmccarr&devicePas
 http://163.172.105.25/live?channelId=181&uid=171&deviceUser=seanmccarr&devicePass=120817
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",Bein Sports fr 1
 http://163.172.220.115:8080/bein/beinspfr1/index.m3u8
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",SPORT TV 1 HD s1
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",SPORT TV 1 HD s2
+http://sport7.pw/lba/OTRjY2NlMjAyZjk4ODE1YzVmYWVlZTEyYWY0MTMzZTI=/g1/SportTV1.m3u8
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",Thai:Bein sports 2 
 https://cdn-center.livestream-cdn.com/sporttrue/bein_sports_2_480p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",Матч! Футбол 1 HD
@@ -65,6 +71,7 @@ http://persik.by/stream/3903/293564/10266.m3u8
 http://95.154.129.24/hls/hd1/hd1.m3u8
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",Матч!Футбол 1 HD
 http://95.154.129.24/hls/hd1/hd1.m3u8
+
 
 
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22h00 RUSSIA Vs ARÁBIA SAUDITA|CANALE 5
@@ -157,11 +164,11 @@ https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01h00 TUNISIA Vs INGLATERRA|BBC ONE 
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5
 |  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19h00 COLOMBIA Vs JAPÃOITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19h00 COLOMBIA Vs JAPÃO|ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19h00 COLOMBIA Vs JAPÃOBBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19h00 COLOMBIA Vs JAPÃO|BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19h00 COLOMBIA Vs JAPÃOBBC ONE 
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19h00 COLOMBIA Vs JAPÃO|BBC ONE 
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5
  
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22h00 POLÓNIA Vs SENEGAL| ITALIA1
@@ -169,122 +176,166 @@ http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22h00 POLÓNIA Vs SENEGAL| ITV
 https://ovh.easyview.eu/hls/itv.m3u8
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01h00 RUSSIA Vs EGYPT ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01h00 RUSSIA Vs EGYPT| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01h00 RUSSIA Vs EGYPT BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01h00 RUSSIA Vs EGYPT| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01h00 RUSSIA Vs EGYPT BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01h00 RUSSIA Vs EGYPT| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5 
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19h00 PORTUGAL Vs MARROCOS ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19h00 PORTUGAL Vs MARROCOS| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19h00 PORTUGAL Vs MARROCOS BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19h00 PORTUGAL Vs MARROCOS| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19h00 PORTUGAL Vs MARROCOS BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19h00 PORTUGAL Vs MARROCOS| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5 
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22h00 URUGUAI Vs ARÁBIA SAUDITA ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22h00 URUGUAI Vs ARÁBIA SAUDITA| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22h00 URUGUAI Vs ARÁBIA SAUDITA BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22h00 URUGUAI Vs ARÁBIA SAUDITA| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22h00 URUGUAI Vs ARÁBIA SAUDITA BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22h00 URUGUAI Vs ARÁBIA SAUDITA| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01h00 IRÃO Vs ESPANHA ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01h00 IRÃO Vs ESPANHA| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01h00 IRÃO Vs ESPANHA ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01h00 IRÃO Vs ESPANHA| ITV
 https://ovh.easyview.eu/hls/itv.m3u8   
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19h00 Denmark vs Australia ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19h00 Denmark vs Australia| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22h00 France vs Peru ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22h00 France vs Peru| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01h00 Argentina vs Croatia BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01h00 Argentina vs Croatia| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01h00 Argentina vs Croatia BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01h00 Argentina vs Croatia| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19h00 Brazil vs Costa Rica ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19h00 Brazil vs Costa Rica| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22h00 Nigeria vs Iceland BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22h00 Nigeria vs Iceland| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22h00 Nigeria vs Iceland BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22h00 Nigeria vs Iceland| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01h00 Serbia vs Switzerland BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01h00 Serbia vs Switzerland| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01h00 Serbia vs Switzerland BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01h00 Serbia vs Switzerland| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19h00 Belgium vs Tunisia BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19h00 Belgium vs Tunisia| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19h00 Belgium vs Tunisia BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19h00 Belgium vs Tunisia| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22h00 South Korea vs Mexico ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22h00 South Korea vs Mexico| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01h00 Germany vs Sweden ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01h00 Germany vs Sweden| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19h00 England vs Panama BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19h00 England vs Panama| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19h00 England vs Panama BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19h00 England vs Panama| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22h00 Japan vs Senegal BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22h00 Japan vs Senegal| BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22h00 Japan vs Senegal BBC ONE
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22h00 Japan vs Senegal| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01h00 Poland vs Colombia ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01h00 Poland vs Colombia| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21h00 Uruguay vs Russia ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21h00 Uruguay vs Russia| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21h00 Denmark vs France ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21h00 Denmark vs France| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01h00 ESPANHA Vs MARROCOS ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01h00 ESPANHA Vs MARROCOS| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21h00 AUSTRALIA Vs PERU ITV4
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21h00 AUSTRALIA Vs PERU| ITV4
 https://ovh.easyview.eu/hls/itv4.m3u8 
   
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21h00 DINAMARCA Vs FRANÇA ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21h00 DINAMARCA Vs FRANÇA| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21h00 DINAMARCA Vs FRANÇA ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21h00 DINAMARCA Vs FRANÇA| ITV
 https://ovh.easyview.eu/hls/itv.m3u8 
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01h00 NIGERIA Vs ARGENTINA ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01h00 NIGERIA Vs ARGENTINA| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21h00 COREIA SUL Vs ALEMANHA ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21h00 COREIA SUL Vs ALEMANHA| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01h00 SERBIA Vs BRASIL ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01h00 SERBIA Vs BRASIL| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01h00 SERBIA Vs BRASIL ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01h00 SERBIA Vs BRASIL| ITV
 https://ovh.easyview.eu/hls/itv.m3u8 
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01h00 SUIÇA Vs COSTA RICA ITV4
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01h00 SUIÇA Vs COSTA RICA| ITV4
 https://ovh.easyview.eu/hls/itv4.m3u8
   
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21h00 SENEGAL Vs COLOMBIA ITALIA1
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21h00 SENEGAL Vs COLOMBIA| ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01h00 INGLATERRA Vs BÉLGICA ITALIA1  
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01h00 INGLATERRA Vs BÉLGICA| ITALIA1  
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01h00 INGLATERRA Vs BÉLGICA ITV
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01h00 INGLATERRA Vs BÉLGICA| ITV
 https://ovh.easyview.eu/hls/itv.m3u8
   
-#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01h00 PANAMA Vs TUNISIA ITV4
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01h00 PANAMA Vs TUNISIA| ITV4
 https://ovh.easyview.eu/hls/itv4.m3u8
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",30.06.18 21h00 Nhất bảng C Vs Nhì bảng D (lịch)
+https://ovh.easyview.eu/
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 01h00 Nhất bảng A Vs Nhì bảng B (lịch)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 21h00 Nhất bảng B Vs Nhì bảng A (lịch)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 01h00 Nhất bảng D Vs Nhì bảng C (lịch)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 21h00 Nhất bảng E Vs Nhì bảng F (lịch)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 01h00 Nhất bảng G Vs Nhì bảng H (lịch)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",06.07.18 21h00 QF1 Vs QF2 (Lịch Tứ kết)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 01h00 QF5 Vs QF6 (Lịch Tứ kết)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 19h00 QF7 Vs QF8 (Lịch Tứ kết)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",08.07.18 01h00 QF3 Vs QF4 (Lịch Tứ kết)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",11.07.18 01h00 SF1 Vs SF2 (Lịch Bán  kết)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",12.07.18 01h00 SF3 Vs SF4 (Lịch Bán kết)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.07.18 21h00 (Lịch tranh giải ba - tư)
+https://ovh.easyview.eu/
+
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22h00 (Tranh giải nhất - nhì)|BBC ONE (Ace)
+acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5 
+#EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22h00 (Tranh giải nhất - nhì)|BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8 
+
 
 
 #EXTINF:-1 group-title="SuperSports",BóngĐá_BóngChuyền 1-HD (xem theo giờ VN - 1h)
