@@ -13,6 +13,12 @@ acestream://3a87de847f2366e1e6c3bbd0c8a1c9e8a49ad250
 acestream://64ddc0d865c7781d64f5e892b6bf1e5ba97f3ac5
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",AV18(Ace)
 acestream://e94310f4f16b00befaa0c127de5e57fdf9601c1c
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BeIn Sports 1 AR
+acestream://c27834ab6bb9f56b5a9a3c4b6b49afd158ada826
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BeIn Sports 3 AR
+acestream://25b687b2f655dab20e7045e4291c6254c7c9f89f
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",BeIn Sports 4 AR
+acestream://180a6074916c7fd21bdc49724b5f8c9ec1cfb421
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",Ace 1
 acestream://e94310f4f16b00befaa0c127de5e57fdf9601c1c
 #EXTINF:-1 group-title="UEFA" tvg-logo="https://s7.postimg.cc/48b4p0saz/uefa.jpg",Ace 2
@@ -617,16 +623,10 @@ acestream://0d8cbc1e2651de92ac5a47bb787579746bbf2314
 acestream://5f081dfd5c50cfe992019f491ad526d2fabe3fa5
 #EXTINF:-1 group-title="Acestream",BeIn Sports 1 AR
 acestream://c27834ab6bb9f56b5a9a3c4b6b49afd158ada826
-#EXTINF:-1 group-title="Acestream",BeIn Sports 1 FR
-acestream://d225a8a87811e3346dae8c01611417e7b4a41c3f
-#EXTINF:-1 group-title="Acestream",BeIn Sports 10 AR
-acestream://b058fb58786e65abe1fe31bfc5fa0a16be2fc6bd
 #EXTINF:-1 group-title="Acestream",BeIn Sports 2 AR
 acestream://d306ba99c1921c79a4e2e977041dc4f1cc7ae6d4
 #EXTINF:-1 group-title="Acestream",BeIn Sports 3 AR
 acestream://25b687b2f655dab20e7045e4291c6254c7c9f89f
-#EXTINF:-1 group-title="Acestream",BeIn Sports 3 FR
-acestream://8be4adf849564dbde878d106dab780382bda864b
 #EXTINF:-1 group-title="Acestream",BeIn Sports 4 AR
 acestream://180a6074916c7fd21bdc49724b5f8c9ec1cfb421
 #EXTINF:-1 group-title="Acestream",BeIn Sports 5 AR
@@ -637,10 +637,16 @@ acestream://54b93765eb9a175c49a10ecac407abb909cd1c38
 acestream://efa8aa93f202c3b15d81895e7168e3554c30612c
 #EXTINF:-1 group-title="Acestream",BeIn Sports 9 AR
 acestream://89e8f1fdd639e491b20bea4b758603fb222e718e
-#EXTINF:-1 group-title="Acestream",Bein Sports 1 TR
-acestream://dc26a2d1f85f9ef315746afa6fa71d6f325c6078
+#EXTINF:-1 group-title="Acestream",BeIn Sports 10 AR
+acestream://b058fb58786e65abe1fe31bfc5fa0a16be2fc6bd
+#EXTINF:-1 group-title="Acestream",BeIn Sports 1 FR
+acestream://d225a8a87811e3346dae8c01611417e7b4a41c3f
 #EXTINF:-1 group-title="Acestream",Bein Sports 2 FR
 acestream://337c1c1f93fe6cfed8f2e1450e70dff0b1eee97f
+#EXTINF:-1 group-title="Acestream",BeIn Sports 3 FR
+acestream://8be4adf849564dbde878d106dab780382bda864b
+#EXTINF:-1 group-title="Acestream",Bein Sports 1 TR
+acestream://dc26a2d1f85f9ef315746afa6fa71d6f325c6078
 #EXTINF:-1 group-title="Acestream",live13
 acestream://3a87de847f2366e1e6c3bbd0c8a1c9e8a49ad250
 #EXTINF:-1 group-title="Acestream",live19
@@ -5531,3 +5537,4 @@ http://209.250.131.2:8000/;stream.mp3
 http://vndcradio2.serverroom.us:4480/
 #EXTINF:-1 group-title="Radio" ,Hải Ngoại:Radio VNHN/VABC Falls Church
 http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
+
