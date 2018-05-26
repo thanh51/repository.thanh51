@@ -213,7 +213,6 @@ https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01h00 Argentina vs Croatia| BBC ONE
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5  
  
-
 #EXTINF:-1 group-title="BongDa" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19h00 Brazil vs Costa Rica| ITV
 https://ovh.easyview.eu/hls/itv.m3u8  
 
@@ -383,6 +382,25 @@ http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/322122
 #EXTINF:-1 group-title="Sports", DSports L2
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" tvg-id=" group-title="Sports",SKY SPORTS FOOTBALL HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/kf0oba1502554875.png" tvg-id=" group-title="Sports",SKY SPORTS ACTION
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyAction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="Sports",BT SPORT 1
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/BTSport1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" tvg-id=" group-title="Sports",BT SPORT 2
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/BTSport2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" tvg-id=" group-title="Sports",BT SPORT ESPN HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsportespn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="Sports",SPORT TV 1 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="Sports",SPORT TV 3 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="Sports",SPORT TV 5 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png" tvg-id=" group-title="Sports",TSN1
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/TSN1.m3u8
+
 #EXTINF:-1 group-title="Sports",BT Sport 1 HD
 http://163.172.220.115:8080/bt/btsp1/index.m3u8
 #EXTINF:-1 group-title="Sports",BT Sport 2 HD
@@ -478,11 +496,6 @@ http://163.172.105.25/live?channelId=185&uid=171&deviceUser=seanmccarr&devicePas
 http://163.172.105.25/live?channelId=186&uid=171&deviceUser=seanmccarr&devicePass=120817
 #EXTINF:-1 group-title="BEin Sports",beINSport 10 HD
 http://163.172.105.25/live?channelId=187&uid=171&deviceUser=seanmccarr&devicePass=120817
-
-#EXTINF:-1 group-title="BEin Sports", beIN Sports HD Esp 
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/566/index.m3u8
-#EXTINF:-1 group-title="BEin Sports", beIN LaLiga HD Esp 
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
 
 
 #EXTINF:-1 group-title="Acestream",AD SPORT 2
@@ -2674,6 +2687,73 @@ http://usuarios.club/usuarios/src5/UnivisionTDN/mayo/mayo.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/x0NXX/d54f427175.png" group-title="Latin" tvg-name="Univision Tlnovelas",Univision Tlnovelas
 http://usuarios.club/usuarios/src5/UnivisionTlnovelas/mayo/mayo.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC1.png" tvg-id=" group-title="UK",BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC1.png" tvg-id=" group-title="UK",BBC ONE HD
+http://185.59.221.136:9981/stream/channelid/650783408
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" tvg-id=" group-title="UK",BBC TWO
+https://ovh.easyview.eu/hls/bbc2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" tvg-id=" group-title="UK",BBC TWO HD
+http://185.59.221.136:9981/stream/channelid/382198530
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" tvg-id=" group-title="UK",ITV
+https://ovh.easyview.eu/hls/itv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" tvg-id=" group-title="UK",ITV HD
+http://185.59.221.136:9981/stream/channelid/1998784340
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" tvg-id=" group-title="UK",CHANNEL 4
+https://ovh.easyview.eu/hls/channel4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5UK.png" tvg-id=" group-title="UK",CHANNEL 5
+https://ovh.easyview.eu/hls/five.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" tvg-id=" group-title="UK",E4
+https://ovh.easyview.eu/hls/e4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR
+https://ovh.easyview.eu/hls/bbc4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2
+https://ovh.easyview.eu/hls/itv2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3
+https://ovh.easyview.eu/hls/itv3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" tvg-id=" group-title="UK",ITV 4
+https://ovh.easyview.eu/hls/itv4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" tvg-id=" group-title="UK",ITVBe
+https://ovh.easyview.eu/hls/itvbe.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" tvg-id=" group-title="UK",DAVE
+https://ovh.easyview.eu/hls/dave.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/te6XRf8.png" tvg-id=" group-title="UK",DRAMA
+https://ovh.easyview.eu/hls/drama.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" tvg-id=" group-title="UK",REALLY
+https://ovh.easyview.eu/hls/really.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHALLENGE.png" tvg-id=" group-title="UK",CHALLENGE
+https://ovh.easyview.eu/hls/challenge.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" tvg-id=" group-title="UK",4Seven
+https://ovh.easyview.eu/hls/4seven.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" tvg-id=" group-title="UK",CBS Reality
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/126/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5USA.png" tvg-id=" group-title="UK",5 USA
+https://ovh.easyview.eu/hls/5usa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BET.png" tvg-id=" group-title="UK",BET
+https://ovh.easyview.eu/hls/betblackenttv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" tvg-id=" group-title="UK",YESTERDAY
+https://ovh.easyview.eu/hls/yesterday.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" tvg-id=" group-title="UK",YESTERDAY +1
+https://ovh.easyview.eu/hls/yesterdayplus1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" tvg-id=" group-title="UK",VH1 EUROPE
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2329.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png" tvg-id=" group-title="UK",BBC NEWS
+https://ovh.easyview.eu/hls/bbcnews.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" tvg-id=" group-title="UK",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCPARL.png" tvg-id=" group-title="UK",BBC PARLIAMENT
+https://ovh.easyview.eu/hls/bbc_parliament.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="UK",BLOOMBERG
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/176/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="UK",FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="UK",FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" tvg-id=" group-title="UK",CBBC
+https://ovh.easyview.eu/hls/cbbc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBEEBIES.png" tvg-id=" group-title="UK",Cbeebies
+https://ovh.easyview.eu/hls/cbeebies.m3u8
 
 
 #EXTINF:-1 group-title="Russiatv" tvg-logo="http://tv.belgorod.zelenaya.net/stalker_portal/misc/logos/320/1.png" tvg-id="e6a9a3232bc3292e6c058d939a366e6f",Первый канал Белгород
