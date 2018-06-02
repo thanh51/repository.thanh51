@@ -823,8 +823,11 @@ http://baochinh.ml/iptv-nexttv.php?kenh=vtv7
 http://baochinh.ml/iptv-nexttv.php?kenh=vtv8
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
 http://baochinh.ml/iptv-nexttv.php?kenh=vtv9
-#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://www.phimmoi.net/logo/phimmoi-square.png",fb.com/dobaochinh
-http://baochinh.ml/phimmoi.php
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://img-vt.kplus.vn/media/lets-viet.jpg",SCTV4 - Let's Việt
+http://baochinh.ml/iptv-hplus.php?kenh=sctv4-letviet
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://img-vt.kplus.vn/media/iTV.png",SCTV 20 - iTV
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_145673317781.jpg",ANTV
 http://baochinh.ml/iptv-nexttv.php?kenh=antv
@@ -834,13 +837,9 @@ http://baochinh.ml/iptv-nexttv.php?kenh=qpvn
 http://baochinh.ml/iptv-nexttv.php?kenh=ttxvn
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png",Quốc Hội
 http://baochinh.ml/iptv-nexttv.php?kenh=quochoi
-#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://img-vt.kplus.vn/media/lets-viet.jpg",SCTV4 - Let's Việt
-http://baochinh.ml/iptv-hplus.php?kenh=sctv4-letviet
-#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://img-vt.kplus.vn/media/iTV.png",SCTV 20 - iTV
-http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
-#EXTINF:-1 group-title="TV by DoBaoChinh"  tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Movies
 http://vip.media5.keeng.vn/5dtv/5dtv.m3u8
-#EXTINF:-1 group-title="TV by DoBaoChinh"  tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Musics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Musics
 http://media5.keeng.vn/livetv/keeng.m3u8
 
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png",HTV1
@@ -908,17 +907,15 @@ http://baochinh.ml/iptv-nexttv.php?kenh=vtc14
 http://baochinh.ml/iptv-nexttv.php?kenh=vtc16
 
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.iptv-hplus.com.vn/355x200/poster/2017/08/09/416777-AXN.png",AXN SD
-http://baochinh.ml/iptv-mytvnet.php?id=axnsd
+http://baochinh.ml/iptv-hplus.php?kenh=axn
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://api.mytvnet.vn/static/channel/40.png",HBO SD
-http://baochinh.ml/iptv-mytvnet.php?id=hbosd
-
 
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",Fox Movies HD
 http://baochinh.ml/iptv-hplus.php?kenh=foxmovies-hd
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
 http://baochinh.ml/iptv-hplus.php?kenh=foxlife-hd
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO
-http://baochinh.ml/iptv-hplus.php?kenh=maxbyhbo
+
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO
 http://baochinh.ml/iptv-hplus.php?kenh=redbyhbo
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",Fox HD
@@ -934,13 +931,17 @@ http://baochinh.ml/iptv-hplus.php?kenh=cartoon
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/602255-tonami.png",Boomerang
 http://baochinh.ml/iptv-hplus.php?kenh=boomerang
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://api.mytvnet.vn/static/channel/45.png",Disney Channel
-http://baochinh.ml/iptv-mytvnet.php?id=disneychannel
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/585539-cbee.png",BBC Cbeebies
+http://baochinh.ml/iptv-hplus.php?kenh=cbeebies
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/866934-babyfirst.png",Baby First
+http://baochinh.ml/iptv-hplus.php?kenh=baby-first
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",Warner TV
 http://baochinh.ml/iptv-hplus.php?kenh=warner-tv
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/405224-FOX-Sports-1-HD.png",Fox Sports HD
 http://baochinh.ml/iptv-hplus.php?kenh=foxsport-1hd
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/534600-FOX-Sport-2-HD.png",Fox Sports 2
-http://baochinh.ml/iptv-mytvnet.php?id=foxsport-2
+
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/379565-MTV.png",MTV
 http://baochinh.ml/iptv-hplus.php?kenh=mtv
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/11/191147-Channel_V_Logo.png",Channel V HD
@@ -1094,6 +1095,7 @@ http://baochinh.ml/iptv-mobion.php?id=audio-thieunhi
 http://baochinh.ml/iptv-mobion.php?id=audio-nambo
 #EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_2250571314568905.jpg",Đọc Sách
 http://baochinh.ml/iptv-mobion.php?id=audio-docsach
+
 
 
 #EXTINF:-1 group-title="HPlus" tvg-logo="",VTV1
