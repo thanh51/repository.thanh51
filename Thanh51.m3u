@@ -13,22 +13,23 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
 #EXTINF:-1 group-title="FIFA 2018",CCTV5+HD
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000131&playtoken=ABCDEFGH&auth=no
 
-#EXTINF:-1group-title="FIFA 2018",WC2018 - 1080p50
-acestream://e242531f84815480f07de4ab74b75ea5fcdae35d
-#EXTINF:-1group-title="FIFA 2018",WC2018 - 7200p50
-acestream://786a36ccad0270074da9171e916cda976900b446
-#EXTINF:-1group-title="FIFA 2018",WC-FEED-ENG02
-acestream://b83b1ced0f1d36ed6f5cfa9cfb47941aa178f01b
-#EXTINF:-1group-title="FIFA 2018",WC-FEED-FRE01
-acestream://d15c46f4ee2b3aecbb6d28e7c81970933e167cfd
-#EXTINF:-1group-title="FIFA 2018",WC-FEED-GER01
-acestream://aa7dbe07f3409b969d6aed45b956170fff52109b
-#EXTINF:-1group-title="FIFA 2018",WC-FEED-POR01
-acestream://b50c0f263b1f9ddbe62ae4afa48a68512237640e
-#EXTINF:-1group-title="FIFA 2018",WC-FEED-SPA01
-acestream://4dafbd30a1817ba191003ac76fb04c845a6121cc
-#EXTINF:-1group-title="FIFA 2018",WC-FEED-SPA02
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 1
+acestream://4dafbd30a1817ba191003ac76fb04c845a6121cc 
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 2
 acestream://04af0dcf9c0884c2af373e10a39883f49187622c
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 3
+acestream://b50c0f263b1f9ddbe62ae4afa48a68512237640e 
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 4
+acestream://2b3119a7752920ad43a627d4cf60f69e2e6efb04 
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 5
+acestream://b83b1ced0f1d36ed6f5cfa9cfb47941aa178f01b 
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 6
+acestream://aa7dbe07f3409b969d6aed45b956170fff52109b 
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 7
+acestream://fac50f279768f6e271b4bf249b1ce762e400ad6a 
+#EXTINF:-1 group-title="FIFA 2018",Acestream WC 8
+acestream://d15c46f4ee2b3aecbb6d28e7c81970933e167cfd 
+
 
 
 #EXTINF:-1 tvg-id="VTV6 HD" group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19h00 Denmark vs Australia VTV6 HD
