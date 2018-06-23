@@ -1839,44 +1839,30 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Tay_Ninh&cdn=1
 #EXTINF:-1 group-title="HPlus" tvg-logo="",BINH DUONG FM
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 
-#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s1
-http://avg05.mobion.vn/live/t/1i_mRxI1492wSuU8C13JQw/s/8qpkkyf9wu/e/1514896025547/origin64_9000/71/45034366/live/vtv1hd.m3u8
-#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD s3
-http://118.107.68.10:1935/live/_definst_//VTV1_H_5374560ab1atyu33dfee617ce3516ca502d/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD 
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="VTV2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="VTV8 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN s1
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vnews.png",TTXVN s2
-http://avg05.mobion.vn/live/t/LQAPGywOrxbQcz6CCrWB8g/s/0y7qcamlqa/e/1514895942779/origin64_9000/71/45036332/live/vnewsthttxvn.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHAN DAN
-http://avg05.mobion.vn/live/t/dcUPXWU2DVkTKjFB2r0YDA/s/tgowq6c1dh/e/1514896088321/origin64_9000/71/45036336/live/thnhandan.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png",NHÂN DÂN HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN s1
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/1SFC75J.png",QPVN s2
-http://avg05.mobion.vn/live/t/fZXEyeAGgZmr_FyduPWrzg/s/vv3qg113ht/e/1514896133634/origin64_9000/71/45036353/live/qpvnquocphong.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png",QUOC HOI HD
-http://avg05.mobion.vn/live/t/E52XDm01fhtXKxoPAd6jQA/s/ng9i96km4f/e/1514896221836/origin64_9000/71/45034203/live/quochoi720p.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png",AN NINH TV HD
-http://avg05.mobion.vn/live/t/EexCM8KJ1QQSx21yfwmxOg/s/92uheyzbgu/e/1514896175591/origin64_9000/71/45036354/live/antvthcand.m3u8
 #EXTINF:-1 tvg-id="Ha Noi 1" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png",HA NOI 1 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 tvg-id="Ha Noi 2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png",HA NOI 2 HD
@@ -1907,62 +1893,7 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="HTVC - The Thao " tvg-logo="http://i.imgur.com/bULyZwy.png",HTVC Thethao
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTC1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD 
-http://avg05.mobion.vn/live/t/BHIb4vaOyckNTwRmn04Yaw/s/w2m2naczex/e/1514896259676/origin64_9000/71/45036363/live/vtc1hd.m3u8
-#EXTINF:-1 tvg-id="VTC7" group-title="VietTV" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
-http://avg05.mobion.vn/live/t/ZzHnBNyeaL-HeQjQfxl-dg/s/gpmot8xglr/e/1514896529298/origin64_9000/71/45033289/live/todaytvvtc.m3u8
-#EXTINF:-1 tvg-id="VTC9" group-title="VietTV" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
-http://avg05.mobion.vn/live/t/Al6SffYhe_xnwIll1WwELA/s/24bd3ks85q/e/1514896530947/origin64_9000/71/45037552/live/letviet.m3u8
-#EXTINF:-1 tvg-id="" group-title="VietTV" tvg-logo="https://static-stage.sctv.vn/channel/11/s5.png"SCTV5
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="https://s9.postimg.org/j0biik44v/anvien.jpg",mobiTV:AN VIEN HD-BTV9
-http://avg05.mobion.vn/live/t/-yHEcHtzbpmKgavsSvi_KA/s/3nhzbeax08/e/1514896358403/origin64_9000/71/45034375/live/anvienhd.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",mobiTV:PHIM HAY s1
-http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png",mobiTV:PHIM HAY s2
-http://avg05.mobion.vn/live/t/ewX710JXRxK5G4-f7CCYiw/s/595ylducds/e/1514896452125/origin64_9000/71/45036333/live/phimhay.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",mobiTV:NCM s1
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ncm.png",mobiTV:NCM s2
-http://avg05.mobion.vn/live/t/RrJjiNFIcukRAM_KSYsesA/s/cb647pvfhs/e/1514896527303/origin64_9000/71/45036362/live/ncmthethao.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://i.imgur.com/j7NsBwD.png",mobiTV:AN NINH THE GIOI s1
-http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/j7NsBwD.png",mobiTV:AN NINH THE GIOI s2
-http://avg05.mobion.vn/live/t/Z-epNPotgHUCji3nI0PPoQ/s/aggv7hje0x/e/1514895770975/origin64_9000/71/45033873/live/anninhthegioi.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",mobiTV:MIEN TAY s1
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/mien-tay.png",mobiTV:MIEN TAY s2
-http://avg05.mobion.vn/live/t/nllr6UPD4ukIKVvknGtVuQ/s/8g83ks1i2e/e/1514896518485/origin64_9000/71/45036335/live/thdt2mientay.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png",mobiTV:VIETTEEN s1
-http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/vietteen.png",mobiTV:VIETTEEN s2
-http://avg05.mobion.vn/live/t/BymJI2pVuxEEU0hlpMhBSg/s/mkde9vs8h9/e/1514896526159/origin64_9000/71/45036340/live/vietteennhactre.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/sam.png",mobiTV:SAM s1
-http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/sam.png",mobiTV:SAM s2
-http://avg05.mobion.vn/live/t/mCXkltRMdaHLAH_Tte7hjg/s/o2i1e3dnc0/e/1514896524988/origin64_9000/71/45036337/live/samthieunhi.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="",mobiTV:ANT-BPTV3
-http://avg05.mobion.vn/live/t/NXqlqYxF9SG72Zz29rN8zg/s/4042l3v8jh/e/1514896532259/origin64_9000/71/45036338/live/antthieunhi.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_cachmang.png",mobiTV:NHAC CACH MANG
-http://avg05.mobion.vn/live/t/_nBRu2GVNiUyThLujjBKcw/s/q6g20hmwu6/e/1515603846842/origin64_9000/71/45036342/live/nhaccachmang.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_codien.png",mobiTV:NHAC CO DIEN
-http://avg05.mobion.vn/live/t/332ozYpz97YbwyPhCenG7A/s/xus8a792sg/e/1515603959474/origin64_9000/71/45036347/live/nhaccodien.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_dantoc.png",mobiTV:NHAC DAN TOC
-http://avg05.mobion.vn/live/t/Z6EYnRChFuxwVGVbvjKxZA/s/kbs6dy3hm9/e/1515603871434/origin64_9000/71/45036345/live/nhacdantoc.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_nambo.png",mobiTV:NHAC NAM BO
-http://avg05.mobion.vn/live/t/VL502tUmoqPw9M8hT7m84A/s/1mtewzulzg/e/1514896782417/origin64_9000/71/45036351/live/nhacnambo.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_nhacnhe.png",mobiTV:NHAC NHE
-http://avg05.mobion.vn/live/t/27okJe70THyAXWL0OBubJg/s/h6tutw7yx8/e/1515603998739/origin64_9000/71/45036348/live/nhacnhe.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//tuoi-than-tien.jpg",mobiTV:CA NHAC THIEU NHI
-http://avg05.mobion.vn/live/t/l1GSD7BoFOheoBB4cSNgwg/s/g5x970z5xq/e/1514896780715/origin64_9000/71/45036349/live/canhacthieunhi.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_nhactre.png",mobiTV:NHAC TRE
-http://avg05.mobion.vn/live/t/48Wc0fwqseJYdQQ1Lcfdpg/s/t34ve7rcds/e/1514896776508/origin64_9000/71/45036346/live/nhactre.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_trutinh.png",mobiTV:NHAC TRU TINH
-http://avg05.mobion.vn/live/t/bauvL4DQ9rqw8qLqYcEDZA/s/e9wlkqbpcf/e/1515603927253/origin64_9000/71/45036344/live/nhactrutinh.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_docsach.png",mobiTV:DOC SACH
-http://avg05.mobion.vn/live/t/25iEudDI_Z-1FqPxZPeSGQ/s/rtxc3bdlz4/e/1515603797036/origin64_9000/71/45036352/live/docsach.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",mobiTV:CHANNEL NEWS ASIA
-http://avg05.mobion.vn/live/t/SOy0bcn4L_TF_qJAXZv8Lg/s/baw31tkucq/e/1514896323697/origin64_9000/71/45036341/live/channelnewsasia.m3u8
+
 #EXTINF:-1 group-title="VietTV" tvg-logo="",Việt News
 http://144.217.84.181/hls/News.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://www.viettv24.com/main/images/Beautiful-Scenary.jpg",Cảnh đẹp 4K(1080p)
