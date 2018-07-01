@@ -1,124 +1,126 @@
 #EXTM3U
 
-#EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
-http://stream2.mobiradio.vn/vovradio/vov1backup.stream/playlist.m3u8  
-#EXTINF:-1,Đài Tiếng nói VN 2 - VOV2
-http://stream2.mobiradio.vn/vovradio/vov2backup.stream/playlist.m3u8   
-#EXTINF:-1,Đài Tiếng nói VN 3 - VOV3
-http://stream2.mobiradio.vn/vovradio/vov3backup.stream/playlist.m3u8 
-#EXTINF:-1,Đài Tiếng nói VN 4 - VOV4
-http://stream2.mobiradio.vn/vovradio/vov4backup.stream/playlist.m3u8  
-#EXTINF:-1,XONE FM
-http://118.69.80.90:8000/live/;     
-#EXTINF:-1,VOV GIAO THONG HN s1
+#EXTINF:-1 group-title="Radio" ,Đài Tiếng nói VN 1 - VOV1
+http://123.29.68.10/radio/myradio001.m3u8  
+#EXTINF:-1 group-title="Radio" ,Đài Tiếng nói VN 2 - VOV2
+http://123.29.68.10/radio/myradio002.m3u8  
+#EXTINF:-1 group-title="Radio" ,Đài Tiếng nói VN 3 - VOV3
+http://123.29.68.10/radio/myradio003.m3u8
+#EXTINF:-1 group-title="Radio" ,Đài Tiếng nói VN 4 - VOV4
+http://123.29.68.10/radio/myradio004.m3u8  
+#EXTINF:-1 group-title="Radio" ,XONE FM
+http://118.69.80.90:8000/live/;   
+#EXTINF:-1 group-title="Radio" ,VOV GIAO THONG HN s1
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/playlist.m3u8
-#EXTINF:-1,VOV GIAO THONG HN s2
+#EXTINF:-1 group-title="Radio" ,VOV GIAO THONG HN s2
 https://5a6872aace0ce.streamlock.net/vovgt+hn/vovgt+hn.stream_aac/chunklist_w1508237251.m3u8
-#EXTINF:-1,VOV GIAO THONG HCM s1
+#EXTINF:-1 group-title="Radio" ,VOV GIAO THONG HCM s1
 http://stream2.mobiradio.vn/vovradio/vovgthcm.stream/playlist.m3u8  
-#EXTINF:-1,VOV GIAO THONG HCM s2
-https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1977423641.m3u8
-#EXTINF:-1,Joy FM - Radio sức khỏe s1
-rtmp://radio.joyfm.vn:1935/live/RadioOnline 
-#EXTINF:-1,Joy FM - Radio sức khỏe s2
-rtmp://radio.joyfm.vn:1935/live/ playpath=RadioOnline swfUrl=http://streema.com/static/flash/player.rtmp.v1.swf live=1 pageUrl=http://streema.com/radios/play/105378
-#EXTINF:-1,Tp.HCM FM 95.6MHz
+#EXTINF:-1 group-title="Radio" ,VOV GIAO THONG HCM s2
+https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1977423641.m3u8 
+#EXTINF:-1 group-title="Radio" ,Joy FM - Radio sức khỏe
+rtmp://radio.joyfm.vn:1935/live/RadioOnline
+#EXTINF:-1 group-title="Radio" ,Tp.HCM FM 95.6MHz
 rtmp://221.132.38.110:1935/live/channel1   
-#EXTINF:-1,Tp.HCM AM 610KHz
+#EXTINF:-1 group-title="Radio" ,Tp.HCM AM 610KHz
 rtmp://221.132.38.110:1935/live/channel2  
-#EXTINF:-1,Tp.HCM FM 99.9MHz
+#EXTINF:-1 group-title="Radio" ,Tp.HCM FM 99.9MHz
 rtmp://221.132.38.110:1935/live/channel3   
-#EXTINF:-1,Đài Hà Nội (FM 90MHz)
+#EXTINF:-1 group-title="Radio" ,Đài Hà Nội (FM 90MHz)
 rtmp://123.30.185.123/live/hn1audio  
-#EXTINF:-1,An Giang
+#EXTINF:-1 group-title="Radio" ,An Giang
 rtmp://113.161.212.25/live/radio 
-#EXTINF:-1,Bạc Liêu
+#EXTINF:-1 group-title="Radio" ,Bạc Liêu
 rtmp://118.69.205.213/livepkgr/livestream2?adbe-live-event=liveevent
-#EXTINF:-1,Bắc Kạn
+#EXTINF:-1 group-title="Radio" ,Bắc Kạn
 http://stream2.mobiradio.vn/radiotv/backan/playlist.m3u8
-#EXTINF:-1,Bình Thuận
+#EXTINF:-1 group-title="Radio" ,Bình Thuận
 http://stream2.mobiradio.vn/radiotv/binhthuan/playlist.m3u8
-#EXTINF:-1,Bến Tre
+#EXTINF:-1 group-title="Radio" ,Bến Tre
 rtmp://113.163.94.245/livepkgr/audiostream 
-#EXTINF:-1,Bình Phước
+#EXTINF:-1 group-title="Radio" ,Bình Phước
 http://118.69.197.145/hls/radio.m3u8
-#EXTINF:-1,Cà Mau
+#EXTINF:-1 group-title="Radio" ,Cà Mau
 rtmp://113.161.220.254/livepkgr/livestream4 
-#EXTINF:-1,Cần Thơ
+#EXTINF:-1 group-title="Radio" ,Cần Thơ
 rtmp://tv.canthotv.vn/livepkgr/livestream4?adbe-live-event=liveevent 
-#EXTINF:-1,Đà Nẵng
+#EXTINF:-1 group-title="Radio" ,Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
-#EXTINF:-1,Đắk Nông
+#EXTINF:-1 group-title="Radio" ,Đắk Nông
 rtmp://222.255.158.22:1935/live2/phatthanh
-#EXTINF:-1,Đồng Tháp
+#EXTINF:-1 group-title="Radio" ,Đồng Tháp
 rtmp://123.30.110.170:1939/thdt/radio
-#EXTINF:-1,Gia Lai
+#EXTINF:-1 group-title="Radio" ,Gia Lai
 http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
-#EXTINF:-1,Hà Giang
+#EXTINF:-1 group-title="Radio" ,Hà Giang
 http://stream2.mobiradio.vn/radiotv/hagiang/playlist.m3u8
-#EXTINF:-1,Hải Dương
+#EXTINF:-1 group-title="Radio" ,Hải Dương
 http://113.160.131.11:8000/ 
-#EXTINF:-1,Hải Phòng
+#EXTINF:-1 group-title="Radio" ,Hải Phòng
 http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8 
-#EXTINF:-1,Hậu Giang
+#EXTINF:-1 group-title="Radio" ,Hậu Giang
 rtmp://123.30.110.170:1939/hgradio/pthg 
-#EXTINF:-1,Huế
+#EXTINF:-1 group-title="Radio" ,Huế
 rtmp://118.69.176.149:1936/live/radio 
-#EXTINF:-1,Khánh Hòa
+#EXTINF:-1 group-title="Radio" ,Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8 
-#EXTINF:-1,Kiên Giang
+#EXTINF:-1 group-title="Radio" ,Kiên Giang
 http://tv.kgtv.vn/hls/kgaudio.m3u8 
-#EXTINF:-1,Kon Tum
+#EXTINF:-1 group-title="Radio" ,Kon Tum
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumaudio.m3u8
-#EXTINF:-1,Lâm Đồng
+#EXTINF:-1 group-title="Radio" ,Lâm Đồng
 http://stream2.mobiradio.vn/radiotv/lamdong/playlist.m3u8
-#EXTINF:-1,Long An
+#EXTINF:-1 group-title="Radio" ,Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8 
-#EXTINF:-1,Ninh Bình
+#EXTINF:-1 group-title="Radio" ,Ninh Bình
 http://117.6.94.35:8001/ 
-#EXTINF:-1,Ninh Thuận
+#EXTINF:-1 group-title="Radio" ,Ninh Thuận
 rtmp://203.113.166.233/live/NTV_AUDIO
-#EXTINF:-1,Phú Thọ
+#EXTINF:-1 group-title="Radio" ,Phú Thọ
 http://stream2.mobiradio.vn/radiotv/phutho/playlist.m3u8
-#EXTINF:-1,Quảng Nam
+#EXTINF:-1 group-title="Radio" ,Quảng Nam
 rtmp://113.161.6.157:1935/live/audiostream
-#EXTINF:-1,Quảng Ngãi
+#EXTINF:-1 group-title="Radio" ,Quảng Ngãi
 http://stream2.mobiradio.vn/radiotv/quangngai/playlist.m3u8
-#EXTINF:-1,Quảng Ninh Radio 1
+#EXTINF:-1 group-title="Radio" ,Quảng Ninh Radio 1
 rtmp://123.29.68.44/hctv/vsrd001
-#EXTINF:-1,Quảng Ninh Radio 2
+#EXTINF:-1 group-title="Radio" ,Quảng Ninh Radio 2
 rtmp://123.29.68.44/hctv/vsrd004 
-#EXTINF:-1,Sóc Trăng
+#EXTINF:-1 group-title="Radio" ,Sóc Trăng
 rtmp://115.78.3.164/live/FMsoctrang 
-#EXTINF:-1,Sơn La
+#EXTINF:-1 group-title="Radio" ,Sơn La
 http://stream2.mobiradio.vn/radiotv/sonla/playlist.m3u8 
-#EXTINF:-1,Thanh Hóa
+#EXTINF:-1 group-title="Radio" ,Thanh Hóa
 http://stream2.mobiradio.vn/radiotv/thanhhoa/playlist.m3u8
-#EXTINF:-1,Tiền Giang
+#EXTINF:-1 group-title="Radio" ,Tiền Giang
 http://stream2.mobiradio.vn/radiotv/tiengiang/playlist.m3u8
-#EXTINF:-1,Tuyên Quang
+#EXTINF:-1 group-title="Radio" ,Tuyên Quang
 rtmp://210.245.89.40:1935/live/liveaudiostream 
-#EXTINF:-1,Vũng Tàu
+#EXTINF:-1 group-title="Radio" ,Vũng Tàu
 rtmp://113.163.216.24:80/livepkgr/livestream
-#EXTINF:-1,Yên Bái
+#EXTINF:-1 group-title="Radio" ,Yên Bái
 rtmp://123.30.186.141/oflaDemo/livestream 
-#EXTINF:-1,Cherry radio-Tin tức.giải trí
+#EXTINF:-1 group-title="Radio" ,Cherry radio-Tin tức.giải trí
 http://50.7.96.210:8618/;stream.mp3
-#EXTINF:-1,Cherry radio-Nhạc trữ tình
+#EXTINF:-1 group-title="Radio" ,Cherry radio-Nhạc trữ tình
 http://174.37.252.208:8500/;stream.mp3
-#EXTINF:-1,VOA tiếng Việt
+#EXTINF:-1 group-title="Radio" ,VOA tiếng Việt
 http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
-#EXTINF:-1,Hải Ngoại:Saigon Radio 106.3 FM Los Angeles
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Saigon Radio 106.3 FM Los Angeles
 http://ice5.securenetsystems.net:80/KALI
-#EXTINF:-1,Hải Ngoại:Saigon Radio 1430 AM San Jose
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Saigon Radio 1430 AM San Jose
 http://ice5.securenetsystems.net:80/KVVN
-#EXTINF:-1,Hải Ngoại:Saigon Radio 900 AM Houston
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Saigon Radio 900 AM Houston
 http://ice5.securenetsystems.net:80/KREH
-#EXTINF:-1,Hải Ngoại:Saigon Radio Seattle
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Saigon Radio Seattle
 http://170.75.194.209:8888
-#EXTINF:-1,Hải Ngoại:Thời Báo Radio Toronto
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Thời Báo Radio Toronto
 http://209.250.131.2:8000/;stream.mp3
-#EXTINF:-1,Hải Ngoại:Nationwide Viet Radio (NVR)
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Nationwide Viet Radio (NVR)
 http://vndcradio2.serverroom.us:4480/
-#EXTINF:-1,Hải Ngoại:Radio VNHN/VABC Falls Church
+#EXTINF:-1 group-title="Radio" ,Hải Ngoại:Radio VNHN/VABC Falls Church
 http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
+#EXTINF: -1 group-title="Radio", Hayat Music
+http://hayatmix.net/;stream.nsv
+
+
