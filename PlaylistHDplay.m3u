@@ -1003,8 +1003,6 @@ plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22B%C3%ACnh%20D%C6
 https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/s0fe2u0t7/image.png",Việt Sóng TV 47.7
-rtmp://uni5rtmp.tulix.tv/playout2multi10/playout2multi10.stream
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png",Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",SET TV
@@ -1015,14 +1013,12 @@ http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/wnwdqo22b/vstar.png",ViệtStar 57.11
 http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS - Vietnames Broadcasting Service
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/7t4su66md/vbs1.png",VBS (WS)
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS Canada
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065 
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 #EXTINF:-1 group-title="VietHN" tvg-logo="http://live-tv.im/wp-content/uploads/2014/02/vpop-tv.gif",Vpop TV
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8&u=guest
 #EXTINF:-1 group-title="VietHN" tvg-logo="http://www.Tổng hợp24.com/main/images/VBolero-Logo.jpg",VBolero TV
@@ -1031,9 +1027,160 @@ http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/strea
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8&u=guest
 #EXTINF:-1 group-title="VietHN" tvg-logo="http://www.Tổng hợp24.com/main/images/rangdong_logo.jpg",Rạng Đông
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://superrepo.org/static/images/icons/original/xservice.kodi4vn.maintenance.png.pagespeed.ic.BD2LHg25m3.png",News
-http://cdn1.galaxyott.com/hls/News.m3u8
 
+
+#EXTINF:-1 group-title="USA",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 group-title="USA",ABC (EST)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 group-title="USA",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 group-title="USA",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 group-title="USA",BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1 group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1 group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1 group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1 group-title="USA",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1 group-title="USA",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="USA",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:-1 group-title="USA",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1 group-title="USA",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="USA",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1 group-title="USA",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1 group-title="USA",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 group-title="USA",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1 group-title="USA",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 group-title="USA",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1 group-title="USA",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1 group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="USA",MSNBC (Opt-1)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1 group-title="USA",MSNBC (Opt-2)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1 group-title="USA",MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 group-title="USA",NBA TV (Opt-2)
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1 group-title="USA",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 group-title="USA",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USA",Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 group-title="USA",PAC-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 group-title="USA",Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 group-title="USA",Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 group-title="USA",PAC-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 group-title="USA",Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 group-title="USA",Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 group-title="USA",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1 group-title="USA",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 group-title="USA",RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1 group-title="USA",Runway TV
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:-1 group-title="USA",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="USA",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1 group-title="USA",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 group-title="USA",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1 group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 group-title="USA",The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+#EXTINF:-1 group-title="USA",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 group-title="USA",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1 group-title="USA",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 group-title="USA",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 group-title="USA",TWiT.tv
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="USA",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="USA",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="USA",NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:-1 group-title="USA",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 group-title="USA",WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:-1 group-title="USA",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 group-title="USA",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 group-title="USA",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1 group-title="USA",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1 group-title="USA",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1 group-title="USA",CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 group-title="USA",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 group-title="USA",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 group-title="USA",CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1 group-title="USA",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 group-title="USA",WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:-1 group-title="USA",NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:-1 group-title="USA",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:-1 group-title="USA",CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 
 #EXTINF:-1 group-title="ESPANHA" tvg-id="SporTV.igor"  tvg-logo="https://goo.gl/otjgxw?" group-title="Sports",SPORTV
@@ -1134,8 +1281,6 @@ https://world.pornthe.top/hls/history2.m3u8|Referer=http://redecanais.link/
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Discovery Theater.igor" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="DOC",Discovery HD THEATER
 https://world.pornthe.top/hls/discoverytheater.m3u8|Referer=http://redecanais.link/
 
-
-
 #EXTINF:-1 group-title="ESPANHA",BEMAD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 group-title="ESPANHA",Boin
@@ -1188,16 +1333,12 @@ http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA",Eitb - P.Vasco (PV)
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 group-title="ESPANHA",Mediterraneo TV - C.Valenciana (VC)
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 #EXTINF:-1 group-title="ESPANHA",RTV Ceuta - Ceuta (CE)
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA",Onda Algeciras TV - Cádiz (AN)
 http://cls.provideo.es/algecirastv/livestream/master.m3u8
 #EXTINF:-1 group-title="ESPANHA",TV Ibiza-Formentera - Baleares(IB)
 http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1 group-title="ESPANHA",BTV/Betevé - Barcerlona (CT)
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 #EXTINF:-1 group-title="ESPANHA",VOTV - Barcelona (CT)
 http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8
 #EXTINF:-1 group-title="ESPANHA",Andorra TV - Lleida (CT
@@ -1208,7 +1349,6 @@ http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 #EXTINF:-1 group-title="ESPANHA",Russia Today Esp
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-
 #EXTINF:-1 group-title="ESPANHA",Nat Geo Wild
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 #EXTINF:-1 group-title="ESPANHA",NATGEO WILD
@@ -1227,8 +1367,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="ESPANHA",TNT HD
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 group-title="ESPANHA",AMC
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="ESPANHA",FORO TV
 http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 group-title="ESPANHA",GOLDEN PLUS
@@ -1251,27 +1389,78 @@ http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/ind
 http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 #EXTINF:-1 group-title="ESPANHA",UNICALE PLANETFOOLS
 http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8
-#EXTINF:-1 group-title="ESPANHA",TELECINCO HD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
 #EXTINF:-1 group-title="ESPANHA",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-#EXTINF:-1 group-title="ESPANHA",Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8 
-#EXTINF:-1 group-title="ESPANHA",FDF 
+#EXTINF:-1 group-title="ESPANHA",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="ChinaTV",CCTV-1HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000120&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-2HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000121&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-3HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000122&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-5HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000123&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-6HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000124&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-7HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000125&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-8HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000126&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-9HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000127&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-10HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000128&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-12HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000129&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-14HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-5+HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000131&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",3D thử ngiệm
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000132&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",DOXTV-HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000114&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 group-title="ChinaTV",CCTV-1
+http://www.szmgiptv.com:14437/hls/1.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-1
+http://183.207.249.71/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-2
+http://120.221.2.42:8089/PLTV/88888888/224/3221225559/1.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-3
+http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-4
+http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-13
+http://223.110.243.150/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN
+https://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN
+https://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN
+https://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN
+https://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",Asia Travel
+http://live.italkdd.com/ts027/channel_036.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV2
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 group-title="ChinaTV",TVBS News HD
+https://bcsecurelivehls-i.akamaihd.net/hls/live/510713/4862438529001/index.m3u8
 
 #EXTINF:-1 group-title="ThaiTV",BLUESKY CHANNEL
 http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="ThaiTV",CABLE TV
-http://202.173.216.8:1935/live/ch8/playlist.m3u8
-#EXTINF:-1 group-title="ThaiTV",CHANNEL 13
-http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",CHANNEL 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 group-title="ThaiTV",CHANNEL 5
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
-#EXTINF:-1 group-title="ThaiTV",CHANNEL 7
-http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",CHANNEL 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",CHANNEL 9
@@ -1282,8 +1471,6 @@ http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 http://61.19.244.112:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",M CHANNEL
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ThaiTV",POLICE TV
-http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",SABAIDEE TV
 http://stream.rs.co.th/sbd-low/index.m3u8
 #EXTINF:-1 group-title="ThaiTV",SPRING NEWS
@@ -1292,6 +1479,277 @@ http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3
 http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 group-title="ThaiTV",YOU CHANNEL
 http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:-1 group-title="India",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 group-title="India",SONY ROX MUSIC HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
+#EXTINF:-1 group-title="India",Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 group-title="India",LF FOOD HD
+http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/03.m3u8
+#EXTINF:-1 group-title="India",Discovery TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:-1 group-title="India",Discovery TURBO
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1 group-title="India",Discovery Science
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1 group-title="India",Discovery Kids
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8
+#EXTINF:-1 group-title="India",Animal Planet
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:-1 group-title="India",TLC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225819/01.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:-1 group-title="India",NDTV Goodtimes
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225774/01.m3u8
+#EXTINF:-1 group-title="India",FTV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226086/01.m3u8
+#EXTINF:-1 group-title="India",TRAVELXP SD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/01.m3u8
+#EXTINF:-1 group-title="India", AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1 group-title="India", AXN SD
+http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/04.m3u8
+#EXTINF:-1 group-title="India", SONYPIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1 group-title="India", SONYPIX SD
+http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/04.m3u8
+#EXTINF:-1 group-title="India", SONY PLEX HD TV
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
+#EXTINF:-1 group-title="India",DD1
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226296/06.m3u8
+#EXTINF:-1 group-title="India", DD ODIA
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226302/06.m3u8
+#EXTINF:-1 group-title="India", Taranga TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226032/01.m3u8
+#EXTINF:-1 group-title="India", Taranga Music
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226023/01.m3u8
+#EXTINF:-1 group-title="India", Prathana TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226033/01.m3u8
+#EXTINF:-1 group-title="India",Alankar TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226042/06.m3u8
+#EXTINF:-1 group-title="India",MBC Odia TV
+http://mhms9.airtel.tv/wh7f454c46tw3612331058_1550720847/PLTV/88888888/224/3221226335/06.m3u8
+#EXTINF:-1 group-title="India",ZEE Sarthak TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226107/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Kalinga
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225937/01.m3u8
+#EXTINF:-1 group-title="India", NEWS world ODISHA TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226034/01.m3u8
+#EXTINF:-1 group-title="India",Republic TV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226000/01.m3u8
+#EXTINF:-1 group-title="India",WION NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226363/01.m3u8
+#EXTINF:-1 group-title="India",BBC NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
+#EXTINF:-1 group-title="India",Bloomberg
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226082/01.m3u8
+#EXTINF:-1 group-title="India",NEWSX
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225796/01.m3u8
+#EXTINF:-1 group-title="India",ZEE NEWS
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225922/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Business
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225930/01.m3u8
+#EXTINF:-1 group-title="India",IBC24 NEWS
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226102/01.m3u8
+#EXTINF:-1 group-title="India",TLC WORLD HD
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1 group-title="India", AND TV HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226084/03.m3u8
+#EXTINF:-1 group-title="India", Sony TV HD
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/01.m3u8
+#EXTINF:-1 group-title="India", ZeeTV HD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8
+#EXTINF:-1 group-title="India", SonyMAX HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:-1 group-title="India", SONYSAB HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/01.m3u8
+#EXTINF:-1 group-title="India", ZEECINEMA HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/01.m3u8
+#EXTINF:-1 group-title="India",And Picture HD
+http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY Jeet HD
+http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/01.m3u8
+#EXTINF:-1 group-title="India", Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:-1 group-title="India", Zee Cinema
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:-1 group-title="India", Zee Classic
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/01.m3u8
+#EXTINF:-1 group-title="India", Sony MAX
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225811/02.m3u8
+#EXTINF:-1 group-title="India", Sony Sab
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:-1 group-title="India", B4U Movies
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:-1 group-title="India", SetMaX2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:-1 group-title="India", SetWAH
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226413/01.m3u8
+#EXTINF:-1 group-title="India", SetPAL
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226200/04.m3u8
+#EXTINF:-1 group-title="India", AND TV
+http://cshms3.airtel.tv/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:-1 group-title="India", AND Picture
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:-1 group-title="India", BIGMAGIC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225745/01.m3u8
+#EXTINF:-1 group-title="India", SONY MIX MUSIC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:-1 group-title="India",Wow Hindi Music
+http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/01.m3u8
+#EXTINF:-1 group-title="India", B4U Music
+http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/01.m3u8
+#EXTINF:-1 group-title="India", MASTII MUSIC
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L240P/playlist.m3u8
+#EXTINF:-1 group-title="India", ZEE Anmol
+http://mhms9.airtel.tv/wh7f454c46tw1620127263_47575185/PLTV/88888888/224/3221226199/04.m3u8
+#EXTINF:-1 group-title="India", ZEE ETC
+http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/01.m3u8
+#EXTINF:-1 group-title="India", ZEE Action
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226331/06.m3u8
+#EXTINF:-1 group-title="India",ZEETV SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:-1 group-title="India", WOW Cinema
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/06.m3u8
+#EXTINF:-1 group-title="India", Cinema TV
+http://mhms8.airtel.tv/wh7f454c46tw3749195007_759815032/PLTV/88888888/224/3221226246/06.m3u8
+#EXTINF:-1 group-title="India", B4u Movies
+http://cshms1.airtel.tv/wh7f454c46tw1856578274_592848553/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:-1 group-title="India",Maha Movie
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226225/06.m3u8
+#EXTINF:-1 group-title="India",Manoranjan Movies
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226226/06.m3u8
+#EXTINF:-1 group-title="India",Manoranjan TV
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226227/06.m3u8
+#EXTINF:-1 group-title="India", E24 TV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:-1 group-title="India",9X Music
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226053/01.m3u8
+#EXTINF:-1 group-title="India",9X JALWA
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:-1 group-title="India",ZING
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226080/01.m3u8
+#EXTINF:-1 group-title="India", 9XO MUSIC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:-1 group-title="India", Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="India", FOOD FOOD TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:-1 group-title="India", Pitaara TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226122/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 group-title="India", SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="India", SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1 group-title="India", SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1 group-title="India", NeoPrime
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:-1 group-title="India", NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1 group-title="India", DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="India", DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 group-title="India", DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="India", DSports L2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="India", Bhojpuri Cinema
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226056/01.m3u8
+#EXTINF:-1 group-title="India", Dabangg TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226097/01.m3u8
+#EXTINF:-1 group-title="India", Dangaal TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226029/01.m3u8
+#EXTINF:-1 group-title="India", Gaanga TV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226088/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Rajasthan
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225928/01.m3u8
+#EXTINF:-1 group-title="India",ZEE MP Chatisgarh
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225927/01.m3u8
+#EXTINF:-1 group-title="India",ZEE 24Taas
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225926/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Talkies
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225921/01.m3u8
+#EXTINF:-1 group-title="India",ZEE YUVA
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226096/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Punjab_Haryana
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225923/01.m3u8
+#EXTINF:-1 group-title="India",MH1 Music2 Punjabi
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226114/03.m3u8
+#EXTINF:-1 group-title="India",9X Tashaan Punjabi
+http://cshms3.airtel.tv/wh7f454c46tw2597826742_982070999/PLTV/88888888/224/3221226017/01.m3u8
+#EXTINF:-1 group-title="India", Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD28L240P/playlist.m3u8
+#EXTINF:-1 group-title="India", Pogo
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD29L240P/playlist.m3u8
+#EXTINF:-1 group-title="India", Toonami
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+#EXTINF:-1 group-title="India",AASTHA TV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226069/01.m3u8
+#EXTINF:-1 group-title="India", ZEE Telugu
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225936/01.m3u8
+#EXTINF:-1 group-title="India", ZEE CINEMALU Telugu
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226098/01.m3u8
+#EXTINF:-1 group-title="India", Raj Musix Telugu
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226256/06.m3u8
+#EXTINF:-1 group-title="India", VISSA Telugu
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226255/06.m3u8
+#EXTINF:-1 group-title="India", RAJ NEWS Telugu
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226254/06.m3u8
+#EXTINF:-1 group-title="India",Zee Talkies HD Marathi
+http://mhms9.airtel.tv/wh7f454c46tw1740452154_1525996477/PLTV/88888888/224/3221226202/03.m3u8
+#EXTINF:-1 group-title="India",Zee Marathi HD
+http://mhms9.airtel.tv/wh7f454c46tw2538240699_1785371466/PLTV/88888888/224/3221226278/03.m3u8
+#EXTINF:-1 group-title="India",MAYABOLI Marathi
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226332/06.m3u8
+#EXTINF:-1 group-title="India",FAKT Marathi
+http://mhms6.airtel.tv/PLTV/88888888/224/3221226305/06.m3u8
+#EXTINF:-1 group-title="India",SAAM Marathi
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226366/01.m3u8
+#EXTINF:-1 group-title="India",Sangeet Marathi
+http://mhms6.airtel.tv/PLTV/88888888/224/3221226222/06.m3u8
+#EXTINF:-1 group-title="India",DD Bharati
+http://mhms9.airtel.tv/wh7f454c46tw167550841_1932516860/PLTV/88888888/224/3221226291/04.m3u8
+#EXTINF:-1 group-title="India",DD INDIA
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226293/06.m3u8
+#EXTINF:-1 group-title="India",DD Kissan
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226294/06.m3u8
+#EXTINF:-1 group-title="India",CN NEWS Bangla
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226285/06.m3u8
+#EXTINF:-1 group-title="India",DHOOM MUSIC Bangla
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226369/06.m3u8
+#EXTINF:-1 group-title="India",Fatafati MUSIC Bangla
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226360/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Bangla
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225882/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Bangla HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226277/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Bangla HD
+https://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",ZEE Bangla Cinema
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225889/01.m3u8
+#EXTINF:-1 group-title="India",SONY AATH Bangla
+http://cshms1.airtel.tv/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:-1 group-title="India",24 Ghanta Bangla
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225925/01.m3u8
+#EXTINF:-1 group-title="India",Sangeet Bangla
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226333/06.m3u8
+#EXTINF:-1 group-title="India",Aakash TV Bangla
+http://cshms1.airtel.tv/PLTV/88888888/224/3221226090/01.m3u8
 
 #EXTINF:-1 group-title="QTTH" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",[COLOR olive]Sopcast[/COLOR]AXN
 plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149261&mode=2&name=AXN
