@@ -679,20 +679,22 @@ http://baochinh.ml/iptv-mobion.php?id=audio-docsach
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
 #EXTINF:-1 tvg-id="VTV2" group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV3 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV4" group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV5" group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV6 HD" group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV7 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV8 HD" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
-https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-id="VTV9" group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2 HD
+https://livecdn.fptplay.net/hdevent/vtv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3 HD
+https://livecdn.fptplay.net/hdevent/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
+https://livecdn.fptplay.net/hdevent/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8|userAgent=MobiOn/1.3.0 (Linux;Android 7.0) ExoPlayerLib/1.5.9
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
