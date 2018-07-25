@@ -1,467 +1,1323 @@
-﻿#EXTM3U
-#EXTINF:-1,Updated ngày 31.01.2017
-http://live.cdn.mobifonetv.vn
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
-http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
-http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
-http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
-http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5 
-http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",China:CCTV5+HD 
-http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg",China:Champions League
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg",China:Bóng rổ
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/om0fk5x5v/sport.png",China:Sport+
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
-http://46.105.161.243:8085/lighd
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 3 
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 4 
-http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/NSQgKH4.png",AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/kiRDDPC.png",AD SPORT 2 HD
-http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/lJ5C1yQ.png",AD SPORT 3 HD
-http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/kpTqGy9.png",AD SPORT 4 HD
-http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/6k6sPkh.png",AD SPORT 5 HD
-http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National HD
-http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona HD
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles HD
-http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain HD
-http://xrxs.net/video/live-p12moun-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon HD
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington HD
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National Full HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona Full HD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles Full HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain Full HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon Full HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington Full HD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",UK:SKY SPORT 1
-http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-1/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",UK:SKY SPORT 2
-http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-2/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",UK:SKY SPORT 3
-http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-3/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",UK:SKY SPORT 4
-http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-4/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png",UK:SKY SPORT 5
-http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-5/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",UK:BT SPORT 1
-http://149.202.207.8:8080/chINNkkeeyPanduuubeETy-1/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",UK:BT SPORT 2
-http://149.202.207.8:8080/chINNkkeeyPanduuubeETy-2/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 1
-http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-1/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 2
-http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-2/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 3
-http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-3/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 4
-http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-4/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 5
-http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-5/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 1
-http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-1nl/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 2
-http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-2nl/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 3
-http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-3nl/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 4
-http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-4nl/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 5
-http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-5nl/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",NL: FOX SPORT 6
-http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-6nl/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 1
-http://149.202.207.8:8080/chINNkkeeyPanduuu/f00cssp1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 2
-http://149.202.207.8:8080/chINNkkeeyPanduuu/f00cssp2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT 1
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-1/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORT 2
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-2/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT 3
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-3/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",BEIN SPORT 4
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-4/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",BEIN SPORT 5
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-5/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",BEIN SPORT 6
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-6/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT FRANCE 1
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-1/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORT FRANCE 2
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-2/Strm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT FRANCE 3
-http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-3/Strm/index.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
-http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png", VTV1 HD s1
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png",VTV1 HD s2
-http://118.107.68.10:1935/live/_definst_/VTV1HD_1280x720_07122016/playlist.m3u8 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2 s1
-http://118.107.68.10:1935/live/_definst_/VTV2_720x576_2016/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2 s2
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png", VTV2 HD
-http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
-http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
-http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s24.postimg.org/3psdc8o11/vtv4hd.png", VTV4 HD
-http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
-http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
-http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
-http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV 
-http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN s1
-http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN s2 
-http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
-rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 group-title="VTV" tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
-rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/nmmH5NG.png", VTVCab1 
-http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/YNCzLp9.png", VTVCab2 
-http://live.cdn.mobifonetv.vn/motv3/phimviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/KuFexNw.png",VTVcab3 TheThao TV
-http://live.cdn.mobifonetv.vn/motv3/thethaotvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zr9dOPm.png", VTVCab4 
-http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/pFgmD7i.png", VTVCab5
-http://live.cdn.mobifonetv.vn/motv3/echannel_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Kyv11bZ.png", VTVCab7
-http://live.cdn.mobifonetv.vn/motv3/ddramas_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Sjc6xj8.png", VTVCab8 
-http://live.cdn.mobifonetv.vn/motv3/bibi_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/I6letfB.png", VTVCab9 
-http://live.cdn.mobifonetv.vn/motv3/infotv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/aVP5nbS.png", VTVCab10
-http://live.cdn.mobifonetv.vn/motv3/o2tv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Dh0hG7u.png", VTVcab11
-http://live.cdn.mobifonetv.vn/motv3/tvshopping_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/XhCmf93.png", VTVcab12
-http://live.cdn.mobifonetv.vn/motv3/styletvhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/Ew4EaPw.png", VTVCab14 
-http://live.cdn.mobifonetv.vn/motv3/lottedatviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/3ZbKdiV.png", VTVCab15 
-http://live.cdn.mobifonetv.vn/motv3/investtv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/WQtKoni.png",VTVcab16 BongDa TV
-http://live.cdn.mobifonetv.vn/motv3/bongdatvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/2nOJwku.png", VTVCab17 
-http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="https://s29.postimg.org/b2fgjxxuv/anvienhd.jpg", ANVIEN HD
-http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png", ANTG HD
-http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM BTV10
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png", PHIM HAY TV HD
+#EXTM3U thanh51
+
+#EXTINF:-1 group-title="Vietcago",Bein sports max HD
+http://tv.vietcago.net:8080/iptv/ch1832?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",True Sport 3
+http://tv1.vietcago.net:5555/udp/239.4.2.56:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",SKY Sport Premier League
+http://tv.vietcago.net:8080/iptv/ch937?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Action
+http://tv.vietcago.net:8080/iptv/ch915?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports F1
+http://tv.vietcago.net:8080/iptv/ch7?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Football
+http://tv.vietcago.net:8080/iptv/ch922?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Golf
+http://tv.vietcago.net:8080/iptv/ch916?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Main Event
+http://tv.vietcago.net:8080/iptv/ch914?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Mix
+http://tv.vietcago.net:8080/iptv/ch931?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",BT Sport 1
+http://tv.vietcago.net:8080/iptv/ch1828?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",BT Sport 2
+http://tv.vietcago.net:8080/iptv/ch1829?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",BT Sport 3
+http://tv.vietcago.net:8080/iptv/ch1830?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Euro Sport 2
+http://tv.vietcago.net:8080/iptv/ch918?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Fox Sports
+http://tv1.vietcago.net:5555/udp/239.4.2.47:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Fox Sports 2
+http://tv1.vietcago.net:5555/udp/239.4.2.48:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Fox Sports 3
+http://tv1.vietcago.net:5555/udp/239.4.2.108:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Astro Super Sports 3
+http://tv1.vietcago.net:5555/udp/239.4.1.148:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+
+#EXTINF:-1 group-title="Vietcago",CCTV5
+http://tv1.vietcago.net:5555/udp/239.4.2.55:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",CNN
+http://tv1.vietcago.net:5555/udp/239.4.1.105:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",CCTV News
+http://tv1.vietcago.net:5555/udp/239.4.1.11:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Australia Plus
+http://tv1.vietcago.net:5555/udp/239.4.1.79:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",France24
+http://tv1.vietcago.net:5555/udp/239.4.1.89:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",TV5 Monde
+http://tv1.vietcago.net:5555/udp/239.4.2.38:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",NHK World
+http://tv1.vietcago.net:5555/udp/239.4.1.68:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",BBC World News
+http://tv1.vietcago.net:5555/udp/239.4.1.70:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Bloomberg
+http://tv1.vietcago.net:5555/udp/239.4.1.236:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Euro News
+http://tv1.vietcago.net:5555/udp/239.4.2.75:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Arirang
+http://tv1.vietcago.net:5555/udp/239.4.2.74:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Aljazeera
+http://tv1.vietcago.net:5555/udp/239.4.2.43:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+
+#EXTINF:-1 group-title="Vietcago",HTV1
+http://vietcago.net/vstv/htv1.m3u8
+#EXTINF:-1 group-title="Vietcago",HTV2
+http://vietcago.net/vstv/htv2.m3u8
+#EXTINF:-1 group-title="Vietcago",HTV3
+http://vietcago.net/vstv/htv3.m3u8
+#EXTINF:-1 group-title="Vietcago",HTV4
+http://vietcago.net/vstv/htv4.m3u8
+#EXTINF:-1 group-title="Vietcago",HTV7
+http://vietcago.net/vstv/htv7.m3u8
+#EXTINF:-1 group-title="Vietcago",HTV9
+http://vietcago.net/vstv/htv9.m3u8
+#EXTINF:-1 group-title="Vietcago",HTV TheThao
+http://vietcago.net/vstv/htvthethao.m3u8
+#EXTINF:-1 group-title="Vietcago",HTVC CaNhac
+http://vietcago.net/vstv/htvccanhac.m3u8
+#EXTINF:-1 group-title="Vietcago",HTVC Giadinh
+http://vietcago.net/vstv/htvcgiadinh.m3u8
+#EXTINF:-1 group-title="Vietcago",HTVC Phim
+http://vietcago.net/vstv/htvcphim.m3u8
+#EXTINF:-1 group-title="Vietcago",HTVC PhuNu
+http://vietcago.net/vstv/htvcphunu.m3u8
+#EXTINF:-1 group-title="Vietcago",ThuanViet
+http://vietcago.net/vstv/thuanviet.m3u8
+#EXTINF:-1 group-title="Vietcago",ANTV
+http://vietcago.net/vstv/antv.m3u8
+#EXTINF:-1 group-title="Vietcago",ANTG
+http://vietcago.net/vstv/antg.m3u8
+#EXTINF:-1 group-title="Vietcago",QPVN
+http://vietcago.net/vstv/qpvn.m3u8
+#EXTINF:-1 group-title="Vietcago",TTXVN
+http://vietcago.net/vstv/ttxvn.m3u8
+#EXTINF:-1 group-title="Vietcago",NhanDanTV
+http://vietcago.net/vstv/thnd.m3u8
+#EXTINF:-1 group-title="Vietcago",VOVTV
+http://vietcago.net/vstv/vovtv.m3u8
+#EXTINF:-1 group-title="Vietcago",ITV
+http://vietcago.net/vstv/itv.m3u8
+#EXTINF:-1 group-title="Vietcago",AnVien
+http://vietcago.net/vstv/anvien.m3u8
+#EXTINF:-1 group-title="Vietcago",Sam
+http://vietcago.net/vstv/sam.m3u8
+#EXTINF:-1 group-title="Vietcago",Phimhay
+http://vietcago.net/vstv/phimhay.m3u8
+#EXTINF:-1 group-title="Vietcago",MienTay
+http://vietcago.net/vstv/mientay.m3u8
+#EXTINF:-1 group-title="Vietcago",Vietteen
+http://vietcago.net/vstv/vietteen.m3u8
+#EXTINF:-1 group-title="Vietcago",NCM
+http://vietcago.net/vstv/ncm.m3u8
+#EXTINF:-1 group-title="Vietcago",AnGiangTV
+http://vietcago.net/vstv/angiangtv1.m3u8
+#EXTINF:-1 group-title="Vietcago",BacNinhTV
+http://vietcago.net/vstv/bacninhtv.m3u8
+#EXTINF:-1 group-title="Vietcago",BacGiangTV
+http://vietcago.net/vstv/bacgiangtv.m3u8
+#EXTINF:-1 group-title="Vietcago",BacKanTV
+http://vietcago.net/vstv/backantv.m3u8
+#EXTINF:-1 group-title="Vietcago",BacLieuTV
+http://vietcago.net/vstv/baclieutv.m3u8
+#EXTINF:-1 group-title="Vietcago",BenTreTV
+http://vietcago.net/vstv/bentretv.m3u8
+#EXTINF:-1 group-title="Vietcago",BinhPhuocTV1
+http://vietcago.net/vstv/binhphuoctv1.m3u8
+#EXTINF:-1 group-title="Vietcago",BinhPhuocTV2
+http://vietcago.net/vstv/binhphuoctv2.m3u8
+#EXTINF:-1 group-title="Vietcago",BinhThuanTV
+http://vietcago.net/vstv/binhthuantv.m3u8
+#EXTINF:-1 group-title="Vietcago",CaMauTV
+http://vietcago.net/vstv/camautv.m3u8
+#EXTINF:-1 group-title="Vietcago",CanThoTV
+http://vietcago.net/vstv/canthotv.m3u8
+#EXTINF:-1 group-title="Vietcago",CaoBangTV
+http://vietcago.net/vstv/caobangtv.m3u8
+#EXTINF:-1 group-title="Vietcago",DakLakTV
+http://vietcago.net/vstv/daklaktv.m3u8
+#EXTINF:-1 group-title="Vietcago",DaNangTV1
+http://vietcago.net/vstv/danangtv1.m3u8
+#EXTINF:-1 group-title="Vietcago",DaNangTV2
+http://vietcago.net/vstv/danangtv2.m3u8
+#EXTINF:-1 group-title="Vietcago",DongNaiTV1
+http://vietcago.net/vstv/dongnaitv1.m3u8
+#EXTINF:-1 group-title="Vietcago",DongNaiTV2
+http://vietcago.net/vstv/dongnaitv2.m3u8
+#EXTINF:-1 group-title="Vietcago",GiaLaiTV
+http://vietcago.net/vstv/gialaitv.m3u8
+#EXTINF:-1 group-title="Vietcago",HaGiangTV
+http://vietcago.net/vstv/hagiangtv.m3u8
+#EXTINF:-1 group-title="Vietcago",HaiPhongTV
+http://vietcago.net/vstv/haiphongtv.m3u8
+#EXTINF:-1 group-title="Vietcago",HaiPhongTV+
+http://vietcago.net/vstv/haiphongtvplus.m3u8
+#EXTINF:-1 group-title="Vietcago",HaNamTV
+http://vietcago.net/vstv/hanamtv.m3u8
+#EXTINF:-1 group-title="Vietcago",HaNoiTV1
+http://vietcago.net/vstv/hanoi1.m3u8
+#EXTINF:-1 group-title="Vietcago",HaNoiTV2
+http://vietcago.net/vstv/hanoi2.m3u8
+#EXTINF:-1 group-title="Vietcago",HaTinhTV
+http://vietcago.net/vstv/hatinhtv.m3u8
+#EXTINF:-1 group-title="Vietcago",HauGiangTV
+http://vietcago.net/vstv/haugiangtv.m3u8
+#EXTINF:-1 group-title="Vietcago",KhanhHoaTV
+http://vietcago.net/vstv/khanhhoatv.m3u8
+#EXTINF:-1 group-title="Vietcago",KienGiangTV
+http://vietcago.net/vstv/kiengiangtv.m3u8
+#EXTINF:-1 group-title="Vietcago",KienGiangTV1
+http://vietcago.net/vstv/kiengiangtv1.m3u8
+#EXTINF:-1 group-title="Vietcago",KonTumTV
+http://www.vietcago.net/vstv/kontumtv.m3u8
+#EXTINF:-1 group-title="Vietcago",LamDongTV
+http://vietcago.net/vstv/lamdongtv.m3u8
+#EXTINF:-1 group-title="Vietcago",LongAnTV
+http://vietcago.net/vstv/longantv.m3u8
+#EXTINF:-1 group-title="Vietcago",PhuThoTV
+http://vietcago.net/vstv/phuthotv.m3u8
+#EXTINF:-1 group-title="Vietcago",PhuYenTV
+http://vietcago.net/vstv/phuyentv.m3u8
+#EXTINF:-1 group-title="Vietcago",QuangNgaiTV
+http://vietcago.net/vstv/quangngaitv.m3u8
+#EXTINF:-1 group-title="Vietcago",QuangNamTV
+http://vietcago.net/vstv/quangnamtv.m3u8
+#EXTINF:-1 group-title="Vietcago",QuangTriTV
+http://vietcago.net/vstv/quangtritv.m3u8
+#EXTINF:-1 group-title="Vietcago",SocTrangTV1
+http://vietcago.net/vstv/soctrangtv1.m3u8
+#EXTINF:-1 group-title="Vietcago",SocTrangTV2
+http://vietcago.net/vstv/soctrangtv2.m3u8
+#EXTINF:-1 group-title="Vietcago",SonLaTV
+http://vietcago.net/vstv/sonlatv.m3u8
+#EXTINF:-1 group-title="Vietcago",ThaiNguyenTV1
+http://vietcago.net/vstv/thainguyentv.m3u8
+#EXTINF:-1 group-title="Vietcago",ThanhHoaTV
+http://vietcago.net/vstv/thanhhoatv.m3u8
+#EXTINF:-1 group-title="Vietcago",TraVinhTV
+http://vietcago.net/vstv/travinhtv.m3u8
+#EXTINF:-1 group-title="Vietcago",YenBaiTV
+http://vietcago.net/vstv/yenbaitv.m3u8
+
+#EXTINF:-1 group-title="Vietcago",VTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=vtv1&cdn=1
+#EXTINF:-1 group-title="Vietcago",ANTV
+http://tv2.vietcago.net:12388/?header=hplus&name=antv&cdn=1
+#EXTINF:-1 group-title="Vietcago",QPVN
+http://tv2.vietcago.net:12388/?header=hplus&name=Quoc_Phong&cdn=1
+#EXTINF:-1 group-title="Vietcago",QHVN
+http://tv2.vietcago.net:12388/?header=hplus&name=Quoc_Hoi&cdn=1
+#EXTINF:-1 group-title="Vietcago",NhanDanTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Nhan_Dan&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC1
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc1&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC4
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc4&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC7
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc7&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC8
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc8&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC11
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc11&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC10
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc10&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC14
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc14&cdn=1
+#EXTINF:-1 group-title="Vietcago",VTC16
+http://tv2.vietcago.net:12388/?header=hplus&name=vtc16&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=htv1&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTV2
+http://tv2.vietcago.net:12388/?header=hplus&name=htv2&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTV2 HD
+http://tv2.vietcago.net:12388/?header=hplus&name=htv2hd&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTV3
+http://tv2.vietcago.net:12388/?header=hplus&name=htv3&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTV4
+http://tv2.vietcago.net:12388/?header=hplus&name=htv4&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTVC Dulich
+http://tv2.vietcago.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTVC CaNhac
+http://tv2.vietcago.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTVC Giadinh
+http://tv2.vietcago.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
+#EXTINF:-1 group-title="Vietcago",HTVC Phim
+http://tv2.vietcago.net:12388/?header=hplus&name=htvc_phim&cdn=1
+#EXTINF:-1 group-title="Vietcago",ThuanViet
+http://tv2.vietcago.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
+#EXTINF:-1 group-title="Vietcago",FBNC
+http://tv2.vietcago.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
+#EXTINF:-1 group-title="Vietcago",BR-VungTauTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Ba_Ria&cdn=1
+#EXTINF:-1 group-title="Vietcago",BinhPhuocTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=Binh_Phuoc_1&cdn=1
+#EXTINF:-1 group-title="Vietcago",BacGiangTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Bac_Giang&cdn=1
+#EXTINF:-1 group-title="Vietcago",BacLieuTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Bac_Lieu&cdn=1
+#EXTINF:-1 group-title="Vietcago",BinhDinhTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Binh_Dinh&cdn=1
+#EXTINF:-1 group-title="Vietcago",BinhDuongTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=Binh_Duong_1&cdn=1
+#EXTINF:-1 group-title="Vietcago",BenTreTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Ben_Tre&cdn=1
+#EXTINF:-1 group-title="Vietcago",CanThoTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Can_Tho&cdn=1
+#EXTINF:-1 group-title="Vietcago",DaNangTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
+#EXTINF:-1 group-title="Vietcago",DaNangTV2
+http://tv2.vietcago.net:12388/?header=hplus&name=Da_Nang_2&cdn=1
+#EXTINF:-1 group-title="Vietcago",DongThapTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Dong_Thap&cdn=1
+#EXTINF:-1 group-title="Vietcago",HaiDuongTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Hai_Duong&cdn=1
+#EXTINF:-1 group-title="Vietcago",TT-HueTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Hue&cdn=1
+#EXTINF:-1 group-title="Vietcago",HaTinhTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Ha_Tinh&cdn=1
+#EXTINF:-1 group-title="Vietcago",KienGiangTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Kien_Giang_1&cdn=1
+#EXTINF:-1 group-title="Vietcago",KhanhHoaTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Khanh_Hoa&cdn=1
+#EXTINF:-1 group-title="Vietcago",LongAnTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Long_An_34&cdn=1
+#EXTINF:-1 group-title="Vietcago",LamDongTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Lam_Dong&cdn=1
+#EXTINF:-1 group-title="Vietcago",LangSonTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Lang_Son&cdn=1
+#EXTINF:-1 group-title="Vietcago",NamDinhTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Nam_Dinh&cdn=1
+#EXTINF:-1 group-title="Vietcago",QuangNamTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Quang_Nam&cdn=1
+#EXTINF:-1 group-title="Vietcago",SocTrangTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=Soc_Trang&cdn=1
+#EXTINF:-1 group-title="Vietcago",TraVinhTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Tra_Vinh&cdn=1
+#EXTINF:-1 group-title="Vietcago",TayNinhTV
+http://tv2.vietcago.net:12388/?header=hplus&name=Tay_Ninh&cdn=1
+#EXTINF:-1 group-title="Vietcago",VinhLongTV1
+http://tv2.vietcago.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
+#EXTINF:-1 group-title="Vietcago",VinhLongTV2
+http://tv2.vietcago.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD 
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",VTV2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/QwsdDjH.png",VTV4 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/bdKkIw2.png",VTV5 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",VTV9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png",HTV1 
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8	
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2 
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png",HTV3 
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png",HTV4 
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.htvonline.com.vn/livetv/16082017/htv7-hd-new_20261502855715.png",HTV7 
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png",HTV9 
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",Phim Hay HD
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png", Mien Tay
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
-http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Play
-http://118.107.68.10:1935/live/_definst_/VTCPlay_music/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
-http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD s2
-http://118.107.68.10:1935/live/_definst_/smil:VTC1HD_2016_05122016.smil/playlist.m3u8 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
-http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
-http://live.cdn.mobifonetv.vn/motv/vtc3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s3
-http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s4
-http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4 s1
-http://live.cdn.mobifonetv.vn/motv/vtc4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4 s2
-http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
-http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
-http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s2
-http://live.cdn.mobifonetv.vn/motv/vtc7_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s3 
-http://118.107.68.10:1935/live/_definst_/VTC7SD_720x576_2016/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s4 
-http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8 s2
-http://live.cdn.mobifonetv.vn/motv/vtc8_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
-http://live.cdn.mobifonetv.vn/motv/vtc9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s3
-http://118.107.68.10:1935/live/_definst_/VTC9SD_720x576_2016 /playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s4
-http://14.161.5.88:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s5
-http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
-http://live.cdn.mobifonetv.vn/motv/vtc10_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s3  
-http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 s2
-http://live.cdn.mobifonetv.vn/motv/vtc11_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
-http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s2
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
-http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD s2
-http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16 s1 
-http://live.cdn.mobifonetv.vn/motv/vtc16_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16 s2 
-http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC Du Lịch 
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png",HTVC Ca Nhạc 
+http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png",HTVC Gia Đình 
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png",HTVC Phụ Nữ 
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png",HTVC Thuần Việt 
+http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png",HTVC Thể Thao HD 
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1group-title="VietTV" tvg-logo="http://mobion.vn/Files/Image/lqthinh/2017/12/08/temp_3153232049504426.jpg",ANTG
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
-rtmp://vf10.aditmedia.net/ingestx/ivn_000105
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",Phimhay
+
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/HLfQYGW.png",Sam
+
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/4EDKXz5.jpg",VietTeen
+
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VietTV"SCTV",SCTV1 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
+#EXTINF:-1 group-title="VietTV"SCTV",SCTV5
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
-http://123.30.185.126/hls/hanoi1.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
-http://123.30.185.126/hls/hanoi2.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",Ha Giang
-http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/son-la.png",Son La
-http://118.107.76.15:1983/live/smil:SL_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",Cao Bang
-http://118.107.76.15:1983/live/CB_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Kan
-http://118.107.76.15:1983/live/BK_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
-rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
-rtmp://45.124.85.26/oflaDemo/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
-http://123.30.185.126/hls/hoabinh.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
-http://118.107.76.15:1983/live/smil:PT_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
-rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png",Quang Ninh 3
-rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",VINH PHUC 
-rtmp://117.6.162.63/live/thvp
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HaNam 
-rtmp://113.160.198.111:8086/live//hanamtv
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/ABygmpS.png",Ha Tinh 
-http://hatinhtv.vn/liveevent.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri s1
-http://118.107.76.15:1983/live/smil:QT_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri s2
-rtmp://123.25.117.9:80/live/qtv
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",THUA THIEN HUE 
-rtmp://118.69.176.149:1935/live/trt
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png",Da Nang 1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png",Da Nang 2 
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt2/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s22.postimg.org/4yt2cm741/quangnam.png",Quang Nam
-rtmp://113.161.6.157:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",Binh Dinh 
-http://123.30.185.126/hls/binhdinh.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",Khánh Hòa 
-rtmp://118.69.198.109/live/video
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s11.postimg.org/g5akk3vrn/dacnong.jpg",DAK NONG 
-rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://103.56.158.185/tv_icon/lam-dong.png",Lam Dong
-http://118.107.76.15:1983/live/smil:LD_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",Binh Phuoc 1
-http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg",Binh Phuoc 2
-http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png",Bà Rịa-Vũng Tàu 
-rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg",Ben Tre
-rtmp://113.163.94.245/livepkgr/thbt
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg",Sóc trăng 
-rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s14.postimg.org/aqu8lk3i9/travinh.jpg",Tra Vinh 
-http://123.30.185.126/hls/travinh.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg",Bac Lieu 
-rtmp://118.69.205.213/livepkgr/livestream1
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png",Tien Giang 
-http://123.30.185.126/hls/tiengiang.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",An Giang 
-rtmp://113.161.212.25/live//atv1
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hau Giang
-rtmp://123.30.110.170:1939/thhg/thhg
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIETFACE 
-http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w1396114361.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",SAIGON TV LIVE – Media Kit & Rate
-http://63.143.59.125:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",KVLA
-http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VBS TELEVISION Channel 57.6 
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",QUÊ HƯƠNG
-rtmp://vf10.aditmedia.net/ingestx/ius_000130
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIETBAY
-rtmp://vf10.aditmedia.net/ingestx/ius_000131
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VNATV 57.3 
-http://livestream.vnvn.net/vnatv573.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",S CHANNEL TV 56.6 Live TV
-http://64.71.129.2:8080/hls/ius_000114.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",IBC NEWS
-rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",Công Giáo TV
-http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIETCHRISTIAN
-mms://live.vietchristian.com/tv
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIET MY TV
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="HAI NGOAI" tvg-logo="",VIỆT SÓNG TV 47.7 WKTB
-http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/3lybypo35/londonlive.jpg",USA:LONDON LIVE 
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s29.postimg.org/lpsr47ilj/bbcamerica.png",USA:BBC AMERICA
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s29.postimg.org/ocl64c5zb/abcnews.png",USA:ABC NEWS 
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
-#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",USA:CNN 
-http://208.86.19.13:8080/live/20.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-#EXTINF:-1 group-title="US" tvg-logo="https://s28.postimg.org/8jutkxofh/trutv.png",USA:TRU TV 
-http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/discovery.png",USA:DISCOVERY 
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/animalplanet.png",USA:ANIMAL PLANET HD 
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.zoptv.com/assets/logo/nickelodeon-uk.png",USA:NICK TOONS 
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.liveonlinetv247.info/images/tnt.png",USA:TNT 
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/v99c5trtt/image.jpg",USA:H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://s30.postimg.org/agk8xbxld/military.png",USA:MILITARY
-http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/o43q2olx3/kosmos.jpg",KOSMOS
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://www.onlinetvler.com/sites/default/files/styles/logo/public/logo/trt-belgesel-hd.png",TRT BELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
-rtsp://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
-rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/v34n24f53/cbsn.jpg",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 1
-http://149.202.207.8:8080/chINNkkeeyPanduuubeebyc-1/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 2
-http://149.202.207.8:8080/chINNkkeeyPanduuubeebyc-2/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 3
-http://149.202.207.8:8080/chINNkkeeyPanduuubeebyc-3/Strm/index.m3u8
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/y7a9212j1/bbc.jpg",BBC 4
-http://149.202.207.8:8080/chINNkkeeyPanduuubeebyc-4/Strm/index.m3u8
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s28.postimg.org/vpylbtm8t/tecong.jpg",Phim Tế Công
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjghf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="VietTV"SCTV",SCTV7
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau.smil/chunklist_w1798626891_b692000.m3u8
+#EXTINF:-1 group-title="VietTV"SCTV",SCTV12 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",HTV1
+http://fpttv.tk/iptv/hplus.php?id=htv1
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png",HTV4
+http://fpttv.tk/iptv/hplus.php?id=htv4
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/519040-948241-HTV7-HD---tms.png",HTV7 HD
+http://fpttv.tk/iptv/hplus.php?id=htv7hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/959098-371295-logo-HTV9-HD---tms.png",HTV9 HD
+http://fpttv.tk/iptv/hplus.php?id=htv9hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png",HTVC Thể Thao HD
+http://fpttv.tk/iptv/hplus.php?id=htvc-thethaohd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png",HTVC Phụ Nữ
+http://fpttv.tk/iptv/hplus.php?id=htvc-phunuhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static-stage.sctv.vn/channel/164/s18.png",SCTV 18 HD
+http://fpttv.tk/iptv/tv24.php?id=sctv18
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static-stage.tv24.vn/channel/119/BTV5.png",SCTV HD - BTV5
+http://fpttv.tk/iptv/tv24.php?id=btv5
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/416777-AXN.png",AXN
+http://fpttv.tk/iptv/hplus.php?id=axn
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://api.mytvnet.vn/static/channel/40.png",HBO SD
+http://fpttv.tk/iptv/mytvnet.php?id=hbo
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",Fox Movies HD
+http://fpttv.tk/iptv/hplus.php?id=foxmovies-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+http://fpttv.tk/iptv/hplus.php?id=foxlife-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO
+http://fpttv.tk/iptv/hplus.php?id=maxbyhbo
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO
+http://fpttv.tk/iptv/hplus.php?id=redbyhbo
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",Fox HD
+http://fpttv.tk/iptv/hplus.php?id=foxhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/503539-cinemaworld.png",Cinema World
+http://fpttv.tk/iptv/hplus.php?id=cinema-world
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",Warner TV
+http://fpttv.tk/iptv/hplus.php?id=warner-tv
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/120786-Cartoon-Netword-HD.png",Cartoon Network
+http://fpttv.tk/iptv/hplus.php?id=cartoon
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/02/361117-boom.png",Boomerang
+http://fpttv.tk/iptv/hplus.php?id=boomerang
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/585539-cbee.png",BBC Cbeebies
+http://fpttv.tk/iptv/hplus.php?kenh=cbeebies
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/866934-babyfirst.png",Baby First
+http://fpttv.tk/iptv/hplus.php?kenh=baby-first
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/06/106233-NationalGeographicChannelHD.png",National Geographic HD
+http://fpttv.tk/iptv/hplus.php?id=ngc-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+http://fpttv.tk/iptv/hplus.php?id=bbc-e
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
+http://fpttv.tk/iptv/hplus.php?id=bbc-ls
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/748952-australia-Plus.png",Australia Plus
+http://fpttv.tk/iptv/hplus.php?id=australia-plus
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC World News
+http://fpttv.tk/iptv/hplus.php?id=bbc-wn
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/863201-CNN.png",CNN
+http://fpttv.tk/iptv/hplus.php?id=cnn
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://api.mytvnet.vn/static/channel/60.png",Bloomberg
+http://fpttv.tk/iptv/hplus.php?id=bloomberg
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/11/191147-Channel_V_Logo.png",Channel V HD
+http://fpttv.tk/iptv/hplus.php?id=channelv-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/405224-FOX-Sports-1-HD.png",Fox Sports HD
+http://fpttv.tk/iptv/hplus.php?id=foxsport-1hd
+
+#EXTINF:-1 group-title="Russia",Extreme Sports
+http://persik.by/stream/3903/293564/99.m3u8
+#EXTINF:-1 group-title="Russia",Extreme Sports
+http://persik.by/stream/3903/293564/10309.m3u8
+#EXTINF:-1 group-title="Russia",Extreme Sports
+http://persik.by/stream/1418/252987/99.m3u8
+#EXTINF:-1 group-title="Russia",Extreme Sports
+http://persik.by/stream/1418/252987/10309.m3u8
+#EXTINF:-1 group-title="Russia",Setanta Sport 
+http://persik.by/stream/1418/252987/10316.m3u8
+#EXTINF:-1 group-title="Russia",Setanta Sports
+http://persik.by/stream/1418/252987/10313.m3u8
+#EXTINF:-1 group-title="Russia",Viasat Sport
+http://persik.by/stream/3903/293564/10249.m3u8
+#EXTINF:-1 group-title="Russia",Viasat Sport
+http://persik.by/stream/1418/252987/10249.m3u8
+#EXTINF:-1 group-title="Russia", fighter
+http://persik.by/stream/1418/252987/310.m3u8
+#EXTINF:-1 group-title="Russia", fighter
+http://persik.by/stream/1418/252987/595.m3u8
+#EXTINF:-1 group-title="Russia", Match!
+http://persik.by/stream/3903/293564/276.m3u8
+#EXTINF:-1 group-title="Russia", Match!
+http://persik.by/stream/3903/293564/1077.m3u8
+#EXTINF:-1 group-title="Russia", Match!
+http://persik.by/stream/1418/252987/276.m3u8
+#EXTINF:-1 group-title="Russia", Match!
+http://persik.by/stream/1418/252987/1077.m3u8
+#EXTINF:-1 group-title="Russia", Sports Player
+http://persik.by/stream/1418/252987/10315.m3u8
+#EXTINF:-1 group-title="Russia", Sports Outdoor HD
+http://persik.by/stream/1418/252987/10314.m3u8
+#EXTINF:-1 group-title="Russia", Sport 1 (Ukraine)
+http://persik.by/stream/1418/252987/270.m3u8
+#EXTINF:-1 group-title="Russia", Sport 2 (Ukraine)
+http://persik.by/stream/1418/252987/91.m3u8
+#EXTINF:-1 group-title="Russia", Sport 2 (Ukraine)
+http://persik.by/stream/1418/252987/144.m3u8
+#EXTINF:-1 group-title="Russia", Sport 2 (Ukraine)
+http://persik.by/stream/1418/252987/309.m3u8
+#EXTINF:-1 group-title="Russia", Football
+http://persik.by/stream/1418/252987/440.m3u8
+#EXTINF:-1 group-title="Russia", KHL
+http://persik.by/stream/1418/252987/485.m3u8
+#EXTINF:-1 group-title="Russia", KHL
+http://persik.by/stream/1418/252987/604.m3u8
+#EXTINF:-1 group-title="Russia",Extrime
+http://persik.by/stream/2944/263250/99.m3u8
+#EXTINF:-1 group-title="Russia",Fighter
+http://persik.by/stream/2944/263250/310.m3u8
+#EXTINF:-1 group-title="Russia",Fighter
+http://persik.by/stream/2944/263250/595.m3u8
+#EXTINF:-1 group-title="Russia",MATCH!
+http://persik.by/stream/2944/263250/276.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! arena
+http://persik.by/stream/2944/263250/261.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! a game
+http://persik.by/stream/2944/263250/10270.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! football
+http://persik.by/stream/2944/263250/346.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! football 1
+http://persik.by/stream/2944/263250/10266.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! football 2
+http://persik.by/stream/2944/263250/10267.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! football 2
+http://persik.by/stream/2944/263250/10217.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! football 3
+http://persik.by/stream/2944/263250/10218.m3u8
+#EXTINF:-1 group-title="Russia",MATCH! football 3
+http://persik.by/stream/2944/263250/10268.m3u8
+#EXTINF:-1 group-title="Russia",OUR SPORT
+http://persik.by/stream/2944/263250/10271.m3u8
+#EXTINF:-1 group-title="Russia",OUR Football
+http://persik.by/stream/2944/263250/10294.m3u8
+#EXTINF:-1 group-title="Russia",OUR Football
+http://persik.by/stream/2944/263250/10264.m3u8
+#EXTINF:-1 group-title="Russia",VIASAT Sport
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 group-title="Russia",1RU
+http://persik.by/stream/2944/263250/10021.m3u8
+#EXTINF:-1 group-title="Russia",2x2 HD
+http://persik.by/stream/2944/263250/10211.m3u8
+#EXTINF:-1 group-title="Russia",365
+http://persik.by/stream/2944/263250/279.m3u8
+#EXTINF:-1 group-title="Russia",365
+http://persik.by/stream/2944/263250/10288.m3u8
+#EXTINF:-1 group-title="Russia",8 channel
+http://persik.by/stream/2944/263250/10201.m3u8
+#EXTINF:-1 group-title="Russia",A1
+http://persik.by/stream/2944/263250/257.m3u8
+#EXTINF:-1 group-title="Russia",A2
+http://persik.by/stream/2944/263250/447.m3u8
+#EXTINF:-1 group-title="Russia",Carton
+http://persik.by/stream/2944/263250/32.m3u8
+#EXTINF:-1 group-title="Russia",Che 35
+http://persik.by/stream/2944/263250/56.m3u8
+#EXTINF:-1 group-title="Russia",CINEMA
+http://persik.by/stream/2944/263250/278.m3u8
+#EXTINF:-1 group-title="Russia",CINEMA CODE
+http://persik.by/stream/2944/263250/292.m3u8
+#EXTINF:-1 group-title="Russia",Cozy
+http://persik.by/stream/2944/263250/10230.m3u8
+#EXTINF:-1 group-title="Russia",FRIDAY!
+http://persik.by/stream/2944/263250/178.m3u8
+#EXTINF:-1 group-title="Russia",HD life
+http://persik.by/stream/2944/263250/10295.m3u8
+#EXTINF:-1 group-title="Russia",HISTORY HD
+http://persik.by/stream/2944/263250/10244.m3u8
+#EXTINF:-1 group-title="Russia",HISTORY HD
+http://persik.by/stream/2944/263250/879.m3u8
+#EXTINF:-1 group-title="Russia",Kitchen TV
+http://persik.by/stream/2944/263250/383.m3u8
+#EXTINF:-1 group-title="Russia",Kitchen TV
+http://persik.by/stream/2944/263250/10287.m3u8
+#EXTINF:-1 group-title="Russia",Live
+http://persik.by/stream/2944/263250/10285.m3u8
+#EXTINF:-1 group-title="Russia",Live
+http://persik.by/stream/2944/263250/511.m3u8
+#EXTINF:-1 group-title="Russia",MOTHERFUL CINEMA
+http://persik.by/stream/2944/263250/312.m3u8
+#EXTINF:-1 group-title="Russia",National geographic HD
+http://persik.by/stream/2944/263250/10016.m3u8
+#EXTINF:-1 group-title="Russia",National geographic HD
+http://persik.by/stream/2944/263250/10243.m3u8
+#EXTINF:-1 group-title="Russia",NEWS ONE  HD
+http://persik.by/stream/2944/263250/10205.m3u8
+#EXTINF:-1 group-title="Russia",RT HD
+http://persik.by/stream/2944/263250/10202.m3u8
+#EXTINF:-1 group-title="Russia",RU TV
+http://persik.by/stream/2944/263250/10261.m3u8
+#EXTINF:-1 group-title="Russia",Russia To
+http://persik.by/stream/2944/263250/15.m3u8
+#EXTINF:-1 group-title="Russia",Star
+http://persik.by/stream/2944/263250/10220.m3u8
+#EXTINF:-1 group-title="Russia",TB3
+http://persik.by/stream/2944/263250/106.m3u8
+#EXTINF:-1 group-title="Russia",TB3
+http://persik.by/stream/2944/263250/63.m3u8
+#EXTINF:-1 group-title="Russia",THT
+http://persik.by/stream/2944/263250/981.m3u8
+#EXTINF:-1 group-title="Russia",THT
+http://persik.by/stream/2944/263250/14.m3u8
+#EXTINF:-1 group-title="Russia",THT4
+http://persik.by/stream/2944/263250/476.m3u8
+#EXTINF:-1 group-title="Russia",THT4
+http://persik.by/stream/2944/263250/64.m3u8
+#EXTINF:-1 group-title="Russia",travel  HD
+http://persik.by/stream/2944/263250/88.m3u8
+#EXTINF:-1 group-title="Russia",travel HD
+http://persik.by/stream/2944/263250/880.m3u8
+#EXTINF:-1 group-title="Russia",travel HD
+http://persik.by/stream/2944/263250/886.m3u8
+#EXTINF:-1 group-title="Russia",VTV
+http://persik.by/stream/2944/263250/10263.m3u8
+
+#EXTINF:-1 group-title="Russia",Extreme Sport
+http://91.149.172.100:80/channel?id=24&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Setanta Sports HD
+http://91.149.172.100:80/channel?id=145&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Setanta Sports + HD
+http://91.149.172.100:80/channel?id=146&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Телеканал Футбол
+http://91.149.172.100:80/channel?id=65&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",N/A
+http://91.149.172.100:80/channel?id=147&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",N/A
+http://91.149.172.100:80/channel?id=148&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",N/A HD
+http://91.149.172.100:80/channel?id=1&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",MTV Live HD
+http://91.149.172.100:80/channel?id=4&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",A2
+http://91.149.172.100:80/channel?id=5&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Домашний
+http://91.149.172.100:80/channel?id=6&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Nat Geo Wild HD
+http://91.149.172.100:80/channel?id=7&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Мульт
+http://91.149.172.100:80/channel?id=8&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",24 Техно
+http://91.149.172.100:80/channel?id=9&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Nickelodeon HD
+http://91.149.172.100:80/channel?id=11&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Fine Living
+http://91.149.172.100:80/channel?id=13&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",XX1
+http://91.149.172.100:80/channel?id=14&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Кто есть кто
+http://91.149.172.100:80/channel?id=15&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Зоопарк
+http://91.149.172.100:80/channel?id=16&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",ТНТ International
+http://91.149.172.100:80/channel?id=17&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",MTV Dance
+http://91.149.172.100:80/channel?id=20&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",VH1 Classic
+http://91.149.172.100:80/channel?id=21&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",CN
+http://91.149.172.100:80/channel?id=22&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Русский бестселлер
+http://91.149.172.100:80/channel?id=23&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",JimJam
+http://91.149.172.100:80/channel?id=25&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Моя планета
+http://91.149.172.100:80/channel?id=26&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Наука 2.0
+http://91.149.172.100:80/channel?id=27&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Outdoor HD
+http://91.149.172.100:80/channel?id=28&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Bridge TV Русский Хит
+http://91.149.172.100:80/channel?id=29&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",RTG TV
+http://91.149.172.100:80/channel?id=30&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Океан ТВ
+http://91.149.172.100:80/channel?id=31&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Bridge TV
+http://91.149.172.100:80/channel?id=32&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Сарафан
+http://91.149.172.100:80/channel?id=33&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",TV1000
+http://91.149.172.100:80/channel?id=34&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",TV1000 Action
+http://91.149.172.100:80/channel?id=35&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",TV1000 Русское Кино
+http://91.149.172.100:80/channel?id=36&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Viasat History
+http://91.149.172.100:80/channel?id=38&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Ретро
+http://91.149.172.100:80/channel?id=40&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Драйв
+http://91.149.172.100:80/channel?id=41&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Здоровое ТВ
+http://91.149.172.100:80/channel?id=42&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Усадьба
+http://91.149.172.100:80/channel?id=43&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Вопросы и ответы
+http://91.149.172.100:80/channel?id=44&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Беларусь 1
+http://91.149.172.100:80/channel?id=45&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Беларусь 2
+http://91.149.172.100:80/channel?id=46&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",ОНТ
+http://91.149.172.100:80/channel?id=47&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",РЕН Беларусь
+http://91.149.172.100:80/channel?id=48&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",НТВ Беларусь
+http://91.149.172.100:80/channel?id=49&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Россия РТР
+http://91.149.172.100:80/channel?id=50&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",МИР
+http://91.149.172.100:80/channel?id=51&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Беларусь 3
+http://91.149.172.100:80/channel?id=52&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",КХЛ
+http://91.149.172.100:80/channel?id=53&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",World Fashion Channel
+http://91.149.172.100:80/channel?id=54&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Egoist TV
+http://91.149.172.100:80/channel?id=55&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Телекафе
+http://91.149.172.100:80/channel?id=57&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",A1
+http://91.149.172.100:80/channel?id=58&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Живи
+http://91.149.172.100:80/channel?id=60&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",MTV
+http://91.149.172.100:80/channel?id=61&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Театр
+http://91.149.172.100:80/channel?id=67&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Amedia HD
+http://91.149.172.100:80/channel?id=68&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Сов Сек
+http://91.149.172.100:80/channel?id=70&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Galaxy
+http://91.149.172.100:80/channel?id=71&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Мама
+http://91.149.172.100:80/channel?id=72&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",VH1 Europe
+http://91.149.172.100:80/channel?id=73&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Родное Кино
+http://91.149.172.100:80/channel?id=74&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Fox Life HD
+http://91.149.172.100:80/channel?id=75&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Nick Jr.
+http://91.149.172.100:80/channel?id=76&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Кинопремьера HD
+http://91.149.172.100:80/channel?id=77&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",ТНТ Music
+http://91.149.172.100:80/channel?id=79&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Кинокомедия
+http://91.149.172.100:80/channel?id=80&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Индийское кино
+http://91.149.172.100:80/channel?id=81&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Мужское кино
+http://91.149.172.100:80/channel?id=82&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Кухня ТВ
+http://91.149.172.100:80/channel?id=83&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Авто Плюс
+http://91.149.172.100:80/channel?id=85&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",365 Дней
+http://91.149.172.100:80/channel?id=86&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Nickelodeon
+http://91.149.172.100:80/channel?id=87&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Перец
+http://91.149.172.100:80/channel?id=88&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Sony HD
+http://91.149.172.100:80/channel?id=89&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Paramount Comedy
+http://91.149.172.100:80/channel?id=90&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Nat Geo HD
+http://91.149.172.100:80/channel?id=91&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Paramount Channel
+http://91.149.172.100:80/channel?id=93&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",History HD
+http://91.149.172.100:80/channel?id=94&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Travel HD
+http://91.149.172.100:80/channel?id=95&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Киносерия
+http://91.149.172.100:80/channel?id=96&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",РБК
+http://91.149.172.100:80/channel?id=97&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Sony Sci-fi
+http://91.149.172.100:80/channel?id=98&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",RTVi
+http://91.149.172.100:80/channel?id=99&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Fox HD
+http://91.149.172.100:80/channel?id=100&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Ностальгия
+http://91.149.172.100:80/channel?id=101&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Беларусь 5
+http://91.149.172.100:80/channel?id=102&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Sony
+http://91.149.172.100:80/channel?id=103&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Euronews Россия
+http://91.149.172.100:80/channel?id=104&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",CBS Reality
+http://91.149.172.100:80/channel?id=105&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Карусель
+http://91.149.172.100:80/channel?id=106&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Охота и рыбалка
+http://91.149.172.100:80/channel?id=107&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Дом кино
+http://91.149.172.100:80/channel?id=108&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",МУЗ
+http://91.149.172.100:80/channel?id=109&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Жара
+http://91.149.172.100:80/channel?id=111&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Кинохит
+http://91.149.172.100:80/channel?id=112&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Психология 21
+http://91.149.172.100:80/channel?id=113&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Домашние животные
+http://91.149.172.100:80/channel?id=114&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Музыка первого
+http://91.149.172.100:80/channel?id=115&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Россия К
+http://91.149.172.100:80/channel?id=118&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Boomerang
+http://91.149.172.100:80/channel?id=119&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",ВТВ
+http://91.149.172.100:80/channel?id=120&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Киномикс
+http://91.149.172.100:80/channel?id=123&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Звезда
+http://91.149.172.100:80/channel?id=124&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Киносемья
+http://91.149.172.100:80/channel?id=128&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Союз
+http://91.149.172.100:80/channel?id=131&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Еврокино
+http://91.149.172.100:80/channel?id=132&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Время
+http://91.149.172.100:80/channel?id=133&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",MTV Rocks
+http://91.149.172.100:80/channel?id=134&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",History
+http://91.149.172.100:80/channel?id=136&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Russian Extreme
+http://91.149.172.100:80/channel?id=137&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",TDK
+http://91.149.172.100:80/channel?id=139&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",MTV Hits
+http://91.149.172.100:80/channel?id=140&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Travel+Adventure
+http://91.149.172.100:80/channel?id=141&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Sony Turbo
+http://91.149.172.100:80/channel?id=143&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Travel+Adventure HD
+http://91.149.172.100:80/channel?id=144&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Русский иллюзион
+http://91.149.172.100:80/channel?id=149&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Иллюзион +
+http://91.149.172.100:80/channel?id=150&u=demo&p=demo
+#EXTINF:-1 group-title="Russia",Детский
+http://91.149.172.100:80/channel?id=151&u=demo&p=demo
 
 
+#EXTINF:1 group-title="Romani",Telekom Sport 1 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",Telekom Sport 2 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",Telekom Sport 3 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",Telekom Sport 4 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",Eurosport 1
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",Eurosport 2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",UEFA1
+http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA1/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",UEFA2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA2/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:1 group-title="Romani",UEFA3
+http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA3/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",AXN
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AXN/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",AXN HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",AXN Black
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNBlack/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",AXN White
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNWhite/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",AXN Spin
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNSPIN/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",TV 1000
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TV1000/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",TNT
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TCM/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",TNT HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TNTHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Bollywood TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Bollywood Clasic
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Bollywood TV HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",HBO HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",HBO 2 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",HBO 3 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Cinemax HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Cinemax 2 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Cinemaraton HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$CinemaratonHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Comedy Central
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Paramount Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Nasul TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$NasulTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Mooz RO!
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Mooz Dance HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Mooz HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Mooz Hits
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Rock TV HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$RockTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Classica HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ClassicaTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",VH 1
+http://telekomtv.ro.edgesuite.net/shls/LIVE$VH1/12.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Boomerang
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Nickelodeon
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Nickelodeon/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Nickelodeon HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$NickelodeonHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Disney Junior
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Disney Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Duck TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DuckTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Nick Jr
+http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",BBC News HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",BBC Earth HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",TLC
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TLC/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",History
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Viasat History
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHistory/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Viasat Nature
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatNature/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Viasat Explore
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatExplorer/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Viasat Nature HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Travel Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Travel Mix
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",TV Paprika
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TVPaprika/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Food Network
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",AlfaOmegaTV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Balkanika TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BalkanikaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Animal Planet
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AnimalPlanet/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",DaVinci
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DaVinci/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Discovery
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Discovery Science
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Fashion TV HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Fashion TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Romania TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$RomaniaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Agro TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",6TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Bollywood Classic
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Bollywood Classic
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Credo TV 
+http://telekomtv.ro.edgesuite.net/shls/LIVE$CredoTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Erdely TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Inedit TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$IneditTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Speranta TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",Travel Mix
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="Romani",TV CITY
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
 
 
+#EXTINF:-1 group-title="India",D SPORTS s1
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 group-title="India",D SPORTS s2
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/01.m3u8
+#EXTINF:-1 group-title="India",D SPORTS s3
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1 group-title="India",D SPORTS s4
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="India",D SPORTS s5
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="India",DD Kissan
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226294/06.m3u8
+#EXTINF:-1 group-title="India",DSPORTS HD s1
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:-1 group-title="India",DSPORTS HD s2
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:-1 group-title="India",DD SPORTS s1
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="India",DD SPORTS s2
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/index.m3u8
+#EXTINF:-1 group-title="India",DD SPORTS s3
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="India",DD SPORTS s4
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
+#EXTINF:-1 group-title="India",DD SPORTS s5
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="India",NEO PRIME s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 group-title="India",NEO PRIME s2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:-1 group-title="India",NEO PRIME s3
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 group-title="India",NEO SPORTS s4
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 group-title="India",NEO SPORTS s5
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1 group-title="India",NEO SPORTS s6
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 group-title="India",SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 group-title="India",SONY ESPN HD s1
+http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8?default
+#EXTINF:-1 group-title="India",SONY ESPN HD s2
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1 group-title="India",SONY ESPN HD s3
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 1 s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 1 s2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/02.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 1 s3
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/03.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 1 s4
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/04.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 1 s5
+http://mhms5.airtel.tv/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 1 HD
+http://cshms2.airtel.tv/wh7f454c46tw3286638215_1873239014/PLTV/88888888/224/3221225875/01.m3u8?default
+#EXTINF:-1 group-title="India",SONY TEN 2 s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 s2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/02.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 s3
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/03.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 s4
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/04.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s1
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s2
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s3
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8?icpid=88888888&from=1&ocs=2_125.17.129.8_80&hms_devid=163
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s4
+http://cshms2.airtel.tv/wh7f454c46tw3688043949_1804512211/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s5
+http://125.17.129.12/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8?icpid=88888888&from=1&ocs=2_125.17.129.8_80&hms_devid=3
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s6
+http://125.17.129.9/wh7f454c46tw1359798899_1189485836/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 2 HD s7
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 3 s1
+http://mhms6.airtel.tv/wh7f454c46tw3024782148_1729232970/PLTV/88888888/224/3221226330/04.m3u8?default
+#EXTINF:-1 group-title="India",SONY TEN 3 s2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 3 HD s1
+http://125.17.129.17/PLTV/88888888/224/3221226330/03.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 3 HD s2
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="India",SONY TEN 3 HD s3
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 group-title="India",SONY SIX 
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1 group-title="India",SONY SIX HD s1
+http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/02.m3u8?default
+#EXTINF:-1 group-title="India",SONY SIX HD s2
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1 group-title="India",SONY ESPN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1 group-title="India",SONY ESPN HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226280/01.m3u8
+#EXTINF:-1 group-title="India",ANIMAL PLANET s1
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:-1 group-title="India",ANIMAL PLANET s2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:-1 group-title="India",ANIMAL PLANET HD WORLD s1
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 group-title="India",ANIMAL PLANET HD WORLD s2
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY HD WORLD s1
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY HD WORLD s2
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY OVERSEA s1
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY OVERSEA s2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY HINDI
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY JEET s1
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226447/index.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY JEET s2
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226447/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY KID s1
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY KID s2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY SCIENCE s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY SCIENCE s2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY SCIENCE s3
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY TURBO s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY TURBO s2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY TURBO s3
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HD s1
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HD s2
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HINDI s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HINDI s2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HINDI s3
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HINDI s4
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:-1 group-title="India",TLC HD WORLD s1
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1 group-title="India",TLC HD WORLD s2
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1 group-title="India",TLC HD WORLD s3
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:-1 group-title="India",TLC HD WORLD s4
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:-1 group-title="India",AXN s1
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:-1 group-title="India",AXN s2
+http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/04.m3u8
+#EXTINF:-1 group-title="India",AXN HD s1
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1 group-title="India",AXN HD s2
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
+#EXTINF:-1 group-title="India",CINEMA TV s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:-1 group-title="India",CINEMA TV s2
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226246/01.m3u8
+#EXTINF:-1 group-title="India",CINEMA TV s4
+http://mhms8.airtel.tv/wh7f454c46tw3749195007_759815032/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:-1 group-title="India",ENTEER 10 MOVIES s1
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226218/01.m3u8
+#EXTINF:-1 group-title="India",ENTEER 10 MOVIES s3
+http://mhms8.airtel.tv/wh7f454c46tw3950346535_1991919477/PLTV/88888888/224/3221226218/index.m3u8
+#EXTINF:-1 group-title="India",MAHA MOVIES s1
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226225/01.m3u8
+#EXTINF:-1 group-title="India",MAHA MOVIES s3
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226225/index.m3u8
+#EXTINF:-1 group-title="India",MANODRNJAN MOVIES s5
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226226/01.m3u8
+#EXTINF:-1 group-title="India",SONY PIX s1
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1 group-title="India",SONY PIX s2
+http://cshms3.airtel.tv/wh7f454c46tw2718785222_1401638413/PLTV/88888888/224/3221226442/04.m3u8
+#EXTINF:-1 group-title="India",SONY PIX s3
+http://cshms4.airtel.tv/wh7f454c46tw487191866_491891977/PLTV/88888888/224/3221226486/01.m3u8?default
+#EXTINF:-1 group-title="India",SONY PIX s4
+http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/04.m3u8
+#EXTINF:-1 group-title="India",SONY PIX s5
+http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1 group-title="India",SONY PIX HD s1
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1 group-title="India",SONY PIX HD s2
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
+#EXTINF:-1 group-title="India",VASATH (WORLD CINEMA) ENGLISH
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226321/01.m3u8
+#EXTINF:-1 group-title="India",WOW CINEMA s1
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226263/01.m3u8
+#EXTINF:-1 group-title="India",WOW CINEMA s3
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/index.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA s1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA s2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA s3
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA HD s1
+https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA HD s2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/01.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA HD s3
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA HD s4
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
 
+#EXTINF:-1 group-title="Indo",FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
+#EXTINF:-1 group-title="Indo",FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+#EXTINF:-1 group-title="Indo",FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
+#EXTINF:-1 group-title="Indo",FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+#EXTINF:-1 group-title="Indo",TVRI Sports
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+#EXTINF:-1 group-title="Indo",EURONEWS 
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#EXTINF:-1 group-title="Indo",ALJAZEERA 1 
+http://210.210.155.35/session/fa0aa530-7b79-11e8-b63d-c81f66f89318/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 group-title="Indo",ALJAZEERA 2 
+http://210.210.155.35/session/164a3d6e-7b7a-11e8-90c7-c81f66f89318/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 group-title="Indo",CHANNEL NEWS ASIA 
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+#EXTINF:-1 group-title="Indo",CCTV4 
+http://210.210.155.35/session/54f1bc0e-7b7a-11e8-a6e4-b82a72d63267/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 group-title="Indo",PHOENIX 
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1 group-title="Indo",FRANCE24 
+http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 group-title="Indo",DW 
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 group-title="Indo",RT 
+http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1 group-title="Indo",TV5MONDE ASIE 
+http://210.210.155.35/session/00c5b2a6-7b7b-11e8-b6ec-b82a72d63267/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1 group-title="Indo",TVE 
+http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+#EXTINF:-1 group-title="Indo",RTP INTERNACIONAL 
+http://210.210.155.35/session/5395775a-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s38/01.m3u8
+#EXTINF:-1 group-title="Indo",TBN 
+http://210.210.155.35/session/664e7ce8-7b7b-11e8-a6e4-b82a72d63267/x6bnqe/s/s39/01.m3u8
+#EXTINF:-1 group-title="Indo",CGTN DOCUMENTARY 
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="Indo",ALSANAT 
+http://210.210.155.35/session/8f8cb6f6-7b7b-11e8-a629-b82a72d63267/x6bnqe/s/s27/01.m3u8
+#EXTINF:-1 group-title="Indo",ALQURANULKARIM 
+http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="Indo",ZeeBIOSKOP 
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+#EXTINF:-1 group-title="Indo",FOX ACTION MOVIES 
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/index1.m3u8
+#EXTINF:-1 group-title="Indo",FOX MOVIE PREMIUM 
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+#EXTINF:-1 group-title="Indo",FOX FAMILY MOVIES 
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8
+#EXTINF:-1 group-title="Indo",FOX LIFE 
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 group-title="Indo",K-DRAMA 
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8 
+#EXTINF:-1 group-title="Indo",RTM 2 
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8 
+#EXTINF:-1 group-title="Indo",SONY MIX 
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
+#EXTINF:-1 group-title="Indo",SONY MOTHER 
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8 
+#EXTINF:-1 group-title="Indo",KIX 
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 group-title="Indo",THRILL 
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
-
-
-
-
-
+#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 1 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 2 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 3 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 4 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
+#EXTINF:-1 group-title="Thai" group-title="Sports",TRUE SPORT HD
+http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
+#EXTINF:-1 group-title="Thai" group-title="Sports",TRUE SPORT HD 2
+http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
+#EXTINF:-1 group-title="Thai" group-title="Sports",TRUE SPORT HD3
+http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
+#EXTINF:-1 group-title="Thai" group-title="Sports",TRUE SPORT7
+http://main-a.for-our.info:8081/tv11/sport7/chunks.m3u8
+#EXTINF:-1 group-title="Thai",FOX SPORT 1
+http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
+#EXTINF:-1 group-title="Thai",FOX SPORT 2
+http://main-a.for-our.info:8081/tv11/fox2/chunks.m3u8
+#EXTINF:-1 group-title="Thai",sport2
+http://main-a.for-our.info:8081/tv11/sport2/chunks.m3u8
+#EXTINF:-1 group-title="Thai",WARNER TV
+http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
+#EXTINF:-1 group-title="Thai",TRUE THAI FILM
+http://main-a.for-our.info:8081/tv11/thaifilm/chunks.m3u8
+#EXTINF:-1 group-title="Thai",M CHANNEL
+http://main-a.for-our.info:8081/tv1/ch19.m3u8
+#EXTINF:-1 group-title="Thai",Cartoon Network
+http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
+#EXTINF:-1 group-title="Thai",MONO29
+http://main-a.for-our.info:8081/tv1/ch3.m3u8
+#EXTINF:-1 group-title="Thai",DISCOVERY
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+#EXTINF:-1 group-title="Thai",TRUE EXPLORE LIFE
+http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
+#EXTINF:-1 group-title="Thai",TRUE EXPLORE WILD
+http://main-a.for-our.info:8081/tv11/explorewild/chunks.m3u8
+#EXTINF:-1 group-title="Thai",natgeo
+http://main-a.for-our.info:8081/tv11/natgeo/chunks.m3u8
+#EXTINF:-1 group-title="Thai",3 FAMILY
+http://main-a.for-our.info:8081/tv2/ch1.m3u8
+#EXTINF:-1 group-title="Thai",MCOT FAMILY
+http://main-a.for-our.info:8081/tv2/ch4.m3u8
+#EXTINF:-1 group-title="Thai",NBT
+http://main-a.for-our.info:8081/tv1/ch14.m3u8
+#EXTINF:-1 group-title="Thai",DISNEY CHANNEL
+http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
+#EXTINF:-1 group-title="Thai",DISNEY XD
+http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
+#EXTINF:-1 group-title="Thai",TRUE SPARK JUMP
+http://main-a.for-our.info:8081/tv11/sparkjump/chunks.m3u8
+#EXTINF:-1 group-title="Thai",TRUE SPARK PLAY
+http://main-a.for-our.info:8081/tv11/sparkplay/chunks.m3u8
+#EXTINF:-1 group-title="Thai",BOOMERANG
+http://main-a.for-our.info:8081/tv1/ch18.m3u8
+#EXTINF:-1 group-title="Thai",MCOT FAMILY
+http://main-a.for-our.info:8081/tv2/ch4.m3u8
+#EXTINF:-1 group-title="Thai",NBT
+http://main-a.for-our.info:8081/tv1/ch14.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/12/discovery-communications__121214124042.jpg",Discovery  
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8?
