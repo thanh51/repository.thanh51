@@ -1,28 +1,21 @@
 <item>
-<title> [COLOR yellow][B]Ultimate IPTV - Cần addon f4mTester[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR cyan] [makelist2.param2][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
-<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
-</regex>
-
-
+<title>[COLOR pink][B]WORLD DAILY SERVERS IPTV - - Cần addon f4mTester[/B][/COLOR]</title>title>
+<thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</thumbnail>
+<fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</fanart>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR cyan][/COLOR] [makelist.param1]  </link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+    <title>[COLOR red][B]IP:[/B][/COLOR] [COLOR white][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
+	<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
 </regex>
+<info></info>
 </item>
