@@ -986,6 +986,60 @@
 
 
 <item>
+	<title>[COLOR pink]ASIA 82: Phạm Đình Chương [/COLOR][COLOR red]Mộng Dưới Hoa HD 2018[/COLOR][COLOR=cyan]Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>https://www.dailymotion.com/video/x6mjs65</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR pink]ASIA 82: Phạm Đình Chương [/COLOR][COLOR red]Mộng Dưới Hoa HD 2018[/COLOR][COLOR=cyan]Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>https://www.dailymotion.com/video/x6mjtry</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR pink]ASIA 82: Phạm Đình Chương [/COLOR][COLOR red]Mộng Dưới Hoa HD 2018[/COLOR][COLOR=cyan]Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>https://www.dailymotion.com/video/x6mmv9p</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+
+
+<item>
 <title>[COLOR blue]ASIA 81 - 2018[/COLOR][COLOR red]Gió Xuân[/COLOR][COLOR=cyan] D1 [/COLOR]</title>
 <link>http://www.mediafire.com/download/vfccgbjyq01w4qq/Asia81_D1.mkv</link>
 <thumbnail>https://s33.postimg.cc/wxiw0wq5r/asia81.jpg</thumbnail>
