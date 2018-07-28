@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR pink][B]WORLD DAILY SERVERS IPTV - Cần addon f4mTester[/B][/COLOR]</title>title>
+<title>[COLOR pink][B]WORLD DAILY SERVERS IPTV - - Cần addon f4mTester[/B][/COLOR]</title>title>
 <thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</thumbnail>
 <fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -7,8 +7,8 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[COLOR red][B]IP:[/B][/COLOR] [COLOR white][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
-	<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
-<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+	<thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</thumbnail>
+<fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</fanart>
 <link>NA</link>
 <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
