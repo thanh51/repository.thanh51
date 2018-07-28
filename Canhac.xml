@@ -2,6 +2,75 @@
 
 
 <item>
+	<title>[COLOR pink]Paris by night 125 [/COLOR][COLOR red]Chiều mưa biên giới[/COLOR][COLOR=cyan]Part 1[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>https://www.dailymotion.com/video/x6qchfn</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR pink]Paris by night 125 [/COLOR][COLOR red]Chiều mưa biên giới[/COLOR][COLOR=cyan]Part 2[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>https://www.dailymotion.com/video/x6qci2v</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR pink]Paris by night 125 [/COLOR][COLOR red]Chiều mưa biên giới[/COLOR][COLOR=cyan]Part 3[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6qcioj</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>[COLOR pink]Paris by night 125 [/COLOR][COLOR red]Chiều mưa biên giới[/COLOR][COLOR=cyan]Part 4[/COLOR]</title>
+	<link>$doregex[mp4]</link>
+		<regex>
+			<name>mp4</name>
+			<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+			<page></page>
+		</regex>
+		<regex>
+			<name>file</name>
+			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<page>http://www.dailymotion.com/video/x6qhp4d</page>
+			<referer>http://www.dailymotion.com/</referer>
+		</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR blue]Paris by night Số 124 [/COLOR][COLOR red]Anh Cho Em Mùa Xuân (bản full)[/COLOR]</title>
 <link>http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN-124_Anh.Cho.Em.Mua.Xuan.2018.720p.DD2.0.x264.mkv</link>
 <thumbnail>https://i.imgur.com/qiDlmkG.jpg</thumbnail>
