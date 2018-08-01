@@ -2958,22 +2958,46 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 group-title="Indo",THRILL 
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",beIN SPORTS 1 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",beIN SPORTS 2 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",beIN SPORTS 3 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",beIN SPORTS 4 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
-#EXTINF:-1 group-title="Thai",TRUE SPORT HD
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081812.png",True sports HD1
 http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
-#EXTINF:-1 group-title="Thai",TRUE SPORT HD 2
-http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
-#EXTINF:-1 group-title="Thai",TRUE SPORT HD3
-http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
-#EXTINF:-1 group-title="Thai",TRUE SPORT7
-http://main-a.for-our.info:8081/tv11/sport7/chunks.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629080629.png",True sports HD2
+http://main-a.for-our.info:8081/tv11/sporthd2/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629055505.png",True sports HD3
+http://main-a.for-our.info:8081/tv11/sporthd3/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ia/180629082318.png",True sports HD4
+http://main-a.for-our.info:8081/tv11/sporthd4/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iq/180629071541.png",True sports 2
+http://main-a.for-our.info:8081/tv11/sport2/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629071637.png",True sports 5
+http://main-a.for-our.info:8081/tv11/sport5/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629071706.png",True sports 6
+http://main-a.for-our.info:8081/tv11/sport6/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/io/180629071734.png",True sports 7
+http://main-a.for-our.info:8081/tv11/sport7/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein1.png",True Bein sport 1
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein2.png",True Bein sport 2
+http://main-a.for-our.info:8081/tv11/bein2/playlist.m3u8
+#EXTINF:-3 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein3.png",True Bein sport 3
+http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
+#EXTINF:-3 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein3.png",True Bein sport 4
+http://main-a.for-our.info:8081/tv11/bein4/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/it/180629080843.png",Skynet Sports HD
+http://km.cdnth.com/dggroup/skynethd_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/is/180629081115.png",Skynet Sports 1
+http://km.cdnth.com/dggroup/skynet1/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/id/180629081134.png",Skynet Sports 2
+http://km.cdnth.com/dggroup/skynet2/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629081157.png",Skynet Sports 3
+http://km.cdnth.com/dggroup/skynet3/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081219.png",Skynet Sports 4
+http://km.cdnth.com/dggroup/skynet4/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/il/180629081238.png",Skynet Sports 5
+http://km.cdnth.com/dggroup/skynet5/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629081257.png",Skynet Sports 6
+http://km.cdnth.com/dggroup/skynet6/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629074341.png",NBA
+http://main-a.for-our.info:8081/tv11/nba/playlist.m3u8
 #EXTINF:-1 group-title="Thai",FOX SPORT 1
 http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
 #EXTINF:-1 group-title="Thai",FOX SPORT 2
@@ -2990,7 +3014,7 @@ http://main-a.for-our.info:8081/tv1/ch19.m3u8
 http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
 #EXTINF:-1 group-title="Thai",MONO29
 http://main-a.for-our.info:8081/tv1/ch3.m3u8
-#EXTINF:-1 group-title="Thai",DISCOVERY
+#EXTINF:-1 group-title="Thai" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/12/discovery-communications__121214124042.jpg",DISCOVERY
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 #EXTINF:-1 group-title="Thai",TRUE EXPLORE LIFE
 http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
@@ -3018,8 +3042,7 @@ http://main-a.for-our.info:8081/tv1/ch18.m3u8
 http://main-a.for-our.info:8081/tv2/ch4.m3u8
 #EXTINF:-1 group-title="Thai",NBT
 http://main-a.for-our.info:8081/tv1/ch14.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/12/discovery-communications__121214124042.jpg",Discovery  
-http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8?
+
 
 #EXTINF:-1 group-title="ChinaTV",CCTV-1HD
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000120&playtoken=ABCDEFGH&auth=no
