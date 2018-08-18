@@ -157,36 +157,52 @@ udp://@225.1.2.88:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",3NTV - VTC16
 udp://@225.1.2.190:30120
 
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv1.png",SCTV1 HD 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/9/s4.png",SCTV4
-udp://@225.1.2.187:30120
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv5.png",SCTV5 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv7.png",SCTV7 HD 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau.smil/playlist.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv8.png",SCTV8-VITV
-http://vtsstr4.sctv.vn:1935/testlive/SCTV8_SD.smil/chunklist.m3u8  
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv9.png",SCTV9 HD
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimChauA.smil/playlist.m3u8  
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv10.png",SCTV10 s1
-udp://@225.1.2.205:30120
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv10.png",SCTV10 s2
-http://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv12.png",SCTV12 HD 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv14.png",SCTV14 HD-PHIMVIET
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimViet.smil/playlist.m3u8  
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv17.png",SCTV17-SSPORT
-http://vtsstr4.sctv.vn:1935/testlive/SCTV17_HD.smil/playlist.m3u8  
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/sctv15.png",SCTV15-SSPORT2
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao.smil/playlist.m3u8  
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://xemtivitructuyen.net/hinh/binhduong5.png",BTV5-SSPORT3
-http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD.smil/chunklist_b2692000.m3u8  
-#EXTINF:-1 group-title="SCTV" tvg-logo="",SCTV19
-http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD.smil/playlist.m3u8  
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://img-vt.kplus.vn/media/iTV.png",SCTV20-iTV
-http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD-HÀI
+https://bit.ly/sc-tv-1
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD 
+https://bit.ly/sc-tv-2
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3 HD-THIẾU NHI
+https://bit.ly/sc-tv-3
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-4" group-title="SCTV", SCTV4-LET'S VIET
+https://bit.ly/sc-tv-4
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD-SCJ  
+https://bit.ly/sc-tv-5
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-6" group-title="SCTV", SCTV6 HD
+https://bit.ly/sc-tv-6
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-7" group-title="SCTV", SCTV7 HD-SÂN KHẤU
+https://bit.ly/sc-tv-7
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8 HD
+https://bit.ly/sc-tv-8
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-9" group-title="SCTV", SCTV9 HD-PHIM CHÂU Á
+https://bit.ly/sc-tv-9
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD-SaoNamShopping
+https://bit.ly/sc-tv-10
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-11" group-title="SCTV", SCTV11 HD
+https://bit.ly/sc-tv-11
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-12" group-title="SCTV", SCTV12 HD 
+https://bit.ly/sc-tv-12
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-13" group-title="SCTV", SCTV13 HD
+https://bit.ly/sc-tv-13
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-14" group-title="SCTV", SCTV14 HD 
+https://bit.ly/sc-tv-14
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-15" group-title="SCTV", SCTV15 HD-SSPORT2
+https://bit.ly/sc-tv-15
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-16" group-title="SCTV", SCTV16 HD-PHIM NƯỚC NGOÀI
+https://bit.ly/sc-tv-16
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-17" group-title="SCTV", SCTV17 HD-SSPORT
+https://bit.ly/sc-tv-17
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-18" group-title="SCTV", SCTV18 HD
+https://bit.ly/sc-tv-18
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-19" group-title="SCTV", SCTV19 HD-(T)CHANNEL
+https://bit.ly/sc-tv-19
+#EXTINF:-1 tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV MUSIC
+https://bit.ly/sc-tv-20
+#EXTINF:-1 tvg-logo="https://gg.gg/sctvhd" group-title="SCTV", SCTV HD-PHIM TỔNG HỢP
+https://bit.ly/sc-tv-th
+#EXTINF:-1 tvg-logo="https://gg.gg/btv-3" group-title="BTV", BTV3 HD
+https://bit.ly/btv-3
+#EXTINF:-1 tvg-logo="https://gg.gg/btv-5" group-title="BTV", BTV5 HD
+https://bit.ly/btv-5
 
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//channel/1600x600/2016/06/25/1466861188.jpg",An Viên HD - BTV9
 udp://@225.1.2.189:30120
