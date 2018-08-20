@@ -1570,119 +1570,111 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 group-title="Indo",THRILL 
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/is/180629081115.png",Skynet Sports 1
-http://km.cdnth.com/dggroup/skynet1/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/id/180629081134.png",Skynet Sports 2
-http://km.cdnth.com/dggroup/skynet2/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629081157.png",Skynet Sports 3
-http://km.cdnth.com/dggroup/skynet3/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081219.png",Skynet Sports 4
-http://km.cdnth.com/dggroup/skynet4/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/il/180629081238.png",Skynet Sports 5
-http://km.cdnth.com/dggroup/skynet5/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629081257.png",Skynet Sports 6
-http://km.cdnth.com/dggroup/skynet6/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/it/180629080843.png",Skynet Sports HD
-http://km.cdnth.com/dggroup/skynethd_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN 1 s1
-http://iptv2.no-ip.biz:8081/live/BEIN1/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN 1 s2
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein2.png",BEIN 2 s1
-http://iptv2.no-ip.biz:8081/live/BEIN2/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein2.png",BEIN 2 s2
-http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein3.png",BEIN 3 s1
-http://iptv2.no-ip.biz:8081/live/BEIN3/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/bein3.png",BEIN 3 s2
-http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180629072911.png",Bein sport 4 s1
-http://iptv2.no-ip.biz:8081/live/BEIN4/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180629072911.png",Bein sport 4 s2
-http://main-a.for-our.info:8081/tv11/bein4/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUE SPORT HD s1
-http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081812.png",TRUE SPORT HD s2
+#EXTINF:-1 group-title="Thai",TrueSport HD1
+http://191.96.38.213:443/free54/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",TrueSport HD2
+http://191.96.38.213:443/free54/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",TrueSport HD3
+http://191.96.38.213:443/free54/0x777_2sporthd3_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport 2
+http://191.96.38.213:443/free/00_2sport2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport 5
+http://191.96.38.213:443/free/00_2sport5_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport 6
+http://191.96.38.213:443/free/00_2sport6_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport 7
+http://191.96.38.213:443/free53/00_2sport7_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",NBA TV
+http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Golf Channel
+http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",beIN Sports1
+http://191.96.38.213:443/free/0x777_beinsport1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",beIN Sports2
+http://191.96.38.213:443/free/0x777_beinsporthd2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",beIN Sports3
+http://191.96.38.213:443/free/0x777_beinsporthd3_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",beIN Sports4
+http://191.96.38.213:443/free/0x777_beinsporthd4_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",beIN Sports5
+http://191.96.38.213:443/free/0x222_beinsporthd5_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",beIN Sports6
+http://191.96.38.213:443/free/0x222_beinsporthd6_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",FOX Sports HD
+http://191.96.38.213:443/free54/0x777_foxsport1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",FOX Sports2
+http://191.96.38.213:443/free54/0x555_foxsport2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",FOX Sports3
+http://191.96.38.213:443/free54/0x555_foxsport3_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",PRTV 1
+http://191.96.38.213:443/free/0x777_prtv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",PRTV 2
+http://191.96.38.213:443/free/0x777_prtv2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport HD
+http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport1
+http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport2
+http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport3
+http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport4
+http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport5
+http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport6
+http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",EuroSport HD
+http://191.96.38.213:443/free/0x777_eurosport_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",SPORT TV1
+http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",SPORT TV2
+http://191.96.38.213:443/free41/0x444_sporttv2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",SPORT TV3
+http://191.96.38.213:443/free41/0x444_sporttv3_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",SPORT TV4
+http://191.96.38.213:443/free41/0x444_sporttv4_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",SPORT TV5
+http://191.96.38.213:443/free41/0x444_sporttv5_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",PFC Sport
+http://191.96.38.213:443/free41/0x444_pfc_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",SporTV
+http://191.96.38.213:443/free41/0x444_sportv1br_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",TeleClub Sport 1
+http://191.96.38.213:443/free41/0x444_teleclub1sw_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",TeleClub Sport 2
+http://191.96.38.213:443/free41/0x444_teleclub2sw_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",wwe
+http://191.96.38.213:443/free41/0x444_wwe_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",tennis
+http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081812.png",TRUE SPORT HD 
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUE SPORT HD2 s1
-http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629080629.png",TRUE SPORT HD2 s2
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629080629.png",TRUE SPORT HD2 
 https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUE SPORT HD3 s1
-http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629055505.png",TRUE SPORT HD3 s2
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629055505.png",TRUE SPORT HD3 
 https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
-http://main-a.for-our.info:8081/tv11/sport2/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629071637.png",True sport 5
-http://iptv2.no-ip.biz:8081/live/tsp5/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629071706.png",True sport 6
-http://iptv2.no-ip.biz:8081/live/tsp6/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT7
-http://main-a.for-our.info:8081/tv11/sport7/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ic/180630060903.png",PPTV HD
-http://km.cdnth.com/dggroup/pptv_720p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORT1
-http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="",Tennis
-http://main-a.for-our.info:8081/tv11/tennis/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="",Bein Sport 5
-http://freedooballt1.blogdns.com:8081/iheartmovie136/0x222_beinsporthd5_720p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="",Bein Sport 6
-http://freedooballt1.blogdns.com:8081/iheartmovie136/0x222_beinsporthd6_720p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="",FS1
-http://freedooballt1.blogdns.com:8081/iheartmovie41/0x444_fox1us_360p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://iheartmovie.com/assets/20180608130729909294851.jpg",FS2
-http://freedooballt1.blogdns.com:8081/iheartmovie41/0x444_fox2us_360p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://images.ufoiptv.com/channels/sd-24u.jpg",TRUE4U
-http://freedooballt1.blogdns.com:8081/iheartmovie136/00_true4u_480p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://www.doohdbox.com/assets/20170912113746731835135.jpg",EURO SPORT 2
-http://freedooballt1.blogdns.com:8081/iheartmovie54/0x444_eurosport2pl_360p/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://www.doohdbox.com/assets/201707091211381814727519.jpg",WWE
-http://freedooballt1.blogdns.com:8081/iheartmovie41/0x444_wwe_360p/chunks.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ij/180806060429.png",Natgeo wild s1
 http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629051651.png",Natgeo wild s2
 https://bit.ly/2LUABbS
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ia/180806060655.jpg",Natgeo s1
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ia/180806060655.jpg",Natgeo 
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ih/180708094746.jpg",Natgeo s2
-http://main-a.for-our.info:8081/tv11/natgeo/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iq/180806060749.png",Natgeo people s1
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iw/180629051318.png",Natgeo people s2
 https://bit.ly/2vkXqLF
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ix/180806061326.png",Ci HD s1
-http://iliketot.dyndns.tv/9961a963920f45f4bc0d81c3e478b334.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTg6NTUgUE0maGFzaF92YWx1ZT1DTnk4ei9UUUFiZmhTbXVHQ1FQL3FnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDgwN3x1cGxheXwxNTMyMzUxOTM1fDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/im/180702044413.png",fyi HD s2
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/im/180702044413.png",fyi HD 
 https://bit.ly/2OMxsbW
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ic/180806055814.png",Fyi
 http://iliketot.dyndns.tv/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MjA6MTggUE0maGFzaF92YWx1ZT0xTW42TnZvNUFyd2gxUlhpL2ZkblVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDgxM3x1cGxheXwxNTMyMzUyMDE4fDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ic/180629053001.png",Discovery
-http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8?
-#EXTINF:-1 group-title="Thai"  tvg-logo="http://image.free.in.th/v/2013/id/180629082925.png",TRUE EXPLORE LIFE
-http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629083018.png",TRUE EXPLORE WILD
-http://main-a.for-our.info:8081/tv11/explorewild/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180719033718.png",Cartoon Network
-http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180630074754.png",DISNEY CHANNEL
-http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/im/180630074910.png",DISNEY XD
-http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/il/180630073846.png",TRUE SPARK JUMP
-http://main-a.for-our.info:8081/tv11/sparkjump/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iq/180630073953.png",TRUE SPARK PLAY
-http://main-a.for-our.info:8081/tv11/sparkplay/chunks.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180630075011.png",BOOMERANG
 http://main-a.for-our.info:8081/tv1/ch18.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180630081152.png",Kid world
-http://main-a.for-our.info:8081/tv11/kbsworld/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/in/180806070807.png",FX
 http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180806054249.jpg",Foxcrime
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180806055303.jpg",Fox life 
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180806055303.jpg",Fox life
 http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180806055538.jpg",Kix
 http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
@@ -1690,24 +1682,12 @@ http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2Vy
 http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MjA6MTggUE0maGFzaF92YWx1ZT0xTW42TnZvNUFyd2gxUlhpL2ZkblVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDgxM3x1cGxheXwxNTMyMzUyMDE4fDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iw/180806062311.jpg",Movies
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTU6NTIgUE0maGFzaF92YWx1ZT1yelZrdVJXcFBDeXJqc2ZGeWxtZWZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDg1M3x1cGxheXwxNTMyMzUxNzUyfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movies 1
-http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/if/180703080244.jpg",Movies 2
-http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iz/180703075241.jpg",Movies 3
-http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",Movie HD
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/if/180628103320.png",TRUE THAI FILM
-http://main-a.for-our.info:8081/tv11/thaifilm/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://www.sine.tv/images/icon/wntv.png",WBTV s1
-http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8?
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ib/180807050353.png",WBTV s2
 https://m88.intersteam-idc.com/live54/0x777_warnertv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180809035142.png",Fox movies action
 http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTE6MzIgUE0maGFzaF92YWx1ZT1KeEN1emZkVktXTkdmbjhLVkhhak9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDg1Mnx1cGxheXwxNTMyMzUxNDkyfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ir/180808051924.png",FX HD
-http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180809032835.png",Fox
 http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180808062327.png",Comedy center
@@ -1716,12 +1696,10 @@ http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2Vy
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTU6NTIgUE0maGFzaF92YWx1ZT1yelZrdVJXcFBDeXJqc2ZGeWxtZWZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDg1M3x1cGxheXwxNTMyMzUxNzUyfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iw/180806062025.jpg",Movies China 2
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTU6NTIgUE0maGFzaF92YWx1ZT1yelZrdVJXcFBDeXJqc2ZGeWxtZWZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDg1M3x1cGxheXwxNTMyMzUxNzUyfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/im/180630072113.gif",2 
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/im/180630072113.gif",2
 http://main-a.for-our.info:8081/tv1/ch15.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180630054703.png",Channel 3 HD
 http://103.22.182.233:8081/source/3hd/chunks.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180630054703.png",3 SD
-http://27.254.149.109:8081/backuplive/CH3_backup/chunks.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iq/180630065832.png",3 FAMILY
 http://main-a.for-our.info:8081/tv2/ch1.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/id/180708085728.jpg",Channel 5 HD
@@ -1752,13 +1730,11 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTU6NTIgUE0maGFzaF92YWx1ZT1yelZrdVJXcFBDeXJqc2ZGeWxtZWZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDg1M3x1cGxheXwxNTMyMzUxNzUyfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ig/180806062731.png",MTV
 http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTU6MTQgUE0maGFzaF92YWx1ZT1MK3QxRUdLUnVYcGVLSWViRDdCZnBRPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkxNHx1cGxheXwxNTMyMzUxNzE0fDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ik/180806063020.jpg",MTV Asia
-http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MTE6MzIgUE0maGFzaF92YWx1ZT1KeEN1emZkVktXTkdmbjhLVkhhak9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDg1Mnx1cGxheXwxNTMyMzUxNDkyfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180809043914.png",Fox news
 http://iliketot.dyndns.tv/1e2041858ca543fa90ec95d28197e907.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180809045257.jpg",Sky news
 http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180809051140.jpg",Euronews 
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180809051140.jpg",Euronews
 http://iliketot.dyndns.tv/3f35c4428a0d4004a38ff0adba7664f4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/il/180809051645.jpg",Aljazeera
 http://iliketot.dyndns.tv/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
@@ -1766,6 +1742,7 @@ http://iliketot.dyndns.tv/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?wmsAuthSign=c2Vy
 http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iu/180809014430.png",MTV Live HD
 http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
 
 #EXTINF:-1 group-title="UK",Animal Planet 
 http://80.80.160.168/live/1/500000/live.m3u8
