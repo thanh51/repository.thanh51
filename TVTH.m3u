@@ -1687,9 +1687,6 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 group-title="Indo",THRILL 
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
-
-#EXTM3U
-
 #EXTINF:-1 group-title="Thai" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png",BEIN SPORTS 1
 http://50.7.92.2:8278/bein1_pat/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png",BEIN SPORTS 2
@@ -1710,7 +1707,6 @@ http://50.7.73.90:8278/bein8_hamid/playlist.m3u8
 http://50.7.73.90:8278/bein9_hamid/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a752547501e6_95yk.png",BEIN SPORTS 10
 http://50.7.73.90:8278/bein10_hamid/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-5cDP4wOmdLg/WpC9s4j3f7I/AAAAAAAAAgQ/cEWeGx-aoJofQe2Jvv8rv7zQ8f9I8-HFQCEwYBhgL/s110-p-k-rw/beinhd1.png", Bein sports 1 (360p)
 https://dooballmundee.sai8.live/free/0x777_beinsport1_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-5cDP4wOmdLg/WpC9s4j3f7I/AAAAAAAAAgQ/cEWeGx-aoJofQe2Jvv8rv7zQ8f9I8-HFQCEwYBhgL/s110-p-k-rw/beinhd1.png", Bein sports 1 (480p)
@@ -1747,7 +1743,6 @@ https://dooballmundee.sai8.live/free/0x222_beinsporthd6_360p/playlist.m3u8
 https://dooballmundee.sai8.live/free/0x222_beinsporthd6_480p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="https://1.bp.blogspot.com/-McEYtLjmsOA/WpE-l4EubYI/AAAAAAAAAhE/5SP0mDL2jhYF--XfNnbh-OMyjJSwxlipQCLcBGAs/s110-p-k-rw/bein-sport-6.png", Bein sports 6 (7200p)
 https://dooballmundee.sai8.live/free/0x222_beinsporthd6_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ib/180719075104.png", True sports HD (360p)
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ib/180719075104.png", True sports HD (480p)
@@ -1779,7 +1774,6 @@ http://191.96.38.213:443/free54/0x777_2sporthd2_720p/playlist.m3u8
 https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True Sport HD3 s2
 http://191.96.38.213:443/free54/0x777_2sporthd3_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai",True Sport 2
 http://191.96.38.213:443/free/00_2sport2_480p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True Sport 5
@@ -1788,7 +1782,6 @@ http://191.96.38.213:443/free/00_2sport5_480p/playlist.m3u8
 http://191.96.38.213:443/free/00_2sport6_480p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True Sport 7
 http://191.96.38.213:443/free53/00_2sport7_360p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai",True beIN Sports1
 http://191.96.38.213:443/free/0x777_beinsport1_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True beIN Sports2
@@ -1801,7 +1794,6 @@ http://191.96.38.213:443/free/0x777_beinsporthd4_720p/playlist.m3u8
 http://191.96.38.213:443/free/0x222_beinsporthd5_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True beIN Sports6
 http://191.96.38.213:443/free/0x222_beinsporthd6_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 1 s1
 http://50.7.92.2:8278/skynet1_pat/playlist.m3u8
 #EXTINF:-1 group-title="Thai",Skynet Sport1 s2
@@ -1830,12 +1822,10 @@ http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 #EXTINF:-1 group-title="Thai",Skynet Sport HD s2
 http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai",PRTV 1
 http://191.96.38.213:443/free/0x777_prtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",PRTV 2
 http://191.96.38.213:443/free/0x777_prtv2_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai",FOX Sports HD
 http://191.96.38.213:443/free54/0x777_foxsport1_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",FOX Sports2
@@ -1846,7 +1836,6 @@ http://191.96.38.213:443/free54/0x555_foxsport3_480p/playlist.m3u8
 http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",Golf Channel
 http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b0439f8e76c0_UYJ1.png",SKY SPORTS EPL
 http://95.211.168.105:8278/skyepl_pat/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b04393e2555b_K5QA.png",SKY SPORTS MAIN EVENT
@@ -1861,7 +1850,6 @@ http://95.211.168.105:8278/skyarena_pat/playlist.m3u8
 http://95.211.168.105:8278/skyf1_pat/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b043a48a3478_u2t6.png",SKY SPORTS GOLF
 http://95.211.168.105:8278/skygolf_pat/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai",SPORT TV1
 http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="",SPORT TV 1 HD
@@ -1874,7 +1862,6 @@ http://191.96.38.213:443/free41/0x444_sporttv3_360p/playlist.m3u8
 http://191.96.38.213:443/free41/0x444_sporttv4_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",SPORT TV5
 http://191.96.38.213:443/free41/0x444_sporttv5_360p/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai",EuroSport HD
 http://191.96.38.213:443/free/0x777_eurosport_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",PFC Sport
@@ -1889,7 +1876,6 @@ http://191.96.38.213:443/free41/0x444_teleclub2sw_360p/playlist.m3u8
 http://191.96.38.213:443/free41/0x444_wwe_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",tennis
 http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ij/180806060429.png",Natgeo wild s1
 http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629051651.png",Natgeo wild s2
@@ -1978,7 +1964,6 @@ http://iliketot.dyndns.tv/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?wmsAuthSign=c2Vy
 http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iu/180809014430.png",MTV Live HD
 http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
 #EXTINF:-1 group-title="Thai" tvg-logo="",TRHILL
 http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8  
 #EXTINF:-1 group-title="Thai" tvg-logo="", FOX CRIME
