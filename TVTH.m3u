@@ -1545,23 +1545,23 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
 #EXTINF:-1 group-title="India",FTV
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226086/index.m3u8
-#EXTINF:-1 group-title="Infotainment",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="India",DISCOVERY CHANNEL
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 group-title="Infotainment",DISCOVERY WORLD HD
+#EXTINF:-1 group-title="India",DISCOVERY WORLD HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:-1 group-title="Infotainment",ANIMAL PLANET
+#EXTINF:-1 group-title="India",ANIMAL PLANET
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:-1 group-title="Infotainment",ANIMAL PLANET HD WORLD
+#EXTINF:-1 group-title="India",ANIMAL PLANET HD WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 group-title="Infotainment",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="India",DISCOVERY SCIENCE
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
-#EXTINF:-1 group-title="Infotainment",DISCOVERY TURBO
+#EXTINF:-1 group-title="India",DISCOVERY TURBO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:-1 group-title="Infotainment",SONY BBC EARTH
+#EXTINF:-1 group-title="India",SONY BBC EARTH
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:-1 group-title="Infotainment",SONY BBC EARTH HD
+#EXTINF:-1 group-title="India",SONY BBC EARTH HD
 http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 group-title="Infotainment",OK INDIA
+#EXTINF:-1 group-title="India",OK INDIA
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/index.m3u8
 #EXTINF:-1 group-title="India",ABP NEWS
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226264/index.m3u8
@@ -1688,12 +1688,98 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
 
-#EXTINF:-1 group-title="Thai",TrueSport HD1
+#EXTM3U
+
+#EXTINF:-1 group-title="Thai" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png",BEIN SPORTS 1
+http://50.7.92.2:8278/bein1_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png",BEIN SPORTS 2
+http://50.7.92.2:8278/bein2_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png",BEIN SPORTS 3
+http://50.7.92.2:8278/bein3_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png",BEIN SPORTS 4
+http://50.7.92.2:8278/bein4_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a21120532bf2_f78Z.png",BEIN SPORTS 5
+http://50.7.73.90:8278/bein5_hamid/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a211231a8bd2_H7X2.png",BEIN SPORTS 6
+http://50.7.73.90:8278/bein6_hamid/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a21124c072e5_kcz1.png",BEIN SPORTS 7
+http://50.7.73.90:8278/bein7_hamid/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a211265d6863_t6kw.png",BEIN SPORTS 8
+http://50.7.73.90:8278/bein8_hamid/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5ae06229c313a_X3bY.png",BEIN SPORTS 9
+http://50.7.73.90:8278/bein9_hamid/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a752547501e6_95yk.png",BEIN SPORTS 10
+http://50.7.73.90:8278/bein10_hamid/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-5cDP4wOmdLg/WpC9s4j3f7I/AAAAAAAAAgQ/cEWeGx-aoJofQe2Jvv8rv7zQ8f9I8-HFQCEwYBhgL/s110-p-k-rw/beinhd1.png", Bein sports 1 (360p)
+https://dooballmundee.sai8.live/free/0x777_beinsport1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-5cDP4wOmdLg/WpC9s4j3f7I/AAAAAAAAAgQ/cEWeGx-aoJofQe2Jvv8rv7zQ8f9I8-HFQCEwYBhgL/s110-p-k-rw/beinhd1.png", Bein sports 1 (480p)
+https://dooballmundee.sai8.live/free/0x777_beinsport1_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-5cDP4wOmdLg/WpC9s4j3f7I/AAAAAAAAAgQ/cEWeGx-aoJofQe2Jvv8rv7zQ8f9I8-HFQCEwYBhgL/s110-p-k-rw/beinhd1.png", Bein sports 1 (7200p)
+https://dooballmundee.sai8.live/free/0x777_beinsport1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-f3aQjfhXOIY/WpC9sc2ctXI/AAAAAAAAAgM/YphAiL6nALIk5LGaSh8k348FeW5BoNjvgCEwYBhgL/s110-p-k-rw/bein-sport2.png", Bein sports 2 (360p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-f3aQjfhXOIY/WpC9sc2ctXI/AAAAAAAAAgM/YphAiL6nALIk5LGaSh8k348FeW5BoNjvgCEwYBhgL/s110-p-k-rw/bein-sport2.png", Bein sports 2 (480p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-f3aQjfhXOIY/WpC9sc2ctXI/AAAAAAAAAgM/YphAiL6nALIk5LGaSh8k348FeW5BoNjvgCEwYBhgL/s110-p-k-rw/bein-sport2.png", Bein sports 2 (7200p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-k1Jnk-BwXKU/WpDM7xi-FnI/AAAAAAAAAgc/c6yhZ_0VU_EasycU9PFv273fInvwtmrCQCLcBGAs/s110-p-k-rw/bein-sport-3.png", Bein sports 3 (360p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd3_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-k1Jnk-BwXKU/WpDM7xi-FnI/AAAAAAAAAgc/c6yhZ_0VU_EasycU9PFv273fInvwtmrCQCLcBGAs/s110-p-k-rw/bein-sport-3.png", Bein sports 3 (480p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd3_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-k1Jnk-BwXKU/WpDM7xi-FnI/AAAAAAAAAgc/c6yhZ_0VU_EasycU9PFv273fInvwtmrCQCLcBGAs/s110-p-k-rw/bein-sport-3.png", Bein sports 3 (7200p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd3_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-E5mP-3KR48M/WpE48jTtGFI/AAAAAAAAAgs/1n1iekCiAMEuZ509o7bjkHXf50xl5uU3QCLcBGAs/s110-p-k-rw/bein-sport-4.png", Bein sports 4 (360p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd4_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-E5mP-3KR48M/WpE48jTtGFI/AAAAAAAAAgs/1n1iekCiAMEuZ509o7bjkHXf50xl5uU3QCLcBGAs/s110-p-k-rw/bein-sport-4.png", Bein sports 4 (480p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd4_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-E5mP-3KR48M/WpE48jTtGFI/AAAAAAAAAgs/1n1iekCiAMEuZ509o7bjkHXf50xl5uU3QCLcBGAs/s110-p-k-rw/bein-sport-4.png", Bein sports 4 (7200p)
+https://dooballmundee.sai8.live/free/0x777_beinsporthd4_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-S0ZzpClHoc8/WpE7UGq1rDI/AAAAAAAAAg4/JGw2nLLH7KEGYiQJBKaPKDq9CEC73f9jgCLcBGAs/s110-p-k-rw/bein-sport-5.png", Bein sports 5 (360p)
+https://dooballmundee.sai8.live/free/0x222_beinsporthd5_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-S0ZzpClHoc8/WpE7UGq1rDI/AAAAAAAAAg4/JGw2nLLH7KEGYiQJBKaPKDq9CEC73f9jgCLcBGAs/s110-p-k-rw/bein-sport-5.png", Bein sports 5 (480p)
+https://dooballmundee.sai8.live/free/0x222_beinsporthd5_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://2.bp.blogspot.com/-S0ZzpClHoc8/WpE7UGq1rDI/AAAAAAAAAg4/JGw2nLLH7KEGYiQJBKaPKDq9CEC73f9jgCLcBGAs/s110-p-k-rw/bein-sport-5.png", Bein sports 5 (7200p)
+https://dooballmundee.sai8.live/free/0x222_beinsporthd5_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://1.bp.blogspot.com/-McEYtLjmsOA/WpE-l4EubYI/AAAAAAAAAhE/5SP0mDL2jhYF--XfNnbh-OMyjJSwxlipQCLcBGAs/s110-p-k-rw/bein-sport-6.png", Bein sports 6 (360p)
+https://dooballmundee.sai8.live/free/0x222_beinsporthd6_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://1.bp.blogspot.com/-McEYtLjmsOA/WpE-l4EubYI/AAAAAAAAAhE/5SP0mDL2jhYF--XfNnbh-OMyjJSwxlipQCLcBGAs/s110-p-k-rw/bein-sport-6.png", Bein sports 6 (480p)
+https://dooballmundee.sai8.live/free/0x222_beinsporthd6_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="https://1.bp.blogspot.com/-McEYtLjmsOA/WpE-l4EubYI/AAAAAAAAAhE/5SP0mDL2jhYF--XfNnbh-OMyjJSwxlipQCLcBGAs/s110-p-k-rw/bein-sport-6.png", Bein sports 6 (7200p)
+https://dooballmundee.sai8.live/free/0x222_beinsporthd6_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ib/180719075104.png", True sports HD (360p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ib/180719075104.png", True sports HD (480p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ib/180719075104.png", True sports HD (720p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ia/180719075154.png", True sports HD2 (360p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ia/180719075154.png", True sports HD2 (480p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ia/180719075154.png", True sports HD2 (720p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180719075233.png", True sports HD3 (360p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180719075233.png", True sports HD3 (480p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180719075233.png", True sports HD3 (720p)
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081812.png",TRUE SPORT HD s1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport HD s2
 http://191.96.38.213:443/free54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",TrueSport HD2
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629080629.png",TRUE SPORT HD2 s1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport HD2 s2
 http://191.96.38.213:443/free54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",TrueSport HD3
+#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629055505.png",TRUE SPORT HD3 s1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",True Sport HD3 s2
 http://191.96.38.213:443/free54/0x777_2sporthd3_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai",True Sport 2
 http://191.96.38.213:443/free/00_2sport2_480p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True Sport 5
@@ -1702,50 +1788,84 @@ http://191.96.38.213:443/free/00_2sport5_480p/playlist.m3u8
 http://191.96.38.213:443/free/00_2sport6_480p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",True Sport 7
 http://191.96.38.213:443/free53/00_2sport7_360p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",NBA TV
-http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Golf Channel
-http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",beIN Sports1
+
+#EXTINF:-1 group-title="Thai",True beIN Sports1
 http://191.96.38.213:443/free/0x777_beinsport1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",beIN Sports2
+#EXTINF:-1 group-title="Thai",True beIN Sports2
 http://191.96.38.213:443/free/0x777_beinsporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",beIN Sports3
+#EXTINF:-1 group-title="Thai",True beIN Sports3
 http://191.96.38.213:443/free/0x777_beinsporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",beIN Sports4
+#EXTINF:-1 group-title="Thai",True beIN Sports4
 http://191.96.38.213:443/free/0x777_beinsporthd4_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",beIN Sports5
+#EXTINF:-1 group-title="Thai",True beIN Sports5
 http://191.96.38.213:443/free/0x222_beinsporthd5_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",beIN Sports6
+#EXTINF:-1 group-title="Thai",True beIN Sports6
 http://191.96.38.213:443/free/0x222_beinsporthd6_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 1 s1
+http://50.7.92.2:8278/skynet1_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport1 s2
+http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 2 s1
+http://50.7.92.2:8278/skynet2_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport2 s2
+http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 3 s1
+http://50.7.92.2:8278/skynet3_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport3 s2
+http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 4 s1
+http://50.7.92.2:8278/skynet4_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport4 s2
+http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 5 s1
+http://50.7.92.2:8278/skynet5_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport5 s2
+http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",SKYNET SPORTS 6 s1
+http://50.7.92.2:8278/skynet5_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport6 s2
+http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://www.webtv.so/uploads/images/channel_196_1523787183_thumb.png",SKYNET SPORTS HD s1
+http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Skynet Sport HD s2
+http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai",PRTV 1
+http://191.96.38.213:443/free/0x777_prtv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",PRTV 2
+http://191.96.38.213:443/free/0x777_prtv2_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai",FOX Sports HD
 http://191.96.38.213:443/free54/0x777_foxsport1_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",FOX Sports2
 http://191.96.38.213:443/free54/0x555_foxsport2_480p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",FOX Sports3
 http://191.96.38.213:443/free54/0x555_foxsport3_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",PRTV 1
-http://191.96.38.213:443/free/0x777_prtv_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",PRTV 2
-http://191.96.38.213:443/free/0x777_prtv2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport HD
-http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport1
-http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport2
-http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport3
-http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport4
-http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport5
-http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",Skynet Sport6
-http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
-#EXTINF:-1 group-title="Thai",EuroSport HD
-http://191.96.38.213:443/free/0x777_eurosport_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",NBA TV
+http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai",Golf Channel
+http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b0439f8e76c0_UYJ1.png",SKY SPORTS EPL
+http://95.211.168.105:8278/skyepl_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b04393e2555b_K5QA.png",SKY SPORTS MAIN EVENT
+http://95.211.168.105:8278/skymainevent_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b0fb646d7b03_SXt8.png",SKY SPORTS FOOTBALL
+http://95.211.168.105:8278/skyfootball_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a210de50d690_55SW.png",SKY SPORTS ACTION
+http://95.211.168.105:8278/skysportaction/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5aed9e76b35f6_aC2I.png",SKY SPORTS ARENA
+http://95.211.168.105:8278/skyarena_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b043acc8a475_19Tk.png",SKY SPORTS F1
+http://95.211.168.105:8278/skyf1_pat/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b043a48a3478_u2t6.png",SKY SPORTS GOLF
+http://95.211.168.105:8278/skygolf_pat/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai",SPORT TV1
 http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",SPORT TV 1 HD
+http://77.54.248.94:9981/stream/channelid/2135667?ticket=4728F57616F4DF9E11BFCBB9626ACC40EA0217FB&profile=pass
 #EXTINF:-1 group-title="Thai",SPORT TV2
 http://191.96.38.213:443/free41/0x444_sporttv2_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",SPORT TV3
@@ -1754,6 +1874,9 @@ http://191.96.38.213:443/free41/0x444_sporttv3_360p/playlist.m3u8
 http://191.96.38.213:443/free41/0x444_sporttv4_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",SPORT TV5
 http://191.96.38.213:443/free41/0x444_sporttv5_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai",EuroSport HD
+http://191.96.38.213:443/free/0x777_eurosport_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",PFC Sport
 http://191.96.38.213:443/free41/0x444_pfc_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",SporTV
@@ -1766,12 +1889,7 @@ http://191.96.38.213:443/free41/0x444_teleclub2sw_360p/playlist.m3u8
 http://191.96.38.213:443/free41/0x444_wwe_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thai",tennis
 http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ii/180629081812.png",TRUE SPORT HD 
-https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ie/180629080629.png",TRUE SPORT HD2 
-https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iy/180629055505.png",TRUE SPORT HD3 
-https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ij/180806060429.png",Natgeo wild s1
 http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/ip/180629051651.png",Natgeo wild s2
@@ -1860,6 +1978,116 @@ http://iliketot.dyndns.tv/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?wmsAuthSign=c2Vy
 http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Thai" tvg-logo="http://image.free.in.th/v/2013/iu/180809014430.png",MTV Live HD
 http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="Thai" tvg-logo="",TRHILL
+http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8  
+#EXTINF:-1 group-title="Thai" tvg-logo="", FOX CRIME
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_TH/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", Nat Geo People
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", Natgeo Wild 
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_TH/chunks.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="",Natgeo Graphic
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8  
+#EXTINF:-1 group-title="Thai" tvg-logo="", FYI
+http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", TRHILL
+http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", NICK JR
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", FX HD 
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/chunks.m3u8?
+#EXTINF:-1 group-title="Thai" tvg-logo="", EURO SPORT 1
+http://65.254.55.10:4000/live/197/197.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", DUBAI RACING 
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", DUBAI Sport 1 
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", DUBAI Sport 2 
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", Abu Dhabi 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", Abu Dhabi 2 
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
+#EXTINF:-1 group-title="Thai" tvg-logo="", Abu Dhabi 3 
+http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8?v=2590751696
+#EXTINF:-1 group-title="Thai" tvg-logo="", AmarinHD
+http://s2.live14.com/stream/5195e80fe1ed0/chunklist_w225696850.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", TPBS 
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", DUBAI ONE
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", DUBAI ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", DUBAI
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", MTV
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALMAYADEEN
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALJADEED
+https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", LBC 2
+https://svs.itworkscdn.net/newtvlive/jadeed.smil/chunklist_b825000.m3u8?nimblesessionid=52266082&amp;wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE4IDY6MTY6MTQgUE0maGFzaF92YWx1ZT0reEJKRXNCcWc4UWFKU1FiOTZ3MWpRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTExOQ== 
+#EXTINF:-1 group-title="Thai" tvg-logo="", FUTURE 
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", AD ALOULA HD
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALKASS 1 HD 
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", AD DRAMA HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALKASS 2 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALKASS 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALKASS 4 HD 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALKASS 5 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5 
+#EXTINF:-1 group-title="Thai" tvg-logo="", AD Sports 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", AD Sports 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", Dubai Sports 1 HD
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", Dubai Sports 2 HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", Dubai Sports 3 HD
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", Sharjah Sports HD
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", RT HD
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALJAZEERA
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALARABIYA
+http://live.alarabiya.net/alarabiya/myStream_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", SHARJAH HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="Thai" tvg-logo="", SKY NEWS 
+http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", SAMA
+http://sama-tv.net:1935/live/samatv/chunklist_w417102954.m3u8?v=1334458016 
+#EXTINF:-1 group-title="Thai" tvg-logo="", DW
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_2_av-b.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALAAN
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_b800000_t64NTc2cA==.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", National Geographic HD
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", FOX HD
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8 
+#EXTINF:-1 group-title="Thai" tvg-logo="", FJORTON 
+http://155.4.160.181:1935/fjwebb/liveWebb/chunklist_w1674983693.m3u8
+
 
 #EXTINF:-1 group-title="Malaysia",TV1
 http://rtm-live.glueapi.io/smil:rtmch001/chunklist_b1064000_sleng.m3u8
