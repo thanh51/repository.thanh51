@@ -185,31 +185,11 @@ http://vapi.vaders.tv/play/2482.ts?token=eyJ1c2VybmFtZSI6InRvbWJzdG9uZTEiLCJwYXN
 #EXTINF:-1 tvg-logo="https://vtv1.vcmedia.vn/thumb_w/650/2016/epl-1455031805339.png" group-title="BDAnh",27/11/2018 02h00 Burnley Vs Newcastle United|Sky Sky Sports Main Event
 http://vapi.vaders.tv/play/39820.ts?token=eyJ1c2VybmFtZSI6InRvbWJzdG9uZTEiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
 
-#EXTINF:-1 group-title="Sports",Skynet Sport1 
-http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Skynet Sport2
-http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Skynet Sport3 
-http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Skynet Sport4 
-http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Skynet Sport5 
-http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Skynet Sport6 
-http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Skynet Sport HD
-http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ii/180629081812.png",TRUE SPORT HD s1
-https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sport HD s2
+#EXTINF:-1 group-title="Sports",True Sport HD 
 http://191.96.38.213:443/free54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ie/180629080629.png",TRUE SPORT HD2 s1
-https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sport HD2 s2
+#EXTINF:-1 group-title="Sports",True Sport HD2 
 http://191.96.38.213:443/free54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/iy/180629055505.png",TRUE SPORT HD3 s1
-https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sport HD3 s2
+#EXTINF:-1 group-title="Sports",True Sport HD3 
 http://191.96.38.213:443/free54/0x777_2sporthd3_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",True Sport 2
 http://191.96.38.213:443/free/00_2sport2_480p/playlist.m3u8
@@ -231,6 +211,18 @@ http://191.96.38.213:443/free/0x777_beinsporthd4_720p/playlist.m3u8
 http://191.96.38.213:443/free/0x222_beinsporthd5_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",True beIN Sports6
 http://191.96.38.213:443/free/0x222_beinsporthd6_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Skynet Sport1 
+http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Skynet Sport2 
+http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Skynet Sport3 
+http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Skynet Sport4 
+http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Skynet Sport5 
+http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Skynet Sport6 
+http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",PRTV 1
 http://191.96.38.213:443/free/0x777_prtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",PRTV 2
@@ -245,20 +237,6 @@ http://191.96.38.213:443/free54/0x555_foxsport3_480p/playlist.m3u8
 http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Golf Channel
 http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b0439f8e76c0_UYJ1.png",SKY SPORTS EPL
-http://95.211.168.105:8278/skyepl_pat/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b04393e2555b_K5QA.png",SKY SPORTS MAIN EVENT
-http://95.211.168.105:8278/skymainevent_pat/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b0fb646d7b03_SXt8.png",SKY SPORTS FOOTBALL
-http://95.211.168.105:8278/skyfootball_pat/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5a210de50d690_55SW.png",SKY SPORTS ACTION
-http://95.211.168.105:8278/skysportaction/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5aed9e76b35f6_aC2I.png",SKY SPORTS ARENA
-http://95.211.168.105:8278/skyarena_pat/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b043acc8a475_19Tk.png",SKY SPORTS F1
-http://95.211.168.105:8278/skyf1_pat/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://83.149.124.200:16310/uploadfiles/livelogo/5b043a48a3478_u2t6.png",SKY SPORTS GOLF
-http://95.211.168.105:8278/skygolf_pat/playlist.m3u8
 #EXTINF:-1 group-title="Sports",SPORT TV1
 http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",SPORT TV 1 HD
@@ -285,6 +263,7 @@ http://191.96.38.213:443/free41/0x444_teleclub2sw_360p/playlist.m3u8
 http://191.96.38.213:443/free41/0x444_wwe_360p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",tennis
 http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/TenHD-India.png",SONY TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/TenHD-India.png",SONY TEN 2 HD
