@@ -1314,218 +1314,88 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u
 http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:-1 group-title="ChinaTV",TVBS News HD
 https://bcsecurelivehls-i.akamaihd.net/hls/live/510713/4862438529001/index.m3u8
-
-#EXTINF:-1 group-title="Thailand",3 FAMILY
-http://main-a.for-our.info:8081/tv2/ch1.m3u8
-#EXTINF:-1 group-title="Thailand",3 SD
-http://main-a.for-our.info:8081/tv2/ch1.m3u8
-#EXTINF:-1 group-title="Thailand",8
-http://stream.rs.co.th/ch8-mid/index.m3u8
-#EXTINF:-1 group-title="Thailand",Abu Dhabi 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="Thailand",Abu Dhabi 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
-#EXTINF:-1 group-title="Thailand",Abu Dhabi 3
-http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8?v=2590751696
-#EXTINF:-1 group-title="Thailand",Arena Sport 2
-http://139.99.9.49:8084/iptvhero-inter/arenasport2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",Arena Sport 3
-http://139.99.9.49:8084/iptvhero-inter/arenasport3.stream/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",Arena Sport 4
-http://139.99.9.49:8084/iptvhero-inter/arenasport4.stream/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",Arena Sport 5
-http://139.99.9.49:8084/iptvhero-inter/arenasport5.stream/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",BEIN 1
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",BEIN 3
-http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",BEIN SPORT 1
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",BEIN SPORT 3
-http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",BLUE SKY
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",BOOMERANG
-http://main-a.for-our.info:8081/tv1/ch18.m3u8
-#EXTINF:-1 group-title="Thailand",BRIGHT
-http://cdn-3.goprimetime.info/live99/47/brighttv.m3u8?p=0dc57e419ed64de5bd517fa8c66ae970
-#EXTINF:-1 group-title="Thailand",Blue Sky [2]
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/chunklist_w192672090.m3u8
-#EXTINF:-1 group-title="Thailand",Bluesky channel
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",Bright TV
-http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w690330504.m3u8
-#EXTINF:-1 group-title="Thailand",CAT CHANNEL
-http://61.19.18.237/live/m1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",CH2
-http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",CH3
-http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thailand",CH8
-http://main-a.for-our.info:8081/tv99/ch8/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Thailand",CHANNEL 5
-http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",CHANNEL 5 [2]
-http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w1969949377_b512000.m3u8
-#EXTINF:-1 group-title="Thailand",CHANNEL 8 [3]
-http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Thailand",Cartoon Network
-http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",Channel8
-http://usa.login.in.th:1935/ch8/ch8/chunklist_w1270697965.m3u8
-#EXTINF:-1 group-title="Thailand",DISCOVERY [2]
-http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",DISNEY CHANNEL
-http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",DISNEY XD
-http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",DUBAI RACING
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Thailand",DUBAI Sport 1
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1 group-title="Thailand",DUBAI Sport 2
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1 group-title="Thailand",Discovery [3]
-http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8?
-#EXTINF:-1 group-title="Thailand",ETV Thai
-http://61.19.244.112:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",EURO SPORT 1
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Thailand",FAN TV
-http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",FMTV
-http://stream.boonniyom.tv:1935/live/fmtv/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",FOX SPORT 2
-http://main-a.for-our.info:8081/tv11/fox2/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",GREEN CHANNEL
-http://real5.atimemedia.com/live/rtmp:greenlive.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",Hi Sport [2]
-http://nakorn4.dyndns.tv:1935/live/hisportsd2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",INNNews
-http://stream.innnews.co.th:1935/live/innhigh2/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",M CHANNEL
-http://main-a.for-our.info:8081/tv1/ch19.m3u8
-#EXTINF:-1 group-title="Thailand",M Channel Thai
-http://203.151.83.104:1935/tdlive/tdlivest/chunklist_w1419804927.m3u8
-#EXTINF:-1 group-title="Thailand",MCOT FAMILY
-http://main-a.for-our.info:8081/tv2/ch4.m3u8
-#EXTINF:-1 group-title="Thailand",MONO29
-http://main-a.for-our.info:8081/tv1/ch3.m3u8
-#EXTINF:-1 group-title="Thailand",MVLAO
-http://mvtv.dyndns.tv:1935/live/mvlao/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",NATION CHANNEL
-http://main-a.for-our.info:8081/tv1/ch8.m3u8
-#EXTINF:-1 group-title="Thailand",NBT [3]
-http://main-a.for-our.info:8081/tv1/ch14.m3u8
-#EXTINF:-1 group-title="Thailand",NBTV
-http://111.223.33.251:1935/live/rich.360p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",NEW TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Thailand",NEW TV 18
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Thailand",NEW_TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Thailand",NOW 26
-http://nationstream.nationgroup.com/live.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Thailand",New tv [2]
-http://newtv.cdn.byteark.com:80/live/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",New tv [2]
-http://newtv.cdn.byteark.com:80/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Thailand",New tv [2]
-http://newtv.cdn.byteark.com:80/live/playlist_360p/index.m3u8
-#EXTINF:-1 group-title="Thailand",New) TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Thailand",News1 (ASTV )
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="Thailand",PNN TV
-http://203.176.130.123:8989/live/pnn_232k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",Redbull HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Thailand",SABUYDEE TV
-http://stream.rs.co.th/sbd-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",SBT TV
-http://202.142.203.28:1935/live/smil:sbt_tv_aac.smil/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",SPRING NEWS
-http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",SPRING NEWS [3]
-http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1202426610_b3628000.m3u8
-#EXTINF:-1 group-title="Thailand",Sabaidee TV
-http://stream.rs.co.th/sbd-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",Starmax
-http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",Super บันเทิง
-http://super.live14.com/stream/52f32edc0e1f5.m3u8
-#EXTINF:-1 group-title="Thailand",Super บันเทิง [2]
-http://super.live14.com/stream/52f32edc0e1f5_hi.m3u8
-#EXTINF:-1 group-title="Thailand",THAI RATH HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thailand",TMTV
-http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",TPBS [4]
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE EXPLORE LIFE
-http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE EXPLORE WILD
-http://main-a.for-our.info:8081/tv11/explorewild/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPARK JUMP
-http://main-a.for-our.info:8081/tv11/sparkjump/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPARK PLAY
-http://main-a.for-our.info:8081/tv11/sparkplay/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD
-http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD 1
-http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD 2
-http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD2
-http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD3
-http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT7
-http://main-a.for-our.info:8081/tv11/sport7/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE THAI FILM
-http://main-a.for-our.info:8081/tv11/thaifilm/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",TRUST TV
-http://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="Thailand",TV3 Thai
-http://ch3-33.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="Thailand",ThaiPBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="Thailand",Thairath [2]
-https://live.thairath.co.th/trtv2/playlist_240p/index.m3u8
-#EXTINF:-1 group-title="Thailand",Thairath tv
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thailand",WARNER TV [2]
-http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",Warner TV
-http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8?
-#EXTINF:-1 group-title="Thailand",Workpoint TV
-http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
-#EXTINF:-1 group-title="Thailand",World Cup Live 4 - on time
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="Thailand",World Cup Live 5 - on time
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="Thailand",You Channel
-http://stream.rs.co.th/you-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",channel 8 [2]
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",ddtv
-http://203.156.63.20:1935/live/_definst_/ddtv/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",sabeidee tv
-http://stream.rs.co.th/sbd-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",ช่อง 2 [2]
-http://202.142.212.160/ch2-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",ช่อง 8
-http://stream.rs.co.th/ch8-mid/index.m3u8
-#EXTINF:-1 group-title="Thailand",ช่อง Bluesky Channel
-http://live.blueskychannel.tv/bluesky_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",สบายดี TV
-http://stream.rs.co.th/sbd-hi/index.m3u8
-#EXTINF:-1 group-title="Thailand",สบายดีทีวี
-http://stream.rs.co.th/sbd-low/index.m3u8
-#EXTINF:-1 group-title="Thailand",สุวรรณภูมิทีวี
-http://203.146.129.233:1935/live/suwan/playlist.m3u8
-
+#EXTINF:-1 group-title="ChinaTV",1
+http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1 group-title="ChinaTV",2
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影4
+http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影5
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影6
+http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影7
+http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影9
+http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影11
+http://alhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影12
+http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影13
+http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影14
+http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影17
+http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影18
+http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影20
+http://alhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影21
+http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影24
+http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影28
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影29
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影30
+http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影31
+http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影32
+http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影33
+http://alhls.cdn.zhanqi.tv/zqlive/241840_hRxc9.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影35
+http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影38
+http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影42
+http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影43
+http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影45
+http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影46
+http://alhls.cdn.zhanqi.tv/zqlive/182988_cn66n.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影47
+http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影48
+http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影49
+http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影50
+http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影51
+http://alhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影52
+http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影53
+http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影54
+http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影56
+http://alhls.cdn.zhanqi.tv/zqlive/228492_Dia5C.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影59
+http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影62
+http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影63
+http://alhls.cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8
+#EXTINF:-1 group-title="ChinaTV",电影66
+http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
 
 #EXTINF:-1 group-title="India",Animal Planet HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
