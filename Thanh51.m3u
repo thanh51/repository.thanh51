@@ -106,12 +106,6 @@ https://m88.intersteam-idc.com/live54/0x777_2sporthd3_360p/playlist.m3u8
 https://m88.intersteam-idc.com/live54/0x777_2sporthd3_480p/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ie/180719075233.png", True sports HD3 (720p)
 https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD
-http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD
-http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 3
-http://50.7.198.170:8081/abcd/starsports3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",SONY ESPN HD
 https://bit.ly/2uz0Ysn  
 #EXTINF:-1 group-title="Sports",SONY SIX HD
@@ -122,6 +116,12 @@ https://bit.ly/2A8BZSS
 https://bit.ly/2MbTeUy
 #EXTINF:-1 group-title="Sports",SONY TEN 3 HD
 https://bit.ly/2lsR3R7
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 3
+http://50.7.198.170:8081/abcd/starsports3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",BT Sports 1 HD
 http://50.7.198.170:8081/abcd/bt1/playlist.m3u8?tron7511
 #EXTINF:-1 group-title="Sports",BT Sports 2 HD
@@ -3401,16 +3401,6 @@ http://61.58.60.194:9000/live/54.m3u8
 #EXTINF:-1 group-title="Taiwan",東森幼幼台
 http://61.58.60.194:9000/live/25.m3u8
 
-#EXTINF:-1 group-title="India",Star Sports 1 HD
-http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
-#EXTINF:-1 group-title="India",Star Sports 2 HD
-http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
-#EXTINF:-1 group-title="India",Star Sports 3
-http://50.7.198.170:8081/abcd/starsports3/playlist.m3u8
-#EXTINF:-1 group-title="India",Star Gold
-http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
-#EXTINF:-1 group-title="India",Star Gold HD
-http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
 #EXTINF:-1 group-title="India",SONY ESPN HD
 https://bit.ly/2uz0Ysn  
 #EXTINF:-1 group-title="India",SONY SIX HD
@@ -3457,10 +3447,177 @@ https://bit.ly/2OcdEyc
 https://bit.ly/2JVxDOm
 #EXTINF:-1 group-title="India",DESI BEATS HD
 https://bit.ly/2OhWHCO
+#EXTINF:-1 group-title="India",Star Sports 1 HD
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+#EXTINF:-1 group-title="India",Star Sports 2 HD
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+#EXTINF:-1 group-title="India",Star Sports 3
+http://50.7.198.170:8081/abcd/starsports3/playlist.m3u8
+#EXTINF:-1 group-title="India",Star Gold
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+#EXTINF:-1 group-title="India",Star Gold HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+#EXTINF:-1 group-title="India",BT Sports 1 HD
+http://50.7.198.170:8081/abcd/bt1/playlist.m3u8?tron7511
+#EXTINF:-1 group-title="India",BT Sports 2 HD
+http://50.7.198.170:8081/abcd/bt2/playlist.m3u8
+#EXTINF:-1 group-title="India",BT Sports 3 HD
+http://50.7.198.170:8081/abcd/bt3/playlist.m3u8
+#EXTINF:-1 group-title="India",SKY Sports 1 HD
+http://50.7.198.170:8081/abcd/skysp1/playlist.m3u8
+#EXTINF:-1 group-title="India",SKY Sports 2 HD
+http://50.7.198.170:8081/abcd/skysp2/playlist.m3u8
+#EXTINF:-1 group-title="India",SKY Sports 3 HD
+http://50.7.198.170:8081/abcd/skysp3/playlist.m3u8
+#EXTINF:-1 group-title="India",SKY Sports 4 HD
+http://50.7.198.170:8081/abcd/skysp4/playlist.m3u8
+#EXTINF:-1 group-title="India",SKY Sports NEWS HD
+http://50.7.198.170:8081/abcd/skysp5/playlist.m3u8
 #EXTINF:-1 group-title="India",Star Utsav Movies
 http://50.7.198.170:8081/Ind/UTVBINDASS/playlist.m3u8
 #EXTINF:-1 group-title="India",Star Plus HD
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+#EXTINF:-1 group-title="India",Willow HD
+http://50.7.198.170:8081/abcd/willow/playlist.m3u8
+#EXTINF:-1 group-title="India",WWE Network
+http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
+#EXTINF:-1 group-title="India",Box Nation HD
+http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
+#EXTINF:-1 group-title="India",Brit Asia
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:-1 group-title="India",Bindass
+http://50.7.198.170:8081/Ind/BINDASSPLAY/playlist.m3u8
+#EXTINF:-1 group-title="India",Colors HD
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
+#EXTINF:-1 group-title="India",Colors ME
+http://50.7.198.170:8081/Ind/COLORSTVME/chunks.m3u8
+#EXTINF:-1 group-title="India",Jus One
+http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:-1 group-title="India",PTC Chakde
+http://50.7.198.170:8081/PB/PTCCHAKDE/playlist.m3u8
+#EXTINF:-1 group-title="India",PTC News
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:-1 group-title="India",PTC Punjabi
+http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
+#EXTINF:-1 group-title="India",Wion
+http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",& Flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",& Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",& Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Flowers TV
+http://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",& Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Divya
+http://z5ams.akamaized.net/divyatv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",EZ mall
+http://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Living Foodz
+http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Makkal TV
+http://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",& TV
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",& TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",DD Bangla
+http://z5ams.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",DD India
+http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",DD Kisan
+http://z5ams.akamaized.net/ddkisan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",DD News
+http://z5ams.akamaized.net/ddnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",DD Odia
+http://z5ams.akamaized.net/ddodia/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",DD Rajasthan
+http://z5ams.akamaized.net/ddrajasthan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Pogo
+http://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Raj News (Kannada)
+http://z5ams.akamaized.net/rajnewskan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Raj News (Malayalam)
+http://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Raj News (Telugu)
+http://z5ams.akamaized.net/rajnewstel/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Raj News 24x7
+http://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Raj TV
+http://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Satsang
+http://z5ams.akamaized.net/satsangtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Vissa TV
+http://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee 24 Ghanta
+http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Gujarati",Zee 24 Kalak
+http://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee 24 Taas
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Bangla
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Bhojpuri",Zee Bihar JH
+http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Business
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Cafe
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Cinemalu
+http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Hindustan
+http://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Kalinga
+http://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Kannada
+http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Magic
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Marathi
+http://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Marathi HD
+http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee MP CG
+http://z5ams.akamaized.net/newsmpcg/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee News
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Punjabi
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Rajasthan
+http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Salaam
+http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Sarthak
+http://z5ams.akamaized.net/sarthaktv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Talkies
+http://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Talkies HD
+http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Tamil
+http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee TV
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee UP UK
+http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zee Yuva
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="India",Zing
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 group-title="Indo",ANIMAX
 http://45.126.83.51/uq2663/h/h18/index.m3u8
@@ -3512,7 +3669,6 @@ http://45.126.83.51/uq2663/h/h13/index.m3u8
 http://45.126.83.51/uq2663/h/h06/index.m3u8
 #EXTINF:-1 group-title="Indo",DA VINCI
 http://45.126.83.51/uq2663/h/h01/index.m3u8
-
 #EXTINF:-1 group-title="Indo",ANIPLUS
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
 #EXTINF:-1 group-title="Indo",ALJAZEERA 1
