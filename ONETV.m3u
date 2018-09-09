@@ -58,11 +58,6 @@ udp://@225.1.2.216:30120
 udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://tv.101vn.com/images/vitv.png",VITV
 udp://@225.1.2.143:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://netxua.ml/images/icon-channel/vtvcab3-thethaotvhd.png",VTVCab3 - TheThaoTV HD
-http://tranvinh.xyz/hplus.php?id=thethaotvhd
-
-#EXTINF:-1 group-title="VTV" tvg-logo="http://netxua.ml/images/icon-channel/vtvcab16-bongdatvhd.png",VTVCab16 - BongĐaTV HD
-http://tranvinh.xyz/hplus.php?id=bongdatvhd 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg",VTVCab13 - VTV Hyundai Homeshopping
 udp://@225.1.1.122:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg",Hà Nội 1 HD
@@ -75,7 +70,6 @@ udp://@225.1.1.209:30120
 udp://@225.1.1.207:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/KaVSxXc.png",MOV HD - Hanoicab4
 udp://@225.1.1.206:30120
-
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",HTV1
 udp://@225.1.1.180:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/823770-htv2.png",HTV2
@@ -156,7 +150,6 @@ udp://@225.1.2.191:30120
 udp://@225.1.2.88:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",3NTV - VTC16
 udp://@225.1.2.190:30120
-
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//channel/1600x600/2016/06/25/1466861188.jpg",An Viên HD - BTV9
 udp://@225.1.2.189:30120
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://xspace.talaweb.com/suamaytinhbang115/home/share/KhanhChi1202.hsvn/logo-antg.png",An Ninh Thế Giới HD
@@ -171,7 +164,6 @@ udp://@225.1.1.221:30120
 udp://@225.1.1.223:30120
 #EXTINF:-1 group-title="MobiTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_sam_145672992973.jpg",SAM - BTV11
 udp://@225.1.1.224:30120
-
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
 udp://@225.1.2.173:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_145672972069.jpg",Bà Rịa Vũng Tàu HD
