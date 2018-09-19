@@ -2,10 +2,12 @@
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ii/180826093455.jpg",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s1
 https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint HD s2
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s3
+http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
 #EXTINF:-1 group-title="Sports",ELEVEN sports 1
 http://61.58.60.230:9000/live/75.m3u8
 #EXTINF:-1 group-title="Sports",ELEVEN sports 2
@@ -26,44 +28,6 @@ http://185.93.3.84:5000/play/a01u
 http://185.93.3.84:5000/play/a02e
 #EXTINF:-1 group-title="Sports",Eurosport 1
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Sports",True Sport 2
-http://191.96.38.213:443/free/00_2sport2_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",TrueSport HD2
-http://191.96.38.213:443/free54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",TrueSport HD3
-http://191.96.38.213:443/free54/0x777_2sporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sport 5
-http://191.96.38.213:443/free/00_2sport5_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sport 6
-http://191.96.38.213:443/free/00_2sport6_480p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",True Sport 7
-http://191.96.38.213:443/free53/00_2sport7_360p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",TrueSuperSportHD
-http://191.96.38.213:443/free54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports1 HD
-http://191.96.38.213:443/free/0x777_beinsport1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports2 HD
-http://191.96.38.213:443/free/0x777_beinsporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports3 HD
-http://191.96.38.213:443/free/0x777_beinsporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports4 HD
-http://191.96.38.213:443/free/0x777_beinsporthd4_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports5 HD
-http://191.96.38.213:443/free/0x222_beinsporthd5_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports6 HD
-http://191.96.38.213:443/free/0x222_beinsporthd6_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Workpoint HD
-https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Sports",Workpoint TV
-http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
-#EXTINF:-1 group-title="Sports",Astro Arena
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="Sports",Astro SuperSport1
-http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
-#EXTINF:-1 group-title="Sports",Astro SuperSport2
-http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
-#EXTINF:-1 group-title="Sports",Astro SuperSport3
-http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
 #EXTINF:-1 group-title="Sports",DUBAI Sport 1
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 group-title="Sports",DUBAI Sport 2
@@ -104,8 +68,6 @@ http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221
 https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
 #EXTINF:-1 group-title="Sports",ALL SPORTS 2
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
-#EXTINF:-1 group-title="Sports",Ad Sport1
-http://adtv.ercdn.net/adsport2/adsport1_720p.m3u8
 #EXTINF:-1 group-title="Sports",Ad Sport2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 group-title="Sports",Ad Sporte Xtra
@@ -182,8 +144,6 @@ http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 #EXTINF:-1 group-title="Sports",MLB HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-title="Sports",NFL NOW
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 group-title="Sports",OMAN SPORT
 http://38.96.148.30:1935/live/omantv2/chunklist_w1515618195.m3u8
 #EXTINF:-1 group-title="Sports",Premiere
@@ -194,8 +154,6 @@ http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Premiere
 http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
-#EXTINF:-1 group-title="Sports",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="Sports",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8
 #EXTINF:-1 group-title="Sports",SPORTS TV
@@ -304,12 +262,6 @@ http://persik.by/stream/1418/252987/10314.m3u8
 http://persik.by/stream/1418/252987/10315.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvnews.by/uploads/posts/2014-10/thumbs/1413546563_mxcx06zr3qgszqntfinxfz4zp.jpg" tvg-id="Setanta Sports +",Setanta Sports + HD
 http://persik.by/stream/1418/252987/10316.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/viasat-sport-east.jpg" tvg-id="Viasat Sport",Viasat Sport
-http://persik.by/stream/3903/293564/10249.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/viasat-sport-east.jpg" tvg-id="Viasat Sport",Viasat Sport
-http://persik.by/stream/8460/291680/10249.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/viasat-sport-east.jpg" tvg-id="Viasat Sport",Viasat Sport
-http://persik.by/stream/1418/252987/10249.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
 http://persik.by/stream/8460/291680/595.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
@@ -350,10 +302,6 @@ http://persik.by/stream/1418/252987/144.m3u8
 http://persik.by/stream/1418/252987/309.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://allfootballvideo.com/images/channel-logo/sport%202%20ukr.png",Спорт 2 (Украина)
 http://persik.by/stream/1418/252987/91.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",CCTV-5
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 group-title="Sports" tvg-logo="",CCTV-5+
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
 #EXTINF:-1 group-title="Sports" tvg-logo="",Fox Sports 1 HD
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",Fox Sports 2 HD
