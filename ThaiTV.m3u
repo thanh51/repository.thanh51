@@ -1,6 +1,75 @@
 #EXTM3U
 
-#EXTINF:-1,bEIN Sports HD 1
+#EXTINF:-1 group-title="Thailand",CH3 HD
+http://27.254.130.64/live01/ch0.m3u8?p=3hd
+#EXTINF:-1 group-title="Thailand",CH7 HD
+http://27.254.130.64/live01/ch1.m3u8?p=7hd
+#EXTINF:-1 group-title="Thailand",PPTV
+http://27.254.130.64/live01/ch2.m3u8?p=pptv
+#EXTINF:-1 group-title="Thailand",MONO29
+http://27.254.130.64/live01/ch3.m3u8?p=mono29
+#EXTINF:-1 group-title="Thailand",TRUE4U
+http://27.254.130.64/live01/ch4.m3u8?p=true4u
+#EXTINF:-1 group-title="Thailand",TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=tnn24
+#EXTINF:-1 group-title="Thailand",CH5 HD
+http://27.254.130.64/live01/ch6.m3u8?p=5hd1
+#EXTINF:-1 group-title="Thailand",WORKPIONT
+http://27.254.130.64/live01/ch7.m3u8?p=workpiont
+#EXTINF:-1 group-title="Thailand",THAIRAHT
+http://27.254.130.64/live01/ch9.m3u8?p=thairaht
+#EXTINF:-1 group-title="Thailand",ONE31
+http://27.254.130.64/live01/ch10.m3u8?p=one31
+#EXTINF:-1 group-title="Thailand",GMM25
+http://27.254.130.64/live01/ch11.m3u8?p=gmm25
+#EXTINF:-1 group-title="Thailand",NOW26
+http://27.254.130.64/live01/ch12.m3u8?p=now26
+#EXTINF:-1 group-title="Thailand",AMARIN34
+http://27.254.130.64/live01/ch13.m3u8?p=amarin34
+#EXTINF:-1 group-title="Thailand",NBT HD
+http://27.254.130.64/live01/ch14.m3u8?p=nbt hd2
+#EXTINF:-1 group-title="Thailand",CH2
+http://27.254.130.64/live01/ch15.m3u8?p=ch2
+#EXTINF:-1 group-title="Thailand",DARADAILY
+http://27.254.130.64/live01/ch16.m3u8?p=daradaily
+#EXTINF:-1 group-title="Thailand",CRTOONCLUB
+http://27.254.130.64/live01/ch17.m3u8?p=cartoonclub
+#EXTINF:-1 group-title="Thailand",BOOMERANG
+http://27.254.130.64/live01/ch18.m3u8?p=boomerang
+#EXTINF:-1 group-title="Thailand",M CHANNEL
+http://27.254.130.64/live01/ch19.m3u8?p=m channel
+#EXTINF:-1 group-title="Thailand",TPBS HD
+http://27.254.130.64/live02/ch0.m3u8?p=tpbshd
+#EXTINF:-1 group-title="Thailand",3 FAMILY
+http://27.254.130.64/live02/ch1.m3u8?p=3family
+#EXTINF:-1 group-title="Thailand",CH8
+http://27.254.130.64/live02/ch2.m3u8?p=ch8
+#EXTINF:-1 group-title="Thailand", 3SD 28
+http://27.254.130.64/live02/ch3.m3u8?p=3sd 28
+#EXTINF:-1 group-title="Thailand",MCOT FAMILY
+http://27.254.130.64/live02/ch4.m3u8?p=mcot family
+#EXTINF:-1 group-title="Thailand",SPING NEW
+http://27.254.130.64/live02/ch5.m3u8?p=spingnew
+#EXTINF:-1 group-title="Thailand",VOICE
+http://27.254.130.64/live02/ch6.m3u8?p=voice
+#EXTINF:-1 group-title="Thailand",MCOT HD
+http://27.254.130.64/live02/ch7.m3u8?p=mcot hd30
+#EXTINF:-1 group-title="Thailand",NEWTV
+http://27.254.130.64/live99/47/newtv.m3u8?p=new tv
+#EXTINF:-1 group-title="Thailand",BRIGHT TV
+http://27.254.130.64/live99/47/brighttv.m3u8?p=bright tv
+#EXTINF:-1 group-title="Thailand",TPTV
+http://27.254.130.64/live99/47/tptv.m3u8?p=tptv
+#EXTINF:-1 group-title="Thailand",CAT HD
+http://27.254.130.64/live99/47/cat.m3u8?p=cat hd
+#EXTINF:-1 group-title="Thailand",ZEENUNG
+http://27.254.130.64/live99/46/zeenung.m3u8?p=zeenung
+#EXTINF:-1 group-title="Thailand",SERIES CHANNEL
+http://27.254.130.64/live99/46/youchannel.m3u8?p=series channel
+#EXTINF:-1 group-title="Thailand",MONY
+http://27.254.130.64/live99/46/money.m3u8?p=mony
+
+#EXTINF:-1,***** bEIN Sports HD 1 ****************
 http://185.93.3.84:5000/play/a01v
 #EXTINF:-1,bEIN Sports HD 2
 http://185.93.3.84:5000/play/a01w
