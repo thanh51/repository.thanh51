@@ -286,6 +286,8 @@ http://127.0.0.1:6689/stream?cid=3930
 #EXTINF:-1 group-title="Noxbit",Viasat Nature-History HD
 http://127.0.0.1:6689/stream?cid=3932
 
+#EXTINF:-1 group-title="VietTV",VTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="VTV1" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD s1
 http://tranvinh.xyz/hls/vtv1.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="VTV1" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD s2
@@ -318,11 +320,17 @@ http://tranvinh.xyz/hls/vtv8.m3u8
 http://tranvinh.xyz/hls/vtv9.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="VTV9" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD s2
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/15/457395-qpvn.png",QPVN
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/15/457395-qpvn.png",QPVN s1
+http://ott.realplaytv.net:12388/?header=hplus&name=Quoc_Phong&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/15/457395-qpvn.png",QPVN s2
 http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
+#EXTINF:-1 group-title="VietTV",QHVN
+http://ott.realplaytv.net:12388/?header=hplus&name=Quoc_Hoi&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/13/716000-quoc.hoi_.png", Quốc Hội HD
 http://1.54.250.40:1935/live/quochoitvlive.stream_360p/chunklist_w1173139067.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",Nhân dân
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",Nhan Dan s1 
+http://ott.realplaytv.net:12388/?header=hplus&name=Nhan_Dan&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",Nhân dân s2
 https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",Nhân dân HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
@@ -330,71 +338,100 @@ http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 http://live.vnanet.vn/VnewsLive_Layer1.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/15/279205-ttxvn.png", TTXVN s2
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV",ANTV
+http://ott.realplaytv.net:12388/?header=hplus&name=antv&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/781776-ANTV-HD.png", ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/HQ7sB2D.png",Hà Nội 1 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/sRi6G2v.png",Hà Nội 2 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoitv2.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTV1" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",HTV1
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",HTV1 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV1" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",HTV1 s2
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VietTV",HTV2
+http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="HTV2 HD" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2 HD
 http://hplus.vungtau.ml:12388/?header=hplus&name=htv2hd&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="HTV3" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",HTV3 s1
 http://tranvinh.xyz/play/hplus.php?id=htv3
 #EXTINF:-1 group-title="VietTV" tvg-id="HTV3" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",HTV3 s2
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",HTV3 s3
+http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="HTV4" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png",HTV4 s1
 http://tranvinh.xyz/play/hplus.php?id=htv4
 #EXTINF:-1 group-title="VietTV" tvg-id="HTV4" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png",HTV4 s2
 http://huuvinh.ooo/hls/htv4.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTV7 HD" tvg-logo="https://s5.postimg.cc/qdv4jgs9j/htv7.png",HTV7
+#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png",HTV4 s3
+http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://s5.postimg.cc/qdv4jgs9j/htv7.png",HTV7 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv7&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV7 HD" tvg-logo="https://s5.postimg.cc/qdv4jgs9j/htv7.png",HTV7 s2
 http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTV9 HD" tvg-logo="https://s5.postimg.cc/ixvuxoc9z/htv9.png",HTV9
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://s5.postimg.cc/ixvuxoc9z/htv9.png",HTV9 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv9&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="HTV9 HD" tvg-logo="https://s5.postimg.cc/ixvuxoc9z/htv9.png",HTV9 s2
 http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Ca Nhac" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png",HTVC - Ca nhạc
-http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Thuan Viet" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/510395-thuanviet_stroke.png",HTVC - Thuần Việt s1
-http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Thuan Viet" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/510395-thuanviet_stroke.png",HTVC - Thuần Việt s2
-http://hplus.vungtau.ml:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Phim" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/489883-phim_stroke.png",HTVC - Phim s1
-http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Phim HD" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/878136-phimHD_stroke.png",HTVC Phim HD
-http://tranvinh.xyz/play/hplus.php?id=htvc-phimhd
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - FBNC" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/698248-661481-FBNC.png",HTV FBNC HD
-http://tranvinh.xyz/play/hplus.php?id=fbnc
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - The Thao" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/238258-htvtt.png",HTVC - Thể Thao
-http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Gia Dinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png",HTVC - Gia Đình
-http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Phu Nu" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/449039-phunu_stroke.png",HTVC - Phụ Nữ
-http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Du Lich" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC - Du Lịch
-http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/435465-HTVC_stroke.png",HTVC+
+#EXTINF:-1 group-title="VietTV",HTV TheThao
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_the_thao&cdn=1
+#EXTINF:-1 group-title="VietTV",HTV2
+http://ott.realplaytv.net:12388/?header=hplus&name=htv2hd&cdn=1
+#EXTINF:-1 group-title="VietTV",HTVC Dulich
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
+#EXTINF:-1 group-title="VietTV",HTVC CaNhac
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
+#EXTINF:-1 group-title="VietTV",HTVC Giadinh
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
+#EXTINF:-1 group-title="VietTV",HTVC Phim
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
+#EXTINF:-1 group-title="VietTV",HTVC PhuNu
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phu_nu&cdn=1
+#EXTINF:-1 group-title="VietTV",ThuanViet
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
+#EXTINF:-1 group-title="VietTV",FBNC
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
 http://tranvinh.xyz/play/hplus.php?id=htvc-plus
 #EXTINF:-1 group-title="VietTV" tvg-id="HTVC - Shopping" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/348146-Shopping.png",HTVC - SHOPPING
 http://tranvinh.xyz/play/hplus.php?id=htvc-muasam
+#EXTINF:-1 group-title="VietTV",VTC1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc1&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="VTC3 HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",VTC3 HD
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="VTC4" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",VTC4
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",VTC4 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC4" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",VTC4 s2
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc4&cdn=1
+#EXTINF:-1 group-title="VietTV",VTC7
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc7&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="VTC7" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg",VTC7 HD
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc7&cdn=1
-#EXTINF:-1 group-title="VietTV" tvg-id="VTC8" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png",VTC8
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png",VTC8 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc8&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC8" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png",VTC8 s2
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc8&cdn=1
+#EXTINF:-1 group-title="VietTV"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_151496638696.png",VTC9
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc9&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="VTC9" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_151496638696.png",VTC9 HD
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc9&cdn=1
-#EXTINF:-1 group-title="VietTV" tvg-id="VTC10" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png",VTC10
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png",VTC10 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc10&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC10" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png",VTC10 s2
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc10&cdn=1
-#EXTINF:-1 group-title="VietTV" tvg-id="VTC11" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",VTC11
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",VTC11 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc11&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC11" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",VTC11 s2
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc11&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="VTC13" tvg-logo="https://i.imgur.com/kAEIsbp.png",ITV
 http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VietTV" tvg-id="VTC14" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",VTC14
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",VTC14 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc14&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC14" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",VTC14 s2
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc14&cdn=1
-#EXTINF:-1 group-title="VietTV" tvg-id="VTC16" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_151489098635.png",VTC16
+#EXTINF:-1 group-title="VietTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_151489098635.png",VTC16 s1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc16&cdn=1
+#EXTINF:-1 group-title="VietTV" tvg-id="VTC16" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_151489098635.png",VTC16 s2
 http://hplus.vungtau.ml:12388/?header=hplus&name=vtc16&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-logo="https://i.imgur.com/zWkZ5In.png",VTC Play
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
@@ -414,12 +451,31 @@ http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
 http://tranvinh.xyz/play/hplus.php?id=foxfamilymovies
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/07/365776-zee.png",Zee TV
 http://tranvinh.xyz/play/hplus.php?id=zeetv
+#EXTINF:-1 group-title="VietTV",BR-VungTauTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Ba_Ria&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/WSpyIU4.png",Bà Rịa - Vũng Tàu HD
 http://113.163.216.23:1935/live/tv1.stream_480p/chunklist_w434547077.m3u8
+#EXTINF:-1 group-title="VietTV",BinhPhuocTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Phuoc_1&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/VyneO42.png",Bình Phước 2
 http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:-1 group-title="VietTV",BacGiangTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Giang&cdn=1
+#EXTINF:-1 group-title="VietTV",BacLieuTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Lieu&cdn=1
+#EXTINF:-1 group-title="VietTV",BinhDinhTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Dinh&cdn=1
+#EXTINF:-1 group-title="VietTV",BinhDuongTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_1&cdn=1
+#EXTINF:-1 group-title="VietTV",BenTreTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Ben_Tre&cdn=1
+#EXTINF:-1 group-title="VietTV",CanThoTV
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/9en8lPm.png",Cao Bằng
 http://118.107.68.10:1935/live/smil:Caobang.smil/chunklist_w251452954_b1264000_slVIE.m3u8
+http://ott.realplaytv.net:12388/?header=hplus&name=Can_Tho&cdn=1
+http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
+#EXTINF:-1 group-title="VietTV",DaNangTV2
+http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/2vFDTuV.png",Đà Nẵng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/gfYsA7B.png",Đồng Nai 2
@@ -428,128 +484,48 @@ http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/chunklist_w282437195_b1264000_
 http://tranvinh.xyz/play/hplus.php?id=dongnai3
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/9smCOUN.png",Đồng Nai 9
 http://118.107.68.10:1935/live/smil:DNAI9WEB.smil/chunklist_w366232911_b1264000_slVIE.m3u8
+#EXTINF:-1 group-title="VietTV",DongThapTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Dong_Thap&cdn=1
+#EXTINF:-1 group-title="VietTV",HaiDuongTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Hai_Duong&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/ui0sjEz.png",Hải Phòng Plus
 http://118.107.68.10:1935/live/smil:Haiphongplus.smil/chunklist_w2053899464_b1264000_slVIE.m3u8
+#EXTINF:-1 group-title="VietTV",TT-HueTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
+#EXTINF:-1 group-title="VietTV",HaTinhTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Ha_Tinh&cdn=1
+#EXTINF:-1 group-title="VietTV",KienGiangTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Kien_Giang_1&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/Zm3u8c9un.png",Kiên Giang 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="VietTV",KhanhHoaTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Khanh_Hoa&cdn=1
+#EXTINF:-1 group-title="VietTV",LongAnTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Long_An_34&cdn=1
+#EXTINF:-1 group-title="VietTV",LamDongTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Lam_Dong&cdn=1
+#EXTINF:-1 group-title="VietTV",LangSonTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Lang_Son&cdn=1
+#EXTINF:-1 group-title="VietTV",NamDinhTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Nam_Dinh&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="" tvg-logo="https://i.imgur.com/fMsX4eM.png",Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 group-title="VietTV",QuangNamTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
+#EXTINF:-1 group-title="VietTV",SocTrangTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=Soc_Trang&cdn=1
+#EXTINF:-1 group-title="VietTV",TraVinhTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Tra_Vinh&cdn=1
+#EXTINF:-1 group-title="VietTV",TayNinhTV
+http://ott.realplaytv.net:12388/?header=hplus&name=Tay_Ninh&cdn=1
+#EXTINF:-1 group-title="VietTV",VinhLongTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 1" tvg-logo="http://netxua.ml/images/icon-channel/vinhlong1hd.png",Vĩnh Long 1 HD
 http://tranvinh.xyz/play/thvli.php?id=vinhlong1hd
+#EXTINF:-1 group-title="VietTV",VinhLongTV2
+http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 2" tvg-logo="http://netxua.ml/images/icon-channel/vinhlong2hd.png",Vĩnh Long 2 HD
 http://tranvinh.xyz/play/thvli.php?id=vinhlong2hd
-
-
-#EXTINF:-1 group-title="HPlus",VTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
-#EXTINF:-1 group-title="HPlus",ANTV
-http://ott.realplaytv.net:12388/?header=hplus&name=antv&cdn=1
-#EXTINF:-1 group-title="HPlus",QPVN
-http://ott.realplaytv.net:12388/?header=hplus&name=Quoc_Phong&cdn=1
-#EXTINF:-1 group-title="HPlus",QHVN
-http://ott.realplaytv.net:12388/?header=hplus&name=Quoc_Hoi&cdn=1
-#EXTINF:-1 group-title="HPlus",NhanDanTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Nhan_Dan&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV3
-http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV4
-http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV7
-http://ott.realplaytv.net:12388/?header=hplus&name=htv7&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV9
-http://ott.realplaytv.net:12388/?header=hplus&name=htv9&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV TheThao
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_the_thao&cdn=1
-#EXTINF:-1 group-title="HPlus",HTV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv2hd&cdn=1
-#EXTINF:-1 group-title="HPlus",HTVC Dulich
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
-#EXTINF:-1 group-title="HPlus",HTVC CaNhac
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
-#EXTINF:-1 group-title="HPlus",HTVC Giadinh
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
-#EXTINF:-1 group-title="HPlus",HTVC Phim
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
-#EXTINF:-1 group-title="HPlus",HTVC PhuNu
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phu_nu&cdn=1
-#EXTINF:-1 group-title="HPlus",ThuanViet
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
-#EXTINF:-1 group-title="HPlus",FBNC
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc1&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC4
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC7
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc7&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC8
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc8&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC9
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc9&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC11
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc11&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC10
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc10&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC14
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc14&cdn=1
-#EXTINF:-1 group-title="HPlus",VTC16
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc16&cdn=1
-#EXTINF:-1 group-title="HPlus",BR-VungTauTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Ba_Ria&cdn=1
-#EXTINF:-1 group-title="HPlus",BinhPhuocTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Phuoc_1&cdn=1
-#EXTINF:-1 group-title="HPlus",BacGiangTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Giang&cdn=1
-#EXTINF:-1 group-title="HPlus",BacLieuTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Lieu&cdn=1
-#EXTINF:-1 group-title="HPlus",BinhDinhTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Dinh&cdn=1
-#EXTINF:-1 group-title="HPlus",BinhDuongTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_1&cdn=1
-#EXTINF:-1 group-title="HPlus",BenTreTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Ben_Tre&cdn=1
-#EXTINF:-1 group-title="HPlus",CanThoTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Can_Tho&cdn=1
-#EXTINF:-1 group-title="HPlus",DaNangTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
-#EXTINF:-1 group-title="HPlus",DaNangTV2
-http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_2&cdn=1
-#EXTINF:-1 group-title="HPlus",DongThapTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Dong_Thap&cdn=1
-#EXTINF:-1 group-title="HPlus",HaiDuongTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Hai_Duong&cdn=1
-#EXTINF:-1 group-title="HPlus",TT-HueTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
-#EXTINF:-1 group-title="HPlus",HaTinhTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Ha_Tinh&cdn=1
-#EXTINF:-1 group-title="HPlus",KienGiangTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Kien_Giang_1&cdn=1
-#EXTINF:-1 group-title="HPlus",KhanhHoaTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Khanh_Hoa&cdn=1
-#EXTINF:-1 group-title="HPlus",LongAnTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Long_An_34&cdn=1
-#EXTINF:-1 group-title="HPlus",LamDongTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Lam_Dong&cdn=1
-#EXTINF:-1 group-title="HPlus",LangSonTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Lang_Son&cdn=1
-#EXTINF:-1 group-title="HPlus",NamDinhTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Nam_Dinh&cdn=1
-#EXTINF:-1 group-title="HPlus",QuangNamTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
-#EXTINF:-1 group-title="HPlus",SocTrangTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Soc_Trang&cdn=1
-#EXTINF:-1 group-title="HPlus",TraVinhTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Tra_Vinh&cdn=1
-#EXTINF:-1 group-title="HPlus",TayNinhTV
-http://ott.realplaytv.net:12388/?header=hplus&name=Tay_Ninh&cdn=1
-#EXTINF:-1 group-title="HPlus",VinhLongTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
-#EXTINF:-1 group-title="HPlus",VinhLongTV2
-http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 
 
 #EXTINF:-1 group-title="VietHN" tvg-logo="",Sai Gon TV
