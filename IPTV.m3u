@@ -1,6 +1,8 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 group-title="VietTV",**** VietTV:VTV1 ******
+#EXTINF:-1,**** Kênh Viet TV********
+http://
+#EXTINF:-1 group-title="VietTV",VTV1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="VTV1" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD s1
 http://tranvinh.xyz/hls/vtv1.m3u8
@@ -241,7 +243,9 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 2" tvg-logo="http://netxua.ml/images/icon-channel/vinhlong2hd.png",Vĩnh Long 2 HD
 http://tranvinh.xyz/play/thvli.php?id=vinhlong2hd
 
-#EXTINF:-1 tvg-name="" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/nbc%20sports%20network%20hd.png" group-title="Sports",***Vaders: NBCSN HD ****
+#EXTINF:-1,**** Kênh Vaders********
+http://
+#EXTINF:-1 tvg-name="NBC Sports Network HD" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/nbc%20sports%20network%20hd.png" group-title="Sports",NBCSN HD
 http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
 #EXTINF:-1 tvg-name="Fox Sports 1 HD" tvg-id="I219.82547.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/fox%20sports%201%20hd.png" group-title="Sports",Fox Sports 1 HD
 http://vapi.vaders.tv/play/2568.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
@@ -541,7 +545,97 @@ http://vapi.vaders.tv/play/3077.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3d
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/58787.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9&duration=3600" catchup-days=5 tvg-name="OSN Cricket HD" tvg-id="None" tvg-logo="http://vod6.vaders.tv:8080/logos/osn%20cricket.png" group-title="Sports",OSN Cricket HD
 http://vapi.vaders.tv/play/58787.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
 
-#EXTINF:-1,****Ace: 100% News *****
+#EXTINF:-1,**** Kênh Acestream********
+http://
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 1  
+http://127.0.0.1:6878/ace/getstream?id=6a703df0f20ce6b041b1729d18722a3a131604ca&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 2
+http://127.0.0.1:6878/ace/getstream?id=6a703df0f20ce6b041b1729d18722a3a131604ca&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 3  
+http://127.0.0.1:6878/ace/getstream?id=9740f207ca7dee9a1eca5be38145ba8756b72180&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 4  
+http://127.0.0.1:6878/ace/getstream?id=9740f207ca7dee9a1eca5be38145ba8756b72180&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 5  
+http://127.0.0.1:6878/ace/getstream?id=211a04b9d9c13e5717b8be7fd63d6f9ab1eba761&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 6  
+http://127.0.0.1:6878/ace/getstream?id=211a04b9d9c13e5717b8be7fd63d6f9ab1eba761&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 7  
+http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 8  
+http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 9  
+http://127.0.0.1:6878/ace/getstream?id=d5eb2e5059d544c31ac59773c159a35974567cb2&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 10  
+http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 11  
+http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 12  
+http://127.0.0.1:6878/ace/getstream?id=092a156cc621fbffb898b44298f6e81b4ec7a7ef&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 13  
+http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 14  
+http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 15  
+http://127.0.0.1:6878/ace/getstream?id=d50660f571598fef77abcb32cecacd221cd3e5bf&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 16  
+http://127.0.0.1:6878/ace/getstream?id=d50660f571598fef77abcb32cecacd221cd3e5bf&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 17  
+http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 18  
+http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 19  
+http://127.0.0.1:6878/ace/getstream?id=1dad3cd3a49e046dc8f7b94fecb5942cb28aa746&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 20  
+http://127.0.0.1:6878/ace/getstream?id=1dad3cd3a49e046dc8f7b94fecb5942cb28aa746&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 21  
+http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 22  
+http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 23  
+http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 24  
+http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 25  
+http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 26  
+http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 27  
+http://127.0.0.1:6878/ace/getstream?id=3e1f9a91f9d2028e4e4e8d4a594371063922284d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 28  
+http://127.0.0.1:6878/ace/getstream?id=3e1f9a91f9d2028e4e4e8d4a594371063922284d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 29  
+http://127.0.0.1:6878/ace/getstream?id=4ba00644194a56f946d68074707f5b59743afbab&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 30
+http://127.0.0.1:6878/ace/getstream?id=4ba00644194a56f946d68074707f5b59743afbab&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 31
+http://127.0.0.1:6878/ace/getstream?id=5e69b4801e8c64ba14296908436826c43168829d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 32
+http://127.0.0.1:6878/ace/getstream?id=5e69b4801e8c64ba14296908436826c43168829d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 33
+http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 34
+http://127.0.0.1:6878/ace/getstream?id=5637cb63d67f3cae4a68cecfb6d2e372d1c00607&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 35
+http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 36
+http://127.0.0.1:6878/ace/getstream?id=f740a992f6ed0b103bf425c2c3ebda4dfed966d9&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 37
+http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 38
+http://127.0.0.1:6878/ace/getstream?id=4798cdccb38486e26a441f7abf431ca2042f21f8&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 39
+http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 40
+http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 41
+http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 42
+http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&.mp4
+EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 43
+http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
+EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 44
+http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
+#EXTINF:-1,100% News
 http://127.0.0.1:6878/ace/getstream?id=7f4111d4173acfddb38de208c3f1185783821b8a&.mp4
 #EXTINF:-1,365 Дней
 http://127.0.0.1:6878/ace/getstream?id=cfb2b54cd73a28a8cdf48e9862f1a14d36d785ca&.mp4
@@ -926,7 +1020,9 @@ http://127.0.0.1:6878/ace/getstream?id=4f31257f680ff6dfef95616a27be1c5ee527f9a4&
 #EXTINF:-1,Футбол
 http://127.0.0.1:6878/ace/getstream?id=6f870f7da02ddf20581ea0d442db6e87346ac6b7&.mp4
 
-#EXTINF:-1 group-title="Noxbit",****** Noxbit:Super Tennis HD *******
+#EXTINF:-1,**** Kênh Noxbit ********
+http://
+#EXTINF:-1 group-title="Noxbit",Super Tennis HD
 http://127.0.0.1:6689/stream?cid=4227
 #EXTINF:-1 group-title="Noxbit",Матч! Футбол 1
 http://127.0.0.1:6689/stream?cid=3679
@@ -1031,7 +1127,9 @@ http://127.0.0.1:6689/stream?cid=3930
 #EXTINF:-1 group-title="Noxbit",Viasat Nature-History HD
 http://127.0.0.1:6689/stream?cid=3932
 
-#EXTINF:-1 group-title="Russia",***** Russia: FUTBOL3 HD ********
+#EXTINF:-1,**** Kênh Russia ********
+http://
+#EXTINF:-1 group-title="Russia",FUTBOL3 HD
 http://ed4e35ed.kazmazpaz.org/iptv/7FRRWRSA4CX9V3/206/index.m3u8
 #EXTINF:-1 group-title="Russia",ARELA HD
 http://ed4e35ed.kazmazpaz.org/iptv/7FRRWRSA4CX9V3/207/index.m3u8
@@ -1802,7 +1900,9 @@ http://91.149.172.100:80/channel?id=150&u=demo&p=demo
 #EXTINF:-1 group-title="Russia",Детский
 http://91.149.172.100:80/channel?id=151&u=demo&p=demo
 
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",***** Thailand: Workpoint HD s1******
+#EXTINF:-1,**** Kênh Thailand********
+http://
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s1
 https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint HD s2
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
@@ -1981,7 +2081,9 @@ http://202.142.212.160/ch2-hi/index.m3u8
 #EXTINF:-1 group-title="Thailand",สุวรรณภูมิทีวี
 http://203.146.129.233:1935/live/suwan/playlist.m3u8
 
-#EXTINF:-1 group-title="India",***** India: Sony ESPN *********
+#EXTINF:-1,**** Kênh India ********
+http://
+#EXTINF:-1 group-title="India",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Sony ESPN HD
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8|User-Agent=ExoPlayerDemo/4.4
