@@ -241,7 +241,7 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 2" tvg-logo="http://netxua.ml/images/icon-channel/vinhlong2hd.png",Vĩnh Long 2 HD
 http://tranvinh.xyz/play/thvli.php?id=vinhlong2hd
 
-#EXTINF:-1 tvg-name="NBC Sports Network HD" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/nbc%20sports%20network%20hd.png" group-title="Sports",***Vaders:NBC Sports Network HD ****
+#EXTINF:-1 tvg-name="NBC Sports Network HD" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/nbc%20sports%20network%20hd.png" group-title="Sports",***Vaders: NBCSN HD ****
 http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
 #EXTINF:-1 tvg-name="Fox Sports 1 HD" tvg-id="I219.82547.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/fox%20sports%201%20hd.png" group-title="Sports",Fox Sports 1 HD
 http://vapi.vaders.tv/play/2568.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
@@ -540,6 +540,391 @@ http://vapi.vaders.tv/play/2849.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3d
 http://vapi.vaders.tv/play/3077.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/58787.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9&duration=3600" catchup-days=5 tvg-name="OSN Cricket HD" tvg-id="None" tvg-logo="http://vod6.vaders.tv:8080/logos/osn%20cricket.png" group-title="Sports",OSN Cricket HD
 http://vapi.vaders.tv/play/58787.ts?token=eyJ1c2VybmFtZSI6InRoaXNpc21lIiwicGFzc3dvcmQiOiJjb2NrcGlzc3BhcnRyaWRnZSJ9
+
+#EXTINF:-1,****Ace: 100% News *****
+http://127.0.0.1:6878/ace/getstream?id=7f4111d4173acfddb38de208c3f1185783821b8a&.mp4
+#EXTINF:-1,365 Дней
+http://127.0.0.1:6878/ace/getstream?id=cfb2b54cd73a28a8cdf48e9862f1a14d36d785ca&.mp4
+#EXTINF:-1,AKC.TV
+http://127.0.0.1:6878/ace/getstream?id=5d4d8eaa2da9a44ba2e59c675f1cb08271cc1885&.mp4
+#EXTINF:-1,Animal Planet
+http://127.0.0.1:6878/ace/getstream?id=7e49adb92214f4f7b25d5be039100caba2a34693&.mp4
+#EXTINF:-1,Animal Planet HD
+http://127.0.0.1:6878/ace/getstream?id=a6cab3a96c13aa97a4f3b7a39ce23ac1fe697888&.mp4
+#EXTINF:-1,Anyday 3D
+http://127.0.0.1:6878/ace/getstream?id=6dc6203a5083d3bdbbe2b23603118c1707e46001&.mp4
+#EXTINF:-1,BBC Earth HD (Polska)
+http://127.0.0.1:6878/ace/getstream?id=6d510a7c37bda70059c7ad0d772ecffc4f886867&.mp4
+#EXTINF:-1,BamBarBia.TV
+http://127.0.0.1:6878/ace/getstream?id=30951e37f8aa296a4e2f3186e8613a20f0019026&.mp4
+#EXTINF:-1,Buy Home TV HD
+http://127.0.0.1:6878/ace/getstream?id=4881548768c5702bf51ba9f93f747b86e6c5d3a4&.mp4
+#EXTINF:-1,DTX
+http://127.0.0.1:6878/ace/getstream?id=2a49692587c1b3b0b936bd3e0b74f1acae1edd33&.mp4
+#EXTINF:-1,Da Vinci Learning
+http://127.0.0.1:6878/ace/getstream?id=4f61bf5e27abe2425e953d7549837fbcc3fb8bf8&.mp4
+#EXTINF:-1,Discovery Channel
+http://127.0.0.1:6878/ace/getstream?id=56332a5f106d217b1e36f937ef3aaa46a936c2e0&.mp4
+#EXTINF:-1,Discovery Channel HD
+http://127.0.0.1:6878/ace/getstream?id=a1994bf02a2fb97620a511a866bac0d0663caecc&.mp4
+#EXTINF:-1,Discovery Historia Polska
+http://127.0.0.1:6878/ace/getstream?id=3d481366289a40c59bf9cf4a994969c13c9b4f2b&.mp4
+#EXTINF:-1,Discovery Science
+http://127.0.0.1:6878/ace/getstream?id=c3eecc8f8dfa3e1764b862ecb13666a8e26c5277&.mp4
+#EXTINF:-1,Discovery Science HD
+http://127.0.0.1:6878/ace/getstream?id=5b4979a759f472ed7114470ce7ab1c51708054a1&.mp4
+#EXTINF:-1,Discovery Showcase HD
+http://127.0.0.1:6878/ace/getstream?id=7ada151cf609f51cbe5fe3fbc7bbdaafb1831adc&.mp4
+#EXTINF:-1,DocuBox HD
+http://127.0.0.1:6878/ace/getstream?id=663f116d6fa46c2ac537c54908a08003da5bbd95&.mp4
+#EXTINF:-1,EPOQUЕ HD
+http://127.0.0.1:6878/ace/getstream?id=4b19975d1223923891b5a252f24383c416e8db7d&.mp4
+#EXTINF:-1,ETV
+http://127.0.0.1:6878/ace/getstream?id=6b7ab6c66191f17f2c763979995d9b8df73eaa0f&.mp4
+#EXTINF:-1,English Club TV
+http://127.0.0.1:6878/ace/getstream?id=851874d5408dbd40ae7aeec5f50a92538deacdd4&.mp4
+#EXTINF:-1,Epoque
+http://127.0.0.1:6878/ace/getstream?id=4e9ef5b9944c18d2e53d1ace03e5d93e4e2a631b&.mp4
+#EXTINF:-1,Fine Living
+http://127.0.0.1:6878/ace/getstream?id=b25e99a8f4ac9811b01ce393adb1797b6f9ebbd6&.mp4
+#EXTINF:-1,Foodman Club HD
+http://127.0.0.1:6878/ace/getstream?id=31f67da8d3e83f3cd45f55ed02fdf14bf0825f49&.mp4
+#EXTINF:-1,Galaxy TV
+http://127.0.0.1:6878/ace/getstream?id=7c9359f2b4fa25067c971204780c66f2d45b4159&.mp4
+#EXTINF:-1,Glazella 3D
+http://127.0.0.1:6878/ace/getstream?id=18aa31ce16f05f8f041def73997ec3618ae16689&.mp4
+#EXTINF:-1,HD Life
+http://127.0.0.1:6878/ace/getstream?id=8eb5416cfbc2d430ac7eaaa416a9759bd2cc633d&.mp4
+#EXTINF:-1,History 2 HD
+http://127.0.0.1:6878/ace/getstream?id=51f30a7563972d1c03c143794f241e6cb3421545&.mp4
+#EXTINF:-1,History Channel
+http://127.0.0.1:6878/ace/getstream?id=72b63e762e45ee32135b24078b09cfa84f6c4ddc&.mp4
+#EXTINF:-1,History Channel HD
+http://127.0.0.1:6878/ace/getstream?id=aea8a4b3e62aea19f1d73ec102a82dfd52934012&.mp4
+#EXTINF:-1,Hochanda TV
+http://127.0.0.1:6878/ace/getstream?id=8cecb3c3e34b50db71f0bcccf7d98a05056d87a8&.mp4
+#EXTINF:-1,ID Xtra
+http://127.0.0.1:6878/ace/getstream?id=8132db5ac314c17b7d4cc2a6b322ef5646eeca6a&.mp4
+#EXTINF:-1,ID:Investigation Discovery HD
+http://127.0.0.1:6878/ace/getstream?id=5dc84da112b463317cfff3bf1b72d869ff96bb16&.mp4
+#EXTINF:-1,Luxury World
+http://127.0.0.1:6878/ace/getstream?id=ee35ec92994b67e37fd85e6e763c08705b1fcc5a&.mp4
+#EXTINF:-1,MU-Vi TV
+http://127.0.0.1:6878/ace/getstream?id=00c70b83dcf7618fd38a05b90a455a469c84e595&.mp4
+#EXTINF:-1,Mute HD
+http://127.0.0.1:6878/ace/getstream?id=52bd398631dfd4c46924d81db51e5368affe0180&.mp4
+#EXTINF:-1,N24 Doku
+http://127.0.0.1:6878/ace/getstream?id=7a18934c15ed7b65ae706000f6f82058a2545cc1&.mp4
+#EXTINF:-1,Nat Geo Wild
+http://127.0.0.1:6878/ace/getstream?id=90fe877aa6828d76f66af1485b8ce1057202bd51&.mp4
+#EXTINF:-1,Nat Geo Wild HD
+http://127.0.0.1:6878/ace/getstream?id=a4ed13b4cf09edb232191d9025f2814e201fe26f&.mp4
+#EXTINF:-1,National Geographic
+http://127.0.0.1:6878/ace/getstream?id=f43ab621d932bb863825cc1099d58a616fc440ee&.mp4
+#EXTINF:-1,National Geographic Abu Dhabi
+http://127.0.0.1:6878/ace/getstream?id=db30709fb921e4f85d5f2562ed188ab44ff5b32b&.mp4
+#EXTINF:-1,National Geographic HD
+http://127.0.0.1:6878/ace/getstream?id=0ef198a8d465786bca518df018d4aecea8959dd7&.mp4
+#EXTINF:-1,National Geographic Polska
+http://127.0.0.1:6878/ace/getstream?id=33491d5509342f0e8410a6e52abd60ef12423acf&.mp4
+#EXTINF:-1,Ocean TV HD
+http://127.0.0.1:6878/ace/getstream?id=d632c6844c3b0714c9e5f035a97272bab89d617f&.mp4
+#EXTINF:-1,Ocean-TV
+http://127.0.0.1:6878/ace/getstream?id=bafdcef2b45ba14a511e6bad90e48a46fd081c89&.mp4
+#EXTINF:-1,RTG HD
+http://127.0.0.1:6878/ace/getstream?id=6b198d1043dea836ed5bab76db3fa136814dd704&.mp4
+#EXTINF:-1,RTG International
+http://127.0.0.1:6878/ace/getstream?id=bf3593cea74481f115226d5a8dd349e1a67aa60f&.mp4
+#EXTINF:-1,RTG TV
+http://127.0.0.1:6878/ace/getstream?id=37d1b0af3f1f0f3701f5f07fe73ebe6648239cdb&.mp4
+#EXTINF:-1,Renome +
+http://127.0.0.1:6878/ace/getstream?id=229babf9c55a300f157139a3f5f724f15e595f2d&.mp4
+#EXTINF:-1,Revn TV
+http://127.0.0.1:6878/ace/getstream?id=8995dbc558adb5668fb1778bdd4cfacc98f8b7c7&.mp4
+#EXTINF:-1,Russia Today Doc HD
+http://127.0.0.1:6878/ace/getstream?id=d7be64792ac635bf5d01493d3e82849b7af4e9a3&.mp4
+#EXTINF:-1,Russia Today Doc.
+http://127.0.0.1:6878/ace/getstream?id=9608d4102c241d530b61215e3b5eb1555d4d6928&.mp4
+#EXTINF:-1,SDGF 24
+http://127.0.0.1:6878/ace/getstream?id=beee1f45dc31b21211476c1210eb91047c44ba38&.mp4
+#EXTINF:-1,Sewing Quarter HD
+http://127.0.0.1:6878/ace/getstream?id=5709256c98c7da0f417437374f1e917fe1412e5a&.mp4
+#EXTINF:-1,Silence TV HD
+http://127.0.0.1:6878/ace/getstream?id=721d75ecefbfed5fcf6f3663ac66732f9197fad2&.mp4
+#EXTINF:-1,Sochi Live HD
+http://127.0.0.1:6878/ace/getstream?id=195f1ae396d080a1831bfb5876b22d5ec1b8672d&.mp4
+#EXTINF:-1,TAG TV HD
+http://127.0.0.1:6878/ace/getstream?id=e3c3b81f275fee211a30405be611237dbb80248f&.mp4
+#EXTINF:-1,THOMEP
+http://127.0.0.1:6878/ace/getstream?id=bc0760a0e1731c0eaebe21e6bba4c4626f4e9aa6&.mp4
+#EXTINF:-1,TLC
+http://127.0.0.1:6878/ace/getstream?id=d69d8f2e355884102489036d9a1045ef5e652d88&.mp4
+#EXTINF:-1,TLC HD
+http://127.0.0.1:6878/ace/getstream?id=6cf0a141c610c401a2a62809ebc2704daa11ff25&.mp4
+#EXTINF:-1,TSTV HD
+http://127.0.0.1:6878/ace/getstream?id=e0a875cf6b80a6ddc8e55514e4d6d816f56551a5&.mp4
+#EXTINF:-1,TV Art BG
+http://127.0.0.1:6878/ace/getstream?id=e9da8fbbd03c60a7ef184abea01bcdd0cad855a5&.mp4
+#EXTINF:-1,TV Biznes
+http://127.0.0.1:6878/ace/getstream?id=3af6604765bdb6176144f51afb51e1346ac2ad62&.mp4
+#EXTINF:-1,This is Bulgaria HD
+http://127.0.0.1:6878/ace/getstream?id=e5afa7eabe448be29ec44d227e0cbbc408ea7d32&.mp4
+#EXTINF:-1,Travel + adventure
+http://127.0.0.1:6878/ace/getstream?id=d4f955338155793b0739174141001fff33008092&.mp4
+#EXTINF:-1,Travel + adventure HD
+http://127.0.0.1:6878/ace/getstream?id=3f2795f7075cde23c5ffe47126149a429af2fb8d&.mp4
+#EXTINF:-1,Travel Channel
+http://127.0.0.1:6878/ace/getstream?id=651fd46625faee0636aec47e3cc9e6f36054183b&.mp4
+#EXTINF:-1,Travel Channel HD
+http://127.0.0.1:6878/ace/getstream?id=4ce4423b65b65411a5deae481bda757230abfc61&.mp4
+#EXTINF:-1,Travel TV (Bulgaria)
+http://127.0.0.1:6878/ace/getstream?id=b3d1056fa6517f920904636542a2f78ad60a6f2a&.mp4
+#EXTINF:-1,UA:Культура
+http://127.0.0.1:6878/ace/getstream?id=1a91150a0df3abf75174bd4f048e9917d0d49b6f&.mp4
+#EXTINF:-1,UesTV
+http://127.0.0.1:6878/ace/getstream?id=ffd25519b09507ef5d29134514d8ef95927e1a23&.mp4
+#EXTINF:-1,БелБизнесЧенел
+http://127.0.0.1:6878/ace/getstream?id=2a8580971b232ac53052e642fb0e04b028a50c36&.mp4
+#EXTINF:-1,Бобер
+http://127.0.0.1:6878/ace/getstream?id=535ca3a338e5139f1f45d2e405bd6e7b9cf7e7f6&.mp4
+#EXTINF:-1,Большая Азия
+http://127.0.0.1:6878/ace/getstream?id=2537356ce52d8fba05093d6ecf6e48ed5be971ab&.mp4
+#EXTINF:-1,В мире животных HD
+http://127.0.0.1:6878/ace/getstream?id=1524d796d7f9d74a8cdf673ac18a941b967ec2a4&.mp4
+#EXTINF:-1,Дача
+http://127.0.0.1:6878/ace/getstream?id=9705ec4d1dee1b513c0cdf59f721d4351b6831a2&.mp4
+#EXTINF:-1,Дача HD
+http://127.0.0.1:6878/ace/getstream?id=0d6c5e1074080f56709688a7ee3718656ee91215&.mp4
+#EXTINF:-1,Доктор
+http://127.0.0.1:6878/ace/getstream?id=5c6a4639542c43fc4ffbe65907a4e4ccffadc04a&.mp4
+#EXTINF:-1,Домашние животные
+http://127.0.0.1:6878/ace/getstream?id=1c019902d9ef38169b10529540089eb3746ce9c4&.mp4
+#EXTINF:-1,Еда HD
+http://127.0.0.1:6878/ace/getstream?id=53a9e6df67ed31620664bd07ae138bfcb5e12971&.mp4
+#EXTINF:-1,Живая Планета
+http://127.0.0.1:6878/ace/getstream?id=3117acfde0a06572502e63eb025a4497de8ded94&.mp4
+#EXTINF:-1,Загорoдный HD
+http://127.0.0.1:6878/ace/getstream?id=45bf36eb62ecec74dc6a48bc01570d75a93ea191&.mp4
+#EXTINF:-1,Загородная жизнь
+http://127.0.0.1:6878/ace/getstream?id=4eeb8dea3ad035033ca792ed09301d3a180b8e80&.mp4
+#EXTINF:-1,Загородный
+http://127.0.0.1:6878/ace/getstream?id=d88675bea755f9206575c8c14b08ee974fcb3927&.mp4
+#EXTINF:-1,Загородный International HD
+http://127.0.0.1:6878/ace/getstream?id=1b85e27fea01a46f49b3e0cc1e571b045a26d260&.mp4
+#EXTINF:-1,Зима
+http://127.0.0.1:6878/ace/getstream?id=55fd2d613b7b6a7332d80180ebbd5b301b645a25&.mp4
+#EXTINF:-1,Зоо ТВ
+http://127.0.0.1:6878/ace/getstream?id=48730ef172d31578e2f16652424444dc4f79a5b4&.mp4
+#EXTINF:-1,Зоопарк
+http://127.0.0.1:6878/ace/getstream?id=95292a6510acb07cb1fe8244593f16359abf46cb&.mp4
+#EXTINF:-1,История
+http://127.0.0.1:6878/ace/getstream?id=f0fb61bf2812879427dabb752e57b2b54fe0c43d&.mp4
+#EXTINF:-1,Калейдоскоп ТВ
+http://127.0.0.1:6878/ace/getstream?id=a895c40db1dfa0159bfc95b223f299ba1fe5fe06&.mp4
+#EXTINF:-1,Кто есть кто
+http://127.0.0.1:6878/ace/getstream?id=dab865b845f5bef80785fdc7c7c465018f014945&.mp4
+#EXTINF:-1,Кухня ТВ
+http://127.0.0.1:6878/ace/getstream?id=6391622439b8c19c8f8652b76d46103c35f77112&.mp4
+#EXTINF:-1,ЛитКлуб.TV Проза
+http://127.0.0.1:6878/ace/getstream?id=12472f2563196dd83ddfe04103f759aa30039004&.mp4
+#EXTINF:-1,ЛитКлуб.TV Слово
+http://127.0.0.1:6878/ace/getstream?id=8a75bc5014ce05a26fb90936355567749e7ebf80&.mp4
+#EXTINF:-1,ЛитКлуб.TV Стихи
+http://127.0.0.1:6878/ace/getstream?id=2f468c023e7f927669dca602c1d8b39213b76d0f&.mp4
+#EXTINF:-1,Мега
+http://127.0.0.1:6878/ace/getstream?id=fb893dcac6bddbc5b277a8c5c11b48327152139e&.mp4
+#EXTINF:-1,Министерство идей HD
+http://127.0.0.1:6878/ace/getstream?id=1c8b511dfbe596ce71b0ffdb3beef7dadbbf8eb2&.mp4
+#EXTINF:-1,Мир увлечений
+http://127.0.0.1:6878/ace/getstream?id=53b164495139576757e65c53d5ebfac27f2a10a5&.mp4
+#EXTINF:-1,Мой мир
+http://127.0.0.1:6878/ace/getstream?id=415d2d8af625ead12450e9af856774a8f7c5ac36&.mp4
+#EXTINF:-1,Московский образовательный
+http://127.0.0.1:6878/ace/getstream?id=34dffda50ceb61f1b47c1b52a95adb88901b6f0b&.mp4
+#EXTINF:-1,Моя планета
+http://127.0.0.1:6878/ace/getstream?id=4ba15e6c777f04fb614339838a5cfd7b650d4b52&.mp4
+#EXTINF:-1,Нано ТВ
+http://127.0.0.1:6878/ace/getstream?id=fb9ba9f4b1ba10398dc2d0e625ecebf485fc5da0&.mp4
+#EXTINF:-1,Наука
+http://127.0.0.1:6878/ace/getstream?id=b15041bccbe63af23f3d0faadac59acc40f68255&.mp4
+#EXTINF:-1,Наука 2.0
+http://127.0.0.1:6878/ace/getstream?id=dbc7e934cb3446d6b15538b4ad056fc7f4f3535c&.mp4
+#EXTINF:-1,Наша Сибирь HD
+http://127.0.0.1:6878/ace/getstream?id=f2704fc362a076de77f62767968b5ac35f3cdc24&.mp4
+#EXTINF:-1,Неизвестная планета
+http://127.0.0.1:6878/ace/getstream?id=5db331658d5d94eed838ed9248f559accdc2c931&.mp4
+#EXTINF:-1,Открытый мир
+http://127.0.0.1:6878/ace/getstream?id=80ba5099ddaa37a408afacd78644ba74d1379fd9&.mp4
+#EXTINF:-1,Первый вегетарианский
+http://127.0.0.1:6878/ace/getstream?id=118f15d7494104e917d652c05d79d35b330a6600&.mp4
+#EXTINF:-1,Первый образовательный
+http://127.0.0.1:6878/ace/getstream?id=cc257ae163f09c7824ee9389b51c1f07989425b3&.mp4
+#EXTINF:-1,Планета HD
+http://127.0.0.1:6878/ace/getstream?id=cbc5d14f5d81343f311e529ae3c76f3159cd49ac&.mp4
+#EXTINF:-1,Поехали!
+http://127.0.0.1:6878/ace/getstream?id=f606069ecd764b83b2258000a68c9900446d18eb&.mp4
+#EXTINF:-1,Приключения HD
+http://127.0.0.1:6878/ace/getstream?id=d51520fc5388e55b2e63da26c3be0b37937221ce&.mp4
+#EXTINF:-1,Просвещение
+http://127.0.0.1:6878/ace/getstream?id=115bd30b168906c1a7718f53f826d97b8afcd625&.mp4
+#EXTINF:-1,Психология 21
+http://127.0.0.1:6878/ace/getstream?id=aff4749840552161bb83d99c080e77fd06251c95&.mp4
+#EXTINF:-1,Пёс и Ко
+http://127.0.0.1:6878/ace/getstream?id=933066730e50bc01dcb1bcbda9eccd512dabd738&.mp4
+#EXTINF:-1,РЖД ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=52ff12973a7c31682d4eb20fbb4cdb3d60947ece&.mp4
+#EXTINF:-1,Ратник ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=3430c0543141a9e23adad3e3ee0ccfebdf34a62d&.mp4
+#EXTINF:-1,Россия К
+http://127.0.0.1:6878/ace/getstream?id=2e2828a79d831d15c3c5c1e8752622f89a5f4c36&.mp4
+#EXTINF:-1,Россия К (+4)
+http://127.0.0.1:6878/ace/getstream?id=3bdcba989e23890ecb74bfe0fa58e7bd60278bcb&.mp4
+#EXTINF:-1,Рубль ТВ
+http://127.0.0.1:6878/ace/getstream?id=02f0ad9750e1cc17ae9e1053ac3cf7957c09608e&.mp4
+#EXTINF:-1,Сделано в Кузбассе
+http://127.0.0.1:6878/ace/getstream?id=424740c87615c3f0db08f3a1f5c822a3efa3a8f7&.mp4
+#EXTINF:-1,Синергия ТВ
+http://127.0.0.1:6878/ace/getstream?id=bf4aaa0f97348c59630f0e6f4e6589acda5ca3ce&.mp4
+#EXTINF:-1,Славянскiй МIРЪ HD
+http://127.0.0.1:6878/ace/getstream?id=053b45460ede4ba831934305a9c22adbe7b4258f&.mp4
+#EXTINF:-1,Совершенно секретно
+http://127.0.0.1:6878/ace/getstream?id=3dfdc4732af4a072ab12acbb20106a3bc3420583&.mp4
+#EXTINF:-1,ТВ ТУР HD
+http://127.0.0.1:6878/ace/getstream?id=52525118d08446281e83708ed65d117696ab0d61&.mp4
+#EXTINF:-1,Твой Дом
+http://127.0.0.1:6878/ace/getstream?id=397a518f42436acec4d0892617f6b1eb99798484&.mp4
+#EXTINF:-1,Теледом HD
+http://127.0.0.1:6878/ace/getstream?id=4b191ba1b0644aa6392ac116c206e88b54af71dd&.mp4
+#EXTINF:-1,Телекафе
+http://127.0.0.1:6878/ace/getstream?id=453910759b577d159f37d26cdaf4451d2bba44a3&.mp4
+#EXTINF:-1,Телепутешествия
+http://127.0.0.1:6878/ace/getstream?id=eabccd0761a4fc7fb8487be06ddea8f9e8daa479&.mp4
+#EXTINF:-1,Терра
+http://127.0.0.1:6878/ace/getstream?id=4c6fc4e558c9c26f5329a16414ce9905ce84f9db&.mp4
+#EXTINF:-1,Тномер
+http://127.0.0.1:6878/ace/getstream?id=c8d08423ca6f4707ee5819fe1d6d4a641c01cdb3&.mp4
+#EXTINF:-1,Усадьба ТВ
+http://127.0.0.1:6878/ace/getstream?id=fb9b80fe3bbc4e63c735e0075e50284656012cfb&.mp4
+#EXTINF:-1,Успех ТВ
+http://127.0.0.1:6878/ace/getstream?id=da8075329314704e4c851427336c4df61c16bd85&.mp4
+#EXTINF:-1,Фауна (Украина)
+http://127.0.0.1:6878/ace/getstream?id=caa24100957ffdd483d2a992bf9777abd27a0b1a&.mp4
+#EXTINF:-1,Эврика
+http://127.0.0.1:6878/ace/getstream?id=d6cd6dc943d5ccc5d10f54408c5a053de8413509&.mp4
+#EXTINF:-1,Эко-ТВ
+http://127.0.0.1:6878/ace/getstream?id=59ab40c95c03cb9644b9439d331b0f0b7c897689&.mp4
+#EXTINF:-1,ЮУРГУ ТВ (Челябинск)
+http://127.0.0.1:6878/ace/getstream?id=e05e0989371ff843eb713b746e59eafbea892049&.mp4
+#EXTINF:-1,AD Sport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1749eee19b1f238736c5eda470d19b2b01115efd&.mp4
+#EXTINF:-1,AD Sport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=f9fefee84e12f354adc677ac05c42a6096cc446b&.mp4
+#EXTINF:-1,Al Kass Sports 5
+http://127.0.0.1:6878/ace/getstream?id=32f6554c008557605e806353e1ce828b8b3173d3&.mp4
+#EXTINF:-1,AlKass Sports 2
+http://127.0.0.1:6878/ace/getstream?id=1b834adedc98e613412af2020d4ce235036d421e&.mp4
+#EXTINF:-1,AlKass Sports One
+http://127.0.0.1:6878/ace/getstream?id=b2a1d94d93543de466147314e9f33d136593605c&.mp4
+#EXTINF:-1,AlKass Sports Online
+http://127.0.0.1:6878/ace/getstream?id=fe2abf7a3fe22beacc8bb7a0be64a18414d945ee&.mp4
+#EXTINF:-1,Bursaspor TV !
+http://127.0.0.1:6878/ace/getstream?id=41496d35636851550c8d7ae57686b06e53e88587&.mp4
+#EXTINF:-1,C More Hockey
+http://127.0.0.1:6878/ace/getstream?id=f5a7feaeef15566ab6448f0919a9f70511d95641&.mp4
+#EXTINF:-1,CBC Sport HD
+http://127.0.0.1:6878/ace/getstream?id=d1ae8a89f2c1004b5e2a7b954a92a42cbd4e1a95&.mp4
+#EXTINF:-1,CDO
+http://127.0.0.1:6878/ace/getstream?id=fe2540b120b8705f12607ed6882788a562059e78&.mp4
+#EXTINF:-1,DSports HD
+http://127.0.0.1:6878/ace/getstream?id=98b9ff746feb545da65a88e3ad648189c229f575&.mp4
+#EXTINF:-1,Dota2 Film TV
+http://127.0.0.1:6878/ace/getstream?id=15dc008ea5e42d9a44060c90cd10afd047d8abee&.mp4
+#EXTINF:-1,Dubai Sport TV
+http://127.0.0.1:6878/ace/getstream?id=868dcb241ec995bfba2a2dead2602223119c8b5b&.mp4
+#EXTINF:-1,Dubai Sports 2
+http://127.0.0.1:6878/ace/getstream?id=7e9db62da245c85fce9b7c05ae982b54a90a90ba&.mp4
+#EXTINF:-1,Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=0041da58bdfe80128c63bb06534ea673c435dcb2&.mp4
+#EXTINF:-1,Eurosport 1 Deutschland
+http://127.0.0.1:6878/ace/getstream?id=cae4722e082a44d7f3012635e914080a4dae965f&.mp4
+#EXTINF:-1,Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=0875bcaf99c5a8cb7c6d001e8e9f57e04a7f0cce&.mp4
+#EXTINF:-1,Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=104478701714139575822fbb3c39e947d8101edc&.mp4
+#EXTINF:-1,Eurosport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=db1019b9f8d4de18918d007644d918cdd21d912a&.mp4
+#EXTINF:-1,Extreme Sports
+http://127.0.0.1:6878/ace/getstream?id=c9d23c18c26ca17792395499347d6ece39dd50aa&.mp4
+#EXTINF:-1,Fast and FunBox
+http://127.0.0.1:6878/ace/getstream?id=21e3a19d04a585b077751032f4581b9563745e12&.mp4
+#EXTINF:-1,Fight Time HD
+http://127.0.0.1:6878/ace/getstream?id=ba3e9b3402d6039a83be0bccf2b57144153e0450&.mp4
+#EXTINF:-1,FightBox HD
+http://127.0.0.1:6878/ace/getstream?id=ecedc2c1d00b4f8a69e7dc7eb0a4bded1c2bcde4&.mp4
+#EXTINF:-1,Golf Channel Polska HD
+http://127.0.0.1:6878/ace/getstream?id=cd92cc67425899bc15a584532713f50214b6cc39&.mp4
+#EXTINF:-1,Idman TV
+http://127.0.0.1:6878/ace/getstream?id=c3c2d6678b08619c8002cc9e66c9b6f4d3abfdc0&.mp4
+#EXTINF:-1,Max Sport 1
+http://127.0.0.1:6878/ace/getstream?id=90376e75d76523fd38d21ddadee2bc6b66180246&.mp4
+#EXTINF:-1,Max Sport 2
+http://127.0.0.1:6878/ace/getstream?id=92ab35a95684a08e27088fd78e659459493752aa&.mp4
+#EXTINF:-1,MostVideo.TV HD
+http://127.0.0.1:6878/ace/getstream?id=5f84584bbb14c6b2742e2a7371cec7fb8d8815f3&.mp4
+#EXTINF:-1,Nautical Channel HD
+http://127.0.0.1:6878/ace/getstream?id=d46287c28038b134de5179c62ab4938637337097&.mp4
+#EXTINF:-1,Olympic Channel HD
+http://127.0.0.1:6878/ace/getstream?id=e6678da57bcbe46f50fecfdfa5373336e07782c9&.mp4
+#EXTINF:-1,Polsat Sport
+http://127.0.0.1:6878/ace/getstream?id=5e5b28b15ddf3e38d6c1471c2cf02ed87787aa11&.mp4
+#EXTINF:-1,Polsat Sport Extra
+http://127.0.0.1:6878/ace/getstream?id=1c50ab36684b1a5c5803caf073abe9ced9271269&.mp4
+#EXTINF:-1,Rai Sport
+http://127.0.0.1:6878/ace/getstream?id=c897146db1b6329b681ada1f2713f1091153f5d1&.mp4
+#EXTINF:-1,Real Madrid TV (English)
+http://127.0.0.1:6878/ace/getstream?id=6a87385c4b7f9f786d2697c7c68740fab8258791&.mp4
+#EXTINF:-1,Real Madrid TV (Spanish)
+http://127.0.0.1:6878/ace/getstream?id=c5e4a5e918f0d228d3fa22706579ebe10350894c&.mp4
+#EXTINF:-1,SEVILLA FC TV
+http://127.0.0.1:6878/ace/getstream?id=76523b2956afe6d969217a0b68ee187a4438d905&.mp4
+#EXTINF:-1,Sharjah Sports TV
+http://127.0.0.1:6878/ace/getstream?id=a26b4930b93d638341d93476eb3b6ee3e1edd029&.mp4
+#EXTINF:-1,Sky Sport F1 HD (Italy)
+http://127.0.0.1:6878/ace/getstream?id=3d02f3def5d9f75550e2132e96bb84a1f9467b6d&.mp4
+#EXTINF:-1,Sky Sport News HD Deutschland
+http://127.0.0.1:6878/ace/getstream?id=8e9cb1d74c252698e0055fcde5b436b34b56df4c&.mp4
+#EXTINF:-1,Sport Klub Polska HD
+http://127.0.0.1:6878/ace/getstream?id=b31a7658e41b5374e6595d115014dfb6e48ebd6f&.mp4
+#EXTINF:-1,Sportacentrs.com TV (Latvia)
+http://127.0.0.1:6878/ace/getstream?id=7f0bb21d7fe6cfdfbc02abee7080f491c5a9c0fd&.mp4
+#EXTINF:-1,Super Tennis HD
+http://127.0.0.1:6878/ace/getstream?id=b7a580e113832cbbf79b38b71c375789ed6d038c&.mp4
+#EXTINF:-1,TVP Sport HD
+http://127.0.0.1:6878/ace/getstream?id=251759195db6f45f3ef821dbe0a47991f9a0d422&.mp4
+#EXTINF:-1,UEFA Channel
+http://127.0.0.1:6878/ace/getstream?id=25cdb6a77a6784d69f672786f52b15767b8ed605&.mp4
+#EXTINF:-1,Беларусь 5
+http://127.0.0.1:6878/ace/getstream?id=43d1b1c8a59060d2e10105c814b2e8ca1ba40938&.mp4
+#EXTINF:-1,Еurosport Gold
+http://127.0.0.1:6878/ace/getstream?id=3d35e17457728630f412908e029cfdd4fd307e9c&.mp4
+#EXTINF:-1,Конный мир
+http://127.0.0.1:6878/ace/getstream?id=ce2aba4eda2105dd03047d5c076364f78c6fc6f8&.mp4
+#EXTINF:-1,Конный мир HD
+http://127.0.0.1:6878/ace/getstream?id=89c998ffe27c486b582fed51c2f35a54fb9fe188&.mp4
+#EXTINF:-1,Моторспорт ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=3eddc35904816099608a62ce85e9fde374042d7c&.mp4
+#EXTINF:-1,СИЛА ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=114ecce897f5131d5dc7fee0910600d73011f4b3&.mp4
+#EXTINF:-1,Сетанта Спорт
+http://127.0.0.1:6878/ace/getstream?id=e02c9f657d0e3cd295d2811b8abe026ebb0b181d&.mp4
+#EXTINF:-1,Сетанта Спорт плюс
+http://127.0.0.1:6878/ace/getstream?id=c49d21445f91d0bc46f20cbad8e27b4a69a5a531&.mp4
+#EXTINF:-1,Точка Отрыва
+http://127.0.0.1:6878/ace/getstream?id=f6265b2fc02b807078ed9b6d85e035b778ca4a2e&.mp4
+#EXTINF:-1,Футбoл HD
+http://127.0.0.1:6878/ace/getstream?id=4f31257f680ff6dfef95616a27be1c5ee527f9a4&.mp4
+#EXTINF:-1,Футбол
+http://127.0.0.1:6878/ace/getstream?id=6f870f7da02ddf20581ea0d442db6e87346ac6b7&.mp4
 
 #EXTINF:-1 group-title="Noxbit",****** Noxbit:Super Tennis HD *******
 http://127.0.0.1:6689/stream?cid=4227
