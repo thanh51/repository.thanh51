@@ -18,6 +18,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226777/index.m3u8
 #EXTINF:-1 group-title="Sports",NBC GOLF
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 1
+http://185.93.3.84:5000/play/a01v
 #EXTINF:-1 group-title="Sports",Bein Sports 2
 http://185.93.3.84:5000/play/a01w
 #EXTINF:-1 group-title="Sports",Bein Sports 3
@@ -29,9 +31,6 @@ http://185.93.3.84:5000/play/a02e
 #EXTINF:-1 group-title="Sports",Eurosport 1
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1 group-title="Sports",DUBAI Sport 1
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI Sport 2
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 group-title="Sports",EURO SPORT 1
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1 group-title="Sports",Sony ESPN
@@ -64,196 +63,62 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms2.airtel.tv/wh7f454c46tw3145810737_1488862081/PLTV/88888888/224/3221225789/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Neo Sports
 http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221225791/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:-1 group-title="Sports",AD SPORT 1
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
-#EXTINF:-1 group-title="Sports",ALL SPORTS 2
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
-#EXTINF:-1 group-title="Sports",Ad Sport2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-title="Sports",Ad Sporte Xtra
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:-1 group-title="Sports",Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 group-title="Sports",Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 group-title="Sports",Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-title="Sports",Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-title="Sports",Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 group-title="Sports",Al SHARJAH SPORT
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b625000.m3u8
-#EXTINF:-1 group-title="Sports",All Sports
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="Sports",BARCA TV
-http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports",CDO PREMIUM
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Claro Sport
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI RACING
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI SPORTS 2
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI Sport 1
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI Sport 2
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1 group-title="Sports",Dubai Sports 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1 group-title="Sports",ESPN BRAZIL
-http://archive.org/download/uitgui7t/uitgui7t.mp4
-#EXTINF:-1 group-title="Sports",ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 group-title="Sports",ESPN PLUS HD
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(05)/index.m3u8
-#EXTINF:-1 group-title="Sports",ESPN PLUS SD
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",EURO SPORT 1
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Sports",Espn Ar
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORT 2 SD
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORT 3.3
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORT 3.4
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(04)/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORT 3.5
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(05)/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORT SD
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS 2
-http://45.126.83.51/uq2663/h/h20/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS 2
-http://45.126.83.51/uq2663/h/h25/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS 3
-http://45.126.83.51/uq2663/h/h26/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS 3
-http://45.126.83.51/uq2663/h/h21/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORTS 2
-http://45.126.83.51/uq2663/h/h19/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX-SPORTE
-http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
-#EXTINF:-1 group-title="Sports",Fight time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 group-title="Sports",HIHD SPORT
-http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MLB GRANDES LIGAS
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-#EXTINF:-1 group-title="Sports",MLB HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-title="Sports",OMAN SPORT
-http://38.96.148.30:1935/live/omantv2/chunklist_w1515618195.m3u8
-#EXTINF:-1 group-title="Sports",Premiere
-http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
-#EXTINF:-1 group-title="Sports",Premiere
-http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
-#EXTINF:-1 group-title="Sports",Premiere
-http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
-#EXTINF:-1 group-title="Sports",Premiere
-http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
-#EXTINF:-1 group-title="Sports",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8
-#EXTINF:-1 group-title="Sports",SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Sevilla FC | SD
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 group-title="Sports",Sportv 2
-http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
-#EXTINF:-1 group-title="Sports",TV Sevilla FC ESP
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8?DantasIPTV
-#EXTINF:-1 group-title="Sports",TV2 Sport
-http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
+#EXTINF:-1 group-title="Sports",Super Tennis HD
+http://127.0.0.1:6689/stream?cid=4227
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1
+http://127.0.0.1:6689/stream?cid=3679
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD
+http://127.0.0.1:6689/stream?cid=3569
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 1
+http://127.0.0.1:6689/stream?cid=3569
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 2
+http://127.0.0.1:6689/stream?cid=3569
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 3
+http://127.0.0.1:6689/stream?cid=3569
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2
+http://127.0.0.1:6689/stream?cid=3671
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD
+http://127.0.0.1:6689/stream?cid=3570
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3
+http://127.0.0.1:6689/stream?cid=3681
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD
+http://127.0.0.1:6689/stream?cid=3571
+#EXTINF:-1 group-title="Sports",Футбoл HD 
+http://127.0.0.1:6689/stream?cid=6965
+#EXTINF:-1 group-title="Sports",Футбол
+http://127.0.0.1:6689/stream?cid=4837
+#EXTINF:-1 group-title="Sports",Футбол 1 (Украина)
+http://127.0.0.1:6689/stream?cid=3895
+#EXTINF:-1 group-title="Sports",Футбол 1 HD
+http://127.0.0.1:6689/stream?cid=4043
+#EXTINF:-1 group-title="Sports",Футбол 2 (Украина)
+http://127.0.0.1:6689/stream?cid=3779
+#EXTINF:-1 group-title="Sports",Футбол 2 HD
+http://127.0.0.1:6689/stream?cid=4048
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
 http://persik.by/stream/1418/252987/346.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
-http://persik.by/stream/1418/252987/33.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
-http://persik.by/stream/3903/293564/346.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
-http://persik.by/stream/3903/293564/33.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
-http://persik.by/stream/8460/291680/346.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1-hd.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1 HD
 http://persik.by/stream/8460/291680/10266.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1-hd.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1 HD
-http://persik.by/stream/1418/252987/10266.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1-hd.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1 HD
-http://persik.by/stream/3903/293564/10266.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2
 http://persik.by/stream/8460/291680/10217.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2
-http://persik.by/stream/1418/252987/10217.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2
-http://persik.by/stream/2746/289069/10267.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2
-http://persik.by/stream/3903/293564/10217.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2-hd.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2 HD
 http://persik.by/stream/3903/293564/10267.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2-hd.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2 HD
-http://persik.by/stream/1418/252987/10267.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-2-hd.jpg" tvg-id="Матч! Футбол 2",Матч! Футбол 2 HD
-http://persik.by/stream/8460/291680/10267.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-3.jpg" tvg-id="Матч! Футбол 3",Матч! футбол 3
 http://persik.by/stream/8460/291680/10218.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-3.jpg" tvg-id="Матч! футбол 3",Матч! Футбол 3
-http://persik.by/stream/3903/293564/10218.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-3-hd.jpg" tvg-id="Матч! футбол 3",Матч! Футбол 3 HD
 http://persik.by/stream/8460/291680/10268.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-3-hd.jpg" tvg-id="Матч! футбол 3",Матч! Футбол 3 HD
-http://persik.by/stream/1418/252987/10268.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-3-hd.jpg" tvg-id="Матч! футбол 3",Матч! Футбол 3 HD
-http://persik.by/stream/3903/293564/10268.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match_premier.png" tvg-id="Наш футбол",Наш футбол
 http://persik.by/stream/8460/291680/10264.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match_premier.png" tvg-id="Наш футбол",Наш футбол
-http://persik.by/stream/1418/252987/10264.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match_premier.png" tvg-id="Наш футбол",Наш футбол
-http://persik.by/stream/1418/252987/284.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match_premier.png" tvg-id="Наш футбол",Наш футбол
-http://persik.by/stream/3903/293564/10264.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match_premier.png" tvg-id="Наш футбол",Наш футбол HD
 http://persik.by/stream/1418/252987/10294.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match_premier.png" tvg-id="Наш футбол",Наш футбол HD
-http://persik.by/stream/3903/293564/10294.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match.jpg" tvg-id="Матч ТВ",Матч ТВ
 http://persik.by/stream/1418/252987/1077.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match.jpg" tvg-id="Матч ТВ",Матч ТВ
-http://persik.by/stream/1418/252987/276.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match.jpg" tvg-id="Матч ТВ",Матч ТВ
-http://persik.by/stream/3903/293564/1077.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match.jpg" tvg-id="Матч ТВ",Матч ТВ
-http://persik.by/stream/3903/293564/276.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match.jpg" tvg-id="Матч ТВ",Матч ТВ
-http://persik.by/stream/8460/291680/276.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match.jpg" tvg-id="Матч ТВ",Матч ТВ
-http://persik.by/stream/2944/263250/276.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-igra.jpg" tvg-id="Матч! Игра",Матч! Игра
 http://persik.by/stream/3903/293564/10270.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-igra.jpg" tvg-id="Матч! Игра",Матч! Игра
-http://persik.by/stream/1418/252987/10270.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-igra.jpg" tvg-id="Матч! Игра",Матч! Игра
-http://persik.by/stream/8460/291680/10270.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-arena.jpg" tvg-id="Матч! Арена",Матч! Арена
 http://persik.by/stream/1418/252987/724.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-arena.jpg" tvg-id="Матч! Арена",Матч! Арена
-http://persik.by/stream/1418/252987/261.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-arena.jpg" tvg-id="Матч! Арена",Матч! Арена
-http://persik.by/stream/2944/263250/261.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-arena.jpg" tvg-id="Матч! Арена",Матч! Арена
-http://persik.by/stream/8460/291680/261.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-arena.jpg" tvg-id="Матч! Арена",Матч! Арена
-http://persik.by/stream/3903/293564/724.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-arena.jpg" tvg-id="Матч! Арена",Матч! Арена
-http://persik.by/stream/3903/293564/261.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-nash-sport.jpg" tvg-id="Матч! Наш Спорт",Матч! Наш Спорт
 http://persik.by/stream/8460/291680/10271.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-nash-sport.jpg" tvg-id="Матч! Наш Спорт",Матч! Наш спорт
-http://persik.by/stream/3903/293564/10271.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-nash-sport.jpg" tvg-id="Матч! Наш Спорт",Матч! Наш спорт
-http://persik.by/stream/1418/252987/10271.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.arax.md/assets/channels/228.png" tvg-id="Setanta Sports",Setanta Sports
 http://persik.by/stream/1418/252987/10313.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.arax.md/assets/channels/228.png" tvg-id="Setanta Sports",Setanta Sports HD
@@ -264,50 +129,11 @@ http://persik.by/stream/1418/252987/10315.m3u8
 http://persik.by/stream/1418/252987/10316.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
 http://persik.by/stream/8460/291680/595.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
-http://persik.by/stream/2944/263250/595.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
-http://persik.by/stream/2887/57172/595.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
-http://persik.by/stream/1418/252987/310.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-boets.jpg" tvg-id="Матч! Боец",Матч! Боец
-http://persik.by/stream/1418/252987/595.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/auto-plus.jpg",Авто плюс
-http://persik.by/stream/1418/252987/311.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/avto24.jpg" tvg-id="Авто 24",Авто 24
-http://persik.by/stream/1418/252987/10004.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/avto24.jpg" tvg-id="Авто 24",Авто 24
-http://persik.by/stream/1418/252987/924.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg" tvg-id="Extreme Sports",Extreme Sports
-http://persik.by/stream/3903/293564/99.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg" tvg-id="Extreme Sports",Extreme Sports
-http://persik.by/stream/3903/293564/10309.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg" tvg-id="Extreme Sports",Extreme Sports
-http://persik.by/stream/1418/252987/99.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg" tvg-id="Extreme Sports",Extreme Sports
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg" tvg-id="Extreme Sports",Extreme Sports
-http://persik.by/stream/8460/291680/10309.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/khl-tv.jpg" tvg-id="КХЛ ТВ",КХЛ ТВ
-http://persik.by/stream/1418/252987/485.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/khl-tv.jpg" tvg-id="КХЛ ТВ",КХЛ ТВ
-http://persik.by/stream/1418/252987/604.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.ntvplus.ru/files/image/01/17/14/channel!ijn.png" tvg-id="КХЛ HD",КХЛ HD
-http://persik.by/stream/1418/252987/10242.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://worldsport.ws/uploads/posts/2018-01/thumbs/1516721063_20.jpg",Спорт 1 (Украина)
-http://persik.by/stream/1418/252987/270.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://allfootballvideo.com/images/channel-logo/sport%202%20ukr.png",Спорт 2 (Украина)
-http://persik.by/stream/1418/252987/144.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://allfootballvideo.com/images/channel-logo/sport%202%20ukr.png",Спорт 2 (Украина)
-http://persik.by/stream/1418/252987/309.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://allfootballvideo.com/images/channel-logo/sport%202%20ukr.png",Спорт 2 (Украина)
-http://persik.by/stream/1418/252987/91.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Fox Sports 1 HD
-http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",Fox Sports 2 HD
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",TVRI Sports
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+#EXTINF:-1 group-title="Sports",Sports 24/7
+https://tinyurl.com/y9knarf3
+
 
 #EXTINF:-1 group-title="VietTV",VTV1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
@@ -549,7 +375,6 @@ http://tranvinh.xyz/play/thvli.php?id=vinhlong1hd
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 2" tvg-logo="http://netxua.ml/images/icon-channel/vinhlong2hd.png",Vĩnh Long 2 HD
 http://tranvinh.xyz/play/thvli.php?id=vinhlong2hd
-
 
 #EXTINF:-1 group-title="VietHN" tvg-logo="",Sai Gon TV
 https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
@@ -3102,28 +2927,88 @@ http://103.89.176.45:8278/Channel8/playlist.m3u8
 #EXTINF:-1 group-title="Singapore",Channel OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 
-#EXTINF:-1 group-title="Thailand",Workpoint HD
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s1
 https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Thailand",Workpoint TV
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint HD s2
+https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s3
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
-#EXTINF:-1 group-title="Thailand",Astro Arena
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/ii/180826093455.jpg",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="Thailand",Astro SuperSport1
-http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
-#EXTINF:-1 group-title="Thailand",Astro SuperSport2
-http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
-#EXTINF:-1 group-title="Thailand",Astro SuperSport3
-http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
 #EXTINF:-1 group-title="Thailand",DUBAI Sport 1
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 group-title="Thailand",DUBAI Sport 2
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 group-title="Thailand",EURO SPORT 1
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Thailand",FOX Sports HD
-http://191.96.38.213:443/free54/0x777_foxsport1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",FOX SPORT 3
-http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand",PPTV
+http://27.254.130.64/live01/ch2.m3u8?p=pptv|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",TRUE4U
+http://27.254.130.64/live01/ch4.m3u8?p=true4u|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CH3 HD
+http://27.254.130.64/live01/ch0.m3u8?p=3hd|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CH7 HD
+http://27.254.130.64/live01/ch1.m3u8?p=7hd|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",MONO29
+http://27.254.130.64/live01/ch3.m3u8?p=mono29|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=tnn24|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CH5 HD
+http://27.254.130.64/live01/ch6.m3u8?p=5hd1|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",WORKPIONT
+http://27.254.130.64/live01/ch7.m3u8?p=workpiont|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",THAIRAHT
+http://27.254.130.64/live01/ch9.m3u8?p=thairaht|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",ONE31
+http://27.254.130.64/live01/ch10.m3u8?p=one31|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",GMM25
+http://27.254.130.64/live01/ch11.m3u8?p=gmm25|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",NOW26
+http://27.254.130.64/live01/ch12.m3u8?p=now26|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",AMARIN34
+http://27.254.130.64/live01/ch13.m3u8?p=amarin34|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",NBT HD
+http://27.254.130.64/live01/ch14.m3u8?p=nbt hd2|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CH2
+http://27.254.130.64/live01/ch15.m3u8?p=ch2|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",DARADAILY
+http://27.254.130.64/live01/ch16.m3u8?p=daradaily|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CRTOONCLUB
+http://27.254.130.64/live01/ch17.m3u8?p=cartoonclub|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",BOOMERANG
+http://27.254.130.64/live01/ch18.m3u8?p=boomerang|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",M CHANNEL
+http://27.254.130.64/live01/ch19.m3u8?p=m channel|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",TPBS HD
+http://27.254.130.64/live02/ch0.m3u8?p=tpbshd|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",3 FAMILY
+http://27.254.130.64/live02/ch1.m3u8?p=3family|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CH8
+http://27.254.130.64/live02/ch2.m3u8?p=ch8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand", 3SD 28
+http://27.254.130.64/live02/ch3.m3u8?p=3sd 28|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",MCOT FAMILY
+http://27.254.130.64/live02/ch4.m3u8?p=mcot family|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",SPING NEW
+http://27.254.130.64/live02/ch5.m3u8?p=spingnew|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",VOICE
+http://27.254.130.64/live02/ch6.m3u8?p=voice|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",MCOT HD
+http://27.254.130.64/live02/ch7.m3u8?p=mcot hd30|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",NEWTV
+http://27.254.130.64/live99/47/newtv.m3u8?p=new tv|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",BRIGHT TV
+http://27.254.130.64/live99/47/brighttv.m3u8?p=bright tv|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",TPTV
+http://27.254.130.64/live99/47/tptv.m3u8?p=tptv|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",CAT HD
+http://27.254.130.64/live99/47/cat.m3u8?p=cat hd|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",ZEENUNG
+http://27.254.130.64/live99/46/zeenung.m3u8?p=zeenung|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Thailand",SERIES CHANNEL
+http://27.254.130.64/live99/46/youchannel.m3u8?p=series channel
+#EXTINF:-1 group-title="Thailand",MONY
+http://27.254.130.64/live99/46/money.m3u8?p=mony|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Thailand",ช่อง 3 สำรอง
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Thailand",3HD
@@ -3174,8 +3059,6 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://real5.atimemedia.com/live/rtmp:greenlive.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Thailand",M Channel
 http://203.151.83.104:1935/tdlive/tdlivest/chunklist_w1419804927.m3u8
-#EXTINF:-1 group-title="Thailand",NBA TV
-http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thailand",NBTV
 http://111.223.33.251:1935/live/rich.360p/playlist.m3u8
 #EXTINF:-1 group-title="Thailand",NEW TV
@@ -3210,8 +3093,6 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 http://ch3-33.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="Thailand",Thairath tv
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thailand",Warner TV
-https://m88.intersteam-idc.com/live54/0x777_warnertv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thailand",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:-1 group-title="Thailand",ddtv
@@ -3224,6 +3105,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://202.142.212.160/ch2-hi/index.m3u8
 #EXTINF:-1 group-title="Thailand",สุวรรณภูมิทีวี
 http://203.146.129.233:1935/live/suwan/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Malaysia",ASTRO SPORT 1
 http://playbackn14.aotg-video.astro.com.my/CH1/master_AG1_8.m3u8
