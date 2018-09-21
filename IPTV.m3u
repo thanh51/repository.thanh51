@@ -123,15 +123,15 @@ http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&
 EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 44
 http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
 #EXTINF:-1 group-title="Sports",Bein Sports 1
-http://185.93.3.84:5000/play/a01v
+http://185.93.3.84:5000/play/a01v|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Bein Sports 2
-http://185.93.3.84:5000/play/a01w
+http://185.93.3.84:5000/play/a01w|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Bein Sports 3
-http://185.93.3.84:5000/play/a01t
+http://185.93.3.84:5000/play/a01t|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Bein Sports 4
-http://185.93.3.84:5000/play/a01u
+http://185.93.3.84:5000/play/a01u|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Bein Sports 5
-http://185.93.3.84:5000/play/a02e
+http://185.93.3.84:5000/play/a02e|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Noxbit",Super Tennis HD
 http://127.0.0.1:6689/stream?cid=4227
 #EXTINF:-1 group-title="Noxbit",Матч! Футбол 1
@@ -1933,5 +1933,20 @@ http://91.149.172.100:80/channel?id=150&u=demo&p=demo
 #EXTINF:-1 group-title="Russia",Детский
 http://91.149.172.100:80/channel?id=151&u=demo&p=demo
 
-
+#EXTINF:-1,************* KÊNH MAC *****************
+http://
+#EXTINF:-1 tvg-id="Sports Fixtures Weekly" tvg-link="" tvg-name="Sports Fixtures Weekly" tvg-logo="" group-title="deviceMac",Sports Fixtures Weekly
+http://163.172.15.141:9732/live?channelId=327&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 tvg-id="bein france 1" tvg-link="" tvg-name="bein france 1" tvg-logo="" group-title="deviceMac",bein france 1 
+http://163.172.105.25:80/live?channelId=175&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 tvg-id="bein france 2" tvg-link="" tvg-name="bein france 2" tvg-logo="" group-title="deviceMac",bein france 2 
+http://163.172.105.25:80/live?channelId=176&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 tvg-id="bein france 3" tvg-link="" tvg-name="bein france 3" tvg-logo="" group-title="deviceMac",bein france 3 
+http://163.172.105.25:80/live?channelId=177&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="" tvg-name="beINSport 1 HD" tvg-logo="" group-title="deviceMac",beINSport 1 HD 
+http://163.172.105.25:80/live?channelId=178&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="" tvg-name="beINSport 2 HD" tvg-logo="" group-title="deviceMac",beINSport 2 HD 
+http://163.172.105.25:80/live?channelId=179&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="" tvg-name="beINSport 3 HD" tvg-logo="" group-title="deviceMac",beINSport 3 HD 
+http://163.172.105.25:80/live?channelId=180&deviceMac=00:1A:79:37:C2:FD&uid=4302|User-Agent=ExoPlayerDemo/4.4
 
