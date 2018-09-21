@@ -325,6 +325,14 @@
 	<fanart>https://s1-ssl.dmcdn.net/ocCfl/526x297-UJc.jpg</fanart>
 </item>
 
+
+<item>
+<title>Thúy Nga 122: Duyên Phận</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/11_DJbPX99Z_Ex1B3OC57paNrBViGoJZf/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn122.jpg</thumbnail>
+</item>
+
+
 <item>
 	<title>[COLOR blue]Paris by night 122 [/COLOR][COLOR red]Duyên Phận[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
@@ -433,6 +441,14 @@
 	<fanart>https://s2-ssl.dmcdn.net/knDln/526x297-RPS.jpg</fanart>
 </item>
 
+
+<item>
+<title>Thúy Nga 121: Tết Đinh Dậu 2017</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/1bkBYJ89aC2VCLRJ4YImQFRA05-oNCiC_/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn121.jpg</thumbnail>
+</item>
+
+
 <item>
 	<title>[COLOR blue]Paris by night 121 [/COLOR][COLOR red]Song ca nhạc vàng[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
@@ -522,6 +538,14 @@
 	<thumbnail>https://s1-ssl.dmcdn.net/hAbfT/526x297-f37.jpg</thumbnail>
 	<fanart>https://s1-ssl.dmcdn.net/hAbfT/526x297-f37.jpg</fanart>
 </item>
+
+
+<item>
+<title>Thúy Nga 120: Còn Chút Gì Để Nhớ</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.vn/open?id=1kUqwE7YkjLuOperpK7laeaIs4Bp2Wd2-/view&amp;mode=play_link</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/THUYNGA/tn120.jpg</thumbnail>
+</item>
+
 
 <item>
 	<title>[COLOR blue]Paris by night 120 [/COLOR][COLOR red]Còn Chút Gì Để Nhớ[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
@@ -991,7 +1015,6 @@
 <thumbnail>http://media.kenhvideo.com/public/media/media/thumb/19-07-2013/adf_lage.jpg</thumbnail>
 </item>
 
-
 <item>
 	<title>[COLOR pink]ASIA 82: Phạm Đình Chương [/COLOR][COLOR red]Mộng Dưới Hoa HD 2018[/COLOR][COLOR=cyan]Part 1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
@@ -1002,7 +1025,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>https://www.dailymotion.com/video/x6mjs65</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -1019,7 +1042,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>https://www.dailymotion.com/video/x6mjtry</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -1036,7 +1059,7 @@
 		</regex>
 		<regex>
 			<name>file</name>
-			<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+			<expres>"1080":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
 			<page>https://www.dailymotion.com/video/x6mmv9p</page>
 			<referer>http://www.dailymotion.com/</referer>
 		</regex>
@@ -1120,6 +1143,12 @@
 </item>
 
 <item>
+<title>Asia 79</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwNUstdnpTZ2pnSUE&amp;mode=play_link</link>
+<thumbnail>https://lh5.googleusercontent.com/proxy/MDAaXjAsaeMUljbNlqb87Kqr-VSd38KvrRfJnxhoV_gFMPNVUbZ6Sl-Zamd1kcgBlghLdjTmv5P1rYML4B_VCAy3ZavTAZFllJSf8s_uK9YB=s0-d</thumbnail>
+</item>
+
+<item>
 	<title>[COLOR blue]Asia 79 [/COLOR][COLOR red]Còn Mãi Trong Tim 2017 [/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
 	<link>$doregex[mp4]</link>
 		<regex>
@@ -1171,6 +1200,12 @@
 	<fanart></fanart>
 </item>
 
+
+<item>
+<title>Asia 78</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwYlFqb0huZ2xNd1U&amp;mode=play_link</link>
+<thumbnail>https://c1.staticflickr.com/9/8245/29534632026_1f906a9297_b.jpg</thumbnail>
+</item>
 
 <item>
 	<title>[COLOR cyan]Asia 78 [/COLOR][COLOR blue]Tình Yêu &amp; Thân Phận[/COLOR][COLOR=blue]  Part 1[/COLOR]</title>
@@ -1225,10 +1260,31 @@
 </item>
 
 <item>
+<title>Asia 77</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hza3R2Y01ycjdXWms&amp;mode=play_link</link>
+<thumbnail>http://www.phim.media/temp/upload/images/phim/phim/lien-khuc-mua-xuan-asia-2015.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR cyan]Asia 77 Liên khúc mùa xuân[/COLOR]</title>
 <link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hza3R2Y01ycjdXWms/view&amp;mode=play_link</link>
 <thumbnail>http://www.phim.media/temp/upload/images/phim/phim/lien-khuc-mua-xuan-asia-2015.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>Asia 76</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwWG1vSWVpTngydTQ&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia76.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 75</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwUUs4TmpLcDFjNkU&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia75.jpg</thumbnail>
+</item>
+
 
 <item>
 	<title>[COLOR blue]Asia 75 [/COLOR][COLOR red]NHỮNG GIỌNG CA HUYỀN THOẠI[/COLOR][COLOR=cyan]  Part 1[/COLOR]</title>
@@ -1315,6 +1371,57 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
+
+
+<item>
+<title>Asia 74</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwelRSZHQ1THJtTGc&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia74.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 73</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwblF3M19JaDg5Z2M&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia73.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 72</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwMnVHNS01MzB6MDg&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia72.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 71</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwWXUyVWFfTE9DSzQ&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia71.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 70</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwMExOUEE2Yk9ac1k&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia70.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 69</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwblVkVEhvWXk3RHM&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia69.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asia 68</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B1gM7Kl0YigwS1htYWM5VTdMZ2c&amp;mode=play_link</link>
+<thumbnail>http://uplay.itvplus.net/LOGO/ASIA/asia68.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Asia Golden 4 - Khúc Nhạc Tình Quê (Full)</title>
+<link>plugin://plugin.video.link__tester/?link=https://drive.google.com/file/d/0B7vuWiAeK9hzQVNkQ3F4OWZUZlU/view&amp;mode=play_link</link>
+<thumbnail>https://i.vimeocdn.com/vod_poster/69988_310x459.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR cyan]Asia Mừng Xuân 2016[/COLOR]</title>
