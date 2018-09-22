@@ -45,31 +45,81 @@ https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s3
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
-#EXTINF:-1 group-title="Sports",ELEVEN sports 1
-http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:-1 group-title="Sports",ELEVEN sports 2
-http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 2
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 group-title="Sports",SPORTS MAX 2
-http://161.0.157.9/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1 group-title="Sports",NBC GOLF
-http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
-#EXTINF:-1 group-title="Sports",Bein Sports 1
-http://185.93.3.84:5000/play/a01v
-#EXTINF:-1 group-title="Sports",Bein Sports 2
-http://185.93.3.84:5000/play/a01w
-#EXTINF:-1 group-title="Sports",Bein Sports 3
-http://185.93.3.84:5000/play/a01t
-#EXTINF:-1 group-title="Sports",Bein Sports 4
-http://185.93.3.84:5000/play/a01u
-#EXTINF:-1 group-title="Sports",Bein Sports 5
-http://185.93.3.84:5000/play/a02e
-#EXTINF:-1 group-title="Sports",Eurosport 1
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Sports",DUBAI Sport 1
-#EXTINF:-1 group-title="Sports",EURO SPORT 1
-http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,UK@ Sky Sports Main Event SD
+http://188.93.238.184:8000/live/snet/snet/37982.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36513.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://188.93.238.184:8000/live/snet/snet/36514.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://188.93.238.184:8000/live/snet/snet/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37400.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://188.93.238.184:8000/live/snet/snet/37955.ts
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37988.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://188.93.238.184:8000/live/snet/snet/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/snet/snet/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://188.93.238.184:8000/live/snet/snet/11911.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37294.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://188.93.238.184:8000/live/snet/snet/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://188.93.238.184:8000/live/snet/snet/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32594.ts
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://188.93.238.184:8000/live/snet/snet/36509.ts
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36510.ts
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://188.93.238.184:8000/live/snet/snet/9723.ts
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/29507.ts
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://188.93.238.184:8000/live/snet/snet/29815.ts
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://188.93.238.184:8000/live/snet/snet/10763.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://188.93.238.184:8000/live/snet/snet/36515.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32859.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://188.93.238.184:8000/live/snet/snet/37956.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37153.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://188.93.238.184:8000/live/snet/snet/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32223.ts
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://188.93.238.184:8000/live/snet/snet/10759.ts
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/10760.ts
+#EXTINF:-1,MY@ .Astro Sports
+http://188.93.238.184:8000/live/snet/snet/36505.ts
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://188.93.238.184:8000/live/snet/snet/36504.ts
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://188.93.238.184:8000/live/snet/snet/36503.ts
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://188.93.238.184:8000/live/snet/snet/36502.ts
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://188.93.238.184:8000/live/snet/snet/36501.ts
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://188.93.238.184:8000/live/snet/snet/36500.ts
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://188.93.238.184:8000/live/snet/snet/36499.ts
+
 #EXTINF:-1 group-title="Sports",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Sony ESPN HD
