@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,*************** BĐ ANH(EPL)theo giờ GMT+7 *************
+
+#EXTINF:-1,*************** BĐ ANH (EPL)by GMT+7 *************
 http://
 
 #EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",23/09/2018 19h30 WEST HAM Vs CHELSEA |AV3&4
@@ -99,7 +100,6 @@ EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6
 http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
 EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 44
 http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
-
 #EXTINF:-1,UK@ Sky Sports Main Event SD
 http://188.93.238.184:8000/live/snet/snet/37982.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
@@ -174,45 +174,6 @@ http://188.93.238.184:8000/live/snet/snet/36501.ts|User-Agent=VLC/3.0.0-git LibV
 http://188.93.238.184:8000/live/snet/snet/36500.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,MY@ .SkyNet Sports 6
 http://188.93.238.184:8000/live/snet/snet/36499.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="Noxbit",Super Tennis HD
-http://127.0.0.1:6689/stream?cid=4227
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 1
-http://127.0.0.1:6689/stream?cid=3679
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 1 HD
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 1 HD Резерв 1
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 1 HD Резерв 2
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 1 HD Резерв 3
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 2
-http://127.0.0.1:6689/stream?cid=3671
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 2 HD
-http://127.0.0.1:6689/stream?cid=3570
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 3
-http://127.0.0.1:6689/stream?cid=3681
-#EXTINF:-1 group-title="Noxbit",Матч! Футбол 3 HD
-http://127.0.0.1:6689/stream?cid=3571
-#EXTINF:-1 group-title="Noxbit",Футбoл HD
-http://127.0.0.1:6689/stream?cid=6965
-#EXTINF:-1 group-title="Noxbit",Футбол
-http://127.0.0.1:6689/stream?cid=4837
-#EXTINF:-1 group-title="Noxbit",Футбол 1 (Украина)
-http://127.0.0.1:6689/stream?cid=3895
-#EXTINF:-1 group-title="Noxbit",Футбол 1 HD
-http://127.0.0.1:6689/stream?cid=4043
-#EXTINF:-1 group-title="Noxbit",Футбол 2 (Украина)
-http://127.0.0.1:6689/stream?cid=3779
-#EXTINF:-1 group-title="Noxbit",Футбол 2 HD
-http://127.0.0.1:6689/stream?cid=4048
-#EXTINF:-1 group-title="Russia",FUTBOL3 HD
-http://ed4e35ed.kazmazpaz.org/iptv/7FRRWRSA4CX9V3/206/index.m3u8
-#EXTINF:-1 group-title="Russia",ARELA HD
-http://ed4e35ed.kazmazpaz.org/iptv/7FRRWRSA4CX9V3/207/index.m3u8
-#EXTINF:-1 group-title="Russia",VSport HD
-http://ed4e35ed.kazmazpaz.org/iptv/7FRRWRSA4CX9V3/208/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
 http://persik.by/stream/1418/252987/346.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1-hd.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1 HD
@@ -1213,78 +1174,6 @@ http://203.146.129.233:1935/live/suwan/playlist.m3u8
 
 #EXTINF:-1,************* KÊNH NGA *****************
 http://
-#EXTINF:-1 group-title="Noxbit",Animal Planet
-http://127.0.0.1:6689/stream?cid=3656
-#EXTINF:-1 group-title="Noxbit",Animal Planet HD
-http://127.0.0.1:6689/stream?cid=3902
-#EXTINF:-1 group-title="Noxbit",BBC Earth HD (Polska)
-http://127.0.0.1:6689/stream?cid=5927
-#EXTINF:-1 group-title="Noxbit",BBC HD (Nordic)
-http://127.0.0.1:6689/stream?cid=5929
-#EXTINF:-1 group-title="Noxbit",BBC Lifestyle HD (Polska)
-http://127.0.0.1:6689/stream?cid=5942
-#EXTINF:-1 group-title="Noxbit",BEST Films HD
-http://127.0.0.1:6689/stream?cid=5807
-#EXTINF:-1 group-title="Noxbit",CGTN Documentary
-http://127.0.0.1:6689/stream?cid=3992
-#EXTINF:-1 group-title="Noxbit",CGTN Documentary
-http://127.0.0.1:6689/stream?cid=6315
-#EXTINF:-1 group-title="Noxbit",Da Vinci Learning
-http://127.0.0.1:6689/stream?cid=3934
-#EXTINF:-1 group-title="Noxbit",Discovery Channel
-http://127.0.0.1:6689/stream?cid=3768
-#EXTINF:-1 group-title="Noxbit",Discovery Channel HD
-http://127.0.0.1:6689/stream?cid=3775
-#EXTINF:-1 group-title="Noxbit",Discovery Historia Polska
-http://127.0.0.1:6689/stream?cid=5793
-#EXTINF:-1 group-title="Noxbit",Discovery Science
-http://127.0.0.1:6689/stream?cid=3650
-#EXTINF:-1 group-title="Noxbit",Discovery Science HD
-http://127.0.0.1:6689/stream?cid=7166
-#EXTINF:-1 group-title="Noxbit",Discovery Showcase HD
-http://127.0.0.1:6689/stream?cid=6937
-#EXTINF:-1 group-title="Noxbit",Discovery World
-http://127.0.0.1:6689/stream?cid=6894
-#EXTINF:-1 group-title="Noxbit",DMAX Austria
-http://127.0.0.1:6689/stream?cid=5746
-#EXTINF:-1 group-title="Noxbit",DocuBox
-http://127.0.0.1:6689/stream?cid=7170
-#EXTINF:-1 group-title="Noxbit",DocuBox HD
-http://127.0.0.1:6689/stream?cid=7044
-#EXTINF:-1 group-title="Noxbit",Fox
-http://127.0.0.1:6689/stream?cid=3789
-#EXTINF:-1 group-title="Noxbit",Fox HD
-http://127.0.0.1:6689/stream?cid=3823
-#EXTINF:-1 group-title="Noxbit",Fox Life
-http://127.0.0.1:6689/stream?cid=3845
-#EXTINF:-1 group-title="Noxbit",Fox Life HD
-http://127.0.0.1:6689/stream?cid=3917
-#EXTINF:-1 group-title="Noxbit",Nano HD
-http://127.0.0.1:6689/stream?cid=7017
-#EXTINF:-1 group-title="Noxbit",Nat Geo Wild
-http://127.0.0.1:6689/stream?cid=3769
-#EXTINF:-1 group-title="Noxbit",Nat Geo Wild HD
-http://127.0.0.1:6689/stream?cid=3785
-#EXTINF:-1 group-title="Noxbit",National 4 (Moldova)
-http://127.0.0.1:6689/stream?cid=7097
-#EXTINF:-1 group-title="Noxbit",National Geographic
-http://127.0.0.1:6689/stream?cid=3658
-#EXTINF:-1 group-title="Noxbit",National Geographic Abu Dhabi
-http://127.0.0.1:6689/stream?cid=6402
-#EXTINF:-1 group-title="Noxbit",National Geographic HD
-http://127.0.0.1:6689/stream?cid=3817
-#EXTINF:-1 group-title="Noxbit",National Geographic Polska
-http://127.0.0.1:6689/stream?cid=5778
-#EXTINF:-1 group-title="Noxbit",O-la-la
-http://127.0.0.1:6689/stream?cid=3758
-#EXTINF:-1 group-title="Noxbit",Playboy TV
-http://127.0.0.1:6689/stream?cid=3743
-#EXTINF:-1 group-title="Noxbit",Viasat Explore
-http://127.0.0.1:6689/stream?cid=3832
-#EXTINF:-1 group-title="Noxbit",Viasat Nature East
-http://127.0.0.1:6689/stream?cid=3930
-#EXTINF:-1 group-title="Noxbit",Viasat Nature-History HD
-http://127.0.0.1:6689/stream?cid=3932
 #EXTINF:-1 group-title="Russia",Конный Мир HD
 http://ed4e35ed.kazmazpaz.org/iptv/7FRRWRSA4CX9V3/214/index.m3u8
 #EXTINF:-1 group-title="Russia",Телеканал КХЛ HD
@@ -1971,5 +1860,4 @@ http://91.149.172.100:80/channel?id=149&u=demo&p=demo
 http://91.149.172.100:80/channel?id=150&u=demo&p=demo
 #EXTINF:-1 group-title="Russia",Детский
 http://91.149.172.100:80/channel?id=151&u=demo&p=demo
-
 
