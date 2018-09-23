@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,********** Sports **************
+http://
 #EXTINF:-1,UK@ Sky Sports Main Event SD
 http://188.93.238.184:8000/live/snet/snet/37982.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
@@ -75,8 +76,8 @@ http://188.93.238.184:8000/live/snet/snet/36500.ts|User-Agent=VLC/3.0.0-git LibV
 #EXTINF:-1,MY@ .SkyNet Sports 6
 http://188.93.238.184:8000/live/snet/snet/36499.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
-
-
+#EXTINF:-1,********** ThaiLand **************
+http://
 #EXTINF:-1 group-title="Thailand",FOX CRIME
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_TH/playlist.m3u8
 #EXTINF:-1 group-title="Thailand",NICK JR
@@ -302,13 +303,8 @@ http://183.88.213.233:9000/play/a09c
 #EXTINF:-1 group-title="Thailand",SP NEWS
 http://183.88.213.233:9000/play/a0cb
 
-#EXTINF:-1 group-title="Beinsports",bEIN Sports HD 2
-http://185.93.3.84:5000/play/a01w
-#EXTINF:-1 group-title="Beinsports",bEIN Sports HD 7
-http://185.93.3.84:5000/play/a02a
-#EXTINF:-1 group-title="Beinsports",bEIN Sports HD 9
-http://185.93.3.84:5000/play/a02c
-
+#EXTINF:-1,********** Russia **************
+http://
 #EXTINF:-1 group-title="Russia",RTL Spike
 http://92.249.143.12:10000/play/a00i
 #EXTINF:-1 group-title="Russia",Pax TV
@@ -480,3 +476,156 @@ http://213.59.128.162:9999/play/Super
 http://213.59.128.162:9999/play/Tlum
 #EXTVLCOPT:http-user-agent=D3n1s
 http://213.59.128.162:9999/play/YUvelirochka
+
+#EXTINF:-1,********** PoLand **************
+http://
+#EXTINF:-1 group-title="Poland",Eurosport 2 HD
+http://195.206.253.157:8001/eurosport2hd
+#EXTINF:-1 group-title="Poland",Eurosport HD
+http://195.206.253.157:8001/eurosporthd
+#EXTINF:-1 group-title="Poland",Eurosport 3 HD
+http://195.206.253.157:8001/eurosport3hd
+#EXTINF:-1 group-title="Poland",History HD
+http://195.206.253.157:8101/history
+#EXTINF:-1 group-title="Poland",Discovery Life HD
+http://195.206.253.157:8401/animalplanet
+#EXTINF:-1 group-title="Poland",Da Vinci
+http://195.206.253.157:17200/davinci
+#EXTINF:-1 group-title="Poland",Polsat Jim Jam
+http://195.206.253.157:20200/jimjam
+#EXTINF:-1 group-title="Poland",ID HD
+http://195.206.253.157:19800/id
+#EXTINF:-1 group-title="Poland",HBO3 HD
+http://195.206.253.157:19200/hbo3
+#EXTINF:-1 group-title="Poland",HBO2 HD
+http://195.206.253.157:19100/hbo2
+#EXTINF:-1 group-title="Poland",TNT HD
+http://195.206.253.157:18700/tnt
+#EXTINF:-1 group-title="Poland",POLSAT
+http://195.206.253.157:10801/polsat
+#EXTINF:-1 group-title="Poland",POLSAT 2 HD
+http://195.206.253.157:10901/polsat2
+#EXTINF:-1 group-title="Poland",Puls 2
+http://195.206.253.157:13900/religiatv
+#EXTINF:-1 group-title="Poland",Polsat News HD
+http://195.206.253.157:11001/polsat
+#EXTINF:-1 group-title="Poland",TVN 24 HD
+http://195.206.253.157:10401/tvn24
+#EXTINF:-1 group-title="Poland",TVN24 BiS HD
+http://195.206.253.157:19700/tvn24bis
+#EXTINF:-1 group-title="Poland",HBO HD
+http://195.206.253.157:20300/hbo
+#EXTINF:-1 group-title="Poland",TVP 3 Warszawa
+http://195.206.253.157:17000/tvp3
+#EXTINF:-1 group-title="Poland",TV4
+http://195.206.253.157:11101/tv4
+#EXTINF:-1 group-title="Poland",TV6 HD
+http://195.206.253.157:14500/tv6
+#EXTINF:-1 group-title="Poland",TVN HD
+http://195.206.253.157:10301/tvn
+#EXTINF:-1 group-title="Poland",TVN 7 HD
+http://195.206.253.157:10501/tvnsiedem
+#EXTINF:-1 group-title="Poland",TTV HD
+http://195.206.253.157:20010/ttv
+#EXTINF:-1 group-title="Poland",TVP INFO HD
+http://195.206.253.157:8501/tvpinfo
+#EXTINF:-1 group-title="Poland",TVP Rozrywka
+http://195.206.253.157:16700/tvprozrywka
+#EXTINF:-1 group-title="Poland",TVP Polonia
+http://195.206.253.157:8701/tvppolonia
+#EXTINF:-1 group-title="Poland",TVS
+http://195.206.253.157:8801/tvs
+#EXTINF:-1 group-title="Poland",Comedy Central HD
+http://195.206.253.157:12101/comedycentral
+#EXTINF:-1 group-title="Poland",13 Ulica HD
+http://195.206.253.157:19300/13ulica
+#EXTINF:-1 group-title="Poland",Ale kino+ HD
+http://195.206.253.157:9601/alekino
+#EXTINF:-1 group-title="Poland",AXN Black
+http://195.206.253.157:14200/axnblack
+#EXTINF:-1 group-title="Poland",AXN White
+http://195.206.253.157:14400/axnwhite
+#EXTINF:-1 group-title="Poland",FilmBox Premium HD
+http://195.206.253.157:15900/filmbox
+#EXTINF:-1 group-title="Poland",FilmBox Action
+http://195.206.253.157:11401/filmbox
+#EXTINF:-1 group-title="Poland",FilmBox Extra
+http://195.206.253.157:11501/filmboxextra
+#EXTINF:-1 group-title="Poland",Kino Polska
+http://195.206.253.157:13700/kinopolska
+#EXTINF:-1 group-title="Poland",TVP Seriale
+http://195.206.253.157:11901/tvpseriale
+#EXTINF:-1 group-title="Poland",BBC HD
+http://195.206.253.157:17500/bbchd
+#EXTINF:-1 group-title="Poland",Domo+ HD
+http://195.206.253.157:15700/domoplus
+#EXTINF:-1 group-title="Poland",TVN Style HD
+http://195.206.253.157:10601/tvnstyle
+#EXTINF:-1 group-title="Poland",Polsat Cafe HD
+http://195.206.253.157:19500/polsatcafe
+#EXTINF:-1 group-title="Poland",Polsat Play HD
+http://195.206.253.157:19400/polsatplay
+#EXTINF:-1 group-title="Poland",Motowizja HD
+http://195.206.253.157:16200/motowizja
+#EXTINF:-1 group-title="Poland",TVN Turbo HD
+http://195.206.253.157:10701/tvnturbo
+#EXTINF:-1 group-title="Poland",Discovery Science HD
+http://195.206.253.157:11301/discoverysci
+#EXTINF:-1 group-title="Poland",National Geographic HD
+http://195.206.253.157:11701/natgeo
+#EXTINF:-1 group-title="Poland",Nat Geo Wild HD
+http://195.206.253.157:18100/natgeowild
+#EXTINF:-1 group-title="Poland",Travel Channel HD
+http://195.206.253.157:18800/travelch
+#EXTINF:-1 group-title="Poland",Fokus TV
+http://195.206.253.157:18300/fokus
+#EXTINF:-1 group-title="Poland",Adventure HD
+http://195.206.253.157:18400/adventurehd
+#EXTINF:-1 group-title="Poland",H2 HD
+http://195.206.253.157:17700/h2hd
+#EXTINF:-1 group-title="Poland",TVP Historia
+http://195.206.253.157:12800/tvphistoria
+#EXTINF:-1 group-title="Poland",Eurosport HD
+http://195.206.253.157:9301/eurosport
+#EXTINF:-1 group-title="Poland",TVP Sport HD
+http://195.206.253.157:12001/tvpsport
+#EXTINF:-1 group-title="Poland",nSport
+http://195.206.253.157:8201/nsport
+#EXTINF:-1 group-title="Poland",Extreme Sports HD
+http://195.206.253.157:15800/extreme
+#EXTINF:-1 group-title="Poland",Sportklub HD
+http://195.206.253.157:16100/sportklub
+#EXTINF:-1 group-title="Poland",Fightbox HD
+http://195.206.253.157:14300/fightbox
+#EXTINF:-1 group-title="Poland",TVP ABC
+http://195.206.253.157:17400/tvpabc
+#EXTINF:-1 group-title="Poland",Boomerang HD
+http://195.206.253.157:20100/boomerang
+#EXTINF:-1 group-title="Poland",MiniMini+ HD
+http://195.206.253.157:9001/minimini
+#EXTINF:-1 group-title="Poland",Disney XD
+http://195.206.253.157:9201/disneyxd
+#EXTINF:-1 group-title="Poland",Disney Channel HD
+http://195.206.253.157:12401/disneychannel
+#EXTINF:-1 group-title="Poland",Nick Jr
+http://195.206.253.157:13000/viacomblink
+#EXTINF:-1 group-title="Poland",BBC CBeebies
+http://195.206.253.157:13100/cbeebies
+#EXTINF:-1 group-title="Poland",MTV Polska HD
+http://195.206.253.157:12201/mtvpolska
+#EXTINF:-1 group-title="Poland",MTV Music
+http://195.206.253.157:12301/vivapolska
+#EXTINF:-1 group-title="Poland",VH1
+http://195.206.253.157:18000/vh1
+#EXTINF:-1 group-title="Poland",4fun TV
+http://195.206.253.157:17100/4fun
+#EXTINF:-1 group-title="Poland",Eska TV
+http://195.206.253.157:12500/eska
+#EXTINF:-1 group-title="Poland",Polo TV
+http://195.206.253.157:14000/polotv
+#EXTINF:-1 group-title="Poland",Disco Polo Music
+http://195.206.253.157:15600/discopolomusic
+#EXTINF:-1 group-title="Poland",TVP1 HD
+http://195.206.253.157:10101/tvp1
+#EXTINF:-1 group-title="Poland",Nickelodeon
+http://195.206.253.157:17900/nickel
