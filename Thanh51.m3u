@@ -1,49 +1,28 @@
 #EXTM3U thanh51 (gg.gg/8zy29)
 
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |AV3&4 
-http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&.mp4
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |AV33&34
-http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&.mp4
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |Match TV Football 1 s1
-http://content.asplaylist.net/MVRpdG1XaDdGNXVDT3J2WnBIbHVBVk5NZnQvdUxYZXhTVVhoWU5rVGtFOGtYOUZYa1dPWHE5Qmx1RUx2OWszREpqeDdiYThsbDJUY3grQjU1V1VJOXc9PQ/cdn/625_reg.acelive
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |Futbol 1 s1
-http://content.asplaylist.net/cFNnWlZ4a3pXNytHQVRLRXIrSnh5YngweDZ1V2dyTHJRRkowYkRaTmpkY0JSUnVUNWFObjg2TjZoYXR0ZWtWQW53NndzdWFXSTQ3eG8zUk1VdFIzVFE9PQ/cdn/533_reg.acelive
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |Match TV Football 1 s2
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |Futbol 1 s2
-http://127.0.0.1:6689/stream?cid=3895
-
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 21h00 CARDIFF CITY Vs MANCHESTER CITY |AV3&4
-http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&.mp4
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |Match TV Football 2 s1
-http://content.asplaylist.net/NUVUcXNTa1JQazM5Mk5TbVJaeGdZaDZJN3l0WGNVY3V5Z3NBNTBwamt6dkRRVHFzd1UxSVdmTWF1aHFVVy9CTlB1ekhRM0tCTVVNUFAwVXd6WGpoQlE9PQ/cdn/611_reg.acelive
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 18h30 FULHAM Vs WATFORD |Match TV Football 2 s2
-http://127.0.0.1:6689/stream?cid=3570
-
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 21h00 LIVERPOOL Vs SOUTHAMPTON |AV33&34
-http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&.mp4
-
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 21h00 MANCHESTER UNITED Vs WOLVES |AV21&22 
-http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&.mp4
-
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",22/09/2018 23h30 BRIGHTON Vs TOTTEHAM |AV3&4
-http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&.mp4
-
 #EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",23/09/2018 19h30 WEST HAM Vs CHELSEA |AV3&4
 http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&.mp4
 
 #EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",23/09/2018 22h00 ARSENAL Vs EVERTON |AV3&4
 http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&.mp4
 
-
-
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 1
+http://185.93.3.84:5000/play/a01v
+#EXTINF: -1 group-title="Sports",bEIN Sports HD 2
+http://185.93.3.84:5000/play/a01w
+#EXTINF: -1 group-title="Sports",bEIN Sports HD 3
+http://185.93.3.84:5000/play/a01t
+#EXTINF: -1 group-title="Sports",bEIN Sports HD 4
+http://185.93.3.84:5000/play/a01u
+#EXTINF: -1 group-title="Sports",bEIN Sports HD 5
+http://185.93.3.84:5000/play/a02e
+#EXTINF: -1 group-title="Sports",bEIN Sports HD 6
+http://185.93.3.84:5000/play/a029
+#EXTINF: -1 group-title="Sports",bEIN Sports HD 7
+http://185.93.3.84:5000/play/a02a
 #EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ii/180826093455.jpg",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s1
-https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint HD s2
-https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s3
+#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
 #EXTINF:-1,UK@ Sky Sports Main Event SD
 http://188.93.238.184:8000/live/snet/snet/37982.ts
@@ -3207,11 +3186,7 @@ http://103.89.176.45:8278/Channel8/playlist.m3u8
 #EXTINF:-1 group-title="Singapore",Channel OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s1
-https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint HD s2
-https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s3
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV 
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/ii/180826093455.jpg",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
