@@ -6,24 +6,7 @@ http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&
 #EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",23/09/2018 22h00 ARSENAL Vs EVERTON |AV3&4
 http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&.mp4
 
-#EXTINF:-1 group-title="Sports",bEIN Sports HD 1
-http://185.93.3.84:5000/play/a01v
-#EXTINF: -1 group-title="Sports",bEIN Sports HD 2
-http://185.93.3.84:5000/play/a01w
-#EXTINF: -1 group-title="Sports",bEIN Sports HD 3
-http://185.93.3.84:5000/play/a01t
-#EXTINF: -1 group-title="Sports",bEIN Sports HD 4
-http://185.93.3.84:5000/play/a01u
-#EXTINF: -1 group-title="Sports",bEIN Sports HD 5
-http://185.93.3.84:5000/play/a02e
-#EXTINF: -1 group-title="Sports",bEIN Sports HD 6
-http://185.93.3.84:5000/play/a029
-#EXTINF: -1 group-title="Sports",bEIN Sports HD 7
-http://185.93.3.84:5000/play/a02a
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ii/180826093455.jpg",Astro Arena
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV
-http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
+
 #EXTINF:-1,UK@ Sky Sports Main Event SD
 http://188.93.238.184:8000/live/snet/snet/37982.ts
 #EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
@@ -129,6 +112,10 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms2.airtel.tv/wh7f454c46tw3145810737_1488862081/PLTV/88888888/224/3221225789/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="Sports",Neo Sports
 http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221225791/03.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/ii/180826093455.jpg",Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV 
+http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
 #EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 
 http://content.asplaylist.net/MVRpdG1XaDdGNXVDT3J2WnBIbHVBVk5NZnQvdUxYZXhTVVhoWU5rVGtFOGtYOUZYa1dPWHE5Qmx1RUx2OWszREpqeDdiYThsbDJUY3grQjU1V1VJOXc9PQ/cdn/625_reg.acelive
 #EXTINF:-1 group-title="Sports",Матч! Футбол 2 
