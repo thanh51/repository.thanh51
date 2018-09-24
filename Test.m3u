@@ -143,20 +143,6 @@ http://42.116.152.50:8889/udp/225.1.2.88:30120
 #EXTINF:-1 tvg-id="VTC16" group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
 http://42.116.152.50:8889/udp/225.1.2.190:30120
 
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/s1-hd-kbg.png",SCTV1 HD
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/109/s4-hd-kbg.png",SCTV4
-http://42.116.152.50:8889/udp/225.1.2.187:30120
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/11/s5.png",SCTV5
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/107/s7-hd-kbg.png",SCTV7 HD
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo=https://static-stage.tv24.vn/channel/115/s10.png",AZ SHOP SCTV10
-http://42.116.152.50:8889/udp/225.1.2.205:30120
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/17/s12-hd-kbg.png",SCTV12 HD
-http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",CAO BẰNG
 http://42.116.152.50:8889/udp/225.1.1.102:30120
 #EXTINF:-1 tvg-id="Ha Giang" group-title="DIA PHUONG" tvg-logo="https://s11.postimg.org/y1ijz2a83/hagiang.jpg",HA GIANG
@@ -482,10 +468,6 @@ http://vapi.vaders.tv/play/2849.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29
 
 #EXTINF:-1,********** shark55.com **************
 http://
-#EXTINF:-1 tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png",USA | FS1
-http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",USA | FS2
-http://163.172.15.141:9732/live?channelId=238&deviceMac=00:1A:79:37:C2:FD&uid=4302
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",UK:Sky BT Sport 1
 http://universeiptv.com:8000/live/santino/1234/628.m3u8
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",UK:Sky BT Sport 2
@@ -521,9 +503,326 @@ http://universeiptv.com:8000/live/santino/1234/4966.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/220px-Setanta-logo.jpg",UK:SkySetanta Sports
 http://universeiptv.com:8000/live/santino/1234/611.m3u8
 
+#EXTINF:-1,BEIN_SPORT_1_HD
+http://universeiptv.com:8000/live/santino/1234/858.ts
+#EXTINF:-1,BEIN_SPORT_2_HD
+http://universeiptv.com:8000/live/santino/1234/859.ts
+#EXTINF:-1,BEIN_SPORT_3_HD
+http://universeiptv.com:8000/live/santino/1234/860.ts
+#EXTINF:-1,BEIN_SPORT_4_HD
+http://universeiptv.com:8000/live/santino/1234/861.ts
+#EXTINF:-1,BEIN_SPORT_5_HD
+http://universeiptv.com:8000/live/santino/1234/862.ts
+#EXTINF:-1,BEIN_SPORT_6_HD
+http://universeiptv.com:8000/live/santino/1234/863.ts
+#EXTINF:-1,BEIN_SPORT_7_HD
+http://universeiptv.com:8000/live/santino/1234/864.ts
+#EXTINF:-1,BEIN_SPORT_8_HD
+http://universeiptv.com:8000/live/santino/1234/865.ts
+#EXTINF:-1,BEIN_SPORT_9_HD
+http://universeiptv.com:8000/live/santino/1234/866.ts
+#EXTINF:-1,BEIN_SPORT_10_HD
+http://universeiptv.com:8000/live/santino/1234/867.ts
+#EXTINF:-1,BEIN_SPORT_11_HD
+http://universeiptv.com:8000/live/santino/1234/3026.ts
+#EXTINF:-1,BEIN_SPORT_12_HD
+http://universeiptv.com:8000/live/santino/1234/3027.ts
+#EXTINF:-1,BEIN_SPORT_13_HD
+http://universeiptv.com:8000/live/santino/1234/13.ts
+#EXTINF:-1,BEIN_SPORT_14_HD
+http://universeiptv.com:8000/live/santino/1234/14.ts
+#EXTINF:-1,BEIN_SPORT_15_HD
+http://universeiptv.com:8000/live/santino/1234/15.ts
+#EXTINF:-1,BEIN_SPORT_16_HD
+http://universeiptv.com:8000/live/santino/1234/19978.ts
+#EXTINF:-1,BEIN_SPORT_17_HD
+http://universeiptv.com:8000/live/santino/1234/19979.ts
+#EXTINF:-1,bein_Sports_SD1
+http://universeiptv.com:8000/live/santino/1234/1003.ts
+#EXTINF:-1,bein_Sports_SD2
+http://universeiptv.com:8000/live/santino/1234/1004.ts
+#EXTINF:-1,bein_Sports_SD3
+http://universeiptv.com:8000/live/santino/1234/1005.ts
+#EXTINF:-1,bein_Sports_SD4
+http://universeiptv.com:8000/live/santino/1234/1006.ts
+#EXTINF:-1,bein_Sports_SD5
+http://universeiptv.com:8000/live/santino/1234/1007.ts
+#EXTINF:-1,bein_Sports_SD6
+http://universeiptv.com:8000/live/santino/1234/1008.ts
+#EXTINF:-1,bein_Sports_SD7
+http://universeiptv.com:8000/live/santino/1234/1009.ts
+#EXTINF:-1,bein_Sports_SD8
+http://universeiptv.com:8000/live/santino/1234/1010.ts
+#EXTINF:-1,bein_Sports_SD9
+http://universeiptv.com:8000/live/santino/1234/1011.ts
+#EXTINF:-1,bein_Sports_SD10
+http://universeiptv.com:8000/live/santino/1234/1012.ts
+#EXTINF:-1,bein_Sports_SD11
+http://universeiptv.com:8000/live/santino/1234/3028.ts
+#EXTINF:-1,bein_Sports_SD12
+http://universeiptv.com:8000/live/santino/1234/3029.ts
+#EXTINF:-1,BeINsport_HD1_Low
+http://universeiptv.com:8000/live/santino/1234/16.ts
+#EXTINF:-1,BeINsport_HD2_Low
+http://universeiptv.com:8000/live/santino/1234/17.ts
+#EXTINF:-1,BeINsport_HD3_Low
+http://universeiptv.com:8000/live/santino/1234/18.ts
+#EXTINF:-1,BeINsport_HD4_Low
+http://universeiptv.com:8000/live/santino/1234/19.ts
+#EXTINF:-1,BeINsport_HD5_Low
+http://universeiptv.com:8000/live/santino/1234/20.ts
+#EXTINF:-1,BeINsport_HD6_Low
+http://universeiptv.com:8000/live/santino/1234/21.ts
+#EXTINF:-1,BeINsport_HD7_Low
+http://universeiptv.com:8000/live/santino/1234/22.ts
+#EXTINF:-1,BeINsport_HD8_Low
+http://universeiptv.com:8000/live/santino/1234/23.ts
+#EXTINF:-1,BeINsport_HD9_Low
+http://universeiptv.com:8000/live/santino/1234/24.ts
+#EXTINF:-1,BeINsport_HD10_Low
+http://universeiptv.com:8000/live/santino/1234/25.ts
+#EXTINF:-1,BEIN_SPORT_1_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3111.ts
+#EXTINF:-1,BEIN_SPORT_2_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3110.ts
+#EXTINF:-1,BEIN_SPORT_3_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3109.ts
+#EXTINF:-1,BEIN_SPORT_4_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3108.ts
+#EXTINF:-1,BEIN_SPORT_5_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3107.ts
+#EXTINF:-1,BEIN_SPORT_6_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3106.ts
+#EXTINF:-1,BEIN_SPORT_7_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3105.ts
+#EXTINF:-1,BEIN_SPORT_8_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3104.ts
+#EXTINF:-1,BEIN_SPORT_9_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3103.ts
+#EXTINF:-1,BEIN_SPORT_10_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3102.ts
+#EXTINF:-1,BEIN_SPORT_1_4k
+http://universeiptv.com:8000/live/santino/1234/5544.ts
+#EXTINF:-1,BEIN_SPORT_2_4k
+http://universeiptv.com:8000/live/santino/1234/5543.ts
+#EXTINF:-1,BEIN_SPORT_3_4k
+http://universeiptv.com:8000/live/santino/1234/5542.ts
+#EXTINF:-1,BEIN_SPORT_4_4k
+http://universeiptv.com:8000/live/santino/1234/5541.ts
+#EXTINF:-1,BEIN_SPORT_5_4k
+http://universeiptv.com:8000/live/santino/1234/5540.ts
+#EXTINF:-1,BEIN_SPORT_6_4k
+http://universeiptv.com:8000/live/santino/1234/5539.ts
+#EXTINF:-1,BEIN_SPORT_7_4k
+http://universeiptv.com:8000/live/santino/1234/5538.ts
+#EXTINF:-1,BEIN_SPORT_8_4k
+http://universeiptv.com:8000/live/santino/1234/5537.ts
+#EXTINF:-1,BEIN_SPORT_9_4k
+http://universeiptv.com:8000/live/santino/1234/5536.ts
+#EXTINF:-1,BEIN_SPORT_10_4k
+http://universeiptv.com:8000/live/santino/1234/5535.ts
+#EXTINF:-1,BEIN_SPORT_11_4k
+http://universeiptv.com:8000/live/santino/1234/5534.ts
+#EXTINF:-1,BEIN_SPORT_12_4k
+http://universeiptv.com:8000/live/santino/1234/5533.ts
+#EXTINF:-1,Bein_sport_1
+http://universeiptv.com:8000/live/santino/1234/165.ts
+#EXTINF:-1,Bein_sport_2
+http://universeiptv.com:8000/live/santino/1234/167.ts
+#EXTINF:-1,Bein_sport_3
+http://universeiptv.com:8000/live/santino/1234/168.ts
+#EXTINF:-1,Bein_sport_4
+http://universeiptv.com:8000/live/santino/1234/169.ts
+#EXTINF:-1,Bein_sport_5
+http://universeiptv.com:8000/live/santino/1234/170.ts
+#EXTINF:-1,Bein_sport_6
+http://universeiptv.com:8000/live/santino/1234/171.ts
+#EXTINF:-1,Bein_sport_7
+http://universeiptv.com:8000/live/santino/1234/172.ts
+#EXTINF:-1,Bein_sport_8
+http://universeiptv.com:8000/live/santino/1234/173.ts
+#EXTINF:-1,Bein_sport_9
+http://universeiptv.com:8000/live/santino/1234/174.ts
+#EXTINF:-1,Bein_sport_10
+http://universeiptv.com:8000/live/santino/1234/166.ts
+#EXTINF:-1,BEIN_SPORTS_1_HD
+http://universeiptv.com:8000/live/santino/1234/1.ts
+#EXTINF:-1,BEIN_SPORTS_2_HD
+http://universeiptv.com:8000/live/santino/1234/2.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD
+http://universeiptv.com:8000/live/santino/1234/3.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD
+http://universeiptv.com:8000/live/santino/1234/4.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD
+http://universeiptv.com:8000/live/santino/1234/5.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD
+http://universeiptv.com:8000/live/santino/1234/6.ts
+#EXTINF:-1,BEIN_SPORTS_7_HD
+http://universeiptv.com:8000/live/santino/1234/7.ts
+#EXTINF:-1,BEIN_SPORTS_8_HD
+http://universeiptv.com:8000/live/santino/1234/8.ts
+#EXTINF:-1,BEIN_SPORTS_9_HD
+http://universeiptv.com:8000/live/santino/1234/9.ts
+#EXTINF:-1,BEIN_SPORTS_10_HD
+http://universeiptv.com:8000/live/santino/1234/10.ts
+#EXTINF:-1,BEIN_SPORTS_11_HD
+http://universeiptv.com:8000/live/santino/1234/11.ts
+#EXTINF:-1,BEIN_SPORTS_12_HD
+http://universeiptv.com:8000/live/santino/1234/12.ts
+#EXTINF:-1,BEIN_SPORTS
+http://universeiptv.com:8000/live/santino/1234/5593.ts
+#EXTINF:-1,BEIN_SPORTS_NEWS
+http://universeiptv.com:8000/live/santino/1234/2219.ts
+#EXTINF:-1,BEIN_MAX_1_HD
+http://universeiptv.com:8000/live/santino/1234/2203.ts
+#EXTINF:-1,BEIN_MAX_2_HD
+http://universeiptv.com:8000/live/santino/1234/2204.ts
+#EXTINF:-1,BEIN_MAX_3_HD
+http://universeiptv.com:8000/live/santino/1234/2205.ts
+#EXTINF:-1,BEIN_MAX_4_HD
+http://universeiptv.com:8000/live/santino/1234/2206.ts
+#EXTINF:-1,BEIN_MAX_1_SD
+http://universeiptv.com:8000/live/santino/1234/2207.ts
+#EXTINF:-1,BEIN_MAX_2_SD
+http://universeiptv.com:8000/live/santino/1234/2208.ts
+#EXTINF:-1,BEIN_MAX_3_SD
+http://universeiptv.com:8000/live/santino/1234/2209.ts
+#EXTINF:-1,BEIN_MAX_4_SD
+http://universeiptv.com:8000/live/santino/1234/2210.ts
+#EXTINF:-1,BEIN_MAX_1_low
+http://universeiptv.com:8000/live/santino/1234/2211.ts
+#EXTINF:-1,BEIN_MAX_2_low
+http://universeiptv.com:8000/live/santino/1234/2212.ts
+#EXTINF:-1,BEIN_MAX_3_low
+http://universeiptv.com:8000/live/santino/1234/2213.ts
+#EXTINF:-1,BEIN_MAX_4_low
+http://universeiptv.com:8000/live/santino/1234/2214.ts
 
-#EXTINF:-1,********** Sports **************
-http://
+#EXTINF:-1,MY@ Astro Sports
+http://188.93.238.184:8000/live/snet/snet/36505.ts
+#EXTINF:-1,MY@ SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/smart/smart/19910.ts
+#EXTINF:-1,MY@ SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/smart/smart/19911.ts
+#EXTINF:-1,MY@ SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/smart/smart/19912.ts
+#EXTINF:-1,MY@ SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/smart/smart/19913.ts
+#EXTINF:-1,MY@ SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/smart/smart/19914.ts
+#EXTINF:-1,MY@ SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/smart/smart/19915.ts
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/smart/smart/37981.ts
+#EXTINF:-1,UK@ Sky Sports Main Event SD
+http://izgemma.ddns.net:8000/live/smart/smart/37982.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/36513.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://izgemma.ddns.net:8000/live/smart/smart/36514.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/smart/smart/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/37400.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/smart/smart/37955.ts
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/37988.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/smart/smart/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/smart/smart/11911.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/37294.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/smart/smart/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://izgemma.ddns.net:8000/live/smart/smart/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/32594.ts
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/smart/smart/36509.ts
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/36510.ts
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/smart/smart/9723.ts
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/29507.ts
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/smart/smart/29815.ts
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/smart/smart/10763.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/smart/smart/36515.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/32859.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37956.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/37153.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/smart/smart/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/32223.ts
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/smart/smart/10759.ts
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://izgemma.ddns.net:8000/live/smart/smart/10760.ts
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/smart/smart/36505.ts
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/smart/smart/36504.ts
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/smart/smart/36503.ts
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/smart/smart/36502.ts
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/smart/smart/36501.ts
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/smart/smart/36500.ts
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/smart/smart/36499.ts
+#EXTINF:-1,AR:beIN SPORT 1 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37774.ts
+#EXTINF:-1,AR:beIN SPORT 2 HD.
+http://izgemma.ddns.net:8000/live/smart/smart/37775.ts
+#EXTINF:-1,AR:beIN SPORT 3 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37776.ts
+#EXTINF:-1,AR:beIN SPORT 4 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37777.ts
+#EXTINF:-1,AR:beIN SPORT 5 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37778.ts
+#EXTINF:-1,AR:beIN SPORT 6 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37779.ts
+#EXTINF:-1,AR:beIN SPORT 7 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37780.ts
+#EXTINF:-1,AR:beIN SPORT 8 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37781.ts
+#EXTINF:-1,AR:beIN SPORT 9 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37782.ts
+#EXTINF:-1,AR:beIN SPORT 10 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37783.ts
+#EXTINF:-1,AR:beIN SPORT 11 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37784.ts
+#EXTINF:-1,AR:beIN SPORT 12 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37785.ts
+#EXTINF:-1,Rom: Sport Klub 1 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37786.ts
+#EXTINF:-1,Rom: Sport Klub 2 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37787.ts
+#EXTINF:-1,Rom:  Sport Klub 3 HD
+http://izgemma.ddns.net:8000/live/smart/smart/37788.ts
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://izgemma.ddns.net:8000/live/smart/smart/375.ts
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://izgemma.ddns.net:8000/live/smart/smart/376.ts
+
 #EXTINF:-1,UK@ Sky Sports Main Event SD
 http://188.93.238.184:8000/live/snet/snet/37982.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
