@@ -86,9 +86,9 @@ http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&
 http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 42
 http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&.mp4
-EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 43
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 43
 http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
-EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 44
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg" group-title="Acestream",ArenaVision 44
 http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&.mp4
 
 #EXTINF:-1,MY@ Astro Sports
@@ -290,6 +290,85 @@ http://188.93.238.184:8000/live/snet/snet/36501.ts|User-Agent=VLC/3.0.0-git LibV
 http://188.93.238.184:8000/live/snet/snet/36500.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,MY@ .SkyNet Sports 6
 http://188.93.238.184:8000/live/snet/snet/36499.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+
+#EXTINF:-1 tvg-name="NBC Sports Network HD" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/nbc%20sports%20network%20hd.png" group-title="Sports",NBCSN HD
+http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="Fox Sports 1 HD" tvg-id="I219.82547.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/fox%20sports%201%20hd.png" group-title="Sports",Fox Sports 1 HD
+http://vapi.vaders.tv/play/2568.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="Fox Sports 2 HD" tvg-id="I618.59305.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/fox%20sports%202%20hd.png" group-title="Sports",Fox Sports 2 HD
+http://vapi.vaders.tv/play/2569.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 1 AR HD" tvg-id="BeINSports1ARHD" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 1 AR HD
+http://vapi.vaders.tv/play/39377.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 2 AR HD" tvg-id="BeINSports2ARHD" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 2 AR HD
+http://vapi.vaders.tv/play/39378.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 3 AR HD" tvg-id="BeINSports3ARHD" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 3 AR HD
+http://vapi.vaders.tv/play/39379.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 4 AR HD" tvg-id="BeINSports4ARHD" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 4 AR HD
+http://vapi.vaders.tv/play/39380.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 5 AR HD" tvg-id="BeINSports5ARHD" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 5 AR HD
+http://vapi.vaders.tv/play/39381.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 6 AR HD" tvg-id="beINSports6.qa" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 6 AR HD
+http://vapi.vaders.tv/play/39382.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 7 AR HD" tvg-id="beINSports7.qa" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 7 AR HD
+http://vapi.vaders.tv/play/39383.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 8 AR HD" tvg-id="beINSports8.qa" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 8 AR HD
+http://vapi.vaders.tv/play/39384.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports 9 AR HD" tvg-id="beINSports9.qa" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="Sports",BeIN Sports 9 AR HD
+http://vapi.vaders.tv/play/39385.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports USA HD" tvg-id="I620.76950.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%20usa.png" group-title="Sports",BeIN Sports USA HD
+http://vapi.vaders.tv/play/2563.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BeIN Sports Espanol HD" tvg-id="I467.76943.schedulesdirect.org" tvg-logo="https://imgur.com/JwkadXy.png" group-title="Sports",BeIN Sports Espanol HD
+http://vapi.vaders.tv/play/39855.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="I401.49609.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20main%20event.png" group-title="Sports",Sky Sports Main Event
+http://vapi.vaders.tv/play/39820.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-id="I402.89363.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20premier%20league.png" group-title="Sports",Sky Sports Premier League
+http://vapi.vaders.tv/play/39824.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="I403.104327.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20football.png" group-title="Sports",Sky Sports Football
+http://vapi.vaders.tv/play/47386.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-id="I121.100264.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20mix.png" group-title="Sports",Sky Sports Mix
+http://vapi.vaders.tv/play/39827.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BT Sports 1" tvg-id="I413.82447.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201.png" group-title="Sports",BT Sports 1
+http://vapi.vaders.tv/play/39828.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BT Sports 2" tvg-id="I414.82449.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202.png" group-title="Sports",BT Sports 2
+http://vapi.vaders.tv/play/39829.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BT Sports 3" tvg-id="I417.95771.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203.png" group-title="Sports",BT Sports 3
+http://vapi.vaders.tv/play/39830.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2889.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports Main Event HD" tvg-id="I401.49609.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20main%20event%20hd.png" group-title="Sports",Sky Sports Main Event HD
+http://vapi.vaders.tv/play/2889.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2480.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports Action HD" tvg-id="I473.19038.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
+http://vapi.vaders.tv/play/2480.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2481.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports Golf HD" tvg-id="I405.67695.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20golf%20hd.png" group-title="Sports",Sky Sports Golf HD
+http://vapi.vaders.tv/play/2481.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2482.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports Premier League HD" tvg-id="I402.89363.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20premier%20league%20hd.png" group-title="Sports",Sky Sports Premier League HD
+http://vapi.vaders.tv/play/2482.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2483.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports F1 HD" tvg-id="I472.87578.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20f1%20hd%20new.png" group-title="Sports",Sky Sports F1 HD
+http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/42360.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports Football HD" tvg-id="I403.104327.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20football%20hd.png" group-title="Sports",Sky Sports Football HD
+http://vapi.vaders.tv/play/42360.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/37235.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports Mix HD" tvg-id="I121.100264.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20mix%20hd.png" group-title="Sports",Sky Sports Mix HD
+http://vapi.vaders.tv/play/37235.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2570.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="Sky Sports News HD" tvg-id="I409.90643.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20news%20hd.png" group-title="Sports",Sky Sports News HD
+http://vapi.vaders.tv/play/2570.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2487.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="BT Sports 1 HD" tvg-id="I413.82447.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201%20hd.png" group-title="Sports",BT Sports 1 HD
+http://vapi.vaders.tv/play/2487.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2488.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="BT Sports 2 HD" tvg-id="I414.82449.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202%20hd.png" group-title="Sports",BT Sports 2 HD
+http://vapi.vaders.tv/play/2488.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2489.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=7 tvg-name="BT Sports 3 HD" tvg-id="I417.95771.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203%20hd.png" group-title="Sports",BT Sports 3 HD
+http://vapi.vaders.tv/play/2489.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BT Sports ESPN HD" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn%20hd.png" group-title="Sports",BT Sports ESPN HD
+http://vapi.vaders.tv/play/2790.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 tvg-name="BT Sports ESPN" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn.png" group-title="Sports",BT Sports ESPN
+http://vapi.vaders.tv/play/39831.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2845.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=5 tvg-name="TSN 1 HD" tvg-id="I400.11182.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%201%20hd.png" group-title="Sports",TSN 1 HD
+http://vapi.vaders.tv/play/2845.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2846.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=5 tvg-name="TSN 2 HD" tvg-id="I401.18990.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%202%20hd.png" group-title="Sports",TSN 2 HD
+http://vapi.vaders.tv/play/2846.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2847.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=5 tvg-name="TSN 3 HD" tvg-id="I402.90118.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%203%20hd.png" group-title="Sports",TSN 3 HD
+http://vapi.vaders.tv/play/2847.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2848.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=5 tvg-name="TSN 4 HD" tvg-id="I403.90122.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%204%20hd.png" group-title="Sports",TSN 4 HD
+http://vapi.vaders.tv/play/2848.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2849.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=&duration=3600" catchup-days=5 tvg-name="TSN 5 HD" tvg-id="I404.90124.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%205%20hd.png" group-title="Sports",TSN 5 HD
+http://vapi.vaders.tv/play/2849.ts?token=eyJ1c2VybmFtZSI6InBhcnNvbnMiLCJwYXNzd29yZCI6IjEyMzQ1Njc4In0=
 
 #EXTINF:-1 tvg-logo="http://1ttv.org/uploads/hQDOuQjUVczvUU2ocLE0tkC1siCqpo.png" group-title="Sports",Noxbit:,Матч ТВ
 http://127.0.0.1:6689/stream?cid=3568
