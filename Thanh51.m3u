@@ -1,79 +1,233 @@
 #EXTM3U thanh51 (gg.gg/8zy29)
 
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Main Event SD
-http://188.93.238.184:8000/live/snet/snet/37982.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Main Event (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36513.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Prem Lge HD
-http://188.93.238.184:8000/live/snet/snet/36514.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Prem Lge (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/13633.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Football HD
-http://188.93.238.184:8000/live/snet/snet/12451.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Football (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37400.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Cricket HD
-http://188.93.238.184:8000/live/snet/snet/37955.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Cricket (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37988.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports F1 HD
-http://188.93.238.184:8000/live/snet/snet/9721.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports F1(Backup-1)
-http://188.93.238.184:8000/live/snet/snet/9722.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Arena HD
-http://188.93.238.184:8000/live/snet/snet/11911.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Arena (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37294.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports News HQ
-http://188.93.238.184:8000/live/snet/snet/9725.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports News (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37299.ts
-#EXTINF:-1 group-title="Sports",UK@Sky Sports Golf HD
-http://188.93.238.184:8000/live/snet/snet/37569.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Golf (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32594.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Action HD
-http://188.93.238.184:8000/live/snet/snet/36509.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Action (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36510.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Mix HD
-http://188.93.238.184:8000/live/snet/snet/9723.ts
-#EXTINF:-1 group-title="Sports",UK@ Sky Sports Mix (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/29507.ts
-#EXTINF:-1 group-title="Sports",UK@ Eurosport 1 HD
-http://188.93.238.184:8000/live/snet/snet/29815.ts
-#EXTINF:-1 group-title="Sports",UK@ Eurosport 2 HD
-http://188.93.238.184:8000/live/snet/snet/10763.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport 1 HD
-http://188.93.238.184:8000/live/snet/snet/36515.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport 1 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32859.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport 2 HD
-http://188.93.238.184:8000/live/snet/snet/37956.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport 2 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37153.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport 3 HD
-http://188.93.238.184:8000/live/snet/snet/32931.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport 3 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32223.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport Espn HD
-http://188.93.238.184:8000/live/snet/snet/10759.ts
-#EXTINF:-1 group-title="Sports",UK@ BT Sport Espn (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/10760.ts
-#EXTINF:-1 group-title="Sports",MY@ .Astro Sports
-http://188.93.238.184:8000/live/snet/snet/36505.ts
-#EXTINF:-1 group-title="Sports",MY@ .SkyNet Sports 1
-http://188.93.238.184:8000/live/snet/snet/36504.ts
-#EXTINF:-1 group-title="Sports",MY@ .SkyNet Sports 2
-http://188.93.238.184:8000/live/snet/snet/36503.ts
-#EXTINF:-1 group-title="Sports",MY@ .SkyNet Sports 3
-http://188.93.238.184:8000/live/snet/snet/36502.ts
-#EXTINF:-1 group-title="Sports",MY@ .SkyNet Sports 4
-http://188.93.238.184:8000/live/snet/snet/36501.ts
-#EXTINF:-1 group-title="Sports",MY@ .SkyNet Sports 5
-http://188.93.238.184:8000/live/snet/snet/36500.ts
-#EXTINF:-1 group-title="Sports",MY@ .SkyNet Sports 6
-http://188.93.238.184:8000/live/snet/snet/36499.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",UK:BT Sport 1
+http://universeiptv.com:8000/live/santino/1234/628.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",UK:BT Sport 2
+http://universeiptv.com:8000/live/santino/1234/627.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport3.png",UK:BT Sport 3
+http://universeiptv.com:8000/live/santino/1234/2588.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg",UK:BT Sport 1 HD
+http://universeiptv.com:8000/live/santino/1234/2720.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg",UK:BT Sport 2 HD
+http://universeiptv.com:8000/live/santino/1234/2721.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.liveonlinetv247.info/images/btsport3.png",UK:BT Sport 3 HD
+http://universeiptv.com:8000/live/santino/1234/2722.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg",UK:BT Sport ESPN FHD
+http://universeiptv.com:8000/live/santino/1234/2723.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport_hd.jpg",UK:Eurosport 1 HD
+http://universeiptv.com:8000/live/santino/1234/4475.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2_hd.jpg",UK:Eurosport 2 HD
+http://universeiptv.com:8000/live/santino/1234/4474.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-PREMIER.png",UK:SkySports Premier League HD
+http://universeiptv.com:8000/live/santino/1234/630.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-PREMIER.png",UK:SkySports Premier League FHD
+http://universeiptv.com:8000/live/santino/1234/2718.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png",UK:SkySports Main Event HD
+http://universeiptv.com:8000/live/santino/1234/634.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png",UK:SkySports Main Event FHD
+http://universeiptv.com:8000/live/santino/1234/2714.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ARENA.png",UK:SkySport Arena
+http://universeiptv.com:8000/live/santino/1234/4973.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-FOOTBALL.png",UK:SkySport Football
+http://universeiptv.com:8000/live/santino/1234/4974.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MIX.png",UK:SkySports Mix HD
+http://universeiptv.com:8000/live/santino/1234/4966.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/220px-Setanta-logo.jpg",UK:SkySetanta Sports
+http://universeiptv.com:8000/live/santino/1234/611.m3u8
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_1_HD
+http://universeiptv.com:8000/live/santino/1234/858.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_2_HD
+http://universeiptv.com:8000/live/santino/1234/859.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_3_HD
+http://universeiptv.com:8000/live/santino/1234/860.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_4_HD
+http://universeiptv.com:8000/live/santino/1234/861.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_5_HD
+http://universeiptv.com:8000/live/santino/1234/862.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_6_HD
+http://universeiptv.com:8000/live/santino/1234/863.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_7_HD
+http://universeiptv.com:8000/live/santino/1234/864.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_8_HD
+http://universeiptv.com:8000/live/santino/1234/865.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_9_HD
+http://universeiptv.com:8000/live/santino/1234/866.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_10_HD
+http://universeiptv.com:8000/live/santino/1234/867.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_11_HD
+http://universeiptv.com:8000/live/santino/1234/3026.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_12_HD
+http://universeiptv.com:8000/live/santino/1234/3027.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_13_HD
+http://universeiptv.com:8000/live/santino/1234/13.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_14_HD
+http://universeiptv.com:8000/live/santino/1234/14.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_15_HD
+http://universeiptv.com:8000/live/santino/1234/15.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_16_HD
+http://universeiptv.com:8000/live/santino/1234/19978.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_17_HD
+http://universeiptv.com:8000/live/santino/1234/19979.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD1
+http://universeiptv.com:8000/live/santino/1234/1003.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD2
+http://universeiptv.com:8000/live/santino/1234/1004.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD3
+http://universeiptv.com:8000/live/santino/1234/1005.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD4
+http://universeiptv.com:8000/live/santino/1234/1006.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD5
+http://universeiptv.com:8000/live/santino/1234/1007.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD6
+http://universeiptv.com:8000/live/santino/1234/1008.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD7
+http://universeiptv.com:8000/live/santino/1234/1009.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD8
+http://universeiptv.com:8000/live/santino/1234/1010.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD9
+http://universeiptv.com:8000/live/santino/1234/1011.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD10
+http://universeiptv.com:8000/live/santino/1234/1012.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD11
+http://universeiptv.com:8000/live/santino/1234/3028.ts
+#EXTINF:-1 group-title="Sports",bein_Sports_SD12
+http://universeiptv.com:8000/live/santino/1234/3029.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD1_Low
+http://universeiptv.com:8000/live/santino/1234/16.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD2_Low
+http://universeiptv.com:8000/live/santino/1234/17.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD3_Low
+http://universeiptv.com:8000/live/santino/1234/18.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD4_Low
+http://universeiptv.com:8000/live/santino/1234/19.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD5_Low
+http://universeiptv.com:8000/live/santino/1234/20.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD6_Low
+http://universeiptv.com:8000/live/santino/1234/21.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD7_Low
+http://universeiptv.com:8000/live/santino/1234/22.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD8_Low
+http://universeiptv.com:8000/live/santino/1234/23.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD9_Low
+http://universeiptv.com:8000/live/santino/1234/24.ts
+#EXTINF:-1 group-title="Sports",BeINsport_HD10_Low
+http://universeiptv.com:8000/live/santino/1234/25.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_1_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3111.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_2_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3110.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_3_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3109.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_4_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3108.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_5_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3107.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_6_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3106.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_7_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3105.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_8_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3104.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_9_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3103.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_10_HD_1080p
+http://universeiptv.com:8000/live/santino/1234/3102.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_1_4k
+http://universeiptv.com:8000/live/santino/1234/5544.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_2_4k
+http://universeiptv.com:8000/live/santino/1234/5543.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_3_4k
+http://universeiptv.com:8000/live/santino/1234/5542.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_4_4k
+http://universeiptv.com:8000/live/santino/1234/5541.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_5_4k
+http://universeiptv.com:8000/live/santino/1234/5540.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_6_4k
+http://universeiptv.com:8000/live/santino/1234/5539.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_7_4k
+http://universeiptv.com:8000/live/santino/1234/5538.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_8_4k
+http://universeiptv.com:8000/live/santino/1234/5537.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_9_4k
+http://universeiptv.com:8000/live/santino/1234/5536.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_10_4k
+http://universeiptv.com:8000/live/santino/1234/5535.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_11_4k
+http://universeiptv.com:8000/live/santino/1234/5534.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORT_12_4k
+http://universeiptv.com:8000/live/santino/1234/5533.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_1
+http://universeiptv.com:8000/live/santino/1234/165.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_2
+http://universeiptv.com:8000/live/santino/1234/167.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_3
+http://universeiptv.com:8000/live/santino/1234/168.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_4
+http://universeiptv.com:8000/live/santino/1234/169.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_5
+http://universeiptv.com:8000/live/santino/1234/170.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_6
+http://universeiptv.com:8000/live/santino/1234/171.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_7
+http://universeiptv.com:8000/live/santino/1234/172.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_8
+http://universeiptv.com:8000/live/santino/1234/173.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_9
+http://universeiptv.com:8000/live/santino/1234/174.ts
+#EXTINF:-1 group-title="Sports",Bein_sport_10
+http://universeiptv.com:8000/live/santino/1234/166.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_1_HD
+http://universeiptv.com:8000/live/santino/1234/1.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_2_HD
+http://universeiptv.com:8000/live/santino/1234/2.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_3_HD
+http://universeiptv.com:8000/live/santino/1234/3.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_4_HD
+http://universeiptv.com:8000/live/santino/1234/4.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_5_HD
+http://universeiptv.com:8000/live/santino/1234/5.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_6_HD
+http://universeiptv.com:8000/live/santino/1234/6.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_7_HD
+http://universeiptv.com:8000/live/santino/1234/7.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_8_HD
+http://universeiptv.com:8000/live/santino/1234/8.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_9_HD
+http://universeiptv.com:8000/live/santino/1234/9.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_10_HD
+http://universeiptv.com:8000/live/santino/1234/10.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_11_HD
+http://universeiptv.com:8000/live/santino/1234/11.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_12_HD
+http://universeiptv.com:8000/live/santino/1234/12.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS
+http://universeiptv.com:8000/live/santino/1234/5593.ts
+#EXTINF:-1 group-title="Sports",BEIN_SPORTS_NEWS
+http://universeiptv.com:8000/live/santino/1234/2219.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_1_HD
+http://universeiptv.com:8000/live/santino/1234/2203.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_2_HD
+http://universeiptv.com:8000/live/santino/1234/2204.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_3_HD
+http://universeiptv.com:8000/live/santino/1234/2205.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_4_HD
+http://universeiptv.com:8000/live/santino/1234/2206.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_1_SD
+http://universeiptv.com:8000/live/santino/1234/2207.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_2_SD
+http://universeiptv.com:8000/live/santino/1234/2208.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_3_SD
+http://universeiptv.com:8000/live/santino/1234/2209.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_4_SD
+http://universeiptv.com:8000/live/santino/1234/2210.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_1_low
+http://universeiptv.com:8000/live/santino/1234/2211.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_2_low
+http://universeiptv.com:8000/live/santino/1234/2212.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_3_low
+http://universeiptv.com:8000/live/santino/1234/2213.ts
+#EXTINF:-1 group-title="Sports",BEIN_MAX_4_low
+http://universeiptv.com:8000/live/santino/1234/2214.ts
 
 #EXTINF:-1 group-title="Sports",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -109,50 +263,74 @@ http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV 
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 HD 
 http://content.asplaylist.net/MVRpdG1XaDdGNXVDT3J2WnBIbHVBVk5NZnQvdUxYZXhTVVhoWU5rVGtFOGtYOUZYa1dPWHE5Qmx1RUx2OWszREpqeDdiYThsbDJUY3grQjU1V1VJOXc9PQ/cdn/625_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 2 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 2 
 http://content.asplaylist.net/NUVUcXNTa1JQazM5Mk5TbVJaeGdZaDZJN3l0WGNVY3V5Z3NBNTBwamt6dkRRVHFzd1UxSVdmTWF1aHFVVy9CTlB1ekhRM0tCTVVNUFAwVXd6WGpoQlE9PQ/cdn/611_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 3 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 3 
 http://content.asplaylist.net/VDVBenJlN1NXVHE2NXU2cHY4SnNZNUVNb1NDSDdNVXlmSUt1ZWRKYUgvMWdMV240Y2RuS1hhUlVyOHNOOHQvelV1V3RRWGQzNG5YZnQyaEdCNTFuZWc9PQ/cdn/701_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 3 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 3 
 http://content.asplaylist.net/aXh5ODNvRDNsV2R2Q0oxejVRcWRZclBFaUV1Z0VXNU1NVCsrNzlMajFpVHMyMXVhbGZ5V1l0R3Z6QkdLWndxTEVvZVcreWY1ZTBMOWx1ell6K01pNGc9PQ/cdn/646_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 
 http://content.asplaylist.net/aXVnWDlheG1DN3dwMmdlTnBIZmN2czMvWVcvdS9rMGVra290ZDBWTndJdGlyQmEzRXlWNWdTZGIvdDlmNFZHWkRIZkhGaGVINVJ4aHdGenZlMmxDbnc9PQ/cdn/39_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 
 http://content.asplaylist.net/TDdMYWwzblh3am9YVHhFeXVzSkpUODFCQkd4VWVGWlJweU16dDVqRnROekxaLytHOHNWYzRzcHhwV3ZwaVQzQXRkUjhZbmt5NW9tZWo1aW9HaFZQRFE9PQ/cdn/625_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 1 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 HD Резерв 1 
 http://content.asplaylist.net/RnJtdU9JTFY1SW0yRjdnOEp4Z2pCVkNybkc0M0kvRHc3T2dUd0prQWJjSmNINXpnanJCRU1MNXp5Qmp2RTNacmtjUmt3WUZuNkV6eGlaVGMrVW55WWc9PQ/cdn/1190_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 2 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 HD Резерв 2 
 http://content.asplaylist.net/YUpvNEFmWmF0NkN4Q3VVZWFDQVloNDBsdVVMWHMzdyt0akpOczM2M1lnbnpiOEhCNFZTVFpkOUZ4OHRLT2pXV1gxeFBlVFA2RmEzTHVwN0VnN2RzV1E9PQ/cdn/1191_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 3 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 HD Резерв 3 
 http://content.asplaylist.net/OW94T1dLS0JIYW5YRE1GWHFpMkdJRWVHSWVvOC81SEU2SE5weVd3TUJsSzJoYmhZYWxranY4YUxOa2JtTExNeFIzdHZpcjdkdDYwQkk1Zmh1TlJBS0E9PQ/cdn/1192_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 Резерв 1 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 Резерв 1 
 http://content.asplaylist.net/VWFOUDROYWdNTnpHbVdhVWV0MHIvWng3N1k5YjlCV25Cc2VoL2VLcFA3MnNUckpYckhTelV4cndxbFB2eHQ5WnVXWHhDZ1JaWW1kaTJ6bFZtZ2Q0elE9PQ/cdn/1187_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 Резерв 2 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 Резерв 2 
 http://content.asplaylist.net/V2FMNkdOd2NqMjd6U3FwbWh1eXhBeFF5MUdqaGlkbXBwVlMyYitieUd2NXhpY2pWa3pVYUZ0ZVdlRlhjYlQrL3VacThzRWw1WDRSMkhJWXFJR2hKdmc9PQ/cdn/1188_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 Резерв 3 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 Резерв 3 
 http://content.asplaylist.net/UzZjamdjVllubFJkdHRmRTVzSXhEaGtCNFdLdEt3cVd4dnMyWVBxZTFHdzFXY25VR0NtWHZ0b01lTGs3VTh0UUxtQTFqTDVrb3hzdkFJRnRrd1doY1E9PQ/cdn/1189_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 2 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 2 
 http://content.asplaylist.net/M21sZmZOUWNQSURJS1ZGbkxCTDdwc2dwMGo5OFcvK1ZzcEdzaFpNZkJKN3pwVjdPWlVNVlNZRGpCVTl3dWk0Q1JPeXdJaUEzVnYzM1BOUDVlTi82dGc9PQ/cdn/552_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 2 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 2 
 http://content.asplaylist.net/c1B4SHFVMzhLNXFLaVc0K1cvbngzenBlMnUwSW43cGhkQ2xFNGFMYWZIY3BoYzd5L1ZCRElrYzh6Q3Rhc1JWNW1SSi91THF6N1lKLzZTR0pPc1kwQ2c9PQ/cdn/611_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 3 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 3 
 http://content.asplaylist.net/YlYxN2ZKMGE0cmtEandmUkZ0d2czMlY2cCszdFdQUk5oZi9mazQvcXk0MFZMQVp6eElNQ0hlSVR1eTROUUdheE5iaUx0RWtZeDg3RjVRYlhwbTV6ZWc9PQ/cdn/701_reg.acelive
-#EXTINF:-1 group-title="Sports",Матч! Футбол 3 
+#EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 3 
 http://content.asplaylist.net/a3ZCcVRCNzBWRFE0Nkp3OElYdk0waHoyS25sL0xqOHFBNVozanFRRGhVNktWMnAzRTQ2TDlQcFdzRG1QWHE1RmNvRWRwazAyRGFyMmRoRlBMaTlIclE9PQ/cdn/646_reg.acelive
-#EXTINF:-1 group-title="Sports",futbol
+#EXTINF:-1 group-title="Sports",Ace:futbol
 http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/472_reg.acelive
-#EXTINF:-1 group-title="Sports",ntvplus-futbol-1
+#EXTINF:-1 group-title="Sports",Ace:ntvplus-futbol-1
 http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/39_reg.acelive
-#EXTINF:-1 group-title="Sports",Футбол 1 (Украина) 
+#EXTINF:-1 group-title="Sports",Ace:Футбол 1 (Украина) 
 http://content.asplaylist.net/cFNnWlZ4a3pXNytHQVRLRXIrSnh5YngweDZ1V2dyTHJRRkowYkRaTmpkY0JSUnVUNWFObjg2TjZoYXR0ZWtWQW53NndzdWFXSTQ3eG8zUk1VdFIzVFE9PQ/cdn/533_reg.acelive
-#EXTINF:-1 group-title="Sports",Футбол 2 (Украина) 
+#EXTINF:-1 group-title="Sports",Ace:Футбол 2 (Украина) 
 http://content.asplaylist.net/TFAxSzhvMVpzQ1FaQjd5MnVwdERkZ3NBQ1EyTUF2dHEyeDNrYjNHNS9WUUROTFM0QS9VM3FHaWN0anJacDNpUWVQckxzNng4M1E4b1o5Qm95eEpzS2c9PQ/cdn/532_reg.acelive
-#EXTINF:-1 group-title="Sports",match-tv
+#EXTINF:-1 group-title="Sports",Ace:match-tv
 http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/4_all.acelive
-#EXTINF:-1 group-title="Sports",match-tv-hd
+#EXTINF:-1 group-title="Sports",Ace:match-tv-hd
 http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/1016_all.acelive
+
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/hQDOuQjUVczvUU2ocLE0tkC1siCqpo.png" group-title="Sports",Noxbit:,Матч ТВ
+http://127.0.0.1:6689/stream?cid=3568
+#EXTINF:-1 tvg-id="940" tvg-logo="http://1ttv.org/uploads/DDjh1dM2D09Wcl3L6YmEd1si3P17n0.png" group-title="Sports",Noxbit:,Матч! Арена
+http://127.0.0.1:6689/stream?cid=3652
+#EXTINF:-1 tvg-id="1354" tvg-logo="http://1ttv.org/uploads/urIB7TbFWo36EmXW9eG3w4qre7MdX9.png" group-title="Sports",Noxbit:,Матч! Игра HD
+http://127.0.0.1:6689/stream?cid=3572
+#EXTINF:-1 tvg-id="100052" tvg-logo="http://1ttv.org/uploads/l0x8GopxrHL6jLiDGVHi8tIEc7RBt2.png" group-title="Sports",Noxbit:,Матч! Наш Спорт
+http://127.0.0.1:6689/stream?cid=3669
+#EXTINF:-1 tvg-id="1018" tvg-logo="http://1ttv.org/uploads/mWQ92sSmszzmjme9GTueLPCxagJGtl.png" group-title="Sports",Noxbit:,Матч! Планета
+http://127.0.0.1:6689/stream?cid=3676
+#EXTINF:-1 tvg-id="205" tvg-logo="http://1ttv.org/uploads/9PM8M6cN21wQ3M5isVZgjNepzUI4Ry.png" group-title="Sports",Noxbit:,Матч! Футбол 1
+http://127.0.0.1:6689/stream?cid=3679
+#EXTINF:-1 tvg-id="100001" tvg-logo="http://1ttv.org/uploads/8MA3WloO6RsWX8N7Ck5ugek2Kirf4B.png" group-title="Sports",Noxbit:,Матч! Футбол 2
+http://127.0.0.1:6689/stream?cid=3671
+#EXTINF:-1 tvg-id="300128" tvg-logo="http://1ttv.org/uploads/OLHdmyfUev4mMX0OGniJrlUwHnMKOg.png" group-title="Sports",Noxbit:,Матч! Футбол 3
+http://127.0.0.1:6689/stream?cid=3681
+#EXTINF:-1 tvg-id="686" tvg-logo="http://1ttv.org/uploads/472.png" group-title="Sports",Noxbit:,Футбол
+http://127.0.0.1:6689/stream?cid=4837
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/AMKtYwcgSAX5mTcPdhQDe4he18Jz7S.png" group-title="Sports",Noxbit:,Футбол 1 /Украина/
+http://127.0.0.1:6689/stream?cid=3895
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/PUXTI9mKcs49JnEENkh95KoKqt9VNg.png" group-title="Sports",Noxbit:,Футбол 2 /Украина/
+http://127.0.0.1:6689/stream?cid=3779
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
 http://persik.by/stream/1418/252987/346.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1-hd.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1 HD
@@ -433,7 +611,6 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 group-title="VietTV" tvg-id="Vinh Long 2" tvg-logo="http://netxua.ml/images/icon-channel/vinhlong2hd.png",Vĩnh Long 2 HD
 http://tranvinh.xyz/play/thvli.php?id=vinhlong2hd
 
-
 #EXTINF:-1 group-title="VietHN" tvg-logo="",Sai Gon TV
 https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
 #EXTINF:-1 group-title="VietHN" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",Việt Mỹ TV
@@ -463,6 +640,24 @@ http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/strea
 #EXTINF:-1 group-title="VietHN" tvg-logo="http://www.Tổng hợp24.com/main/images/rangdong_logo.jpg",Rạng Đông
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
 
+#EXTINF:-1 group-title="USA",Animal Planet 
+http://80.80.160.168/live/1/500000/live.m3u8
+#EXTINF:-1 group-title="USA",TLC 
+http://80.80.160.168/live/2/500000/live.m3u8
+#EXTINF:-1 group-title="USA",Travel Channel 
+http://80.80.160.168/live/3/500000/live.m3u8
+#EXTINF:-1 group-title="USA",Planet Green 
+http://80.80.160.168/live/4/500000/live.m3u8
+#EXTINF:-1 group-title="USA",Investigation Discovery 
+http://80.80.160.168/live/5/500000/live.m3u8
+#EXTINF:-1 group-title="USA",ESPN 
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1 group-title="USA",Showtime 
+http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:-1 group-title="USA",Discovery 
+http://80.80.160.168/live/8/2500000/live.m3u8
+#EXTINF:-1 group-title="USA",Discovery Science 
+http://80.80.160.168/live/9/2500000/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="USA",Live Stream
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/93032ce95a064d129cdefa1ecbce95e1-hd.jpg" group-title="USA",30A TV
@@ -834,88 +1029,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="USA",XiveTV
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 group-title="UK",Animal Planet 
-http://80.80.160.168/live/1/500000/live.m3u8
-#EXTINF:-1 group-title="UK",TLC 
-http://80.80.160.168/live/2/500000/live.m3u8
-#EXTINF:-1 group-title="UK",Travel Channel 
-http://80.80.160.168/live/3/500000/live.m3u8
-#EXTINF:-1 group-title="UK",Planet Green 
-http://80.80.160.168/live/4/500000/live.m3u8
-#EXTINF:-1 group-title="UK",Investigation Discovery 
-http://80.80.160.168/live/5/500000/live.m3u8
-#EXTINF:-1 group-title="UK",ESPN 
-http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 group-title="UK",Showtime 
-http://80.80.160.168/live/7/2500000/live.m3u8
-#EXTINF:-1 group-title="UK",Discovery 
-http://80.80.160.168/live/8/2500000/live.m3u8
-#EXTINF:-1 group-title="UK",Discovery Science 
-http://80.80.160.168/live/9/2500000/live.m3u8
-#EXTINF:-1 group-title="UK",BB1NI-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/1.ch
-#EXTINF:-1 group-title="UK",BBC1cambridge-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/3.ch
-#EXTINF:-1 group-title="UK",BBC1Channelislands-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/15.ch
-#EXTINF:-1 group-title="UK",BBC1East-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/14.ch
-#EXTINF:-1 group-title="UK",BBC1EastMidlands-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/13.ch
-#EXTINF:-1 group-title="UK",BBC1Eastyorkshire-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/9.ch
-#EXTINF:-1 group-title="UK",BBC1NE-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/5.ch
-#EXTINF:-1 group-title="UK",BBC1NW-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/4.ch
-#EXTINF:-1 group-title="UK",BBC1Oxford-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/12.ch
-#EXTINF:-1 group-title="UK",BBC1S-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/8.ch
-#EXTINF:-1 group-title="UK",BBC1Sc-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/2.ch
-#EXTINF:-1 group-title="UK",BBC1SE-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/7.ch
-#EXTINF:-1 group-title="UK",BBC1SW-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/6.ch
-#EXTINF:-1 group-title="UK",BBC1West-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/11.ch
-#EXTINF:-1 group-title="UK",BBC1Yorks-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/10.ch
-#EXTINF:-1 group-title="UK",bbc2hd-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/25.ch
-#EXTINF:-1 group-title="UK",BBC2NI-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/16.ch
-#EXTINF:-1 group-title="UK",BBC2Sc-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/17.ch
-#EXTINF:-1 group-title="UK",bbc2wales-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/24.ch
-#EXTINF:-1 group-title="UK",bbc3-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
-#EXTINF:-1 group-title="UK",bbc4hd-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/26.ch
-#EXTINF:-1 group-title="UK",BBCalba-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/18.ch
-#EXTINF:-1 group-title="UK",bbcnews-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/27.ch
-#EXTINF:-1 group-title="UK",BBCPArl-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/22.ch
-#EXTINF:-1 group-title="UK",S4C-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/23.ch
-#EXTINF:-1 group-title="UK",BBCNewsHD
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/67.ch
-#EXTINF:-1 group-title="UK",BBC 1 NI HD
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/68.ch
-#EXTINF:-1 group-title="UK",BBC1
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/72.ch
-#EXTINF:-1 group-title="UK",BBC1HD
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/73.ch
-#EXTINF:-1 group-title="UK",CBBC-IPL
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/76.ch
-#EXTINF:-1 group-title="UK",Cbeebies
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
-
-
 #EXTINF:-1 group-title="Russia",Ace:Матч! Футбол 1 HD 
 http://content.asplaylist.net/MVRpdG1XaDdGNXVDT3J2WnBIbHVBVk5NZnQvdUxYZXhTVVhoWU5rVGtFOGtYOUZYa1dPWHE5Qmx1RUx2OWszREpqeDdiYThsbDJUY3grQjU1V1VJOXc9PQ/cdn/625_reg.acelive
 #EXTINF:-1 group-title="Russia",Ace:Матч! Футбол 2 
@@ -960,6 +1073,326 @@ http://content.asplaylist.net/TFAxSzhvMVpzQ1FaQjd5MnVwdERkZ3NBQ1EyTUF2dHEyeDNrYj
 http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/4_all.acelive
 #EXTINF:-1 group-title="Russia",Ace:match-tv-hd
 http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/1016_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Eurosport 1 
+http://content.asplaylist.net/Qjh6NjZ4Nm80WVJrYUxnekx6cGdjakZ0SHFsQXB5K0RyVkt3NE9MRlZYa0dkaFVmRTVoMWVoMTh0L3VhcTFVdG1hY3BCMm5lalphUGhVeUFqZkJ4Ync9PQ/cdn/5_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Eurosport 1 
+http://content.asplaylist.net/OXl2d0hBWjVEQzlaNFpDVUZ1bjR0RktwSm5CVnk2RWFJWklwQW9pZ05NWXViWFNEYk5CZWFxQU16OW96U3R1bzlRUDF3T0tkSTg3ckdGeWtjcXhDeXc9PQ/cdn/172_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Eurosport 2 
+http://content.asplaylist.net/WnF2eXMvdXE1dWdXUTZQZm5HNnFlREVJMklyM1FIVE9GeW8xNnUrR05Gdko2KzdDZDVhT2dqdThtSHQxZUloWkZGV0M1RktqREQxdmpDb1B3YU9mZkE9PQ/cdn/6_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Eurosport 2 
+http://content.asplaylist.net/eVpiSVJnL093ZXFXcnQxNWw2UzdGQ0RHWm1DYTdtNThXODlLOHpoRktweCs0enpFY3NLOU95bzdGTFNEdWtob2lCd2NUWFNob201SGJRamlidDE1VEE9PQ/cdn/626_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Extreme Sports 
+http://content.asplaylist.net/b2Y2a0NKaU9iTlhvOVk2MlVJamZTbUxUUXhTRnFQTmQ3Y2g1K2FzRFpoSGZ2Z2FqREFNSmZjcXkyVC8vd0pDUmphZXcyN1BJb0YrTU52QkhzcEk4WFE9PQ/cdn/8_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:viasat-sport-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/778_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:ntvplus-sport
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/38_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:ntvplus-sport-plyus
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/222_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:hd-sport
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/112_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:animal-planet
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/45_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:animal-planet-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/612_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:cctv-9-documentary
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/537_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:discovery-channel
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/359_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:discovery-channel-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/613_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:discovery ID
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/348_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:nat-geo-wild
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/179_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:nat-geo-wild-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/547_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:national-geographic
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/66_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:national-geographic-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/169_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:history-channel
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/637_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:history-channel-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/699_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:outdoor-channel
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/467_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:tlc
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/491_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:tlc-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/700_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:viasat-explore
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/74_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:viasat-history
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/75_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:viasat-nature-east
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/481_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:viasat-nature-history-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/633_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Da Vinci Learning 
+http://content.asplaylist.net/WVh6blBKcWVBZDRxTjhrbkVHUTAvaWpHVmU5R1BTMU5GMmRyUjNTRkRLRWlIVzcyaktockRGRUtNbEtSRmdoSktVcmZXOGxWWDZua0ZLTzE5RDkyVnc9PQ/cdn/483_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:HD Life 
+http://content.asplaylist.net/bXQzVGVkNmpNRE84dDBEQTBHc0JPZjlKRlU0UjRHbGlMU1NoVVhTVTkxMm82QUFNY04rSlI0NmxtVDR5dlFNRzFaNjhLUlVDSDVYNU1ZdllmWXhjN0E9PQ/cdn/616_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:History Channel 
+http://content.asplaylist.net/bzlkbCtjM29zN1drWFMvZGF2d2tVRnVTRGpaN1hWWkphd1F4M1V2RnZCTzM1WDhYTmt0bHFtQWJpenhkaGpYVXBxSXVXajJzVjJOTnFOMXcrbFBNWXc9PQ/cdn/637_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:History Channel HD 
+http://content.asplaylist.net/UEt5UHpIVVh2Z2ZoOW5zV3dZVEpGVkYrRlRWSktTS29BSmQ4Nzc1Mi94LzFDcFZWWUZVTnBleDVjcy9RWi9HTWN6NDB0Wk9TRU1GbmxJQU80NEFrclE9PQ/cdn/699_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Ocean-TV 
+http://content.asplaylist.net/R2lpVnFqcTNHWDR1RkR6QjVDMHJsVExFZUFhYlJNamxSMkgrb1o4ZGROSzlNNko2M2V4Y21DdWNJN0VaNitlVFh1NHVSL2RiTHl0d0tXeWY1ZExUZWc9PQ/cdn/183_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:RTG HD 
+http://content.asplaylist.net/NnZtaFkrQ01QZ0ZpL1hGVFdjRkZuTXRWOTZNaXNZSXZoOXZubFNkSWJzQlRFNEFZZGlBVys0RGtYN1VjcHgzT1N6OFZHVjhuUlQyOFFTeS9Gck1ZVWc9PQ/cdn/722_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:RTG TV 
+http://content.asplaylist.net/bmZEZjI1UjNtOU9JRVpKekhQU25XYS9HRTgvZlQyNTF0TFRrZk9ZaDMzTjBUamEwVVJ6aTR4bUVsMmtCYVhRU3M2VmRpWjFGbkdJNmJibGNBd3NEa3c9PQ/cdn/213_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Russia Today Doc 
+http://content.asplaylist.net/TS9sSkFEKzNyenRzMWZDM1g4WmYwR0JPOUs2V1pwTEhTSXEzeHRSUHpGRE91VlVOSXNVVUdYOWw5cU5KeUkyejVjVGNYR0QyR2gvOVl4dkw5RlZRc3c9PQ/cdn/639_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Russia Today Doc HD 
+http://content.asplaylist.net/S3F0NHg1bnl3RGw0NU10TTFBbWRZb0VBdC9ndjF1OWZiZ0JIVGF4NFA2YzdDTWlaRnI0NlZHcDNzTnVtT2NNUDdvRTVYemxoV2VOTjFWMHNnd0c5Tmc9PQ/cdn/647_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Teletravel HD 
+http://content.asplaylist.net/aXRaMWVlcFpXYlBOblV3Vjc1eFB1MlVTbUZ3cVgzQkJ3a1V3bHhCWW1jdXRXUFhvQ210cFh3dWhtWVcxcXJHeU5qNkFkbVVLc01vZVVaYzFIU0FjRHc9PQ/cdn/956_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Travel + adventure HD 
+http://content.asplaylist.net/a1FLbFFiOHpYaEIwYVk2dU8vSE5YcG5PRnZwRUJscnNvVjl4b3psVVpDOTA0ZlNpYlR4Y2U0dVVLQkM3Ky9yS0tTMHlKQWFjUWYxZG4yTTY2NDZ3M2c9PQ/cdn/649_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Travel Channel 
+http://content.asplaylist.net/ampxdEZYeVFFZzR4QTFZYjhLS1lyNXJtYTZRdFBNRUJWOW1mRElmNnhsQVpnUzg3c2V0RmlzV3VwRGZMK1krc0RPVnlXcityaS9rOHNZRVV5V3g4T3c9PQ/cdn/630_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Travel Channel HD 
+http://content.asplaylist.net/aHpKckN2NWtOR0VaMm96TXU3dE9yeGxJL2FRMlZpS3ZWWVdUdk1FajRremFJVVo3clpYMXBsMGQvRmgrTFJFb0gzcjAzb2RwWjQyWXplcEducE9NOVE9PQ/cdn/632_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Живая Планета 
+http://content.asplaylist.net/U2wxTWZPTjI0K09mZ2ZSQTVUNEtoTzRiZHpueHU4cHp2OXZsQmp1L2ZwYmdEVEl0QjFmYlhTZXJzWUJ4QUFPUytNMytSZjVEc09iN0lnSnBsejBRZkE9PQ/cdn/1011_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Загородная жизнь 
+http://content.asplaylist.net/ZmdpMHlMYTRjU0VMcENpM3dlc3ZTdGd6Y3BBcURNRW5kK2o3QlB3NzBmcSt3a0FjQkdOaGtrSlI0WmFBMnZWREp6Tk15SkY2Z1dQZlFrbDBzMStoZFE9PQ/cdn/477_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Зоо ТВ 
+http://content.asplaylist.net/dU45TWdjcVB6NDNuNlNQMzZNTU5EQy96ZW82NHpEVm42Rm9LaDJjaDRxaDR5SC9ZY3BIdzNWRkdYS3ZqdE5UN2FWN2NidUU1RUMrL0hKam1MbWp3dnc9PQ/cdn/202_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Зоопарк 
+http://content.asplaylist.net/Q2ViRFVWOGdxTjNOdUJhZEwrck8xREdmUlFmeEJ1Nk4zNXYvTk92eUltMDFRQkk0aE1rbnFUQmVuczZGU2Q2R2t0S1pybzl3MG1qU1FLZVo0SU1SVmc9PQ/cdn/125_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:История 
+http://content.asplaylist.net/TkpwcXF3d1FqRndxWGNvc0dvVGV4S3A3dUVnTUFqeFozN0pzRCsvL1U4S2lwMmhFS0s1Y3hsVnlLa1lvOFJpRGxBaW02dFYxTGtsQWc5Mm92b3VHMGc9PQ/cdn/652_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Калейдоскоп ТВ 
+http://content.asplaylist.net/bkxjRERqQlgzc3dDTGh4VUNuVXpVd0tmMFdKSXpMa1lRaEZOZ3pKK1BIOWhld1oxaE8wWnFLYVd2ZDRMbThiVWlNa0lZRGFXZUlDRjZxWXZxeGhxRnc9PQ/cdn/1022_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Кто есть кто 
+http://content.asplaylist.net/ZDAzdzVzTFoyVFVYTGhpRG0zRmxjWEw0VFozQ2tKYVNDV0F1MXRLTFRJY0hnb0dFeEdDT1dPRzNVeGhkQjN4RHQzQ05KNzZIVHFOcXd3N1NvclE1NkE9PQ/cdn/133_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Культура Украина 
+http://content.asplaylist.net/YnlFZHQ3Mjg0K3NKVTJiaXlCQlNwWlBWcGRYK1Y4dUtPeEt1cnBGM3I4ZDJLQnlTSWI2ZlFNclhOejJPVUJ0VEltL0V5ajVMSFQ5VVFDREZGZGRmTnc9PQ/cdn/561_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Кухня ТВ 
+http://content.asplaylist.net/eE4wWURmRXpwZE9IamZpQjdVV2dhbVZLdVZySndsVWkyNDdxUGkrbEtRMVkyQnRzNWgweC9aa3JRdzFrNG1zZGZ5em5BWDc3eXJSWm94WHd4RE5tdHc9PQ/cdn/127_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Мега 
+http://content.asplaylist.net/Vy9tU2djMlpUWDl3UDQrSHBVUG5ESDRuOVFwbTFVMFcyWHhDeHdEenJ5R1dPOFh2SlU0Ung5N3RUMEErWGkxaHMzOEVMM1RoNjNJcVR6MERpY2ZDVkE9PQ/cdn/184_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Моя планета 
+http://content.asplaylist.net/SjFwWVgwM2FKNDkvanhCVGJKcEx6aUI1VzBkazArbFZXMTlPem51b1paaU9tSnQ2VGhVVDZ2QUp0U3JQQmQ1SFRza1ZpaWRjOVJvNHd4NjFPdWNnRWc9PQ/cdn/235_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Нано ТВ 
+http://content.asplaylist.net/T01PK1haYUp5L2lObFM5RmNNc0pCOGdaM0xRMk9sdlJMZjRwNlJLZHJGMW91SjROREFjYmplVUFXdkh2NDhiVXh3ZGF1NHkvRlduczVXQi9ZNGtUeEE9PQ/cdn/521_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Наука 2.0 
+http://content.asplaylist.net/eUYzWENxdGgxbWVMQjFVZkwvS3FoUGcwelA0d1JBK1d1UU9ROXlBK2tLeFJMenE0aitZOFMxYkxuZWp0RzBJcFdoKzBTeGdhK3RncDVxbDdmbkpZNWc9PQ/cdn/466_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Первый образовательный 
+http://content.asplaylist.net/QVVsOVN6ZFJDZjZsWmxINkxadzArajgyOTNuZTFuY0wzQ2cxNVVOR0ExOXlUejd1cm9IMlc2d0lSOEt5Wmt6QVdkVXRpSFNTUmsyTm1NOFJsU0x6ZFE9PQ/cdn/501_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Планета HD 
+http://content.asplaylist.net/aFo0bCtWTFdaWEZYbzZUZjdOQjZPWWtjSlBDalRBVWhaZnI5M2NpQisvSWpLTDhTQTEzeW5rZDFqNExETTZpa0w4aGdoVzVDOUp0eEZYMktxTHhBa1E9PQ/cdn/792_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Просвещение 
+http://content.asplaylist.net/T0E3cGJXcFk0VThEcXBjTmpINjQ5bkFoenozcm9CcmpzRDVKdkpZb3NQZjhxbzJZcXJlNyt5TWpLTUQzRVA5NnhDa1loRStzQ0FtcFhka1lmcVpJdWc9PQ/cdn/512_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Психология 21 
+http://content.asplaylist.net/SjBFWFhqQ2pRQzl5LzlpdVU5eWNQSWZlOCt4SkJZU2o2bkpoc3ZXVS9LdEFhWElBQ051bE9GaTlTSWtDOGRnR05CQ3JYZGp3QldzQVdBdldUbjJFMUE9PQ/cdn/465_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:РЖД ТВ 
+http://content.asplaylist.net/QndMUEtaK2VrRUZVbUtpaUVxL2VoOXdXVlRnZ3V0NWxrYWxJUGRKclJlTkJ3V2ZMVW15dW9RYk9NMlFwVzkvaWxlYWRPOHJ4K0ZxK0h0YWFSQTNaWEE9PQ/cdn/290_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Россия К 
+http://content.asplaylist.net/RTV6RVpUU2lveUVvVFE1aGh0L3BmdDFqeno0VHBnRU44b0h5aElMM2JDdWxuY2VuMmliQ0Z4MDViTVU1Z1BSbFdybFJqZUJPREEzVjJ3dExvZ2dRMmc9PQ/cdn/18_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Совершенно секретно 
+http://content.asplaylist.net/NEJMc1h4cmNCSDN4VnpyWmxCY0FJNnJ4R2o2NjNXemZxWWFaSTBsajgyMTIxWFEzdFg2eTBEQ2JSMWs1ODdTQnpoR3RjVm5pVGswVjlWV2ZTSzVvaXc9PQ/cdn/102_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Теледом HD 
+http://content.asplaylist.net/Z3B1S2w1RWV3RXIwcHN3TXU0YXJyeGhFRVJMejZMVlduWDZtZldseHJ6UURHaUpFeEh3cnNvVFoxclBrTHJRVy9Iak9BdzgrNnJmMjBYMk1GMDdmOUE9PQ/cdn/720_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Телекафе 
+http://content.asplaylist.net/OGo0T0VCT3F2MStPb1ZzWEg1V0lKaGFaREovRFlHdG5wb3hUVnYrSzRwMHF4Ky9CY3ZaMi9WWTVlcW50QW5NR2lBeU10S1F3NnRNK2xydnlDMFIxa3c9PQ/cdn/389_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Телепутешествия 
+http://content.asplaylist.net/Wldkcm91Z0VzckROUWVneFFVYi8rNDdCNTkyY0JwbUh2eVZ5c3FxRzBFaVpRMlhzSjVsTDJSYUYyVHNrMXhTMG01dnBPN0dpZVNyd2pZSStKSXJTY1E9PQ/cdn/209_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Успех 
+http://content.asplaylist.net/YjRCdzYraDZmYjRYaWNEbEcwRlV2M1RVamc2dG1UY3RtK05xbVVrdGZVdUR3S3JnVmVFUjZTWXVocHVNZVdHK1FyRXRrMjJjZEhVZE9WMzRJNjdnbnc9PQ/cdn/475_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Эко-ТВ 
+http://content.asplaylist.net/aFc0YU00TmJHL1FMOWdCZkhwSkx5V09iaFdYVEdWVXdXZ002VkNFMnlNV1pWL3BOMlVTbjlKWk9qTEFFR2MyQjZnVVVGWFh3dGJTMTVKMjdjU2RQblE9PQ/cdn/276_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:al-jazeera-english
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/375_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:bbc-world-news
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/334_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:bloomberg
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/50_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:cctv-4
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/492_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:cnn-international
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/51_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:deutsche-welle
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/152_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:nhk-world-tv
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/478_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:tv5-monde-europe
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/57_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:france-24
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/232_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Cartoon Network 
+http://content.asplaylist.net/MCtnU3htOVJCMmxINURzMVh2aG5KMkkwa0lDWEgweHRRQmN4QlhlTjJJOFllZ1VHbmpzcU1kWjBVTzNURVFjQnREbFV0NzRqN2NzcFpIRzJFa3E0dlE9PQ/cdn/42_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Disney Channel 
+http://content.asplaylist.net/dWJaTTlqS0JuRHJKNjBMQlV3ZWk5bFl2K1ZVYjZ6amYrQ0FONnZWR21jWjZ4SzV2NThBeDF4MFdzTUpaODI1N2VOWVg5Q1VuZzdCbWw2WGdHS21UOUE9PQ/cdn/240_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:JimJam 
+http://content.asplaylist.net/MVBXZ0dLMzUrYkdDUUI4NEpzdmhzaUNLbVNvWHFlNzNXejBRQ0hGTW5YT3l2NFkyYVZqZUZnRHp5TU1Xazd4NzcwclE4Sk5TRnYxa0xzQWt2WTlOMFE9PQ/cdn/173_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Nick Jr. 
+http://content.asplaylist.net/WGFpWDNhVUtNblhDd2pRQzhsQXM5TzBCY1VjRG1ncW5pNFpYQklrcEI4VTMzR255Qk1YdmYxSHBIZzNocWxZTFNOT1Bub1ZnZU42czJSQzQvcW8vS1E9PQ/cdn/549_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Nickelodeon 
+http://content.asplaylist.net/eXpuSG83bG9iaUtVSDRGMzdRdTJLRTJtY3R1aFNTVmpKbHRMdmY2QmdianA1bEdxNFNqbUJUczQ5Q2lKNk9uV2doRzY2MEx5QjRhZm1PaEQ2cEhCRkE9PQ/cdn/48_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Nickelodeon HD 
+http://content.asplaylist.net/TzRxb1I1MlowYm9Nay9PV21uOVJqN0FOUE9DWnVIcU1neTRpR0hpYi9pWUowZ25ScEZhS1VjbDd5Qy8vbHFtejhJSXhXM0VXM1BhY3prRm5kRlF1OFE9PQ/cdn/548_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:AMC 
+http://content.asplaylist.net/QllaNlVYY0gxUnNsN0VVTkdaWm5Lei9VSjQrOVBTYmtHdEw1U2wvbm44WjVxbG5aeEJjUWRsTkZBQ2gyOGoxY3E1YlJEV1FmNWdZYTdWZzQ4NmVLOWc9PQ/cdn/73_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Amedia 1 
+http://content.asplaylist.net/TnIrMlpwQ2J0bHhMRWhQbEVWSzVJVERNbTg4SmZWOWxvazgxWDM3UmhNZHlMb2M2aU5tRlhQVTJxdi9FVENrRHY2RmFBUHlWSVprc1NueFhHcG9CY1E9PQ/cdn/627_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Amedia 2 
+http://content.asplaylist.net/b3dNVURWL0tGdklwWlVXTGpvNkZMV1VpWEVRLzY1c254aC93OFJzU3JMSW9EQ015VVVIejQvWVZiRi9wMlZiOFFhTWx4Q2hqVVZVczVyaVdFRXdxTlE9PQ/cdn/635_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Amedia Premium HD 
+http://content.asplaylist.net/RmIxSzN4SkJLUndYbWNoNEdTRisvVkhvWmFNaWxUMmRYVStuT1BLUS9DVVFCaUkwTS9USGtxU01RQUluZWFWUGN4T3k5aEF6ZEQyT3l0SG1lTVFmcFE9PQ/cdn/636_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Enter film 
+http://content.asplaylist.net/d2dlY3NUeEZaQkNiekR2eHRPRzlNQjk2V01sSlkwdWJPREloTElvbkRiS1RpMVpqVTFWWFU2SnZuTmkxSVZUL1Y1V1d2MnZQUDlFVVUra1VOTEpoQVE9PQ/cdn/506_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Paramount Channel 
+http://content.asplaylist.net/bVY5Vk1EZGxpZzVTNU4zSjdOeTV5UlRrMStqTWl6STlyVnBmNlFaZ2I3V3NJSlpXVnQrMVM1UnFBUEhzRzV2RE9kVU12dkpaczNQVHBFZjNlZ0VqSWc9PQ/cdn/692_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:MGM HD 
+http://content.asplaylist.net/QUZSK083aVBUS1V4K1NUemNELzVuUVJHSUUxTDdIQnU5clNvZWZpNkpHSTlpNEJmb1BKdnBUVVg1bHFUcHVkME1VMEkyWGRLYVhZcFRzMktlSVZGaGc9PQ/cdn/618_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:SET 
+http://content.asplaylist.net/R3laNFB2OXVuSktEcE1kTWp6Rzd4cWFwRGJtU2VHZ3V0N28ycC8zdFRpdVZmWnVNc3BZWXpnZkFwMEpOcUw5MGpFSnlyN0U1RjUxZTYrMndFWjZ4SGc9PQ/cdn/203_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:SET HD 
+http://content.asplaylist.net/SjRKMXlDYTdLYlpodTU5bTVvYjdFSnJLODF5by9pZ0EyRGU2UzdOS0RQMG53TFQvSUxhMk42Z254YXd5RmFSNUJJU0JITm9SR0JuZ1dlYVI3VUJrVUE9PQ/cdn/614_reg.acelive 
+#EXTINF:-1 group-title="Russia",Ace:Sony Sci-Fi 
+http://content.asplaylist.net/SmJLZzMvWHhTQ0pTN0t0aUZjRENWeHZ4UmdwMUJRVHdQVmxUYkoxR1BNdC9sb0syNVJnMmkyWXpsdkgzTWt3OEdWbWZnVkRKWnJDTjlWanRXMks5OGc9PQ/cdn/119_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Sony Turbo 
+http://content.asplaylist.net/ZHhmNTNwckM2a1R0SWtCZFIyNHJrbUcvRXNoVzRLQTJFS1Vmc3lXTVpzZDZNUWxSdW5BZ0NiMmJFdzUwVkZaY1JTMHVIOUZQVnVSUzJqWFJLcWRteFE9PQ/cdn/688_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:TV 1000 
+http://content.asplaylist.net/VXZGWDNZTXUrQTJFVm41UDhUekVJbThzeURLZFFJOEdRMUZUTWYyOTNza2pUM3A0UGhVS0MyN1IxRlFjNGk5ZDUra2ZZVHJuaGwrWXY5S041NjJpdWc9PQ/cdn/69_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:TV 1000 Action East 
+http://content.asplaylist.net/YjVUTnFZanZrUmdnVUgxaVBYUExWdnJsYWhaM0syNEtUNzJ6UUV5azJwMnlIbWdPTFdkY3dlaFB5Y2daRkVaSWdJSndiV1NCa29VdkpoSTNXK0R3VEE9PQ/cdn/166_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:TV 1000 Русское кино 
+http://content.asplaylist.net/aGxOLzJzeUt6RGdmSmpkUDYwNTJPclRvNHhTQUh3aDZpU1VGQkpMR21JQWJGcWxKVmpLM2RIOEs1TU8wOHRHSFFUeTlkQlNmVWYzSjEzY3BYbTROMXc9PQ/cdn/118_reg.acelive 
+#EXTINF:-1 group-title="Russia",Ace:TV XXI 
+http://content.asplaylist.net/RkdFRmRxYlcvNTRzSHdNaU1oaWxxaXNsK2JFSFJSUDFoZjFEempGQUREMEFXY1NERXFuZXoxbGlpK2N6Q3NncTdMc0p3THcza2UzbkhIeG1GeVdOUlE9PQ/cdn/70_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:TV1000 Comedy HD 
+http://content.asplaylist.net/LzFMTU5SaTZFSElKZnJ3S21VMnVTYWVJRk4rOTJWQTdnTUsyRGQ3dmRLVVJVUndhTGh5Y2F1MFQ3cGhDT1ZSS2NJZlZUMWtXN01LN0lGbW4zemV3WGc9PQ/cdn/557_reg.acelive 
+#EXTINF:-1 group-title="Russia",Ace:TV1000 Megahit HD 
+http://content.asplaylist.net/RllPdWtncjg1SkhxTUNtMHJjUHZhbWF2TUxDYTBOaXdKZkg4SmZLdnFBWXBlNHFNNUo1UnNZdEprbEdSRm9IWEFVK3ozNDM1ZmlJeU15YzNOTVVSWUE9PQ/cdn/556_reg.acelive 
+#EXTINF:-1 group-title="Russia",Ace:TV1000 Premium HD 
+http://content.asplaylist.net/Q3JvcnNnVFNlVnNaV0lQRU5zWlpIS1JONE9UUmc5dmNybE9Qdnorc1IvTUhrUjJROVFUYWxEVGpFWW9yTWtkWmxnRlZhS0FSZ3FiL2hFenVTYTFHU1E9PQ/cdn/555_reg.acelive 
+#EXTINF:-1 group-title="Russia",Ace:Spike 
+http://content.asplaylist.net/U1FOMng0TjBvSnREUkN5ZFRWRjdzWmx4Tk5qbGYzV3Z0bVVSL1VZN3Z4aVl3dzFwMUNGZ0oreWF0OHdrRUszSG5iRXhvNG5ZTSt1YU9zdHBqYWUwYlE9PQ/cdn/1293_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:CBS Drama 
+http://content.asplaylist.net/MXkxQkt4T0phUXFleFZRbGd2SWVqVGk5SVBZZE45NVRrZ0xTMUV4cHRzUXhGTEN0YUI5ZUZjM1kvYWJvNjk1WXoyNmNrc0pFaDdPQ1F3bVN6eURqK0E9PQ/cdn/44_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Bollywood HD 
+http://content.asplaylist.net/aVVBck8yOTlJQ0RDTzhQeGIrNGpTNFc5Ny9kOXo5YzMvbXZ2dFpRQnUxUE9NUFppMkFSQkExMHRLUFBOWXYxcnYwU3hEYVZjL1ZicWRBckFWMFJJM2c9PQ/cdn/1106_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Amedia Premium 
+http://content.asplaylist.net/VTNQYWF5TUNaOW5iS0c3MGxDWWJnQkl3VldEcDh2cGRzL0x1YnkvRUROZUxZN1NULzlFWVhvNldlcDZjRzc2Vm0yRWlSdnJsVXhiUDhJamJRU3NnQ1E9PQ/cdn/704_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Amedia Hit 
+http://content.asplaylist.net/dHRtV0ZxdWtxY3gwWmtnaC82U3lJaXZCR3JoUDdmdXUrK2R1LzhoMCtvZWNmSmNZQXRlSUlKVk0yc0pMNVUwblBvRjFXSjAyblRpUDZUNEwrbHpTRkE9PQ/cdn/1107_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:fox-life
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/178_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:fox-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/542_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:fox-life-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/543_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:mgm-hd
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/618_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:paramount-comedy
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/487_all.acelive
+#EXTINF:-1 group-title="Russia",Ace:Visit-X HD 
+http://content.asplaylist.net/ekE1QlhYc3JmSENsb3hoaE5EczB5TkRkS0o0TTZhZThrU0R5aFgxNTU0bGpySmp4U1lheTJZM0lrazVEd3ZOK1NidmlPdVFGZ2dNT01wKzlGNzZSM0E9PQ/16528.acelive
+#EXTINF:-1 group-title="Russia",Ace:pink-o-tv
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/925_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Playboy tv
+http://content.asplaylist.net/Q25wY20xSGVVQm5FNm5HZ0xVWmdXekRxTjJwZHV6M2tEVEpwaHk3MFJVVTNCTmhqekRXb2g3cm9yRmgvUE1Mb0VUalZJNUNUZ3l3cm5PMEdhZG1pTkE9PQ/cdn/383_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:Olala 
+http://content.asplaylist.net/azkzb3o3RVBOY1ZLRTc5SlZsRlVENUV0eHFCNmYxVzZrR2FpUnE4NkhnL2haUVBTdjV1SVZzN1M3cDZFdXlyZVd6M3dvM0FqVUhuNTlsbzFmVUhTUkE9PQ/cdn/826_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X1 
+http://content.asplaylist.net/SkQxemRjOVA5QVlVTDJqZS9sckUvTEhNNURML0QvZTExTWFwZXAwNHh6OUpmZzBDUFNtMWN3RFdzQW1JMlVWbVJ6OHVCOVBzVEViaWYyQktqelVadGc9PQ/cdn/622_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X2 
+http://content.asplaylist.net/N3RLc1RwanlsbzNkL0tqK1JuZjNqc3BpVVhFSkRRTTNETnlHNmhrWGp1OWx2ajJlNVBHcU53YUxOZWNLOUQ5M0JXNWZ4WnRTYUVVaXNLL1N5R29MbkE9PQ/cdn/911_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X3 
+http://content.asplaylist.net/THVnVWtTWVFoeG9hbjFhM1JRVFJTaXRTTW5zMlB0enY2T0o5cEx5aFJCNEx3NmR2YXZpUEt0NGQ4cGQvOUNNZmNac2YzU0xIVVlPN2NJYXZ4L1czL3c9PQ/cdn/924_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X4 
+http://content.asplaylist.net/K1pVMlh4KytlRDRnWkFpQmZQOFN1RDlaYW9EMEcwVTk2TWRKZGVVZkNxVXpJMHV5MUxidjBaS0xBK0VFblk2MkMwS0pYaUtNYlVmUWVZTTI0d0ZuRXc9PQ/cdn/925_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X5 
+http://content.asplaylist.net/dmxuandmME5zMkpEcmFHMjR0VURQNmxGUVhGcWNUQUZkWU4zejNBTThrWnUwdlRXYm9XZVhiYURYSW5JY1dOUWRjVEk3ZmowS1RaanlMRW4wSEZneXc9PQ/cdn/1166_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X6 
+http://content.asplaylist.net/RklMdzF6dnc4dERHcFNCUnkvY2tHM1FwV1RLZ0ZRQnVJeHpqck1Tdk4xQS9tN01RNGg1ZDNxS2R3SFIveXdVa2wrcEIwWnJuTXNKai80QWU2WWU2akE9PQ/cdn/1062_reg.acelive
+#EXTINF:-1 group-title="Russia",Ace:X7
+http://content.asplaylist.net/ejJjL3pnVnk1dmJNeFgvcFRTYnZBYTZRckc2cS9aUFVZZGFrUVZDdk4xYVV6akVBYnlzTU5acG84bFNuOXFQNXdTWWdHNjlyS2xtKzRWVFB4RzBvVUE9PQ/cdn/634_reg.acelive
+
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/8cSYWwvq6BAzcGDjJODvCGQYGJ2c4S.png" group-title="Russia",Noxbit:BBC World News
+http://127.0.0.1:6689/stream?cid=3894
+#EXTINF:-1 tvg-id="220" tvg-logo="http://1ttv.org/uploads/OTsoNZRT8xjXz5nnTICPCQRvNLjBal.png" group-title="Russia",Noxbit:Bloomberg
+http://127.0.0.1:6689/stream?cid=4022
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/GaAInDNlljYyKVNnTpMxOmLDkDlASn.png" group-title="Russia",Noxbit:CBN News
+http://127.0.0.1:6689/stream?cid=6090
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/TyWVFvKwV3lOYYXWVJSj8HMu5AodJr.png" group-title="Russia",Noxbit:CGTN
+http://127.0.0.1:6689/stream?cid=4018
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/HwQLjkmeRfjnLPQsG17ljSAe6J7jnl.png" group-title="Russia",Noxbit:Channels 24
+http://127.0.0.1:6689/stream?cid=5977
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/JcDLImpt4YyZ1URpt3ZeP8cUXxQRhE.png" group-title="Russia",Noxbit:CNC World
+http://127.0.0.1:6689/stream?cid=5976
+#EXTINF:-1 tvg-id="221" tvg-logo="http://1ttv.org/uploads/lIwbRbM3ve4ixhFXp75Oap9nzcO71G.png" group-title="Russia",Noxbit:CNN International
+http://127.0.0.1:6689/stream?cid=3865
+#EXTINF:-1 tvg-id="300036" tvg-logo="http://1ttv.org/uploads/RnqBDfde1HP4OkZhXWlKB1xkHi6Io9.png" group-title="Russia",Noxbit:Deutsche Welle
+http://127.0.0.1:6689/stream?cid=75
+#EXTINF:-1 tvg-id="208" tvg-logo="http://1ttv.org/uploads/Vb3fP5gUK0q40WuzYeUhMT7RQmDg27.png" group-title="Russia",Noxbit:EuroNews
+http://127.0.0.1:6689/stream?cid=74
+#EXTINF:-1 tvg-id="300093" tvg-logo="http://1ttv.org/uploads/pViXgcMjLnB5WyOoQJ7sBxhHo5fTSB.png" group-title="Russia",Noxbit:France 24
+http://127.0.0.1:6689/stream?cid=4011
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/7ygzZVrnYZkAQD41U2MwCL1tOwIgkU.png" group-title="Russia",Noxbit:London Live HD
+http://127.0.0.1:6689/stream?cid=6114
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/oScfUBd9MLyCEEzt7HVEhzTDgL6FEf.png" group-title="Russia",Noxbit:MSNBC
+http://127.0.0.1:6689/stream?cid=6087
+#EXTINF:-1 tvg-id="1610" tvg-logo="http://1ttv.org/uploads/JJ8Sh9c7zA3PaXlK1ZaNjy3GgWQFh2.png" group-title="Russia",Noxbit:NHK World TV
+http://127.0.0.1:6689/stream?cid=3937
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/CXDYq1FWPBJgCMUXcOmmfSA4hff9qe.png" group-title="Russia",Noxbit:Rai News 24
+http://127.0.0.1:6689/stream?cid=4813
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/yFxFEpduSEAxMHhKESfyPjk0TKskTw.png" group-title="Russia",Noxbit:Sky News International
+http://127.0.0.1:6689/stream?cid=6043
+#EXTINF:-1 tvg-id="556" tvg-logo="http://1ttv.org/uploads/0IZrVwoxtmjtgnWu5Dj4Hb8FRc8NIX.png" group-title="Russia",Noxbit:365 Дней
+http://127.0.0.1:6689/stream?cid=3850
+#EXTINF:-1 tvg-id="214" tvg-logo="http://1ttv.org/uploads/45.png" group-title="Russia",Noxbit:Animal Planet
+http://127.0.0.1:6689/stream?cid=3656
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/Yl6p1IDDkZxxiUa3p2JxI66mIlOPns.png" group-title="Russia",Noxbit:Da Vinci Learning
+http://127.0.0.1:6689/stream?cid=3934
+#EXTINF:-1 tvg-id="226" tvg-logo="http://1ttv.org/uploads/oKx1ImWVRT3AK3DHYWUVc71JZUkwu5.png" group-title="Russia",Noxbit:Discovery Channel
+http://127.0.0.1:6689/stream?cid=3768
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/DQvOBosiJ3hV7ThJ6LvLCpj54QJES1.png" group-title="Russia",Noxbit:Discovery Historia Polska
+http://127.0.0.1:6689/stream?cid=5793
+#EXTINF:-1 tvg-id="224" tvg-logo="http://1ttv.org/uploads/GAaO3EfDwMuHAIelG4gYW6TDEYbLnS.png" group-title="Russia",Noxbit:Discovery Science
+http://127.0.0.1:6689/stream?cid=3650
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/4ZjuKuTHFCuXqKkEmKYGcBFe6UK5z4.png" group-title="Russia",Noxbit:DocuBox
+http://127.0.0.1:6689/stream?cid=5114
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/9cVifexiWW0qWDhhpnLNVydoZkeRqZ.png" group-title="Russia",Noxbit:History Channel
+http://127.0.0.1:6689/stream?cid=3806
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/mXy2qeIvaTSKUc6j4ygG6y69PxGHmN.png" group-title="Russia",Noxbit:History Channel Europe
+http://127.0.0.1:6689/stream?cid=5800
+#EXTINF:-1 tvg-id="100051" tvg-logo="http://1ttv.org/uploads/ciHIDUuHEnkEuPghbcqkDQx4vadle3.png" group-title="Russia",Noxbit:Nat Geo Wild
+http://127.0.0.1:6689/stream?cid=3769
+#EXTINF:-1 tvg-id="284" tvg-logo="http://1ttv.org/uploads/i6STSw6Hg1wWP18yBAOyKoKpSMeKLu.png" group-title="Russia",Noxbit:National Geographic
+http://127.0.0.1:6689/stream?cid=3658
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/PtoKR0FVbCGRB6wTO24AOlKaW3UxEP.png" group-title="Russia",Noxbit:National Geographic Polska
+http://127.0.0.1:6689/stream?cid=5778
+#EXTINF:-1 tvg-id="636" tvg-logo="http://1ttv.org/uploads/cvBAngU16nJU1bEzxAEcMPiPvf7fVT.png" group-title="Russia",Noxbit:Ocean-TV
+http://127.0.0.1:6689/stream?cid=3891
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/VOYx5PIhDPrWiZIcCYpm1xrDSQZnsN.png" group-title="Russia",Noxbit:Russia Today Doc.
+http://127.0.0.1:6689/stream?cid=3966
+#EXTINF:-1 tvg-id="100022" tvg-logo="http://1ttv.org/uploads/gT4olUY9nFJbGRCdwd7hHJp1NJ5eJr.png" group-title="Russia",Noxbit:TLC
+http://127.0.0.1:6689/stream?cid=3649
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/b1HifWKMyefmDDvaDAJTwNNTaD8LF4.png" group-title="Russia",Noxbit:Travel + adventure
+http://127.0.0.1:6689/stream?cid=3800
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/fhmrYjlpC0YMxFd2RqOolbjlXMr0tI.png" group-title="Russia",Noxbit:Travel Channel
+http://127.0.0.1:6689/stream?cid=3824
+#EXTINF:-1 tvg-id="324" tvg-logo="http://1ttv.org/uploads/uCqpsdKP0ialUUYxUk2fXshYdYfxzW.png" group-title="Russia",Noxbit:Viasat Explore
+http://127.0.0.1:6689/stream?cid=3832
+#EXTINF:-1 tvg-id="325" tvg-logo="http://1ttv.org/uploads/MWGbB8wJp5Gm4vbPHl0ktohDDjMKdr.png" group-title="Russia",Noxbit:Viasat History
+http://127.0.0.1:6689/stream?cid=3776
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/yimDcPvajJcUKQm9bY15cDdp3rJFcp.png" group-title="Russia",Noxbit:Viasat Nature East
+http://127.0.0.1:6689/stream?cid=3930
+#EXTINF:-1 tvg-id="400001" tvg-logo="http://1ttv.org/uploads/Qa41eifERrD77xQsmpRGbeTq95Ldlv.png" group-title="Russia",Noxbit:Моя планета
+http://127.0.0.1:6689/stream?cid=3799
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/QuURIfJUmXegxsHMYqMivVwxizbfKd.png" group-title="Russia",Noxbit:Нано ТВ
+http://127.0.0.1:6689/stream?cid=3977
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/OddcmNqjIGsNDv3hm5RkZNrrPwd8cX.png" group-title="Russia",Noxbit:Наука
+http://127.0.0.1:6689/stream?cid=4816
+#EXTINF:-1 tvg-id="300105" tvg-logo="http://1ttv.org/uploads/ypWbqYqKApM8cnDK1FibvQgpmgEay9.png" group-title="Russia",Noxbit:Наука 2.0
+http://127.0.0.1:6689/stream?cid=3766
+
 #EXTINF:-1 group-title="Russia",Extreme Sports
 http://persik.by/stream/3903/293564/99.m3u8
 #EXTINF:-1 group-title="Russia",Extreme Sports
@@ -1929,161 +2362,6 @@ http://220.170.49.114/8/s/w/f/o/swfoauvblepesgowenklyoqrbhhqfp/he.yinyuetai.com/
 #EXTINF:-1 group-title="China",后来的我们(多MV混剪版 双声道差分环绕) 
 http://220.170.49.110/6/k/n/b/b/knbbrirjdfjyueamjntzkacxzwkksi/sh.yinyuetai.com/6958015608002C919B1626D77B6EFFED.mp4
 
-#EXTINF:-1 group-title="Taiwan", 靖天国际台 KLT
-http://61.58.60.230:9000/live/205.m3u8
-#EXTINF:-1 group-title="Taiwan", 靖天育乐台
-http://61.58.60.230:9000/live/204.m3u8
-#EXTINF:-1 group-title="Taiwan", 靖天资讯台
-http://61.58.60.230:9000/live/202.m3u8
-#EXTINF:-1 group-title="Taiwan", 靖洋戏剧台
-http://61.58.60.230:9000/live/203.m3u8
-#EXTINF:-1 group-title="Taiwan", 靖天娱乐台
-http://61.58.60.230:9000/live/201.m3u8
-#EXTINF:-1 group-title="Taiwan", 靖天卡通台
-http://61.58.60.230:9000/live/207.m3u8
-#EXTINF:-1 group-title="Taiwan",國會频道①
-http://61.58.60.230:9000/live/123.m3u8
-#EXTINF:-1 group-title="Taiwan",國會频道②
-http://61.58.60.230:9000/live/124.m3u8
-#EXTINF:-1 group-title="Taiwan",居家频道
-http://61.58.60.230:9000/live/125.m3u8
-#EXTINF:-1 group-title="Taiwan",大爱
-http://61.58.60.230:9000/live/10.m3u8
-#EXTINF:-1 group-title="Taiwan",大爱②
-http://61.58.60.230:9000/live/191.m3u8
-#EXTINF:-1 group-title="Taiwan",天良HD
-http://61.216.177.73/sta/ch1865001.m3u8
-#EXTINF:-1 group-title="Taiwan",信吉HD
-http://61.216.177.73/sta/ch1865002.m3u8
-#EXTINF:-1 group-title="Taiwan",三宝电视
-http://61.216.177.73/sta/ch1865004.m3u8
-#EXTINF:-1 group-title="Taiwan",TITV
-http://61.216.177.73/sta/ch1865031.m3u8
-#EXTINF:-1 group-title="Taiwan",ViVa美好1台
-http://61.216.177.73/sta/ch1865029.m3u8
-#EXTINF:-1 group-title="Taiwan",rollor滾動趣食坊
-http://61.216.177.73/sta/ch1865040.m3u8
-#EXTINF:-1 group-title="Taiwan",人間衛視
-http://61.216.177.73/sta/ch1865016.m3u8
-#EXTINF:-1 group-title="Taiwan",凱亞精緻農業
-http://61.216.177.73/sta/ch1865003.m3u8
-#EXTINF:-1 group-title="Taiwan",台藝2台
-http://61.216.177.73/sta/ch1865011.m3u8
-#EXTINF:-1 group-title="Taiwan",客家电视台
-http://61.216.177.73/sta/ch1865024.m3u8
-#EXTINF:-1 group-title="Taiwan",富立
-http://61.216.177.73/sta/ch1865022.m3u8
-#EXTINF:-1 group-title="Taiwan",新唐人亞太台
-http://61.216.177.73/sta/ch1865015.m3u8
-#EXTINF:-1 group-title="Taiwan",東森購物1
-http://61.216.177.73/sta/ch1865020.m3u8
-#EXTINF:-1 group-title="Taiwan",東森購物2
-http://61.216.177.73/sta/ch1865018.m3u8
-#EXTINF:-1 group-title="Taiwan",東森購物3
-http://61.216.177.73/sta/ch1865019.m3u8
-#EXTINF:-1 group-title="Taiwan",東森購物4
-http://61.216.177.73/sta/ch1865017.m3u8
-#EXTINF:-1 group-title="Taiwan",東森購物5
-http://61.216.177.73/sta/ch1865021.m3u8
-#EXTINF:-1 group-title="Taiwan",生命電視台
-http://61.216.177.73/sta/ch1865007.m3u8
-#EXTINF:-1 group-title="Taiwan", CARTOONNETWORK
-http://61.58.60.194:9000/live/20.m3u8
-#EXTINF:-1 group-title="Taiwan", 迪士尼频道 台湾
-http://61.58.60.194:9000/live/22.m3u8
-#EXTINF:-1 group-title="Taiwan", MOMO親子台
-http://61.58.60.194:9000/live/23.m3u8
-#EXTINF:-1 group-title="Taiwan",衛視電影台
-http://61.58.60.194:9000/live/61.m3u8
-#EXTINF:-1 group-title="Taiwan",東森電影台
-http://61.58.60.194:9000/live/62.m3u8
-#EXTINF:-1 group-title="Taiwan",緯來電影台
-http://61.58.60.194:9000/live/63.m3u8
-#EXTINF:-1 group-title="Taiwan",HBO
-http://61.58.60.194:9000/live/65.m3u8
-#EXTINF:-1 group-title="Taiwan",東森洋片台
-http://61.58.60.194:9000/live/66.m3u8
-#EXTINF:-1 group-title="Taiwan",東森新聞台HD
-http://61.58.60.194:9000/live/51.m3u8
-#EXTINF:-1 group-title="Taiwan",中天新聞台HD
-http://61.58.60.194:9000/live/52.m3u8
-#EXTINF:-1 group-title="Taiwan",民視新聞台HD
-http://61.58.60.194:9000/live/53.m3u8
-#EXTINF:-1 group-title="Taiwan",MTV
-http://61.58.60.194:9000/live/95.m3u8
-#EXTINF:-1 group-title="Taiwan",FOX體育台
-http://61.58.60.194:9000/live/73.m3u8
-#EXTINF:-1 group-title="Taiwan",FOX體育2台
-http://61.58.60.194:9000/live/74.m3u8
-#EXTINF:-1 group-title="Taiwan",國家地理频道
-http://61.58.60.194:9000/live/18.m3u8
-#EXTINF:-1 group-title="Taiwan",Discovery
-http://61.58.60.194:9000/live/19.m3u8
-#EXTINF:-1 group-title="Taiwan",TVBS新聞台HD
-http://61.58.60.194:9000/live/55.m3u8
-#EXTINF:-1 group-title="Taiwan",AXN
-http://61.58.60.194:9000/live/67.m3u8
-#EXTINF:-1 group-title="Taiwan",亞洲美食頻道
-http://61.58.60.194:9000/live/176.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯邉泳W
-http://61.58.60.194:9000/live/269.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯足球台
-http://61.58.60.194:9000/live/271.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯高球台
-http://61.58.60.194:9000/live/272.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯高球2台
-http://61.58.60.194:9000/live/273.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯網球台
-http://61.58.60.194:9000/live/274.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯魅力網
-http://61.58.60.194:9000/live/275.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯無限台
-http://61.58.60.194:9000/live/270.m3u8
-#EXTINF:-1 group-title="Taiwan",HBO HD
-http://61.58.60.194:9000/live/261.m3u8
-#EXTINF:-1 group-title="Taiwan",HBO Signature HD
-http://61.58.60.194:9000/live/262.m3u8
-#EXTINF:-1 group-title="Taiwan",HBO Family HD
-http://61.58.60.194:9000/live/263.m3u8
-#EXTINF:-1 group-title="Taiwan",HBO Hits HD
-http://61.58.60.194:9000/live/264.m3u8
-#EXTINF:-1 group-title="Taiwan",Boomerang HD
-http://61.58.60.194:9000/live/177.m3u8
-#EXTINF:-1 group-title="Taiwan",Diva
-http://61.58.60.194:9000/live/178.m3u8
-#EXTINF:-1 group-title="Taiwan",Warner TV HD
-http://61.58.60.194:9000/live/179.m3u8
-#EXTINF:-1 group-title="Taiwan",EEntertiamen
-http://61.58.60.194:9000/live/180.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天歡樂台
-http://61.58.60.194:9000/live/201.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天資訊台
-http://61.58.60.194:9000/live/202.m3u8
-#EXTINF:-1 group-title="Taiwan",靖洋戲劇HD
-http://61.58.60.194:9000/live/203.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天育樂台
-http://61.58.60.194:9000/live/204.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天國際台HD
-http://61.58.60.194:9000/live/205.m3u8
-#EXTINF:-1 group-title="Taiwan",靖洋卡通台
-http://61.58.60.194:9000/live/206.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天卡通台
-http://61.58.60.194:9000/live/207.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天日本台HD
-http://61.58.60.194:9000/live/243.m3u8
-#EXTINF:-1 group-title="Taiwan",靖天映畫台HD
-http://61.58.60.194:9000/live/244.m3u8
-#EXTINF:-1 group-title="Taiwan",博斯電玩台HD
-http://61.58.60.194:9000/live/276.m3u8
-#EXTINF:-1 group-title="Taiwan",台灣HD兒童台HD
-http://61.58.60.194:9000/live/278.m3u8
-#EXTINF:-1 group-title="Taiwan",CINEMAX
-http://61.58.60.194:9000/live/64.m3u8
-#EXTINF:-1 group-title="Taiwan",三立新聞台HD
-http://61.58.60.194:9000/live/54.m3u8
-#EXTINF:-1 group-title="Taiwan",東森幼幼台
-http://61.58.60.194:9000/live/25.m3u8
-
 #EXTINF:-1 group-title="India",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Sony ESPN HD
@@ -2114,7 +2392,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms2.airtel.tv/wh7f454c46tw3145810737_1488862081/PLTV/88888888/224/3221225789/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Neo Sports
 http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221225791/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",Sony Le Plex HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Sony Max
@@ -2155,7 +2432,6 @@ http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Udaya Movies
 http://mhms10.airtel.tv/wh7f454c46tw679371202_1091374206/PLTV/88888888/224/3221226516/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",Animal Planet
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Animal Planet (English)
@@ -2212,7 +2488,6 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Win TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226251/index.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",AXN
 http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Amrita
@@ -2319,7 +2594,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms10.airtel.tv/wh7f454c46tw458566507_1825112917/PLTV/88888888/224/3221226527/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Vasanth
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226321/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",Home Shop 18
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Food Food
@@ -2338,7 +2612,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Travel XP
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",Discovery Kids
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Discovery Kids Tamil
@@ -2359,7 +2632,6 @@ http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 http://mhms11.airtel.tv/wh7f454c46tw1799333471_1357632319/PLTV/88888888/224/3221226502/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Sony Yay (Telugu)
 http://mhms11.airtel.tv/wh7f454c46tw1942416567_212728774/PLTV/88888888/224/3221226505/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",Al Jazeera
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",10 TV
@@ -2504,7 +2776,6 @@ http://mhms10.airtel.tv/wh7f454c46tw2113957134_1056403968/PLTV/88888888/224/3221
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226197/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",VTV News
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",Aastha
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",Angel TV HD
@@ -2545,7 +2816,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms10.airtel.tv/wh7f454c46tw1706167132_949386674/PLTV/88888888/224/3221226504/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",SVBC Telugu
 http://mhms10.airtel.tv/wh7f454c46tw4278120536_350557950/PLTV/88888888/224/3221226503/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-
 #EXTINF:-1 group-title="India",7S Music
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226213/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:-1 group-title="India",9X Jalwa
@@ -2610,56 +2880,6 @@ http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw260150639_1030221697/PLTV/88888888/224/3221226477/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 
 
-#EXTINF:-1 group-title="Indo",ANIMAX
-http://45.126.83.51/uq2663/h/h18/index.m3u8
-#EXTINF:-1 group-title="Indo",ANIPLUS
-http://45.126.83.51/uq2663/h/h02/index.m3u8
-#EXTINF:-1 group-title="Indo",AXN
-http://45.126.83.51/uq2663/h/h09/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX MOVIES
-http://45.126.83.51/uq2663/h/h14/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX MOVIES ACTION
-http://45.126.83.51/uq2663/h/h15/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX MOVIES ACTION
-http://45.126.83.51/uq2663/h/h22/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX MOVIES FAMILY HD
-http://45.126.83.51/uq2663/h/h16/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX MOVIES
-http://45.126.83.51/uq2663/h/h24/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX SPORTS 2
-http://45.126.83.51/uq2663/h/h20/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX SPORTS 2
-http://45.126.83.51/uq2663/h/h25/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX SPORTS 3
-http://45.126.83.51/uq2663/h/h21/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX SPORTS 3
-http://45.126.83.51/uq2663/h/h26/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX SPORTS
-http://45.126.83.51/uq2663/h/h19/index.m3u8
-#EXTINF:-1 group-title="Indo",FOX
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:-1 group-title="Indo",FOXlife
-http://45.126.83.51/uq2663/h/h03/index.m3u8
-#EXTINF:-1 group-title="Indo",K
-http://45.126.83.51/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="Indo",KIX
-http://45.126.83.51/uq2663/h/h07/index.m3u8
-#EXTINF:-1 group-title="Indo",NAT GEO WILD
-http://45.126.83.51/uq2663/h/h12/index.m3u8
-#EXTINF:-1 group-title="Indo",NATIONAL GEOGRAPHIC
-http://45.126.83.51/uq2663/h/h11/index.m3u8
-#EXTINF:-1 group-title="Indo",NEW ASIA CHANNEL
-http://45.126.83.51/uq2663/h/h29/index.m3u8
-#EXTINF:-1 group-title="Indo",NHK World
-http://45.126.83.51/uq2663/h/h23/index.m3u8
-#EXTINF:-1 group-title="Indo",SBS in HD
-http://45.126.83.51/uq2663/h/h28/index.m3u8
-#EXTINF:-1 group-title="Indo",SONY ONE
-http://45.126.83.51/uq2663/h/h13/index.m3u8
-#EXTINF:-1 group-title="Indo",Sony Movie Channel
-http://45.126.83.51/uq2663/h/h06/index.m3u8
-#EXTINF:-1 group-title="Indo",DA VINCI
-http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF:-1 group-title="Indo",ANIPLUS
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
 #EXTINF:-1 group-title="Indo",ALJAZEERA 1
