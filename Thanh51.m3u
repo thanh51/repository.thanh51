@@ -34,6 +34,16 @@ http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV 
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
+#EXTINF:-1 group-title="Sports",NBCSN
+http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1 group-title="Sports",FS1
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1 group-title="Sports",FS2 HD
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1 group-title="Sports",NFL Network
+http://23.237.22.82:8086/udp/127.0.0.1:56050
+#EXTINF:-1 group-title="Sports",NBA TV
+http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 1 HD 
 http://content.asplaylist.net/MVRpdG1XaDdGNXVDT3J2WnBIbHVBVk5NZnQvdUxYZXhTVVhoWU5rVGtFOGtYOUZYa1dPWHE5Qmx1RUx2OWszREpqeDdiYThsbDJUY3grQjU1V1VJOXc9PQ/cdn/625_reg.acelive
 #EXTINF:-1 group-title="Sports",Ace:Матч! Футбол 2 
@@ -410,6 +420,32 @@ http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/strea
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8&u=guest
 #EXTINF:-1 group-title="VietHN" tvg-logo="http://www.Tổng hợp24.com/main/images/rangdong_logo.jpg",Rạng Đông
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
+
+
+#EXTINF:-1 group-title="USA",NBCSN
+http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1 group-title="USA",FS1
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1 group-title="USA",FS2 HD
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1 group-title="USA",NFL Network
+http://23.237.22.82:8086/udp/127.0.0.1:56050
+#EXTINF:-1 group-title="USA",NBA TV
+http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:-1 group-title="USA",Hallmark Channel
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+#EXTINF:-1 group-title="USA",HGTV
+http://23.237.22.82:8086/udp/127.0.0.1:56069
+#EXTINF:-1 group-title="USA",Fox News
+http://23.237.22.82:8086/udp/127.0.0.1:56077
+#EXTINF:-1 group-title="USA",MSNBC
+http://23.237.22.82:8086/udp/127.0.0.1:56079
+#EXTINF:-1 group-title="USA",WLNY
+http://23.237.22.82:8086/udp/127.0.0.1:56147
+#EXTINF:-1 group-title="USA",FOX5
+http://23.237.22.82:8086/udp/127.0.0.1:56163
+#EXTINF:-1 group-title="USA",NBC Olympics
+http://23.237.22.82:8086/udp/127.0.0.1:56202
 
 #EXTINF:-1 group-title="USA",Animal Planet 
 http://80.80.160.168/live/1/500000/live.m3u8
@@ -3019,11 +3055,11 @@ http://103.89.176.45:8278/Channel8/playlist.m3u8
 #EXTINF:-1 group-title="Singapore",Channel OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD s1
+#EXTINF:-1 group-title="Thailand",TRUE SPORT HD 
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD2 s1
+#EXTINF:-1 group-title="Thailand",TRUE SPORT HD2 
 https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",TRUE SPORT HD3 s1
+#EXTINF:-1 group-title="Thailand",TRUE SPORT HD3 
 https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thailand",PPTV
 http://27.254.130.64/live01/ch2.m3u8?p=pptv
