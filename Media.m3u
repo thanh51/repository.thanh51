@@ -43,38 +43,24 @@ http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1 group-title="Sports",DUBAI Sport 1
 #EXTINF:-1 group-title="Sports",EURO SPORT 1
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Sports",Super Tennis HD
-http://127.0.0.1:6689/stream?cid=4227
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/hQDOuQjUVczvUU2ocLE0tkC1siCqpo.png" group-title="Sports",Noxbit:Матч ТВ
+http://127.0.0.1:6689/stream?cid=3568
+#EXTINF:-1 tvg-id="940" tvg-logo="http://1ttv.org/uploads/DDjh1dM2D09Wcl3L6YmEd1si3P17n0.png" group-title="Sports",Noxbit:Матч! Арена
+http://127.0.0.1:6689/stream?cid=3652
+#EXTINF:-1 tvg-id="1354" tvg-logo="http://1ttv.org/uploads/urIB7TbFWo36EmXW9eG3w4qre7MdX9.png" group-title="Sports",Noxbit:Матч! Игра HD
+http://127.0.0.1:6689/stream?cid=3572
+#EXTINF:-1 tvg-id="100052" tvg-logo="http://1ttv.org/uploads/l0x8GopxrHL6jLiDGVHi8tIEc7RBt2.png" group-title="Sports",Noxbit:Матч! Наш Спорт
+http://127.0.0.1:6689/stream?cid=3669
+#EXTINF:-1 tvg-id="1018" tvg-logo="http://1ttv.org/uploads/mWQ92sSmszzmjme9GTueLPCxagJGtl.png" group-title="Sports",Noxbit:Матч! Планета
+http://127.0.0.1:6689/stream?cid=3676
+#EXTINF:-1 tvg-id="205" tvg-logo="http://1ttv.org/uploads/9PM8M6cN21wQ3M5isVZgjNepzUI4Ry.png" group-title="Sports",Noxbit:Матч! Футбол 1
 http://127.0.0.1:6689/stream?cid=3679
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 1
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 2
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD Резерв 3
-http://127.0.0.1:6689/stream?cid=3569
-#EXTINF:-1 group-title="Sports",Матч! Футбол 2
+#EXTINF:-1 tvg-id="100001" tvg-logo="http://1ttv.org/uploads/8MA3WloO6RsWX8N7Ck5ugek2Kirf4B.png" group-title="Sports",Noxbit:Матч! Футбол 2
 http://127.0.0.1:6689/stream?cid=3671
-#EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD
-http://127.0.0.1:6689/stream?cid=3570
-#EXTINF:-1 group-title="Sports",Матч! Футбол 3
+#EXTINF:-1 tvg-id="300128" tvg-logo="http://1ttv.org/uploads/OLHdmyfUev4mMX0OGniJrlUwHnMKOg.png" group-title="Sports",Noxbit:Матч! Футбол 3
 http://127.0.0.1:6689/stream?cid=3681
-#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD
-http://127.0.0.1:6689/stream?cid=3571
-#EXTINF:-1 group-title="Sports",Футбoл HD 
-http://127.0.0.1:6689/stream?cid=6965
-#EXTINF:-1 group-title="Sports",Футбол
+#EXTINF:-1 tvg-id="686" tvg-logo="http://1ttv.org/uploads/472.png" group-title="Sports",Noxbit:Футбол
 http://127.0.0.1:6689/stream?cid=4837
-#EXTINF:-1 group-title="Sports",Футбол 1 (Украина)
-http://127.0.0.1:6689/stream?cid=3895
-#EXTINF:-1 group-title="Sports",Футбол 1 HD
-http://127.0.0.1:6689/stream?cid=4043
-#EXTINF:-1 group-title="Sports",Футбол 2 (Украина)
-http://127.0.0.1:6689/stream?cid=3779
-#EXTINF:-1 group-title="Sports",Футбол 2 HD
-http://127.0.0.1:6689/stream?cid=4048
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1
 http://persik.by/stream/1418/252987/346.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onlybest.tv/images/logo/match-football-1-hd.jpg" tvg-id="Матч! Футбол 1",Матч! Футбол 1 HD
@@ -798,6 +784,84 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="USA",XiveTV
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&a
 
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/8cSYWwvq6BAzcGDjJODvCGQYGJ2c4S.png" group-title="Russia",Noxbit:BBC World News
+http://127.0.0.1:6689/stream?cid=3894
+#EXTINF:-1 tvg-id="220" tvg-logo="http://1ttv.org/uploads/OTsoNZRT8xjXz5nnTICPCQRvNLjBal.png" group-title="Russia",Noxbit:Bloomberg
+http://127.0.0.1:6689/stream?cid=4022
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/GaAInDNlljYyKVNnTpMxOmLDkDlASn.png" group-title="Russia",Noxbit:CBN News
+http://127.0.0.1:6689/stream?cid=6090
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/TyWVFvKwV3lOYYXWVJSj8HMu5AodJr.png" group-title="Russia",Noxbit:CGTN
+http://127.0.0.1:6689/stream?cid=4018
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/HwQLjkmeRfjnLPQsG17ljSAe6J7jnl.png" group-title="Russia",Noxbit:Channels 24
+http://127.0.0.1:6689/stream?cid=5977
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/JcDLImpt4YyZ1URpt3ZeP8cUXxQRhE.png" group-title="Russia",Noxbit:CNC World
+http://127.0.0.1:6689/stream?cid=5976
+#EXTINF:-1 tvg-id="221" tvg-logo="http://1ttv.org/uploads/lIwbRbM3ve4ixhFXp75Oap9nzcO71G.png" group-title="Russia",Noxbit:CNN International
+http://127.0.0.1:6689/stream?cid=3865
+#EXTINF:-1 tvg-id="300036" tvg-logo="http://1ttv.org/uploads/RnqBDfde1HP4OkZhXWlKB1xkHi6Io9.png" group-title="Russia",Noxbit:Deutsche Welle
+http://127.0.0.1:6689/stream?cid=75
+#EXTINF:-1 tvg-id="208" tvg-logo="http://1ttv.org/uploads/Vb3fP5gUK0q40WuzYeUhMT7RQmDg27.png" group-title="Russia",Noxbit:EuroNews
+http://127.0.0.1:6689/stream?cid=74
+#EXTINF:-1 tvg-id="300093" tvg-logo="http://1ttv.org/uploads/pViXgcMjLnB5WyOoQJ7sBxhHo5fTSB.png" group-title="Russia",Noxbit:France 24
+http://127.0.0.1:6689/stream?cid=4011
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/7ygzZVrnYZkAQD41U2MwCL1tOwIgkU.png" group-title="Russia",Noxbit:London Live HD
+http://127.0.0.1:6689/stream?cid=6114
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/oScfUBd9MLyCEEzt7HVEhzTDgL6FEf.png" group-title="Russia",Noxbit:MSNBC
+http://127.0.0.1:6689/stream?cid=6087
+#EXTINF:-1 tvg-id="1610" tvg-logo="http://1ttv.org/uploads/JJ8Sh9c7zA3PaXlK1ZaNjy3GgWQFh2.png" group-title="Russia",Noxbit:NHK World TV
+http://127.0.0.1:6689/stream?cid=3937
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/CXDYq1FWPBJgCMUXcOmmfSA4hff9qe.png" group-title="Russia",Noxbit:Rai News 24
+http://127.0.0.1:6689/stream?cid=4813
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/yFxFEpduSEAxMHhKESfyPjk0TKskTw.png" group-title="Russia",Noxbit:Sky News International
+http://127.0.0.1:6689/stream?cid=6043
+#EXTINF:-1 tvg-id="556" tvg-logo="http://1ttv.org/uploads/0IZrVwoxtmjtgnWu5Dj4Hb8FRc8NIX.png" group-title="Russia",Noxbit:365 Дней
+http://127.0.0.1:6689/stream?cid=3850
+#EXTINF:-1 tvg-id="214" tvg-logo="http://1ttv.org/uploads/45.png" group-title="Russia",Noxbit:Animal Planet
+http://127.0.0.1:6689/stream?cid=3656
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/Yl6p1IDDkZxxiUa3p2JxI66mIlOPns.png" group-title="Russia",Noxbit:Da Vinci Learning
+http://127.0.0.1:6689/stream?cid=3934
+#EXTINF:-1 tvg-id="226" tvg-logo="http://1ttv.org/uploads/oKx1ImWVRT3AK3DHYWUVc71JZUkwu5.png" group-title="Russia",Noxbit:Discovery Channel
+http://127.0.0.1:6689/stream?cid=3768
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/DQvOBosiJ3hV7ThJ6LvLCpj54QJES1.png" group-title="Russia",Noxbit:Discovery Historia Polska
+http://127.0.0.1:6689/stream?cid=5793
+#EXTINF:-1 tvg-id="224" tvg-logo="http://1ttv.org/uploads/GAaO3EfDwMuHAIelG4gYW6TDEYbLnS.png" group-title="Russia",Noxbit:Discovery Science
+http://127.0.0.1:6689/stream?cid=3650
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/4ZjuKuTHFCuXqKkEmKYGcBFe6UK5z4.png" group-title="Russia",Noxbit:DocuBox
+http://127.0.0.1:6689/stream?cid=5114
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/9cVifexiWW0qWDhhpnLNVydoZkeRqZ.png" group-title="Russia",Noxbit:History Channel
+http://127.0.0.1:6689/stream?cid=3806
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/mXy2qeIvaTSKUc6j4ygG6y69PxGHmN.png" group-title="Russia",Noxbit:History Channel Europe
+http://127.0.0.1:6689/stream?cid=5800
+#EXTINF:-1 tvg-id="100051" tvg-logo="http://1ttv.org/uploads/ciHIDUuHEnkEuPghbcqkDQx4vadle3.png" group-title="Russia",Noxbit:Nat Geo Wild
+http://127.0.0.1:6689/stream?cid=3769
+#EXTINF:-1 tvg-id="284" tvg-logo="http://1ttv.org/uploads/i6STSw6Hg1wWP18yBAOyKoKpSMeKLu.png" group-title="Russia",Noxbit:National Geographic
+http://127.0.0.1:6689/stream?cid=3658
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/PtoKR0FVbCGRB6wTO24AOlKaW3UxEP.png" group-title="Russia",Noxbit:National Geographic Polska
+http://127.0.0.1:6689/stream?cid=5778
+#EXTINF:-1 tvg-id="636" tvg-logo="http://1ttv.org/uploads/cvBAngU16nJU1bEzxAEcMPiPvf7fVT.png" group-title="Russia",Noxbit:Ocean-TV
+http://127.0.0.1:6689/stream?cid=3891
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/VOYx5PIhDPrWiZIcCYpm1xrDSQZnsN.png" group-title="Russia",Noxbit:Russia Today Doc.
+http://127.0.0.1:6689/stream?cid=3966
+#EXTINF:-1 tvg-id="100022" tvg-logo="http://1ttv.org/uploads/gT4olUY9nFJbGRCdwd7hHJp1NJ5eJr.png" group-title="Russia",Noxbit:TLC
+http://127.0.0.1:6689/stream?cid=3649
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/b1HifWKMyefmDDvaDAJTwNNTaD8LF4.png" group-title="Russia",Noxbit:Travel + adventure
+http://127.0.0.1:6689/stream?cid=3800
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/fhmrYjlpC0YMxFd2RqOolbjlXMr0tI.png" group-title="Russia",Noxbit:Travel Channel
+http://127.0.0.1:6689/stream?cid=3824
+#EXTINF:-1 tvg-id="324" tvg-logo="http://1ttv.org/uploads/uCqpsdKP0ialUUYxUk2fXshYdYfxzW.png" group-title="Russia",Noxbit:Viasat Explore
+http://127.0.0.1:6689/stream?cid=3832
+#EXTINF:-1 tvg-id="325" tvg-logo="http://1ttv.org/uploads/MWGbB8wJp5Gm4vbPHl0ktohDDjMKdr.png" group-title="Russia",Noxbit:Viasat History
+http://127.0.0.1:6689/stream?cid=3776
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/yimDcPvajJcUKQm9bY15cDdp3rJFcp.png" group-title="Russia",Noxbit:Viasat Nature East
+http://127.0.0.1:6689/stream?cid=3930
+#EXTINF:-1 tvg-id="400001" tvg-logo="http://1ttv.org/uploads/Qa41eifERrD77xQsmpRGbeTq95Ldlv.png" group-title="Russia",Noxbit:Моя планета
+http://127.0.0.1:6689/stream?cid=3799
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/QuURIfJUmXegxsHMYqMivVwxizbfKd.png" group-title="Russia",Noxbit:Нано ТВ
+http://127.0.0.1:6689/stream?cid=3977
+#EXTINF:-1 tvg-logo="http://1ttv.org/uploads/OddcmNqjIGsNDv3hm5RkZNrrPwd8cX.png" group-title="Russia",Noxbit:Наука
+http://127.0.0.1:6689/stream?cid=4816
+#EXTINF:-1 tvg-id="300105" tvg-logo="http://1ttv.org/uploads/ypWbqYqKApM8cnDK1FibvQgpmgEay9.png" group-title="Russia",Noxbit:Наука 2.0
+http://127.0.0.1:6689/stream?cid=3766
 
 #EXTINF:-1 group-title="Russia",Extreme Sports
 http://persik.by/stream/3903/293564/99.m3u8
