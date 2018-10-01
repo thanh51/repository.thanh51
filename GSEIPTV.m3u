@@ -1,59 +1,75 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/nbc%20sports%20network%20hd.png" group-title="SportsTV",NBC Sports Network HD
-http://bit.ly/2xLa1sL
-#EXTINF:-1 ttvg-logo="http://vod6.vaders.tv:8080/logos/fox%20sports%201%20hd.png" group-title="SportsTV",Fox Sports 1 HD
-http://bit.ly/2OZX70j
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/fox%20sports%202%20hd.png" group-title="SportsTV",Fox Sports 2 HD
-http://bit.ly/2Na63i0
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 1 AR HD
-http://bit.ly/2QjIhlT
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 2 AR HD
-http://bit.ly/2Ra7ro8
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 3 AR HD
-http://bit.ly/2OnEdDM
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 4 AR HD
-http://bit.ly/2zEVRe6
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 5 AR HD
-http://bit.ly/2OV1ZEc
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 6 AR HD
-http://bit.ly/2NbaQQb
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 7 AR HD
-http://bit.ly/2Or8VMo
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 8 AR HD
-http://bit.ly/2xUINyQ
-#EXTINF:-1 tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="SportsTV",BeIN Sports 9 AR HD
-http://bit.ly/2IrlrWL
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%201%20fr%20hd.png" group-title="SportsTV",BeIN Sports 1 FR HD
-http://bit.ly/2zEbr9G
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%20usa.png" group-title="SportsTV",BeIN Sports USA HD
-http://bit.ly/2OXVWyE
-#EXTINF:-1 tvg-logo="https://imgur.com/JwkadXy.png" group-title="SportsTV",BeIN Sports Espanol HD
-http://bit.ly/2R9BuMA
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20main%20event%20hd.png" group-title="SportsTV",Sky Sports Main Event HD
-http://bit.ly/2Qkpabi
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20premier%20league%20hd.png" group-title="SportsTV",Sky Sports Premier League HD
-http://bit.ly/2DR096j
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20football%20hd.png" group-title="SportsTV",Sky Sports Football HD
-http://bit.ly/2NOdlx7
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20mix%20hd.png" group-title="SportsTV",Sky Sports Mix HD
-http://bit.ly/2xMhRCd
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201%20hd.png" group-title="SportsTV",BT Sports 1 HD
-http://bit.ly/2xYRHvw
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202%20hd.png" group-title="SportsTV",BT Sports 2 HD
-http://bit.ly/2DED3j9
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203%20hd.png" group-title="SportsTV",BT Sports 3 HD
-http://bit.ly/2Qd2LfY
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%201%20hd.png" group-title="SportsTV",TSN 1 HD
-http://bit.ly/2DGKshO
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%202%20hd.png" group-title="SportsTV",TSN 2 HD
-http://bit.ly/2Oh9Yyj
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%203%20hd.png" group-title="SportsTV",TSN 3 HD
-http://bit.ly/2IofEAZ
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%204%20hd.png" group-title="SportsTV",TSN 4 HD
-http://bit.ly/2QhBJE2
-#EXTINF:-1 tvg-logo="http://vod6.vaders.tv:8080/logos/tsn%205%20hd.png" group-title="SportsTV",TSN 5 HD
-http://bit.ly/2NQj9GB
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 1 4K
+http://80.211.189.193/live/get.php?stream=27&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 2 4K
+http://80.211.189.193/live/get.php?stream=28&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 3 4K
+http://80.211.189.193/live/get.php?stream=29&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 4 4K
+http://80.211.189.193/live/get.php?stream=30&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 5 4K
+http://80.211.189.193/live/get.php?stream=31&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 6 4K
+http://80.211.189.193/live/get.php?stream=32&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 7 4K
+http://80.211.189.193/live/get.php?stream=33&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 8 4K
+http://80.211.189.193/live/get.php?stream=34&username=76097116161695&password=76097116161695
+
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 1 HD
+http://80.211.189.193/live/get.php?stream=17&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 2 HD
+http://80.211.189.193/live/get.php?stream=18&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 3 HD
+http://80.211.189.193/live/get.php?stream=19&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 4 HD
+http://80.211.189.193/live/get.php?stream=20&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 5 HD
+http://80.211.189.193/live/get.php?stream=21&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 6 HD
+http://80.211.189.193/live/get.php?stream=22&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 7 HD
+http://80.211.189.193/live/get.php?stream=23&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 8 HD
+http://80.211.189.193/live/get.php?stream=24&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 9 HD
+http://80.211.189.193/live/get.php?stream=25&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 10 HD
+http://80.211.189.193/live/get.php?stream=26&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 1 SD
+http://80.211.189.193/live/get.php?stream=9&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 2 SD
+http://80.211.189.193/live/get.php?stream=10&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 3 SD
+http://80.211.189.193/live/get.php?stream=11&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 4 SD
+http://80.211.189.193/live/get.php?stream=12&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 5 SD
+http://80.211.189.193/live/get.php?stream=13&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 6 SD
+http://80.211.189.193/live/get.php?stream=14&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 7 SD
+http://80.211.189.193/live/get.php?stream=15&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEIN SPORTS 8 SD
+http://80.211.189.193/live/get.php?stream=16&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 1 Low
+http://80.211.189.193/live/get.php?stream=1&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 2 Low
+http://80.211.189.193/live/get.php?stream=2&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 3 Low
+http://80.211.189.193/live/get.php?stream=3&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 4 Low
+http://80.211.189.193/live/get.php?stream=4&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 5 Low
+http://80.211.189.193/live/get.php?stream=5&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 6 Low
+http://80.211.189.193/live/get.php?stream=6&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 7 Low
+http://80.211.189.193/live/get.php?stream=7&username=76097116161695&password=76097116161695
+#EXTINF:-1 group-title="BeinSports",BEINSPORT 8 Low
+http://80.211.189.193/live/get.php?stream=8&username=76097116161695&password=76097116161695
+
 
 #EXTINF:-1 group-title="Acestream",Матч! Футбол 1 HD 
 http://content.asplaylist.net/MVRpdG1XaDdGNXVDT3J2WnBIbHVBVk5NZnQvdUxYZXhTVVhoWU5rVGtFOGtYOUZYa1dPWHE5Qmx1RUx2OWszREpqeDdiYThsbDJUY3grQjU1V1VJOXc9PQ/cdn/625_reg.acelive
@@ -517,120 +533,1127 @@ https://bit.ly/2JVxDOm
 #EXTINF:-1 group-title="India",DESI BEATS HD
 https://bit.ly/2OhWHCO
 
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s1
+https://stream-02.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",WorkPoint HD s2
+https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint HD s3
+http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s1
+http://183.88.213.233:9000/play/a0di
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://image.free.in.th/v/2013/it/180630060349.png",Workpoint TV s2
+http://183.88.213.233:9000/play/a09f
+
+#EXTINF:-1 group-title="Thailand" tvg-id="TrueSport HD (Thai)" tvg-logo="http://tvdode.com/files/lives/cc364e49809b49321d6d278ea777dbf2.png",TrueSport HD
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="TrueSport HD 2" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",TrueSport HD 2
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="TrueSport HD 3 (Thai)" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",TrueSport HD 3
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="TrueSport HD 3" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",TrueSport HD 3
+https://live3.intersteam-idc.com/iheartmovie54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="MANU TV" tvg-logo="https://www.img.in.th/images/b8647bf6b46ea88f9b1756cb3e00b64f.png",MANU TV
+https://live3.intersteam-idc.com/iheartmovie41/0x444_mutv_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.img.in.th/images/dd12ebc9b1cfa3e495638fdc72163234.jpg",EUROSPORT HD2
+https://live3.intersteam-idc.com/iheartmovie54/0x444_eurosport2pl_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox sports HD" tvg-logo="http://www.fifa55u.com/images/icon/FOXSportsHD.png",Fox sports 1
+https://live3.intersteam-idc.com/iheartmovie54/0x777_foxsport1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox Sport 2" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports2.png",Fox Sport 2
+https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox Sport 3" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sport 3 s1
+https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport3_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox Sport 3" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",FOX SPORT 3 s2
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="WWE" tvg-logo="http://tvdode.com/files/lives/a5aad627c80cde95f26469e88d3d294c.png",WWE
+https://live3.intersteam-idc.com/iheartmovie41/0x444_wwe_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="DUBAI RACING" tvg-logo="https://www.img.in.th/images/2120a23020c263316d117165b0dd8cce.jpg",DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="T SPORT" tvg-logo="https://www.img.in.th/images/f107e56cf591176793b936bcad5fbc5e.png",T SPORT
+https://live3.intersteam-idc.com/iheartmovie54/0x777_golfchannel_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand",CARTOONCLUB
+http://27.254.130.64/live01/ch17.m3u8?p=cartoonclub
+
 #EXTINF:-1 group-title="Thailand",FOX CRIME
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_TH/playlist.m3u8
+
 #EXTINF:-1 group-title="Thailand",NICK JR
 http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",Nat Geo People
-http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+
 #EXTINF:-1 group-title="Thailand",Natgeo Wild
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_TH/chunks.m3u8
+
 #EXTINF:-1 group-title="Thailand",Natgeo Graphic
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8
+
 #EXTINF:-1 group-title="Thailand",FYI
 http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",FOX SPORT 3
-http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+
 #EXTINF:-1 group-title="Thailand",FX
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
+
 #EXTINF:-1 group-title="Thailand",FOX Crime ENG
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
+
 #EXTINF:-1 group-title="Thailand",FOX Thai ENG
 http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+
 #EXTINF:-1 group-title="Thailand",FOX Thai TH
 http://cdn2.bear-tv.com/freetv/TOT_foxthai_th/playlist.m3u8
+
 #EXTINF:-1 group-title="Thailand",Fox Life
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
+
 #EXTINF:-1 group-title="Thailand",Nat Geo ENG
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+
 #EXTINF:-1 group-title="Thailand",Nat Geo Wild ENG
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",STAR CHINESE MOVIE
-http://cdn2.bear-tv.com/freetv/TOT_starchina/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",MTV CHINA
-http://cdn2.bear-tv.com/freetv/TOT_MTV_china/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",MTV ASIA
-http://cdn2.bear-tv.com/freetv/TOT_MTV_asia/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",MTV LIVE
-http://cdn2.bear-tv.com/freetv/TOT_MTV_Live/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",3 Family
-http://119.59.125.74/stream/totnew.php?channel_id=93d89e479ef9499a9c1ddc36b85e4190&.m3u8
-#EXTINF:-1 group-title="Thailand",CH5 HD
-http://119.59.125.74/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6&.m3u
-#EXTINF:-1 group-title="Thailand",CH7 HD
-http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
-#EXTINF:-1 group-title="Thailand",MCOT Family
-http://119.59.125.74/stream/totnew.php?channel_id=2e1f1aff8eaf4a88b4c69a7da5487566&.m3u8
-#EXTINF:-1 group-title="Thailand",Workpoint
-http://119.59.125.74/stream/totnew.php?channel_id=a9a68ab5471d4d39ba25695a66957067&.m3u8
-#EXTINF:-1 group-title="Thailand",3 FAMILY
-http://main-a.for-our.info:8081/tv2/ch1.m3u8
-#EXTINF:-1 group-title="Thailand",MCOT FAMILY
-http://main-a.for-our.info:8081/tv2/ch4.m3u8
-#EXTINF:-1 group-title="Thailand",CHANNEL 8 THAI 27
-http://main-a.for-our.info:8081/tv2/ch2.m3u8
-#EXTINF:-1 group-title="Thailand",VOICE TV 21
-http://main-a.for-our.info:8081/tv2/ch6.m3u8
-#EXTINF:-1 group-title="Thailand",MCOT HD 30
-http://main-a.for-our.info:8081/tv2/ch7.m3u8
-#EXTINF:-1 group-title="Thailand",5 HD
-http://main-a.for-our.info:8081/tv2/ch5.m3u8
-#EXTINF:-1 group-title="Thailand",foxsport1
-https://live3.intersteam-idc.com/iheartmovie54/0x777_foxsport1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",WWE
-https://live3.intersteam-idc.com/iheartmovie41/0x444_wwe_360p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand",Bein Sport 5
-http://freedooballt1.blogdns.com:8081/iheartmovie136/0x222_beinsporthd5_720p/chunks.m3u8
-#EXTINF:-1 group-title="Thailand",3 HD
-http://49.231.4.246:9981/stream/channelid/1084043645
-#EXTINF:-1 group-title="Thailand",3 Family
-http://49.231.4.246:9981/stream/channelid/1305209214
-#EXTINF:-1 group-title="Thailand",Amarin TV HD
-http://49.231.4.246:9981/stream/channelid/224134535
-#EXTINF:-1 group-title="Thailand",BVN
-http://49.231.4.246:9981/stream/channelid/1341455246
-#EXTINF:-1 group-title="Thailand",CH 5 HD
-http://49.231.4.246:9981/stream/channelid/980798688
-#EXTINF:-1 group-title="Thailand",CH7 HD
-http://49.231.4.246:9981/stream/channelid/1306596631
-#EXTINF:-1 group-title="Thailand",CTN Christian Television Network
-http://49.231.4.246:9981/stream/channelid/1315262419
-#EXTINF:-1 group-title="Thailand",Daystar
-http://49.231.4.246:9981/stream/channelid/1070823468
-#EXTINF:-1 group-title="Thailand",Mono29
-http://49.231.4.246:9981/stream/channelid/1149783332
-#EXTINF:-1 group-title="Thailand",NATION TV
-http://49.231.4.246:9981/stream/channelid/1467051335
-#EXTINF:-1 group-title="Thailand",Puntland TV
-http://49.231.4.246:9981/stream/channelid/822036012
-#EXTINF:-1 group-title="Thailand",JUBALAND TV
-http://49.231.4.246:9981/stream/channelid/1346550036
-#EXTINF:-1 group-title="Thailand",ONE HD
-http://49.231.4.246:9981/stream/channelid/627688982
-#EXTINF:-1 group-title="Thailand",new tv
-http://49.231.4.246:9981/stream/channelid/1670108655
-#EXTINF:-1 group-title="Thailand",PPTV HD
-http://49.231.4.246:9981/stream/channelid/124747937
-#EXTINF:-1 group-title="Thailand",now
-http://49.231.4.246:9981/stream/channelid/1655136190
-#EXTINF:-1 group-title="Thailand",SBN International
-http://49.231.4.246:9981/stream/channelid/195355497
-#EXTINF:-1 group-title="Thailand",Somali National TV
-http://49.231.4.246:9981/stream/channelid/1919703810
-#EXTINF:-1 group-title="Thailand",Thairath TV
-http://49.231.4.246:9981/stream/channelid/1960259706
-#EXTINF:-1 group-title="Thailand",The Word Network
-http://49.231.4.246:9981/stream/channelid/1914207727
+
+#EXTINF:-1 group-title="Thailand",Voice TV T2
+http://183.88.213.233:9000/play/a095
+
+#EXTINF:-1 group-title="Thailand",MCOT F
+http://183.88.213.233:9000/play/a0c6
+
 #EXTINF:-1 group-title="Thailand",True4U
-http://49.231.4.246:9981/stream/channelid/1292883887
-#EXTINF:-1 group-title="Thailand",VOICE TV
-http://49.231.4.246:9981/stream/channelid/1622654284
-#EXTINF:-1 group-title="Thailand",Workpoint TV
-http://49.231.4.246:9981/stream/channelid/1655955434
-#EXTINF:-1 group-title="Thailand",GMM25
-http://49.231.4.246:9981/stream/channelid/1408187644
+http://183.88.213.233:9000/play/a0dj
+
+#EXTINF:-1 group-title="Thailand",TV5HD1
+http://183.88.213.233:9000/play/a0bt
+
+#EXTINF:-1 group-title="Thailand",3 SD T2
+http://183.88.213.233:9000/play/a09b
+
+#EXTINF:-1 group-title="Thailand",S BT
+http://183.88.213.233:9000/play/a09s
+
+#EXTINF:-1 group-title="Thailand",BRIGHT
+http://183.88.213.233:9000/play/a0cc
+
+#EXTINF:-1 group-title="Thailand",3 HD
+http://183.88.213.233:9000/play/a0bf
+
+#EXTINF:-1 group-title="Thailand",TFLM
+http://183.88.213.233:9000/play/a09x
+
+#EXTINF:-1 group-title="Thailand",NBT
+http://183.88.213.233:9000/play/a0bu
+
+#EXTINF:-1 group-title="Thailand",TNN24
+http://183.88.213.233:9000/play/a0dh
+
+#EXTINF:-1 group-title="Thailand",KNOW:XZYT
+http://183.88.213.233:9000/play/a0a6
+
+#EXTINF:-1 group-title="Thailand",TNN24
+http://183.88.213.233:9000/play/a09e
+
+#EXTINF:-1 group-title="Thailand",GOLDA:TLC
+http://183.88.213.233:9000/play/a0cj
+
+#EXTINF:-1 group-title="Thailand",FOX
+http://183.88.213.233:9000/play/a0aa
+
+#EXTINF:-1 group-title="Thailand",MOVH
+http://183.88.213.233:9000/play/a0bs
+
+#EXTINF:-1 group-title="Thailand",KNOW:TSP2
+http://183.88.213.233:9000/play/a0br
+
+#EXTINF:-1 group-title="Thailand",PPTV
+http://183.88.213.233:9000/play/a0bi
+
+#EXTINF:-1 group-title="Thailand",new)tv T2
+http://183.88.213.233:9000/play/a09j
+
+#EXTINF:-1 group-title="Thailand",PLOOK
+http://183.88.213.233:9000/play/a0bj
+
+#EXTINF:-1 group-title="Thailand",TPBS
+http://183.88.213.233:9000/play/a0bv
+
+#EXTINF:-1 group-title="Thailand",MCOT Kids T2
+http://183.88.213.233:9000/play/a093
+
+#EXTINF:-1 group-title="Thailand",FL A
+http://183.88.213.233:9000/play/a09y
+
+#EXTINF:-1 group-title="Thailand",MCOT HD
+http://183.88.213.233:9000/play/a0bc
+
+#EXTINF:-1 group-title="Thailand",TTCH
+http://183.88.213.233:9000/play/a0a5
+
+#EXTINF:-1 group-title="Thailand",MONEY
+http://183.88.213.233:9000/play/a09r
+
+#EXTINF:-1 group-title="Thailand",KBS
+http://183.88.213.233:9000/play/a0a2
+
+#EXTINF:-1 group-title="Thailand",Spring News T2
+http://183.88.213.233:9000/play/a094
+
+#EXTINF:-1 group-title="Thailand",EXPWILD
+http://183.88.213.233:9000/play/a0bl
+
+#EXTINF:-1 group-title="Thailand",BRIGHT TV T2
+http://183.88.213.233:9000/play/a09k
+
+#EXTINF:-1 group-title="Thailand",PPTV HD
+http://183.88.213.233:9000/play/a0ds
+
+#EXTINF:-1 group-title="Thailand",GMM25 T2
+http://183.88.213.233:9000/play/a09m
+
+#EXTINF:-1 group-title="Thailand",TSP6
+http://183.88.213.233:9000/play/a0ad
+
+#EXTINF:-1 group-title="Thailand",CH8
+http://183.88.213.233:9000/play/a0b9
+
+#EXTINF:-1 group-title="Thailand",SPK JUMP
+http://183.88.213.233:9000/play/a0bn
+
+#EXTINF:-1 group-title="Thailand",SPK PLAY
+http://183.88.213.233:9000/play/a0cn
+
+#EXTINF:-1 group-title="Thailand",TV5 HD1
+http://183.88.213.233:9000/play/a0dg
+
+#EXTINF:-1 group-title="Thailand",KNOW:SRES
+http://183.88.213.233:9000/play/a0a1
+
+#EXTINF:-1 group-title="Thailand",NOW
+http://183.88.213.233:9000/play/a0b8
+
+#EXTINF:-1 group-title="Thailand",3 SD
+http://183.88.213.233:9000/play/a0ba
+
+#EXTINF:-1 group-title="Thailand",Nation TV
+http://183.88.213.233:9000/play/a0do
+
+#EXTINF:-1 group-title="Thailand",WP TV
+http://183.88.213.233:9000/play/a0cf
+
+#EXTINF:-1 group-title="Thailand",ONE HD T2
+http://183.88.213.233:9000/play/a09h
+
+#EXTINF:-1 group-title="Thailand",Amarin TV HD T2
+http://183.88.213.233:9000/play/a09p
+
+#EXTINF:-1 group-title="Thailand",new)tv
+http://183.88.213.233:9000/play/a0dm
+
+#EXTINF:-1 group-title="Thailand",EXPSCI
+http://183.88.213.233:9000/play/a0cl
+
+#EXTINF:-1 group-title="Thailand",CH7 HD
+http://183.88.213.233:9000/play/a0dl
+
+#EXTINF:-1 group-title="Thailand",CCTV
+http://183.88.213.233:9000/play/a0ci
+
+#EXTINF:-1 group-title="Thailand",NEW TV
+http://183.88.213.233:9000/play/a0ca
+
+#EXTINF:-1 group-title="Thailand",ASER
+http://183.88.213.233:9000/play/a0a0
+
+#EXTINF:-1 group-title="Thailand",TPTV T2
+http://183.88.213.233:9000/play/a092
+
+#EXTINF:-1 group-title="Thailand",MCOT HD T2
+http://183.88.213.233:9000/play/a096
+
+#EXTINF:-1 group-title="Thailand",TV5 HD1 T2
+http://183.88.213.233:9000/play/a09d
+
+#EXTINF:-1 group-title="Thailand",True4U T2
+http://183.88.213.233:9000/play/a09g
+
+#EXTINF:-1 group-title="Thailand",NOW T2
+http://183.88.213.233:9000/play/a09n
+
+#EXTINF:-1 group-title="Thailand",RAMA
+http://183.88.213.233:9000/play/a0bo
+
+#EXTINF:-1 group-title="Thailand",THAIPBS HD T2
+http://183.88.213.233:9000/play/a098
+
+#EXTINF:-1 group-title="Thailand",PPTV HD T2
+http://183.88.213.233:9000/play/a09q
+
+#EXTINF:-1 group-title="Thailand",3FAM
+http://183.88.213.233:9000/play/a0c5
+
 #EXTINF:-1 group-title="Thailand",BRIGHT TV
-http://49.231.4.246:9981/stream/channelid/525545405
+http://183.88.213.233:9000/play/a0dn
+
+#EXTINF:-1 group-title="Thailand",INSE
+http://183.88.213.233:9000/play/a0bk
+
+#EXTINF:-1 group-title="Thailand",CH7 HD T2
+http://183.88.213.233:9000/play/a09i
+
+#EXTINF:-1 group-title="Thailand",GMM25
+http://183.88.213.233:9000/play/a0b7
+
+#EXTINF:-1 group-title="Thailand",Thairath TV T2
+http://183.88.213.233:9000/play/a097
+
+#EXTINF:-1 group-title="Thailand",TNN24
+http://183.88.213.233:9000/play/a0bp
+
+#EXTINF:-1 group-title="Thailand",Nation TV T2
+http://183.88.213.233:9000/play/a09l
+
+#EXTINF:-1 group-title="Thailand",EXPLIFE
+http://183.88.213.233:9000/play/a0ck
+
+#EXTINF:-1 group-title="Thailand",MONO29
+http://183.88.213.233:9000/play/a0dq
+
+#EXTINF:-1 group-title="Thailand",CH8 T2
+http://183.88.213.233:9000/play/a09a
+
+#EXTINF:-1 group-title="Thailand",3 Family T2
+http://183.88.213.233:9000/play/a099
+
+#EXTINF:-1 group-title="Thailand",VOICE
+http://183.88.213.233:9000/play/a0cd
+
+#EXTINF:-1 group-title="Thailand",TH RATH
+http://183.88.213.233:9000/play/a0be
+
+#EXTINF:-1 group-title="Thailand",BUDDHA
+http://183.88.213.233:9000/play/a0cv
+
+#EXTINF:-1 group-title="Thailand",MONO
+http://183.88.213.233:9000/play/a0bb
+
+#EXTINF:-1 group-title="Thailand",True4U
+http://183.88.213.233:9000/play/a0de
+
+#EXTINF:-1 group-title="Thailand",REAL
+http://183.88.213.233:9000/play/a0a4
+
+#EXTINF:-1 group-title="Thailand",CELEST
+http://183.88.213.233:9000/play/a09z
+
+#EXTINF:-1 group-title="Thailand",MONO29 T2
+http://183.88.213.233:9000/play/a09o
+
+#EXTINF:-1 group-title="Thailand",ONE HD
+http://183.88.213.233:9000/play/a0dk
+
+#EXTINF:-1 group-title="Thailand",SME
+http://183.88.213.233:9000/play/a09t
+
+#EXTINF:-1 group-title="Thailand",ASIAN F
+http://183.88.213.233:9000/play/a0ab
+
+#EXTINF:-1 group-title="Thailand",TSHOP
+http://183.88.213.233:9000/play/a0bq
+
+#EXTINF:-1 group-title="Thailand",GMM25
+http://183.88.213.233:9000/play/a0dp
+
+#EXTINF:-1 group-title="Thailand",NATION
+http://183.88.213.233:9000/play/a0ce
+
+#EXTINF:-1 group-title="Thailand",TNN2
+http://183.88.213.233:9000/play/a0ch
+
+#EXTINF:-1 group-title="Thailand",VERY
+http://183.88.213.233:9000/play/a0a7
+
+#EXTINF:-1 group-title="Thailand",ONE
+http://183.88.213.233:9000/play/a0bd
+
+#EXTINF:-1 group-title="Thailand",TSP7
+http://183.88.213.233:9000/play/a0cg
+
+#EXTINF:-1 group-title="Thailand",TSP5
+http://183.88.213.233:9000/play/a0ac
+
+#EXTINF:-1 group-title="Thailand",Disn
+http://183.88.213.233:9000/play/a0cm
+
+#EXTINF:-1 group-title="Thailand",TPTV
+http://183.88.213.233:9000/play/a0c2
+
+#EXTINF:-1 group-title="Thailand",TRAV
+http://183.88.213.233:9000/play/a0a9
+
+#EXTINF:-1 group-title="Thailand",TMUS
+http://183.88.213.233:9000/play/a0a3
+
+#EXTINF:-1 group-title="Thailand",BBTV CH7
+http://183.88.213.233:9000/play/a0bh
+
+#EXTINF:-1 group-title="Thailand",3 HD T2
+http://183.88.213.233:9000/play/a09c
+
+#EXTINF:-1 group-title="Thailand",SP NEWS
+http://183.88.213.233:9000/play/a0cb
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CH 8 (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch8_65x66.png",CH 8 (1)
+http://main-a.for-our.info:8081/tv2/ch2.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Thairath TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Thairath-TV.png",Thairath TV
+http://27.131.160.10/ibcbet/thairath/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Thairath TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Thairath-TV.png",Thairath TV (1)
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="NBT (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NBT.png",NBT (1)
+http://27.131.160.10/ibcbet/nbt/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="PPTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/PPTV-HD.png",PPTV (1)
+http://27.131.160.10/ibcbet/pptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CH3 HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3 HD (2)
+http://27.131.160.10/ibcbet/ch3/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CH 3 Family (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-Family.png",CH 3 Family
+http://main-a.for-our.info:8081/tv2/ch1.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CH5" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch5.png",CH5
+http://27.131.160.10/ibcbet/ch5/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CH5" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch5.png",CH5 (1)
+https://m88.intersteam-idc.com/live41/0x777_2tv5_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CH 7" tvg-logo="http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png",CH 7 (2)
+http://27.131.160.10/ibcbet/ch7/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.totiptv.com/Product/Channel/images/CH2.png",CH 2
+http://stream.rs.co.th/ch2-hi/index.m3u8?
+
+#EXTINF:-1 group-title="Thailand" tvg-id="BRIGHT TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Bright-TV.png",BRIGHT TV
+http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="BRIGHT TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Bright-TV.png",BRIGHT TV (1)
+http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w552127500.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="ช่อง 1 เวิร์คพอยท์ " tvg-logo="http://www.totiptv.com/Product/Channel/images/workpoint.png",ช่อง 1 เวิร์คพอยท์ (2)
+http://27.131.160.10/ibcbet/workpoint/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Voice TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/voiceTV.png",Voice TV
+https://live3.intersteam-idc.com/iheartmovie53/00_voice_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Thai PBS" tvg-logo="http://www.totiptv.com/Product/Channel/images/thaiPBS.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Thai PBS (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/thaiPBS.png",Thai PBS(1)
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="One HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/one-HD.png",One HD
+http://live.seesantv.com/live/chone1/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Nation TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/nationchannel.png",Nation TV
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="MCOT HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png",MCOT HD
+http://main-a.for-our.info:8081/tv2/ch7.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="MCOT HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png",MCOT HD (3)
+http://27.131.160.10/ibcbet/ch9/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="MCOT family" tvg-logo="https://www.img.in.th/images/35188e53240a3ef855745b66694f3d57.png",MCOT family
+http://main-a.for-our.info:8081/tv2/ch4.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="GMM CHANNEL (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/GMMChannel.png",GMM CHANNEL
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_b1628000.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="New 18" tvg-logo="https://www.img.in.th/images/4fc2126d8ecb7c008edb4ef0c33c36fc.png",New 18
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="CABLE 37HD" tvg-logo="https://www.img.in.th/images/65326e500d5eec03fe6a063f8853e255.jpg",CABLE 37HD
+http://203.150.47.35/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="HIT TV" tvg-logo="https://www.img.in.th/images/bbd89e8de4c048002771a3c48d12652c.jpg",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="MOVIE HD" tvg-logo="https://www.img.in.th/images/95526db277e9cf90920de22160b3b66c.png",MOVIE HD
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="FOX FAMILY MOVIES (Eng)" tvg-logo="https://a.lnwpic.com/g35cax.jpg",FOX FAMILY MOVIES
+http://210.210.155.35/session/815a355e-a1fa-11e8-9922-81b0b60634ae/uq2663/h/h16/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox" tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch408.jpg",Fox
+http://210.210.155.35/session/767b0e2a-a9dd-11e8-835b-bd4ab4decba4/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox Movies Premium" tvg-logo="https://a.lnwpic.com/7wd6gr.png",Fox Movies Premium
+http://210.210.155.35/session/1dfa0ea8-a1fa-11e8-996f-9f14b472f786/uq2663/h/h14/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="Fox Thai (Thai)" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai
+http://210.210.155.35/session/a8dae8b8-a1f9-11e8-b59d-b9e0bec7c6ab/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="FX" tvg-logo="https://a.lnwpic.com/b9k0wm.jpg",FX
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/chunks.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-id="M Channel" tvg-logo="http://www.totiptv.com/Product/Channel/images/Mchannel.jpg",M Channel
+http://27.254.142.207:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.img.in.th/images/281db6740f617ca3e9996d4639ddfcce.png",AXN HD
+http://210.210.155.35/session/27b55516-a9dd-11e8-ab59-9ac3a67208b9/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.img.in.th/images/154efb2412f955785225657f6dfa8458.png",True WB
+https://m88.intersteam-idc.com/live54/0x777_warnertv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.doo2free.com/icon/SeriesChannel.png",Series Channel
+http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.img.in.th/images/94ab23cbfa1f1f117e5558f0dbf75cc0.jpg",TV 1000 Action
+http://ott-cdn.ucom.am/s91/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Thailand",Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.img.in.th/images/5df89ab3f43716796c374775628234e6.jpg",CN
+https://vod.cartoonnetworkasia.com/cn3.x/20161122/1836/0_cexvdnmd_0_k5w2usw1_2.mp4
+
+#EXTINF:-1 group-title="Thailand" tvg-logo=",White Tiger (2012) เบลืยติกร์ สงครามรถถังประจัญบาน
+https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513678037/1513678037_360.mp4
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://onlinemini-hd.com/wp-content/uploads/2015/08/Transformers-4-202x289.jpg",Transformers 4: Age of Extinction มหาวิบัติยุคสุญพันธุ์
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1524224285.jpg", พี่ปู พงษ์สิทธิ์ คำภีร์ คอนเสิร์ต 30 ปี คำภีร์ แกเพื่อนฉัน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_30y%20Kampee.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/6044.jpg",คอนเสิร์ต พงษ์สิทธิ์ คำภีร์ ใจบงการ 2016
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Kham.Pi.Live.Ko.Chai.Man.Bongkan.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518336780.jpg",บันทึกการแสดงสด NJ S STORY CONCERT THE ORIGINAL (2017) D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_NJs%20Story%20Concert%20The%20Original%20D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518336780.jpg",บันทึกการแสดงสด NJ S STORY CONCERT THE ORIGINAL (2017) D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_NJs%20Story%20Concert%20The%20Original%20D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/channels/channel_1524302543.jpg",คอนเสิร์ต 25 ปี สุดหัวใจ ใหม่ ไม้ม้วน D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_25%20MAI%20D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/channels/channel_1524302543.jpg", คอนเสิร์ต 25 ปี สุดหัวใจ ใหม่ ไม้ม้วน D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_25%20MAI%20D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/5293.jpg",Da Endorphine Magic Of The Night Concert
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Da.Endorphine.Magic.Of.The.Night.2012.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339775.jpg",Retrospect & Sweet Mullet vs The world Concert D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert.Rtsm.D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339775.jpg",Retrospect & Sweet Mullet vs The world Concert D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert.Rtsm.D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339699.jpg",คอนเสิร์ต Sek Loso Live In Thailand D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Sek.loso.live.in.thailand.2015.D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339699.jpg",คอนเสิร์ต Sek Loso Live In Thailand D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Sek.loso.live.in.thailand.2015.D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2609.jpg",คอนเสิร์ต เสก โลโซ เพื่อเพื่อน
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_LOSO.For.Friend.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/642.jpg",ช็อต ชาร์จ ช็อค ร็อก คอนเสิร์ต
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Short_Charge_Shock_Rock_Legend.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2260.jpg",คอนเสิร์ต : Silly Fools FatLive V3
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Silly.Fools.Fatlive.V.3.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339810.jpg",สล็อต แมชชีน เดอะ เฟิร์ส คอนแทค D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Slot.Machine.The.First.Contact.2014.D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339810.jpg",สล็อต แมชชีน เดอะ เฟิร์ส คอนแทค D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Slot.Machine.The.First.Contact.2014.D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/895.jpg",Concert RS MEETING D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_RS_MEETING_CONCERT.D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/895.jpg",Concert RS MEETING D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_RS_MEETING_CONCERT.D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494341697.jpg",PACK 4 TURN BACK CONCERT D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_PACK4.Turn.Back.D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494341697.jpg",PACK 4 TURN BACK CONCERT D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_PACK4.Turn.Back.D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339742.jpg", Concert LinkinPark Rock In Rio Usa
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Linkin.Park.Rock.In.Rio.Usa.2015.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/6188.jpg", คอนเสิร์ต อัสนี วสันต์ 30 ปี สวัสดี ครับ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Atsani-Wasan.30.Year.Sawatdi.Khrap.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513239297.jpg",J DNA Concert D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert%20_J%20DNA%20CONCERT%20D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513239297.jpg",J DNA Concert D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert%20_J%20DNA%20CONCERT%20D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3678.jpg",บิ๊กแอสคอนเสิร์ต...เปิดพรหมลิขิต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Bigass.Concert.2007.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/374.jpg",คอนเสิร์ต บรรลุนิติภาวะ ๒๑ ปี ป้าง นครินทร์ กิ่งศักดิ์
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Pang.21Y.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1807.jpg",Big Mountain Music Festival 3 ... มัน ใหญ่ มาก D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert.Big.mountain.3.D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1807.jpg",Big Mountain Music Festival 3 ... มัน ใหญ่ มาก D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert.Big.mountain.3.D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2197.jpg",Concert Bird 25ปี  D1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Bird.25_D1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2197.jpg",Concert Bird 25ปี  D2
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Bird.25_D2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/channels/15786.jpg",คอนเสิร์ต 10 ปี แบล็คเฮด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_10th.black.head.concert.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/channels/24933.jpg",คอนเสิร์ต "Potato Live D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection.Presents.Potato.Live.Disc1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/channels/24933.jpg",คอนเสิร์ต "Potato Live D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection.Presents.Potato.Live.Disc2.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494332074.jpg",จ๊ะ คันหู อัลบั้ม หนูเอาอยู่
+http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520767065.jpg",รหัสกระสุนเจาะกะโหลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_13-thirteen-2010-4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15207668891.jpg",คิง อาร์เธอร์ ตำนานแห่งดาบราชันย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506872.jpg",แบทเทิลชิป ยุทธการเรือรบพิฆาตเอเลี่ยน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Battleship%204K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506991.jpg",อาชญากลปล้นโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Now%20You%20See%20Me%204K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",จอมเวทย์มหากาฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154779.jpg",ทีมเงาอัจฉริยะ
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hidden%20Figures.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 เร็วแรงทะลุนรก 1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2001.TH.4K.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg", 2 fast 2 furious เร็ว คูณ 2 ดับเบิ้ล แรง ท้า นรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2.TH.4K.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.3.TH.4K.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.4.TH.4K.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",เร็ว..แรงทะลุนรก 8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.fate.of.the.furious.2017.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924128.jpg",ทรานส์ฟอร์มเมอร์ส1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.1.2007.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924530.jpg",ทรานส์ฟอร์มเมอร์ส 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.revenge.of.the.fallen.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927191.jpg",ทรานส์ฟอร์มเมอร์ส 3
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.dark.of.the.moon.2011.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927384.jpg",ทรานส์ฟอร์มเมอร์ส4
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.age.of.Extinction.2014.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507557503.jpg",ทรานส์ฟอร์มเมอร์ส 5
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.The.Last.Knight.2017.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866593.jpg",วอร์คราฟต์: กำเนิดศึกสองพิภพ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Warcraft.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866612.jpg",X-Men: Apocalypse
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875036.jpg", จี ไอ โจ ภาค 2 สงคราม ระห่ำ แค้น ค อบ ร้า ทมิฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_4K_G.I.Joe.2.Retaliation.Extended.Cut.TH.4K.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866800.jpg",สงครามเทวดา
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875139.jpg",รวมพันธุ์นักสู้พิทักษ์จักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Guardians.Of.The.Galaxy.2014.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866979.jpg",ฮิทแมน: สายลับ 47
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hitman.agent.47.2015.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866525.jpg",สงครามใหม่วันบดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Independence.Day.Resurgence.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866489.jpg",เจสัน บอร์น ยอดจารชนคนอันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jason.bourne.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875321.jpg",จอห์นวิค แรงกว่านรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_John.wick.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875470.jpg",จูราสสิค เวิลด์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jurassic.World.2015.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875817.jpg",ทะลุเวลา อึดล่าอึด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Looper.2012.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875993.jpg",แมด แม็กซ์: ถนนโลกันตร์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866938.jpg",เมซ รันเนอร์ สมรภูมิมอดไหม้
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Maze.Runner.The.Scorch.Trials.2015.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494881925.jpg",oblivion อุบัติ การณ์ โลก ลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867013.jpg",คู่โดยสารพันล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Passengers.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917010.jpg",San Andreas มหาวินาศแผ่นดินแยก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_San.Andreas.2015.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866550.jpg",เต่านินจา 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Teenage.mutant.ninja.turtles.out.of.the.shadows.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866659.jpg",5th wave อุบัติ การณ์ ล้างโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.5.th.Wave.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917307.jpg",ดิ อะเมซิ่ง สไปเดอร์แมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Amazing.Spider.Man.2012.4k.2500.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866851.jpg",ตำนานแห่งทาร์ซาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.legend.of.tarzan.2016.2160p.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917734.jpg",เดอะ แมน ฟรอม อั.ง.เ.คิ.ล. คู่ดุไร้ปรานี
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.Man.From.U.N.C.L.E.2015.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917863.jpg",เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Martian.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494918176.jpg",The Nice Guys กายส์...นายแสบมาก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.nice.guys.2016.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917501.jpg",ดิ อะเมซิ่ง สไปเดอร์-แมน: ผงาดอสูรกายสายฟ้า
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-Man.2.2014.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501578936.jpg",Arrival ผู้มาเยือน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Arrival.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501405187.jpg",สวยสังหาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Salt.2010.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501318248.jpg", bad boy คู่หู ขวาง นรก 2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Bad.boys.ii.2003.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497095846.jpg",โลแกน เดอะ วูล์ฟเวอรีน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Logan.2017.4K.TH.1.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496046938.jpg",ใหญ่・ปล้น・ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Railroad.Tigers.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496214903.jpg",xXx ทลายแผนยึดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Xxx.Return.Of.Xander.Cage.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866171.jpg",อัสแซสซินส์ครีด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Assassins.Creed.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867197.jpg",avatar อวตาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Avatar.Extended.Edition.2009.TH.4K.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866641.jpg",แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Batman.V.Superman.Dawn.Of.Justice.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867414.jpg",วันยึดโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Battle.Los.Angeles.2011.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867575.jpg",captain america civil war
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866460.jpg",ฝ่าวิบัติเพลิงนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Deepwater.horizon.2016.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869467.jpg",สงครามพลิกจักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Enders.Game.2013.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866350.jpg",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Fantastic.Beasts.And.Where.To.Find.Them.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1530273446.jpg",Pacific Rim:Uprising 2018:แปซิฟิค ริม ปฏิวัติพลิกโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Pacific.rim.uprising.2018.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1529928480.jpg",ยุทธภูมิทะเลแดง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Operation%20Red%20Sea%202018.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520498958.jpg",Only the Brave คนกล้าไฟนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Only.the.brave.2017.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15142861981.jpg",baywatch ไลฟ์การ์ดฮอตพิทักษ์หาด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Baywatch.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security 2017 โคตร ยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519901795.jpg",Justice League จัสติซ ลีก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Justice.League.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519214702.jpg",ธอร์: ศึกอวสานเทพเจ้า
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Thor.Ragnarok.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518777044.jpg",PROFESSOR MARSTON AND THE WONDER WOMEN (2017) กำเนิดวันเดอร์วูแมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Professor.Marston.and.the.Wonder.Women.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1521027422.jpg",เกมดูดโลก บุกป่ามหัศจรรย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Jumanji.Welcome.to.the.Jungle.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.movie2free.com/wp-content/uploads/2018/05/32202775_1820584951332242_1025779619262889984_n.png",Death-Wish2018 นักฆ่าโคตรอึด
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evd/vd013-Death-Wish2018_thd.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.movie2free.com/wp-content/uploads/2018/06/Ready-Player-One-poster-600x890-22.jpg",Ocean's 8 โอเชียน 8 (2018)
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evb/sb080-Beyond-the-Edge-2018-zth.mp4/index.m3u8?
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://iheartmovie.com/assets/201806240823501487153053.jpg",Escape Plan 2 Hades แหกคุกมหาประลัย 2
+http://cdnstream1.podzone.net:443/movie/2018/Escape.Plan.2.2018.1080p.TH.zoom2.mp4/index.m3u8?u=h27892&st=sbdekPc2hjdezmwsuE8K2g&e=1529942522&ip=171.96.218.150
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4319.jpg",Knock Knock ล่อมมาเชือด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Knock.knock.2015.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4687.jpg",Retribution พลิกเส้นตาย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Retribution.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1506155902.jpg",เดอะ เกรท วอลล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.great.wall.2016.TH.6500.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494523380.jpg",007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_James.Bond.007.Casino.Royale.2006.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",ฝ่าวิกฤติ 12 รอบระห่ำนรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494327857.jpg",  2035 ข้ามเวลากู้โลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_2035.The.Forbidden.Dimensions.TH.MP4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2200.jpg",22 นัด ยมบาลล้างยมบาล
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3112.jpg",Act Of Valor หน่วยพิฆาตระห่ำกู้โลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Act.Of.Valor.2012.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3586.jpg",โคตรคนปล้นระห่ำเมือง
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_American.Heist.2014.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4332.jpg",แผนระห่ำปล้นทะลุเกราะ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Armored.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3201.jpg",ภารกิจดุ กุมชะตาโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Babylon.a.d.2008.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/5428.jpg",คู่เดือด...แสบเกินพิกัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Company.2002.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/5204.jpg",เกียรติยศคนโฉดถล่มเมืองโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Lieutenant.Port.of.Call.New.Orleans.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2064.jpg",ยุทธการฝ่ารหัสทมิฬ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_Black.Hawk.Down.2001.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4399.jpg",เหาะทะลุฟ้า ซิ่งมหาประลัย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Black.lightning.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4378.jpg",บลิทซ์ ล่าโคตรคลั่งล้าง สน.
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Blitz.2011.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512811671.jpg",ส่ม ภัค เสี่ยน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_SOM.PAK.SIAN.2017.MP4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512636904.jpg",สาระแน เลิฟยูววว
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Saranair-Love%20You.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496148951.jpg",Z Storm คนคมโค่นพายุ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Z.storm.2014.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495887600.jpg",มังกรหนุ่มผยองเดช
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Call.of.heroes.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497795640.jpg",เชือด เดือด ระอุ 2017
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Operation.mekong.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495286782.jpg",ไซอิ๋ว 2017 คนเล็กอิทธิฤทธิ์ใหญ่
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Journey.to.the.west.the.demons.strike.back.2017.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495874155.jpg",โยคะสู้ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Kung.fu.yoga.2017.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1493535522.jpg",วานรคู่ฟัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Monkey.Twins.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/6300.jpg",ก็อดซิลล่า: รีเซอร์เจนซ์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Shin.Godzilla.2016.TH.MP4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495107888.jpg", คน ล่า ฅน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_the.age.of.shadows.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1492853447.jpg", ยากูซ่า ปะทะ แวมไพร์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Yakuza.apocalypse.2015.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4968.jpg",ฟ้าใส ใจชื่นบาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Blue.Sky.of.Love.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3299.jpg",ใหญ่พลิกแผ่นดินฟัด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Little.Big.Soldier.2010.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4157.jpg",แม่เบี้ย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Maebia.2015.Uncut.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3647.jpg",หวงเฟยหง พยัคฆ์ผงาดวีรบุรุษกังฟู
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Rise.of.the.legend.2014.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/5225.jpg",เท่ง โหน่ง จีวรบิน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Teng.Nong.jiworn.bin.2011.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2599.jpg",โจโฉ
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.Assassins.2012.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2553.jpg",ล่าทะลุศตวรรษ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.Iceman.2014.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1612.jpg",เจ้าพ่อเซี่ยงไฮ้คนสุดท้าย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.last.tycoon.2012.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4801.jpg",เงือกสาว ปัง ปัง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Mermaid.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4761.jpg",ไซอิ๋ว 2 ตอน ศึกราชาวานรพิชิตมาร
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_The.monkey.2.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3388.jpg",เดชนางพญาผมขาว
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.White.Haired.Witch.Of.Lunar.Kingdom.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1797.jpg",8 ดาบทรมาน 6 ดาบสังหาร
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_14.blades.2010.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2627.jpg",1911 ใหญ่ผ่าใหญ่
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_1911.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4122.jpg",เชือดระอุ ทะลุองศา
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_-197C.Murder.2013.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/251.jpg",7 เพชฌฆาต ทะเลทราย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_7.Assassins.2013.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2956.jpg",มหาบุรุษ กู้แผ่นดิน
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Batter.Of.Wits.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1750.jpg",ผู้หญิงข้าใครอย่าแตะ 1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.1.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1526.jpg",ผู้หญิงข้าใครอย่าแตะ 2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.2.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/1527.jpg",ผู้หญิงข้าใครอย่าแตะ 3
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.3.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/4727.jpg",พยัคฆ์ย่ำมังกรโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_A.War.Named.Desire.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/2820.jpg",จอมโจรหัวใจไม่ลวงรัก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.World.Without.Thieves.2005.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/3895.jpg",ศึกทะยานฟ้า กวดวิชาถล่มมาร
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_Arahan.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/936.jpg", สงครามธนูพิฆาต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Arrow.the.ultimate.weapon.2011.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://iheartmovie.com/assets/201806240821541938374956.jpg",Paul, Apostle of Christ (2018) พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evb/sb063-Paul-Apostle-of-Christ2018_sth.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://iheartmovie.com/assets/201807011259221526541686.jpg",Gringo (2018):กริงโก้ซวยสลัด(HD) พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evd/vd015-Gringo-2018_thd.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://iheartmovie.com/assets/201807011257111409621865.jpg",Zombiology: Enjoy Yourself Tonight:อย่าให้ผีมากัด(HD) พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evd/vd014-Zombiology_Enjoy-Yourself-Tonight2017_thd.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://iheartmovie.com/assets/20180624082517673712638.jpg",เปรมิกาป่าราบ พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evt/st004-Premika-Parab-f2017.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1508141484.jpg",มหาสงครามพิภพวานร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_War.for.the.Planet.of.the.Apes.FullHD.TH.mp4/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan",EXPLORE SCIENCE
+http://122.155.180.8:5021/live/457
+#EXTINF:-1 group-title="Japan",101
+http://122.155.180.8:5021/live/440
+#EXTINF:-1 group-title="Japan",102
+http://122.155.180.8:5021/live/103
+#EXTINF:-1 group-title="Japan",探索频道
+http://122.155.180.8:5021/live/497
+#EXTINF:-1 group-title="Japan",53
+http://122.155.180.8:5021/live/53
+#EXTINF:-1 group-title="Japan",52
+http://122.155.180.8:5021/live/52
+#EXTINF:-1 group-title="Japan",51
+http://122.155.180.8:5021/live/51
+#EXTINF:-1 group-title="Japan",54
+http://122.155.180.8:5021/live/54
+#EXTINF:-1 group-title="Japan",57
+http://122.155.180.8:5021/live/57
+#EXTINF:-1 group-title="Japan",55
+http://122.155.180.8:5021/live/55
+#EXTINF:-1 group-title="Japan",58
+http://122.155.180.8:5021/live/58
+#EXTINF:-1 group-title="Japan",98
+http://122.155.180.8:5021/live/98
+#EXTINF:-1 group-title="Japan",102
+http://122.155.180.8:5021/live/102
+#EXTINF:-1 group-title="Japan",115
+http://122.155.180.8:5021/live/115
+#EXTINF:-1 group-title="Japan",139
+http://122.155.180.8:5021/live/139
+#EXTINF:-1 group-title="Japan",193
+http://122.155.180.8:5021/live/193
+#EXTINF:-1 group-title="Japan",191
+http://122.155.180.8:5021/live/191
+#EXTINF:-1 group-title="Japan",205
+http://122.155.180.8:5021/live/205
+#EXTINF:-1 group-title="Japan",207
+http://122.155.180.8:5021/live/207
+#EXTINF:-1 group-title="Japan",210
+http://122.155.180.8:5021/live/210
+#EXTINF:-1 group-title="Japan",209
+http://122.155.180.8:5021/live/209
+#EXTINF:-1 group-title="Japan",208
+http://122.155.180.8:5021/live/208
+#EXTINF:-1 group-title="Japan",212
+http://122.155.180.8:5021/live/212
+#EXTINF:-1 group-title="Japan",213
+http://122.155.180.8:5021/live/213
+#EXTINF:-1 group-title="Japan",216
+http://122.155.180.8:5021/live/216
+#EXTINF:-1 group-title="Japan",217
+http://122.155.180.8:5021/live/217
+#EXTINF:-1 group-title="Japan",219
+http://122.155.180.8:5021/live/219
+#EXTINF:-1 group-title="Japan",220
+http://122.155.180.8:5021/live/220
+#EXTINF:-1 group-title="Japan",221
+http://122.155.180.8:5021/live/221
+#EXTINF:-1 group-title="Japan",224
+http://122.155.180.8:5021/live/224
+#EXTINF:-1 group-title="Japan",223
+http://122.155.180.8:5021/live/223
+#EXTINF:-1 group-title="Japan",261
+http://122.155.180.8:5021/live/261
+#EXTINF:-1 group-title="Japan",263
+http://122.155.180.8:5021/live/263
+#EXTINF:-1 group-title="Japan",301
+http://122.155.180.8:5021/live/301
+#EXTINF:-1 group-title="Japan",302
+http://122.155.180.8:5021/live/302
+#EXTINF:-1 group-title="Japan",303
+http://122.155.180.8:5021/live/303
+#EXTINF:-1 group-title="Japan",305
+http://122.155.180.8:5021/live/305
+#EXTINF:-1 group-title="Japan",304
+http://122.155.180.8:5021/live/304
+#EXTINF:-1 group-title="Japan",306
+http://122.155.180.8:5021/live/306
+#EXTINF:-1 group-title="Japan",307
+http://122.155.180.8:5021/live/307
+#EXTINF:-1 group-title="Japan",308
+http://122.155.180.8:5021/live/308
+#EXTINF:-1 group-title="Japan",309
+http://122.155.180.8:5021/live/309
+#EXTINF:-1 group-title="Japan",312
+http://122.155.180.8:5021/live/312
+#EXTINF:-1 group-title="Japan",310
+http://122.155.180.8:5021/live/310
+#EXTINF:-1 group-title="Japan",314
+http://122.155.180.8:5021/live/314
+#EXTINF:-1 group-title="Japan",313
+http://122.155.180.8:5021/live/313
+#EXTINF:-1 group-title="Japan",315
+http://122.155.180.8:5021/live/315
+#EXTINF:-1 group-title="Japan",316
+http://122.155.180.8:5021/live/316
+#EXTINF:-1 group-title="Japan",318
+http://122.155.180.8:5021/live/318
+#EXTINF:-1 group-title="Japan",317
+http://122.155.180.8:5021/live/317
+#EXTINF:-1 group-title="Japan",319
+http://122.155.180.8:5021/live/319
+#EXTINF:-1 group-title="Japan",320
+http://122.155.180.8:5021/live/320
+#EXTINF:-1 group-title="Japan",321
+http://122.155.180.8:5021/live/321
+#EXTINF:-1 group-title="Japan",322
+http://122.155.180.8:5021/live/322
+#EXTINF:-1 group-title="Japan",324
+http://122.155.180.8:5021/live/324
+#EXTINF:-1 group-title="Japan",323
+http://122.155.180.8:5021/live/323
+#EXTINF:-1 group-title="Japan",326
+http://122.155.180.8:5021/live/326
+#EXTINF:-1 group-title="Japan",325
+http://122.155.180.8:5021/live/325
+#EXTINF:-1 group-title="Japan",361
+http://122.155.180.8:5021/live/361
+#EXTINF:-1 group-title="Japan",392
+http://122.155.180.8:5021/live/392
+#EXTINF:-1 group-title="Japan",396
+http://122.155.180.8:5021/live/396
+#EXTINF:-1 group-title="Japan",KIDS CHANNEL
+http://122.155.180.8:5021/live/494
+#EXTINF:-1 group-title="Japan",DISCOVERY CHANNEL
+http://122.155.180.8:5021/live/496
+#EXTINF:-1 group-title="Japan",MUSIC JAPAN
+http://122.155.180.8:5021/live/495
+#EXTINF:-1 group-title="Japan",FAMILY GEKIJO (家族劇場)
+http://122.155.180.8:5021/live/493
+#EXTINF:-1 group-title="Japan",J-SPORTS 1
+http://122.155.180.8:5021/live/415
+#EXTINF:-1 group-title="Japan",J-SPORTS 2
+http://122.155.180.8:5021/live/416
+#EXTINF:-1 group-title="Japan",J-SPORTS 3
+http://122.155.180.8:5021/live/410
+#EXTINF:-1 group-title="Japan",J-SPORTS 4
+http://122.155.180.8:5021/live/411
+#EXTINF:-1 group-title="Japan",EX SPORTS
+http://122.155.180.8:5021/live/414
+#EXTINF:-1 group-title="Japan",GAORA
+http://122.155.180.8:5021/live/413
+#EXTINF:-1 group-title="Japan",GOLF NETWORK
+http://122.155.180.8:5021/live/409
+#EXTINF:-1 group-title="Japan",GREEN
+http://122.155.180.8:5021/live/412
+#EXTINF:-1 group-title="Japan",FIGHTING SAMURAI
+http://122.155.180.8:5021/live/408
 
 
 #EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" tvg-logo="" group-title="Sports",Sly Sports Action - Sly Sports Action
