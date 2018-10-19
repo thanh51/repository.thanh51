@@ -4,90 +4,175 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_vtv/vtv6.jpg",VTV6 HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2129&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png",TTXVNplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50070&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/524177-anninh.png",ANTVplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/73411&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_thiet_yeu/5-Nhandan.jpg",Nhan dan HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50201&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_thiet_yeu/2-QHVN.png",QHVNplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50069&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/213949-VTV1SD.png",VTV1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2128&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png",VTV1 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/52524&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/25/432756-vtv3-HD.png",VTV3 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2130&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_vtv/vtv6.jpg",VTV6 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2129&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png",TTXVN
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50070&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/524177-anninh.png",ANTV
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/73411&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_thiet_yeu/5-Nhandan.jpg",Nhan dan HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50201&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_thiet_yeu/2-QHVN.png",QHVN
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50069&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
 
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/185783-505482-HTV1.png",HTV1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2631&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/857149-HTV2.png",HTV2plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2630&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/904719-HTV2HD.png",HTV2 HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2669&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/750643-HTV3.png",HTV3plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2535&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/928755-665121-HTV7HD.png",HTV7 HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/256&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/422430-665121-HTV9HD.png",HTV9 HD s1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2667&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/2-htv9.jpg",HTV9 HD s2plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://118.107.85.21:1340/get-stream.json?t=l&amp;p=smil:htv9.smil&amp;et=1539719443&amp;token=11dc132bf4ed20d35cd7d211116ec1a9
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/546898-111250-HTVTT.png",HTV THETHAO HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/4009&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/402721-HTVCoop.png",HTV CO.OPplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/31973&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/906484-FBNC.png",FBNCplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2184&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tivi12h.net/hinh/phim.png",HTVC Phimplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2397&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/9-htv-phim.jpg",HTVC Phim HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2399&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/504279-ThuanViet.png",HTVC ThuanVietplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2396&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/15-thuanviet-hd.png",HTVC ThuanViet HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2398&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/305526-dulich.png",HTVC Dulich HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2328&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/14-htvc-giadinh.png",HTVC Giadinh HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2394&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/13-htvc-phunu.jpg",HTVC Phunu HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2393&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/618172-htvplus.png",HTVC Plus HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2395&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/564807-canhacHD.png",HTVC Canhac HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2264&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/185783-505482-HTV1.png",HTV1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2631&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/857149-HTV2.png",HTV2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2630&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/904719-HTV2HD.png",HTV2 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2669&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/750643-HTV3.png",HTV3
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2535&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/928755-665121-HTV7HD.png",HTV7 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/256&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/422430-665121-HTV9HD.png",HTV9 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2667&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/546898-111250-HTVTT.png",HTV THETHAO HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/4009&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/402721-HTVCoop.png",HTV CO.OP
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/31973&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/906484-FBNC.png",FBNC
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2184&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tivi12h.net/hinh/phim.png",HTVC Phim
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2397&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/9-htv-phim.jpg",HTVC Phim HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2399&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/504279-ThuanViet.png",HTVC ThuanViet
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2396&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/15-thuanviet-hd.png",HTVC ThuanViet HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2398&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/305526-dulich.png",HTVC Dulich HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2328&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/14-htvc-giadinh.png",HTVC Giadinh HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2394&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_htv_htvc/13-htvc-phunu.jpg",HTVC Phunu HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2393&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/618172-htvplus.png",HTVC Plus HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2395&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/564807-canhacHD.png",HTVC Canhac HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2264&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
 
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/591875-VTC1HD.png",VTC1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50075&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/692541-VTC3HD.png",VTC3plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2058&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/358037-VTC4.png",VTC4plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2057&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/554367-todayTV.png",VTC7plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2060&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/135145-VTC8.png",VTC8plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2056&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/21/934199-let_viet.png",VTC9plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/82730&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/453976-VTC9.png",VTC9 HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2052&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/145586-VTC10.png",VTC10plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2051&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/668888-VTC11.png",VTC11plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50071&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/668456-VTC14HD.png",VTC14plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50074&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/671492-VTC16.png",VTC16plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50072&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/591875-VTC1HD.png",VTC1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50075&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/692541-VTC3HD.png",VTC3
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2058&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/358037-VTC4.png",VTC4
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2057&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/554367-todayTV.png",VTC7
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2060&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/135145-VTC8.png",VTC8
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2056&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/21/934199-let_viet.png",VTC9
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/82730&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/453976-VTC9.png",VTC9 HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2052&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/145586-VTC10.png",VTC10
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/2051&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/668888-VTC11.png",VTC11
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50071&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/668456-VTC14HD.png",VTC14
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50074&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/671492-VTC16.png",VTC16
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/50072&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
 
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_nuoc_ngoai/5-fox-HD.png",FOX HDplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/74756&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_nuoc_ngoai/4-fox-home.png",FOX family moviesplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/74757&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/981569-Zeetv_5.png",ZeeTVplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/79042&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_nuoc_ngoai/5-fox-HD.png",FOX HD
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/74756&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_nuoc_ngoai/4-fox-home.png",FOX family movies
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/74757&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/981569-Zeetv_5.png",ZeeTV
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/79042&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/757503-babyfirst_1.png",BayByfirstplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/80251&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/619254-DW_1.png",DWplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/79141&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/328439-NHK-logo-web_1.png",NHKplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/79140&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/619254-DW_1.png",DW
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/79141&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/328439-NHK-logo-web_1.png",NHK
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/79140&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
 
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/5-VL1.jpg",THVL1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/899&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/6-VL2.jpg",THVL2plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/52406&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/24-binhduong1.jpg",BTV1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1907&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/25-binhduong2.jpg",BTV2plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/23963&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/679133-BTVradio.png",BTV FMplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/23964&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/1-DN1.jpg",DongNai 1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/83241&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/2-DN2.jpg",DongNai 2plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/83242&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/25/683032-DN3.png",DongNai 3plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/78219&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/130782-Tayninh.png",TayNinhplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1981&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/494633-bentre.png",THBTplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/61299&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/969202-Lamdong.png",LAMDONGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/55163&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/707779-Binh-Thuan.png",BINHTHUANplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/53530&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png",DANANG 1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/3268&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png",DANANG 2plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/53529&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/09/852099-long-an.png",LONG ANplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/837&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/327663-Dong-Thap.png",DONG THAPplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1788&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/107651-KienGiang.png",KIEN GIANGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/774&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/472419-CanTho.png",CAN THOplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1980&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/843599-hatinh.png",HA TINHplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/7796&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/897845-Hue.png",HUEplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1283&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/464480-Binh-Phuoc.png",BINH PHUOC 1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/877&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/652018-THTV.png",TRA VINHplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/3254&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/635447-Angiang.png",AN GIANGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/51818index/&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/981481-BaRia.png",BRTplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1982&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/174679-Kieng-Giang-1.png",KIEN GIANG 1plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/6817&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/431081-hau-giang.png",HAU GIANGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/762&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/873693-Khanh-Hoa.png",KHANH HOAplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1979&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/311162-Lang-Son.png",LANG SONplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1956&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/599358-BinhDinh-BTV.png",BINH DINHplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1955&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",HA NAMplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1951&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/764456-QRT.png",QUANG NAMplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1787&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/465961-STV.png",SOC TRANGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1786&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",DACLACplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1785&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/24/291019-dak-nong.png",DAC NONGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1784&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/822431-Bac-Giang.png",BAC GIANGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1210&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/11/735010-bac-lieu.png",BAC LIEUplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/872&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/228055-haiduong.png",HAI DUONGplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/871&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png",VINH PHUCplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/990&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/858460-VOH1-610.png",VOH 610Khzplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/60541&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/595986-VOH99.png",VOH FM99.9Mhzplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/60542&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/884754-VOH1.png",VOH FM 95.6Mhzplugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/60543&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/5-VL1.jpg",THVL1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/899&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/6-VL2.jpg",THVL2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/52406&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/24-binhduong1.jpg",BTV1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1907&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/25-binhduong2.jpg",BTV2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/23963&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/679133-BTVradio.png",BTV FM
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/23964&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/1-DN1.jpg",DongNai 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/83241&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://tvod.vn/images/kenh_dia_phuong/2-DN2.jpg",DongNai 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/83242&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/25/683032-DN3.png",DongNai 3
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/78219&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/130782-Tayninh.png",TayNinh
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1981&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/494633-bentre.png",BenTre
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/61299&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/969202-Lamdong.png",LAMDONG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/55163&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/707779-Binh-Thuan.png",BINHTHUAN
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/53530&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png",DANANG 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/3268&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png",DANANG 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/53529&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/09/852099-long-an.png",LONG AN
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/837&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/327663-Dong-Thap.png",DONG THAP
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1788&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/107651-KienGiang.png",KIEN GIANG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/774&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/472419-CanTho.png",CAN THO
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1980&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/843599-hatinh.png",HA TINH
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/7796&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/897845-Hue.png",HUE
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1283&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/464480-Binh-Phuoc.png",BINH PHUOC 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/877&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/652018-THTV.png",TRA VINH
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/3254&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/635447-Angiang.png",AN GIANG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/51818index/&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/981481-BaRia.png",BaRia VungTau 
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1982&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/174679-Kieng-Giang-1.png",KIEN GIANG 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/6817&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/431081-hau-giang.png",HAU GIANG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/762&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/873693-Khanh-Hoa.png",KHANH HOA
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1979&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/311162-Lang-Son.png",LANG SON
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1956&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/599358-BinhDinh-BTV.png",BINH DINH
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1955&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",HA NAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1951&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/764456-QRT.png",QUANG NAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1787&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/465961-STV.png",SOC TRANG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1786&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",DACLAC
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1785&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/24/291019-dak-nong.png",DAC NONG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1784&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/822431-Bac-Giang.png",BAC GIANG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/1210&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/11/735010-bac-lieu.png",BAC LIEU
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/872&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/228055-haiduong.png",HAI DUONG
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/871&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png",VINH PHUC
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/990&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/858460-VOH1-610.png",VOH 610Khz
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/60541&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/595986-VOH99.png",VOH FM99.9Mhz
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/60542&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/884754-VOH1.png",VOH FM 95.6Mhz
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://api.hplus.com.vn/detail/index/60543&amp;lang_id=1&amp;device=android&amp;version=2.1&amp;token=2b3640fccb8944b21b24c7f5285eb767
 
