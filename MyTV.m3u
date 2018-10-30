@@ -12,17 +12,28 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.2.32:10600
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.33:10606
 #EXTINF:124 tvg-id="MyTV_VTV6 HD" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="VTV",VTV6 HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.119:10266
-#EXTINF:68 tvg-id="MyTV_VTV8 HD - Đà Nẵng" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/9XsZ2fd.png" group-title="VTV",VTV8 HD - Đà Nẵng
+#EXTINF:68 tvg-id="MyTV_VTV8 HD - Đà Nẵng" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/9XsZ2fd.png" group-title="VTV",VTV8 HD 
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.34:10612
-#EXTINF:69 tvg-id="MyTV_VTV9 HD - Cần Thơ" tvg-name="VTV9" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",VTV9 HD - Cần Thơ
+#EXTINF:69 tvg-id="MyTV_VTV9 HD - Cần Thơ" tvg-name="VTV9" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",VTV9 HD 
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.35:10618
+#EXTINF:35 tvg-id="MyTV_An ninh TV" tvg-name="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="VTV",An ninh TV
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.212:9246
+#EXTINF:128 tvg-id="MyTV_Nhân dân HD" tvg-name="Nhan_dan_HD" tvg-logo="https://imgur.com/To0jQgj.png" group-title="VTV",Nhân dân HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.235:10350
+#EXTINF:71 tvg-id="MyTV_Quốc hội HD" tvg-name="Quoc_hoi_HD" tvg-logo="https://imgur.com/G154n6j.png" group-title="VTV",Quốc hội HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.234:10290
+#EXTINF:127 tvg-id="MyTV_Quốc phòng Việt Nam HD" tvg-name="QPVN_HD" tvg-logo="https://imgur.com/xtA4AlV.png" group-title="VTV",Quốc phòng Việt Nam HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.219:10332
+#EXTINF:-1 tvg-logo="https://imgur.com/ZstB6Eg.png" group-title="VTV" ,TTXVN HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.2.238:10434
+#EXTINF:90 tvg-id="MyTV_VOVTV" tvg-name="VOVTV" tvg-logo="https://imgur.com/maqg3QA.png" group-title="VTV",VOVNews
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.46:8256
 #EXTINF:97 tvg-id="MyTV_VTVCab1 - Giải trí TV" tvg-name="VTVCab 1 - Giai Tri" tvg-logo="https://imgur.com/9TBBQNL.png" group-title="VTV",VTVCab1 - Giải trí TV
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.143:8832
 #EXTINF:98 tvg-id="MyTV_VTVCab2 - Phim Việt" tvg-name="VTVCab 2 - Phim Viet" tvg-logo="https://imgur.com/MSs1rGc.png" group-title="VTV",VTVCab2 - Phim Việt
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.168:8982
 #EXTINF:-1 group-title="VTV" tvg-logo="http://netxua.ml/images/icon-channel/vtvcab3-thethaotvhd.png",VTVCab3 - Thể Thao TV HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.207:9216
-
 #EXTINF:99 tvg-id="MyTV_VTVCab4 - Văn hóa" tvg-name="VTVCab 4 - Van Hoa" tvg-logo="https://imgur.com/q2D3u2L.png" group-title="VTV",VTVCab4 - Văn hóa
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.169:8988
 #EXTINF:100 tvg-id="MyTV_VTVCab5 - E Channel" tvg-name="VTVCab 5 - E Channel" tvg-logo="https://imgur.com/FoGuNrA.png" group-title="VTV",VTVCab5 - E Channel
@@ -50,6 +61,12 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.1.245:10344
 #EXTINF:79 tvg-id="MyTV_VTVCab - MTV HD" tvg-name="MTV" tvg-logo="https://imgur.com/YXNQJTt.png" group-title="VTV",VTVCab - MTV HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.75:8424
 
+#EXTINF:  tvg-id="MyTV_Hà Nội 1 HD" tvg-name="Ha Noi 1" tvg-logo="https://imgur.com/dr2eb5D.png" group-title="Ha Noi",Hà Nội 1 HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.2.153:10738
+#EXTINF: tvg-id="MyTV_Hà Nội 2 HD" tvg-name="Ha Noi 2" tvg-logo="https://imgur.com/HCkpPFZ.png" group-title="Ha Noi",Hà Nội 2 HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.2.154:10744
+#EXTINF:92 tvg-id="MyTV_HCaTV - HITV" tvg-name="HCaTV_HiTV" tvg-logo="https://imgur.com/PLIBb0f.png" group-title="Ha Noi",HCaTV - HITV
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.55:8310
 
 #EXTINF:10 tvg-id="MyTV_HTV1" tvg-name="HTV1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTV",HTV1
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.35:8184
@@ -80,7 +97,6 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.1.127:8736
 #EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC - Thuan Viet HD" tvg-logo="https://imgur.com/M4rF27R.png" group-title="HTV",HTVC - Thuần Việt HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.134:9600
 
-
 #EXTINF:75 tvg-id="MyTV_VTC1 HD" tvg-name="VTC1 HD" tvg-logo="https://imgur.com/8jgYSbN.png" group-title="VTC",VTC1 HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.71:8400
 #EXTINF:21 tvg-id="MyTV_VTC2" tvg-name="VTC2" tvg-logo="https://imgur.com/H6FMp9C.png" group-title="VTC",VTC2
@@ -110,11 +126,11 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.1.216:9270
 #EXTINF:28 tvg-id="MyTV_VTC16 - 3NTV" tvg-name="VTC16" tvg-logo="https://imgur.com/22TpWVd.png" group-title="VTC",VTC16 - 3NTV
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.215:9264
 
+#EXTINF:34 tvg-id="MyTV_SCTV10 - Sao Nam" tvg-name="SCTV10" tvg-logo="https://imgur.com/I9X5SxR.png" group-title="SCTV",SCTV10 - Sao Nam
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.233:10284
+#EXTINF:55 tvg-id="MyTV_SCTV8 - VITV" tvg-name="SCTV8_VITV" tvg-logo="https://imgur.com/BQIrc6A.png" group-title="SCTV",SCTV8 - VITV
+http://hoiplaytv.webhop.me:6868/rtp/232.84.1.32:8166
 
-#EXTINF: tvg-id="MyTV_FOX Sports HD" tvg-name="Fox Sports 2" tvg-logo="https://imgur.com/JWjKjjL.png" group-title="Quoc te",FOX Sports HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.2.141:10666
-#EXTINF: tvg-id="MyTV_FOX Sports 2 HD" tvg-name="Fox Sports" tvg-logo="https://imgur.com/YGaEdHU.png" group-title="Quoc te",FOX Sports 2 HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.2.142:10672
 #EXTINF: tvg-id="MyTV_Animal Planet HD" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Qtl0cVC.png" group-title="Quoc te",Animal Planet HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.147:10702
 #EXTINF:69 tvg-id="MyTV_arirang" tvg-name="arirang" tvg-logo="https://imgur.com/E3M02yH.png" group-title="Quoc te",arirang
@@ -161,6 +177,10 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.2.120:8448
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.78:8442
 #EXTINF:52 tvg-id="MyTV_FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="https://imgur.com/keaKVLJ.png" group-title="Quoc te",FOX Movies HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.77:8436
+#EXTINF: tvg-id="MyTV_FOX Sports HD" tvg-name="Fox Sports 2" tvg-logo="https://imgur.com/JWjKjjL.png" group-title="Quoc te",FOX Sports HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.2.141:10666
+#EXTINF: tvg-id="MyTV_FOX Sports 2 HD" tvg-name="Fox Sports" tvg-logo="https://imgur.com/YGaEdHU.png" group-title="Quoc te",FOX Sports 2 HD
+http://hoiplaytv.webhop.me:6868/rtp/232.84.2.142:10672
 #EXTINF:137 tvg-id="MyTV_France 24" tvg-name="France24" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Quoc te",France 24
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.135:9606
 #EXTINF: tvg-id="MyTV_HBO HD" tvg-name="HBO" tvg-logo="https://imgur.com/UmfhBQU.png" group-title="Quoc te",HBO HD
@@ -199,7 +219,6 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.2.124:8358
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.127:8544
 #EXTINF: tvg-id="MyTV_OPT1" tvg-name="OPT1" tvg-logo="http://i.imgur.com/hV4VIs2.jpg" group-title="Quoc te",OPT1
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.63:8352
-
 
 #EXTINF:671 tvg-id="MyTV_An Giang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Dia phuong",An Giang
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.110:8742
@@ -257,10 +276,6 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.2.68:8904
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.85:8910
 #EXTINF:901 tvg-id="MyTV_Hà Nam" tvg-name="Ha_Nam" tvg-logo="http://1.bp.blogspot.com/-0fxx6mYMVvI/UwLDAGRwA1I/AAAAAAAACAA/dkG5y5hxHj8/s320/logo-hanam-tv.jpg" group-title="Dia phuong",Hà Nam
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.82:8916
-#EXTINF:  tvg-id="MyTV_Hà Nội 1 HD" tvg-name="Ha Noi 1" tvg-logo="https://imgur.com/dr2eb5D.png" group-title="Dia phuong",Hà Nội 1 HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.2.153:10738
-#EXTINF: tvg-id="MyTV_Hà Nội 2 HD" tvg-name="Ha Noi 2" tvg-logo="https://imgur.com/HCkpPFZ.png" group-title="Dia phuong",Hà Nội 2 HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.2.154:10744
 #EXTINF: tvg-id="MyTV_Hà Tĩnh HD" tvg-name="Ha Tinh" tvg-logo="https://imgur.com/lAu4A9Q.png" group-title="Dia phuong",Hà Tĩnh HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.158:10768
 #EXTINF:341 tvg-id="MyTV_Hải Dương" tvg-name="Hai_Duong" tvg-logo="https://imgur.com/pxxospp.png" group-title="Dia phuong",Hải Dương
@@ -344,45 +359,11 @@ http://hoiplaytv.webhop.me:6868/rtp/232.84.2.83:9156
 #EXTINF:211 tvg-id="MyTV_Yên Bái" tvg-name="Yen_Bai" tvg-logo="https://imgur.com/J92zJfH.png" group-title="Dia phuong",Yên Bái
 http://hoiplaytv.webhop.me:6868/rtp/232.84.2.75:8790
 
-#EXTINF:35 tvg-id="MyTV_An ninh TV" tvg-name="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="Khác",An ninh TV
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.212:9246
-#EXTINF:92 tvg-id="MyTV_HCaTV - HITV" tvg-name="HCaTV_HiTV" tvg-logo="https://imgur.com/PLIBb0f.png" group-title="Khác",HCaTV - HITV
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.55:8310
-#EXTINF:128 tvg-id="MyTV_Nhân dân HD" tvg-name="Nhan_dan_HD" tvg-logo="https://imgur.com/To0jQgj.png" group-title="Khác",Nhân dân HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.235:10350
-#EXTINF:71 tvg-id="MyTV_Quốc hội HD" tvg-name="Quoc_hoi_HD" tvg-logo="https://imgur.com/G154n6j.png" group-title="Khác",Quốc hội HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.234:10290
-#EXTINF:127 tvg-id="MyTV_Quốc phòng Việt Nam HD" tvg-name="QPVN_HD" tvg-logo="https://imgur.com/xtA4AlV.png" group-title="Khác",Quốc phòng Việt Nam HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.219:10332
-#EXTINF:-1 group-title="Khác" tvg-logo="https://imgur.com/ZstB6Eg.png" ,TTXVN HD
-http://hoiplaytv.webhop.me:6868/rtp/232.84.2.238:10434
-#EXTINF:90 tvg-id="MyTV_VOVTV" tvg-name="VOVTV" tvg-logo="https://imgur.com/maqg3QA.png" group-title="Khác",VOVTV
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.46:8256
-#EXTINF:34 tvg-id="MyTV_SCTV10 - Sao Nam" tvg-name="SCTV10" tvg-logo="https://imgur.com/I9X5SxR.png" group-title="Khác",SCTV10 - Sao Nam
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.233:10284
-#EXTINF:55 tvg-id="MyTV_SCTV8 - VITV" tvg-name="SCTV8_VITV" tvg-logo="https://imgur.com/BQIrc6A.png" group-title="Khác",SCTV8 - VITV
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.32:8166
-#EXTINF:55 tvg-id="MyTV_CeemeShow" tvg-name="CeemeShow" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",CeemeShow
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.211:9240
-#EXTINF:55 tvg-id="MyTV_MyTVcloudgame" tvg-name="MyTVcloudgame" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",MyTVcloudgame
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.4:7998
-#EXTINF:55 tvg-id="MyTV_Mosaic1" tvg-name="Mosaic1" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",Mosaic1
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.242:9426
-#EXTINF:55 tvg-id="MyTV_Mosaic2" tvg-name="Mosaic2" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",Mosaic2
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.243:9432
-#EXTINF:55 tvg-id="MyTV_801" tvg-name="801" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",801
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.50:8280
-#EXTINF:55 tvg-id="MyTV_802" tvg-name="802" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",802
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.50:8280
-#EXTINF:55 tvg-id="803" tvg-name="803" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",803
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.56:8316
-#EXTINF:55 tvg-id="Xổ Số" tvg-name="Xổ Số" tvg-logo="https://imgur.om/BQIrc6A.png" group-title="Khác",Xổ Số
-http://hoiplaytv.webhop.me:6868/rtp/232.84.1.211:9240
-#EXTINF:-1 group-title="Kplus" tvg-id="K+1 HD" tvg-logo="https://i.postimg.cc/FsHjTQW7/k_1hd.png",K+1 HD
+#EXTINF:-1 group-title="K+" tvg-id="K+1 HD" tvg-logo="https://i.postimg.cc/FsHjTQW7/k_1hd.png",K+1 HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.122:10314
-#EXTINF:-1 group-title="Kplus" tvg-id="K+NS HD" tvg-logo="https://i.postimg.cc/HnBbTSxY/k_nshd.png",K+NS HD
+#EXTINF:-1 group-title="K+" tvg-id="K+NS HD" tvg-logo="https://i.postimg.cc/HnBbTSxY/k_nshd.png",K+NS HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.123:10320
-#EXTINF:-1 group-title="Kplus" tvg-id="K+PC HD" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC HD
+#EXTINF:-1 group-title="K+" tvg-id="K+PC HD" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.176:10374
-#EXTINF:-1 group-title="Kplus" tvg-id="K+PM HD" tvg-logo="https://i.postimg.cc/XvdFrNJD/k_pmhd.png",K+PM HD
+#EXTINF:-1 group-title="K+" tvg-id="K+PM HD" tvg-logo="https://i.postimg.cc/XvdFrNJD/k_pmhd.png",K+PM HD
 http://hoiplaytv.webhop.me:6868/rtp/232.84.1.125:10326
