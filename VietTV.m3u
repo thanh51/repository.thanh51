@@ -1,175 +1,91 @@
-﻿#EXTM3U 
+#EXTM3U
+ 
+#EXTINF:-1, VTV1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTV2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTV3 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV3/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTV4 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV4/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTV5 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV5/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTV6 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV6/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTV8 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV8/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, QPVN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-QPVN/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, ANTV
+http://iptv-nl3-qscdn.hdflixtv.com/VN-ANTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, TTXVN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-TTXVN/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
 
-#EXTINF:-1 tvg-logo="",VTV1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-2128.html%22%7D
-#EXTINF:-1 tvg-logo="",VTV1 HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTV1%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtv1-full-hd-1080-52524.html%22%7D
-#EXTINF:-1 tvg-logo="",Quốc Hội 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Qu%E1%BB%91c%20H%E1%BB%99i%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-quoc-hoi-50069.html%22%7D
-#EXTINF:-1 tvg-logo="",QPVN Quốc Phòng VN 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22QPVN%20Qu%E1%BB%91c%20Ph%C3%B2ng%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-quoc-phong-viet-nam-50068.html%22%7D
-#EXTINF:-1 tvg-logo="",TTXVN Thông Tấn Xã Việt Nam 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TTXVN%20Th%C3%B4ng%20T%E1%BA%A5n%20X%C3%A3%20Vi%E1%BB%87t%20Nam%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thong-tan-xa-viet-nam-50070.html%22%7D
-#EXTINF:-1 tvg-logo="",Nhân Dân 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Nh%C3%A2n%20D%C3%A2n%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-nhan-dan-full-hd-1080-50201.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV COOP 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV%20COOP%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-coop-sd-31973.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv1-2631.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV2 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV2%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv2-2630.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV2 HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV2%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv2-hd-2669.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV3 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV3%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv3-2535.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV4 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV4%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv4-2528.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV7 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-sd-10036.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV7 HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-hd-256.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV9 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-sd-10037.html%22%7D
-#EXTINF:-1 tvg-logo="",HTV9 HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-hd-2667.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Ca Nhạc 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Ca%20Nh%E1%BA%A1c%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-ca-nhac-full-hd-1080-2264.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Du Lịch 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Du%20L%E1%BB%8Bch%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-du-lich-va-cuoc-song-full-hd-1080-2328.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Gia Đình 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Gia%20%C4%90%C3%ACnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-gia-dinh-full-hd-1080-2394.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Phim Paramount Picture VN 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Phim%20Paramount%20Picture%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phim-2397.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Phim Paramount Picture VN HD
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Phim%20Paramount%20Picture%20VN%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phim-hd-2399.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Phụ Nữ 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Ph%E1%BB%A5%20N%E1%BB%AF%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-phu-nu-full-hd-1080-2393.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Plus 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Plus%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-plus-full-hd-1080-2395.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Shopping 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Shopping%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-shopping-2265.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Thể Thao 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Th%E1%BB%83%20Thao%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-the-thao-2400.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Thể Thao HD
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Th%E1%BB%83%20Thao%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv-the-thao-hd-4009.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Thuần Việt 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-thuan-viet-2396.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC Thuần Việt HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htvc-thuan-viet-hd-2398.html%22%7D
-#EXTINF:-1 tvg-logo="",HTVC FBNC 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22FBNC%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-fbnc-2184.html%22%7D
-#EXTINF:-1 tvg-logo="",AZSHOP 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22AZSHOP%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-azshop-70471.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc1-full-hd-1080-50075.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC3 HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC3%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc3-hd-2058.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC4 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC4%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc4-2057.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC7 TodayTV 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC7%20TodayTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-todaytv-vtc7-2060.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC7 TodayTV HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC7%20TodayTV%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-todaytv-vtc7-hd-70608.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC8 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC8%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc8-2056.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC9 Let's Viet 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC9%20Let%27s%20Viet%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc9-lets-viet-2052.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC10 NetViet 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC10%20NetViet%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc10-2051.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC11 KidsTV 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC11%20KidsTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc11-50071.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC13 HD ITV HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC13%20HD%20ITV%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-itv-full-hd-1080-52454.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC14 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC14%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc14-full-hd-1080-50074.html%22%7D
-#EXTINF:-1 tvg-logo="",VTC16 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VTC16%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vtc16-50072.html%22%7D
-#EXTINF:-1 tvg-logo="",Miền Tây 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22Mi%E1%BB%81n%20T%C3%A2y%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-mien-tay-50065.html%22%7D
-#EXTINF:-1 tvg-logo="",ATV An Giang 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22ATV%20An%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-atv-truyen-hinh-an-giang-51818.html%22%7D
-#EXTINF:-1 tvg-logo="",BGTV Bắc Giang 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BGTV%20B%E1%BA%AFc%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-bgtv-truyen-hinh-bac-giang-1210.html%22%7D
-#EXTINF:-1 tvg-logo="",BPTV1 Bình Phước 1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BPTV1%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-bptv1-truyen-hinh-binh-phuoc-877.html%22%7D
-#EXTINF:-1 tvg-logo="",BRT Bà Rịa Vũng Tàu 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BRT%20B%C3%A0%20R%E1%BB%8Ba%20V%C5%A9ng%20T%C3%A0u%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-brt-truyen-hinh-ba-ria-1982.html%22%7D
-#EXTINF:-1 tvg-logo="",BTV Bạc Liêu 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%E1%BA%A1c%20Li%C3%AAu%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-bac-lieu-872.html%22%7D
-#EXTINF:-1 tvg-logo="",BTV Bình Định 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-binh-dinh-1955.html%22%7D
-#EXTINF:-1 tvg-logo="",BTV Bình Thuận 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV%20B%C3%ACnh%20Thu%E1%BA%ADn%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv-truyen-hinh-binh-thuan-53530.html%22%7D
-#EXTINF:-1 tvg-logo="",BTV1 Bình Dương 1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV1%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv1-truyen-hinh-binh-duong-1-1907.html%22%7D
-#EXTINF:-1 tvg-logo="",BTV2 Bình Dương 2 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22BTV2%20B%C3%ACnh%20D%C6%B0%C6%A1ng%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-btv2-truyen-hinh-binh-duong-2-23963.html%22%7D
-#EXTINF:-1 tvg-logo="",CTV Cà Mau 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22CTV%20C%C3%A0%20Mau%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ctv-truyen-hinh-ca-mau-1903.html%22%7D
-#EXTINF:-1 tvg-logo="",DRT Đắc Lắc 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT%20%C4%90%E1%BA%AFc%20L%E1%BA%AFc%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt-truyen-hinh-dac-lac-1785.html%22%7D
-#EXTINF:-1 tvg-logo="",DRT1 Đà Nẵng 1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT1%20%C4%90%C3%A0%20N%E1%BA%B5ng%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt1-truyyen-hinh-da-nang-1-3268.html%22%7D
-#EXTINF:-1 tvg-logo="",DRT2 Đà Nẵng 2 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22DRT2%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-drt2-truen-hinh-da-nang-2-53529.html%22%7D
-#EXTINF:-1 tvg-logo="",HDTV Hải Dương 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HDTV%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-hdtv-truyen-hinh-hai-duong-871.html%22%7D
-#EXTINF:-1 tvg-logo="",HGTV Hậu Giang 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HGTV%20H%E1%BA%ADu%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-hgtv-truyen-hinh-hau-giang-762.html%22%7D
-#EXTINF:-1 tvg-logo="",HTTV Hà Tĩnh 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTTV%20H%C3%A0%20T%C4%A9nh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-httv-truyen-hinh-ha-tinh-7796.html%22%7D
-#EXTINF:-1 tvg-logo="",KG Kiên Giang 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KG%20Ki%C3%AAn%20Giang%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kg-truyen-hinh-kien-giang-774.html%22%7D
-#EXTINF:-1 tvg-logo="",KG1 Kiên Giang 1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KG1%20Ki%C3%AAn%20Giang%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kg1-truyen-hinh-kien-giang-1-6917.html%22%7D
-#EXTINF:-1 tvg-logo="",KTV Khánh Hòa 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KTV%20Kh%C3%A1nh%20H%C3%B2a%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ktv-truyen-hinh-khanh-hoa-1979.html%22%7D
-#EXTINF:-1 tvg-logo="",LA34 Long An 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LA34%20Long%20An%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-la34-truyen-hinh-long-an-873.html%22%7D
-#EXTINF:-1 tvg-logo="",LSTV Lạng Sơn 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LSTV%20L%E1%BA%A1ng%20S%C6%A1n%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-lstv-truyen-hinh-lang-son-1956.html%22%7D
-#EXTINF:-1 tvg-logo="",LTV Lâm Đồng 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22LTV%20L%C3%A2m%20%C4%90%E1%BB%93ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ltv-truyen-hinh-lam-dong-55163.html%22%7D
-#EXTINF:-1 tvg-logo="",NBTV Ninh Bình 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22NBTV%20Ninh%20B%C3%ACnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-nbtv-truyen-hinh-ninh-binh-868.html%22%7D
-#EXTINF:-1 tvg-logo="",NTV Nam Định 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22NTV%20Nam%20%C4%90%E1%BB%8Bnh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ntv-truyen-hinh-nam-dinh-1951.html%22%7D
-#EXTINF:-1 tvg-logo="",PTD Đắc Nông 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22PTD%20%C4%90%E1%BA%AFc%20N%C3%B4ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ptd-truyen-hinh-dac-nong-1784.html%22%7D
-#EXTINF:-1 tvg-logo="",QRT Quảng Nam 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22QRT%20Qu%E1%BA%A3ng%20Nam%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-qrt-truyen-hinh-quang-nam-1787.html%22%7D
-#EXTINF:-1 tvg-logo="",STV Sóc Trăng 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22STV%20S%C3%B3c%20Tr%C4%83ng%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-stv-truyen-hinh-soc-trang-1786.html%22%7D
-#EXTINF:-1 tvg-logo="",THBT Bến Tre 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THBT%20B%E1%BA%BFn%20Tre%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thbt-truyen-hinh-ben-tre-61299.html%22%7D
-#EXTINF:-1 tvg-logo="",THDT1 Đồng Tháp 1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THDT1%20%C4%90%E1%BB%93ng%20Th%C3%A1p%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thdt1-truyen-hinh-dong-thap-1788.html%22%7D
-#EXTINF:-1 tvg-logo="",THLC Lào Cai 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THLC%20L%C3%A0o%20Cai%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thlc-truyen-hinh-lao-cai-1789.html%22%7D
-#EXTINF:-1 tvg-logo="",THTPCT Cần Thơ 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THTPCT%20C%E1%BA%A7n%20Th%C6%A1%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thtpct-truyen-hinh-can-tho-1980.html%22%7D
-#EXTINF:-1 tvg-logo="",THTV Trà Vinh 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THTV%20Tr%C3%A0%20Vinh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thtv-truyen-hinh-tra-vinh-3254.html%22%7D
-#EXTINF:-1 tvg-logo="",THVL1 HD Vĩnh Long 1 HD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20HD%20V%C4%A9nh%20Long%201%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-vinh-long-thvl1-hd-55602.html%22%7D
-#EXTINF:-1 tvg-logo="",THVL1 Vĩnh Long 1 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20V%C4%A9nh%20Long%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl1-truyen-hinh-vinh-long-1-899.html%22%7D
-#EXTINF:-1 tvg-logo="",THVL2 Vĩnh Long 2 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL2%20V%C4%A9nh%20Long%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl2-truyen-hinh-vinh-long-2-52406.html%22%7D
-#EXTINF:-1 tvg-logo="",TRT Thừa Thiên Huế 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TRT%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-trt-truyen-hinh-hue-1283.html%22%7D
-#EXTINF:-1 tvg-logo="",TTV11 Tây Ninh 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22TTV11%20T%C3%A2y%20Ninh%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-ttv11-truyen-hinh-tay-ninh-1981.html%22%7D
-#EXTINF:-1 tvg-logo="",KBS WORLD 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22KBS%20WORLD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-kbs-world-27081.html%22%7D
-#EXTINF:-1 tvg-logo="",MTV 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22MTV%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-mtv-2263.html%22%7D
-#EXTINF:-1 tvg-logo="",VOH AM 610Khz 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VOH%20AM610Khz%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-voh-am610khz-60541.html%22%7D
-#EXTINF:-1 tvg-logo="",VOH FM95.6Mhz 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VOH%20FM95.6Mhz%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-voh-fm956mhz-60543.html%22%7D
-#EXTINF:-1 tvg-logo="",VOH FM99.9Mhz 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22VOH%20FM99.9Mhz%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-voh-fm999mhz-60542.html%22%7D
-#EXTINF:-1 tvg-logo="",Bình Dương FM 
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22B%C3%ACnh%20D%C6%B0%C6%A1ng%20FM%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-binh-duong-fm-23964.html%22%7D
+#EXTINF:-1, VTC1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC2 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC3 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC3/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC5 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC5/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC6 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC6/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC7 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC7/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC8 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC8/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC9 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC9/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC10 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC10/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC11 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC11/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC13 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC13/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC14 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC14/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, VTC16 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC16/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
 
+#EXTINF:-1, HTV1 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTV2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTV3 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV3/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTV4 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV4/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTV7 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV7/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTV9 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV9/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTVC PHIM
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-PHIM/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTVC PHUNU 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-PHU-NU/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTVC DULICH 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-DU-LICH/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTVC GIADINH 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-GIA-DINH/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTVC THETHAO 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-THE-THAO/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HTVC THUANVIET 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-THUAN-VIET/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1, CINEMAX
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, HBO
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, FOX LIFE
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-LIFE/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, DISCOVERY
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Discovery/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, DISNEY
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Disney/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, CARTOON
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Cartoon/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, FOX SPORT
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1, FASHION TV
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FashionTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
