@@ -669,29 +669,94 @@ http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
 #EXTINF:-1 group-title="VietTV" tvg-logo="http://ttv11.vn/wp-content/themes/ttv11/assets/img/logo.png",Tay Ninh(TTV11)
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",IBC TV 57.8
-http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/zd62aenf7/vnbc.png",VNBC
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/7t4su66md/vbs1.png",VBS (WS)
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS Canada
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="http://live-tv.im/wp-content/uploads/2014/02/vpop-tv.gif",Vpop TV
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8&u=guest
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="http://www.Tổng hợp24.com/main/images/VBolero-Logo.jpg",VBolero TV
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8&u=guest
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="http://netxua.ml/images/icon-channel/haitv.png",Hài 24/7
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8&u=guest
-
-#EXTINF:-1 group-title="VietHN" tvg-logo="http://www.Tổng hợp24.com/main/images/rangdong_logo.jpg",Rạng Đông
+#EXTINF:-1 tvg-logo="" group-title="VietHN",Việt News
+http://cdn1.galaxyott.com/hls/News.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VietHN",Hài - TV Shows
+http://cdn1.galaxyott.com/hls/HaiTVShows.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VietHN",Việt Nam - Vẻ Đẹp Bất Tận
+http://cdn1.galaxyott.com/hls/VanHoa.m3u8
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/rangdong_logo.jpg" group-title="VietHN", Rạng Đông TV
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/USVtelevision-logo.jpg" group-title="VietHN", USV Television
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vatv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Hai 24-7.jpg" group-title="VietHN", Hài 24-7
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Hai_Le_Logo.jpg" group-title="VietHN", KDHL Television
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/ttt/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VNATV_Logo.jpg" group-title="VietHN", VNA TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vnatv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VGMTV_Logo.jpg" group-title="VietHN", Viet Global Mall TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vgmtv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VietMediaTV_logo.jpg" group-title="VietHN", Việt Media TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vietmediatv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VBolero-Logo.jpg" group-title="VietHN", VBolero TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/OmaiTV_logo.jpg" group-title="VietHN", OmaiTV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/omaitv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/tinvui-logo.jpg" group-title="VietHN", Tin Vui Media
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer%tinvuimedia/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Vmusic_logo.jpg" group-title="VietHN", VMusic
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/mtv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VpopTV_logo.jpg" group-title="VietHN", VPopTV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Vo_Mon_Thien_Tu.jpg" group-title="VietHN", Vô Môn Thiền Tự
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vmtt/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/skcd.jpg" group-title="VietHN", Sân Khấu & Cuộc Đời
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/cailuong/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/ABHP-logo.jpg" group-title="VietHN", ABHP TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/abhp/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/vusamedia_logo.jpg" group-title="VietHN",VUSA Media TV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vusa/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png" group-title="VietHN",Bolero	
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/cosmotv.png" group-title="VietHN",CosmoTV	
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1sOng5kMYdU
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/catholic.png" group-title="VietHN",CTV	
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2Fwtav6MBYPXaY
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Film24h.jpg" group-title="VietHN",Film 24h
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu0f9C4l86Hqm
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/ibc.jpg" group-title="VietHN",IBC TV 57.8
+http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/littlesg.jpg" group-title="VietHN",Little Saigon TV 57.7
+http://localhost:5000/play.m3u8?url=https://livestream.com/api/accounts/21388423/events/7992704
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png" group-title="VietHN",Phật Giáo
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwtZn4HigOpU7
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png" group-title="VietHN",Quê Hương TV	
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/sgtv_logo.jpg" group-title="VietHN",Sài Gòn TV 57.5
+https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Schedule_TV.jpg" group-title="VietHN",Schedule	
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwrBUTcumfiSF
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png" group-title="VietHN",VANTV
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1omi7Bv0Hsp
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/vbs.jpg" group-title="VietHN",VBS 57.6
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vietglobal.png" group-title="VietHN",VGM TV
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu%2BrLZM7aT1Un
+#EXTINF:-1 tvg-logo="http://echipstore.net/logo/channels/VietChristian.png" group-title="VietHN",Viet Christian
+mms://live.vietchristian.com/tv
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/vietfaceTV_logo.jpg" group-title="VietHN",Việt Face TV 57.2
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vface/playlist.m3u8&u=guest
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OW2gewnU5qI/maxresdefault.jpg" group-title="VietHN",VIET MY TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_CANADA.jpg" group-title="VietHN",VIETV Canada
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_DALLAS.png" group-title="VietHN",VIETV Dallas
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzFABwfy1iVB
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_HOUSTON.jpg" group-title="VietHN",VIETV Houston
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu77li16%2B5lMH
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_LOS_ANGELES.jpg" group-title="VietHN",VIETV Los Angeles
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6TfO0D%2FS8QI
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_SAN_JOSE.jpg" group-title="VietHN",VIETV San Jose
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzeHeiLSRpP%2B
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vinashop.png" group-title="VietHN",VinaShop
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7Y9QkuzvR8k
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vlife_1.jpg" group-title="VietHN",VLife
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7UBHqOmukag
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vlife_1.jpg" group-title="VietHN",VNA TV 57.3
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
+#EXTINF:-1 tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vnews.jpg" group-title="VietHN",Vnews
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu9uTovzKkHwc
 
 #EXTINF:-1 group-title="USA",Hallmark Channel
 http://23.237.22.82:8086/udp/127.0.0.1:56067
