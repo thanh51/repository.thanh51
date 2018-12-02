@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",01/12/2018 22h00 Crystal Palace vs Burnley
-http://163.172.105.25:9989/live?channelId=180&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",01/12/2018 22h00 Huddersfield Town vs Brighton & Hove Albion
-http://163.172.105.25:9989/live?channelId=186&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",01/12/2018 22h00 Leicester City vs Watford
-http://163.172.105.25:9989/live?channelId=189&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",01/12/2018 22h00 Manchester City vs AFC Bournemouth
-http://163.172.105.25:9989/live?channelId=179&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",01/12/2018 22h00 Newcastle United vs West Ham United s1
-http://163.172.105.25:9989/live?channelId=185&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",01/12/2018 22h00 Newcastle United vs West Ham Uniteds2
-http://163.172.105.25:9989/live?channelId=188&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-
 #EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",02/12/2018 19h00 Chelsea v Fulham s1
 http://62.210.99.158:9989/live?channelId=134&deviceMac=00:1A:79:F9:6F:F6&uid=3682 
 #EXTINF:-1 tvg-logo="https://s22.postimg.cc/o19a8ole9/epl.png" group-title="BDAnh",02/12/2018 19h00 Chelsea v Fulham s2
@@ -829,73 +816,4 @@ http://62.210.99.158:9989/live?channelId=453&deviceMac=00:1A:79:F9:6F:F6&uid=368
 #EXTINF:-1 tvg-id="La Liga TV (UK)" tvg-link="" tvg-name="La Liga TV (UK)" tvg-logo="" group-title="Extra EPL Channels",La Liga TV (UK)
 http://62.210.99.158:9989/live?channelId=454&deviceMac=00:1A:79:F9:6F:F6&uid=3682
 
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT SPORTS 1
-http://163.172.211.93:8081/BT/1/index.m3u8
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT SPORTS 2
-http://163.172.86.57:3135/B/2/index.m3u8
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT SPORTS 3
-http://163.172.86.59:3135/1513/BT/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten1" tvg-link="" tvg-name="Sony Ten 1" tvg-logo="" group-title="Sony Ten",SONY TEN1 HD
-http://163.172.86.57:3135/Ten/1/index.m3u8
-#EXTINF:-1 tvg-id="Sony Ten2" tvg-link="" tvg-name="Sony Ten 2" tvg-logo="" group-title="Sony Ten",SONY TEN2 HD s1
-http://163.172.86.57:3135/Ten/2/index.m3u8
-#EXTINF:-1 tvg-id="Sony Ten2" tvg-link="" tvg-name="Sony Ten 2" tvg-logo="" group-title="Sony Ten",SONY TEN2 HD s2
-http://163.172.218.205:8081/2Ten/2/index.m3u8
-#EXTINF:-1 tvg-id="Sony Ten3" tvg-link="" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sony Ten",SONY TEN3 HD
-http://163.172.86.57:3135/Ten/3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Eleven Sports 1 (Taiwan)
-http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Eleven Sports 2 (Taiwan)
-http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Laliga SD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/13572
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Laliga
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/12024
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein LaLiga HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/5832
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Liga 1 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/7907
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",BEIN Sport Ñ
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15227
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",BEIN Ñ HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15226
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",BEIN Ñ SD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15225
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",BEIN US FHD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15224
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",FR: BeIN SPORTS 1 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15203
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",FR: BeIN SPORTS 2 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15204
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",FR: BeIN SPORTS 3 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15205
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Liga Tv SD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/13578
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Liga Tv
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/13582
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Liga Tv HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/6027
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Liga 123
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15144
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",La Liga 123 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/13989
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",IT: Sky Sport1 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15200
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",IT: Sky Sport2 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15201
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",PT: SPORT TV 1 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15195
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",PT: SPORT TV 2 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15196
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",PT: SPORT TV 3 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15197
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",PT: SPORT TV 4HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15198
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",PT: SPORT TV 5HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15199
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Fox Sports 1 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15076
-#EXTINF:-1 tvg-id="" tvg-link="" tvg-name="" tvg-logo="" group-title="SPORTS",Fox Sports 2 HD
-http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15075
