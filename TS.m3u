@@ -372,9 +372,25 @@ https://ip2019tv.do.am/sport/Arena_Sport_5.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport6_rs.jpg" group-title="Arena Sport",Arena Sport 6 HD
 https://ip2019tv.do.am/sport/Arena_Sport_6.m3u8
 
-#EXTINF:-1 group-title="VietTV",VTV7
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/10/13/cd25fb068f7d17b1100782c7524d83d230585d9ba56301c084675757ca78d392/dnR2Nw==.m3u8
-#EXTINF:-1 group-title="VietTV",VTV8
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/11/15/6fbb8c1583816d6ea513b20f21a0600caf02af242cdb7e204c884d70d1b21a24/dnR2OA==.m3u8
-#EXTINF:-1 group-title="VietTV",VTV9
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/12/17/3f3894a22932e033a1bba31cba0c34d7a08cfa27f9df4d265748135390375cda/dnR2OQ==.m3u8
+#EXTINF:-1 tvg-id="VTV1-VTV" tvg-logo="http://gg.gg/vtv-1" group-title="VTV.vn", VTV1 HD 
+http://play.vtv.vn/?v=dnR2MQ==&t=2568356637343                   
+#EXTINF:-1 tvg-id="VTV2-VTV" tvg-logo="http://gg.gg/vtv-2" group-title="VTV.vn", VTV2 HD 
+http://play.vtv.vn/?v=dnR2Mg==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV3-VTV" tvg-logo="http://gg.gg/vtv-3" group-title="VTV.vn", VTV3 HD 
+http://play.vtv.vn/?v=dnR2Mw==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV4-VTV" tvg-logo="http://gg.gg/vtv-4" group-title="VTV.vn", VTV4 HD 
+http://play.vtv.vn/?v=dnR2NA==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV5-VTV" tvg-logo="http://gg.gg/vtv-5" group-title="VTV.vn", VTV5 HD 
+http://play.vtv.vn/?v=dnR2NQ==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="http://gg.gg/vtv-5" group-title="VTV.vn", VTV5 Tây Nguyên
+http://play.vtv.vn/?v=dnR2NXRu&t=2568356637343
+#EXTINF:-1 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="http://gg.gg/vtv-5" group-title="VTV.vn", VTV5 Tây Nam Bộ
+http://play.vtv.vn/?v=dnR2NWtt&t=2568356637343
+#EXTINF:-1 tvg-id="VTV6-VTV" tvg-logo="http://gg.gg/vtv-6" group-title="VTV.vn", VTV6 HD 
+http://play.vtv.vn/?v=dnR2Ng==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV7-VTV" tvg-logo="http://gg.gg/vtv-7" group-title="VTV.vn", VTV7 HD
+http://play.vtv.vn/?v=dnR2Nw==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV8-VTV" tvg-logo="http://gg.gg/vtv-8" group-title="VTV.vn", VTV8 HD 
+http://play.vtv.vn/?v=dnR2OA==&t=2568356637343
+#EXTINF:-1 tvg-id="VTV9-VTV" tvg-logo="http://gg.gg/vtv-9" group-title="VTV.vn", VTV9 HD 
+http://play.vtv.vn/?v=dnR2OQ==&t=2568356637343
