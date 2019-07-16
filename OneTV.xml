@@ -5,7 +5,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="VTV" tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
-udp://@225.1.2.248:30120
+udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV2" group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
 udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="VTV3 HD" group-title="VTV" tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
@@ -322,8 +322,6 @@ udp://@225.1.2.146:30120
 udp://@225.1.2.160:30120
 #EXTINF:-1 tvg-id="Disney Junior" group-title="QUOC TE" tvg-logo="https://s17.postimg.org/hwdjjrwkv/disneyjr.png",DISNEY JUNIOR
 udp://@225.1.1.233:30120
-#EXTINF:-1 tvg-id="National Geographic" group-title="QUOC TE" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg",National Geographic
-udp://@225.1.1.244:30120
 #EXTINF:-1 tvg-id="National Geographic HD" group-title="QUOC TE" tvg-logo="http://i.imgur.com/9RsSxQt.png",National Geographic HD
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="Discovery Channel" group-title="QUOC TE" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg",Discovery Channel
