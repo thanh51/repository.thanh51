@@ -1,7 +1,7 @@
 #EXTM3U thanh51
 
 #EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://i.imgur.com/m8WU8BL.png" group-title="VTV",VTV1 HD
-udp://@225.1.2.248:30120
+udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png" group-title="VTV",VTV2 HD
 udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="VTV3 HD" tvg-logo="http://i.imgur.com/OwtIFz1.png" group-title="VTV",VTV3 HD
@@ -206,8 +206,6 @@ udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/757503-babyfirst_1.png" group-title="QUOC TE",BABYFIRST HD
 udp://@225.1.4.28:30120
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="QUOC TE",National Geographic
-udp://@225.1.1.244:30120
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://i.imgur.com/9RsSxQt.png" group-title="QUOC TE",National Geographic HD
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg" group-title="QUOC TE",Discovery Channel
