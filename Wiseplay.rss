@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One. Cài đặt app VPN (mạng riêng ảo), linh hoạt ngắt hoặc kết nối app VPN để khi xem TV sẽ load nhanh và ổn định hơn. Chúc bạn thưởng thức vui vẻ !",
   "author": "thanh51",
   "image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
@@ -1103,11 +1103,16 @@
       ]
     },
     {
-      "name": "Kênh Thể Thao Tổng Hợp",
+      "name": "KÊNH THỂ THAO TỔNG HỢP",
       "image": "https://2.bp.blogspot.com/-Hg5lMkwup5k/XKAmkSWrKYI/AAAAAAAAGq4/dBADToFEIT0dIfGU4Z2kfJ4KTazcsNm4QCLcBGAs/s400/SPORTS-IPTV.png",
-      "stations": [
+      "imageScale": "centerCrop",
+      "groups": [
         {
-          "image": "https://s22.postimg.cc/it0csml69/sports.jpg",
+          "name": "Kênh Sports HD",
+          "image": "https://2.bp.blogspot.com/-Hg5lMkwup5k/XKAmkSWrKYI/AAAAAAAAGq4/dBADToFEIT0dIfGU4Z2kfJ4KTazcsNm4QCLcBGAs/s400/SPORTS-IPTV.png",
+          "stations": [
+            {
+         "image": "https://s22.postimg.cc/it0csml69/sports.jpg",
           "name": "Sports HD 1",
           "url": "http://sportzonline.pw/channels/hd/hd1.php",
           "isHost": true
@@ -1147,38 +1152,85 @@
           "name": "Sports HD 7",
           "url": "http://sportzonline.pw/channels/hd/hd7.php",
           "isHost": true
+            }
+          ]
+        },
+        {
+          "name": "Kênh Sport TV",
+          "image": "https://2.bp.blogspot.com/-Hg5lMkwup5k/XKAmkSWrKYI/AAAAAAAAGq4/dBADToFEIT0dIfGU4Z2kfJ4KTazcsNm4QCLcBGAs/s400/SPORTS-IPTV.png",
+          "stations": [
+            {
+        "image": "https://vn.buaksib.com/image/sport/sporttv1.jpg",
+          "name": "Sport TV 1",
+          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%201%20PT",
+          "referrer": "https://whostreams.net/embed/s6m0vsdisiufp7",
+          "isHost": true
         },
         {
           "image": "https://vn.buaksib.com/image/sport/sporttv1.jpg",
-          "name": "Sports TV 1HD",
+          "name": "Sports TV 1 HD",
           "url": "http://sportzonline.pw/channels/pt/sporttv1.php",
           "isHost": true
         },
         {
           "image": "https://vn.buaksib.com/image/sport/sporttv2.jpg",
-          "name": "Sports TV 2HD",
+          "name": "Sport TV 2",
+          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%202%20PT",
+          "referrer": "https://whostreams.net/embed/2dbrbt50ibw21jq",
+          "isHost": true
+        },
+        {
+          "image": "https://vn.buaksib.com/image/sport/sporttv2.jpg",
+          "name": "Sports TV 2 HD",
           "url": "http://sportzonline.pw/channels/pt/sporttv2.php",
           "isHost": true
         },
         {
           "image": "https://vn.buaksib.com/image/sport/sporttv3.jpg",
-          "name": "Sports TV 3HD",
+          "name": "Sport TV 3",
+          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%203%20PT",
+          "referrer": "https://whostreams.net/embed/5bw0ttm",
+          "isHost": true
+        },
+        {
+          "image": "https://vn.buaksib.com/image/sport/sporttv3.jpg",
+          "name": "Sports TV 3 HD",
           "url": "http://sportzonline.pw/channels/pt/sporttv3.php",
           "isHost": true
         },
         {
           "image": "https://vn.buaksib.com/image/sport/sporttv4.jpg",
-          "name": "Sports TV 4HD",
+          "name": "Sport TV 4",
+          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%204%20PT",
+          "referrer": "https://whostreams.net/embed/3ant1pjxw3",
+          "isHost": true
+        },
+        {
+          "image": "https://vn.buaksib.com/image/sport/sporttv4.jpg",
+          "name": "Sports TV 4 HD",
           "url": "http://sportzonline.pw/channels/pt/sporttv4.php",
           "isHost": true
         },
         {
           "image": "https://vn.buaksib.com/image/sport/sporttv5.jpg",
-          "name": "Sports TV 5HD",
-          "url": "http://sportzonline.pw/channels/pt/sporttv5.php",
+          "name": "Sport TV 5",
+          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%205%20PT",
+          "referrer": "https://whostreams.net/embed/pst4nwvms",
           "isHost": true
         },
         {
+          "image": "https://vn.buaksib.com/image/sport/sporttv5.jpg",
+          "name": "Sports TV 5 HD",
+          "url": "http://sportzonline.pw/channels/pt/sporttv5.php",
+          "isHost": true
+            }
+          ]
+        },
+        {
+          "name": "Kênh Sports USA, UK, France",
+          "image": "https://2.bp.blogspot.com/-Hg5lMkwup5k/XKAmkSWrKYI/AAAAAAAAGq4/dBADToFEIT0dIfGU4Z2kfJ4KTazcsNm4QCLcBGAs/s400/SPORTS-IPTV.png",
+          "stations": [
+            {
           "image": "https://static.s-sfr.fr/media/rmc-1-1.png",
           "name": "RMC sports 1",
           "url": "http://1me.club/sx/4/4.html",
@@ -1195,7 +1247,7 @@
         {
           "image": "http://canalesportivo.xyz/image/nbcsn.png",
           "name": "NBCSN",
-          "url": "http://canalesportivo.xyz/channel/flowplayer/nbcsn.php",
+          "url": "http://canalesportivo.xyz/channel/clarpplayer/nbcsn.php",
           "isHost": true
         },
         {
@@ -1259,7 +1311,7 @@
         {
           "image": "https://www.crichd.sx/assets/uploads/channels/6.jpg",
           "name": "Sky Sports Premier League s1",
-          "url": "http://canalesportivo.xyz/channel/flowplayer/skysport1.php",
+          "url": "http://canalesportivo.xyz/channel/clarpplayer/skysport1.php",
           "isHost": true
         },
         {
@@ -1297,59 +1349,6 @@
           "isHost": true
         },
         {
-          "image": "https://www.crichd.sx/assets/uploads/channels/3.png",
-          "name": "Sky Sports Criket",
-          "url": "http://crichd.ws/update/skys2.php",
-          "referrer": "http://www.wlive.tv/cricsp.php?player=desktop&live=bt1&vw=620&vh=490",
-          "isHost": true
-        },
-        {
-          "image": "http://www.sports-stream.net/logo/Sky_Sports_Action.png",
-          "name": "Sky Sports Action",
-          "url": "http://crichd.ws/update/skys3.php",
-          "referrer": "http://www.wlive.tv/cricsp.php?player=desktop&live=bt1&vw=620&vh=490",
-          "isHost": true
-        },
-        {
-          "image": "http://www.sports-stream.net/logo/Sky_Sports_Arena.png",
-          "name": "Sky Sports Arena",
-          "url": "http://crichd.ws/update/skysarena.php",
-          "referrer": "http://www.wlive.tv/cricsp.php?player=desktop&live=bt1&vw=620&vh=490",
-          "isHost": true
-        },
-        {
-          "image": "http://cricsports.sx/assets/uploads/channels/5.png",
-          "name": "Sky Sports Golf",
-          "url": "http://crichd.ws/update/skys4.php",
-          "referrer": "http://www.wlive.tv/cricsp.php?player=desktop&live=bt1&vw=620&vh=490",
-          "isHost": true
-        },
-        {
-          "image": "http://cricsports.sx/assets/uploads/channels/9.png",
-          "name": "Sky Sports News",
-          "url": "http://crichd.ws/update/skysn.php",
-          "referrer": "http://www.wlive.tv/cricsp.php?player=desktop&live=bt1&vw=620&vh=490",
-          "isHost": true
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sky_Sport_-_Logo_2018.svg/260px-Sky_Sport_-_Logo_2018.svg.png",
-          "name": "Sky calcio 1",
-          "url": "http://canalesportivo.xyz/channel/clarpplayer/skycalcio1.php",
-          "isHost": true
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sky_Sport_-_Logo_2018.svg/260px-Sky_Sport_-_Logo_2018.svg.png",
-          "name": "Sky calcio 2",
-          "url": "http://canalesportivo.xyz/channel/clarpplayer/skycalcio2.php",
-          "isHost": true
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sky_Sport_-_Logo_2018.svg/260px-Sky_Sport_-_Logo_2018.svg.png",
-          "name": "Sky calcio 3",
-          "url": "http://canalesportivo.xyz/channel/clarpplayer/skycalcio3.php",
-          "isHost": true
-        },
-        {
           "image": "https://www.crichd.sx/assets/uploads/channels/17.png",
           "name": "Premier Sports",
           "url": "http://crichd.ws/update/premier.php",
@@ -1357,246 +1356,21 @@
           "isHost": true
         },
         {
-          "image": "http://www.webtv.so/uploads/images/channel_257_1537828094_social.png",
-          "name": "Premier Sports 2",
-          "url": "http://www.webtv.so/index.php/channel/257/premier-sports-2/#",
-          "referrer": "http://www.webtv.so/index.php/channel/257/premier-sports-2/",
-          "isHost": true
-        },
-        {
           "image": "http://www.webtv.so/uploads/images/channel_321_1551766456_social.png",
-          "name": "Eleven Sports 1 (Belgium FR)",
+          "name": "Eleven Sports",
           "url": "http://www.webtv.so/index.php/channel/321/eleven-sports-1-belgium-fr/#",
           "referrer": "http://www.webtv.so/index.php/channel/321/eleven-sports-1-belgium-fr/",
           "isHost": true
+
+            }
+          ]
         },
         {
-          "image": "http://www.webtv.so/uploads/images/channel_322_1551767126_thumb.png",
-          "name": "Eleven Sports 1 (Belgium NL)",
-          "url": "http://www.webtv.so/index.php/channel/322/vip-eleven-sports-1-belgium-nl/#",
-          "referrer": "http://www.webtv.so/index.php/channel/322/vip-eleven-sports-1-belgium-nl/",
-          "isHost": true
-        },
-        {
-          "image": "https://vn.buaksib.com/image/sport/sporttv1.jpg",
-          "name": "Sport TV 1 s1",
-          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%201%20PT",
-          "referrer": "https://whostreams.net/embed/s6m0vsdisiufp7",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport1-min.png",
-          "name": "Sport TV 1 s2",
-          "url": "https://sblive.online/tv1pt.html",
-          "isHost": true
-        },
-        {
-          "image": "https://vn.buaksib.com/image/sport/sporttv2.jpg",
-          "name": "Sport TV 2 s1",
-          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%202%20PT",
-          "referrer": "https://whostreams.net/embed/2dbrbt50ibw21jq",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport2-min.png",
-          "name": "Sport TV 2 s2",
-          "url": "https://sblive.online/sport2port.html",
-          "isHost": true
-        },
-        {
-          "image": "https://vn.buaksib.com/image/sport/sporttv3.jpg",
-          "name": "Sport TV 3 s1",
-          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%203%20PT",
-          "referrer": "https://whostreams.net/embed/5bw0ttm",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport3-mini.png",
-          "name": "Sport TV 3 s2",
-          "url": "https://sblive.online/pt3sport.html",
-          "isHost": true
-        },
-        {
-          "image": "https://vn.buaksib.com/image/sport/sporttv4.jpg",
-          "name": "Sport TV 4 s1",
-          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%204%20PT",
-          "referrer": "https://whostreams.net/embed/3ant1pjxw3",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport4-min.png",
-          "name": "Sport TV 4 s2",
-          "url": "https://sblive.online/portugalsport4.html",
-          "isHost": true
-        },
-        {
-          "image": "https://vn.buaksib.com/image/sport/sporttv5.jpg",
-          "name": "Sport TV 5 s1",
-          "url": "http://2cfazefoot.blogspot.com/search/label/Sport%20TV%205%20PT",
-          "referrer": "https://whostreams.net/embed/pst4nwvms",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport5-min.png",
-          "name": "Sport TV 5 s2",
-          "url": "https://sblive.online/ptsport5.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport-klub-1-min.png",
-          "name": "Sport klub 1 s1",
-          "url": "https://sblive.online/sportklub1rs.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport-klub-1-min.png",
-          "name": "Sport klub 1 s2",
-          "url": "http://onlysport1.tv/player?channel=sk",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport-klub-2-min.png",
-          "name": "Sport klub 2 s1",
-          "url": "https://sblive.online/sk2serbia.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport-klub-2-min.png",
-          "name": "Sport klub 2 s2",
-          "url": "http://onlysport1.tv/player?channel=sk2",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport-klub-3-min.png",
-          "name": "Sport klub 3 s1",
-          "url": "https://sblive.online/rs3sk.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/sport-klub-3-min.png",
-          "name": "Sport klub 3 s2",
-          "url": "http://onlysport1.tv/player?channel=sk3",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasport_1_logo-min.png",
-          "name": "Arena sport 1",
-          "url": "https://sblive.online/arena1rs.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasports2-min.jpg",
-          "name": "Arena sport 2",
-          "url": "https://sblive.online/arena2sport.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/arena_sport_rs_3-min.png",
-          "name": "Arena sport 3",
-          "url": "https://sblive.online/sportarena3rs.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasports4-min.png",
-          "name": "Arena sport 4",
-          "url": "https://sblive.online/arenaserbia4.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/arenasport_5-min.png",
-          "name": "Arena sport 5",
-          "url": "https://sblive.online/ar5sport.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/digi_sport1-min.png",
-          "name": "Digi Sport 1",
-          "url": "https://sblive.online/ds1ro.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/digi_sport2-min.png",
-          "name": "Digi Sport 2",
-          "url": "https://sblive.online/digisport2ro.html",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/supertennis_hd-min.jpg",
-          "name": "Super Tennis",
-          "url": "https://sblive.online/itsupertennis.html",
-          "isHost": true
-        },
-        {
-          "image": "http://ustvgo.net/wp-content/uploads/2019/01/TennisChannel.whiteBg.png",
-          "name": "",
-          "url": "http://ustvgo.net/tennis-channel-live-free/",
-          "referrer": "http://ustvgo.net/category/sports/",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/canalsportpoland.png",
-          "name": "Cannal Sports",
-          "url": "https://sblive.online/plcanalplus.html",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 1",
-          "url": "http://crichd.ws/update/ch1.php",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 2",
-          "url": "http://crichd.ws/update/ch2.php",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 3 ",
-          "url": "http://crichd.ws/update/ch3.php",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 4",
-          "url": "http://crichd.ws/update/ch4.php",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 5",
-          "url": "http://crichd.ws/update/ch5.php",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 6",
-          "url": "http://crichd.ws/update/ch6.php",
-          "isHost": true
-        },
-        {
-          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
-          "name": "Custom Sports 7",
-          "url": "http://crichd.ws/update/ch7.php",
-          "isHost": true
-        },
-        {
-          "image": "http://ustvgo.net/wp-content/uploads/2019/01/golf-269x151.png",
-          "name": "",
-          "url": "http://ustvgo.net/golf-channel-live-free/",
-          "referrer": "http://ustvgo.net/category/sports/",
-          "isHost": true
-        },
-        {
-          "image": "http://ustvgo.net/wp-content/uploads/2019/01/nfln-logo-dark.png",
-          "name": "",
-          "url": "http://ustvgo.net/nfl-network-live-free/",
-          "referrer": "http://ustvgo.net/category/sports/",
-          "isHost": true
-        },
-        {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg",
+          "name": "Kênh МАТЧ ФУТБОЛ",
+          "image": "https://2.bp.blogspot.com/-Hg5lMkwup5k/XKAmkSWrKYI/AAAAAAAAGq4/dBADToFEIT0dIfGU4Z2kfJ4KTazcsNm4QCLcBGAs/s400/SPORTS-IPTV.png",
+          "stations": [
+            {
+           "image": "http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg",
           "name": "МАТЧ ФУТБОЛ 1 s1",
           "url": "http://live-gol.net/streams/9983e1a92b719a",
           "isHost": true
@@ -1636,18 +1410,56 @@
           "name": "МАТЧ ФУТБОЛ 3 s3",
           "url": "http://allsporting.co/player?channel=matchfutbol3&player=old",
           "isHost": true
+            }
+          ]
         },
         {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/futbol1uan-min.png",
-          "name": "ФУТБОЛ 1 УКРАИНА",
-          "url": "http://live-gol.net/streams/e7cfe7602e3002",
+          "name": "Kênh Custom Sports",
+          "image": "https://2.bp.blogspot.com/-Hg5lMkwup5k/XKAmkSWrKYI/AAAAAAAAGq4/dBADToFEIT0dIfGU4Z2kfJ4KTazcsNm4QCLcBGAs/s400/SPORTS-IPTV.png",
+          "stations": [
+            {
+           "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 1",
+          "url": "http://crichd.ws/update/ch1.php",
           "isHost": true
         },
         {
-          "image": "http://online-allsports.com.ua/images/stories_2/logotv/futbol2uan-min.png",
-          "name": "ФУТБОЛ 2 УКРАИНА",
-          "url": "http://live-gol.net/streams/1065467f7b1212b",
+          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 2",
+          "url": "http://crichd.ws/update/ch2.php",
           "isHost": true
+        },
+        {
+          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 3 ",
+          "url": "http://crichd.ws/update/ch3.php",
+          "isHost": true
+        },
+        {
+          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 4",
+          "url": "http://crichd.ws/update/ch4.php",
+          "isHost": true
+        },
+        {
+          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 5",
+          "url": "http://crichd.ws/update/ch5.php",
+          "isHost": true
+        },
+        {
+          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 6",
+          "url": "http://crichd.ws/update/ch6.php",
+          "isHost": true
+        },
+        {
+          "image": "https://www.crichd.sx/assets/images/custom-channels.png",
+          "name": "Custom Sports 7",
+          "url": "http://crichd.ws/update/ch7.php",
+          "isHost": true
+           }
+          ]
         }
       ]
     },
@@ -6920,6 +6732,27 @@
           "isHost": true
         },
         {
+         "image": "http://ustvgo.tv/wp-content/uploads/2019/01/fs1-269x151.png",
+          "name": "Fox Sports 1",
+          "url": "http://ustvgo.tv/fox-sports-1/",
+          "referrer": "http://ustvgo.net/category/sports/",
+          "isHost": true
+        },
+        {
+         "image": "http://ustvgo.tv/wp-content/uploads/2019/01/nbcsn-269x151.jpg",
+          "name": "NBCSN",
+          "url": "http://ustvgo.tv/nbc-sports/",
+          "referrer": "http://ustvgo.net/category/sports/",
+          "isHost": true
+        },
+        {
+         "image": "http://ustvgo.tv/wp-content/uploads/2019/01/nbatv-269x151.jpg",
+          "name": "NBA TV",
+          "url": "http://ustvgo.tv/nba-tv/",
+          "referrer": "http://ustvgo.net/category/sports/",
+          "isHost": true
+        },
+        {            
           "image": "https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_269,h_151/http://ustvgo.tv/wp-content/uploads/2019/01/espn-269x151.png",
           "name": "ESPN",
           "url": "http://ustvgo.tv/espn-live/",
