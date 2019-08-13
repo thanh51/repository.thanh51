@@ -1,23 +1,90 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="BS1HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 1
+http://video.bossna-caffe.com:80/live.ts?channelId=466&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS2HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 2
+http://video.bossna-caffe.com:80/live.ts?channelId=374&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS3HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 3
+http://video.bossna-caffe.com:80/live.ts?channelId=463&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS4HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 4
+http://video.bossna-caffe.com:80/live.ts?channelId=375&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS5HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 5
+http://video.bossna-caffe.com:80/live.ts?channelId=464&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS6HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 6" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png" group-title="Sports",Bein Sports 6
+http://video.bossna-caffe.com:80/live.ts?channelId=465&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS7HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 7" tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png" group-title="Sports",Bein Sports 7
+http://video.bossna-caffe.com:80/live.ts?channelId=467&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS8HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 8" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="Sports",Bein Sports 8
+http://video.bossna-caffe.com:80/live.ts?channelId=468&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BS9HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 9" tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png" group-title="Sports",Bein Sports 9
+http://video.bossna-caffe.com:80/live.ts?channelId=469&deviceUser=tomas&devicePass=tomas&uid=35964
+
+#EXTINF:-1 tvg-id="BTSport1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 1" tvg-logo="http://nextgen-iptv.com/logo/BTSport1_UK.png" group-title="Sports",UK: BT Sport 1
+http://video.bossna-caffe.com:80/live.ts?channelId=455&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="BTSport2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 2" tvg-logo="http://nextgen-iptv.com/logo/BTSport2_UK.png" group-title="Sports",UK: BT Sport 2
+http://video.bossna-caffe.com:80/live.ts?channelId=456&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sports",Sky Sports Main Event
+http://video.bossna-caffe.com:80/live.ts?channelId=1459&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySports4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Football HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports4_UK.png" group-title="Sports",Sky Sports Football HD
+http://video.bossna-caffe.com:80/live.ts?channelId=91&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-link="http://this-is.bossna-caffe.com/epg/uk" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sports",MUTV
+http://video.bossna-caffe.com:80/live.ts?channelId=341&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Action HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports1_UK.png" group-title="Sports",Sky Sports Action HD
+http://video.bossna-caffe.com:80/live.ts?channelId=26&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Arena HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports2_UK.png" group-title="Sports",Sky Sports Arena HD
+http://video.bossna-caffe.com:80/live.ts?channelId=90&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Cricket HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports3_UK.png" group-title="Sports",Sky Sports Cricket HD
+http://video.bossna-caffe.com:80/live.ts?channelId=65&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySportsF1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports F1 UK" tvg-logo="http://nextgen-iptv.com/logo/SkySportsF1_UK.png" group-title="Sports",Sky Sports F1 UK
+http://video.bossna-caffe.com:80/live.ts?channelId=593&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SFR Sport 1" tvg-link="" tvg-name="RMC Sport 1" tvg-logo="" group-title="Sports",RMC Sport 1
+http://video.bossna-caffe.com:80/live.ts?channelId=1411&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SFR Sport 2" tvg-link="" tvg-name="RMC Sport 2" tvg-logo="" group-title="Sports",RMC Sport 2
+http://video.bossna-caffe.com:80/live.ts?channelId=1412&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SFR Sport 3" tvg-link="" tvg-name="RMC Sport 3" tvg-logo="" group-title="Sports",RMC Sport 3
+http://video.bossna-caffe.com:80/live.ts?channelId=1413&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SFR Sport 4" tvg-link="" tvg-name="RMC Sport 4" tvg-logo="" group-title="Sports",RMC Sport 4
+http://video.bossna-caffe.com:80/live.ts?channelId=1414&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SFR Sport 5" tvg-link="" tvg-name="RMC Sport 5" tvg-logo="" group-title="Sports",RMC Sport 5
+http://video.bossna-caffe.com:80/live.ts?channelId=1415&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: CANAL+ Sport" tvg-logo="http://nextgen-iptv.com/logo/Canal+Sport_FR.png" group-title="Sports",CANAL+Sport
+http://video.bossna-caffe.com:80/live.ts?channelId=946&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySport1IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 1" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%201.png" group-title="Sports",IT: Sky Sport 1
+http://video.bossna-caffe.com:80/live.ts?channelId=409&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySport2IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 2" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%202.png" group-title="Sports",IT: Sky Sport 2
+http://video.bossna-caffe.com:80/live.ts?channelId=542&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySport3IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 3" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%203.png" group-title="Sports",IT: Sky Sport 3
+http://video.bossna-caffe.com:80/live.ts?channelId=544&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkySport24IT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="IT: Sky Sport 24" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%2024.png" group-title="Sports",IT: Sky Sport 24
+http://video.bossna-caffe.com:80/live.ts?channelId=543&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
+http://video.bossna-caffe.com:80/live.ts?channelId=1214&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
+http://video.bossna-caffe.com:80/live.ts?channelId=1215&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
+http://video.bossna-caffe.com:80/live.ts?channelId=1216&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="Sports",TSN 4
+http://video.bossna-caffe.com:80/live.ts?channelId=1217&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
+http://video.bossna-caffe.com:80/live.ts?channelId=1218&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SK1HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 1 HR" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sports",Sport Klub 1 HR
 http://video.bossna-caffe.com:80/live.ts?channelId=44&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SK2HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 2 HR" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sports",Sport Klub 2 HR
 http://video.bossna-caffe.com:80/live.ts?channelId=45&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SK3HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 3 HR" tvg-logo="http://nextgen-iptv.com/logo/SK3_HR.png" group-title="Sports",Sport Klub 3 HR
 http://video.bossna-caffe.com:80/live.ts?channelId=46&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 4" tvg-logo="http://i.imgur.com/0Z7YQxP.jpg" group-title="Sports",Sport Klub 4
-http://video.bossna-caffe.com:80/live.ts?channelId=601&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub5" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 5" tvg-logo="http://i.imgur.com/v15bdUd.jpg" group-title="Sports",Sport Klub 5
-http://video.bossna-caffe.com:80/live.ts?channelId=602&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SportKlub1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sports",Sport Klub 1
 http://video.bossna-caffe.com:80/live.ts?channelId=254&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub6" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 6" tvg-logo="http://i.imgur.com/JJaWEDw.jpg" group-title="Sports",Sport Klub 6
-http://video.bossna-caffe.com:80/live.ts?channelId=603&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SportKlub2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sports",Sport Klub 2
 http://video.bossna-caffe.com:80/live.ts?channelId=255&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SportKlub3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/logo/SK3_HR.png" group-title="Sports",Sport Klub 3
 http://video.bossna-caffe.com:80/live.ts?channelId=256&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SportKlub4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 4" tvg-logo="http://i.imgur.com/0Z7YQxP.jpg" group-title="Sports",Sport Klub 4
+http://video.bossna-caffe.com:80/live.ts?channelId=601&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SportKlub5" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 5" tvg-logo="http://i.imgur.com/v15bdUd.jpg" group-title="Sports",Sport Klub 5
+http://video.bossna-caffe.com:80/live.ts?channelId=602&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SportKlub6" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 6" tvg-logo="http://i.imgur.com/JJaWEDw.jpg" group-title="Sports",Sport Klub 6
+http://video.bossna-caffe.com:80/live.ts?channelId=603&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="ArenaSport1hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 1 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport1_HR.png" group-title="Sports",Arena Sport 1 HR
 http://video.bossna-caffe.com:80/live.ts?channelId=52&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="ArenaSport2hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 2 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport2_HR.png" group-title="Sports",Arena Sport 2 HR
@@ -46,46 +113,12 @@ http://video.bossna-caffe.com:80/live.ts?channelId=150&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=1465&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="DAZN SPORT BAR 2 DE" tvg-link="" tvg-name="DAZN SPORT BAR 2 DE" tvg-logo="" group-title="Sports",DAZN SPORT BAR 2 DE
 http://video.bossna-caffe.com:80/live.ts?channelId=1466&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Action HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports1_UK.png" group-title="Sports",Sky Sports Action HD
-http://video.bossna-caffe.com:80/live.ts?channelId=26&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Arena HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports2_UK.png" group-title="Sports",Sky Sports Arena HD
-http://video.bossna-caffe.com:80/live.ts?channelId=90&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Cricket HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports3_UK.png" group-title="Sports",Sky Sports Cricket HD
-http://video.bossna-caffe.com:80/live.ts?channelId=65&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Football HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports4_UK.png" group-title="Sports",Sky Sports Football HD
-http://video.bossna-caffe.com:80/live.ts?channelId=91&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports F1 UK" tvg-logo="http://nextgen-iptv.com/logo/SkySportsF1_UK.png" group-title="Sports",Sky Sports F1 UK
-http://video.bossna-caffe.com:80/live.ts?channelId=593&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sports",Sky Sports Main Event
-http://video.bossna-caffe.com:80/live.ts?channelId=1459&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS1HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 1" tvg-logo="http://nextgen-iptv.com/logo/BeinSports1_FR.png" group-title="Sports",Bein Sports 1
-http://video.bossna-caffe.com:80/live.ts?channelId=466&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS2HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sports",Bein Sports 2
-http://video.bossna-caffe.com:80/live.ts?channelId=374&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS3HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 3" tvg-logo="http://nextgen-iptv.com/logo/BeinSports3_FR.png" group-title="Sports",Bein Sports 3
-http://video.bossna-caffe.com:80/live.ts?channelId=463&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS4HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sports",Bein Sports 4
-http://video.bossna-caffe.com:80/live.ts?channelId=375&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS5HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 5" tvg-logo="http://nextgen-iptv.com/logo/BeinSports5_FR.png" group-title="Sports",Bein Sports 5
-http://video.bossna-caffe.com:80/live.ts?channelId=464&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS6HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 6" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png" group-title="Sports",Bein Sports 6
-http://video.bossna-caffe.com:80/live.ts?channelId=465&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS7HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 7" tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png" group-title="Sports",Bein Sports 7
-http://video.bossna-caffe.com:80/live.ts?channelId=467&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS8HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 8" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="Sports",Bein Sports 8
-http://video.bossna-caffe.com:80/live.ts?channelId=468&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS9HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 9" tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png" group-title="Sports",Bein Sports 9
-http://video.bossna-caffe.com:80/live.ts?channelId=469&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="FOXSports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 1 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/FoxSports1.png" group-title="Sports",FOX Sports 1 (Nl)
 http://video.bossna-caffe.com:80/live.ts?channelId=461&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="FOXSports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 2 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_2_logo.png" group-title="Sports",FOX Sports 2 (Nl)
 http://video.bossna-caffe.com:80/live.ts?channelId=462&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="FOXSports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_3.png" group-title="Sports",FOX Sports 3 (Nl)
 http://video.bossna-caffe.com:80/live.ts?channelId=460&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BTSport1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 1" tvg-logo="http://nextgen-iptv.com/logo/BTSport1_UK.png" group-title="Sports",UK: BT Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=455&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BTSport2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 2" tvg-logo="http://nextgen-iptv.com/logo/BTSport2_UK.png" group-title="Sports",UK: BT Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=456&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="NBA TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png" group-title="Sports",NBA TV
 http://video.bossna-caffe.com:80/live.ts?channelId=366&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="MotorsTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Motors TV" tvg-logo="http://nextgen-iptv.com/logo/MotorsTV_EU.png" group-title="Sports",UK: Motors TV
@@ -98,23 +131,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=459&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=470&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="RealMadridTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://nextgen-iptv.com/logo/realmadridtv.png" group-title="Sports",Real Madrid TV (Spa)
 http://video.bossna-caffe.com:80/live.ts?channelId=361&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-link="http://this-is.bossna-caffe.com/epg/uk" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sports",Manchester TV
-http://video.bossna-caffe.com:80/live.ts?channelId=341&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="LIGTV1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Lig TV1 HD" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/04/ligb.jpeg" group-title="Sports",Lig TV1 HD
-http://video.bossna-caffe.com:80/live.ts?channelId=316&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
-http://video.bossna-caffe.com:80/live.ts?channelId=1214&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1215&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1216&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="Sports",TSN 4
-http://video.bossna-caffe.com:80/live.ts?channelId=1217&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
-http://video.bossna-caffe.com:80/live.ts?channelId=1218&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sky Sport Austria" tvg-link="" tvg-name="Sky Sport Austria" tvg-logo="" group-title="Sports",Sky Sport Austria
-http://video.bossna-caffe.com:80/live.ts?channelId=1219&deviceUser=tomas&devicePass=tomas&uid=35964
-
 #EXTINF:-1 tvg-id="SuperSport-1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 1" tvg-logo="http://nextgen-iptv.com/logo/SuperSport1_ALB.png" group-title="Sports",AL: SuperSport 1
 http://video.bossna-caffe.com:80/live.ts?channelId=362&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SuperSport-2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 2" tvg-logo="http://nextgen-iptv.com/logo/SuperSport2_ALB.png" group-title="Sports",AL: SuperSport 2
@@ -123,37 +139,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=363&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=364&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="SuperSport-4" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 4" tvg-logo="http://nextgen-iptv.com/logo/SuperSport4_ALB.png" group-title="Sports",AL: SuperSport 4
 http://video.bossna-caffe.com:80/live.ts?channelId=376&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="IT: Sky Calcio 3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Calcio 3" tvg-logo="http://nextgen-iptv.com/logo/sky%20calcio%203.png" group-title="Sports",IT: Sky Calcio 3
-http://video.bossna-caffe.com:80/live.ts?channelId=535&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IT: Sky Calcio 4" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Calcio 4" tvg-logo="http://nextgen-iptv.com/logo/sky%20calcio%204.png" group-title="Sports",IT: Sky Calcio 4
-http://video.bossna-caffe.com:80/live.ts?channelId=536&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IT: Sky Calcio 5" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Calcio 5" tvg-logo="http://nextgen-iptv.com/logo/sky%20calcio%205.png" group-title="Sports",IT: Sky Calcio 5
-http://video.bossna-caffe.com:80/live.ts?channelId=537&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IT: Sky Calcio 6" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Calcio 6" tvg-logo="http://nextgen-iptv.com/logo/sky%20calcio%206.png" group-title="Sports",IT: Sky Calcio 6
-http://video.bossna-caffe.com:80/live.ts?channelId=538&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySupercalcioIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Premium Calcio" tvg-logo="http://nextgen-iptv.com/logo/sky%20supercalcio.png" group-title="Sports",Premium Calcio
-http://video.bossna-caffe.com:80/live.ts?channelId=540&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport1IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 1" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%201.png" group-title="Sports",IT: Sky Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=409&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport2IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 2" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%202.png" group-title="Sports",IT: Sky Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=542&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport3IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 3" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%203.png" group-title="Sports",IT: Sky Sport 3
-http://video.bossna-caffe.com:80/live.ts?channelId=544&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport24IT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="IT: Sky Sport 24" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%2024.png" group-title="Sports",IT: Sky Sport 24
-http://video.bossna-caffe.com:80/live.ts?channelId=543&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="SFR Sport 1" tvg-link="" tvg-name="SFR Sport 1" tvg-logo="" group-title="Sports",SFR Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=1411&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 2" tvg-link="" tvg-name="SFR Sport 2" tvg-logo="" group-title="Sports",SFR Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1412&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 3" tvg-link="" tvg-name="SFR Sport 3" tvg-logo="" group-title="Sports",SFR Sport 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1413&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 4" tvg-link="" tvg-name="SFR Sport 4" tvg-logo="" group-title="Sports",SFR Sport 4
-http://video.bossna-caffe.com:80/live.ts?channelId=1414&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 5" tvg-link="" tvg-name="SFR Sport 5" tvg-logo="" group-title="Sports",SFR Sport 5
-http://video.bossna-caffe.com:80/live.ts?channelId=1415&deviceUser=tomas&devicePass=tomas&uid=35964
-
 
 #EXTINF:-1 tvg-id="HBO" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="HBO Adria" tvg-logo="http://nextgen-iptv.com/logo/hbo.png" group-title="Movies",HBO Adria
 http://video.bossna-caffe.com:80/live.ts?channelId=34&deviceUser=tomas&devicePass=tomas&uid=35964
@@ -195,6 +180,8 @@ http://video.bossna-caffe.com:80/live.ts?channelId=33&deviceUser=tomas&devicePas
 http://video.bossna-caffe.com:80/live.ts?channelId=313&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="FoxCrime" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Crime" tvg-logo="http://nextgen-iptv.com/logo/FOXCrime_HR.png" group-title="Movies",FOX Crime
 http://video.bossna-caffe.com:80/live.ts?channelId=32&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-id="SkyAction" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky Movies Action & Adventure" tvg-logo="http://nextgen-iptv.com/logo/SkyMoviesAction&Adventure_UK.png" group-title="Movies",UK: Sky Movies Action & Adventure
+http://video.bossna-caffe.com:80/live.ts?channelId=171&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Sci Fi" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sci Fi" tvg-logo="" group-title="Movies",Sci Fi
 http://video.bossna-caffe.com:80/live.ts?channelId=1207&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Film Klub" tvg-link="" tvg-name="Film Klub" tvg-logo="" group-title="Movies",Film Klub
@@ -236,20 +223,14 @@ http://video.bossna-caffe.com:80/live.ts?channelId=627&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=266&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="DiscoveryTLC" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="TLC" tvg-logo="http://nextgen-iptv.com/logo/TLC_EU.png" group-title="Documentary",TLC
 http://video.bossna-caffe.com:80/live.ts?channelId=133&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CBS Drama" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="CBS Drama" tvg-logo="" group-title="Movies",CBS Drama
-http://video.bossna-caffe.com:80/live.ts?channelId=1197&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="ComedyExtra" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Comedy Central Extra" tvg-logo="http://nextgen-iptv.com/logo/comedycentral.png" group-title="Documentary",Comedy Central Extra
 http://video.bossna-caffe.com:80/live.ts?channelId=618&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="24Kitchen" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="24 Kitchen" tvg-logo="http://nextgen-iptv.com/logo/24Kitchen_HR.png" group-title="Documentary",24 Kitchen
 http://video.bossna-caffe.com:80/live.ts?channelId=209&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="LovRibolov" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Lov i Ribolov" tvg-logo="http://nextgen-iptv.com/logo/LoviRibolov_HR.png" group-title="Documentary",Lov i Ribolov
 http://video.bossna-caffe.com:80/live.ts?channelId=265&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FightChannel" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Fight Channel" tvg-logo="http://nextgen-iptv.com/logo/Fight-Sports-New-Update-Key-Working-Fine.png" group-title="Sports",Fight Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=212&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Travel Channel" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Travel Channel" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" group-title="Documentary",Travel Channel
 http://video.bossna-caffe.com:80/live.ts?channelId=1190&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Happy Parovi uživo 24h" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Happy Parovi uživo 24h" tvg-logo="" group-title="Srbija",Happy Parovi uživo 24h
-http://video.bossna-caffe.com:80/live.ts?channelId=1209&deviceUser=tomas&devicePass=tomas&uid=35964
 
 #EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Adria" tvg-logo="http://nextgen-iptv.com/logo/MTVAdria_HR.png" group-title="Music",MTV Adria
 http://video.bossna-caffe.com:80/live.ts?channelId=296&deviceUser=tomas&devicePass=tomas&uid=35964
@@ -271,8 +252,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=290&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=444&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="BNMusic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="BN Music" tvg-logo="http://nextgen-iptv.com/logo/BNMusic_BiH.png" group-title="Music",BN Music
 http://video.bossna-caffe.com:80/live.ts?channelId=86&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OTVValentino" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Valentino TV" tvg-logo="http://nextgen-iptv.com/logo/OTVValentino_BiH.png" group-title="Srbija",Valentino TV
-http://video.bossna-caffe.com:80/live.ts?channelId=322&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="BALKANIKA" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Balkanika" tvg-logo="http://nextgen-iptv.com/logo/balkanika-logo.png" group-title="Music",Balkanika
 http://video.bossna-caffe.com:80/live.ts?channelId=1126&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="CMC" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="CMC" tvg-logo="http://nextgen-iptv.com/logo/cmc.png" group-title="Music",CMC
@@ -295,10 +274,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=295&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=294&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="JugotonTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Jugoton TV" tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png" group-title="Music",Jugoton TV
 http://video.bossna-caffe.com:80/live.ts?channelId=609&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="RTBTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="Hrvatska",Banovina TV
-http://video.bossna-caffe.com:80/live.ts?channelId=320&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IzvornaTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Izvorna TV" tvg-logo="http://nextgen-iptv.com/logo/Izvorna%20TV.png" group-title="Srbija",Izvorna TV
-http://video.bossna-caffe.com:80/live.ts?channelId=502&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="YU Planet" tvg-link="" tvg-name="YU Planet" tvg-logo="" group-title="Music",YU Planet
 http://video.bossna-caffe.com:80/live.ts?channelId=1470&deviceUser=tomas&devicePass=tomas&uid=35964
 
@@ -312,8 +287,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=626&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=154&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Hayatovci" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayatovci" tvg-logo="http://nextgen-iptv.com/logo/Hayatovci_BiH.png" group-title="Children",Hayatovci
 http://video.bossna-caffe.com:80/live.ts?channelId=248&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PinkSuperKids" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Pink Super Kids" tvg-logo="http://nextgen-iptv.com/logo/PinkSuperKids_logo.png" group-title="Pink",Pink Super Kids
-http://video.bossna-caffe.com:80/live.ts?channelId=613&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Disney Jr.Uk" tvg-logo="http://nextgen-iptv.com/logo/DisneyJunior_EU.png" group-title="Children",Disney Jr.Uk
 http://video.bossna-caffe.com:80/live.ts?channelId=298&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="CartoonNetworkUK" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="UK: Cartoon Network" tvg-logo="http://nextgen-iptv.com/logo/cartoon%20netwrk.png" group-title="Children",UK: Cartoon Network
@@ -338,8 +311,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=996&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=620&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="RTETwo" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: RTE Two" tvg-logo="http://nextgen-iptv.com/logo/rte%20two.png" group-title="UK",RTE Two
 http://video.bossna-caffe.com:80/live.ts?channelId=621&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyAction" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky Movies Action & Adventure" tvg-logo="http://nextgen-iptv.com/logo/SkyMoviesAction&Adventure_UK.png" group-title="Movies",UK: Sky Movies Action & Adventure
-http://video.bossna-caffe.com:80/live.ts?channelId=171&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky One" tvg-logo="http://nextgen-iptv.com/Logos/int/sky_uk_1.png" group-title="UK",Sky One
 http://video.bossna-caffe.com:80/live.ts?channelId=472&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="IDUK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Investigation Discovery" tvg-logo="http://nextgen-iptv.com/logo/discovery%20id%20poland.png" group-title="UK",Investigation Discovery
@@ -428,8 +399,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=944&deviceUser=tomas&devicePa
 http://video.bossna-caffe.com:80/live.ts?channelId=945&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="RTL9FR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: RTL9" tvg-logo="http://nextgen-iptv.com/logo/rtl9.png" group-title="France",RTL9
 http://video.bossna-caffe.com:80/live.ts?channelId=948&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CanalPlusSport" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: CANAL+ Sport" tvg-logo="http://nextgen-iptv.com/logo/Canal+Sport_FR.png" group-title="France",CANAL+ Sport
-http://video.bossna-caffe.com:80/live.ts?channelId=946&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="CANALPLUSCINEMAFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="CANAL+ Cinéma" tvg-logo="http://nextgen-iptv.com/logo/canal+%20cinema.png" group-title="France",CANAL+ Cinéma
 http://video.bossna-caffe.com:80/live.ts?channelId=947&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="CANALPLUSDECALEFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: CANAL+ Décalé" tvg-logo="http://nextgen-iptv.com/logo/canal+%20decale.png" group-title="France",CANAL+ Décalé
@@ -464,8 +433,6 @@ http://video.bossna-caffe.com:80/live.ts?channelId=1356&deviceUser=tomas&deviceP
 http://video.bossna-caffe.com:80/live.ts?channelId=1357&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Canal+ Series" tvg-link="" tvg-name="Canal+ Series" tvg-logo="" group-title="France",Canal+ Series
 http://video.bossna-caffe.com:80/live.ts?channelId=1358&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-link="" tvg-name="Canal+ Sport" tvg-logo="" group-title="France",Canal+ Sport
-http://video.bossna-caffe.com:80/live.ts?channelId=1359&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Cine+ Classic" tvg-link="" tvg-name="Cine+ Classic" tvg-logo="" group-title="France",Cine+ Classic
 http://video.bossna-caffe.com:80/live.ts?channelId=1360&deviceUser=tomas&devicePass=tomas&uid=35964
 #EXTINF:-1 tvg-id="Cine+ Club" tvg-link="" tvg-name="Cine+ Club" tvg-logo="" group-title="France",Cine+ Club
