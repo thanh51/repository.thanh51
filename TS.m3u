@@ -1,500 +1,326 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BS1HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 1
-http://video.bossna-caffe.com:80/live.ts?channelId=466&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS2HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 2
-http://video.bossna-caffe.com:80/live.ts?channelId=374&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS3HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 3
-http://video.bossna-caffe.com:80/live.ts?channelId=463&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS4HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 4
-http://video.bossna-caffe.com:80/live.ts?channelId=375&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS5HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png" group-title="Sports",Bein Sports 5
-http://video.bossna-caffe.com:80/live.ts?channelId=464&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS6HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 6" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png" group-title="Sports",Bein Sports 6
-http://video.bossna-caffe.com:80/live.ts?channelId=465&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS7HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 7" tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png" group-title="Sports",Bein Sports 7
-http://video.bossna-caffe.com:80/live.ts?channelId=467&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS8HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 8" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="Sports",Bein Sports 8
-http://video.bossna-caffe.com:80/live.ts?channelId=468&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BS9HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 9" tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png" group-title="Sports",Bein Sports 9
-http://video.bossna-caffe.com:80/live.ts?channelId=469&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="BTSport1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 1" tvg-logo="http://nextgen-iptv.com/logo/BTSport1_UK.png" group-title="Sports",UK: BT Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=455&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BTSport2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 2" tvg-logo="http://nextgen-iptv.com/logo/BTSport2_UK.png" group-title="Sports",UK: BT Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=456&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sports",Sky Sports Main Event
-http://video.bossna-caffe.com:80/live.ts?channelId=1459&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Football HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports4_UK.png" group-title="Sports",Sky Sports Football HD
-http://video.bossna-caffe.com:80/live.ts?channelId=91&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-link="http://this-is.bossna-caffe.com/epg/uk" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sports",MUTV
-http://video.bossna-caffe.com:80/live.ts?channelId=341&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Action HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports1_UK.png" group-title="Sports",Sky Sports Action HD
-http://video.bossna-caffe.com:80/live.ts?channelId=26&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Arena HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports2_UK.png" group-title="Sports",Sky Sports Arena HD
-http://video.bossna-caffe.com:80/live.ts?channelId=90&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Cricket HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports3_UK.png" group-title="Sports",Sky Sports Cricket HD
-http://video.bossna-caffe.com:80/live.ts?channelId=65&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports F1 UK" tvg-logo="http://nextgen-iptv.com/logo/SkySportsF1_UK.png" group-title="Sports",Sky Sports F1 UK
-http://video.bossna-caffe.com:80/live.ts?channelId=593&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 1" tvg-link="" tvg-name="RMC Sport 1" tvg-logo="" group-title="Sports",RMC Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=1411&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 2" tvg-link="" tvg-name="RMC Sport 2" tvg-logo="" group-title="Sports",RMC Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1412&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 3" tvg-link="" tvg-name="RMC Sport 3" tvg-logo="" group-title="Sports",RMC Sport 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1413&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 4" tvg-link="" tvg-name="RMC Sport 4" tvg-logo="" group-title="Sports",RMC Sport 4
-http://video.bossna-caffe.com:80/live.ts?channelId=1414&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SFR Sport 5" tvg-link="" tvg-name="RMC Sport 5" tvg-logo="" group-title="Sports",RMC Sport 5
-http://video.bossna-caffe.com:80/live.ts?channelId=1415&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CanalPlusSport" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: CANAL+ Sport" tvg-logo="http://nextgen-iptv.com/logo/Canal+Sport_FR.png" group-title="Sports",CANAL+Sport
-http://video.bossna-caffe.com:80/live.ts?channelId=946&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport1IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 1" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%201.png" group-title="Sports",IT: Sky Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=409&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport2IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 2" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%202.png" group-title="Sports",IT: Sky Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=542&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport3IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport 3" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%203.png" group-title="Sports",IT: Sky Sport 3
-http://video.bossna-caffe.com:80/live.ts?channelId=544&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySport24IT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="IT: Sky Sport 24" tvg-logo="http://nextgen-iptv.com/logo/sky%20sport%2024.png" group-title="Sports",IT: Sky Sport 24
-http://video.bossna-caffe.com:80/live.ts?channelId=543&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
-http://video.bossna-caffe.com:80/live.ts?channelId=1214&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1215&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1216&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="Sports",TSN 4
-http://video.bossna-caffe.com:80/live.ts?channelId=1217&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
-http://video.bossna-caffe.com:80/live.ts?channelId=1218&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SK1HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 1 HR" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sports",Sport Klub 1 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=44&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SK2HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 2 HR" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sports",Sport Klub 2 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=45&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SK3HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 3 HR" tvg-logo="http://nextgen-iptv.com/logo/SK3_HR.png" group-title="Sports",Sport Klub 3 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=46&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sports",Sport Klub 1
-http://video.bossna-caffe.com:80/live.ts?channelId=254&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sports",Sport Klub 2
-http://video.bossna-caffe.com:80/live.ts?channelId=255&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/logo/SK3_HR.png" group-title="Sports",Sport Klub 3
-http://video.bossna-caffe.com:80/live.ts?channelId=256&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 4" tvg-logo="http://i.imgur.com/0Z7YQxP.jpg" group-title="Sports",Sport Klub 4
-http://video.bossna-caffe.com:80/live.ts?channelId=601&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub5" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 5" tvg-logo="http://i.imgur.com/v15bdUd.jpg" group-title="Sports",Sport Klub 5
-http://video.bossna-caffe.com:80/live.ts?channelId=602&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SportKlub6" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 6" tvg-logo="http://i.imgur.com/JJaWEDw.jpg" group-title="Sports",Sport Klub 6
-http://video.bossna-caffe.com:80/live.ts?channelId=603&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 1 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport1_HR.png" group-title="Sports",Arena Sport 1 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=52&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport2hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 2 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport2_HR.png" group-title="Sports",Arena Sport 2 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=53&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport3hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 3 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport3_HR.png" group-title="Sports",Arena Sport 3 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=54&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport4hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 4 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport4_HR.png" group-title="Sports",Arena Sport 4 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=88&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport5hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 5 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport5_HR.png" group-title="Sports",Arena Sport 5 HR
-http://video.bossna-caffe.com:80/live.ts?channelId=178&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 1" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport1_SRB.png" group-title="Sports",Arena Sport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=187&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 2" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport2_SRB.png" group-title="Sports",Arena Sport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=188&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 3" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport3_SRB.png" group-title="Sports",Arena Sport 3
-http://video.bossna-caffe.com:80/live.ts?channelId=189&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 4" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport4_SRB.png" group-title="Sports",Arena Sport 4
-http://video.bossna-caffe.com:80/live.ts?channelId=190&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ArenaSport5" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 5" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport5_SRB.png" group-title="Sports",Arena Sport 5
-http://video.bossna-caffe.com:80/live.ts?channelId=211&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Eurosport 1" tvg-logo="http://nextgen-iptv.com/logo/eurosport%20cz.png" group-title="Sports",Eurosport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=29&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="EUROSPORT2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Eurosport 2" tvg-logo="http://nextgen-iptv.com/logo/eurrosport%202%20hun.png" group-title="Sports",Eurosport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=150&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DAZN SPORT BAR 1 DE" tvg-link="" tvg-name="DAZN SPORT BAR 1 DE" tvg-logo="" group-title="Sports",DAZN SPORT BAR 1 DE
-http://video.bossna-caffe.com:80/live.ts?channelId=1465&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DAZN SPORT BAR 2 DE" tvg-link="" tvg-name="DAZN SPORT BAR 2 DE" tvg-logo="" group-title="Sports",DAZN SPORT BAR 2 DE
-http://video.bossna-caffe.com:80/live.ts?channelId=1466&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FOXSports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 1 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/FoxSports1.png" group-title="Sports",FOX Sports 1 (Nl)
-http://video.bossna-caffe.com:80/live.ts?channelId=461&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FOXSports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 2 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_2_logo.png" group-title="Sports",FOX Sports 2 (Nl)
-http://video.bossna-caffe.com:80/live.ts?channelId=462&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FOXSports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_3.png" group-title="Sports",FOX Sports 3 (Nl)
-http://video.bossna-caffe.com:80/live.ts?channelId=460&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="NBA TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png" group-title="Sports",NBA TV
-http://video.bossna-caffe.com:80/live.ts?channelId=366&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MotorsTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Motors TV" tvg-logo="http://nextgen-iptv.com/logo/MotorsTV_EU.png" group-title="Sports",UK: Motors TV
-http://video.bossna-caffe.com:80/live.ts?channelId=471&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-link="" tvg-name="Sport TV 1" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sports",Sport TV 1
-http://video.bossna-caffe.com:80/live.ts?channelId=457&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-link="" tvg-name="Sport TV 3" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sports",Sport TV 3
-http://video.bossna-caffe.com:80/live.ts?channelId=459&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BarcaTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Barca TV (Spa)" tvg-logo="http://nextgen-iptv.com/logo/barca%20tv.png" group-title="Sports",Barca TV (Spa)
-http://video.bossna-caffe.com:80/live.ts?channelId=470&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="RealMadridTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://nextgen-iptv.com/logo/realmadridtv.png" group-title="Sports",Real Madrid TV (Spa)
-http://video.bossna-caffe.com:80/live.ts?channelId=361&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SuperSport-1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 1" tvg-logo="http://nextgen-iptv.com/logo/SuperSport1_ALB.png" group-title="Sports",AL: SuperSport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=362&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SuperSport-2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 2" tvg-logo="http://nextgen-iptv.com/logo/SuperSport2_ALB.png" group-title="Sports",AL: SuperSport 2
-http://video.bossna-caffe.com:80/live.ts?channelId=363&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SuperSport-3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 3" tvg-logo="http://nextgen-iptv.com/logo/SuperSport3_ALB.png" group-title="Sports",AL: SuperSport 3
-http://video.bossna-caffe.com:80/live.ts?channelId=364&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SuperSport-4" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AL: SuperSport 4" tvg-logo="http://nextgen-iptv.com/logo/SuperSport4_ALB.png" group-title="Sports",AL: SuperSport 4
-http://video.bossna-caffe.com:80/live.ts?channelId=376&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="HBO" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="HBO Adria" tvg-logo="http://nextgen-iptv.com/logo/hbo.png" group-title="Movies",HBO Adria
-http://video.bossna-caffe.com:80/live.ts?channelId=34&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="HBOComedy" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="HBO 2" tvg-logo="http://nextgen-iptv.com/logo/hbo2.png" group-title="Movies",HBO 2
-http://video.bossna-caffe.com:80/live.ts?channelId=35&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="HBO3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="http://nextgen-iptv.com/logo/hbo3.png" group-title="Movies",HBO 3
-http://video.bossna-caffe.com:80/live.ts?channelId=791&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CinestarTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinestar TV" tvg-logo="http://nextgen-iptv.com/logo/CineStarTV_HR.png" group-title="Movies",Cinestar TV
-http://video.bossna-caffe.com:80/live.ts?channelId=302&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" group-title="Movies",Cinestar Premiere
-http://video.bossna-caffe.com:80/live.ts?channelId=71&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinestar Premiere 2" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere2_HR.png" group-title="Movies",Cinestar Premiere 2
-http://video.bossna-caffe.com:80/live.ts?channelId=244&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CineStarAT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinestar Action & Thriller" tvg-logo="http://nextgen-iptv.com/logo/CineStarAction_HR.png" group-title="Movies",Cinestar Action & Thriller
-http://video.bossna-caffe.com:80/live.ts?channelId=410&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cinestar Fantasy (Test)" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinestar Fantasy (Test)" tvg-logo="" group-title="Movies",Cinestar Fantasy (Test)
-http://video.bossna-caffe.com:80/live.ts?channelId=1189&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FilmBoxPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FilmBox Plus" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png" group-title="Movies",FilmBox Plus
-http://video.bossna-caffe.com:80/live.ts?channelId=991&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FilmBoxExtra" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FilmBox Extra" tvg-logo="http://nextgen-iptv.com/logo/filmbox%20extra.png" group-title="Movies",FilmBox Extra
-http://video.bossna-caffe.com:80/live.ts?channelId=956&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cinemax" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinemax" tvg-logo="http://nextgen-iptv.com/logo/Cinemax_HR.png" group-title="Movies",Cinemax
-http://video.bossna-caffe.com:80/live.ts?channelId=14&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cinemax2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Cinemax 2" tvg-logo="http://nextgen-iptv.com/logo/Cinemax2_HR.png" group-title="Movies",Cinemax 2
-http://video.bossna-caffe.com:80/live.ts?channelId=13&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="M1FILM" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="M1 Film" tvg-logo="http://nextgen-iptv.com/logo/M1Film_HR.png" group-title="Movies",M1 Film
-http://video.bossna-caffe.com:80/live.ts?channelId=610&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="KinoTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Kino TV" tvg-logo="http://film-mag.net/wp/wp-content/uploads/2013/03/discovery_kino_tv2.jpg" group-title="Movies",Kino TV
-http://video.bossna-caffe.com:80/live.ts?channelId=611&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="AXN" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="AXN" tvg-logo="http://nextgen-iptv.com/logo/AXN_HR.png" group-title="Movies",AXN
-http://video.bossna-caffe.com:80/live.ts?channelId=604&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TV1000" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="TV 1000" tvg-logo="http://nextgen-iptv.com/logo/TV1000_HR.png" group-title="Movies",TV 1000
-http://video.bossna-caffe.com:80/live.ts?channelId=608&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FOXYU" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX" tvg-logo="http://nextgen-iptv.com/logo/FOX_HR.png" group-title="Movies",FOX
-http://video.bossna-caffe.com:80/live.ts?channelId=31&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FoxMovies" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Movies" tvg-logo="http://nextgen-iptv.com/logo/FOXMovies_HR.png" group-title="Movies",FOX Movies
-http://video.bossna-caffe.com:80/live.ts?channelId=33&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FoxLife" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Life" tvg-logo="http://nextgen-iptv.com/logo/FOXLife_HR.png" group-title="Movies",FOX Life
-http://video.bossna-caffe.com:80/live.ts?channelId=313&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FoxCrime" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Crime" tvg-logo="http://nextgen-iptv.com/logo/FOXCrime_HR.png" group-title="Movies",FOX Crime
-http://video.bossna-caffe.com:80/live.ts?channelId=32&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyAction" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky Movies Action & Adventure" tvg-logo="http://nextgen-iptv.com/logo/SkyMoviesAction&Adventure_UK.png" group-title="Movies",UK: Sky Movies Action & Adventure
-http://video.bossna-caffe.com:80/live.ts?channelId=171&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sci Fi" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sci Fi" tvg-logo="" group-title="Movies",Sci Fi
-http://video.bossna-caffe.com:80/live.ts?channelId=1207&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Film Klub" tvg-link="" tvg-name="Film Klub" tvg-logo="" group-title="Movies",Film Klub
-http://video.bossna-caffe.com:80/live.ts?channelId=1426&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Film Klub Extra (Test)" tvg-link="" tvg-name="Film Klub Extra (Test)" tvg-logo="" group-title="Movies",Film Klub Extra (Test)
-http://video.bossna-caffe.com:80/live.ts?channelId=1427&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OYO Cinema" tvg-link="" tvg-name="OYO Cinema" tvg-logo="" group-title="Movies",OYO Cinema
-http://video.bossna-caffe.com:80/live.ts?channelId=1428&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OYO Family" tvg-link="" tvg-name="OYO Family" tvg-logo="" group-title="Movies",OYO Family
-http://video.bossna-caffe.com:80/live.ts?channelId=1429&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="National Geographic" tvg-logo="http://nextgen-iptv.com/logo/NationalGeographic_HR.png" group-title="Documentary",National Geographic
-http://video.bossna-caffe.com:80/live.ts?channelId=72&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Nat Geo Wild" tvg-logo="http://nextgen-iptv.com/logo/NatGeoWild_EU.png" group-title="Documentary",Nat Geo Wild
-http://video.bossna-caffe.com:80/live.ts?channelId=792&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Discovery Channel" tvg-logo="http://nextgen-iptv.com/logo/DiscoveryChannel_HR.png" group-title="Documentary",Discovery Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=27&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Discovery Science (Test)" tvg-link="" tvg-name="Discovery Science (Test)" tvg-logo="" group-title="Documentary",Discovery Science (Test)
-http://video.bossna-caffe.com:80/live.ts?channelId=1431&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="HistoryChannel" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="History Channel" tvg-logo="http://nextgen-iptv.com/logo/HistoryChannel_HR.png" group-title="Documentary",History Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=36&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="History2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="History Channel 2" tvg-logo="http://nextgen-iptv.com/logo/history2.png" group-title="Documentary",History Channel 2
-http://video.bossna-caffe.com:80/live.ts?channelId=617&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Animal Planet" tvg-logo="http://nextgen-iptv.com/logo/AnimalPlanet_HR.png" group-title="Documentary",Animal Planet
-http://video.bossna-caffe.com:80/live.ts?channelId=1&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ViasatExplorer" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Viasat Explorer" tvg-logo="http://nextgen-iptv.com/logo/viasatexplorer.png" group-title="Documentary",Viasat Explorer
-http://video.bossna-caffe.com:80/live.ts?channelId=606&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ViasatHistory" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Viasat History" tvg-logo="http://nextgen-iptv.com/logo/viasathistory.png" group-title="Documentary",Viasat History
-http://video.bossna-caffe.com:80/live.ts?channelId=607&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-link="" tvg-name="Viasat Nature" tvg-logo="" group-title="Documentary",Viasat Nature
-http://video.bossna-caffe.com:80/live.ts?channelId=1430&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BBC Earth (Test)" tvg-link="" tvg-name="BBC Earth (Test)" tvg-logo="" group-title="Documentary",BBC Earth (Test)
-http://video.bossna-caffe.com:80/live.ts?channelId=1432&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DiscoveryID" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Investigation Discovery" tvg-logo="http://nextgen-iptv.com/logo/discovery%20id%20poland.png" group-title="Documentary",Investigation Discovery
-http://video.bossna-caffe.com:80/live.ts?channelId=185&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IDXtra" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="ID Xtra" tvg-logo="" group-title="Documentary",ID Xtra
-http://video.bossna-caffe.com:80/live.ts?channelId=627&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="EEntertainment" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="E!" tvg-logo="http://nextgen-iptv.com/logo/E!_HR.png" group-title="Documentary",E!
-http://video.bossna-caffe.com:80/live.ts?channelId=266&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DiscoveryTLC" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="TLC" tvg-logo="http://nextgen-iptv.com/logo/TLC_EU.png" group-title="Documentary",TLC
-http://video.bossna-caffe.com:80/live.ts?channelId=133&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="ComedyExtra" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Comedy Central Extra" tvg-logo="http://nextgen-iptv.com/logo/comedycentral.png" group-title="Documentary",Comedy Central Extra
-http://video.bossna-caffe.com:80/live.ts?channelId=618&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="24Kitchen" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="24 Kitchen" tvg-logo="http://nextgen-iptv.com/logo/24Kitchen_HR.png" group-title="Documentary",24 Kitchen
-http://video.bossna-caffe.com:80/live.ts?channelId=209&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="LovRibolov" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Lov i Ribolov" tvg-logo="http://nextgen-iptv.com/logo/LoviRibolov_HR.png" group-title="Documentary",Lov i Ribolov
-http://video.bossna-caffe.com:80/live.ts?channelId=265&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Travel Channel" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Travel Channel" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" group-title="Documentary",Travel Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=1190&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Adria" tvg-logo="http://nextgen-iptv.com/logo/MTVAdria_HR.png" group-title="Music",MTV Adria
-http://video.bossna-caffe.com:80/live.ts?channelId=296&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MTVDance" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Dance" tvg-logo="http://nextgen-iptv.com/logo/MTVDance_EU.png" group-title="Music",MTV Dance
-http://video.bossna-caffe.com:80/live.ts?channelId=297&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MTV Music" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Music" tvg-logo="" group-title="Music",MTV Music
-http://video.bossna-caffe.com:80/live.ts?channelId=1230&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MTV Base" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Base" tvg-logo="" group-title="Music",MTV Base
-http://video.bossna-caffe.com:80/live.ts?channelId=1231&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Rocks" tvg-logo="" group-title="Music",MTV Rocks
-http://video.bossna-caffe.com:80/live.ts?channelId=1232&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MTV Classic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
-http://video.bossna-caffe.com:80/live.ts?channelId=1233&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MTV Hits" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="MTV Hits" tvg-logo="" group-title="Music",MTV Hits
-http://video.bossna-caffe.com:80/live.ts?channelId=1234&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="VH1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="VH1" tvg-logo="http://nextgen-iptv.com/logo/VH1_EU.png" group-title="Music",VH1
-http://video.bossna-caffe.com:80/live.ts?channelId=290&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DMSAT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="DM Sat" tvg-logo="http://nextgen-iptv.com/logo/DMSat_SRB.png" group-title="Music",DM Sat
-http://video.bossna-caffe.com:80/live.ts?channelId=444&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BNMusic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="BN Music" tvg-logo="http://nextgen-iptv.com/logo/BNMusic_BiH.png" group-title="Music",BN Music
-http://video.bossna-caffe.com:80/live.ts?channelId=86&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BALKANIKA" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Balkanika" tvg-logo="http://nextgen-iptv.com/logo/balkanika-logo.png" group-title="Music",Balkanika
-http://video.bossna-caffe.com:80/live.ts?channelId=1126&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CMC" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="CMC" tvg-logo="http://nextgen-iptv.com/logo/cmc.png" group-title="Music",CMC
-http://video.bossna-caffe.com:80/live.ts?channelId=177&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="HayatFolk" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayat Folk" tvg-logo="http://nextgen-iptv.com/logo/HayatFolk_BiH.png" group-title="Music",Hayat Folk
-http://video.bossna-caffe.com:80/live.ts?channelId=156&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="HayatMusic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayat Music" tvg-logo="http://nextgen-iptv.com/logo/Hayat_BiH.png" group-title="Music",Hayat Music
-http://video.bossna-caffe.com:80/live.ts?channelId=1125&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="GrandNarodnaTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Grand Narodna TV" tvg-logo="http://nextgen-iptv.com/logo/GrandTV_SRB.png" group-title="Music",Grand Narodna TV
-http://video.bossna-caffe.com:80/live.ts?channelId=93&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Grand TV 2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Grand TV 2" tvg-logo="https://4.bp.blogspot.com/-hsRI6ekV32s/VzCzKQjpM2I/AAAAAAAAEkw/SVKZ7EJEqL4P7ZO5dJHMrYhdxDRxFebyQCLcB/s1600/GRAND%2B2%2B1.PNG" group-title="Music",Grand TV 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1211&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IDJ TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="IDJ TV" tvg-logo="http://www.idjdigital.com/en/img/services/idjtv.jpg" group-title="Music",IDJ TV
-http://video.bossna-caffe.com:80/live.ts?channelId=1223&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PinkFolk" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Pink Folk 1" tvg-logo="http://nextgen-iptv.com/logo/PinkFolk1_SRB.png" group-title="Music",Pink Folk 1
-http://video.bossna-caffe.com:80/live.ts?channelId=83&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PinkFolk2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Pink Folk 2" tvg-logo="http://nextgen-iptv.com/logo/PinkFolk2_SRB.png" group-title="Music",Pink Folk 2
-http://video.bossna-caffe.com:80/live.ts?channelId=295&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PinkMusic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Pink Music" tvg-logo="http://nextgen-iptv.com/logo/PinkMusic_SRB.png" group-title="Music",Pink Music
-http://video.bossna-caffe.com:80/live.ts?channelId=294&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="JugotonTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Jugoton TV" tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png" group-title="Music",Jugoton TV
-http://video.bossna-caffe.com:80/live.ts?channelId=609&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="YU Planet" tvg-link="" tvg-name="YU Planet" tvg-logo="" group-title="Music",YU Planet
-http://video.bossna-caffe.com:80/live.ts?channelId=1470&deviceUser=tomas&devicePass=tomas&uid=35964
-
-#EXTINF:-1 tvg-id="RTLKockica" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="RTL Kockica" tvg-logo="http://nextgen-iptv.com/logo/RTLKockica_HR.png" group-title="Children",RTL Kockica
-http://video.bossna-caffe.com:80/live.ts?channelId=264&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Nickelodeon" tvg-logo="http://nextgen-iptv.com/logo/Nickelodeon_HR.png" group-title="Children",Nickelodeon
-http://video.bossna-caffe.com:80/live.ts?channelId=299&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="NickJR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Nick Jr." tvg-logo="http://nextgen-iptv.com/logo/nick%20jr.png" group-title="Children",Nick Jr.
-http://video.bossna-caffe.com:80/live.ts?channelId=626&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="MiniTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Mini TV" tvg-logo="http://nextgen-iptv.com/logo/MiniTV_HR.png" group-title="Children",Mini TV
-http://video.bossna-caffe.com:80/live.ts?channelId=154&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Hayatovci" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayatovci" tvg-logo="http://nextgen-iptv.com/logo/Hayatovci_BiH.png" group-title="Children",Hayatovci
-http://video.bossna-caffe.com:80/live.ts?channelId=248&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DisneyJunior" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Disney Jr.Uk" tvg-logo="http://nextgen-iptv.com/logo/DisneyJunior_EU.png" group-title="Children",Disney Jr.Uk
-http://video.bossna-caffe.com:80/live.ts?channelId=298&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CartoonNetworkUK" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="UK: Cartoon Network" tvg-logo="http://nextgen-iptv.com/logo/cartoon%20netwrk.png" group-title="Children",UK: Cartoon Network
-http://video.bossna-caffe.com:80/live.ts?channelId=232&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Minimax" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Minimax" tvg-logo="http://nextgen-iptv.com/logo/Minimax_SRB.png" group-title="Children",Minimax
-http://video.bossna-caffe.com:80/live.ts?channelId=1127&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DisneyXD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Disney XD" tvg-logo="http://nextgen-iptv.com/logo/DisneyXD_EU.png" group-title="Children",Disney XD
-http://video.bossna-caffe.com:80/live.ts?channelId=1128&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DisneyCinemagic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Disney Cinemagic DE" tvg-logo="http://nextgen-iptv.com/logo/disney%20cinemagic.png" group-title="Children",Disney Cinemagic DE
-http://video.bossna-caffe.com:80/live.ts?channelId=1129&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Baby TV" tvg-logo="http://www.igreklik.com/slike/images/27387835114191397399.jpg" group-title="Children",Baby TV
-http://video.bossna-caffe.com:80/live.ts?channelId=1156&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DE: Disney" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="DE: Disney" tvg-logo="" group-title="Children",DE: Disney
-http://video.bossna-caffe.com:80/live.ts?channelId=1172&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DE: Nickelodeon" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="DE: Nickelodeon" tvg-logo="" group-title="Children",DE: Nickelodeon
-http://video.bossna-caffe.com:80/live.ts?channelId=1174&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Ultra TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Ultra TV" tvg-logo="http://nextgen-iptv.com/logo/UltraEurope_HR.png" group-title="Children",Ultra TV
-http://video.bossna-caffe.com:80/live.ts?channelId=996&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS NEWS HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24979
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24980
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 1 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13688
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP1
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13687
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13686
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP2
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 3 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13684
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP3
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13683
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 4 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13682
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP4
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13681
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 5 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13680
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP5
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13679
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 6 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13678
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP6
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13677
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 7 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13676
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 8 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13674
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP8
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13673
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 9 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13672
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 9 BKP
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13587
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 10 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13670
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS BKP10
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13669
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS HD11
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24977
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS HD13
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/21202
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS MAX 1.HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28065
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS MAX 1 BKP
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13667
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT MAX 2 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28687
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT MAX 3 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28686
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS MAX 3.HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28432
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS MAX 3 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28430
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT MAX 4 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 3 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13609
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 4 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13608
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 5 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13607
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 6 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13606
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 7 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13605
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 8 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13604
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 9 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13603
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORT 10 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13602
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 1  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13601
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 2  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13612
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 3  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13613
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 4  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13614
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 5  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13615
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 6  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13616
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 7 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13617
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 8 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13618
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 9  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13641
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx9Mxxzs/be_IN_Sport.png" group-title="beIN Sports",BEINSPORTS 10  SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13642
 
 
-#EXTINF:-1 tvg-id="RTEOne" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: RTE One" tvg-logo="http://nextgen-iptv.com/logo/rte%20one.png" group-title="UK",RTE One
-http://video.bossna-caffe.com:80/live.ts?channelId=620&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="RTETwo" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: RTE Two" tvg-logo="http://nextgen-iptv.com/logo/rte%20two.png" group-title="UK",RTE Two
-http://video.bossna-caffe.com:80/live.ts?channelId=621&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Sky1.uk" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky One" tvg-logo="http://nextgen-iptv.com/Logos/int/sky_uk_1.png" group-title="UK",Sky One
-http://video.bossna-caffe.com:80/live.ts?channelId=472&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IDUK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Investigation Discovery" tvg-logo="http://nextgen-iptv.com/logo/discovery%20id%20poland.png" group-title="UK",Investigation Discovery
-http://video.bossna-caffe.com:80/live.ts?channelId=137&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DiscTurboUK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Discovery Turbo" tvg-logo="http://nextgen-iptv.com/Logos/int/discovery_turbo_us.png" group-title="UK",Discovery Turbo
-http://video.bossna-caffe.com:80/live.ts?channelId=474&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CNN" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: CNN" tvg-logo="http://nextgen-iptv.com/logo/CNN_EU.png" group-title="UK",CNN
-http://video.bossna-caffe.com:80/live.ts?channelId=346&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyNewsUK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky News" tvg-logo="http://nextgen-iptv.com/logo/SkyNews_UK.png" group-title="UK",Sky News
-http://video.bossna-caffe.com:80/live.ts?channelId=344&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BBCOne" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BBC One" tvg-logo="http://nextgen-iptv.com/logo/BBCOne_UK.png" group-title="UK",BBC One
-http://video.bossna-caffe.com:80/live.ts?channelId=1130&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BBCTwo" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="BBC Two UK" tvg-logo="http://nextgen-iptv.com/logo/BBCTwo_UK.png" group-title="UK",BBC Two UK
-http://video.bossna-caffe.com:80/live.ts?channelId=1131&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BBCThree" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BBC Three" tvg-logo="http://nextgen-iptv.com/logo/BBCThree_UK.png" group-title="UK",BBC Three
-http://video.bossna-caffe.com:80/live.ts?channelId=1132&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="BBCFour" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BBC Four" tvg-logo="http://nextgen-iptv.com/logo/BBCFour_UK.png" group-title="UK",BBC Four
-http://video.bossna-caffe.com:80/live.ts?channelId=1133&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DiscScienceUK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Discovery Science" tvg-logo="http://nextgen-iptv.com/logo/d.%20science.png" group-title="UK",Discovery Science
-http://video.bossna-caffe.com:80/live.ts?channelId=1134&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyPremiere" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Movies Premiere UK" tvg-logo="http://nextgen-iptv.com/logo/SkyMoviesPremiere_UK.png" group-title="UK",Sky Movies Premiere UK
-http://video.bossna-caffe.com:80/live.ts?channelId=1135&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyFamily" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky Movies Family" tvg-logo="http://nextgen-iptv.com/logo/SkyMoviesFamily_UK.png" group-title="UK",Sky Movies Family
-http://video.bossna-caffe.com:80/live.ts?channelId=1136&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyDramaRom" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Movies Drama & Romance" tvg-logo="http://i.imgur.com/bgyrFrP.jpg" group-title="UK",Sky Movies Drama & Romance
-http://video.bossna-caffe.com:80/live.ts?channelId=1137&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="UK: Sky Movies Greats" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Sky Movies Greats" tvg-logo="http://i.imgur.com/61VYCv6.png" group-title="UK",Sky Movies Greats
-http://video.bossna-caffe.com:80/live.ts?channelId=1138&deviceUser=tomas&devicePass=tomas&uid=35964
 
-#EXTINF:-1 tvg-id="IT: Fox Life" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Fox Life" tvg-logo="http://nextgen-iptv.com/logo/fox%20life%20france.png" group-title="Italy",Fox Life
-http://video.bossna-caffe.com:80/live.ts?channelId=512&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyCinemaFamilyHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Cinema Family" tvg-logo="http://nextgen-iptv.com/logo/cinema%20family%20hd.png" group-title="Italy",Sky Cinema Family
-http://video.bossna-caffe.com:80/live.ts?channelId=513&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="NatGe WildIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Nat Geo Wild" tvg-logo="http://nextgen-iptv.com/logo/nat%20geo%20wild%20hd.png" group-title="Italy",Nat Geo Wild
-http://video.bossna-caffe.com:80/live.ts?channelId=514&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyCinema1IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Cinema" tvg-logo="http://nextgen-iptv.com/logo/sky%20cinema%20hd.png" group-title="Italy",Sky Cinema
-http://video.bossna-caffe.com:80/live.ts?channelId=516&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="RsiLa1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: RSI La1" tvg-logo="http://nextgen-iptv.com/logo/rsi%20la1.png" group-title="Italy",RSI La1
-http://video.bossna-caffe.com:80/live.ts?channelId=517&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Rai1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Rai 1" tvg-logo="http://nextgen-iptv.com/logo/Rai1_IT.png" group-title="Italy",Rai 1
-http://video.bossna-caffe.com:80/live.ts?channelId=518&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IT: Rai 2" tvg-link="" tvg-name="IT: Rai 2" tvg-logo="https://pbs.twimg.com/profile_images/775227668077969408/Xy-ANDmX.jpg" group-title="Italy",Rai 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1245&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IT: Rai 3" tvg-link="" tvg-name="IT: Rai 3" tvg-logo="https://pbs.twimg.com/profile_images/819617646467543040/iZZZRtRs_400x400.jpg" group-title="Italy",Rai 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1246&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyCinemaCultHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Cinema Cult" tvg-logo="https://i.ytimg.com/vi/w7I6Yp5N8Uw/maxresdefault.jpg" group-title="Italy",Sky Cinema Cult
-http://video.bossna-caffe.com:80/live.ts?channelId=519&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyAtlanticHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Atlantic" tvg-logo="http://nextgen-iptv.com/logo/sky%20atlantic%20hd.png" group-title="Italy",Sky Atlantic
-http://video.bossna-caffe.com:80/live.ts?channelId=520&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PremiumSportHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Premium Sport" tvg-logo="http://nextgen-iptv.com/logo/premiumsport.png" group-title="Italy",Premium Sport
-http://video.bossna-caffe.com:80/live.ts?channelId=521&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkySportF1IT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Sport F1" tvg-logo="http://nextgen-iptv.com/logo/SkySportF1_IT.png" group-title="Italy",Sky Sport F1
-http://video.bossna-caffe.com:80/live.ts?channelId=522&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyCinemaComedyHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Cinema Comedy" tvg-logo="http://nextgen-iptv.com/logo/sky%20comedy%20hd.png" group-title="Italy",Sky Cinema Comedy
-http://video.bossna-caffe.com:80/live.ts?channelId=523&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PremiumJoi" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Premium JOI" tvg-logo="http://nextgen-iptv.com/logo/joi%20-%20premium.png" group-title="Italy",Premium JOI
-http://video.bossna-caffe.com:80/live.ts?channelId=524&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PremiumCinema2HD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Premium Cinema 2" tvg-logo="http://nextgen-iptv.com/logo/PremiumCinema2.png" group-title="Italy",Premium Cinema 2
-http://video.bossna-caffe.com:80/live.ts?channelId=527&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PremiumCalcioIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Premium Calcio" tvg-logo="http://nextgen-iptv.com/logo/premium%20calcio%201.png" group-title="Italy",Premium Calcio
-http://video.bossna-caffe.com:80/live.ts?channelId=528&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="SkyCinemaMaxIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Cinema Max" tvg-logo="http://nextgen-iptv.com/logo/cinema%20max%20hd.png" group-title="Italy",Sky Cinema Max
-http://video.bossna-caffe.com:80/live.ts?channelId=530&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PremiumCrimeHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Premium Crime" tvg-logo="http://nextgen-iptv.com/logo/Logo_Premium_Crime.png" group-title="Italy",Premium Crime
-http://video.bossna-caffe.com:80/live.ts?channelId=531&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="PremiumActionHD" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Premium Action" tvg-logo="http://nextgen-iptv.com/logo/sky%20action.png" group-title="Italy",Premium Action
-http://video.bossna-caffe.com:80/live.ts?channelId=532&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="IT: Sky Calcio 2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Sky Calcio 2" tvg-logo="http://nextgen-iptv.com/logo/sky%20calcio%202.png" group-title="Italy",Sky Calcio 2
-http://video.bossna-caffe.com:80/live.ts?channelId=534&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DisneyJuniorIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Disney Jr." tvg-logo="http://nextgen-iptv.com/logo/DisneyJunior_EU.png" group-title="Italy",Disney Jr.
-http://video.bossna-caffe.com:80/live.ts?channelId=547&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DisneyChannelIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Disney XD" tvg-logo="http://nextgen-iptv.com/logo/DisneyXD_EU.png" group-title="Italy",Disney XD
-http://video.bossna-caffe.com:80/live.ts?channelId=548&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CartoonNetworkIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Cartoon Network" tvg-logo="http://nextgen-iptv.com/logo/cartoon%20netwrk.png" group-title="Italy",Cartoon Network
-http://video.bossna-caffe.com:80/live.ts?channelId=549&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="HistoryChannelIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Italy",History Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=550&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DiscoveryChannelIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="IT: Discovery Channel" tvg-logo="http://nextgen-iptv.com/logo/DiscoveryChannel_DE.png" group-title="Italy",Discovery Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=554&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DMAXIT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="DMAX IT" tvg-logo="http://nextgen-iptv.com/logo/dmax.png" group-title="Italy",DMAX IT
-http://video.bossna-caffe.com:80/live.ts?channelId=556&deviceUser=tomas&devicePass=tomas&uid=35964
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT NEWS FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/35031
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 1FHD
+http://iptvpro.premium-itv.com:8789/@LzXwP3U4Q7@GGv3m7qb9J/Bzn3TSZ1m8iR7v3m7qb9J@LrciES7D/41001
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 1HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32718
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 1 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/39589
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 2FHD
+http://iptvpro.premium-itv.com:8789/@LzXwP3U4Q7@GGv3m7qb9J/Bzn3TSZ1m8iR7v3m7qb9J@LrciES7D/41000
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 2HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32719
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 2 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/39588
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 3FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32715
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 3HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32720
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 3 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/39587
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 4FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32716
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 4HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32721
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT 4 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/39586
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 5 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/32717
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 6 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37941
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 7 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37940
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 8 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37939
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 9 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37938
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 10 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37937
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 11 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37936
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 12 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37935
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 13 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37934
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 14 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37933
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 15 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37932
+#EXTINF:-1 tvg-logo="" group-title="Sports France",RMC SPORT LIVE 16 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/35340
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORTS 1 F.HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14160
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORTS 1 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28941
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORT 1 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/92
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORTS 2 F.HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14159
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORTS 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28943
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORT 2 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/93
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORTS 3 F.HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14158
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORTS 3 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14163
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORT MAX 4
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/95
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORT MAX 6
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/1089
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORT MAX 7
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/1113
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BEINSPORT MAX 9
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/1469
+#EXTINF:-1 tvg-logo="" group-title="Sports France",CANAL+ SPORT F.HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14156
+#EXTINF:-1 tvg-logo="" group-title="Sports France",CANAL+ SPORT HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14161
+#EXTINF:-1 tvg-logo="" group-title="Sports France",FOOT+
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13937
+#EXTINF:-1 tvg-logo="" group-title="Sports France",ONZEO FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13786
+#EXTINF:-1 tvg-logo="" group-title="Sports France",BFM HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13839
+#EXTINF:-1 tvg-logo="" group-title="Sports France",INFOSPORT FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13729
+#EXTINF:-1 tvg-logo="" group-title="Sports France",LEQUIPE 21 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13728
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EQUIPE 21 SD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/1023
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EXTREME SPORTS
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13740
+#EXTINF:-1 tvg-logo="" group-title="Sports France",AUTOMOTO  HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/1035
+#EXTINF:-1 tvg-logo="" group-title="Sports France",MOTORSPORT HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13782
+#EXTINF:-1 tvg-logo="" group-title="Sports France",MOTORSPORT FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13722
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EUROSPORT 1 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13742
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EUROSPORT1 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14011
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EUROSPORT 2 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13741
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EQUIDIA LIVE FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13743
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EQUIDIA LIVE HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14012
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EQUIDIA LIFE FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13744
+#EXTINF:-1 tvg-logo="" group-title="Sports France",EQUIDIA LIFE HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14013
+#EXTINF:-1 tvg-logo="" group-title="Sports France",FRANCE O
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/89
+#EXTINF:-1 tvg-logo="" group-title="Sports France",LUCKY JACK HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42548
+#EXTINF:-1 tvg-logo="" group-title="Sports France",GOLF+ FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13734
+#EXTINF:-1 tvg-logo="" group-title="Sports France",GOLF CHANNELS HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13977
 
-#EXTINF:-1 tvg-id="TF1FR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: TF1" tvg-logo="http://nextgen-iptv.com/logo/tf1.png" group-title="France",TF1
-http://video.bossna-caffe.com:80/live.ts?channelId=944&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="M6FR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: M6" tvg-logo="http://nextgen-iptv.com/logo/m6%20hd.png" group-title="France",M6
-http://video.bossna-caffe.com:80/live.ts?channelId=945&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="RTL9FR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: RTL9" tvg-logo="http://nextgen-iptv.com/logo/rtl9.png" group-title="France",RTL9
-http://video.bossna-caffe.com:80/live.ts?channelId=948&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CANALPLUSCINEMAFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="CANAL+ Cinéma" tvg-logo="http://nextgen-iptv.com/logo/canal+%20cinema.png" group-title="France",CANAL+ Cinéma
-http://video.bossna-caffe.com:80/live.ts?channelId=947&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CANALPLUSDECALEFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: CANAL+ Décalé" tvg-logo="http://nextgen-iptv.com/logo/canal+%20decale.png" group-title="France",CANAL+ Décalé
-http://video.bossna-caffe.com:80/live.ts?channelId=1203&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="CINEPLUSFRISSONFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: Cine+ Frisson" tvg-logo="http://nextgen-iptv.com/logo/c%20cinema%20frisson.png" group-title="France",Cine+ Frisson
-http://video.bossna-caffe.com:80/live.ts?channelId=954&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="DISCOVERYFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: Discovery Channel" tvg-logo="http://nextgen-iptv.com/logo/discovery%20channel.png" group-title="France",Discovery Channel
-http://video.bossna-caffe.com:80/live.ts?channelId=950&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="NATGEOFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: National Geographic" tvg-logo="http://nextgen-iptv.com/logo/NationalGeographic_HR.png" group-title="France",National Geographic
-http://video.bossna-caffe.com:80/live.ts?channelId=951&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TMCFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TMC FR" tvg-logo="http://nextgen-iptv.com/logo/tmc.png" group-title="France",TMC FR
-http://video.bossna-caffe.com:80/live.ts?channelId=952&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="AB1FR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AB1 FR" tvg-logo="http://nextgen-iptv.com/logo/ab1.png" group-title="France",AB1 FR
-http://video.bossna-caffe.com:80/live.ts?channelId=953&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="EUROSPORTFR" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: Eurosport 1" tvg-logo="http://nextgen-iptv.com/logo/Eurosport_EN.png" group-title="France",Eurosport 1
-http://video.bossna-caffe.com:80/live.ts?channelId=949&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FRANCE2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: France 2" tvg-logo="http://nextgen-iptv.com/logo/France2_FR.png" group-title="France",France 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1201&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="FRANCE3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FR: France 3" tvg-logo="http://nextgen-iptv.com/logo/France3_FR.png" group-title="France",France 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1202&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="AB1" tvg-link="" tvg-name="AB1" tvg-logo="" group-title="France",AB1
-http://video.bossna-caffe.com:80/live.ts?channelId=1351&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="AB3" tvg-link="" tvg-name="AB3" tvg-logo="" group-title="France",AB3
-http://video.bossna-caffe.com:80/live.ts?channelId=1352&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Canal+" tvg-link="" tvg-name="Canal+" tvg-logo="" group-title="France",Canal+
-http://video.bossna-caffe.com:80/live.ts?channelId=1354&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Canal+ Cinema" tvg-link="" tvg-name="Canal+ Cinema" tvg-logo="" group-title="France",Canal+ Cinema
-http://video.bossna-caffe.com:80/live.ts?channelId=1355&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Canal+ Decale" tvg-link="" tvg-name="Canal+ Decale" tvg-logo="" group-title="France",Canal+ Decale
-http://video.bossna-caffe.com:80/live.ts?channelId=1356&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-link="" tvg-name="Canal+ Family" tvg-logo="" group-title="France",Canal+ Family
-http://video.bossna-caffe.com:80/live.ts?channelId=1357&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Canal+ Series" tvg-link="" tvg-name="Canal+ Series" tvg-logo="" group-title="France",Canal+ Series
-http://video.bossna-caffe.com:80/live.ts?channelId=1358&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Classic" tvg-link="" tvg-name="Cine+ Classic" tvg-logo="" group-title="France",Cine+ Classic
-http://video.bossna-caffe.com:80/live.ts?channelId=1360&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Club" tvg-link="" tvg-name="Cine+ Club" tvg-logo="" group-title="France",Cine+ Club
-http://video.bossna-caffe.com:80/live.ts?channelId=1361&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Comedie" tvg-link="" tvg-name="Cine+ Comedie" tvg-logo="" group-title="France",Cine+ Comedie
-http://video.bossna-caffe.com:80/live.ts?channelId=1362&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Emotion" tvg-link="" tvg-name="Cine+ Emotion" tvg-logo="" group-title="France",Cine+ Emotion
-http://video.bossna-caffe.com:80/live.ts?channelId=1363&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Famiz" tvg-link="" tvg-name="Cine+ Famiz" tvg-logo="" group-title="France",Cine+ Famiz
-http://video.bossna-caffe.com:80/live.ts?channelId=1364&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Frission" tvg-link="" tvg-name="Cine+ Frission" tvg-logo="" group-title="France",Cine+ Frission
-http://video.bossna-caffe.com:80/live.ts?channelId=1365&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ FX" tvg-link="" tvg-name="Cine+ FX" tvg-logo="" group-title="France",Cine+ FX
-http://video.bossna-caffe.com:80/live.ts?channelId=1366&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Polar" tvg-link="" tvg-name="Cine+ Polar" tvg-logo="" group-title="France",Cine+ Polar
-http://video.bossna-caffe.com:80/live.ts?channelId=1367&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Premier" tvg-link="" tvg-name="Cine+ Premier" tvg-logo="" group-title="France",Cine+ Premier
-http://video.bossna-caffe.com:80/live.ts?channelId=1368&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Cine+ Star" tvg-link="" tvg-name="Cine+ Star" tvg-logo="" group-title="France",Cine+ Star
-http://video.bossna-caffe.com:80/live.ts?channelId=1369&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Discovery FR" tvg-link="" tvg-name="Discovery FR" tvg-logo="" group-title="France",Discovery FR
-http://video.bossna-caffe.com:80/live.ts?channelId=1370&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Disney Channel FR" tvg-link="" tvg-name="Disney Channel FR" tvg-logo="" group-title="France",Disney Channel FR
-http://video.bossna-caffe.com:80/live.ts?channelId=1371&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Disney Cinema FR" tvg-link="" tvg-name="Disney Cinema FR" tvg-logo="" group-title="France",Disney Cinema FR
-http://video.bossna-caffe.com:80/live.ts?channelId=1372&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Disney Junior FR" tvg-link="" tvg-name="Disney Junior FR" tvg-logo="" group-title="France",Disney Junior FR
-http://video.bossna-caffe.com:80/live.ts?channelId=1373&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="France 2" tvg-link="" tvg-name="France 2" tvg-logo="" group-title="France",France 2
-http://video.bossna-caffe.com:80/live.ts?channelId=1374&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="France 24" tvg-link="" tvg-name="France 24" tvg-logo="" group-title="France",France 24
-http://video.bossna-caffe.com:80/live.ts?channelId=1375&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="France 3" tvg-link="" tvg-name="France 3" tvg-logo="" group-title="France",France 3
-http://video.bossna-caffe.com:80/live.ts?channelId=1376&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="France 4" tvg-link="" tvg-name="France 4" tvg-logo="" group-title="France",France 4
-http://video.bossna-caffe.com:80/live.ts?channelId=1377&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="France 5" tvg-link="" tvg-name="France 5" tvg-logo="" group-title="France",France 5
-http://video.bossna-caffe.com:80/live.ts?channelId=1378&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="France O" tvg-link="" tvg-name="France O" tvg-logo="" group-title="France",France O
-http://video.bossna-caffe.com:80/live.ts?channelId=1379&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Histoire" tvg-link="" tvg-name="Histoire" tvg-logo="" group-title="France",Histoire
-http://video.bossna-caffe.com:80/live.ts?channelId=1380&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="Nati Geo Wild FR" tvg-link="" tvg-name="Nati Geo Wild FR" tvg-logo="" group-title="France",Nati Geo Wild FR
-http://video.bossna-caffe.com:80/live.ts?channelId=1381&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="National Geographic FR" tvg-link="" tvg-name="National Geographic FR" tvg-logo="" group-title="France",National Geographic FR
-http://video.bossna-caffe.com:80/live.ts?channelId=1382&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OCS Choc" tvg-link="" tvg-name="OCS Choc" tvg-logo="" group-title="France",OCS Choc
-http://video.bossna-caffe.com:80/live.ts?channelId=1383&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OCS City" tvg-link="" tvg-name="OCS City" tvg-logo="" group-title="France",OCS City
-http://video.bossna-caffe.com:80/live.ts?channelId=1384&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OCS Geants" tvg-link="" tvg-name="OCS Geants" tvg-logo="" group-title="France",OCS Geants
-http://video.bossna-caffe.com:80/live.ts?channelId=1385&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="OCS Max" tvg-link="" tvg-name="OCS Max" tvg-logo="" group-title="France",OCS Max
-http://video.bossna-caffe.com:80/live.ts?channelId=1386&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TF1" tvg-link="" tvg-name="TF1" tvg-logo="" group-title="France",TF1
-http://video.bossna-caffe.com:80/live.ts?channelId=1387&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="TMC" tvg-link="" tvg-name="TMC" tvg-logo="" group-title="France",TMC
-http://video.bossna-caffe.com:80/live.ts?channelId=1388&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="M6" tvg-link="" tvg-name="M6" tvg-logo="" group-title="France",M6
-http://video.bossna-caffe.com:80/live.ts?channelId=1409&deviceUser=tomas&devicePass=tomas&uid=35964
-#EXTINF:-1 tvg-id="M6 Music" tvg-link="" tvg-name="M6 Music" tvg-logo="" group-title="France",M6 Music
-http://video.bossna-caffe.com:80/live.ts?channelId=1410&deviceUser=tomas&devicePass=tomas&uid=35964
+
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14108
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV1 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14102
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV1
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14107
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV2
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14106
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV4 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14099
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV4
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14104
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",SPORT TV5
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14103
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 1 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/29988
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 1 BKP
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/35371
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 2 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/29987
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 2 BKP
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/35372
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 3 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/29986
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 3 BKP
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/35373
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 4 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/29985
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 5 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/29984
+#EXTINF:-1 tvg-logo="" group-title="Sports PT",ELEVEN SPORTS 6 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/29983
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",SKY SPORT CRICKET
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23456
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",SKY SPORT GOLF HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23454
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",BT SPORT 1 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23452
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",BT SPORT 2 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23451
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",BT SPORT 3 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23450
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",EUROSPORT UK
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23444
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",EUROSPORT2
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23443
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",PREMIER SPORTS
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23442
+#EXTINF:-1 tvg-logo="" group-title="Sports UK",MOTORS
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/28358
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT 24 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23588
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT UNO HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23587
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23586
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT FOOTBALL  HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23585
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT ARENA FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23584
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT MIX HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23583
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY SPORT F1
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23580
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",SKY MOTO GP
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23579
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",EUROSPORT 1 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23578
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",MILAN CHANNEL HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23571
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",INTER CHANNEL
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23569
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",ROMA TV
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23568
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",LAZIO CHANNEL HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23567
+#EXTINF:-1 tvg-logo="" group-title="Sports IT",TOP CALCIO 24
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23566
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports US",ESPN
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24105
+#EXTINF:-1 tvg-logo="" group-title="Sports US",ESPN 2HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24104
+#EXTINF:-1 tvg-logo="" group-title="Sports US",ESPN U HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24101
+#EXTINF:-1 tvg-logo="" group-title="Sports US",BTN
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24099
+#EXTINF:-1 tvg-logo="" group-title="Sports US",Tennis Channel HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24095
+#EXTINF:-1 tvg-logo="" group-title="Sports US",NBA
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24091
+#EXTINF:-1 tvg-logo="" group-title="Sports US",NBA 2  MATCH EVENT
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24089
+#EXTINF:-1 tvg-logo="" group-title="Sports US",NFL NETWORK HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/24067
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim nimotv",Tân Ỷ Thiên Đồ Long Ký 2008
 https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
