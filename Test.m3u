@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="IPTV",Server 1
+http://www.sansat.net:25461/get.php?username=jean1&password=jean1&type=m3u_plus
+
 #EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FreeSports TV/ITV4 UK/Win Sports/FSWI (CH-1)
 https://daddylive.live/channels/stream-1.php
 #EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Win Sports/TVP Sport Poland/PFC Internacional/YES (CH-2)
