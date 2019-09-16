@@ -453,18 +453,14 @@ https://arenavision.in/p81/cloud/servers/truecode/xpond/p071/arenavision-49
 
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Web VietTV",VTV1
 http://xemtivi.online/?p=9
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" group-title="Web VietTV",VTV1 HD
-http://tv.vnoo.net/livetv/vtv1-hd/vtv1hd.html
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv2-hd.png" group-title="Web VietTV",VTV2
 http://xemtivi.online/?p=16
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" group-title="Web VietTV",VTV2 HD
-http://tv.vnoo.net/livetv/vtv2-hd/vtv2hd.html 
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv3-hd.png" group-title="Web VietTV",VTV3
 http://xemtivi.online/?p=23
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/vtv3hd.png" group-title="Web VietTV",VTV3 HD
-http://tv.vnoo.net/livetv/vtv3/vtv3hd.html
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="Web VietTV",VTV4
+#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="Web VietTV",VTV4 S1
 http://xemtivi.online/?p=28
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/vtv4.jpg" group-title="Web VietTV",VTV4 S2
+http://tv.vnoo.net/livetv/vtv4-hd/vtv4.html
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv5-hd.png" group-title="Web VietTV",VTV5
 http://xemtivi.online/?p=33
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Web VietTV",VTV6
@@ -479,6 +475,8 @@ http://xemtivi.online/?p=54
 https://nhandantv.vn/
 #EXTINF:-1 tvg-logo="http://truyenhinhdulich.net/templates/frontend/vovtv/Assets/img/logo.png" group-title="Web VietTV",VietNam Journey
 https://vov.vn/VideoPlayer.vov?c=vovtv
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/antv.jpg" group-title="Web VietTV",ANTV
+http://tv.vnoo.net/livetv/antv/antv.html
 #EXTINF:-1 tvg-logo="http://ima.xemtvhd.com/thethaotvhd.png" group-title="Web VietTV",VTVcab3
 http://www.xemtvhd.com/ok/vtvcab3.php
 #EXTINF:-1 tvg-logo="http://tivi12h.net/hinh/vtvcab5.png" group-title="Web VietTV",VTVcab5
@@ -519,7 +517,10 @@ https://www.vtc.gov.vn/kenh/VTC13
 https://www.vtc.gov.vn/kenh/VTC14
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpD8AAE.png" group-title="Web VietTV",VTC16
 https://www.vtc.gov.vn/kenh/VTC16
-
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/htv9hd.jpg" group-title="Web VietTV",HTV9 HD
+http://tv.vnoo.net/livetv/htv9-hd/htv9hd.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/thvl1hd.jpg" group-title="Web VietTV",THVL1
+http://tv.vnoo.net/livetv/thvl1-vinh-long-1-hd/thvl1hd.html
 #EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Web VietTV",THVL1 HD
 https://www.thvli.vn/live/thvl1-hd/aab94d1f-44e1-4992-8633-6d46da08db42
 #EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg" group-title="Web VietTV",THVL2 HD
@@ -543,8 +544,35 @@ http://tv.vnoo.net/livetv/tien-giang-tv/tiengiang.html
 http://tv.vnoo.net/livetv/hung-yen-tv/hungyen.html
 #EXTINF:-1 tvg-logo="http://tvmedia.vn/upload/medialibrary/5af/5af210e9c39b3d520063b21bc87cb927.png" group-title="Web VietTV",Hoà Bình
 http://tv.vnoo.net/livetv/hoa-binh-tv/hoabinh.html                                  
+
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/livefootball1.jpg" group-title="Web VietTV",Live Football 1
+http://tv.vnoo.net/livetv/truc-tiep-bong-da/livefootball1.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/matchfootball1.jpg" group-title="Web VietTV",Match Football 1
+http://tv.vnoo.net/livetv/match-futbol-1/matchfootball1.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/matchfootball2.jpg" group-title="Web VietTV",Match Football 2
+http://tv.vnoo.net/livetv/match-futbol-2/matchfootball2.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/matchfootball3.jpg" group-title="Web VietTV",Match Football 3
+http://tv.vnoo.net/livetv/match-futbol-3/matchfootball3.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/skysport1hdde.jpg" group-title="Web VietTV",Sky Sport 1HD DE
+http://tv.vnoo.net/livetv/sky-sport-1-hd-de-nha/skysport1hdde.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/setantaua.jpg" group-title="Web VietTV",Setanta Ukraine
+http://tv.vnoo.net/livetv/setanta-ukraine-nha/setantaua.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/futbol1.jpg" group-title="Web VietTV",Futbol 1
+http://tv.vnoo.net/livetv/futbol-1-fhd/futbol1.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/futbol2.jpg" group-title="Web VietTV",Futbol 2
+http://tv.vnoo.net/livetv/futbol-2-fhd/futbol2.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/ngwhd.jpg" group-title="Web VietTV",NATGEO WILD
+http://tv.vnoo.net/livetv/nat-geo-wild/ngwhd.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/mtvhits.jpg" group-title="Web VietTV",MTV HIST
+http://tv.vnoo.net/livetv/mtv-hits/mtvhits.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/mtvlivehd.jpg" group-title="Web VietTV",MTV LIVE HD
+http://tv.vnoo.net/livetv/mtv-live-hd/mtvlivehd.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/vh1.jpg" group-title="Web VietTV",VH1
+http://tv.vnoo.net/livetv/vh1/vh1.html
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/dw.png" group-title="Web VietTV",DW
 http://tv.vnoo.net/livetv/deutsche-welle/dw.html
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/fashionhd.jpg" group-title="Web VietTV",FASHION HD
+http://tv.vnoo.net/livetv/fashion-tv/fashionhd.html
 
 
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png" group-title="PTTH Dành cho người Việt Nam ở nước ngoài",VTV1
