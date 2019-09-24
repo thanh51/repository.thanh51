@@ -1,5 +1,54 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/09/wwe-269x151.png" group-title="Web ustvgo.tv",WWE Network 
+http://ustvgo.tv/wwe-network/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/08/espn2-269x151.png" group-title="Web ustvgo.tv",ESPN2 
+http://ustvgo.tv/espn2/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/fs2-269x151.png" group-title="Web ustvgo.tv",FS2
+http://ustvgo.tv/fox-sports-2/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/fs1-269x151.png" group-title="Web ustvgo.tv",FS1
+http://ustvgo.tv/fox-sports-1/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/nbcsn-269x151.jpg" group-title="Web ustvgo.tv",NBCSN
+http://ustvgo.tv/nbc-sports/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/nbatv-269x151.jpg" group-title="Web ustvgo.tv",NBA TV
+http://ustvgo.tv/nba-tv/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/espn-269x151.png" group-title="Web ustvgo.tv",ESPN
+http://ustvgo.tv/espn-live/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/05/MLB.png" group-title="Web ustvgo.tv",MLB
+http://ustvgo.tv/mlb-network/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/tbs-269x151.png" group-title="Web ustvgo.tv",TBS
+http://ustvgo.tv/tbs-channel-live-free/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png" group-title="Web ustvgo.tv",Tennis Channel 
+http://ustvgo.tv/tennis-channel-live-free/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/golf-269x151.png" group-title="Web ustvgo.tv",GOLF
+http://ustvgo.tv/golf-channel-live-free/
+#EXTINF:-1 tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/nfln-logo-dark.png" group-title="Web ustvgo.tv",NFL Network 
+http://ustvgo.tv/nfl-network-live-free/
+
+#EXTINF:-1 tvg-logo="https://sporttv.nu/images/sporttv.png" group-title="",Sport TV 
+https://213-167-154-115.netvarp.is/beint/sporttv1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sporttv.nu/images/sporttv.png" group-title="",Sport TV 2
+https://213-167-154-115.netvarp.is/beint/sporttv2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sporttv.nu/images/sporttv.png" group-title="",Sport TV 3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sporttv.nu/images/sporttv.png" group-title="",Sport TV 4
+https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sporttv.nu/images/sporttv.png" group-title="",Sport TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sporttv.nu/images/sporttv.png" group-title="",Sport TV 6
+https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/tennis.jpg" group-title="",Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/poster/tennis.jpg" group-title="",The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8 
+#EXTINF:-1 tvg-logo="http://tv.vnoo.net/img/foxsports1usa.jpg" group-title="",FS1
+http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FOX Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="",Sportsman channel
+http://185.246.209.109:8080/SPORTSMAN/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Documentary",CGTN Documentary",
 http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DocuBox",
