@@ -1,7 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Web reloltv.com",OnlineTV
-http://www.reloltv.com/embed.php
+#EXTINF:-1 tvg-logo="" group-title="Documentary",CGTN Documentary",
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",DocuBox",
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",English Club
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Knowledge Network
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Reelz
+http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",RT Documentary
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Smithsonian Channel
+http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Travel Channel
+http://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(Travel_Channel)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Travel TV
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/1044/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://www.reloltv.com/images/logos/NATGEO.png" group-title="Web reloltv.com",Natgeo
 http://www.dealood.com/video/644
 #EXTINF:-1 tvg-logo="http://www.reloltv.com/images/logos/bbc.png" group-title="Web reloltv.com",BBC
