@@ -611,12 +611,32 @@ https://sportzonline.co/channels/pt/sporttv5.php
 #EXTINF:-1 tvg-logo="https://www.stream2watch.ws/images/streams/83939/stm/15275053073867.png" group-title="Web Sports Portugal",Sport TV 5 s2
 https://sportbar.biz/ptsport5.html|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg" group-title="Web Sports Russia",Match futbol 1 
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg" group-title="Web Sports Russia",Match futbol 1 s1
 https://sportbar.biz/mfootball1.html|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-2-min.jpg" group-title="Web Sports Russia",Match futbol 2 
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg" group-title="Web Sports Russia",Match futbol 1 s2
+http://allsporting.co/player?channel=matchfutbol&player=jwplayer7&player=jwplayer7  
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg" group-title="Web Sports Russia",Match futbol 1 s3
+http://totalsport.me/match1.html|User-Agent=Mozilla/5.0 
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-2-min.jpg" group-title="Web Sports Russia",Match futbol 2 s1
 https://sportbar.biz/rumatchf2.html|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-3-min.jpg" group-title="Web Sports Russia",Match futbol 3 
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-2-min.jpg" group-title="Web Sports Russia",Match futbol 2 s2
+http://allsporting.co/player?channel=matchfutbol2&player=jwplayer7&player=jwplayer7 
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-2-min.jpg" group-title="Web Sports Russia",Match futbol 2 s3
+http://totalsport.me/match2.html|User-Agent=Mozilla/5.0 
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-3-min.jpg" group-title="Web Sports Russia",Match futbol 3 s1
 https://sportbar.biz/matfoot3.html|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-3-min.jpg" group-title="Web Sports Russia",Match futbol 3 s2 
+http://allsporting.co/player?channel=matchfutbol3&player=jwplayer7&player=jwplayer7
+#EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-3-min.jpg" group-title="Web Sports Russia",Match futbol 3 s3
+http://totalsport.me/match3.html|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/Futbol1.ua.png" group-title="Web Sports Russia",Futbol 1 s1
+http://allsporting.co/player?channel=football1ua&player=jwplayer7&player=jwplayer7 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/Futbol1.ua.png" group-title="Web Sports Russia",Futbol 1 s2
+http://totalsport.me/futbol1.html|User-Agent=Mozilla/5.0 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/Futbol2.ua.png" group-title="Web Sports Russia",Futbol 2 s1
+http://allsporting.co/player?channel=football2ua&player=jwplayer7&player=jwplayer7
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/Futbol2.ua.png" group-title="Web Sports Russia",Futbol 2 s2
+http://totalsport.me/futbol2.html|User-Agent=Mozilla/5.0 
 
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Web VietTV",VTV1 HD
 http://www.xemtvtructuyen.net/ok/vtv1.php
