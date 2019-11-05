@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://s.dowload.vn/Data/image/logos_banners/S/SopCast-logo.png" group-title="sopcast",Link 1
+sop://broker.sopcast.com:3912/257333
+#EXTINF:-1 tvg-logo="https://s.dowload.vn/Data/image/logos_banners/S/SopCast-logo.png" group-title="sopcast",Link 2
+sop://broker.sopcast.com:3912/257555
+#EXTINF:-1 tvg-logo="https://s.dowload.vn/Data/image/logos_banners/S/SopCast-logo.png" group-title="sopcast",Link 3
+sop://broker.sopcast.com:3912/264736
+#EXTINF:-1 tvg-logo="https://s.dowload.vn/Data/image/logos_banners/S/SopCast-logo.png" group-title="sopcast",Link 4
+sop://broker.sopcast.com:3912/254780
+
 #EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Spoerts Acestream",NBCSN
 acestream://e9507deacad4bb367534de94b84300f5a703fc57
 #EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Spoerts Acestream",BT sports ESPN  
