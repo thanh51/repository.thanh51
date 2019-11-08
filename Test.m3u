@@ -1,54 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="sport PT",Sport TV1 (ace)
-acestream://c8a390eb563ddd665356248d7e0a545f35a185c2
-
-#EXTINF:-1 tvg-logo="http://viewhd.me/wp-config/upload/channel/ss-premier.png" group-title="sport UK",Sky Sports Premier League s1
-http://free.crichd.online/embed2.php?id=skysp5&vw=835&vh=470
-#EXTINF:-1 tvg-logo="http://viewhd.me/wp-config/upload/channel/ss-premier.png" group-title="sport UK",Sky Sports Premier League s2
-http://viewhd.me/update/sky-sports-5.php
-
-#EXTINF:-1 tvg-logo="http://viewhd.me/wp-config/upload/channel/ss-main.gif" group-title="sport UK",Sky Sports main event s1
-http://free.crichd.online/embed2.php?id=skysp1&vw=835&vh=470
-#EXTINF:-1 tvg-logo="http://viewhd.me/wp-config/upload/channel/ss-main.gif" group-title="sport UK",Sky Sports main event s2
-http://viewhd.me/Channel/Sky-Sports-1.php
-
-#EXTINF:-1 tvg-logo="http://viewhd.me/wp-config/upload/channel/ss-football.png" group-title="sport UK",sky sports football s1
-http://hindimean.com/freestreams/skysportsfootball.php
-#EXTINF:-1 tvg-logo="http://viewhd.me/wp-config/upload/channel/ss-football.png" group-title="sport UK",sky sports football s2
-http://viewhd.me/Channel/ss-foot.php
-
-#EXTINF:-1 tvg-logo="" group-title="sport UK",BT sport 1
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/10.jpg" group-title="sports UK",BT sports 1 s1
 http://viewhd.me/update/bt-sports-1.php
-#EXTINF:-1 tvg-logo="" group-title="sport UK",BT sport 2
-http://viewhd.me/update/bt-sports-2.php
-#EXTINF:-1 tvg-logo="" group-title="sport UK",BT sport 3
-http://viewhd.me/update/bt-sports-europe.php
-#EXTINF:-1 tvg-logo="" group-title="sport UK",BT sport espn
-http://viewhd.me/update/bt-sports-espn.php
-
-#EXTINF:-1 tvg-logo="" group-title="sport Russia",Match futbol
-http://sportgol7.org/player?channel=matchfutbol
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/10.jpg" group-title="Sports UK",BT Sports 1
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/10.jpg" group-title="Sports UK",BT Sports 1 s2
 http://crichd.ws/update/bt1.php
-#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/11.jpg" group-title="Sports UK",BT Sports 2
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/11.jpg" group-title="sports UK",BT sports 2 s1
+http://viewhd.me/update/bt-sports-2.php
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/11.jpg" group-title="Sports UK",BT Sports 2 s2
 http://crichd.ws/update/bt2.php
-#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/12.gif" group-title="Sports UK",BT Sports 3
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/12.gif" group-title="sports UK",BT sports 3 s1
+http://viewhd.me/update/bt-sports-espn.php
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/12.gif" group-title="Sports UK",BT Sports 3 s2
 http://crichd.ws/update/bteu.php
-#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/13.gif" group-title="Sports UK",BT Sport Espn
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/13.gif" group-title="Sports UK",BT Sports Espn
 http://crichd.ws/update/espn.php
-#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/6.jpg" group-title="Sports UK",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/6.jpg" group-title="sports UK",Sky Sports Premier League s1
+http://free.crichd.online/embed2.php?id=skysp5&vw=835&vh=470
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/6.jpg" group-title="Sports UK",Sky Sports Premier League s2
 http://crichd.ws/update/skys5.php
-#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/1.jpg" group-title="Sports UK",Sky Sports main event
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/1.jpg" group-title="sports UK",Sky Sports main event s1
+http://free.crichd.online/embed2.php?id=skysp1&vw=835&vh=470
+#EXTINF:-1 tvg-logo="https://www.crichd.sx/assets/uploads/channels/1.jpg" group-title="Sports UK",Sky Sports main event s2
 http://crichd.ws/update/skys1.php
-#EXTINF:-1 tvg-logo="http://www.sports-stream.net/logo/Sky_Sports_Football.png" group-title="Sports UK",Sky Sports Football
+#EXTINF:-1 tvg-logo="http://www.sports-stream.net/logo/Sky_Sports_Football.png" group-title="sports UK",sky sports football s1
+http://hindimean.com/freestreams/skysportsfootball.php
+#EXTINF:-1 tvg-logo="http://www.sports-stream.net/logo/Sky_Sports_Football.png" group-title="Sports UK",Sky Sports Football s2
 http://crichd.ws/update/skysfotb.php
 #EXTINF:-1 tvg-logo="http://cricsports.sx/assets/uploads/channels/8.png" group-title="Sports UK",Sky Sports Mix
 http://crichd.ws/update/skysmix.php
+
+#EXTINF:-1 tvg-logo="" group-title="sport Russia",Match futbol
+http://sportgol7.org/player?channel=matchfutbol
 
 #EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-1-min.jpg" group-title="Sports Rusia",МАТЧ ФУТБОЛ 1 s1
 http://live-gol.net/streams/9983e1a92b719a"
