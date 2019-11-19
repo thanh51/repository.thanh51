@@ -1,5 +1,72 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="VTC",VTC1
+http://api.tvplay.vn/livetv/79-vtc1.html
+#EXTINF:-1 group-title="VTC",VTC2
+http://api.tvplay.vn/livetv/80-vtc2.html
+#EXTINF:-1 group-title="VTC",VTC3
+http://api.tvplay.vn/livetv/81-vtc3.html
+#EXTINF:-1 group-title="VTC",VTC4
+http://api.tvplay.vn/livetv/82-vtc4.html
+#EXTINF:-1 group-title="VTC",VTC5
+http://api.tvplay.vn/livetv/83-vtc5.html
+#EXTINF:-1 group-title="VTC",VTC6
+http://api.tvplay.vn/livetv/84-vtc6.html
+#EXTINF:-1 group-title="VTC",VTC7
+http://api.tvplay.vn/livetv/76-todaytv.html
+#EXTINF:-1 group-title="VTC",VTC8
+http://api.tvplay.vn/livetv/85-vtc8.html
+#EXTINF:-1 group-title="VTC",VTC9
+http://api.tvplay.vn/livetv/86-vtc9.html
+#EXTINF:-1 group-title="VTC",VTC10
+http://api.tvplay.vn/livetv/87-vtc10.html
+#EXTINF:-1 group-title="VTC",VTC11
+http://api.tvplay.vn/livetv/88-vtc11.html
+#EXTINF:-1 group-title="VTC",VTC12
+http://api.tvplay.vn/livetv/89-vtc12.html
+#EXTINF:-1 group-title="VTC",VTC13
+http://api.tvplay.vn/livetv/78-itv.html
+#EXTINF:-1 group-title="VTC",VTC14
+http://api.tvplay.vn/livetv/90-vtc14.html
+#EXTINF:-1 group-title="VTC",VTC16
+http://api.tvplay.vn/livetv/91-vtc16.html
+#EXTINF:-1 group-title="OTHER TV",ANTV
+http://api.tvplay.vn/livetv/166-antv.html
+#EXTINF:-1 group-title="OTHER TV",QHVN
+http://api.tvplay.vn/livetv/154-kenh-quoc-hoi.html
+#EXTINF:-1 group-title="OTHER TV",TTXVN
+http://cdn3.vtcplay.vn:1935/VTC/smil:VnewsTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="OTHER TV",AnVien
+http://api.tvplay.vn/livetv/171-btv9.html
+#EXTINF:-1 group-title="OTHER TV",Sam
+http://api.tvplay.vn/livetv/173-btv11.html
+#EXTINF:-1 group-title="OTHER TV",Phimhay
+http://api.tvplay.vn/livetv/174-phim-hay.html
+#EXTINF:-1 group-title="OTHER TV",ANTG
+http://api.tvplay.vn/livetv/182-an-ninh-the-gioi.html
+#EXTINF:-1 group-title="OTHER TV",Vietteen
+http://api.tvplay.vn/livetv/170-btv6.html
+#EXTINF:-1 group-title="OTHER TV",NCM
+http://api.tvplay.vn/livetv/172-btv10.html
+#EXTINF:-1 group-title="TH DIA PHUONG",VinhLongTV1
+http://api.thvli.vn/backend/cm/detail/thvl1-hd/
+#EXTINF:-1 group-title="TH DIA PHUONG",VinhLongTV2
+http://api.thvli.vn/backend/cm/detail/thvl2-hd/
+#EXTINF:-1 group-title="TH DIA PHUONG",VinhLongTV3
+http://api.thvli.vn/backend/cm/detail/thvl3-hd/
+#EXTINF:-1 group-title="RADIO",VOV1
+http://123.29.68.10/radio/myradio001.m3u8
+#EXTINF:-1 group-title="RADIO",VOV2
+http://123.29.68.10/radio/myradio002.m3u8
+#EXTINF:-1 group-title="RADIO",VOV3
+http://123.29.68.10/radio/myradio003.m3u8
+#EXTINF:-1 group-title="RADIO",VOV4
+http://123.29.68.10/radio/myradio004.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-3-min.jpg" group-title="Sports Russia",Матч Футбол 3 HD (Acestream) s1
 https://tv-p2p.ru/sport/7567-match-futbol-3-hd.html
 #EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/match-futbol-3-min.jpg" group-title="Sports Russia",Матч Футбол 3 HD (Acestream) s2
