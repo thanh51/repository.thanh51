@@ -5,131 +5,28 @@ http://sports24.club/tennis/v?id=tennispl1
 #EXTINF:-1 tvg-logo="" group-title="Sports24.club",Tennis 2
 http://sports24.club/tennis/v?id=tennispl2
 
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC1
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/vtv1new.jpg" group-title="(tvplay.vn)",VTV1
+http://api.tvplay.vn/livetv/70-vtv1-thu-nghiem.html
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/vtc1(2).jpg" group-title="(tvplay.vn)",VTC1
 http://api.tvplay.vn/livetv/79-vtc1.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC2
-http://api.tvplay.vn/livetv/80-vtc2.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC3
-http://api.tvplay.vn/livetv/81-vtc3.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC4
-http://api.tvplay.vn/livetv/82-vtc4.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC5
-http://api.tvplay.vn/livetv/83-vtc5.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC6
-http://api.tvplay.vn/livetv/84-vtc6.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC7
-http://api.tvplay.vn/livetv/76-todaytv.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC8
-http://api.tvplay.vn/livetv/85-vtc8.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC9
-http://api.tvplay.vn/livetv/86-vtc9.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC10
-http://api.tvplay.vn/livetv/87-vtc10.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC11
-http://api.tvplay.vn/livetv/88-vtc11.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC12
-http://api.tvplay.vn/livetv/89-vtc12.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC13
-http://api.tvplay.vn/livetv/78-itv.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC14
-http://api.tvplay.vn/livetv/90-vtc14.html
-#EXTINF:-1 group-title="VTC (tvplay.vn)",VTC16
-http://api.tvplay.vn/livetv/91-vtc16.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",ANTV
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ANTV%201000x774.jpg" group-title="(tvplay.vn)",ANTV
 http://api.tvplay.vn/livetv/166-antv.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",QHVN
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/TH%20Qu%E1%BB%91c%20h%E1%BB%99i(2).jpg" group-title="(tvplay.vn)",QHVN
 http://api.tvplay.vn/livetv/154-kenh-quoc-hoi.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",TTXVN
-http://cdn3.vtcplay.vn:1935/VTC/smil:VnewsTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",AnVien
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/TH%20QPVN%201000x774.jpg" group-title="(tvplay.vn)",QPVN
+http://api.tvplay.vn/livetv/165-quoc-phong-vn.html
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/an%20vien.jpg" group-title="(tvplay.vn)",AnVien
 http://api.tvplay.vn/livetv/171-btv9.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",Sam
-http://api.tvplay.vn/livetv/173-btv11.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",Phimhay
-http://api.tvplay.vn/livetv/174-phim-hay.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",ANTG
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/6-a.jpg" group-title="(tvplay.vn)",ANTG
 http://api.tvplay.vn/livetv/182-an-ninh-the-gioi.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",Vietteen
-http://api.tvplay.vn/livetv/170-btv6.html
-#EXTINF:-1 group-title="OTHER TV (tvplay.vn)",NCM
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/phim%20hay.jpg" group-title="(tvplay.vn)",Phimhay
+http://api.tvplay.vn/livetv/174-phim-hay.html
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ncm.jpg" group-title="(tvplay.vn)",NCM
 http://api.tvplay.vn/livetv/172-btv10.html
-#EXTINF:-1 group-title="TH DIA PHUONG (tvplay.vn)",VinhLongTV1
-http://api.thvli.vn/backend/cm/detail/thvl1-hd/
-#EXTINF:-1 group-title="TH DIA PHUONG (tvplay.vn)",VinhLongTV2
-http://api.thvli.vn/backend/cm/detail/thvl2-hd/
-#EXTINF:-1 group-title="TH DIA PHUONG (tvplay.vn)",VinhLongTV3
-http://api.thvli.vn/backend/cm/detail/thvl3-hd/
-
-#EXTINF:-1 group-title="VTV (vn.tvnet.gov.vn)",VTV1 HD
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1
-#EXTINF:-1 group-title="VTV (vn.tvnet.gov.vn)",VTV2 HD
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2
-#EXTINF:-1 group-title="VTV (vn.tvnet.gov.vn)",VTV3 HD
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3
-#EXTINF:-1 group-title="VTV (vn.tvnet.gov.vn)",VTV4
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4
-#EXTINF:-1 group-title="VTV (vn.tvnet.gov.vn)",TTXVN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC1 HD
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC3
-http://cdn3.vtcplay.vn:1935/VTC/smil:VTC3.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC7
-http://cdn3.vtcplay.vn:1935/VTC/smil:VTC7.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC9
-http://cdn3.vtcplay.vn:1935/VTC/smil:VTC9.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC10
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC14
-http://cdn3.vtcplay.vn:1935/VTC/smil:VTC14.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC (vn.tvnet.gov.vn)",VTC16
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV9
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1012/htv9
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV1
-http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV2
-http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV3
-http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV4
-http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV7
-http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTV TheThao
-http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTVC CaNhac
-http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTVC Dulich
-http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTVC Giadinh
-http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTVC Phim
-http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV (vn.tvnet.gov.vn)",HTVC PhuNu
-http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",HaNoiTV1
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",DongNaiTV1
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",QuangBinhTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",NgheAnTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",ThaiBinhTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",VinhLongTV1
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",DongThapTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",HaiDuongTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",ThanhHoaTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",HungYenTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen
-#EXTINF:-1 group-title="TH DIA PHUONG (vn.tvnet.gov.vn)",HaiPhongTV
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/1-a.jpg" group-title="(tvplay.vn)",Sam
+http://api.tvplay.vn/livetv/173-btv11.html
+#EXTINF:-1 tvg-logo="http://m.tvplay.vn:9999/image/225x140/smart/image.i-com.vn:1937//Uploads/images/kenh/vietteen.jpg" group-title="(tvplay.vn)",Vietteen
+http://api.tvplay.vn/livetv/170-btv6.html
 
 #EXTINF:-1 group-title="VTV (vtvgo.vn)",VTV1 HD
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
