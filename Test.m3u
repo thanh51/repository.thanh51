@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="Sports24.club",Tennis 1
+http://sports24.club/tennis/v?id=tennispl1
+#EXTINF:-1 tvg-logo="" group-title="Sports24.club",Tennis 2
+http://sports24.club/tennis/v?id=tennispl2
 
 #EXTINF:-1 group-title="VTC (tvplay.vn)",VTC1
 http://api.tvplay.vn/livetv/79-vtc1.html
