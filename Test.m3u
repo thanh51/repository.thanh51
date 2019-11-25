@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD
+http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv1_720/index.m3u8|User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
+http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv2_720/index.m3u8|User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
+http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv3_720/index.m3u8|User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4hd"  group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD
+http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv4_720/index.m3u8|User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
+http://13103971eac8a63.kcdn.vn/vtvlivesport/vtv5_720/index.m3u8|User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
+http://13103971eac8a63.kcdn.vn/vtvlivesport/vtv6_720/index.m3u8|User-agent=Mozilla/5.0
+
 
 #EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2019/11/23/ban-than-phimkia.jpg" group-title="Phim Lẻ 2",BÁN THÂN
 http://phimkia.com/xem-phim/ban-than-tao-se-qing-chun-2019#xem
