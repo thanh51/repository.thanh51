@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1mL7pe5_LyQ/VpxA8NVTYzI/AAAAAAAAAXQ/JfCQuwwxVNU/h120/vtv1.png" group-title="tvmienphi.net",VTV1
+https://player.twitch.tv/?channel=vtv1okru
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png" group-title="tvmienphi.net",VTV1 HD 
 http://sv.tvmienphi.net/ok/vtv/vtv1show.php
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV2_HD_M.png" group-title="tvmienphi.net",VTV2 HD
@@ -57,23 +59,21 @@ https://ok.ru/video/1220907704028
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0aefU3wotlk/W1lgnrkJjjI/AAAAAAAAEIs/mwqLnvppanYpEIz8A6CzFQsKbpoz-TSwwCEwYBhgL/w140-h70-p/foxmoviesvip.png" group-title="tvmienphi.net",Fox Life 
 https://ok.ru/video/1096015093468
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jPTxx7ijNW0/VpxAfun8fzI/AAAAAAAAANU/Z9gByBFi8po/h120/htv1.png" group-title="tvmienphi.net",HTV1
-http://sv.tvmienphi.net/ok/htv/htv12.php
+http://sv.tvmienphi.net/ok/htv/htv1show.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-kjC72CWJ-QI/VpxAf0RmaOI/AAAAAAAAANY/aZX34auMMng/h120/htv2.png" group-title="tvmienphi.net",HTV2
 http://sv.tvmienphi.net/ok/htv/htv2show.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gQZJ8wcwVGA/VpxAgED0tmI/AAAAAAAAANQ/SKQS47ZxOuk/h120/htv3.png" group-title="tvmienphi.net",HTV3
 http://sv.tvmienphi.net/ok/htv/htv3show.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XyvAIIjl868/VpxAgyDbAPI/AAAAAAAAANc/tW0KGE_svUA/h120/htv4.png" group-title="tvmienphi.net",HTV4
-http://sv.tvmienphi.net/ok/htv/htv42.php
+http://sv.tvmienphi.net/ok/htv/htv4show.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OFVARyzqrp4/VpxAhO6A6AI/AAAAAAAAANg/_AL8upxPg-s/h120/htv7.png" group-title="tvmienphi.net",HTV7 s1
-http://sv.tvmienphi.net/ok/htv/htv71.php
+http://sv.tvmienphi.net/ok/htv/htv7show.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OFVARyzqrp4/VpxAhO6A6AI/AAAAAAAAANg/_AL8upxPg-s/h120/htv7.png" group-title="tvmienphi.net",HTV7 s2
 https://player.twitch.tv/?channel=todaytvs
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png" group-title="tvmienphi.net",HTV9 s1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png" group-title="tvmienphi.net",HTV9
 http://sv.tvmienphi.net/ok/htv/htv91.php
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png" group-title="tvmienphi.net",HTV9 s2
-https://player.twitch.tv/?channel=tvmienphi
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QbRuocGGUsU/VpxAixomdDI/AAAAAAAAAN4/Pmh65kJsx8c/h120/htvphim.png" group-title="tvmienphi.net",HTV Phim
-http://sv.tvmienphi.net/ok/htv/htvphim2.php
+http://sv.tvmienphi.net/ok/htv/htvphimshow.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3EbgGXSCk2o/VpxAiFfaetI/AAAAAAAAAOA/4IWtZC_Sle4/h120/htvgiadinh.png" group-title="tvmienphi.net",HTV Giadinh
 http://sv.tvmienphi.net/ok/htv/htvgiadinhshow.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G9mQcv7J7Kc/VpxAh8Rb65I/AAAAAAAAANs/xdMi4n-ARNs/h120/htvdulich.png" group-title="tvmienphi.net",HTV Dulich
@@ -81,14 +81,13 @@ http://sv.tvmienphi.net/ok/htv/htvdulichshow.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png" group-title="tvmienphi.net",HTV Thuanviet
 http://sv.tvmienphi.net/ok/htv/htvthuanvietshow.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2pXIrXYBFu8/VpxAhplRRnI/AAAAAAAAANw/8ounGrKt0aw/h120/htvcanhac.png" group-title="tvmienphi.net",HTV Canhac
-http://sv.tvmienphi.net/ok/htv/htvcanhac2.php
+http://sv.tvmienphi.net/ok/htv/htvcanhacshow.php
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dDgNzf4LYgk/VpxAjjDuOqI/AAAAAAAAAOQ/_otddw_NWYU/h120/htvthethao.png" group-title="tvmienphi.net",HTV Thethao
 http://sv.tvmienphi.net/ok/htv/htvthethao2.php
 #EXTINF:-1 tvg-logo="http://vietfacetv572.com/mediakit/wp-content/uploads/2015/04/VietFaceTV-logo.png" group-title="tvmienphi.net",VFTV
 https://player.twitch.tv/?channel=vface19
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d17262dc-2720-4f2e-bff7-784021814f57-profile_image-70x70.png" group-title="tvmienphi.net",Sky sports
 https://player.twitch.tv/?video=517074758&autoplay=false
-
 
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png" group-title="bongda365.live",VTV1 HD
 http://bongda365.live/tivi/vtv1.online
