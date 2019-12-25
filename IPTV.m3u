@@ -58,6 +58,16 @@ http://live.vnanet.vn/720P/playlist.m3u8
 #EXTINF:-1 group-title="VTV",VTVCab14 - Lotte
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab14hd
 
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/39.png" group-title="VTVCab",VTVcab16 s1
+http://www.xemtvtructuyen.net/ok/nec.php?id=vtvcab16
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/39.png" group-title="VTVCab",VTVcab16 s2
+http://www.xemtvtructuyen.net/ok/next.php?id=vtvcab16
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/37.png" group-title="VTVCab",VTVcab3 s1
+http://www.xemtvtructuyen.net/ok/nec.php?id=vtvcab3
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/37.png" group-title="VTVCab",VTVcab3 s2
+http://www.xemtvtructuyen.net/ok/next.php?id=vtvcab3
+
+
 #EXTINF:-1 group-title="HTV",HTV1
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv1
 #EXTINF:-1 group-title="HTV",HTV2 HD
