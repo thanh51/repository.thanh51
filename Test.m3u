@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="bongda365.live",Fox Movies
-https://bongda365.live/xem-tivi-kenh-foxmovies.html|referrer=https://player.twitch.tv/?volume=1&channel=bongda365livess
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/MAXBYHBO.png" group-title="bongda365.live",Max by HBO  
-https://bongda365.live/xem-tivi-kenh-maxbyhbo.html|referrer=https://player.twitch.tv/?volume=1&channel=tivi8k
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="bongda365.live",HBO
-https://bongda365.live/xem-tivi-kenh-hbo.html|referrer=https://player.twitch.tv/?volume=1&channel=bongda365
-
 
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png" group-title="Sports USA",NBCSN s1
 http://s4.11223344.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
@@ -611,7 +604,22 @@ http://bongda365.live/tivi/hits.online|embed=true
 http://bongda365.live/tivi/vinhlong1.online|embed=true
 #EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg" group-title="bongda365.live",THVL2
 http://bongda365.live/tivi/vinhlong2.online|embed=true
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="bongda365.live",Fox Movies s1
+https://player.twitch.tv/?volume=1&channel=bongda365livess
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="bongda365.live",Fox Movies s2
+https://bongda365.live/xem-tivi-kenh-foxmovies.html|referrer=https://player.twitch.tv/?volume=1&channel=bongda365livess
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/MAXBYHBO.png" group-title="bongda365.live",Max by HBO s1  
+https://player.twitch.tv/?volume=1&channel=tivi8k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/MAXBYHBO.png" group-title="bongda365.live",Max by HBO s2
+https://bongda365.live/xem-tivi-kenh-maxbyhbo.html|referrer=https://player.twitch.tv/?volume=1&channel=tivi8k
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="bongda365.live",HBO s1
+https://player.twitch.tv/?volume=1&channel=bongda365
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="bongda365.live",HBO s2
+https://bongda365.live/xem-tivi-kenh-hbo.html|referrer=https://player.twitch.tv/?volume=1&channel=bongda365
+#EXTINF:-1 tvg-logo="https://getlogovector.com/wp-content/uploads/2019/08/axn-logo-vector.png" group-title="bongda365.live",AXN s1
+https://player.twitch.tv/?volume=1&channel=xemtvtructuyennet
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="bongda365.live",CN s1
+https://player.twitch.tv/?volume=1&channel=maukimtan014
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1mL7pe5_LyQ/VpxA8NVTYzI/AAAAAAAAAXQ/JfCQuwwxVNU/h120/vtv1.png" group-title="tvmienphi.net",VTV1
 https://player.twitch.tv/?channel=vtv1okru
