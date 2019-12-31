@@ -136,9 +136,11 @@ http://www.xemtivimienphi.com/ok/next.php?id=htvc-phim
 #EXTINF:-1 tvg-logo="" group-title="HTV",HTVC Dulich
 http://www.xemtivimienphi.com/ok/next.php?id=htvc-dulich
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
-#EXTINF:-1 tvg-logo="" group-title="HTV",HTVC TheThao
+#EXTINF:-1 tvg-logo="" group-title="HTV",HTV TheThao
 http://www.xemtivimienphi.com/ok/next.php?id=htvc-thethao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
+#EXTINF:-1 group-title="Quốc Tế",HTV TheThao HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop9
 #EXTINF:-1 tvg-logo="" group-title="HTV",HTVC Giadinh
 http://www.xemtivimienphi.com/ok/next.php?id=htvc-giadinh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
@@ -194,12 +196,22 @@ http://www.xemtivimienphi.com/ok/next.php?id=vtc14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
 http://www.xemtivimienphi.com/ok/next.php?id=vtc16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
+#EXTINF:-1 group-title="Quốc Tế",Fox HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop1
+#EXTINF:-1 group-title="Quốc Tế",Fox family movies HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop2
+#EXTINF:-1 group-title="Quốc Tế",Foxmovies HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop3
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Natgeo
 http://www.xemtivimienphi.com/ok/next.php?id=natgeographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Planet Earth
 http://www.xemtivimienphi.com/ok/next.php?id=planetearth 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
+#EXTINF:-1 group-title="Quốc Tế",AFN HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop5
+#EXTINF:-1 group-title="Quốc Tế",Davinci HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop6
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Waku Waku Japan
 http://www.xemtivimienphi.com/ok/next.php?id=wakuwakujapan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
@@ -209,26 +221,13 @@ http://www.xemtivimienphi.com/ok/next.php?id=dw
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",France24
 http://www.xemtivimienphi.com/ok/next.php?id=france24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
+#EXTINF:-1 group-title="Quốc Tế",France24 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop7
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",HGTV
 http://www.xemtivimienphi.com/ok/next.php?id=hgtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0
-
-
-#EXTINF:-1 group-title="47SHOP",Fox HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop1
-#EXTINF:-1 group-title="47SHOP",Fox family movies HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop2
-#EXTINF:-1 group-title="47SHOP",Foxmovies HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop3
-#EXTINF:-1 group-title="47SHOP",Channel V HD
+#EXTINF:-1 group-title="Quốc Tế",Channel V HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop4
-#EXTINF:-1 group-title="47SHOP",AFN HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop5
-#EXTINF:-1 group-title="47SHOP",Davinci HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop6
-#EXTINF:-1 group-title="47SHOP",France24 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop7
-#EXTINF:-1 group-title="47SHOP",Match futbol 3 HD
+#EXTINF:-1 group-title="Quốc Tế",Match futbol 3 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop8
-#EXTINF:-1 group-title="47SHOP",HTV TheThao HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop9
+
