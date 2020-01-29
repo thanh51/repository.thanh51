@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",[AR]Bein HD
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",[AR]Bein HD1
+http://95.170.215.120/hls/m3u8/BeinSport1.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",[AR]Bein HD2 
+http://95.170.215.120/hls/m3u8/BeinSport2.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",[AR] BEIN HD3
+http://95.170.215.120/hls/m3u8/BeinSport3.m3u8|User-Agent=Lavf/56.15.102
+
 #EXTINF:-1 tvg-logo="http://poster.xemhdo.com/upload/2020/01/xemhdo.com-dung-bao-gio-noi-khong-lan-nua-3370.jpg" group-title="xemhdo.com",Đừng Bao Giờ Nói Không Lần Nữa
 http://xemhdo.com/phim/dung-bao-gio-noi-khong-lan-nua-126013/xem-phim.html
 
