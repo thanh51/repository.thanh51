@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1group-title="LALIGA",LALIGA PASS ENGLISH 720p
+https://dice-live-eu.akamaized.net/hls/live/2005742/137492-143291-d/exchange137492GJAFz_137492_3000/exp=1580726579~acl=%2f*~id=33349bb8-537d-4122-930b-da81b45d4b95~data=hdntl~hmac=2d6c89e5818190b972e1eda7af1f82fb8a76da857f3a8362a64aff95cc09ee4e/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="Sports",Eleven Sports 1
 http://213.194.142.224:8001/1:0:16:1032:451:35:c00000:0:0:0|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="Sports",Eleven Sports 2
