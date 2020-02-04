@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Матч! Футбол 1 HD 25fps
+ttp://127.0.0.1:6878/ace/getstream?id=92550ac34357a69bf6c734145fa359197d62fec0
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Матч! Футбол 2 HD 25fps
+ttp://127.0.0.1:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada
+#EXTINF:-1, tvg-logo="" group-title="Acestream",Матч! Футбол 3 HD 25fps
+ttp://127.0.0.1:6878/ace/getstream?id=70b20efc8b27aa84025b7fe5752dea186429b08c
+
 #EXTINF:-1 tvg-logo="" group-title="Acestream",BT 1
 http://127.0.0.1:6878/ace/getstream?id=fd0994cc93d3273677c4693ae5cecfc4b857545c
 #EXTINF:-1 tvg-logo="" group-title="Acestream",BT ESPN!
