@@ -1,8 +1,30 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="LATIN",EUROLATINA TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+#EXTINF:-1 tvg-logo="" group-title="Acestream",BT 1
+http://127.0.0.1:6878/ace/getstream?id=fd0994cc93d3273677c4693ae5cecfc4b857545c&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",BT ESPN!
+http://127.0.0.1:6878/ace/getstream?id=383a1a2467c5d23f0642ac4a7668d251c3c29f1c&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",FS 1!
+http://127.0.0.1:6878/ace/getstream?id=a634bc1b639a51ef8d10fe32669d60259de6d7ab&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Movistar!
+http://127.0.0.1:6878/ace/getstream?id=3e7bfd4031edb671ff4036b6ae48359a8058b361&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",NBCSN!
+http://127.0.0.1:6878/ace/getstream?id=dbdb7ca45142ec889e993b0f9032e6699112abea&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Premier 1!
+http://127.0.0.1:6878/ace/getstream?id=d72fa4e8e65c0779ff9e2ade5a70cbe6aa26786e&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Sky Main!
+http://127.0.0.1:6878/ace/getstream?id=83216829f0f8d47a903cb96b76185b070357734f&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Sport TV1!
+http://127.0.0.1:6878/ace/getstream?id=3985b2b65246b6b8103932e134626eaa6dc51041&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",beIN SPORTS USA!
+http://127.0.0.1:6878/ace/getstream?id=ef42a902681c639477c5d71b2f3ac08b052a8115&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Матч! Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",НТВ+ Наш футбол HD
+http://127.0.0.1:6878/ace/getstream?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd&.mp4
+#EXTINF:-1 tvg-logo="" group-title="Acestream",Сетанта Спорт + HD
+http://127.0.0.1:6878/ace/getstream?id=748e65f5e9652a1c014dca2ad489957e1ba08b3c&.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ua1PgFH.jpg" group-title="LALIGA",LALIGA ENGLISH 720p
 https://dice-live-eu.akamaized.net/hls/live/2005742/137492-143291-d/exchange137492GJAFz_137492_3000/exp=1580726579~acl=%2f*~id=33349bb8-537d-4122-930b-da81b45d4b95~data=hdntl~hmac=2d6c89e5818190b972e1eda7af1f82fb8a76da857f3a8362a64aff95cc09ee4e/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
