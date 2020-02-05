@@ -1,46 +1,31 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Матч! Футбол 1 HD 25fps
-http://127.0.0.1:6878/ace/getstream?id=92550ac34357a69bf6c734145fa359197d62fec0
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Матч! Футбол 2 HD 25fps
-http://127.0.0.1:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF:-1, tvg-logo="" group-title="Acestream",Матч! Футбол 3 HD 25fps
-http://127.0.0.1:6878/ace/getstream?id=70b20efc8b27aa84025b7fe5752dea186429b08c
-
-#EXTINF:-1 tvg-logo="" group-title="Acestream",BT 1
-http://127.0.0.1:6878/ace/getstream?id=fd0994cc93d3273677c4693ae5cecfc4b857545c
-#EXTINF:-1 tvg-logo="" group-title="Acestream",BT ESPN!
-http://127.0.0.1:6878/ace/getstream?id=383a1a2467c5d23f0642ac4a7668d251c3c29f1c
-#EXTINF:-1 tvg-logo="" group-title="Acestream",FS 1!
-http://127.0.0.1:6878/ace/getstream?id=a634bc1b639a51ef8d10fe32669d60259de6d7ab
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Movistar!
-http://127.0.0.1:6878/ace/getstream?id=3e7bfd4031edb671ff4036b6ae48359a8058b361
-#EXTINF:-1 tvg-logo="" group-title="Acestream",NBCSN!
-http://127.0.0.1:6878/ace/getstream?id=dbdb7ca45142ec889e993b0f9032e6699112abea
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Premier 1!
-http://127.0.0.1:6878/ace/getstream?id=d72fa4e8e65c0779ff9e2ade5a70cbe6aa26786e
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Sky Main!
-http://127.0.0.1:6878/ace/getstream?id=83216829f0f8d47a903cb96b76185b070357734f
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Sport TV1!
-http://127.0.0.1:6878/ace/getstream?id=3985b2b65246b6b8103932e134626eaa6dc51041
-#EXTINF:-1 tvg-logo="" group-title="Acestream",beIN SPORTS USA!
-http://127.0.0.1:6878/ace/getstream?id=ef42a902681c639477c5d71b2f3ac08b052a8115
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Матч! Футбол 2 HD
-http://127.0.0.1:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF:-1 tvg-logo="" group-title="Acestream",НТВ+ Наш футбол HD
-http://127.0.0.1:6878/ace/getstream?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd
-#EXTINF:-1 tvg-logo="" group-title="Acestream",Сетанта Спорт + HD
-http://127.0.0.1:6878/ace/getstream?id=748e65f5e9652a1c014dca2ad489957e1ba08b3c
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ua1PgFH.jpg" group-title="LALIGA",LALIGA ENGLISH 720p
-https://dice-live-eu.akamaized.net/hls/live/2005742/137492-143291-d/exchange137492GJAFz_137492_3000/exp=1580726579~acl=%2f*~id=33349bb8-537d-4122-930b-da81b45d4b95~data=hdntl~hmac=2d6c89e5818190b972e1eda7af1f82fb8a76da857f3a8362a64aff95cc09ee4e/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ua1PgFH.jpg" group-title="LALIGA",LaLigaTV HD
-http://weak_spell.carniferou.club/edge/LLTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://liveonscore.net/soccer-streams/osasuna-vs-levante/
-
-
-
+#EXTINF:-1 group-title="TBN",LALIGATV BAR
+http://213.194.142.224:8001/1:0:19:7859:41A:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",LALIGATVBAR1
+http://213.194.142.224:8001/1:0:1:769A:41E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",LALIGATVBAR2
+http://213.194.142.224:8001/1:0:1:7582:412:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",#VAMOSHD
+http://213.194.142.224:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",M.PartidazoHD
+http://213.194.142.224:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",BEIN LALIGA
+http://213.194.142.224:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",BEINLALIGA1
+http://213.194.142.224:8001/1:0:19:74FF:420:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",LALIGA123TV
+http://213.194.142.224:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",NAT GEO HD
+http://213.194.142.224:8001/1:0:19:7829:428:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",NG WILD HD
+http://213.194.142.224:8001/1:0:19:7889:414:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",HISTORIA
+http://213.194.142.224:8001/1:0:1:7731:416:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",DISCOVERY
+http://213.194.142.224:8001/1:0:1:772F:416:1:C00000:0:0:0:
+#EXTINF:-1 group-title="TBN",CANAL ODISEA
+http://213.194.142.224:8001/1:0:1:778A:424:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="Sports",Eleven Sports 1
 http://213.194.142.224:8001/1:0:16:1032:451:35:c00000:0:0:0|User-Agent=Mozilla/5.0
