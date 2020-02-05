@@ -1,31 +1,29 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TBN",LALIGATV BAR
-http://213.194.142.224:8001/1:0:19:7859:41A:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=30809
+http://213.194.142.224:8001/1:0:19:7859:41A:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",LALIGATVBAR1
-http://213.194.142.224:8001/1:0:1:769A:41E:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=30362
+http://213.194.142.224:8001/1:0:1:769A:41E:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",LALIGATVBAR2
-http://213.194.142.224:8001/1:0:1:7582:412:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=30082
+http://213.194.142.224:8001/1:0:1:7582:412:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",#VAMOSHD
-http://213.194.142.224:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=29910
+http://213.194.142.224:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",M.PartidazoHD
-http://213.194.142.224:8001/1:0:19:785F:41A:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=30815
+http://213.194.142.224:8001/1:0:19:785F:41A:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",BEIN LALIGA
-http://213.194.142.224:8001/1:0:19:750F:420:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=29967
+http://213.194.142.224:8001/1:0:19:750F:420:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",BEINLALIGA1
-http://213.194.142.224:8001/1:0:19:74FF:420:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=29951
+http://213.194.142.224:8001/1:0:19:74FF:420:1:C00000:0:0:0:
 #EXTINF:-1 group-title="TBN",LALIGA123TV
-http://213.194.142.224:8001/1:0:1:76C5:40E:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="TBN",NAT GEO HD
-http://213.194.142.224:8001/1:0:19:7829:428:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="TBN",NG WILD HD
-http://213.194.142.224:8001/1:0:19:7889:414:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="TBN",HISTORIA
-http://213.194.142.224:8001/1:0:1:7731:416:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="TBN",DISCOVERY
-http://213.194.142.224:8001/1:0:1:772F:416:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="TBN",CANAL ODISEA
-http://213.194.142.224:8001/1:0:1:778A:424:1:C00000:0:0:0:|User-Agent=Mozilla/5.0
+#EXTVLCOPT:program=30405
+http://213.194.142.224:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="Sports",Eleven Sports 1
 http://213.194.142.224:8001/1:0:16:1032:451:35:c00000:0:0:0|User-Agent=Mozilla/5.0
