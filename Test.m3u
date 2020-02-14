@@ -5,9 +5,9 @@ https://player.twitch.tv/?channel=vtv1okru&enableExtensions=true&muted=false&pla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ9ItfG.png" group-title="twitch.tv",VTV6
 https://player.twitch.tv/?channel=khongtuvtv6&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/htv7.jpg" group-title="twitch.tv",HTV7
-https://player.twitch.tv/?channel=hungthohtv7w
+https://player.twitch.tv/?channel=hungthohtv7w&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/vtc7.jpg" group-title="twitch.tv",VTC7
-https://player.twitch.tv/?channel=anhsaovtc7
+https://player.twitch.tv/?channel=anhsaovtc7&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png" group-title="twitch.tv",SCTV1
 https://player.twitch.tv/?volume=1&channel=wwwtivi12hnet&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png" group-title="twitch.tv",SCTV2
@@ -18,6 +18,8 @@ https://player.twitch.tv/?volume=1&channel=xemtvtructuyen&enableExtensions=true&
 http://player.twitch.tv/?volume=1&channel=bongda365livess&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="twitch.tv",HBO
 http://player.twitch.tv/?volume=1&channel=bongda365&enableExtensions=true&muted=false&player=popout&volume=1
+#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg" group-title="tvmienphi.biz",Disney Channel
+https://player.twitch.tv/?channel=tvmienphi&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="http://vietfacetv572.com/mediakit/wp-content/uploads/2015/04/VietFaceTV-logo.png" group-title="twitch.tv",VFTV
 https://player.twitch.tv/?channel=vface19&enableExtensions=true&muted=false&player=popout&volume=1
 
@@ -901,10 +903,9 @@ http://www.tvmienphi.biz/live-tv/red-by-hbo.html
 http://www.tvmienphi.biz/live-tv/warnertv.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/cartoon-network.png" group-title="tvmienphi.biz",Cartoon Network
 http://www.tvmienphi.biz/live-tv/cartoon-network.html
-#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg" group-title="tvmienphi.biz",Disney Channel s1
+#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg" group-title="tvmienphi.biz",Disney Channel
 http://www.tvmienphi.biz/live-tv/disney-channel.html
-#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg" group-title="tvmienphi.biz",Disney Channel s2
-https://player.twitch.tv/?channel=tvmienphi
+
 
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png" group-title="tvmienphi.net",VTV1 HD 
 http://sv.tvmienphi.net/ok/vtv/vtv1show.php
