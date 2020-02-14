@@ -3,9 +3,11 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1mL7pe5_LyQ/VpxA8NVTYzI/AAAAAAAAAXQ/JfCQuwwxVNU/h120/vtv1.png" group-title="twitch.tv",VTV1
 https://player.twitch.tv/?channel=vtv1okru&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ9ItfG.png" group-title="twitch.tv",VTV6
+https://player.twitch.tv/?channel=khongtuvtv6&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/htv7.jpg" group-title="twitch.tv",HTV7
 https://player.twitch.tv/?channel=hungthohtv7w
-https://player.twitch.tv/?channel=khongtuvtv6&enableExtensions=true&muted=false&player=popout&volume=1
+#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/vtc7.jpg" group-title="twitch.tv",VTC7
+https://player.twitch.tv/?channel=anhsaovtc7
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png" group-title="twitch.tv",SCTV1
 https://player.twitch.tv/?volume=1&channel=wwwtivi12hnet&enableExtensions=true&muted=false&player=popout&volume=1
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png" group-title="twitch.tv",SCTV2
@@ -900,8 +902,10 @@ http://www.tvmienphi.biz/live-tv/vtv4.html
 http://www.tvmienphi.biz/live-tv/vtv5.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/vtv6.jpg" group-title="tvmienphi.biz",VTV6
 http://www.tvmienphi.biz/live-tv/vtv6.html
-#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/echannel.jpg" group-title="tvmienphi.biz",EChannel
+#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/echannel.jpg" group-title="tvmienphi.biz",VTVcab5 EChannel
 http://www.tvmienphi.biz/live-tv/echannel.html
+#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/sm/htv1.jpg" group-title="tvmienphi.biz",HTV1
+http://www.tvmienphi.biz/live-tv/htv1.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/sm/htv2.jpg" group-title="tvmienphi.biz",HTV2
 http://www.tvmienphi.biz/live-tv/htv2.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/sm/htv3.jpg" group-title="tvmienphi.biz",HTV3
@@ -910,10 +914,8 @@ http://www.tvmienphi.biz/live-tv/htv3.html
 http://www.tvmienphi.biz/live-tv/htv7.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/sm/htv9.jpg" group-title="tvmienphi.biz",HTV9
 http://www.tvmienphi.biz/live-tv/htv9.html
-#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/vtc7.jpg" group-title="tvmienphi.biz",VTC7 s1
+#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/vtc7.jpg" group-title="tvmienphi.biz",VTC7
 http://www.tvmienphi.biz/live-tv/vtc7.html
-#EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/vtc7.jpg" group-title="tvmienphi.biz",VTC7 s2
-https://player.twitch.tv/?channel=anhsaovtc7
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/sctv9.png" group-title="tvmienphi.biz",SCTV9
 http://www.tvmienphi.biz/live-tv/sctv9.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/thvl1.jpg" group-title="tvmienphi.biz",THVL1
@@ -932,34 +934,6 @@ http://www.tvmienphi.biz/live-tv/cartoon-network.html
 http://www.tvmienphi.biz/live-tv/disney-channel.html
 #EXTINF:-1 tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg" group-title="tvmienphi.biz",Disney Channel s2
 https://player.twitch.tv/?channel=tvmienphi
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD1
-https://sportzonline.co/channels/hd/hd1.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD2
-https://sportzonline.co/channels/hd/hd2.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD3
-https://sportzonline.co/channels/hd/hd3.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD4
-https://sportzonline.co/channels/hd/hd4.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD5
-https://sportzonline.co/channels/hd/hd5.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD6
-https://sportzonline.co/channels/hd/hd6.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD7
-https://sportzonline.co/channels/hd/hd7.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH HD",Cannel HD8
-https://sportzonline.co/channels/hd/hd8.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Kênh Thể Thao TH HD",SPORT TV 1
-https://sportzonline.co/channels/pt/sporttv1.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Kênh Thể Thao TH HD",SPORT TV 2
-https://sportzonline.co/channels/pt/sporttv2.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Kênh Thể Thao TH HD",SPORT TV 3
-https://sportzonline.co/channels/pt/sporttv3.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Kênh Thể Thao TH HD",SPORT TV 4
-https://sportzonline.co/channels/pt/sporttv4.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Kênh Thể Thao TH HD",SPORT TV 5
-https://sportzonline.co/channels/pt/sporttv5.php
 
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png" group-title="tvmienphi.net",VTV1 HD 
 http://sv.tvmienphi.net/ok/vtv/vtv1show.php
