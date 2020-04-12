@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_342b469c934f4b4899595f03699e8135~mv2.png",#VAMOS
+http://37.187.128.169:8000/live/1815shuuyap098e3j58/no1345cnbfhy4y568119889123/19.ts$OPT:http-user-agent=exoplayer_video
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_36a3a99d73904ce1acd08dba3ee20607~mv2.png",#0 HD
+http://37.187.128.169:8000/live/1815shuuyap098e3j58/no1345cnbfhy4y568119889123/2.ts$OPT:http-user-agent=exoplayer_video
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_bf4c10d2b31744f0ab8012556707905b~mv2.png",ESTRENOS HD
+http://37.187.128.169:8000/live/1815shuuyap098e3j58/no1345cnbfhy4y568119889123/3.ts$OPT:http-user-agent=exoplayer_video
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_ad70a19354b94046935a43f4d6b600a3~mv2.png",DRAMA HD
+http://37.187.128.169:8000/live/1815shuuyap098e3j58/no1345cnbfhy4y568119889123/4.ts$OPT:http-user-agent=exoplayer_video
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_84a25e6160694c1bbdeae60af85d85d0~mv2.png",ACCION HD
+http://37.187.128.169:8000/live/1815shuuyap098e3j58/no1345cnbfhy4y568119889123/5.ts$OPT:http-user-agent=exoplayer_video
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//vQTEvB83o75TFPEjwyrTxliiPGs.jpg" group-title="Câu Chuyện Cuộc Sống",tập 1/4
 http://media.studyphim.vn/VIPN7/bbc%20life%20story/Life.Story.E1.First.Steps.2014.1080p.BluRay.AC3.x264-tomcat12[ETRG].mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//vQTEvB83o75TFPEjwyrTxliiPGs.jpg" group-title="Câu Chuyện Cuộc Sống",tập 2/4
