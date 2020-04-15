@@ -1,11 +1,50 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV1
+http://tvhouse.xyz/tv24.m3u8?channel=sctv1
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV2
+http://tvhouse.xyz/tv24.m3u8?channel=sctv2
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV3
+http://tvhouse.xyz/tv24.m3u8?channel=sctv3
+#EXTINF:-1 group-title="SCTV" tvg-logo=https://tv24.vn/images/default_hor.png", SCTV6
+http://tvhouse.xyz/tv24.m3u8?channel=sctv6
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV7
+http://tvhouse.xyz/tv24.m3u8?channel=sctv7
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV8
+http://tvhouse.xyz/tv24.m3u8?channel=sctv8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV9
+http://vtv.iptvfree.gq:2086/live/sctv9.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV10
+http://tvhouse.xyz/tv24.m3u8?channel=sctv10
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV11
+http://tvhouse.xyz/tv24.m3u8?channel=sctv11
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV12
+http://tvhouse.xyz/tv24.m3u8?channel=sctv12
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV13
+http://tvhouse.xyz/tv24.m3u8?channel=sctv13
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV14
+http://tvhouse.xyz/tv24.m3u8?channel=sctv14
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV15
+http://vtv.iptvfree.gq:2086/live/sctv15.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV16
+http://tvhouse.xyz/tv24.m3u8?channel=sctv16
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV18
+http://tvhouse.xyz/tv24.m3u8?channel=sctv18
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV19
+http://tvhouse.xyz/tv24.m3u8?channel=sctv19
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV20
+http://tvhouse.xyz/tv24.m3u8?channel=sctv20
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV Phim Tổng Hợp
+http://tvhouse.xyz/tv24.m3u8?channel=sctvpth
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_151696221596.png" group-title="NEW",K+1 HD
 rtsp://203.162.123.178:554/kplus
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_151721930404.png" group-title="NEW",K+NS HD
 rtsp://203.162.123.178:554/kns
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_15172192876.png" group-title="NEW",K+PM HD
 rtsp://203.162.123.178:554/kpm
+#EXTINF:-1 tvg-id="K_PC" group-title="NEW" tvg-logo="https://mytv.com.vn/upload/channel/phpdWNqGa_5d765a2419123.png", K+PC
+http://42.115.218.251:6606/udp/225.1.1.1:30120
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg" group-title="NEW",FOX Sport 1 HD
 rtsp://203.162.123.178:554/foxsport
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="NEW",FOX Sport 2 HD
