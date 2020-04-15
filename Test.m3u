@@ -1,12 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="vnoo.net" tvg-logo="http://tv.vnoo.net/img/ngwhd.jpg",Natgeo wild 
+http://tv.vnoo.net/site/player?channel=ngwhd
+
+
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV1
 http://tvhouse.xyz/tv24.m3u8?channel=sctv1
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV2
 http://tvhouse.xyz/tv24.m3u8?channel=sctv2
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV3
 http://tvhouse.xyz/tv24.m3u8?channel=sctv3
-#EXTINF:-1 group-title="SCTV" tvg-logo=https://tv24.vn/images/default_hor.png", SCTV6
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV6
 http://tvhouse.xyz/tv24.m3u8?channel=sctv6
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://tv24.vn/images/default_hor.png", SCTV7
 http://tvhouse.xyz/tv24.m3u8?channel=sctv7
