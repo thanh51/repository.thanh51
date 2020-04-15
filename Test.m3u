@@ -1,5 +1,54 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_151696221596.png" group-title="NEW",K+1 HD
+rtsp://203.162.123.178:554/kplus
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_151721930404.png" group-title="NEW",K+NS HD
+rtsp://203.162.123.178:554/kns
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_15172192876.png" group-title="NEW",K+PM HD
+rtsp://203.162.123.178:554/kpm
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg" group-title="NEW",FOX Sport 1 HD
+rtsp://203.162.123.178:554/foxsport
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="NEW",FOX Sport 2 HD
+rtsp://203.162.123.178:554/foxsport2
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png" group-title="NEW",FOX Sport 3 HD
+rtsp://203.162.123.178:554/foxsport3
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV1 HD
+rtsp://203.162.123.178:554/vtv1
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV2 HD
+rtsp://203.162.123.178:554/vtv2
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV3 HD
+rtsp://203.162.123.178:554/vtv3
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV4 HD
+rtsp://203.162.123.178:554/vtv4
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV5 HD
+rtsp://203.162.123.178:554/vtv5
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV6 HD
+rtsp://203.162.123.178:554/vtv6
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTV9 HD
+rtsp://203.162.123.178:554/vtv9
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTVCab 2
+rtsp://203.162.123.178:554/vtvcab2
+#EXTINF:-1 tvg-logo="https://api.mytvnet.vn/static/channel/36.png" group-title="NEW",VTVCab3
+rtsp://203.162.123.178:554/thethao
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTVCab10
+rtsp://203.162.123.178:554/vtvcab10
+#EXTINF:-1 tvg-logo="" group-title="NEW",HTV7 HD
+rtsp://203.162.123.178:554/htv7 
+#EXTINF:-1 tvg-logo="" group-title="NEW",HTV9 HD
+rtsp://203.162.123.178:554/htv9
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTC1
+rtsp://203.162.123.178:554/vtc1
+#EXTINF:-1 tvg-logo="" group-title="NEW",VTC7 
+rtsp://203.162.123.178:554/vtc7
+#EXTINF:-1 tvg-logo="" group-title="NEW",SCTV 1 HD
+rtsp://203.162.123.178:554/sctv1
+#EXTINF:-1 tvg-logo="" group-title="NEW",SCTV 9 
+rtsp://203.162.123.178:554/bongda
+#EXTINF:-1 tvg-logo="" group-title="NEW",Cartoon Network HD
+rtsp://203.162.123.178:554/cartoon
+#EXTINF:-1 tvg-logo="" group-title="NEW",BBC World News
+rtsp://203.162.123.178:554/bbc
+
 #EXTINF:-1 tvg-logo="http://static.hdo.tv/i/resources/new/film/215x311/2020/04/14/first-love.jpg?v=01" group-title="hdo.tv",Mối Tình Đầu
 http://goophim.com/xem-phim/hdonline-phim-first-love-17913.html
 #EXTINF:-1 tvg-logo="http://static.hdo.tv/i/resources/new/film/215x311/2020/04/14/emma.jpg?v=01" group-title="hdo.tv",Bà Mối Emma
