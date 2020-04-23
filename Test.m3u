@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="tivihot.net",VTVCab16
+http://tivihot.net/live/VTVCab/VTVcab16-bong-da-tv.php
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="tivihot.net",VTV1 HD
 http://tvonline.vn/channel/vtv1/?source=2
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv2-hd.png" group-title="tivihot.net",VTV2 HD
@@ -18,6 +20,32 @@ http://tvonline.vn/channel/vtv7/?source=2
 http://tvonline.vn/channel/vtv8/?source=2
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv9-hd-1.png" group-title="tivihot.net",VTV9 HD
 http://tvonline.vn/channel/vtv9/?source=2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
+http://tvonline.vn/channel/htv1/?source=2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg",HTV2 
+http://tvonline.vn/channel/htv2/?source=2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg",HTV3
+http://tvonline.vn/channel/htv3/?source=2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg",HTV4
+http://tvonline.vn/channel/htv4/?source=2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg",HTV7 HD
+http://tvonline.vn/channel/htv7/?source=2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg",HTV9 HD
+http://tvonline.vn/channel/htv9/?source=2
+#EXTINF:-1 group-title="tivihot.net" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg",HTVC Du Lịch
+http://tvonline.vn/channel/htvc-du-lich-cuoc-song/?source=3
+#EXTINF:-1 group-title="tivihot.net" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png",HTVC Phim 
+http://tvonline.vn/channel/htvc-phim/?source=3
+#EXTINF:-1 group-title="tivihot.net" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_150055165562.jpg",HTVC Gia Đình
+http://tvonline.vn/channel/htvc-gia-dinh/?source=3
+#EXTINF:-1 group-title="tivihot.net" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg",HTVC Phụ Nữ
+http://tvonline.vn/channel/htvc-phu-nu/?source=3
+#EXTINF:-1 group-title="tivihot.net" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg",HTVC Thuần Việt
+http://tvonline.vn/channel/htvc-thuan-viet/?source=3
+#EXTINF:-1 group-title="tivihot.net" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao 
+http://tvonline.vn/channel/htv-the-thao/?source=3
+
+
 
 #EXTINF:-1 tvg-logo="https://canthotv.vn/wp-content/uploads/2019/08/Bolero_2-550x344.png" group-title="Tình Bolero",Giọt lệ đài trang
 http://media3.canthotv.vn/2020/PT/04/09/Bolero_09042020.mp3
