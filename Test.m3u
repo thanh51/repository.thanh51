@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 group-title="Ace Sports",Матч Премьер (allfon)
+http://127.0.0.1:6878/ace/getstream?id=483623e89a7548b6a837f76c0aef15341494032b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:0 group-title="Ace Sports",Матч ТВ (allfon)
+http://127.0.0.1:6878/ace/getstream?id=41c6b8c280c1cfe7f01551dd0a1b169a93f7eb32&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:0 group-title="Ace Sports",Матч! Арена (allfon)
+http://127.0.0.1:6878/ace/getstream?id=a5d08bc21f4ed86fd34197c31b358581b6181901&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="tivihot.net",VTVCab16
 http://tivihot.net/vtvcab16-kenh-bong-da-tv-hd-truc-tuyen-online.html
