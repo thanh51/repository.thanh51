@@ -1,38 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv1.png" group-title="xemtivionline.live",SCTV1
-http://xemtivionline.live/xem-kenh-tivi-sctv1-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv2.png" group-title="xemtivionline.live",SCTV2
-http://xemtivionline.live/xem-kenh-tivi-sctv2-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv3.png" group-title="xemtivionline.live",SCTV3
-http://xemtivionline.live/xem-kenh-tivi-sctv3-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv6.png" group-title="xemtivionline.live",SCTV6
-http://xemtivionline.live/xem-kenh-tivi-sctv6-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv7.png" group-title="xemtivionline.live",SCTV7
-http://xemtivionline.live/xem-kenh-tivi-sctv7-truc-tuyen-sctv.html
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv1.png" group-title="xemtivionline.live",SCTVHD Hài
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_Hai.smil/chunklist_w684211945_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv2.png" group-title="xemtivionline.live",SCTV2HD
+https://vtsstr6.tv24.vn/live/_definst_/smil:sctv2_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv3.png" group-title="xemtivionline.live",SCTVHD Thiếu nhi
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv6.png" group-title="xemtivionline.live",SCTV6 HD
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV6HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv7.png" group-title="xemtivionline.live",SCTV7 HD
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv8.png" group-title="xemtivionline.live",SCTV8
-http://xemtivionline.live/xem-kenh-tivi-sctv8-truc-tuyen-sctv.html
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV8_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv10.png" group-title="xemtivionline.live",SCTV10
-http://xemtivionline.live/xem-kenh-tivi-sctv10-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv11.png" group-title="xemtivionline.live",SCTV11
-http://xemtivionline.live/xem-kenh-tivi-sctv11-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv12.png" group-title="xemtivionline.live",SCTV12
-http://xemtivionline.live/xem-kenh-tivi-sctv12-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv13.png" group-title="xemtivionline.live",SCTV13
-http://xemtivionline.live/xem-kenh-tivi-sctv13-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv14.png" group-title="xemtivionline.live",SCTV14
-http://xemtivionline.live/xem-kenh-tivi-sctv14-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv16.png" group-title="xemtivionline.live",SCTV16
-http://xemtivionline.live/xem-kenh-tivi-sctv16-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv18.png" group-title="xemtivionline.live",SCTV18
-http://xemtivionline.live/xem-kenh-tivi-sctv18-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv19.png" group-title="xemtivionline.live",SCTV19
-http://xemtivionline.live/xem-kenh-tivi-sctv19-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv20.png" group-title="xemtivionline.live",SCTV20
-http://xemtivionline.live/xem-kenh-tivi-sctv20-truc-tuyen-sctv.html
-#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctvphimth.png" group-title="xemtivionline.live",SCTV Phim TH
-http://xemtivionline.live/xem-kenh-tivi-sctvphimtonghop-truc-tuyen-sctv.html
+https://vtsstr6.tv24.vn/live/_definst_/smil:sctv10_SD.smil/chunklist_b2292000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv11.png" group-title="xemtivionline.live",SCTV11 HD Văn hóa Nghệ thuật	
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv12.png" group-title="xemtivionline.live",SCTV12 HD Du lịch Khám phá
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV12_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv13.png" group-title="xemtivionline.live",SCTVHD Phụ nữ Gia đình
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhunuGiadinh.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv14.png" group-title="xemtivionline.live",SCTVHD Phim Việt
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_PhimViet.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv16.png" group-title="xemtivionline.live",SCTVHD Phim nước ngoài đặc sắc	
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_phimnuocngoaidacsac.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv18.png" group-title="xemtivionline.live",SCTV18 HD
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv19.png" group-title="xemtivionline.live",SCTV19 HD
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV19_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctv20.png" group-title="xemtivionline.live",SCTV20 HD
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV20_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctvphimth.png" group-title="xemtivionline.live",SCTVHD Phim Tổng hợp
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab1.jpg" group-title="xemtivionline.live",VTVcab1 HD
+http://www.xemtivionline.live/xem-kenh-tivi-vtvcab1-truc-tuyen-hot.html
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab2.jpg" group-title="xemtivionline.live",VTVcab2
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab4.png" group-title="xemtivionline.live",VTVcab4 HD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab5.jpg" group-title="xemtivionline.live",VTVcab5
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab10.jpg" group-title="xemtivionline.live",VTVcab10 
+http://www.xemtivionline.live/xem-kenh-tivi-vtvcab10-truc-tuyen-hot.html
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab16.jpg" group-title="xemtivionline.live",VTVcab16
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_b2692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg" group-title="BĐ Đức (Bundesliga)",26/05 23:30 Dortmund vs Bayern Munich (bongdatructuyen.live)
 https://bongdatructuyen.live/widget/play.php?id=34769
