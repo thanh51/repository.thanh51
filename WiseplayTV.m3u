@@ -408,12 +408,29 @@ https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV20_HD.smil/chunklist_b2692000.m3
 #EXTINF:-1 tvg-logo="http://xemtivionline.live/logo/sctvphimth.png" group-title="SCTV",SCTVHD Phim Tổng hợp
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",THVL1 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong1
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",THVL2 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong2
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg",THVL3 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong3
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/A0i0AdN.png",THVL4 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong4
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Movies",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" group-title="Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-name="HBO HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png",HBO HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
+#EXTINF:-1 tvg-id="redbyhbohd" group-title="Movies" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png",Red By HBO HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=redbyhbohd
+#EXTINF:-1 tvg-id="maxbyhbohd" group-title="Movies" tvg-name="Max by HBO HD" tvg-logo="https://imgur.com/76pIxyD.png",Max by HBO HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=maxbyhbohd
+#EXTINF:-1 tvg-id="axnhd" tvg-name=AXN-ClipTV tvg-logo="http://fboximages.fptplay.net.vn/Channel/iconChannel/AXNHD.png" group-title="Movies",AXN HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=axnhd
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" group-title="Movies",AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Movies",WBTV
@@ -427,14 +444,24 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="Movies",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z3SVeHB.png" group-title="Khám Phá",National Geographic HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z3SVeHB.png" group-title="Khám Phá",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ngchd" group-title="Khám Phá" tvg-name="National Geographic HD" tvg-logo="http://i.imgur.com/oi83ML8.jpg",National Geographic HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngchd
+#EXTINF:-1 tvg-id="ngphd" group-title="Khám Phá" tvg-name="Nat Geo People HD" tvg-logo="https://i.imgur.com/9GaCxHr.png",Nat Geo People HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngphd
+#EXTINF:-1 tvg-id="ngwhd" group-title="Khám Phá" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/UT2Fh4x.jpgp",Nat Geo Wild HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngwhd
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Khám Phá",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="Khám Phá" tvg-name="DISCOVERY HD" tvg-logo="http://i.imgur.com/hkNiFL3.jpg",DISCOVERY HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=discoveryhd
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Khám Phá",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="Khám Phá",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bbc_earth" group-title="Khám Phá" tvg-name="BBC Earth HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=bbc_earth
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Khám Phá",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="Khám Phá",Animal Planet
