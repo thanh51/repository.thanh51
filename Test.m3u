@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="K+",K+1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+http://203.162.123.178:8080/kplus/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="K+",K+NS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+http://203.162.123.178:8080/kns/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="K+",K+PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+http://203.162.123.178:8080/kpm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="K+",K+PC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+http://203.162.123.178:8080/kpc/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="m.iptv444.com",CCTV5 HD
 http://m.iptv345.com/?act=play&token=6994ad7f76598e2fc0980858c8e26278&tid=hlitv&id=5
 
