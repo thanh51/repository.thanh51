@@ -1,19 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ES1.US" tvg-logo="http://static.epg.best/us/SECNetwork.us.png" group-title="Sports",ESPN
-https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://sportsbay.org/embed/43572/1/espn-usa-live.html
-
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
-https://e7.cdn4.us/ingest666/espn2.m3u8|Referer=https://sportsbay.org/embed/45351/1/espn-2-live.html
-
-#EXTINF:-1 tvg-id="ES1.AR" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN Sur
-https://e7.cdn4.us/ingest666/espn_sur.m3u8|Referer=https://sportsbay.org/embed/54013/1/espn-sur-live.html
-
-#EXTINF:-1 tvg-id="ES2.AR" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="American Sports",ESPN Sur 2
-https://e7.cdn4.us/ingest666/espn2_sur.m3u8|Referer=https://sportsbay.org/embed/54014/1/espn-2-sur-live.html
-
-#EXTINF:-1 tvg-id="ES3.AR" tvg-logo="https://static.epg.best/co/ESPN3.co.png" group-title="American Sports",ESPN Sur 3
-https://e7.cdn4.us/ingest666/espn3_sur.m3u8|Referer=https://sportsbay.org/embed/54015/1/espn-3-sur-live.html
+#EXTINF:-1 tvg-logo="" group-title="hdstreams.club",CH1
+http://hdstreams.club/page/ch1.php#
+#EXTINF:-1 tvg-logo="" group-title="hdstreams.club",CH2
+http://hdstreams.club/page/ch2.php#
+#EXTINF:-1 tvg-logo="" group-title="hdstreams.club",CH3
+http://hdstreams.club/page/ch3.php#
+#EXTINF:-1 tvg-logo="" group-title="hdstreams.club",CH4(Bein sports USA)
+http://hdstreams.club/page/ch4.php#
+#EXTINF:-1 tvg-logo="" group-title="hdstreams.club",CH5 (Sky Sports Premier League)
+http://hdstreams.club/page/ch5.php#
+#EXTINF:-1 tvg-logo="" group-title="hdstreams.club",CH6
+http://hdstreams.club/page/ch6.php#
 
 #EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/football-channel-glyph-icon-vector-600w-1609825450.jpg" group-title="dailysport.pw",Sports & BĐ (ENGLISH) s1
 https://dailysport.pw/c2.php
