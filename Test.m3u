@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/809859306954723328/ldxBUVVT_400x400.jpg" group-title="Vola Sports",CCX Sports 1
+https://cablecast.nwct.org/cablecastapi/live?channel_id=6&use_cdn=false
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/809859306954723328/ldxBUVVT_400x400.jpg" group-title="Vola Sports",CCX Sports 2
+https://cablecast.nwct.org/cablecastapi/live?channel_id=3&use_cdn=false
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/809859306954723328/ldxBUVVT_400x400.jpg" group-title="Vola Sports",CCX Sports 3
+https://cablecast.nwct.org/cablecastapi/live?channel_id=2&use_cdn=false
 #EXTINF:-1 tvg-logo="" group-title="Vola Sports",BT SPORT 1 
 http://flysohigh.xyz/data_4w/data_3w/oak_secure_play_1.php?id=1456
 #EXTINF:-1 tvg-logo="" group-title="Vola Sports",BT SPORT 2 
