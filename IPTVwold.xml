@@ -1,175 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<item><!-- iptv daily -->
+<title>•  [B]IPTV Daily[/B] Updated daily </title>
 
-<channels>
+<link>$doregex[makelist1]</link>
 
-<channel>
-       <name>[COLOR pink][B]WORLD DAILY SERVERS IPTV - Cần addon f4mTester[/B][/COLOR]</name>
-       <thumbnail>https://i1.wp.com/cafe-tv.net/wp-content/uploads/2019/05/Live-TV-Sport.jpg?fit=1280%2C720&amp;ssl=1</thumbnail>
-       <externallink>http://www.shark55.com/</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Sports HD/F4m tester/.ts fils [/COLOR][/B]/info>
-</channel>
- 
-<channel>
-       <name>[COLOR white][B] Playlist 1[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List1.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Sports HD/F4m tester/.ts fils [/COLOR][/B]/info>
-</channel>
--->
-<channel>
-        <name>[COLOR white][B] Playlist 2[/COLOR][/B]</name>
-        <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-        <externallink>http://www.shark55.com/ssports/List/List2.xml</externallink>
-        <fanart></fanart>
-        <info></info>
-</channel>
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR lightblue]   [makelist1.param1] [/COLOR]  [/B]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>http://blackaddon.com/gray/img/tp.png</thumbnail>
+<fanart>http://blackaddon.com/gray/img/fanart.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[44336\'>(.*?)<.*?href='(.*?)']]></expres>
+<page>http://m3ukodi.com/site/voyer/</page>
+</regex>
 
-<channel>
-       <name>[COLOR white][B] Playlist 3[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List3.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
 
-<channel>
-       <name>[COLOR white][B] Playlist 4[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List4.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
 
-<channel>
-       <name>[COLOR white][B] Playlist 5[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List5.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>$pyFunction:'[COLOR lightblue][makelist2.param3][makelist2.param4][makelist2.param5][makelist2.param6]  [/COLOR]'.replace('Active','[COLOR lime][B]Active[/B][COLOR]').replace('Disabled','[COLOR gray]Disabled[COLOR]').replace('Banned ','[COLOR red]Banned [COLOR]')</title>
+<link>NA</link>
+<info>[COLOR yellow][makelist2.param7] [/COLOR] -[COLOR coral] [makelist2.param8][/COLOR]</info>
+<externallink>[makelist2.param2]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[>HIT<.*?href="(.*?)".*?white">(.*?)<.*?\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\n]]></expres>
+<page>http://m3ukodi.com/site/voyer/[makelist1.param2]</page>
+</regex>
 
-<channel>
-       <name>[COLOR white][B] Playlist 6[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List6.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
 
-<channel>
-       <name>[COLOR white][B] Playlist 7[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List7.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
 
-<channel>
-       <name>[COLOR white][B] Playlist 8[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List8.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
 
-<channel>
-       <name>[COLOR white][B] Playlist 9[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List9.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 10[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List10.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Sports HD/F4m tester/.ts fils [/COLOR][/B]/info>
-</channel>
--->
-<channel>
-        <name>[COLOR white][B] Playlist 11[/COLOR][/B]</name>
-        <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-        <externallink>http://www.shark55.com/ssports/List/List11.xml</externallink>
-        <fanart></fanart>
-        <info></info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 12[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List12.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 13[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List13.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 14[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List14.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 15[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List16.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 16[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List16.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 17[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List17.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 18[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List18.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 19[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List19.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-<channel>
-       <name>[COLOR white][B] Playlist 20[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <externallink>http://www.shark55.com/ssports/List/List20.xml</externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
-</channel>
-
-       
-       
+<thumbnail>http://blackaddon.com/gray/img/tp.png</thumbnail>
+<fanart>http://blackaddon.com/gray/img/fanart.jpg</fanart>
+  </item>
