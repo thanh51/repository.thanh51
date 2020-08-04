@@ -562,15 +562,6 @@ http://www.xemtivionline.net/kenh-sctv18-hd-truc-tuyen-xem-tivi-sctv18-hd-live.h
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://www.xemtivionline.net/hinh/binhduong5.png",BTV5
 http://www.xemtivionline.net/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",THVL1 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong1
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",THVL2 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong2
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg",THVL3 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong3
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/A0i0AdN.png",THVL4 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong4
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Movies",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" group-title="Movies",Fox Movies
@@ -618,6 +609,29 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Khám Phá" tvg-logo="http://i.imgur.com/MtCA5jr.png" group-title="Khám Phá",ABC Australia
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/P1NZQA12JQ.png" group-title="TH Địa Phương",Đồng Tháp
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png" group-title="TH Địa Phương",Đồng Nai1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/SI3VJ83CH4.png" group-title="TH Địa Phương",Hải Dương
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png" group-title="TH Địa Phương",Hà Nội
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/7/WHB2CWOZXN.png" group-title="TH Địa Phương",Hải Phòng
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/RV4ZN82THN.png" group-title="TH Địa Phương",Hưng Yên
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png" group-title="TH Địa Phương",Ngệ An
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/PJA6PX4DFR.png" group-title="TH Địa Phương",Quảng Bình
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png" group-title="TH Địa Phương",Thái Bình
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh                               
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/28/WK8EX4J9QH.png" group-title="TH Địa Phương",Thanh Hóa
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/IUI3TJ7TKH.png" group-title="TH Địa Phương",THVL1
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="ChinaTV",CCTV-1HD
 http://m.iptv345.com/?act=play&token=3f143590ee38c37ffa2d95864aeab635&tid=hlitv&id=1
