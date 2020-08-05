@@ -81,9 +81,9 @@ acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
 
 
 
-#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab16.png" group-title="Kênh Thể Thao TH",VTVcab16 BongDaTV
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab16.png" group-title="Kênh Thể Thao TH",VTVcab16 BongDaTV s1
 http://www.xemtivionline.net/kenh-bong-da-tv-vtvcab16-truc-tuyen-xem-tivi-bong-da-tv-vtvcab16-live.html
-#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab16.png" group-title="Kênh Thể Thao TH",VTVcab16 BongDaTV HD
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab16.png" group-title="Kênh Thể Thao TH",VTVcab16 BongDaTV s2
 http://www.xemtivimienphi.com/xem-kenh-bong-da-tv-hd-truc-tuyen-live.html
 #EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab3.png" group-title="Kênh Thể Thao TH",VTVcab3 TheThaoTV s1
 http://www.xemtivionline.net/kenh-the-thao-tv-vtvcab3-truc-tuyen-xem-tivi-the-thao-tv-vtvcab3-live.html
@@ -509,10 +509,19 @@ https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://www.xemtvhd.net/ima/vtvcab5.png" group-title="VTV",VTVcab5
+
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab3.png" group-title="VTVcab",VTVcab3 TheThaoTV s1
+http://www.xemtivionline.net/kenh-the-thao-tv-vtvcab3-truc-tuyen-xem-tivi-the-thao-tv-vtvcab3-live.html
+#EXTINF:-1 tvg-logo="http://xemtivimienphi.com/ima/vtvcab3.png" group-title="VTVcab",VTVcab3 TheThaoTV s2
+http://www.xemtivimienphi.com/xem-kenh-the-thao-tv-hd-truc-tuyen-live.html
+#EXTINF:-1 tvg-logo="http://www.xemtvhd.net/ima/vtvcab5.png" group-title="VTVcab",VTVcab5
 http://www.xemtvhd.net/kenh-vtvcab5-truc-tuyen-xem-vtvcab5-live.html
-#EXTINF:-1 tvg-logo="http://www.xemtvhd.net/ima/vtvcab10.png" group-title="VTV",VTVcab10
+#EXTINF:-1 tvg-logo="http://www.xemtvhd.net/ima/vtvcab10.png" group-title="VTVcab",VTVcab10
 http://www.xemtvhd.net/kenh-vtvcab10-dramas-truc-tuyen-xem-vtvcab10-dramas-hot.html
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab16.png" group-title="VTVcab",VTVcab16 BongDaTV s1
+http://www.xemtivionline.net/kenh-bong-da-tv-vtvcab16-truc-tuyen-xem-tivi-bong-da-tv-vtvcab16-live.html
+#EXTINF:-1 tvg-logo="http://www.xemtivionline.net/hinh/vtvcab16.png" group-title="VTVcab",VTVcab16 BongDaTV s2
+http://www.xemtivimienphi.com/xem-kenh-bong-da-tv-hd-truc-tuyen-live.html
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg" group-title="HTV",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
