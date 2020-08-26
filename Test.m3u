@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/hbohd.jpg" group-title="Movies Thai",HBO FHD Thai
+http://www.iamntp.com/tv/allchannel/movie/livehbo.php?ch=hbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKCYcmD.png" group-title="Movies Thai",HBO Sig FHD Thai
+http://www.iamntp.com/tv/allchannel/movie/livehbo.php?ch=sig
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkUaZCa.png" group-title="Movies Thai",HBO Hist FHD Thai
+http://www.iamntp.com/tv/allchannel/movie/livehbo.php?ch=hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/752AKl6.png" group-title="Movies Thai",HBO family FHD Thai
+http://www.iamntp.com/tv/allchannel/movie/livehbo.php?ch=family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZocsvE3.png" group-title="Movies Thai",Cinemax FHD Thai
+http://www.iamntp.com/tv/allchannel/movie/livehbo.php?ch=max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b59aWDu.png" group-title="Movies Thai",Red By HBO FHD Thai
+http://www.iamntp.com/tv/allchannel/movie/livehbo.php?ch=red
 
 #EXTINF:-1 tvg-id="VTC1"group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
