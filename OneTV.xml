@@ -192,6 +192,12 @@
 <thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png</thumbnail>
 </item>
 <item>
+<title>HTVC Ca Nhạc HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/PgOD7m8.png</thumbnail>
+</item>  
+  
+<item>
 <title>HTV Coop</title>
 <link>udp://@225.1.1.210:30120</link>
 <thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=345&h=210&mode=scale</thumbnail>
@@ -517,6 +523,11 @@
 <thumbnail>http://i.imgur.com/HibfTmZ.png</thumbnail>
 </item>
 <item>
+<title>KBS World</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8</link>
+<thumbnail>https://imgur.com/HXFXYdZ.png</thumbnail>
+</item>  
+<item>
 <title>Channel News Asia</title>
 <link>udp://@225.1.1.202:30120</link>
 <thumbnail>http://i.imgur.com/DhcvpCm.png</thumbnail>
@@ -822,10 +833,15 @@
 <link>udp://@225.1.1.154:30120</link>
 <thumbnail>http://vuapp.tranvu.info/upload//thvl2.png</thumbnail>
 </item>
-<item>
+<item>  
 <title>Vĩnh Long 3 HD</title>
 <link>udp://@225.1.1.235:30120</link>
 <thumbnail>https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg</thumbnail>
+</item>
+<item>  
+<title>Vĩnh Long 4 HD</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8</link>
+<thumbnail>https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg</thumbnail>
 </item>
 <item>
 <title>CẦN THƠ</title>
