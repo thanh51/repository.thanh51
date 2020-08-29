@@ -1,6 +1,17 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv1.jpg" group-title="BĐN Sports",Sport TV 1 HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv2.jpg" group-title="BĐN Sports",Sport TV 2 HD
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg" group-title="BĐN Sports",Sport TV 3 HD
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv4.jpg" group-title="BĐN Sports",Sport TV 4 HD
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="ThaiMovie" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg",HBO HD(EN)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="ThaiMovie" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg",HBO Signature HD(EN)
