@@ -170,19 +170,19 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Movies",Fox HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Quốc Tế",FOX FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Movies",FOX FHD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" group-title="Movies",Fox Movies HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png" group-title="Quốc Tế",Fox Movies FHD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png" group-title="Movies",Fox Movies FHD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" group-title="Quốc Tế",FOX FAMILY MOVIES FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" group-title="Movies",FOX FAMILY MOVIES FHD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg",HBO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="Movies",HBO
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/hbo.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/cinemax.php
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" group-title="Movies",AXN HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
@@ -199,13 +199,27 @@ plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https
 #EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="Movies",KIX HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/hbohd.jpg" group-title="Movies Thai",HBO FHD (EN)
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKCYcmD.png" group-title="Movies Thai",HBO Sig FHD (EN)
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkUaZCa.png" group-title="Movies Thai",HBO Hist FHD (EN)
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/752AKl6.png" group-title="Movies Thai",HBO Family FHD (EN)
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZocsvE3.png" group-title="Movies Thai",Cinemax FHD (EN)
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b59aWDu.png" group-title="Movies Thai",Red By HBO FHD Thai
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" group-title="Kids",Cartoon Network HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.boomerang.com/usonly/banner@2x.png" group-title="Kids",Boomerang HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/757503-babyfirst_1.png" group-title="Kids",Baby First HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/96/58/8096584b4eb35eb488a6fc98e05ec35c.png",KIds HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/96/58/8096584b4eb35eb488a6fc98e05ec35c.png" group-title="Kids",KIds HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/disney.php
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/z3SVeHB.png" group-title="Khám Phá",National Geographic HD
@@ -266,20 +280,6 @@ plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2gKHeDW.png" group-title="Tổng Hợp",Fashion TV HD
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/hbohd.jpg",HBO FHD (EN)
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LKCYcmD.png",HBO Sig FHD (EN)
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkUaZCa.png",HBO Hist FHD (EN)
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/752AKl6.png",HBO Family FHD (EN)
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZocsvE3.png",Cinemax FHD (EN)
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b59aWDu.png",Red By HBO FHD Thai
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
 
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -408,21 +408,20 @@ plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="TH ĐỊA PHƯƠNG",Yên Bái
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.viettv24.com/main/images/logo_VietlifeTV.jpg",VietlifeTV (Hải ngoại)
+
+#EXTINF:-1 tvg-logo="https://www.viettv24.com/main/images/logo_VietlifeTV.jpg" group-title="TH Hải Ngoại",VietlifeTV
 https://fr-1.galaxyott.com/viettv24/streamer/vbolero/vietlifetv/vltv_1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Vmusic_logo.jpg",VMusic (Hải ngoại)
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Vmusic_logo.jpg" group-title="TH Hải Ngoại",VMusic
 http://fr-1.galaxyott.com/viettv24/streamer/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VpopTV_logo.jpg",VPopTV (Hải ngoại)
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VpopTV_logo.jpg" group-title="TH Hải Ngoại",VPopTV
 http://fr-1.galaxyott.com/viettv24/streamer/vpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VNATV_Logo.jpg",VNA TV (Hải ngoại)
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VNATV_Logo.jpg" group-title="TH Hải Ngoại",VNA TV
 http://fr-1.galaxyott.com/viettv24/streamer/vnatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VGMTV_Logo.jpg",Viet Global Mall TV (Hải ngoại)
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/VGMTV_Logo.jpg" group-title="TH Hải Ngoại",Viet Global Mall TV
 http://fr-1.galaxyott.com/viettv24/streamer/vgmtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Vo_Mon_Thien_Tu.jpg",Vô Môn Thiền Tự (Hải ngoại)
+#EXTINF:-1 tvg-logo="http://www.viettv24.com/main/images/Vo_Mon_Thien_Tu.jpg" group-title="TH Hải Ngoại",Vô Môn Thiền Tự
 http://fr-1.galaxyott.com/viettv24/streamer/vmtt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OW2gewnU5qI/maxresdefault.jpg",VIET MY TV (Hải ngoại)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OW2gewnU5qI/maxresdefault.jpg" group-title="TH Hải Ngoại",VIET MY TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-
-
 
 
