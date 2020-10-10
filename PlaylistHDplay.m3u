@@ -34,6 +34,17 @@ plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/22/Vietnamnet-Logo.png" group-title="VTV",Vietnamnet
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/sda/vietnamnet_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/184/VTVcab1-Viegiaitri.jpg" group-title="VTVcab",VTVcab1 - Giải Trí FHD
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivivn.com/ok/vtvcab1.php
+#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/231/vtvcab3-TheThao.png" group-title="VTVcab",VTVcab3 - TheThaoTV
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivivip.com/ok/vtvcab3.php
+#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png" group-title="VTVcab",VTVcab5 - E Channel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivivn.com/ok/vtvcab5.php
+#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/175/VTVcab10-VieDramas.jpg" group-title="VTVcab",VTVcab10 - Vie Dramas FHD
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivivip.com/ok/vtvcab10.php
+#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/179/vtvcab16-BongDaTV-HD.png" group-title="VTVcab",VTVcab16 - BongDaTV
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivivip.com/ok/vtvcab16.php
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg" group-title="HTV",HTV1
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg" group-title="HTV",HTV2 HD
