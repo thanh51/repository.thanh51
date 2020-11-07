@@ -4,12 +4,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://media.loveitopcdn.com/5875/thumb/346x259/171127-logo-k.png" group-title="K+",K+PC
-http://180.214.238.157/live/kpcc2/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.loveitopcdn.com/5875/thumb/346x259/171127-logo-k.png" group-title="K+",K+NS
-http://180.214.238.157/live/knsc2/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.loveitopcdn.com/5875/thumb/346x259/171127-logo-k.png" group-title="K+",K+PM
-http://180.214.238.157/live/kpmc2/index.m3u8
+#EXTINF:-1 group-title="K+" tvg-logo="https://www.brandsvietnam.com/upload/news/480px/2015/8355_KPlug.jpg",K+PC
+http://180.214.238.157/live/kpcepl/index.m3u8
+#EXTINF:-1 group-title="K+" tvg-logo="https://www.brandsvietnam.com/upload/news/480px/2015/8355_KPlug.jpg",K+NS
+http://180.214.238.157/live/knsepl/index.m3u8
+#EXTINF:-1 group-title="K+" tvg-logo="https://www.brandsvietnam.com/upload/news/480px/2015/8355_KPlug.jpg",K+PM
+http://180.214.238.157/live/kpmepl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hUAGa6.jpg" group-title="Bóng Đá Italya (Hot)",Serrie A 1
 http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
