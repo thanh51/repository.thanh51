@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/kOOodU/r_vovgthn.png" group-title="VOV",VOV GT HN
-https://vovstream.1cdn.vn/vovlive/vovGTHN.sdp_aac/chunklist_w1745819983.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/mtPiCp/r_vovgthcm.png" group-title="VOV",VOV GT HCM
-https://vovstream.1cdn.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1964460948.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/gu5OCp/r-vovmekong1.png" group-title="VOV",VOV Mekong FM 90MHz
-http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/b9N3Cp/r-vovsuckhoe1.png" group-title="VOV",VOV Sức khỏe FM 89MHz
-http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/eNBVsp/r_vov1.png" group-title="VOV",VOV1 AM 675kHz
 https://streaming1.vov.vn:8443/audio/vovvn1_vov1.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/cKVOCp/r_vov2.png" group-title="VOV",VOV2 FM 102.7MHz
@@ -16,6 +8,16 @@ https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/playlist.m3u8
 https://streaming1.vov.vn:8443/audio/vovvn1_vov3.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/bJYzk9/r_vov3.png" group-title="VOV",VOV3 FM 104.5MHz S2
 http://118.70.205.22:1935/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png" group-title="VOV",VOV24/7 FM 104MHz
+https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/kOOodU/r_vovgthn.png" group-title="VOV",VOV GT HN
+https://vovstream.1cdn.vn/vovlive/vovGTHN.sdp_aac/chunklist_w1745819983.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/mtPiCp/r_vovgthcm.png" group-title="VOV",VOV GT HCM
+https://vovstream.1cdn.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1964460948.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/gu5OCp/r-vovmekong1.png" group-title="VOV",VOV Mekong FM 90MHz
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/b9N3Cp/r-vovsuckhoe1.png" group-title="VOV",VOV Sức khỏe FM 89MHz
+http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/e94TdU/r_vov4.png" group-title="VOV",VOV4 Tây Bắc
 https://streaming1.vov.vn:8443/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/e94TdU/r_vov4.png" group-title="VOV",VOV4 Tây Nguyên
@@ -28,8 +30,6 @@ https://streaming1.vov.vn:8443/audio/vovvn1_vovTPHCM.stream_aac/playlist.m3u8
 https://streaming1.vov.vn:8443/audio/vovvn1_vovDBSCL.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/hVTodU/r_vov5.png" group-title="VOV",VOV5 105.5MHz
 https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png" group-title="VOV",VOV24/7 FM 104MHz
-https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://image.ibb.co/nLpuJU/r_voh610.png" group-title="VOH",VOH AM 610kHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
