@@ -443,26 +443,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",Sport TV 1 HD
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",Sport TV 2 HD
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",Sport TV 3 HD
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Portuge Sports",Sport TV 4 HD
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",Sport TV 5 HD
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BT SPORT 1 HD s1
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BT SPORT 1 HD
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BT sport 1 HD s2
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BT SPORT 2 HD s1
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BT SPORT 2 HD 
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BT sport 2 HD s2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",BT SPORT 3 HD
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",Sky sport EPL HD
@@ -482,10 +467,6 @@ http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",Sky Sport F1 HD
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai Sports" tvg-logo="https://teevee-hd.com/img/bein1.png",Bein Sport 1 HD
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Thai Sports" tvg-logo="https://teevee-hd.com/img/bein2.png",Bein Sport 2 HD
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Thai Sports",Premier Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Thai Sports",Premier Football HD 2
@@ -531,23 +512,6 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 https://95-213-224-169.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="Russia Sports",Футбол 2
 https://95-213-224-169.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT44 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT45 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT46 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT48 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT50 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT2 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT3 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT4 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-
 
 
 
