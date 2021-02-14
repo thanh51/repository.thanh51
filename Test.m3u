@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="hdmi-tv.ru",Матч Футбол 1
+http://hdmi-tv.ru/sport/2541-match-futbol-1-.html
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="hdmi-tv.ru",Матч Футбол 2
+http://hdmi-tv.ru/sport/2549-match-futbol-2-.html
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="hdmi-tv.ru",Матч Футбол 3
+http://hdmi-tv.ru/sport/2551-match-futbol-3-.html
+
 
 #EXTINF:-1 tvg-logo="http://tv-p2p.ru/skin/tv2/images/logo.jpg" group-title="Acesteam",,01 Матч! Футбол 1 HD 25fps
 http://127.0.0.1:6878/ace/manifest.m3u8?id=92550ac34357a69bf6c734145fa359197d62fec0
