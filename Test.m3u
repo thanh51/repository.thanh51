@@ -1,6 +1,17 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="xem.binhluanvidamme.online" tvg-logo="https://vnn-imgs-f.vgcloud.vn/2018/06/12/10/bxh-ngoai-hang-anh.jpg",Trực Tiếp NHA 90p
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://ugii0tvebpliv.vcdn.cloud/may6/may6@456.m3u8|Referer=https://xem.binhluanvidamme.online
+#EXTINF:-1 group-title="xem.binhluanvidamme.online" tvg-logo="https://vnn-imgs-f.vgcloud.vn/2018/06/12/10/bxh-ngoai-hang-anh.jpg",Live 90P SVHD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://ugii0tvebpliv.vcdn.cloud/may1HD/may1HD@456.m3u8|Referer=https://xem.binhluanvidamme.online
+#EXTINF:-1 group-title="xem.binhluanvidamme.online" tvg-logo="https://vnn-imgs-f.vgcloud.vn/2018/06/12/10/bxh-ngoai-hang-anh.jpg",Live 90P SVND
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://ugii0tvebpliv.vcdn.cloud/may8/may8@456.m3u8|Referer=https://xem.binhluanvidamme.online
+
+
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1 HD
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVcab2 HD - Phim Việt
