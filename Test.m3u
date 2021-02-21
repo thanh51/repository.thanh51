@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="liveonlinetv.org",Bein Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="liveonlinetv.org",Bein Sport 1 s1
 http://m.liveonlinetv247.info:80/external.php?title=skymoviespremiere&stream=bein1-hq|referrer=http://m.liveonlinetv.org&isHost=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="liveonlinetv.org",Bein Sport 1 s2
+http://m.liveonlinetv247.info:80/external.php?title=skymoviespremiere&stream=bein1-hq|UserAgent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&Referer=http://m.liveonlinetv.org&isHost=true
 
 
 #EXTINF:-1 tvg-logo="https://manhtuongmedia.com/wp-content/uploads/2018/06/bongda.png" group-title="90p.tv",BD 1 (Anh) HD
