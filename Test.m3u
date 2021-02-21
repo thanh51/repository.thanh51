@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="m.liveonlinetv.org",Bein Sport 1*
+http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein1-hq
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="liveonlinetv.org",Bein Sport 1 s1
 http://m.liveonlinetv247.info:80/external.php?title=skymoviespremiere&stream=bein1-hq|referrer=http://m.liveonlinetv.org&isHost=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="liveonlinetv.org",Bein Sport 1 s2
