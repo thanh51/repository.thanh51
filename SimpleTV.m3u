@@ -325,7 +325,7 @@ https://video-5.gapo.vn/videos/livestream/5fb02d39837240001c083986/file.m3u8
 
 
 #EXTINF:-1 group-title="Việt Sports" tvg-logo="https://imgstatic.vtvcab.vn/logos/BONGDA_HD_M.png",VTVcab16 - BongDaTV
-https://vtsstr1.tv24.vn:443/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8|Referer=https://tv24.vn
+https://vtsstr1.tv24.vn:443/live/_definst_/smil:VTVcab16_SD.smil/chunklist.m3u8|Referer=https://tv24.vn
 #EXTINF:-1 group-title="Việt Sports" tvg-logo="http://www.xemtivivn.com/hinh/thethaotvhd.png",VTVcab3 TheThaoTV 
 http://www.xemtivimienphi.com/free/vtvcab3.php
 #EXTINF:-1 tvg-id="sctv17hd" tvg-logo="https://i.postimg.cc/gcZpKxq9/sctv17hd.png" group-title="Việt Sports",SCTV17 HD - SSport
@@ -452,41 +452,40 @@ https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/22/Vietnamnet-Logo.png" group-title="VTV",Vietnamnet
 https://livecdn.fptplay.net/sda/vietnamnet_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1 HD
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVcab2 HD - Phim Việt
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://www.xemtivivn.com/hinh/thethaotvhd.png",VTVcab3 TheThaoTV 
+#EXTINF:-1 group-title="VTVcab", VTVcab1 - Vie Giải Trí
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab2 - Phim việt
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab3 - Thể thao TV
 http://www.xemtivimienphi.com/free/vtvcab3.php
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/194.png",VTVcab4 HD
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD_new1.smil/chunklist_w1434921760_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/100.png",VTVcab5 HD - E Channel HD
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/101.png",VTVcab6 HD - HAYTV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/105.png",VTVcab7 HD
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/102.png",VTVcab8 HD - BiBi
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD_new1.smil/chunklist_w819578077_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/195.png",VTVcab9 HD - InfoTV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/105.png",VTVcab10 HD - Vie DRAMAS
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/103.png",VTVcab12 HD - Style 
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist_w2017891009_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab15 HD - M Channel
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD_new1.smil/playlist.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phpjWRupK_5d429dd81b83f.png",VTVCab16 HD - BDTV_SD
-https://vtsstr1.tv24.vn:443/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/104.png",VTVcab17 HD - Yeah1!TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/99.png",VTVcab19 HD - Film TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8|Referer=https://tv24.vn
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/132.png",VTVcab20 HD
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w387386695_b2692000.m3u8|Referer=https://tv24.vn
-
-
-
+#EXTINF:-1 group-title="VTVcab", VTVcab4
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab5 - E channel
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab6 - Hay TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab7 - Sức khỏe
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab8 - Bibi
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab9 - Info TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab10 - Vie Dramas
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab11 - VGS shop
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab11_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab12 - Style TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab15 - M Channel
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab16 - Bóng đá TV
+https://vtsstr1.tv24.vn:443/live/_definst_/smil:VTVcab16_SD.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab17 - Yeah1TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab19 - Film TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
+#EXTINF:-1 group-title="VTVcab", VTVcab20 - V Family
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist.m3u8|Referer=https://tv24.vn
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg" group-title="HTV",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
