@@ -2,9 +2,16 @@
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="haviet.club",K+1
 https://live.quangkv.com/vieon/kns.m3u8|Referrer=https://haviet.club
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="haviet.club",Movies
+https://bom.to/movie
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="haixombia.com",Bóng Đá
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="haixombia.com",Bóng Đá 1
+http://tv.haixombia.com/api/vstv.php?sv=https://live02.jyjiru.com/live/streamhd3984.m3u8?auth_key=1615236395-604662fb71b07-0-67a2a133bd56e10a2b19b0cfbe3170a5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="haixombia.com",Bóng Đá 2
 http://tv.haixombia.com/api/vstv.php?sv=https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/3c23186b8e804a5da544c0ed81043a1a/index2.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="mazystreams.xyz",SuperSport PL
 http://mazystreams.xyz/stream.php
