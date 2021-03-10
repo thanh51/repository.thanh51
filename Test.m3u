@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://images.telemetr.io/chat_photos/1447724368.jpg" group-title="Bóng Đá (bingsport.com)",K+PM
+https://m3u8.doande.tk/g_01.m3u8|Referer=https://bingsport.com/
+#EXTINF:-1 tvg-logo="https://images.telemetr.io/chat_photos/1447724368.jpg" group-title="Bóng Đá (bingsport.com)",K+NS
+https://m3u8.doande.tk/g_02.m3u8|Referer=https://bingsport.com/
+#EXTINF:-1 tvg-logo="https://images.telemetr.io/chat_photos/1447724368.jpg" group-title="Bóng Đá (bingsport.com)",K+PC
+https://m3u8.doande.tk/g_03.m3u8|Referer=https://bingsport.com/
+
 #EXTINF:-1 tvg-logo="https://bingsport.com/static/web/bingsport_icon/Bingsport_Logo_Full_mau.png" group-title="Bóng Đá (bingsport.com)",10/03 K-League 1 Daegu vs Gwangju
 https://bingsport.com/live-sport/daegu-vs-gwangju-18392.html
 #EXTINF:-1 tvg-logo="https://bingsport.com/static/web/bingsport_icon/Bingsport_Logo_Full_mau.png" group-title="Bóng Đá (bingsport.com)",10/03 K-League 1 Seongnam vs Seoul
