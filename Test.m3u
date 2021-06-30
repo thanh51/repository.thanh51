@@ -833,10 +833,10 @@ http://112.197.12.54/hls/sctv4/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" tvg-logo="" group-title="SCTV2", SCTV5 HD
 http://112.197.12.54/hls/sctv5/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV2" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
-https://vtsstr6.tv24.vn/live/SCTV6HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://112.197.12.54/hls/sctv6/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV2" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
-https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV2" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV8 HD
+http://112.197.12.54/hls/sctv7/sd1/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV2" tvg-logo="",SCTV8 HD
 http://112.197.12.54/hls/sctv8/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV2", SCTV9 HD
 http://112.197.12.54/hls/sctv9/sd1/index.m3u8
@@ -850,7 +850,7 @@ http://112.197.12.54/hls/sctv12/sd1/index.m3u8
 http://112.197.12.54/hls/sctv13/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" group-title="SCTV2", SCTV14 HD
 http://112.197.12.54/hls/sctv14/sd1/index.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv15hd.png" group-title="SCTV2", SCTV15 HD
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="" group-title="SCTV2", SCTV15 HD
 http://112.197.12.54/hls/sctv15/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" group-title="SCTV2", SCTV16 HD
 http://112.197.12.54/hls/sctv16/sd1/index.m3u8
@@ -861,7 +861,7 @@ http://112.197.12.54/hls/sctv18/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV2" tvg-logo="https://i.postimg.cc/RFvSY4M1/sctv19hd.png",SCTV19 HD
 http://112.197.12.54/hls/sctv19/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV2" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",SCTV20 HD
-https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+http://112.197.12.54/hls/sctv20/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV2" tvg-logo="",SCTV21 HD
 http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV2" tvg-logo="",SCTV22 HD
