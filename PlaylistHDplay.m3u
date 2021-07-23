@@ -2,24 +2,24 @@
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="VTV",VTV1 HD
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/R7q7HZj.png" group-title="VTV",VTV2 HD
-https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="VTV",VTV3 HD
-https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/4yhPtDf.png" group-title="VTV",VTV4 HD
-https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="VTV",VTV5 HD
-https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="VTV",VTV6 HD
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/EQaqb0h.png" group-title="VTV",VTV7 HD
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/9XsZ2fd.png" group-title="VTV",VTV8 HD
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",VTV9 HD
-https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="VTV",VTV1 HD
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7q7HZj.png" group-title="VTV",VTV2 HD
+https://vips-livecdn.fptplay.net/hda1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="VTV",VTV3 HD
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4yhPtDf.png" group-title="VTV",VTV4 HD
+https://vips-livecdn.fptplay.net/hda1/vtv4hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="VTV",VTV5 HD
+https://vips-livecdn.fptplay.net/hda1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="VTV",VTV6 HD
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EQaqb0h.png" group-title="VTV",VTV7 HD
+https://vips-livecdn.fptplay.net/hda1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XsZ2fd.png" group-title="VTV",VTV8 HD
+https://subs-livecdn.fptplay.net/hda/vtv8hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",VTV9 HD
+https://vips-livecdn.fptplay.net/hda1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKAWD0f.jpg" group-title="VTV",VOV Vietnam Journey
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
 #EXTINF:-1 tvg-logo="https://imgur.com/G154n6j.png" group-title="VTV",Quốc Hội
@@ -40,7 +40,7 @@ https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8?|User-Agen
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg" group-title="VTC",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg" group-title="VTC",VTC3
-https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png" group-title="VTC",VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8?|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 HTTP/1.1
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_145673010995.jpg" group-title="VTC",VTC5
