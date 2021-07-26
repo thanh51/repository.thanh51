@@ -3,6 +3,10 @@
 
 #EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
+
+#EXTINF:-1 tvg-logo="https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-1280x720.jpg" group-title="AceStream",Eleven Sports 1
+acestream://0a911844bf8394eff7b4b2dc741182e84e38dc86
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="adictosaldeporte.com",Laliga
 https://adictosaldeporte.com/TV/deportes/laliga/
 #EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/deportes.png" group-title="adictosaldeporte.com",Deportes
