@@ -4,6 +4,15 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Kênh AceStream",Sport TV1
+http://127.0.0.1:6878/ace/m/45b425b6cb9e414b973693b4df096ec557096cfd/f528764d624db129b32c21fbca0cb8d6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kênh AceStream",Sport TV2
+http://127.0.0.1:6878/ace/m/ef7c9f89c36706a725c259268db3b7471bef48c9/f528764d624db129b32c21fbca0cb8d6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kênh AceStream",Sport TV3
+http://127.0.0.1:6878/ace/m/2bd738d0cb946481c7ce42130ddf6f996dffba37/f528764d624db129b32c21fbca0cb8d6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kênh AceStream",La Liga TV
+http://127.0.0.1:6878/ace/m/6056307b13b7c2a4a9ae07a518a8850578e3b25c/f528764d624db129b32c21fbca0cb8d6.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="adictosaldeporte.com",Laliga
 https://adictosaldeporte.com/TV/deportes/laliga/
