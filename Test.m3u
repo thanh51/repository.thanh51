@@ -4,20 +4,40 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Русская ночь
-http://127.0.0.1:6878/ace/getstream?id=051ea019e4f0565788d9fef17d2f6a3bf7f1dee2&hlc=1&spv=0
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Hustler HD 
-http://127.0.0.1:6878/ace/getstream?id=c8386cf823c7ec1acccf13e12cce71c754a06ed4&hlc=1&spv=0
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Остросюжетное
-http://127.0.0.1:6878/ace/getstream?id=5786422f0c0916ae5437b0b5504d54f8cadbe321&hlc=1&spv=0
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Кинопремьера HD 
-http://127.0.0.1:6878/ace/getstream?id=6b26770d030c927435052350c2c04a8c09089f57&hlc=1&spv=0
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",МАТЧ! Арена HD 
-http://127.0.0.1:6878/ace/getstream?id=f9bcd825667e186a4ce355674b7318774c10f8ab&hlc=1&spv=0
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Кино ТВ HD 
-http://127.0.0.1:6878/ace/getstream?id=1b8c45953a6998758089c144f1976d483f5fc623&hlc=1&spv=0
-#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",ТНТ HD 
-http://127.0.0.1:6878/ace/getstream?id=70e98323d23c1515be41f589b0331e0e961bc6db&hlc=1&spv=0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV1015
+acestream://c8ee9272762db90e70e982c1555295b01198e322
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV1+2
+acestream://845d19d22baf1449f205f9d2b9dc02a65e414c34
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV40
+acestream://b0100fe97edfc0b6a56a98b31efbb766344c6ede
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV3+4
+acestream://55950549954de9b41c8bda084256ea8a859a9ce5
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV39
+acestream://57a4ddf684d56317245915c42499825b0a339968
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV5+6
+acestream://a1b53a45d88ec2281fe8fa3c6881222e19287db1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV32
+acestream://ee3ce944fa3a5f49428240d363ffc368454c6b72
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV48
+acestream://0d3940e08b534774fb49bdd0209d87b65f49c14b
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV47
+acestream://2c60064ca667ce98d95a15c8c62632b5dcc4cefc
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",Av23+24
+acestream://f8462150ed5c6a39ac949cbf2c7bd8fec9e5b050
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV42
+acestream://54aa17d67c5a2a8d92b154abbcd80f99bdcd41b3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV43
+acestream://c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV44
+acestream://8027443bcd903a2d17606d7bf0ff878ac7e3913f
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV9+10
+acestream://22259706bdac8a35b8a778fc2f51528fb9b2a942
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV21+22
+acestream://82db40ba0503ea435bdef845aa5ccf37159632d3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV7+8
+acestream://dd1d6c928d1e089bcc522e2f831cc15a00ec5e5a
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV30
+acestream://4e31fcf45b617e7a5e86774fe02e3fb56b821f8a
 
 #EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Футбол 1 HD Украина
 acestream://afc3cfb74616ca5359319f45fafb0848658439e6
