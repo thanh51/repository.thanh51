@@ -4,6 +4,21 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Русская ночь
+http://127.0.0.1:6878/ace/getstream?id=051ea019e4f0565788d9fef17d2f6a3bf7f1dee2&hlc=1&spv=0
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Hustler HD 
+http://127.0.0.1:6878/ace/getstream?id=c8386cf823c7ec1acccf13e12cce71c754a06ed4&hlc=1&spv=0
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Остросюжетное
+http://127.0.0.1:6878/ace/getstream?id=5786422f0c0916ae5437b0b5504d54f8cadbe321&hlc=1&spv=0
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Кинопремьера HD 
+http://127.0.0.1:6878/ace/getstream?id=6b26770d030c927435052350c2c04a8c09089f57&hlc=1&spv=0
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",МАТЧ! Арена HD 
+http://127.0.0.1:6878/ace/getstream?id=f9bcd825667e186a4ce355674b7318774c10f8ab&hlc=1&spv=0
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Кино ТВ HD 
+http://127.0.0.1:6878/ace/getstream?id=1b8c45953a6998758089c144f1976d483f5fc623&hlc=1&spv=0
+#EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",ТНТ HD 
+http://127.0.0.1:6878/ace/getstream?id=70e98323d23c1515be41f589b0331e0e961bc6db&hlc=1&spv=0
+
 #EXTINF:-1 group-title="sport" tvg-name="Футбол_1_HD_Украина" tvg-logo="Футбол 1 HD Украина.png",Футбол 1 HD Украина
 acestream://afc3cfb74616ca5359319f45fafb0848658439e6
 #EXTINF:-1 group-title="sport" tvg-name="Футбол_2_HD_Украина" tvg-logo="Футбол 2 HD Украина.png",Футбол 2 HD Украина
