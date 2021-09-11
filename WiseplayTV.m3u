@@ -2,18 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="Bóng Đá Bình luận Tiếng Việt (Trận Hot)",VTV3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="Bóng Đá Bình luận Tiếng Việt (Trận Hot)",VTV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="Bóng Đá Bình luận Tiếng Việt (Trận Hot)",VTV6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VTC3" group-title="Bóng Đá Bình luận Tiếng Việt (Trận Hot)" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxOVkDb8ASYy3my9uWjAxcwPdLDs5Wk8QqQ&usqp=CAU" group-title="Bóng Đá Bình luận Tiếng Việt (Trận Hot)",BD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://playmt.p2pcdn.xyz/ajax/chanel/type/0/link/stream_1_c0769@kenh1?autoplay=1&&nobn=1
@@ -54,39 +43,6 @@ https://playmt.p2pcdn.xyz/ajax/chanel/type/0/link/stream_1_c0769@kenh12?autoplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://playmt.p2pcdn.xyz/ajax/chanel/type/0/link/stream_1_c0769@kenh13?autoplay=1&&nobn=1
 
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/01_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/02_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/03_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/04_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/05_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/06_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/07_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/08_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/09_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/10_stream.php#
-#EXTINF:-1 tvg-logo="https://hyprsoftware.com/wp-content/uploads/2014/11/futball-2014.jpg" group-title="Bóng Đá Quốc Tế",Football 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://hazmo.stream/soccer/14_stream.php#
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="Kênh Thể Thao TH",VTV3 HD
