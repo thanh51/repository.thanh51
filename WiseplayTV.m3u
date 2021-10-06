@@ -144,6 +144,18 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh Thể Thao TH" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi" tvg-chno="25",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="Kênh Thể Thao TH" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",SCTV15
+#EXTVLCOPT:http-user-agent=D3n1s
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="sctv17hd" group-title="Kênh Thể Thao TH" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg",SCTV17
+#EXTVLCOPT:http-user-agent=D3n1s
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh Thể Thao TH" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/22_881fabb7.jpg",SCTV22
+#EXTVLCOPT:http-user-agent=D3n1s
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="btv5hd" group-title="Kênh Thể Thao TH" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",BTV5
+#EXTVLCOPT:http-user-agent=D3n1s
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://v3.sportzonline.to/channels/hd/hd1.php
