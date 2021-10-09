@@ -13,6 +13,16 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTC3" group-title="Việt Sports" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3 HD - On Sports
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="Sports BDN" tvg-logo="https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png",Sport TV 1
+https://178.17.167.58:443/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports BDN" tvg-logo="https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png",Sport TV 2
+https://178.17.167.58:443/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports BDN" tvg-logo="https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png",Sport TV 3
+https://178.17.167.58:443/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports BDN" tvg-logo="https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png",Sport TV 4
+https://178.17.167.58:443/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports BDN" tvg-logo="https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png",Sport TV 5
+https://178.17.167.58:443/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Russia Sports",Матч Футбол 1
 https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
@@ -165,7 +175,6 @@ https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
