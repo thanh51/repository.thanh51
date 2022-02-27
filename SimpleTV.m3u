@@ -9,19 +9,6 @@ https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTC3" group-title="Việt Sports" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3 HD - On Sports
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Russia Sports",Матч Футбол 1
-https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Russia Sports",Матч Футбол 2
-https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Russia Sports",Матч Футбол 3
-https://95-213-224-169.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/220px-MatchTV_Logo.svg.png" group-title="Russia Sports",Матч!
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="Russia Sports",Футбол 1
-https://95-213-224-169.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="Russia Sports",Футбол 2
-https://95-213-224-169.livesports24.online/fooootball2.m3u8
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2
@@ -119,7 +106,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV Co.op
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
-
 #EXTINF:-1  group-title="AVG" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên HD
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ncm.jpg" group-title="AVG",NCM BYV10
@@ -130,7 +116,6 @@ https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/1-a.jpg" group-title="AVG",SAM CHANNEL
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
 http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -210,7 +195,6 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV
 http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-
 
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -339,44 +323,6 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/USVtelevision-logo.jpg",USV Television
-https://fr-1.galaxyott.com/viettv24/streamer/vatv/liveChannel/vatv_3/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/viettv24-162x108.png",YOUNET TV
-https://ca-1.galaxyott.com/viettv24/streamer/younettv/younettv/younettv/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/Hai_Le_Logo.jpg",KDHL Television
-https://fr-1.galaxyott.com/viettv24/streamer/ttt/livehl/ttt_3/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/VNATV_Logo.jpg",VNA TV
-https://fr-1.galaxyott.com/viettv24/streamer/vnatv/livevnatv/vnatv_2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/VGMTV_Logo.jpg",VIETGLOBAL Mall TV
-https://fr-1.galaxyott.com/viettv24/streamer/vgmtv/livebl/vgmtv/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/VpopTV_logo.jpg",VPOPTV
-https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/liveChannel/vpoptv/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/skcd.jpg",Sân Khấu & Cuộc Đời
-https://fr-1.galaxyott.com/viettv24/streamer/cailuong/liveChannel/cailuong_2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/logo_VietlifeTV.jpg",VietLife TV VBolero
-https://fr-1.galaxyott.com/viettv24/streamer/vbolero/vietlifetv/vltv_2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/Vo_Mon_Thien_Tu.jpg",Vô Môn THiền Tự
-https://fr-1.galaxyott.com/viettv24/streamer/vmtt/liveChannel/vmtt/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/luracotv_logo.jpg",LURACO TV
-https://fr-1.galaxyott.com/viettv24/streamer/luraco/luraco/luraco_4/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/luracotv_logo.jpg",SET TV
-https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1885360669.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/SET2-logo.jpg",SET TV 2
-https://5dcab9aed5331.streamlock.net/SET2/livestream/chunklist_w1506097795.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://www.viettv24.com/main/images/vusamediaiptv_logo.jpg",VUSA mediaiptv Test
-https://fr-1.galaxyott.com/viettv24/streamer/vusa/liveChannel/vusa_1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-#EXTINF:-1 group-title="Việt Hải Ngoại" tvg-logo="https://i.ytimg.com/vi/OW2gewnU5qI/maxresdefault.jpg",VIET MY TV
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0&referrer=https://www.viettv24.com/home/index.html
-
-
-
 #EXTINF:-1 group-title="Radio Việt" tvg-logo="https://bizweb.dktcdn.net/thumb/large/100/011/094/products/radiovietnam-radiovietnam-icon.png?v=1503482217710",VOV1 AM 675kHz
 http://stream2.mobiradio.vn/vovradio/vov1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Radio Việt" tvg-logo="https://bizweb.dktcdn.net/thumb/large/100/011/094/products/radiovietnam-radiovietnam-icon.png?v=1503482217710",VOV2 FM 102.7MHz
@@ -487,27 +433,6 @@ http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
 https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
 #EXTINF:-1 group-title="Radio Việt" tvg-logo="https://bizweb.dktcdn.net/thumb/large/100/011/094/products/radiovietnam-radiovietnam-icon.png?v=1503482217710",Yên Bái
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
-
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Nationwide Viet
-http://162.244.80.33:4480/;stream.mp3:4480/
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Radio Viet Nam Hai Ngoai
-https://vpr.serverroom.us:7492/;
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Dallas Viet
-http://199.195.194.94:8025/;
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",KAZA Viên Thao 1290 AM
-http://162.244.80.52:10080/;stream.mp3
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",RFI Tiếng Việt
-https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Vietnam Vet
-http://psn3.prostreaming.net:8440/stream/1/
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Quran in Vietnamese
-http://quraan.us:9948/;
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Saigon Houston
-http://shout.audionow.com:8000/RadioSaigonHuston
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Tiếng Nước Tôi
-https://162.244.80.118:3092/;stream.mp3
-#EXTINF:-1 group-title="Radio Hải Ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0OuGdWQk4ZRHDU-nNw_9vzFfneGFB-PBEQ&usqp=CAU",Chân Lý Á Châu
-http://stream.rveritas-asia.org:8000/Vietnamese.mp3
 
 #EXTINF:-1 group-title="Cherry Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rgpzkdmf3kyd.png"",NHẠC TRẺ
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
