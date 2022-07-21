@@ -33,9 +33,6 @@ udp://@225.1.2.171:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="VTV",ANTV HD
 udp://@225.1.2.169:30120
 
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpdWNqGa_5d765a2419123.png" group-title="K+",K+PC
-udp://@225.1.1.1:30120
-
 #EXTINF:-1 tvg-id="Ha Noi 1" tvg-logo="http://i.imgur.com/kFSFBHp.png" group-title="Hanoicab",Ha Noi 1 HD
 udp://@225.1.2.186:30120
 #EXTINF:-1 tvg-id="Ha Noi 2" tvg-logo="http://i.imgur.com/JHYNvNs.png" group-title="Hanoicab",Ha Noi 2 HD
@@ -124,10 +121,6 @@ udp://@225.1.1.223:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/1-a.jpg" group-title="VivaTV",SAM CHANNEL
 udp://@225.1.1.224:30120
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
-udp://@225.1.1.51:30120
-#EXTINF:-1 tvg-id="Fox Movies HD-ClipTV" group-title="Movies" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
-udp://@225.1.2.239:30120
 #EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX HD
