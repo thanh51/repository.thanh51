@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Thể Thao VN" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 HD
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="Kênh Thể Thao VN",VTV3 HD
 https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="Kênh Thể Thao VN",VTV5 HD
