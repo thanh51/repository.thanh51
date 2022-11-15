@@ -418,32 +418,193 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w907302586.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w776016940.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w718658440.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Bắc
-http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Nguyên
-http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 ĐBSCL
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 TPHCM
-http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5
-https://str.vov.gov.vn/vovlive/vov5.sdp_aac/chunklist_w2030081967.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV English 24/7
-https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/chunklist_w1288402491.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV GT Hà Nội
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV GT TPHCM
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT Mekong
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/246.png", VOV Sức Khỏe 89
+
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vov1.png",VOV1 - AM 675KHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vov2.png",VOV2 - FM 102.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vov3.png",VOV3 - FM 104.5MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vov4.png",VOV4 - Khu vực Miền Trung
+#EXTVLCOPT:http-user-agent=D3n1s
+http://media.kythuatvov.vn:7035/;stream/
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vov5.png",VOV5 - FM 105.5MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://media.kythuatvov.vn:7007/;stream/
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_hanoi.png",Hà Nội - FM 90MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://livept.hanoitv.vn/hntvRadio/fm90.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_hanoi.png",Hà Nội - FM 96MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://livept.hanoitv.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-joy.png",JoyFM 98.9MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://livept.hanoitv.vn/hntvRadio/joyfm.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_voh99.png",VOH FM 99.9MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://125.212.213.71:1935/live/channel3/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_voh95.png",VOH FM 95.6MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://125.212.213.71:1935/live/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-voh87.png",VOH FM 87.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://125.212.213.71:1935/live/channel5/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_voh610.png",VOH AM 610KHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://125.212.213.71:1935/live/channel2/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vovgthn.png",VOV GT HN
+#EXTVLCOPT:http-user-agent=D3n1s
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vovgthcm.png",VOV GT HCM
+#EXTVLCOPT:http-user-agent=D3n1s
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-vovmekong1.png",VOV Mekong FM 90Mhz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-vovsuckhoe1.png",VOV Sức khỏe FM 89Mhz
+#EXTVLCOPT:http-user-agent=D3n1s
 http://media.kythuatvov.vn:7021/;stream/
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_vov247.png",VOV24/7 - FM 104MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_brvt.png",Bà Rịa Vũng Tàu - FM 92MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_bacgiang.png",Bắc Giang - FM 98.4MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.bacgiangtv.vn/bgtvlive/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_baclieu.png",Bạc Liêu - FM 93.8MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://tv.thbl.vn/live/radio/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_backan.png",Bắc Kạn - FM 99.3MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://14.224.167.97:8080/hls/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_bacninh.png",Bắc Ninh - FM 92.1MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_btre.png",Bến Tre - FM 97.9MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_btv.png",Bình Dương - FM 92.5MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://tbtv.us/getlink?b10ea4450b68a0fadd2be20118818c808f15d892=http://btv.org.vn/&link=3
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định - FM 103.1Mhz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://tbtv.us/getlink?b10ea4450b68a0fadd2be20118818c808f15d892=http://binhdinhtv.vn/index.php/vi/phat-thanh/
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_thbp.png",Bình Phước - FM 89.4MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_binhthuan.png",Bình Thuận - FM 102MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_camau.png",Cà Mau - FM 94.6MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_cantho.png",Cần Thơ - FM 93.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://tv.tchgroup.vn/live/radio/chunklist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_danang.png",Đà Nẵng - FM 96.3MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_dongnai.png",Đồng Nai - FM 97.5Mhz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_dongthap.png",Đồng Tháp - FM 98.4Mhz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://202.43.109.144:1935/thdtradio/thdtradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_gialai.png",Gia Lai
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.161.25.3:8134/hls/radio/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_hagiang.png",Hà Giang
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.162.84.113:8081/
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_haiduong.png",Hải Dương
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.160.131.11:8000/
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_haiphong.png",Hải Phòng - FM 93.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.thhp.vn/937/index.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-haiphonggt.png",Hải Phòng - FM GT 102.2MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.thhp.vn/radio/102/index.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_hatinh.png",Hà Tĩnh - FM 97.8MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_hgtv.png",Hậu Giang - FM 89.6MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://tbtv.us/getlink?b10ea4450b68a0fadd2be20118818c808f15d892=http://haugiangtivi.vn&link=1
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_hungyen.png",Hưng Yên - FM 92.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.hungyentv.vn/hytvlive/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_khanhhoa.png",Khánh Hòa - FM 106.5MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_kiengiang.png",Kiên Giang - FM 99.4MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_kontum.png",Kon Tum
+#EXTVLCOPT:http-user-agent=D3n1s
+http://tv.kontumtv.vn/live/radio/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_laichau.png",Lai Châu
+#EXTVLCOPT:http-user-agent=D3n1s
+https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_lamdong.png",Lâm Đồng
+#EXTVLCOPT:http-user-agent=D3n1s
+http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_longan.png",Long An - FM 96.9MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://la34.vncdn.vn/live/radio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_ninhbinh.png",Ninh Bình - FM 100.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/nghean.png",Nghệ An - FM 99.6MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_phuyen.png",Phú Yên
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.161.4.48:8080/phuyen/radio/index.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_quangnam.png",Quảng Nam - FM 97.6MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.161.6.157:8085/phatthanh/QRT.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_quangngai.png",Quảng Ngãi - FM 102.9MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://118.107.85.5:1935/radio/quangngai_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_quangninh.png",Quảng Ninh 1 - FM 97.8MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_quangninh.png",Quảng Ninh 2 - FM 94.7MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_quangtri.png",Quảng Trị
+#EXTVLCOPT:http-user-agent=D3n1s
+http://mediatech.vncdn.vn/qrtvlive/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_soctrang.png",Sóc Trăng - FM 100.4MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_sonla.png",Sơn La - FM 96MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://118.107.85.5:1935/radio/sonla_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_tayninh.png",Tây Ninh - FM 103.1MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_tiengiang.png",Tiền Giang - FM 96.2MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://thtg.vn/live/radio/radiolive.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_thaibinh.png",Thái Bình - FM 97MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+http://118.70.118.191:1935/tbtvlive/radio/playlist.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_tuyenquang.png",Tuyên Quang - FM 95.6MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://live.tuyenquangtv.vn/hls/radio.m3u8
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r_thvl_fm.png",Vĩnh Long - FM 90.2MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://api.tbtv.us/thvli/b10ea4450b68a0fadd2be20118818c808f15d892/phat-thanh
+#EXTINF:-1 group-title="Radio Viet" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-yenbai.png",Yên Bái - FM 94MHz
+#EXTVLCOPT:http-user-agent=D3n1s
+https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
 #EXTINF:-1 group-title="Cherry Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rgpzkdmf3kyd.png"",NHẠC TRẺ
 https://stream.zeno.fm/umt5gqmg3reuv.mp3
