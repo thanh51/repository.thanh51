@@ -1,0 +1,211 @@
+<META NAME="ROBOTS" CONTENT="INDEX, NOFOLLOW">
+
+<META NAME="ROBOTS" CONTENT="INDEX, NOFOLLOW">
+
+<script type='text/javascript'>
+    checkCtrl = false $('*').keydown(function(e) {
+        if (e.keyCode == '17') {
+            checkCtrl = false
+        }
+    }).keyup(function(ev) {
+        if (ev.keyCode == '17') {
+            checkCtrl = false
+        }
+    }).keydown(function(event) {
+        if (checkCtrl) {
+            if (event.keyCode == '85') {
+                return false;
+            }
+        }
+    })
+</script>
+    
+</head>
+<body onkeydown="return false">
+<body ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
+<div id="container">
+<div><br><br>
+</object>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./style.css">
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.3.4/lib/darkmode-js.min.js"></script>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+
+<html>
+
+
+
+
+}
+</script>
+<script src="https://static.cbox.ws/embed/2.js" async></script> 
+
+</body>
+</html>
+<header>
+<link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+<script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+let arr = [
+             { name:"VTV1_1080p", value:"http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8"},   
+             { name:"VTV2_1080p", value:"http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8"},
+             { name:"VTV3_1080p", value:"http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8"},
+             { name:"VTV4_1080p", value:"http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8"},
+             { name:"VTV5_1080p", value:"https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8"},
+  	     { name:"VTV6_1080p", value:"http://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/playlist.m3u8"},
+             { name:"VTV7_1080p", value:"http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8"},  	  
+             { name:"VTV8_1080p", value:"http://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8"},  
+             { name:"VTV9_1080p", value:"http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8"},
+             { name:"Natgeo_1080p", value:"https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8"},
+             { name:"Natgeo Wild_1080p", value:"https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8"},
+             { name:"Discovey_1080p", value:"https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8"},
+             { name:"Discovery Asia_1080p", value:"http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8"},
+             { name:"BBC Earth_1080p", value:"http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8"},
+             { name:"Animal Planet_1080p", value:"http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8"},
+             { name:"Smithsonian Channel HD", value:"https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8"},
+             { name:"Известия HD", value:"http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"},
+             { name:"Первый Канал HD", value:"https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8"},
+             { name:"Россия 1 HD", value:"http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8"},
+             { name:"SCTV1", value:"https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8"},
+             { name:"SCTV2", value:"https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV3", value:"https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8"},
+             { name:"SCTV4", value:"https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8"},
+             { name:"SCTV6", value:"https://livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8"},
+             { name:"SCTV7", value:"https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8"},
+             { name:"SCTV8", value:"https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8"},
+             { name:"SCTV9", value:"https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8"},
+             { name:"SCTV11", value:"https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV12", value:"https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV13", value:"https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8"},
+             { name:"SCTV15", value:"http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8"},
+             { name:"SCTV16", value:"https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8"},
+             { name:"SCTV17", value:"https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV18", value:"https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV19", value:"https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV20", value:"https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8"},
+             { name:"SCTV22", value:"https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8"},
+             { name:"SCTVPhimTH", value:"https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8"},
+             { name:"BTV5", value:"http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8"}
+
+
+
+
+];
+
+function parse_query_string(query) {
+  var vars = query.split("&");
+  var query_string = {};
+  for (var i = 0; i < vars.length; i++) {
+    var pair = vars[i].split("=");
+    var key = decodeURIComponent(pair.shift());
+    var value = decodeURIComponent(pair.join("="));
+    // If first entry with this name
+    if (typeof query_string[key] === "undefined") {
+      query_string[key] = value;
+      // If second entry with this name
+    } else if (typeof query_string[key] === "string") {
+      var arr = [query_string[key], value];
+      query_string[key] = arr;
+      // If third or later entry with this name
+    } else {
+      query_string[key].push(value);
+    }
+  }
+  return query_string;
+}
+
+$(document.body).on('change',"#selectChannel",function (e) {
+   var optVal= $("#selectChannel option:selected").val();
+   console.log(optVal);
+   window.location.replace("?channel="+optVal); 
+})
+
+$(function() {
+	var query = window.location.search.substring(1);
+	var qs = parse_query_string(query);
+	<!-- console.log("qs: " + qs); -->
+	var cn = 'VTV1_1080p';
+	if(qs.hasOwnProperty('channel')) {
+		<!-- console.log("channel: " + qs.channel); -->
+		cn = qs.channel;
+	}
+	let obj = arr.find(o => o.name === cn);
+	<!-- console.log(obj); -->
+	document.title= 'Watch TV ' + obj.name + ' Thanh51_IPTV';
+	document.getElementById("tvsource").src=obj.value;
+	document.getElementById("selectChannel").value=obj.name;
+	var player = videojs('tvplay');
+	player.play();
+	
+});
+</script>
+</header>
+<body>
+<center id="maintv">
+<video id='tvplay' class="video-js" width="1000" height="550" controls autoplay muted>
+<source id='tvsource' type="application/x-mpegURL">
+</video>
+</center>
+<p align="center"> <font color="#2DEF18" face="Tahoma" size="6">Chọn Kênh Để Xem: 
+
+<select id='selectChannel'>
+
+	    <option style="font-size:20px" value="VTV1_1080p">VTV1 1080p</option>
+	    <option style="font-size:20px" value="VTV2_1080p">VTV2 1080p</option>
+	    <option style="font-size:20px" value="VTV3_1080p">VTV3 1080p</option>
+	    <option style="font-size:20px" value="VTV4_1080p">VTV4 1080p</option>
+	    <option style="font-size:20px" value="VTV5_1080p">VTV5 1080p</option>
+	    <option style="font-size:20px" value="VTV6_1080p">VTV6 1080p</option>
+	    <option style="font-size:20px" value="VTV7_1080p">VTV7 1080p</option>
+	    <option style="font-size:20px" value="VTV8_1080p">VTV8 1080p</option>
+	    <option style="font-size:20px" value="VTV9_1080p">VTV9 1080p</option>
+	    <option style="font-size:20px" value="Natgeo_1080p">Natgeo 1080p</option>
+	    <option style="font-size:20px" value="Natgeo Wild_1080p">Natgeo Wild 1080p</option>
+	    <option style="font-size:20px" value="Discovey_1080p">Discovey 1080p</option>
+	    <option style="font-size:20px" value="Discovery Asia_1080p">Discovery Asia 1080p</option>
+	    <option style="font-size:20px" value="BBC Earth_1080p">BBC Earth 1080p</option>
+	    <option style="font-size:20px" value="Animal Planet_1080p">Animal Planet 1080p</option>
+	    <option style="font-size:20px" value="Smithsonian Channel HD">Smithsonian Channel HD</option>
+	    <option style="font-size:20px" value="Известия HD">Известия HD</option>
+	    <option style="font-size:20px" value="Первый Канал HD">Первый Канал HD</option>
+	    <option style="font-size:20px" value="Россия 1 HD">Россия 1 HD</option>
+	    <option style="font-size:20px" value="SCTV1">SCTV1</option>
+	    <option style="font-size:20px" value="SCTV2">SCTV2</option>
+	    <option style="font-size:20px" value="SCTV3">SCTV3</option>
+	    <option style="font-size:20px" value="SCTV4">SCTV4</option>
+	    <option style="font-size:20px" value="SCTV6">SCTV6</option>
+	    <option style="font-size:20px" value="SCTV7">SCTV7</option>
+	    <option style="font-size:20px" value="SCTV8">SCTV8</option>
+	    <option style="font-size:20px" value="SCTV9">SCTV9</option>
+	    <option style="font-size:20px" value="SCTV11">SCTV11</option>
+	    <option style="font-size:20px" value="SCTV12">SCTV12</option>
+	    <option style="font-size:20px" value="SCTV13">SCTV13</option>
+	    <option style="font-size:20px" value="SCTV15">SCTV15</option>
+	    <option style="font-size:20px" value="SCTV16">SCTV16</option>
+	    <option style="font-size:20px" value="SCTV17">SCTV17</option>
+	    <option style="font-size:20px" value="SCTV18">SCTV18</option>
+	    <option style="font-size:20px" value="SCTV19">SCTV19</option>
+	    <option style="font-size:20px" value="SCTV20">SCTV20</option>
+	    <option style="font-size:20px" value="SCTV15">SCTV22</option>
+	    <option style="font-size:20px" value="SCTVPhimTH">SCTVPhimTH</option>
+	    <option style="font-size:20px" value="BTV5">BTV5</option>
+
+
+
+
+
+</select>
+
+
+
+</html>
+
