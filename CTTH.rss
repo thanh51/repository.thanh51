@@ -39,6 +39,14 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/200x200bb.jpg",
       "stations": [
         {
+          "name": "Lịch Thi Đấu",
+          "image": "https://cdn.livesoccertv.com/images/logo55.png",
+          "url": "https://www.livesoccertv.com/channels/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
           "name": "VTV2 HD",
           "url": "http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8",
           "image": "https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png"
