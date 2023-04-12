@@ -123,7 +123,7 @@ udp://@225.1.1.223:30120
 udp://@225.1.1.224:30120
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
-udp://@225.1.2.233:30120
+udp://@225.1.1.112:30120
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX HD
 udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-id="redbyhbohd" group-title="Movies" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
@@ -138,7 +138,7 @@ udp://@225.1.1.139:30120
 udp://@225.1.1.203:30120
 #EXTINF:-1 tvg-id="Blue Ant Extreme" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg",Blue Ant Extreme
 udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-id="KIX" group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
+#EXTINF:-1 tvg-id="KIX" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest?cb=20211017094335&path-prefix=vi",KIX HD
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="divahd" group-title="Movies" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_diva_149759143894.png",Diva Universal
 udp://@225.1.1.199:30120
@@ -152,6 +152,8 @@ udp://@225.1.2.231:30120
 udp://@225.1.2.158:30120
 #EXTINF:-1 tvg-id="Disney Junior_my" group-title="Thiếu Nhi" tvg-logo="http://i.imgur.com/pGJmJmJ.png",Disney Junior
 udp://@225.1.1.233:30120
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXXTUeuRXPFbgTs4Ym9dqAgHFcGDLdnikW6NmRVKA=s900-c-k-c0x00ffffff-no-rj",Boomerang
+udp://@225.1.1.138:30120
 
 #EXTINF:-1 tvg-id="ngchd" group-title="Khám Phá" tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
 udp://@225.1.2.235:30120
