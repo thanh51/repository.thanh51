@@ -2049,7 +2049,7 @@
           "stations": [
             {
               "name": "HBO HD",
-              "url": "udp://@225.1.2.233:30120",
+              "url": "udp://@225.1.1.112:30120",
               "image": "http://i.imgur.com/wEqQSrc.png"
             },
             {
@@ -2121,6 +2121,11 @@
               "name": "National Geographic HD",
               "url": "udp://@225.1.2.235:30120",
               "image": "http://i.imgur.com/z3SVeHB.png"
+            },
+            {
+              "name": "National Geographic Wild HD",
+              "url": "udp://@225.1.1.211:30120",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png"
             },
             {
               "name": "Discovery Asia HD",
