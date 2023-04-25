@@ -739,40 +739,95 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=971711&extensi
 #EXTINF:-1 group-title="28.12.23" tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SD_HDSenderLOutlWEB_mobile.webp",Sportdigital Fussball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411539&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",NatGeo
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",Natgeo US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174762&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",Natgeo Wild US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174764&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174624&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174626&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/06/163218LOGO-590x332.jpg",Discovery Family US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174623&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174543&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpX8fnvV0ROU-nVTEHym323NVqWJsAIthqlkycrGLRzzrMHeE10ApoBKZR0bDm0_6bSmM&usqp=CAU",America Heroes US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174542&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174725&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxObJGD1EvqleAMI3VuaGUMhGzhuamdavs-bGo170oZkSgzBbcAy8GsorLH6wjX2HA8Uw&usqp=CAU",Military History US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174746&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",NatGeo UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30526&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NatGeo Wild
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NatGeo Wild UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30525&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30549&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=45281&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Discovery ID
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Discovery ID UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30551&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=45279&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb78b8954246be1e4/628b40cad5f9386926e648c8/Documentraries-Article-Main-Image-.jpg",Sky Docomentary
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb78b8954246be1e4/628b40cad5f9386926e648c8/Documentraries-Article-Main-Image-.jpg",Sky Docomentary UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=164072&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30534&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/History_2_2019.png/revision/latest/scale-to-width-down/586?cb=20220208080053&path-prefix=vi",History 2
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/History_2_2019.png/revision/latest/scale-to-width-down/586?cb=20220208080053&path-prefix=vi",History 2 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30535&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=30582&extension=ts&play_token=
-#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/800px-DMAX_Logo_16_05_2011.jpg",Dmax
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/800px-DMAX_Logo_16_05_2011.jpg",Dmax UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=164004&extension=ts&play_token=
-
-
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",Natgeo DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411480&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",Natgeo Wild DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411478&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411483&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411482&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/800px-DMAX_Logo_16_05_2011.jpg",Dmax DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411485&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_of_GEO_HD.png",GEO TV DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411340&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411474&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411481&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://img.welt.de/img/mediathek/mobile160096008/5611357847-ci16x9-w1200/N24-Doku-auf-Blau-jpg.jpg",N24 Doku DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411334&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRR5S57ywKD0_Yno5Yi42bnte2SVBcXj2fg&usqp=CAU",Spiegen Geschichte DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411476&extension=ts&play_token=
 
 
