@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 s1
+http://103.82.24.168:5544/play/sport1tn/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 s2
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",K+SPORT2
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE
+http://103.82.24.168:5544/play/life/index.m3u8
+
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",beIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olacast.live/
