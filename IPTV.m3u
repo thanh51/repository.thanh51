@@ -9,6 +9,17 @@ http://103.82.24.168:5544/play/sdsport2/index.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE
 http://103.82.24.168:5544/play/life/index.m3u8
 
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv1.png",Kênh bóng đá & thể thao
+http://103.75.186.169/b4tv/b4tv/1.ts
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv.png",Kênh tổng hợp
+http://103.75.186.169/b4tv/b4tv/5.ts
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv2.png",Kênh phim điện ảnh & series
+http://103.75.186.169/b4tv/b4tv/2.ts
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv3.png",Kênh sự kiện
+http://103.75.186.169/b4tv/b4tv/3.ts
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv4.png",Kênh âm nhạc & cuộc sống
+http://103.75.186.169/b4tv/b4tv/4.ts
+
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",beIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olacast.live/
