@@ -358,6 +358,18 @@ udp://@225.1.1.6:30120
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/7R6Bkfd.png",K+ Kids HD
 udp://@225.1.1.76:30120
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="B4TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0v1pGprr4VvMecMCo7K7p8kJrty2-FlJbf1PLusEYjfjpWDI40sakwMhD06jAdnvZlMw&usqp=CAU",K+ SPORT1
+http://103.75.186.169/b4tv/b4tv/1.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="B4TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0v1pGprr4VvMecMCo7K7p8kJrty2-FlJbf1PLusEYjfjpWDI40sakwMhD06jAdnvZlMw&usqp=CAU",K+ SPORT2
+http://103.75.186.169/b4tv/b4tv/5.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="B4TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0v1pGprr4VvMecMCo7K7p8kJrty2-FlJbf1PLusEYjfjpWDI40sakwMhD06jAdnvZlMw&usqp=CAU",ON Football
+http://103.75.186.169/b4tv/b4tv/3.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="B4TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0v1pGprr4VvMecMCo7K7p8kJrty2-FlJbf1PLusEYjfjpWDI40sakwMhD06jAdnvZlMw&usqp=CAU",ON Sports News
+http://103.75.186.169/b4tv/b4tv/4.m3u8
+#EXTINF:-1 group-title="B4TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0v1pGprr4VvMecMCo7K7p8kJrty2-FlJbf1PLusEYjfjpWDI40sakwMhD06jAdnvZlMw&usqp=CAU",Movies
+http://103.75.186.169/b4tv/b4tv/2.m3u8
+
+
 #EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 1 Eng FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
