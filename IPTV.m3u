@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv.png", B4TV CONNECT(Kênh kết nối bóng đá)
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT1(Kênh kết nối bóng đá)
 http://b4tv.live/b4tv/b4tv/5.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv1.png", B4TV1 (Kênh bóng đá & thể thao)
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT2(Kênh kết nối bóng đá)
+http://b4tv.live/b4tv/b4tv/76.m3u8
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4men.png", B4MEN (Kênh đàn ông đích thực)
 http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv2.png", B4TV2 (Kênh phim điện ảnh & series)
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4box.png", B4BOX (Kênh phim điện ảnh & series)
 http://b4tv.live/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv3.png", B4TV3 (Kênh sự kiện)
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT1 (Kênh sự kiện thể thao)
 http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://live.bep40.shop/b4tv4.png", B4TV4 (Kênh âm nhạc & cuộc sống)
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT2 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT3 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4tube.png", B4TUBE (Kênh giải trí đỉnh cao)
 http://b4tv.live/b4tv/b4tv/4.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",Astro SuperSport 1
