@@ -362,7 +362,7 @@ http://192.168.1.63:8379/udp/225.1.1.132:30120
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg",Smithsonian Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31940&extension=ts&play_token=
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://www.rt.com/static/img/og-logo-rt.png",RT News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8|Referer=https://www.rt.com/
@@ -383,42 +383,53 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium328/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31834&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQiK1W0GsRo4gjkz8gWUd0Sjw1Yxay-51CiCxleKw=s900-c-k-c0x00ffffff-no-rj",National Geographic Wild US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdndac.lol/lb/premium745/index.m3u8|Referer=https://bhqwplay.xyz/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31838&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png",Discovery HD US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium313/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31678&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium294/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31687&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Investigation Discovery US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium324/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31786&extension=ts&play_token=
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/06/163218LOGO-590x332.jpg",Discovery EAST US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=31681&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4a/Discovery_Life_HD_%282019-.n.v.%29.png",Discovery Life US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium311/index.m3u8|Referer=https://widevine.licenses4.me/
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/06/163218LOGO-590x332.jpg",Discovery EAST US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=31681&extension=ts&play_token=
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC US
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31685&extension=ts&play_token=
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/250px-Discovery_Family_logo.svg.png",Discovery Family US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium337/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31684&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium304/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=32071&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History TV US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium322/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31780&extension=ts&play_token=
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwzOiKHVWSR9Wvv0XL7cpjdOlYNJ7E47BaydLf=s900-c-k-c0x00ffffff-no-rj",Travel Channel US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://webudit.cdnbos.lol/lb/premium340/index.m3u8|Referer=https://widevine.licenses4.me/
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=32003&extension=ts&play_token=
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://m.media-amazon.com/images/I/91pQNpwvPnL._AC_UF894,1000_QL80_.jpg",Military History US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=106985&extension=ts&play_token=
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NasaTV US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31829&extension=ts&play_token=
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png",FYI US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=31762&extension=ts&play_token=
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://static.wixstatic.com/media/5406f2_681e2a7c598b4f6b9eb322937b1a11c2~mv2.jpg/v1/fill/w_595,h_299,al_c,q_90/5406f2_681e2a7c598b4f6b9eb322937b1a11c2~mv2.jpg",Nature Time🇨🇵
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true",Clarity 4k🇬🇧
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png", Wild Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
