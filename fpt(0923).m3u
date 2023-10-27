@@ -349,6 +349,31 @@ http://192.168.1.102:8379/udp/225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/iuGGPYy.png",THTPCT HD _ TH TP. Cần Thơ
 http://192.168.1.102:8379/udp/225.1.1.132:30120
 
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://www.liwest.at/fileadmin/uploads/tx_liwestchannels/Love_Nature_4k.png",Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg",Smithsonian Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium601/index.m3u8|Referer=https://bhqwplay.xyz/
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://www.rt.com/static/img/og-logo-rt.png",RT News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8|Referer=https://www.rt.com/
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Iz.tv.logo_news.png/640px-Iz.tv.logo_news.png",Известия HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8|Referer=https://www.1tv.com/
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/wu7O85f.png", Россия 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium328/index.m3u8|Referer=https://bhqwplay.xyz/
