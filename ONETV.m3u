@@ -110,8 +110,6 @@ udp://@225.1.1.139:30120
 
 #EXTINF:-1 group-title="Kid" tvg-id="animaxhd" tvg-logo="https://i.imgur.com/FZQzBOm.png",Animax
 udp://@225.1.1.135:30120
-#EXTINF:-1 group-title="Kid" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/s28XuHs.png",Baby TV HD
-udp://@225.1.2.146:30120
 #EXTINF:-1 group-title="Kid" tvg-id="boomerang" tvg-logo="https://i.imgur.com/oyadNRF.png",BOOMERANG
 udp://@225.1.1.138:30120
 #EXTINF:-1 group-title="Kid" tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK HD
@@ -121,10 +119,6 @@ udp://@225.1.1.136:30120
 #EXTINF:-1 group-title="Kid" tvg-id="cbeebies" tvg-logo="https://i.imgur.com/YFnyJFG.png",BBC CbeeBies
 udp://@225.1.1.134:30120
 
-#EXTINF:-1 group-title="Documentary" tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png",NATIONAL GEOGRAPHIC HD
-udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="Documentary" tvg-id="ngwhd" tvg-logo="https://i.imgur.com/D9apec6.png",NAT GEO WILD
-udp://@225.1.1.211:30120
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia HD
 udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel HD
@@ -360,20 +354,5 @@ udp://@225.1.1.6:30120
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/7R6Bkfd.png",K+ Kids HD
 udp://@225.1.1.76:30120
 
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT1(Kênh kết nối bóng đá)
-http://b4tv.live/b4tv/b4tv/5.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT2(Kênh kết nối bóng đá)
-http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4men.png", B4MEN (Kênh đàn ông đích thực)
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4box.png", B4BOX (Kênh phim điện ảnh & series)
-http://b4tv.live/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT1 (Kênh sự kiện thể thao)
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT2 (Kênh sự kiện thể thao)
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT3 (Kênh sự kiện thể thao)
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4tube.png", B4TUBE (Kênh giải trí đỉnh cao)
-http://b4tv.live/b4tv/b4tv/4.m3u8
+
 
