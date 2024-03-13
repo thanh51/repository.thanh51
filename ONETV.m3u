@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml" Thanh51
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" Thanh51
 
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 HD
@@ -21,6 +21,8 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/h0TbyJd.png",VTV5 Tây Nam Bộ HD
 udp://@225.1.2.236:30120
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/h0TbyJd.png",VTV5 Tay Nguyen HD
+udp://@225.1.1.108:30120
 #EXTINF:-1 group-title="VTV" tvg-id="antvhd" tvg-logo="https://i.imgur.com/5qQzerW.png",ANTV - An Ninh TV HD
 udp://@225.1.2.169:30120
 #EXTINF:-1 group-title="VTV" tvg-id="nhandan" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV HD
@@ -30,8 +32,8 @@ udp://@225.1.2.148:30120
 #EXTINF:-1 group-title="VTV" tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPTV - Quốc Phòng VN HD
 udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="VTV" tvg-id="ttxvnhd" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",TTXVN - Thông Tấn Xã VN HD
-udp://@225.1.1.43:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+udp://@225.1.1.167:30120
+#EXTINF:-1 group-title="VTV" tvg-id="vovtvhd" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
 
 #EXTINF:-1 group-title="VTC" tvg-id="vtc1hd" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
